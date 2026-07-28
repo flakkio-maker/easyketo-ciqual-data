@@ -1,4 +1,4 @@
-# Dataset CIQUAL 2025 — convertito per App Cheto
+# Dataset CIQUAL 2025 — convertito per EasyKeto
 
 `ciqual_2025.json` è ricavato dalla Table Ciqual 2025 (ANSES, Agence
 nationale de sécurité sanitaire de l'alimentation, de l'environnement et du
@@ -21,10 +21,16 @@ ogni alimento sono stati estratti i cinque costituenti necessari all'app:
 | `calorie` | Energie, Règlement UE N° 1169/2011 (kcal/100 g) | 328 |
 
 Note sulla conversione:
-- Nomi alimenti in **inglese** (`alim_nom_eng`), non in francese né tradotti
-  in italiano: sono le traduzioni ufficiali fornite da ANSES nello stesso
-  file sorgente, per evitare il rischio di una traduzione italiana
-  approssimativa fatta a mano su 3.484 voci senza revisione umana.
+- Nomi alimenti in **inglese** (`nome`, da `alim_nom_eng`): sono le traduzioni
+  ufficiali fornite da ANSES nello stesso file sorgente, usate come nome
+  canonico/fallback per tutte le lingue.
+- Nomi alimenti in **italiano** (`nome_it`): traduzione manuale di tutti i
+  3.323 nomi inglesi sopra, aggiunta successivamente su richiesta esplicita
+  (nessuna traduzione ufficiale ANSES disponibile in italiano). Usata in UI
+  quando la lingua del dispositivo è italiano, con fallback su `nome` se
+  mancante (vedi `RemoteRepositories.kt`, `nomeVisualizzato`). Non è una
+  traduzione certificata ANSES: qualità "best effort", da rivedere se emergono
+  imprecisioni in uso reale.
 - Valori "traces" (quantità rilevata ma non quantificabile con precisione)
   sono mappati a `0.0`. Diverso da "-" (dato non determinato per
   quell'alimento), che resta un valore assente e fa scartare l'alimento se
