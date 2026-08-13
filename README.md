@@ -31,6 +31,19 @@ Note sulla conversione:
   mancante (vedi `RemoteRepositories.kt`, `nomeVisualizzato`). Non è una
   traduzione certificata ANSES: qualità "best effort", da rivedere se emergono
   imprecisioni in uso reale.
+- Nomi alimenti in **inglese curato** (`nome_en`), **francese** (`nome_fr`),
+  **spagnolo** (`nome_es`) e **tedesco** (`nome_de`): stessa logica di
+  `nome_it` sopra, aggiunti insieme (12 agosto 2026, task #236 dell'app) per
+  coprire tutte le lingue di sistema supportate. `nome_en` è DISTINTO dal
+  campo `nome`: quest'ultimo resta il nome ufficiale ANSES grezzo (a volte
+  tecnico/asciutto, usato come fallback ultimo se manca tutto il resto),
+  mentre `nome_en` è una traduzione curata con lo stesso stile naturale delle
+  altre lingue — per la maggior parte delle voci coincide con `nome` quando
+  quest'ultimo era già naturale, ma non sempre (alcuni refusi/imprecisioni del
+  dato sorgente ANSES sono stati corretti solo in `nome_en`, mai in `nome`).
+  La lingua mostrata all'utente segue la lingua di sistema del dispositivo,
+  con fallback su `nome` se mancano sia la lingua richiesta sia l'inglese
+  (vedi `scegliTraduzioneAlimento`, `TraduzioneAlimentoUseCase.kt`).
 - Valori "traces" (quantità rilevata ma non quantificabile con precisione)
   sono mappati a `0.0`. Diverso da "-" (dato non determinato per
   quell'alimento), che resta un valore assente e fa scartare l'alimento se

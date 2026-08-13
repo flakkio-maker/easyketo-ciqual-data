@@ -33,7 +33,8 @@ preparazione/ingredienti, collegate per `food_code`). Script:
 
 | Campo app | Campo CREA | Note |
 |---|---|---|
-| `nome` | `name` | Già in italiano — CREA è un dataset nativo italiano |
+| `nome` | `name` | Già in italiano — CREA è un dataset nativo italiano, resta il campo canonico/fallback |
+| `nome_en` / `nome_fr` / `nome_es` / `nome_de` | — | Traduzioni aggiunte il 12 agosto 2026 (task #236 dell'app, stesso principio di `nome_it` in CIQUAL — a differenza di CIQUAL, qui non esisteva alcuna colonna tradotta prima). La lingua mostrata all'utente segue quella di sistema del dispositivo, con fallback su `nome` (vedi `scegliTraduzioneAlimento`, `TraduzioneAlimentoUseCase.kt` nel repo principale) |
 | `food_code` | `food_code` | Codice CREA originale, stabile tra le versioni |
 | `categoria` | `category` | 19 categorie native (elenco sotto) |
 | `carboidrati_disponibili` | `available_carbohydrates` | Standard EU, già netto di fibre — mapping diretto, stesso principio di CIQUAL |
