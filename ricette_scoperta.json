@@ -17361,8 +17361,7 @@
   "fonte": "originale",
   "licenza_fonte": null,
   "tipo_pasto": [
-   "cena",
-   "pranzo"
+   "colazione"
   ],
   "cucina": [
    "inglese"
@@ -18042,5 +18041,6069 @@
    }
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Sogliola al burro' (cucina inglese, ingredienti principali: sogliola comune cruda, burro, limone, prezzemolo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 342,
+  "nome": "Pollo al limone alla cinese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 215.0,
+  "kcal_porzione": 230.2,
+  "carbo_porzione": 0.6,
+  "grassi_porzione": 6.6,
+  "proteine_porzione": 41.6,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "limone",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al limone alla cinese' (cucina cinese, ingredienti principali: pollo petto crudo, limone, salsa di soia, zenzero, olio di sesamo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 343,
+  "nome": "Manzo con germogli di soia e peperoni",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 347.0,
+  "kcal_porzione": 317.3,
+  "carbo_porzione": 5.5,
+  "grassi_porzione": 14.4,
+  "proteine_porzione": 41.0,
+  "ingredienti": [
+   {
+    "nome": "manzo spalla cruda",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, spalla, cruda"
+   },
+   {
+    "nome": "germogli di soia",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Fagiolo mung, germogliato, crudo"
+   },
+   {
+    "nome": "peperone verde giallo rosso crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperone, verde, giallo o rosso, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Manzo con germogli di soia e peperoni' (cucina cinese, ingredienti principali: manzo spalla cruda, germogli di soia, peperone verde giallo rosso crudo, salsa di soia, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 344,
+  "nome": "Gamberi saltati con germogli di bambù",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 270.5,
+  "kcal_porzione": 217.4,
+  "carbo_porzione": 5.4,
+  "grassi_porzione": 7.0,
+  "proteine_porzione": 32.0,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "germogli di bambù",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Germogli di bambù, crudi"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi saltati con germogli di bambù' (cucina cinese, ingredienti principali: gamberetto grigio bollito, germogli di bambù, cipolline crude, salsa di soia, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 345,
+  "nome": "Tofu saltato con verdure",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 344.0,
+  "kcal_porzione": 321.9,
+  "carbo_porzione": 10.7,
+  "grassi_porzione": 19.5,
+  "proteine_porzione": 22.9,
+  "ingredienti": [
+   {
+    "nome": "tofu",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Tofu, naturale, confezionato"
+   },
+   {
+    "nome": "peperone verde giallo rosso crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperone, verde, giallo o rosso, crudo"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "funghi champignon",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Champignon o fungo coltivato, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tofu saltato con verdure' (cucina cinese, ingredienti principali: tofu, peperone verde giallo rosso crudo, carota cruda, funghi champignon, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 346,
+  "nome": "Maiale in agrodolce",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 323.0,
+  "kcal_porzione": 388.1,
+  "carbo_porzione": 5.3,
+  "grassi_porzione": 25.1,
+  "proteine_porzione": 34.5,
+  "ingredienti": [
+   {
+    "nome": "maiale spalla cruda",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Maiale, spalla, cruda"
+   },
+   {
+    "nome": "peperone verde giallo rosso crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperone, verde, giallo o rosso, crudo"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "aceto di vino rosso",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Aceto di vino rosso"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Maiale in agrodolce' (cucina cinese, ingredienti principali: maiale spalla cruda, peperone verde giallo rosso crudo, pomodoro crudo media, aceto di vino rosso, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 347,
+  "nome": "Riso alla cantonese con uovo",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 298.0,
+  "kcal_porzione": 683.3,
+  "carbo_porzione": 123.5,
+  "grassi_porzione": 11.6,
+  "proteine_porzione": 27.7,
+  "ingredienti": [
+   {
+    "nome": "riso brillato",
+    "grammi": 300.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Riso, brillato"
+   },
+   {
+    "nome": "uovo crudo",
+    "grammi": 110.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Riso alla cantonese con uovo' (cucina cinese, ingredienti principali: riso brillato, uovo crudo, cipolline crude, gamberetto grigio bollito, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 348,
+  "nome": "Zuppa di miso con tofu",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 355.5,
+  "kcal_porzione": 156.7,
+  "carbo_porzione": 7.4,
+  "grassi_porzione": 7.7,
+  "proteine_porzione": 12.8,
+  "ingredienti": [
+   {
+    "nome": "tofu",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Tofu, naturale, confezionato"
+   },
+   {
+    "nome": "miso",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Miso"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 30.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "brodo dado vegetale disidratato ricostituito",
+    "grammi": 500.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Brodo o dado, vegetale, disidratato e ricostituito"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Zuppa di miso con tofu' (cucina cinese, ingredienti principali: tofu, miso, cipolline crude, brodo dado vegetale disidratato ricostituito, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 349,
+  "nome": "Involtini di lattuga con pollo alla cinese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 255.5,
+  "kcal_porzione": 225.1,
+  "carbo_porzione": 4.0,
+  "grassi_porzione": 6.7,
+  "proteine_porzione": 37.1,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 300.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "germogli di soia",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Fagiolo mung, germogliato, crudo"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtini di lattuga con pollo alla cinese' (cucina cinese, ingredienti principali: pollo petto crudo, germogli di soia, carota cruda, salsa di soia, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 350,
+  "nome": "Involtino primavera con verdure e gamberi (senza frittura)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 277.0,
+  "kcal_porzione": 205.0,
+  "carbo_porzione": 15.3,
+  "grassi_porzione": 6.0,
+  "proteine_porzione": 22.9,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "germogli di soia",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Fagiolo mung, germogliato, crudo"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "vermicelli di riso",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Vermicelli di riso, secchi, cotti, senza sale aggiunto"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtino primavera con verdure e gamberi (senza frittura)' (cucina cinese, ingredienti principali: gamberetto grigio bollito, germogli di soia, carota cruda, vermicelli di riso, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 351,
+  "nome": "Pollo alle mandorle alla cinese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 265.5,
+  "kcal_porzione": 388.9,
+  "carbo_porzione": 4.3,
+  "grassi_porzione": 19.4,
+  "proteine_porzione": 46.4,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "mandorle",
+    "grammi": 50.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Mandorla, con pelle, senza sale aggiunto"
+   },
+   {
+    "nome": "peperone verde giallo rosso crudo",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperone, verde, giallo o rosso, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo alle mandorle alla cinese' (cucina cinese, ingredienti principali: pollo petto crudo, mandorle, peperone verde giallo rosso crudo, salsa di soia, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 352,
+  "nome": "Manzo alla piastra con salsa di soia e sesamo (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 166.0,
+  "kcal_porzione": 244.0,
+  "carbo_porzione": 0.2,
+  "grassi_porzione": 12.5,
+  "proteine_porzione": 32.8,
+  "ingredienti": [
+   {
+    "nome": "manzo spalla cruda",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, spalla, cruda"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Manzo alla piastra con salsa di soia e sesamo (spuntino)' (cucina cinese, ingredienti principali: manzo spalla cruda, salsa di soia, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 353,
+  "nome": "Frittata di uova alla cinese con cipollotto",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 149.5,
+  "kcal_porzione": 204.6,
+  "carbo_porzione": 2.7,
+  "grassi_porzione": 14.9,
+  "proteine_porzione": 14.8,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 220.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Frittata di uova alla cinese con cipollotto' (cucina cinese, ingredienti principali: uovo crudo, cipolline crude, salsa di soia, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 354,
+  "nome": "Zuppa di pollo e zenzero alla cinese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 438.5,
+  "kcal_porzione": 162.6,
+  "carbo_porzione": 3.6,
+  "grassi_porzione": 1.7,
+  "proteine_porzione": 33.0,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 250.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "brodo dado pollame disidratato ricostituito",
+    "grammi": 500.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Brodo o dado, di pollame, disidratato e ricostituito"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Zuppa di pollo e zenzero alla cinese' (cucina cinese, ingredienti principali: pollo petto crudo, zenzero, carota cruda, brodo dado pollame disidratato ricostituito, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 355,
+  "nome": "Anatra alla cinese con verdure",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 202.0,
+  "kcal_porzione": 303.1,
+  "carbo_porzione": 3.7,
+  "grassi_porzione": 13.7,
+  "proteine_porzione": 41.2,
+  "ingredienti": [
+   {
+    "nome": "anatra magret petto alla griglia in padella",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Anatra, magret (petto), alla griglia/in padella"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 80.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Anatra alla cinese con verdure' (cucina cinese, ingredienti principali: anatra magret petto alla griglia in padella, cipolline crude, salsa di soia, zenzero, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 356,
+  "nome": "Merluzzo al vapore con zenzero e soia",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 212.0,
+  "kcal_porzione": 224.1,
+  "carbo_porzione": 2.0,
+  "grassi_porzione": 5.4,
+  "proteine_porzione": 41.6,
+  "ingredienti": [
+   {
+    "nome": "merluzzo cotto media",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Merluzzo, cotto (media)"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo al vapore con zenzero e soia' (cucina cinese, ingredienti principali: merluzzo cotto media, zenzero, cipolline crude, salsa di soia, olio di sesamo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 357,
+  "nome": "Salmone teriyaki",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 194.5,
+  "kcal_porzione": 379.6,
+  "carbo_porzione": 0.3,
+  "grassi_porzione": 25.8,
+  "proteine_porzione": 36.8,
+  "ingredienti": [
+   {
+    "nome": "salmone crudo allevamento",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salmone, crudo, d'allevamento"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 25.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Salmone teriyaki' (cucina giapponese, ingredienti principali: salmone crudo allevamento, salsa di soia, zenzero, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 358,
+  "nome": "Tonno scottato alla giapponese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 168.0,
+  "kcal_porzione": 264.3,
+  "carbo_porzione": 0.3,
+  "grassi_porzione": 11.0,
+  "proteine_porzione": 41.0,
+  "ingredienti": [
+   {
+    "nome": "tonno scatola naturale sgocciolato",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Tonno, in scatola al naturale, sgocciolato"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tonno scottato alla giapponese' (cucina giapponese, ingredienti principali: tonno scatola naturale sgocciolato, salsa di soia, zenzero, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 359,
+  "nome": "Pollo teriyaki",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 194.5,
+  "kcal_porzione": 216.8,
+  "carbo_porzione": 0.3,
+  "grassi_porzione": 5.5,
+  "proteine_porzione": 41.7,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 25.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo teriyaki' (cucina giapponese, ingredienti principali: pollo petto crudo, salsa di soia, zenzero, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 360,
+  "nome": "Tonkatsu (maiale impanato) con cavolo",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 273.5,
+  "kcal_porzione": 339.2,
+  "carbo_porzione": 13.8,
+  "grassi_porzione": 14.2,
+  "proteine_porzione": 38.2,
+  "ingredienti": [
+   {
+    "nome": "maiale filetto mignon crudo",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Maiale, filetto (mignon), crudo"
+   },
+   {
+    "nome": "pangrattato",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pangrattato"
+   },
+   {
+    "nome": "uovo crudo",
+    "grammi": 55.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "cavolo cappuccio crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cavolo cappuccio, rosso, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tonkatsu (maiale impanato) con cavolo' (cucina giapponese, ingredienti principali: maiale filetto mignon crudo, pangrattato, uovo crudo, cavolo cappuccio crudo, olio di sesamo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 361,
+  "nome": "Riso con salmone e nori",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 235.5,
+  "kcal_porzione": 619.9,
+  "carbo_porzione": 100.9,
+  "grassi_porzione": 13.0,
+  "proteine_porzione": 30.2,
+  "ingredienti": [
+   {
+    "nome": "riso brillato",
+    "grammi": 250.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Riso, brillato"
+   },
+   {
+    "nome": "salmone crudo allevamento",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salmone, crudo, d'allevamento"
+   },
+   {
+    "nome": "nori",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Nori (Porphyra sp.), essiccata o disidratata"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Riso con salmone e nori' (cucina giapponese, ingredienti principali: riso brillato, salmone crudo allevamento, nori, salsa di soia, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 362,
+  "nome": "Zuppa di miso con alghe e tofu",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 347.0,
+  "kcal_porzione": 163.7,
+  "carbo_porzione": 7.2,
+  "grassi_porzione": 8.0,
+  "proteine_porzione": 13.7,
+  "ingredienti": [
+   {
+    "nome": "miso",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Miso"
+   },
+   {
+    "nome": "tofu",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Tofu, naturale, confezionato"
+   },
+   {
+    "nome": "nori",
+    "grammi": 3.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Nori (Porphyra sp.), essiccata o disidratata"
+   },
+   {
+    "nome": "brodo dado vegetale disidratato ricostituito",
+    "grammi": 500.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Brodo o dado, vegetale, disidratato e ricostituito"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Zuppa di miso con alghe e tofu' (cucina giapponese, ingredienti principali: miso, tofu, nori, brodo dado vegetale disidratato ricostituito, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 363,
+  "nome": "Tamagoyaki (omelette giapponese)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 179.0,
+  "kcal_porzione": 279.2,
+  "carbo_porzione": 0.2,
+  "grassi_porzione": 21.3,
+  "proteine_porzione": 21.7,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 165.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tamagoyaki (omelette giapponese)' (cucina giapponese, ingredienti principali: uovo crudo, salsa di soia, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 364,
+  "nome": "Gamberi in tempura leggera (senza frittura)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 163.0,
+  "kcal_porzione": 159.8,
+  "carbo_porzione": 0.9,
+  "grassi_porzione": 4.2,
+  "proteine_porzione": 29.5,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "limone",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi in tempura leggera (senza frittura)' (cucina giapponese, ingredienti principali: gamberetto grigio bollito, salsa di soia, limone, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 365,
+  "nome": "Sgombro alla griglia alla giapponese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 166.0,
+  "kcal_porzione": 294.3,
+  "carbo_porzione": 0.2,
+  "grassi_porzione": 18.7,
+  "proteine_porzione": 31.3,
+  "ingredienti": [
+   {
+    "nome": "salmone crudo allevamento",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salmone, crudo, d'allevamento"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "limone",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Sgombro alla griglia alla giapponese' (cucina giapponese, ingredienti principali: salmone crudo allevamento, salsa di soia, limone, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 366,
+  "nome": "Manzo alla piastra con salsa di soia (Yakiniku)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 223.0,
+  "kcal_porzione": 289.9,
+  "carbo_porzione": 2.8,
+  "grassi_porzione": 13.8,
+  "proteine_porzione": 38.6,
+  "ingredienti": [
+   {
+    "nome": "manzo spalla cruda",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, spalla, cruda"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Manzo alla piastra con salsa di soia (Yakiniku)' (cucina giapponese, ingredienti principali: manzo spalla cruda, salsa di soia, zenzero, olio di sesamo, cipolline crude), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 367,
+  "nome": "Insalata di cetrioli alla giapponese (Sunomono)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 137.0,
+  "kcal_porzione": 51.4,
+  "carbo_porzione": 2.8,
+  "grassi_porzione": 4.6,
+  "proteine_porzione": 0.7,
+  "ingredienti": [
+   {
+    "nome": "cetriolo polpa senza buccia crudo",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cetriolo, polpa senza buccia, crudo"
+   },
+   {
+    "nome": "aceto di vino rosso",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Aceto di vino rosso"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata di cetrioli alla giapponese (Sunomono)' (cucina giapponese, ingredienti principali: cetriolo polpa senza buccia crudo, aceto di vino rosso, olio di sesamo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 368,
+  "nome": "Edamame al sale",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 101.5,
+  "kcal_porzione": 81.2,
+  "carbo_porzione": 11.4,
+  "grassi_porzione": 0.4,
+  "proteine_porzione": 5.4,
+  "ingredienti": [
+   {
+    "nome": "piselli crudi",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Piselli, crudi"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Edamame al sale' (cucina giapponese, ingredienti principali: piselli crudi, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 369,
+  "nome": "Pollo al curry alla giapponese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 405.0,
+  "kcal_porzione": 269.3,
+  "carbo_porzione": 15.1,
+  "grassi_porzione": 2.4,
+  "proteine_porzione": 44.5,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "patata sbucciata cruda",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Patata, sbucciata, cruda"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "brodo dado pollame disidratato ricostituito",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Brodo o dado, di pollame, disidratato e ricostituito"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry alla giapponese' (cucina giapponese, ingredienti principali: pollo petto crudo, carota cruda, patata sbucciata cruda, curry in polvere, brodo dado pollame disidratato ricostituito), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 370,
+  "nome": "Yogurt con frutti di bosco alla giapponese (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "giapponese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 280.0,
+  "kcal_porzione": 170.8,
+  "carbo_porzione": 20.2,
+  "grassi_porzione": 4.9,
+  "proteine_porzione": 8.6,
+  "ingredienti": [
+   {
+    "nome": "yogurt bianco",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Yogurt o latte fermentato, naturale (media)"
+   },
+   {
+    "nome": "mirtillo crudo",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Mirtillo, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 0.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Yogurt con frutti di bosco alla giapponese (colazione)' (cucina giapponese, ingredienti principali: yogurt bianco, mirtillo crudo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 371,
+  "nome": "Pollo al curry (Chicken curry)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 347.7,
+  "kcal_porzione": 353.9,
+  "carbo_porzione": 7.5,
+  "grassi_porzione": 17.2,
+  "proteine_porzione": 41.4,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 500.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "latte di cocco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Latte di cocco"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry (Chicken curry)' (cucina indiana, ingredienti principali: pollo petto crudo, pomodoro crudo media, cipolla cruda, latte di cocco, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 372,
+  "nome": "Agnello al curry (Lamb curry)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 297.7,
+  "kcal_porzione": 301.1,
+  "carbo_porzione": 6.2,
+  "grassi_porzione": 14.8,
+  "proteine_porzione": 35.0,
+  "ingredienti": [
+   {
+    "nome": "agnello coscia cruda",
+    "grammi": 500.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Agnello, coscia, cruda"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Agnello al curry (Lamb curry)' (cucina indiana, ingredienti principali: agnello coscia cruda, pomodoro crudo media, cipolla cruda, curry in polvere, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 373,
+  "nome": "Pollo al burro (Butter chicken)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 297.0,
+  "kcal_porzione": 325.1,
+  "carbo_porzione": 4.6,
+  "grassi_porzione": 15.8,
+  "proteine_porzione": 40.7,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 500.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "panna fresca",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Panna e simili, contenuto di grassi sconosciuto, liquida (media)"
+   },
+   {
+    "nome": "burro",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al burro (Butter chicken)' (cucina indiana, ingredienti principali: pollo petto crudo, pomodoro crudo media, panna fresca, burro, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 374,
+  "nome": "Dal di lenticchie",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 193.7,
+  "kcal_porzione": 395.5,
+  "carbo_porzione": 55.1,
+  "grassi_porzione": 6.8,
+  "proteine_porzione": 23.9,
+  "ingredienti": [
+   {
+    "nome": "lenticchie",
+    "grammi": 300.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Lenticchie, secche"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Dal di lenticchie' (cucina indiana, ingredienti principali: lenticchie, cipolla cruda, pomodoro crudo media, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 375,
+  "nome": "Spinaci con paneer (Palak paneer, con ricotta)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 338.5,
+  "kcal_porzione": 281.2,
+  "carbo_porzione": 10.8,
+  "grassi_porzione": 18.4,
+  "proteine_porzione": 14.6,
+  "ingredienti": [
+   {
+    "nome": "spinaci crudi",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Spinaci, crudi"
+   },
+   {
+    "nome": "ricotta",
+    "grammi": 200.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Ricotta di vacca"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Spinaci con paneer (Palak paneer, con ricotta)' (cucina indiana, ingredienti principali: spinaci crudi, ricotta, pomodoro crudo media, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 376,
+  "nome": "Gamberi al curry con latte di cocco",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 283.5,
+  "kcal_porzione": 308.8,
+  "carbo_porzione": 6.0,
+  "grassi_porzione": 17.0,
+  "proteine_porzione": 31.6,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "latte di cocco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Latte di cocco"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi al curry con latte di cocco' (cucina indiana, ingredienti principali: gamberetto grigio bollito, latte di cocco, pomodoro crudo media, curry in polvere, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 377,
+  "nome": "Ceci al curry (Chana masala)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 244.3,
+  "kcal_porzione": 279.0,
+  "carbo_porzione": 28.2,
+  "grassi_porzione": 10.0,
+  "proteine_porzione": 12.5,
+  "ingredienti": [
+   {
+    "nome": "ceci bolliti in acqua",
+    "grammi": 400.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Ceci, bolliti in acqua"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Ceci al curry (Chana masala)' (cucina indiana, ingredienti principali: ceci bolliti in acqua, pomodoro crudo media, cipolla cruda, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 378,
+  "nome": "Yogurt speziato all'indiana con cetriolo (Raita)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 202.0,
+  "kcal_porzione": 90.7,
+  "carbo_porzione": 9.0,
+  "grassi_porzione": 3.5,
+  "proteine_porzione": 5.6,
+  "ingredienti": [
+   {
+    "nome": "yogurt bianco",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Yogurt o latte fermentato, naturale (media)"
+   },
+   {
+    "nome": "cetriolo polpa senza buccia crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cetriolo, polpa senza buccia, crudo"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 3.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Yogurt speziato all'indiana con cetriolo (Raita)' (cucina indiana, ingredienti principali: yogurt bianco, cetriolo polpa senza buccia crudo, curry in polvere, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 379,
+  "nome": "Tandoori chicken (pollo speziato al forno)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 232.0,
+  "kcal_porzione": 211.2,
+  "carbo_porzione": 3.2,
+  "grassi_porzione": 3.0,
+  "proteine_porzione": 41.5,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 500.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "yogurt bianco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Yogurt o latte fermentato, naturale (media)"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "limone",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tandoori chicken (pollo speziato al forno)' (cucina indiana, ingredienti principali: pollo petto crudo, yogurt bianco, curry in polvere, zenzero, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 380,
+  "nome": "Riso basmati con verdure e curry",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 174.7,
+  "kcal_porzione": 422.1,
+  "carbo_porzione": 86.0,
+  "grassi_porzione": 6.0,
+  "proteine_porzione": 9.1,
+  "ingredienti": [
+   {
+    "nome": "riso brillato",
+    "grammi": 300.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Riso, brillato"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "piselli crudi",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Piselli, crudi"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 6.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Riso basmati con verdure e curry' (cucina indiana, ingredienti principali: riso brillato, carota cruda, piselli crudi, curry in polvere, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 381,
+  "nome": "Uova speziate all'indiana (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 257.0,
+  "kcal_porzione": 327.3,
+  "carbo_porzione": 3.1,
+  "grassi_porzione": 25.0,
+  "proteine_porzione": 22.1,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 165.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 3.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova speziate all'indiana (colazione)' (cucina indiana, ingredienti principali: uovo crudo, pomodoro crudo media, curry in polvere, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 382,
+  "nome": "Pollo tikka alla griglia (spuntino proteico)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 204.0,
+  "kcal_porzione": 186.4,
+  "carbo_porzione": 2.6,
+  "grassi_porzione": 2.6,
+  "proteine_porzione": 37.0,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "yogurt bianco",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Yogurt o latte fermentato, naturale (media)"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 3.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "limone",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo tikka alla griglia (spuntino proteico)' (cucina indiana, ingredienti principali: pollo petto crudo, yogurt bianco, curry in polvere, limone, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 383,
+  "nome": "Pollo al curry rosso thailandese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 308.5,
+  "kcal_porzione": 350.6,
+  "carbo_porzione": 5.1,
+  "grassi_porzione": 16.6,
+  "proteine_porzione": 43.4,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "latte di cocco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Latte di cocco"
+   },
+   {
+    "nome": "peperone verde giallo rosso crudo",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperone, verde, giallo o rosso, crudo"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "basilico",
+    "grammi": 5.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry rosso thailandese' (cucina thailandese, ingredienti principali: pollo petto crudo, latte di cocco, peperone verde giallo rosso crudo, curry in polvere, basilico), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 384,
+  "nome": "Gamberi al curry verde thailandese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 282.5,
+  "kcal_porzione": 306.8,
+  "carbo_porzione": 5.4,
+  "grassi_porzione": 16.7,
+  "proteine_porzione": 31.6,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "latte di cocco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Latte di cocco"
+   },
+   {
+    "nome": "melanzana cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Melanzana, cruda"
+   },
+   {
+    "nome": "curry in polvere",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Curry, in polvere"
+   },
+   {
+    "nome": "basilico",
+    "grammi": 5.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi al curry verde thailandese' (cucina thailandese, ingredienti principali: gamberetto grigio bollito, latte di cocco, melanzana cruda, curry in polvere, basilico), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 385,
+  "nome": "Manzo piccante con basilico thailandese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 198.0,
+  "kcal_porzione": 279.9,
+  "carbo_porzione": 0.8,
+  "grassi_porzione": 13.7,
+  "proteine_porzione": 38.4,
+  "ingredienti": [
+   {
+    "nome": "manzo spalla cruda",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, spalla, cruda"
+   },
+   {
+    "nome": "basilico",
+    "grammi": 10.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "peperoncino",
+    "grammi": 5.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Manzo piccante con basilico thailandese' (cucina thailandese, ingredienti principali: manzo spalla cruda, basilico, peperoncino, salsa di pesce, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 386,
+  "nome": "Insalata di pollo alla thailandese (Larb)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 199.5,
+  "kcal_porzione": 171.7,
+  "carbo_porzione": 3.0,
+  "grassi_porzione": 1.4,
+  "proteine_porzione": 36.1,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 300.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "lime",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lime, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "peperoncino",
+    "grammi": 3.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 60.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata di pollo alla thailandese (Larb)' (cucina thailandese, ingredienti principali: pollo petto crudo, lime, salsa di pesce, peperoncino, cipolla cruda), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 387,
+  "nome": "Zuppa di gamberi piccante (Tom yum)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 469.5,
+  "kcal_porzione": 149.5,
+  "carbo_porzione": 4.4,
+  "grassi_porzione": 2.1,
+  "proteine_porzione": 27.5,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "funghi champignon",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Champignon o fungo coltivato, crudo"
+   },
+   {
+    "nome": "lime",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lime, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "peperoncino",
+    "grammi": 3.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "brodo dado vegetale disidratato ricostituito",
+    "grammi": 500.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Brodo o dado, vegetale, disidratato e ricostituito"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Zuppa di gamberi piccante (Tom yum)' (cucina thailandese, ingredienti principali: gamberetto grigio bollito, funghi champignon, lime, salsa di pesce, peperoncino), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 388,
+  "nome": "Zuppa di pollo al cocco (Tom kha gai)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 312.5,
+  "kcal_porzione": 363.8,
+  "carbo_porzione": 5.6,
+  "grassi_porzione": 20.6,
+  "proteine_porzione": 38.1,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 300.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "latte di cocco",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Latte di cocco"
+   },
+   {
+    "nome": "funghi champignon",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Champignon o fungo coltivato, crudo"
+   },
+   {
+    "nome": "lime",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lime, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Zuppa di pollo al cocco (Tom kha gai)' (cucina thailandese, ingredienti principali: pollo petto crudo, latte di cocco, funghi champignon, lime, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 389,
+  "nome": "Maiale alla griglia alla thailandese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 198.0,
+  "kcal_porzione": 270.6,
+  "carbo_porzione": 1.8,
+  "grassi_porzione": 12.2,
+  "proteine_porzione": 38.1,
+  "ingredienti": [
+   {
+    "nome": "maiale filetto mignon crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Maiale, filetto (mignon), crudo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "lime",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lime, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Maiale alla griglia alla thailandese' (cucina thailandese, ingredienti principali: maiale filetto mignon crudo, salsa di pesce, aglio, lime, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 390,
+  "nome": "Insalata di papaia piccante (con carote, versione adattata)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 162.0,
+  "kcal_porzione": 170.3,
+  "carbo_porzione": 10.3,
+  "grassi_porzione": 10.5,
+  "proteine_porzione": 6.1,
+  "ingredienti": [
+   {
+    "nome": "carota cruda",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "arachidi",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Arachide, senza sale aggiunto"
+   },
+   {
+    "nome": "lime",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lime, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "peperoncino",
+    "grammi": 3.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata di papaia piccante (con carote, versione adattata)' (cucina thailandese, ingredienti principali: carota cruda, arachidi, lime, salsa di pesce, peperoncino), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 391,
+  "nome": "Involtini di lattuga con gamberi alla thailandese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 178.0,
+  "kcal_porzione": 190.1,
+  "carbo_porzione": 4.4,
+  "grassi_porzione": 6.5,
+  "proteine_porzione": 27.3,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 60.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "lime",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lime, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "arachidi",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Arachide, senza sale aggiunto"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtini di lattuga con gamberi alla thailandese' (cucina thailandese, ingredienti principali: gamberetto grigio bollito, carota cruda, lime, salsa di pesce, arachidi), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 392,
+  "nome": "Uova al vapore alla thailandese (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 204.0,
+  "kcal_porzione": 250.1,
+  "carbo_porzione": 3.5,
+  "grassi_porzione": 16.2,
+  "proteine_porzione": 22.3,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 165.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "cipolline crude",
+    "grammi": 30.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Cipolline, crude"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova al vapore alla thailandese (colazione)' (cucina thailandese, ingredienti principali: uovo crudo, salsa di pesce, cipolline crude, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 393,
+  "nome": "Hamburger di manzo con formaggio (senza panino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 300.0,
+  "kcal_porzione": 671.1,
+  "carbo_porzione": 3.3,
+  "grassi_porzione": 50.9,
+  "proteine_porzione": 50.6,
+  "ingredienti": [
+   {
+    "nome": "manzo macinato",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, macinato, 15% di grassi, crudo"
+   },
+   {
+    "nome": "cheddar",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Formaggio Cheddar, di latte vaccino"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 50.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Hamburger di manzo con formaggio (senza panino)' (cucina americana, ingredienti principali: manzo macinato, cheddar, pomodoro crudo media, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 394,
+  "nome": "Costine di maiale al barbecue",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 271.0,
+  "kcal_porzione": 619.7,
+  "carbo_porzione": 7.6,
+  "grassi_porzione": 45.1,
+  "proteine_porzione": 45.1,
+  "ingredienti": [
+   {
+    "nome": "maiale costine crude",
+    "grammi": 500.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Maiale, costine, crude"
+   },
+   {
+    "nome": "salsa barbecue",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa barbecue, confezionata"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Costine di maiale al barbecue' (cucina americana, ingredienti principali: maiale costine crude, salsa barbecue, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 395,
+  "nome": "Pollo fritto al forno (versione leggera)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 251.5,
+  "kcal_porzione": 360.7,
+  "carbo_porzione": 11.2,
+  "grassi_porzione": 12.0,
+  "proteine_porzione": 51.6,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 400.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "pangrattato",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pangrattato"
+   },
+   {
+    "nome": "uovo crudo",
+    "grammi": 55.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo fritto al forno (versione leggera)' (cucina americana, ingredienti principali: pollo petto crudo, pangrattato, uovo crudo, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 396,
+  "nome": "Ali di pollo al barbecue",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 215.5,
+  "kcal_porzione": 446.4,
+  "carbo_porzione": 8.7,
+  "grassi_porzione": 25.3,
+  "proteine_porzione": 44.9,
+  "ingredienti": [
+   {
+    "nome": "ali di pollo",
+    "grammi": 400.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pollo, ali marinate, confezionate, arrosto"
+   },
+   {
+    "nome": "salsa barbecue",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa barbecue, confezionata"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Ali di pollo al barbecue' (cucina americana, ingredienti principali: ali di pollo, salsa barbecue, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 397,
+  "nome": "Chili con carne",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 323.7,
+  "kcal_porzione": 455.9,
+  "carbo_porzione": 20.9,
+  "grassi_porzione": 25.9,
+  "proteine_porzione": 34.6,
+  "ingredienti": [
+   {
+    "nome": "manzo macinato",
+    "grammi": 400.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, macinato, 15% di grassi, crudo"
+   },
+   {
+    "nome": "fagioli borlotti",
+    "grammi": 200.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Fagioli, Borlotti, freschi"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "peperoncino",
+    "grammi": 3.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Chili con carne' (cucina americana, ingredienti principali: manzo macinato, fagioli borlotti, pomodoro crudo media, cipolla cruda, peperoncino), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 398,
+  "nome": "Insalata Cobb",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 338.5,
+  "kcal_porzione": 567.5,
+  "carbo_porzione": 3.4,
+  "grassi_porzione": 37.9,
+  "proteine_porzione": 52.8,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 250.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "uovo sodo",
+    "grammi": 110.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "speck alto adige igp",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Speck dell'Alto Adige IGP"
+   },
+   {
+    "nome": "avocado",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Avocado, fresco"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "cheddar",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Formaggio Cheddar, di latte vaccino"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata Cobb' (cucina americana, ingredienti principali: pollo petto crudo, uovo sodo, speck alto adige igp, avocado, pomodoro crudo media), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 399,
+  "nome": "Salmone alla griglia con mais",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 266.0,
+  "kcal_porzione": 485.7,
+  "carbo_porzione": 13.8,
+  "grassi_porzione": 30.5,
+  "proteine_porzione": 37.9,
+  "ingredienti": [
+   {
+    "nome": "salmone crudo allevamento",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salmone, crudo, d'allevamento"
+   },
+   {
+    "nome": "mais dolce in scatola sgocciolato",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Mais dolce, in scatola, sgocciolato"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "limone",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Salmone alla griglia con mais' (cucina americana, ingredienti principali: salmone crudo allevamento, mais dolce in scatola sgocciolato, olio extravergine di oliva, limone, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 400,
+  "nome": "Bistecca di manzo con patate al forno",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 392.5,
+  "kcal_porzione": 541.7,
+  "carbo_porzione": 24.4,
+  "grassi_porzione": 25.6,
+  "proteine_porzione": 51.3,
+  "ingredienti": [
+   {
+    "nome": "manzo spalla cruda",
+    "grammi": 450.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, spalla, cruda"
+   },
+   {
+    "nome": "patata sbucciata cruda",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Patata, sbucciata, cruda"
+   },
+   {
+    "nome": "burro",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Bistecca di manzo con patate al forno' (cucina americana, ingredienti principali: manzo spalla cruda, patata sbucciata cruda, burro, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 401,
+  "nome": "Zuppa di vongole alla newyorkese",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 232.7,
+  "kcal_porzione": 263.2,
+  "carbo_porzione": 16.5,
+  "grassi_porzione": 15.1,
+  "proteine_porzione": 14.0,
+  "ingredienti": [
+   {
+    "nome": "vongole",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Vongola, cruda"
+   },
+   {
+    "nome": "patata sbucciata cruda",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Patata, sbucciata, cruda"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "panna fresca",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Panna e simili, contenuto di grassi sconosciuto, liquida (media)"
+   },
+   {
+    "nome": "burro",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "sale",
+    "grammi": 3.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Zuppa di vongole alla newyorkese' (cucina americana, ingredienti principali: vongole, patata sbucciata cruda, cipolla cruda, panna fresca, burro), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 402,
+  "nome": "Uova strapazzate con bacon all'americana (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 236.0,
+  "kcal_porzione": 485.7,
+  "carbo_porzione": 0.9,
+  "grassi_porzione": 36.0,
+  "proteine_porzione": 39.6,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 165.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "speck alto adige igp",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Speck dell'Alto Adige IGP"
+   },
+   {
+    "nome": "burro",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova strapazzate con bacon all'americana (colazione)' (cucina americana, ingredienti principali: uovo crudo, speck alto adige igp, burro, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 403,
+  "nome": "Polpettone di manzo (Meatloaf)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 4.0,
+  "peso_porzione_dichiarato_g": 202.2,
+  "kcal_porzione": 396.2,
+  "carbo_porzione": 11.7,
+  "grassi_porzione": 23.9,
+  "proteine_porzione": 33.3,
+  "ingredienti": [
+   {
+    "nome": "manzo macinato",
+    "grammi": 600.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, macinato, 15% di grassi, crudo"
+   },
+   {
+    "nome": "uovo crudo",
+    "grammi": 55.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "pangrattato",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pangrattato"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "salsa barbecue",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa barbecue, confezionata"
+   },
+   {
+    "nome": "sale",
+    "grammi": 4.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpettone di manzo (Meatloaf)' (cucina americana, ingredienti principali: manzo macinato, uovo crudo, pangrattato, cipolla cruda, salsa barbecue), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 404,
+  "nome": "Tacchino arrosto con verdure",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 289.7,
+  "kcal_porzione": 291.7,
+  "carbo_porzione": 13.4,
+  "grassi_porzione": 7.3,
+  "proteine_porzione": 41.7,
+  "ingredienti": [
+   {
+    "nome": "tacchino fesa crudo",
+    "grammi": 500.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Tacchino, fesa, crudo"
+   },
+   {
+    "nome": "carota cruda",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Carota, cruda"
+   },
+   {
+    "nome": "patata sbucciata cruda",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Patata, sbucciata, cruda"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 4.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tacchino arrosto con verdure' (cucina americana, ingredienti principali: tacchino fesa crudo, carota cruda, patata sbucciata cruda, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 405,
+  "nome": "Petto di pollo alla griglia con mais e avocado",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 289.5,
+  "kcal_porzione": 402.3,
+  "carbo_porzione": 10.2,
+  "grassi_porzione": 19.8,
+  "proteine_porzione": 44.3,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "mais dolce in scatola sgocciolato",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Mais dolce, in scatola, sgocciolato"
+   },
+   {
+    "nome": "avocado",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Avocado, fresco"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "limone",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Petto di pollo alla griglia con mais e avocado' (cucina americana, ingredienti principali: pollo petto crudo, mais dolce in scatola sgocciolato, avocado, olio extravergine di oliva, limone), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 406,
+  "nome": "Chips di tortilla con guacamole (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 178.5,
+  "kcal_porzione": 342.3,
+  "carbo_porzione": 20.8,
+  "grassi_porzione": 24.9,
+  "proteine_porzione": 6.5,
+  "ingredienti": [
+   {
+    "nome": "avocado",
+    "grammi": 200.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Avocado, fresco"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "limone",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "tortilla di mais da farcire",
+    "grammi": 60.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Tortilla di mais, da farcire"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Chips di tortilla con guacamole (spuntino)' (cucina americana, ingredienti principali: avocado, pomodoro crudo media, limone, tortilla di mais da farcire, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 407,
+  "nome": "Souvlaki di pollo",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 196.0,
+  "kcal_porzione": 246.2,
+  "carbo_porzione": 0.2,
+  "grassi_porzione": 9.0,
+  "proteine_porzione": 41.0,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 350.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "limone",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Souvlaki di pollo' (cucina greca, ingredienti principali: pollo petto crudo, limone, olio extravergine di oliva, aglio, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 408,
+  "nome": "Souvlaki di maiale",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 196.0,
+  "kcal_porzione": 382.7,
+  "carbo_porzione": 0.8,
+  "grassi_porzione": 27.2,
+  "proteine_porzione": 33.3,
+  "ingredienti": [
+   {
+    "nome": "maiale spalla cruda",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Maiale, spalla, cruda"
+   },
+   {
+    "nome": "limone",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Souvlaki di maiale' (cucina greca, ingredienti principali: maiale spalla cruda, limone, olio extravergine di oliva, aglio, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 409,
+  "nome": "Agnello al forno alla greca",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 3.0,
+  "peso_porzione_dichiarato_g": 220.7,
+  "kcal_porzione": 319.8,
+  "carbo_porzione": 1.1,
+  "grassi_porzione": 17.0,
+  "proteine_porzione": 40.3,
+  "ingredienti": [
+   {
+    "nome": "agnello coscia cruda",
+    "grammi": 600.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Agnello, coscia, cruda"
+   },
+   {
+    "nome": "limone",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 8.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 4.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Agnello al forno alla greca' (cucina greca, ingredienti principali: agnello coscia cruda, limone, aglio, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 410,
+  "nome": "Insalata greca con feta",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 325.5,
+  "kcal_porzione": 327.6,
+  "carbo_porzione": 9.7,
+  "grassi_porzione": 28.0,
+  "proteine_porzione": 9.8,
+  "ingredienti": [
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 250.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "cetriolo polpa senza buccia crudo",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cetriolo, polpa senza buccia, crudo"
+   },
+   {
+    "nome": "feta",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Feta"
+   },
+   {
+    "nome": "olive kalamata",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Oliva nera, sott'olio (oliva greca)"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "cipolla cruda",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata greca con feta' (cucina greca, ingredienti principali: pomodoro crudo media, cetriolo polpa senza buccia crudo, feta, olive kalamata, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 411,
+  "nome": "Tzatziki con verdure crude",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 208.0,
+  "kcal_porzione": 198.3,
+  "carbo_porzione": 4.2,
+  "grassi_porzione": 16.8,
+  "proteine_porzione": 8.6,
+  "ingredienti": [
+   {
+    "nome": "yogurt greco",
+    "grammi": 250.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Yogurt greco, da latte intero"
+   },
+   {
+    "nome": "cetriolo polpa senza buccia crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cetriolo, polpa senza buccia, crudo"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tzatziki con verdure crude' (cucina greca, ingredienti principali: yogurt greco, cetriolo polpa senza buccia crudo, aglio, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 412,
+  "nome": "Polpo alla griglia alla greca",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 218.5,
+  "kcal_porzione": 190.1,
+  "carbo_porzione": 2.1,
+  "grassi_porzione": 8.5,
+  "proteine_porzione": 25.8,
+  "ingredienti": [
+   {
+    "nome": "polpo crudo",
+    "grammi": 400.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Polpo comune, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "limone",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpo alla griglia alla greca' (cucina greca, ingredienti principali: polpo crudo, olio extravergine di oliva, limone, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 413,
+  "nome": "Gamberi alla greca con feta e pomodoro",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 291.0,
+  "kcal_porzione": 297.1,
+  "carbo_porzione": 4.9,
+  "grassi_porzione": 15.7,
+  "proteine_porzione": 34.6,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 300.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "pomodoro crudo media",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pomodoro, crudo (media)"
+   },
+   {
+    "nome": "feta",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Feta"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi alla greca con feta e pomodoro' (cucina greca, ingredienti principali: gamberetto grigio bollito, pomodoro crudo media, feta, olio extravergine di oliva, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 414,
+  "nome": "Hummus con verdure crude (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 175.5,
+  "kcal_porzione": 266.3,
+  "carbo_porzione": 10.7,
+  "grassi_porzione": 20.3,
+  "proteine_porzione": 8.5,
+  "ingredienti": [
+   {
+    "nome": "hummus confezionato",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Hummus, confezionato"
+   },
+   {
+    "nome": "cetriolo polpa senza buccia crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cetriolo, polpa senza buccia, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Hummus con verdure crude (spuntino)' (cucina greca, ingredienti principali: hummus confezionato, cetriolo polpa senza buccia crudo, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 415,
+  "nome": "Spanakopita senza pasta sfoglia (spinaci e feta)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 286.0,
+  "kcal_porzione": 351.7,
+  "carbo_porzione": 6.5,
+  "grassi_porzione": 26.0,
+  "proteine_porzione": 19.9,
+  "ingredienti": [
+   {
+    "nome": "spinaci crudi",
+    "grammi": 350.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Spinaci, crudi"
+   },
+   {
+    "nome": "feta",
+    "grammi": 150.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Feta"
+   },
+   {
+    "nome": "uovo crudo",
+    "grammi": 55.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Spanakopita senza pasta sfoglia (spinaci e feta)' (cucina greca, ingredienti principali: spinaci crudi, feta, uovo crudo, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 416,
+  "nome": "Yogurt greco con cetriolo e noci",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 306.0,
+  "kcal_porzione": 425.6,
+  "carbo_porzione": 7.2,
+  "grassi_porzione": 37.1,
+  "proteine_porzione": 15.9,
+  "ingredienti": [
+   {
+    "nome": "yogurt greco",
+    "grammi": 200.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Yogurt greco, da latte intero"
+   },
+   {
+    "nome": "cetriolo polpa senza buccia crudo",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cetriolo, polpa senza buccia, crudo"
+   },
+   {
+    "nome": "noci",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Noce, gheriglio, essiccata"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Yogurt greco con cetriolo e noci' (cucina greca, ingredienti principali: yogurt greco, cetriolo polpa senza buccia crudo, noci, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 417,
+  "nome": "Branzino al forno alla greca con limone",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 2.0,
+  "peso_porzione_dichiarato_g": 228.5,
+  "kcal_porzione": 342.9,
+  "carbo_porzione": 0.3,
+  "grassi_porzione": 18.6,
+  "proteine_porzione": 43.1,
+  "ingredienti": [
+   {
+    "nome": "spigola mediterranea cruda allevamento",
+    "grammi": 400.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Spigola mediterranea, cruda, d'allevamento"
+   },
+   {
+    "nome": "limone",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "aglio",
+    "grammi": 5.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Aglio"
+   },
+   {
+    "nome": "sale",
+    "grammi": 2.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Branzino al forno alla greca con limone' (cucina greca, ingredienti principali: spigola mediterranea cruda allevamento, limone, olio extravergine di oliva, aglio, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 418,
+  "nome": "Frittata alla francese con formaggio groviera (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "francese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 216.0,
+  "kcal_porzione": 473.1,
+  "carbo_porzione": 0.8,
+  "grassi_porzione": 37.4,
+  "proteine_porzione": 33.4,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 165.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "groviera",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Groviera"
+   },
+   {
+    "nome": "burro",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Frittata alla francese con formaggio groviera (colazione)' (cucina francese, ingredienti principali: uovo crudo, groviera, burro, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 419,
+  "nome": "Yogurt con speck e uova alla tedesca (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "tedesca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 246.0,
+  "kcal_porzione": 290.1,
+  "carbo_porzione": 9.3,
+  "grassi_porzione": 16.5,
+  "proteine_porzione": 25.2,
+  "ingredienti": [
+   {
+    "nome": "yogurt bianco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Yogurt o latte fermentato, naturale (media)"
+   },
+   {
+    "nome": "uovo sodo",
+    "grammi": 55.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "speck alto adige igp",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Speck dell'Alto Adige IGP"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Yogurt con speck e uova alla tedesca (colazione)' (cucina tedesca, ingredienti principali: yogurt bianco, uovo sodo, speck alto adige igp, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 420,
+  "nome": "Tortilla di patate ridotta con uova (colazione spagnola)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "spagnola"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 256.0,
+  "kcal_porzione": 384.9,
+  "carbo_porzione": 13.1,
+  "grassi_porzione": 26.3,
+  "proteine_porzione": 22.8,
+  "ingredienti": [
+   {
+    "nome": "uovo crudo",
+    "grammi": 165.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "patata sbucciata cruda",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Patata, sbucciata, cruda"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tortilla di patate ridotta con uova (colazione spagnola)' (cucina spagnola, ingredienti principali: uovo crudo, patata sbucciata cruda, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 421,
+  "nome": "Petto di pollo alla griglia semplice (spuntino proteico)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "italiana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 166.0,
+  "kcal_porzione": 197.4,
+  "carbo_porzione": 0.2,
+  "grassi_porzione": 6.2,
+  "proteine_porzione": 35.0,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "limone",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Petto di pollo alla griglia semplice (spuntino proteico)' (cucina italiana, ingredienti principali: pollo petto crudo, limone, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 422,
+  "nome": "Bresaola con grana e rucola (spuntino proteico)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "italiana"
+  ],
+  "tipo_dieta": [
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 166.0,
+  "kcal_porzione": 265.2,
+  "carbo_porzione": 0.8,
+  "grassi_porzione": 16.2,
+  "proteine_porzione": 28.7,
+  "ingredienti": [
+   {
+    "nome": "manzo spalla cruda",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, spalla, cruda"
+   },
+   {
+    "nome": "parmigiano reggiano dop",
+    "grammi": 20.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Parmigiano Reggiano DOP"
+   },
+   {
+    "nome": "rucola",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Rucola, cruda"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "limone",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Bresaola con grana e rucola (spuntino proteico)' (cucina italiana, ingredienti principali: manzo spalla cruda, parmigiano reggiano dop, rucola, olio extravergine di oliva, limone), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 423,
+  "nome": "Prosciutto cotto e groviera (spuntino francese)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "francese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 141.0,
+  "kcal_porzione": 304.8,
+  "carbo_porzione": 2.3,
+  "grassi_porzione": 20.4,
+  "proteine_porzione": 27.9,
+  "ingredienti": [
+   {
+    "nome": "prosciutto cotto",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Prosciutto cotto"
+   },
+   {
+    "nome": "groviera",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Groviera"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Prosciutto cotto e groviera (spuntino francese)' (cucina francese, ingredienti principali: prosciutto cotto, groviera, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 424,
+  "nome": "Bocconcini di pollo alla senape (spuntino tedesco)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "tedesca"
+  ],
+  "tipo_dieta": [
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 166.0,
+  "kcal_porzione": 210.1,
+  "carbo_porzione": 0.4,
+  "grassi_porzione": 7.3,
+  "proteine_porzione": 35.7,
+  "ingredienti": [
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 150.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "senape",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Senape"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Bocconcini di pollo alla senape (spuntino tedesco)' (cucina tedesca, ingredienti principali: pollo petto crudo, senape, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 425,
+  "nome": "Gamberi al limone (spuntino spagnolo)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "spagnola"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 166.0,
+  "kcal_porzione": 181.5,
+  "carbo_porzione": 0.9,
+  "grassi_porzione": 6.7,
+  "proteine_porzione": 29.1,
+  "ingredienti": [
+   {
+    "nome": "gamberetto grigio bollito",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Gamberetto grigio, bollito"
+   },
+   {
+    "nome": "limone",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   },
+   {
+    "nome": "olio extravergine di oliva",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi al limone (spuntino spagnolo)' (cucina spagnola, ingredienti principali: gamberetto grigio bollito, limone, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 426,
+  "nome": "Uova sode con speck (spuntino inglese)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "inglese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 151.0,
+  "kcal_porzione": 273.6,
+  "carbo_porzione": 0.5,
+  "grassi_porzione": 18.5,
+  "proteine_porzione": 26.4,
+  "ingredienti": [
+   {
+    "nome": "uovo sodo",
+    "grammi": 110.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "speck alto adige igp",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Speck dell'Alto Adige IGP"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova sode con speck (spuntino inglese)' (cucina inglese, ingredienti principali: uovo sodo, speck alto adige igp, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 427,
+  "nome": "Petto di pollo freddo con senape (colazione inglese)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "inglese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 219.0,
+  "kcal_porzione": 266.1,
+  "carbo_porzione": 0.4,
+  "grassi_porzione": 12.5,
+  "proteine_porzione": 37.9,
+  "ingredienti": [
+   {
+    "nome": "uovo sodo",
+    "grammi": 110.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "pollo petto crudo",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "senape",
+    "grammi": 8.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Senape"
+   },
+   {
+    "nome": "sale",
+    "grammi": 1.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Petto di pollo freddo con senape (colazione inglese)' (cucina inglese, ingredienti principali: uovo sodo, pollo petto crudo, senape, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 428,
+  "nome": "Pollo alla griglia con salsa di soia, sesamo e germogli di soia",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "asiatica"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 330.0,
+  "kcal_porzione": 282.9,
+  "carbo_porzione": 3.9,
+  "grassi_porzione": 7.3,
+  "proteine_porzione": 50.7,
+  "ingredienti": [
+   {
+    "nome": "petto di pollo",
+    "grammi": 200.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "germogli di soia",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Fagiolo mung, germogliato, crudo"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo alla griglia con salsa di soia, sesamo e germogli di soia' (cucina asiatica, ingredienti principali: petto di pollo, salsa di soia, olio di sesamo, germogli di soia, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 429,
+  "nome": "Bistecca di manzo alla griglia con insalata verde e olio d'oliva",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "europea"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 300.0,
+  "kcal_porzione": 368.1,
+  "carbo_porzione": 1.6,
+  "grassi_porzione": 20.1,
+  "proteine_porzione": 44.3,
+  "ingredienti": [
+   {
+    "nome": "filetto di manzo",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Manzo, filetto, crudo"
+   },
+   {
+    "nome": "lattuga",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lattuga, cruda"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "limone",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Bistecca di manzo alla griglia con insalata verde e olio d'oliva' (cucina europea, ingredienti principali: filetto di manzo, lattuga, olio extravergine, limone), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 430,
+  "nome": "Pollo al burro all'indiana senza riso",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 337.0,
+  "kcal_porzione": 546.0,
+  "carbo_porzione": 8.6,
+  "grassi_porzione": 37.6,
+  "proteine_porzione": 42.2,
+  "ingredienti": [
+   {
+    "nome": "pollo coscia",
+    "grammi": 200.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pollo, coscia intera, carne, cruda"
+   },
+   {
+    "nome": "burro",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "panna da cucina",
+    "grammi": 50.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Panna e simili, contenuto di grassi sconosciuto, liquida (media)"
+   },
+   {
+    "nome": "passata di pomodoro",
+    "grammi": 60.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Passata di pomodoro, in scatola"
+   },
+   {
+    "nome": "garam masala",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa all'indiana, tipo tandoori o garam masala, confezionata"
+   },
+   {
+    "nome": "cumino",
+    "grammi": 2.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cumino, semi"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al burro all'indiana senza riso' (cucina indiana, ingredienti principali: pollo coscia, burro, panna da cucina, passata di pomodoro, garam masala), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 431,
+  "nome": "Curry verde di pollo al latte di cocco senza riso",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "cena",
+   "pranzo"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 380.0,
+  "kcal_porzione": 598.5,
+  "carbo_porzione": 7.8,
+  "grassi_porzione": 40.4,
+  "proteine_porzione": 50.5,
+  "ingredienti": [
+   {
+    "nome": "petto di pollo",
+    "grammi": 200.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "latte di cocco",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Latte di cocco"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "peperoncino piccante",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperoncino, crudo"
+   },
+   {
+    "nome": "basilico fresco",
+    "grammi": 5.0,
+    "fonte_macro": null
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Curry verde di pollo al latte di cocco senza riso' (cucina thailandese, ingredienti principali: petto di pollo, latte di cocco, salsa di pesce, peperoncino piccante, basilico fresco), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 432,
+  "nome": "Uova al vapore con salmone affumicato, avocado e salsa di soia (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "asiatica"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 305.0,
+  "kcal_porzione": 477.3,
+  "carbo_porzione": 2.3,
+  "grassi_porzione": 35.2,
+  "proteine_porzione": 37.0,
+  "ingredienti": [
+   {
+    "nome": "albume d'uovo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Albume d'uovo, crudo"
+   },
+   {
+    "nome": "salmone affumicato",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salmone, affumicato"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "avocado",
+    "grammi": 50.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Avocado, fresco"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova al vapore con salmone affumicato, avocado e salsa di soia (colazione)' (cucina asiatica, ingredienti principali: albume d'uovo, salmone affumicato, salsa di soia, olio di sesamo, avocado), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 433,
+  "nome": "Uova alla cinese con petto di pollo saltato e cipollotto (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 235.0,
+  "kcal_porzione": 295.1,
+  "carbo_porzione": 0.8,
+  "grassi_porzione": 15.8,
+  "proteine_porzione": 37.3,
+  "ingredienti": [
+   {
+    "nome": "uova",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "petto di pollo",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "cipollotto",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Erba cipollina o cipollotto, fresco"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova alla cinese con petto di pollo saltato e cipollotto (colazione)' (cucina cinese, ingredienti principali: uova, petto di pollo, cipollotto, olio di sesamo, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 434,
+  "nome": "Uova strapazzate con prosciutto cotto ed emmental (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "europea"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 195.0,
+  "kcal_porzione": 349.2,
+  "carbo_porzione": 1.0,
+  "grassi_porzione": 25.5,
+  "proteine_porzione": 28.8,
+  "ingredienti": [
+   {
+    "nome": "uova",
+    "grammi": 120.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "prosciutto cotto",
+    "grammi": 50.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Prosciutto cotto"
+   },
+   {
+    "nome": "emmental",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Formaggio Emmental, di latte vaccino"
+   },
+   {
+    "nome": "burro",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova strapazzate con prosciutto cotto ed emmental (colazione)' (cucina europea, ingredienti principali: uova, prosciutto cotto, emmental, burro), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 435,
+  "nome": "Omelette al prosciutto e groviera (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "francese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 195.0,
+  "kcal_porzione": 385.9,
+  "carbo_porzione": 1.2,
+  "grassi_porzione": 28.6,
+  "proteine_porzione": 30.9,
+  "ingredienti": [
+   {
+    "nome": "uova",
+    "grammi": 120.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "prosciutto cotto",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Prosciutto cotto"
+   },
+   {
+    "nome": "groviera",
+    "grammi": 30.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Groviera"
+   },
+   {
+    "nome": "burro",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Omelette al prosciutto e groviera (colazione)' (cucina francese, ingredienti principali: uova, prosciutto cotto, groviera, burro), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 436,
+  "nome": "Frittata di albumi con feta e spinaci (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 250.0,
+  "kcal_porzione": 278.7,
+  "carbo_porzione": 3.2,
+  "grassi_porzione": 18.5,
+  "proteine_porzione": 24.0,
+  "ingredienti": [
+   {
+    "nome": "albume d'uovo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Albume d'uovo, crudo"
+   },
+   {
+    "nome": "feta",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Feta"
+   },
+   {
+    "nome": "spinaci",
+    "grammi": 50.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Spinaci, crudi"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Frittata di albumi con feta e spinaci (colazione)' (cucina greca, ingredienti principali: albume d'uovo, feta, spinaci, olio extravergine), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 437,
+  "nome": "Uova e pollo speziati all'indiana con cumino e coriandolo (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 227.0,
+  "kcal_porzione": 324.7,
+  "carbo_porzione": 2.7,
+  "grassi_porzione": 21.2,
+  "proteine_porzione": 30.2,
+  "ingredienti": [
+   {
+    "nome": "uova",
+    "grammi": 120.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "petto di pollo",
+    "grammi": 60.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "burro",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   },
+   {
+    "nome": "cumino",
+    "grammi": 2.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cumino, semi"
+   },
+   {
+    "nome": "coriandolo fresco",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Coriandolo, fresco"
+   },
+   {
+    "nome": "cipolla",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cipolla, cruda"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova e pollo speziati all'indiana con cumino e coriandolo (colazione)' (cucina indiana, ingredienti principali: uova, petto di pollo, burro, cumino, coriandolo fresco), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 438,
+  "nome": "Uova strapazzate con prosciutto crudo e grana padano (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "italiana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 175.0,
+  "kcal_porzione": 322.4,
+  "carbo_porzione": 1.8,
+  "grassi_porzione": 21.4,
+  "proteine_porzione": 30.8,
+  "ingredienti": [
+   {
+    "nome": "uova",
+    "grammi": 120.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "prosciutto crudo",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Prosciutto crudo"
+   },
+   {
+    "nome": "grana padano",
+    "grammi": 15.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Grana Padano, DOP"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova strapazzate con prosciutto crudo e grana padano (colazione)' (cucina italiana, ingredienti principali: uova, prosciutto crudo, grana padano), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 439,
+  "nome": "Tortilla di soli albumi con jamón serrano (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "spagnola"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 215.0,
+  "kcal_porzione": 324.5,
+  "carbo_porzione": 1.5,
+  "grassi_porzione": 21.4,
+  "proteine_porzione": 31.6,
+  "ingredienti": [
+   {
+    "nome": "albume d'uovo",
+    "grammi": 150.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Albume d'uovo, crudo"
+   },
+   {
+    "nome": "jamon serrano",
+    "grammi": 50.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Prosciutto crudo Serrano"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Tortilla di soli albumi con jamón serrano (colazione)' (cucina spagnola, ingredienti principali: albume d'uovo, jamon serrano, olio extravergine), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 440,
+  "nome": "Uova e speck alla tedesca (colazione)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione"
+  ],
+  "cucina": [
+   "tedesca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 170.0,
+  "kcal_porzione": 362.9,
+  "carbo_porzione": 0.6,
+  "grassi_porzione": 27.7,
+  "proteine_porzione": 27.7,
+  "ingredienti": [
+   {
+    "nome": "uova",
+    "grammi": 120.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Uovo, crudo"
+   },
+   {
+    "nome": "speck",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Speck dell'Alto Adige IGP"
+   },
+   {
+    "nome": "burro",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Burro, minimo 80% di grassi, non salato"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova e speck alla tedesca (colazione)' (cucina tedesca, ingredienti principali: uova, speck, burro), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 441,
+  "nome": "Bocconcini di petto di pollo grigliato (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "americana"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 125.0,
+  "kcal_porzione": 164.9,
+  "carbo_porzione": 0.0,
+  "grassi_porzione": 6.0,
+  "proteine_porzione": 28.0,
+  "ingredienti": [
+   {
+    "nome": "petto di pollo",
+    "grammi": 120.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Bocconcini di petto di pollo grigliato (spuntino)' (cucina americana, ingredienti principali: petto di pollo, olio extravergine), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 442,
+  "nome": "Involtini di lattuga con tonno piccante alla asiatica (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "asiatica"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 178.0,
+  "kcal_porzione": 290.5,
+  "carbo_porzione": 1.0,
+  "grassi_porzione": 19.1,
+  "proteine_porzione": 28.3,
+  "ingredienti": [
+   {
+    "nome": "tonno",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Tonno, in scatola al naturale, sgocciolato"
+   },
+   {
+    "nome": "lattuga",
+    "grammi": 50.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lattuga, cruda"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 15.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "peperoncino piccante",
+    "grammi": 3.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperoncino, crudo"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtini di lattuga con tonno piccante alla asiatica (spuntino)' (cucina asiatica, ingredienti principali: tonno, lattuga, salsa di soia, olio di sesamo, peperoncino piccante), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 443,
+  "nome": "Involtini di lattuga con filetto di maiale speziato alla cinese (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "cinese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 145.0,
+  "kcal_porzione": 199.9,
+  "carbo_porzione": 1.2,
+  "grassi_porzione": 13.5,
+  "proteine_porzione": 18.3,
+  "ingredienti": [
+   {
+    "nome": "filetto di maiale",
+    "grammi": 80.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Maiale, filetto (mignon), crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "salsa di soia",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa di soia, confezionata"
+   },
+   {
+    "nome": "lattuga",
+    "grammi": 40.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lattuga, cruda"
+   },
+   {
+    "nome": "zenzero",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Zenzero, crudo"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtini di lattuga con filetto di maiale speziato alla cinese (spuntino)' (cucina cinese, ingredienti principali: filetto di maiale, olio di sesamo, salsa di soia, lattuga, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 444,
+  "nome": "Involtino di tacchino ed emmental (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "europea"
+  ],
+  "tipo_dieta": [
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 135.0,
+  "kcal_porzione": 263.8,
+  "carbo_porzione": 0.0,
+  "grassi_porzione": 14.8,
+  "proteine_porzione": 32.4,
+  "ingredienti": [
+   {
+    "nome": "petto di tacchino",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Tacchino, fesa, crudo"
+   },
+   {
+    "nome": "emmental",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Formaggio Emmental, di latte vaccino"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtino di tacchino ed emmental (spuntino)' (cucina europea, ingredienti principali: petto di tacchino, emmental, olio extravergine), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 445,
+  "nome": "Feta e olive kalamata con olio d'oliva (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 65.0,
+  "kcal_porzione": 214.8,
+  "carbo_porzione": 1.5,
+  "grassi_porzione": 19.7,
+  "proteine_porzione": 6.7,
+  "ingredienti": [
+   {
+    "nome": "feta",
+    "grammi": 40.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Feta"
+   },
+   {
+    "nome": "olive kalamata",
+    "grammi": 20.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Oliva nera, sott'olio (oliva greca)"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Feta e olive kalamata con olio d'oliva (spuntino)' (cucina greca, ingredienti principali: feta, olive kalamata, olio extravergine), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 446,
+  "nome": "Spiedini di pollo alla greca con yogurt (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "colazione",
+   "spuntino"
+  ],
+  "cucina": [
+   "greca"
+  ],
+  "tipo_dieta": [
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 155.0,
+  "kcal_porzione": 158.7,
+  "carbo_porzione": 1.1,
+  "grassi_porzione": 5.4,
+  "proteine_porzione": 26.5,
+  "ingredienti": [
+   {
+    "nome": "petto di pollo",
+    "grammi": 100.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "yogurt greco",
+    "grammi": 50.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Yogurt greco, da latte intero"
+   },
+   {
+    "nome": "limone",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Limone, polpa senza buccia, senza semi, crudo"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Spiedini di pollo alla greca con yogurt (spuntino)' (cucina greca, ingredienti principali: petto di pollo, yogurt greco, limone), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 447,
+  "nome": "Pollo tandoori a cubetti (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "indiana"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 147.0,
+  "kcal_porzione": 253.3,
+  "carbo_porzione": 2.0,
+  "grassi_porzione": 17.4,
+  "proteine_porzione": 22.1,
+  "ingredienti": [
+   {
+    "nome": "pollo coscia",
+    "grammi": 100.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Pollo, coscia intera, carne, cruda"
+   },
+   {
+    "nome": "yogurt greco",
+    "grammi": 30.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Yogurt greco, da latte intero"
+   },
+   {
+    "nome": "garam masala",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa all'indiana, tipo tandoori o garam masala, confezionata"
+   },
+   {
+    "nome": "olio extravergine",
+    "grammi": 10.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio d'oliva, extra vergine"
+   },
+   {
+    "nome": "cumino",
+    "grammi": 2.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Cumino, semi"
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo tandoori a cubetti (spuntino)' (cucina indiana, ingredienti principali: pollo coscia, yogurt greco, garam masala, olio extravergine, cumino), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
+ },
+ {
+  "id": 448,
+  "nome": "Involtini di pollo alla thailandese con lattuga e salsa di pesce (spuntino)",
+  "fonte": "originale",
+  "licenza_fonte": null,
+  "tipo_pasto": [
+   "spuntino"
+  ],
+  "cucina": [
+   "thailandese"
+  ],
+  "tipo_dieta": [
+   "chetogenica",
+   "ipocalorica",
+   "iperproteica",
+   "bassa_glicemia"
+  ],
+  "porzioni": 1.0,
+  "peso_porzione_dichiarato_g": 135.0,
+  "kcal_porzione": 197.6,
+  "carbo_porzione": 1.1,
+  "grassi_porzione": 12.7,
+  "proteine_porzione": 19.6,
+  "ingredienti": [
+   {
+    "nome": "petto di pollo",
+    "grammi": 80.0,
+    "fonte_macro": "CREA",
+    "voce_matchata": "Pollo, petto, crudo"
+   },
+   {
+    "nome": "olio di sesamo",
+    "grammi": 12.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Olio di sesamo"
+   },
+   {
+    "nome": "salsa di pesce",
+    "grammi": 5.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Salsa nuoc mam o salsa di pesce, confezionata"
+   },
+   {
+    "nome": "lattuga",
+    "grammi": 30.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Lattuga, cruda"
+   },
+   {
+    "nome": "peperoncino piccante",
+    "grammi": 3.0,
+    "fonte_macro": "CIQUAL",
+    "voce_matchata": "Peperoncino, crudo"
+   },
+   {
+    "nome": "basilico fresco",
+    "grammi": 5.0,
+    "fonte_macro": null
+   }
+  ],
+  "prompt_immagine": "Fotografia realistica in stile food photography di 'Involtini di pollo alla thailandese con lattuga e salsa di pesce (spuntino)' (cucina thailandese, ingredienti principali: petto di pollo, olio di sesamo, salsa di pesce, lattuga, peperoncino piccante), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione."
  }
 ]
