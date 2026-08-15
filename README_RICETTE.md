@@ -8,15 +8,14 @@ matchato uno per uno contro CIQUAL/CREA con un matcher testuale a soglia di
 confidenza (nessun uso di IA/Gemini per il matching), e i grammi sono
 sempre quantità reali dichiarate (mai stimate).
 
-## Fonti combinate (5.299 ricette al 15 agosto 2026)
+## Fonti combinate (341 ricette al 15 agosto 2026)
 
 | Fonte (`fonte`) | N. ricette | Licenza | Note |
 |---|---|---|---|
 | `kaggle-foodcom` | 246 | Dataset Kaggle Food.com, licenza aperta | Estratte da un dataset di ~500k ricette, filtrate per plausibilità macro e bilancio massa (`peso_porzione_dichiarato_g` vs `serving_size` dichiarato) |
 | `wikibooks-it` | 8 | CC BY-SA 4.0 (it.wikibooks.org, "Libro di cucina") | API pubblica MediaWiki, non scraping |
 | `wikibooks-en` | 25 | CC BY-SA 4.0 (en.wikibooks.org, "Cookbook") | Categorie Italian/French/Spanish/German/English recipes |
-| `originale` | 20 | — (autorship originale) | 20 ricette scritte a mano da conoscenza culinaria di dominio pubblico |
-| `originale-nativa` | 5.032 | — (autorship originale) | Generate in modo combinatorio (proteina × verdura × cucina × variante dieta), su richiesta esplicita dell'utente. Nomi da template, quantità scelte da chi scrive, non da fonte terza |
+| `originale` | 95 | — (autorship originale) | 20 ricette generiche + 75 ispirate a piatti reali e riconoscibili delle 5 cucine (es. Coq au vin, Gulasch, Tortilla española, Ossobuco alla milanese, Shepherd's pie), scritte una per una da conoscenza culinaria di dominio pubblico — non generate combinatoriamente, non estratte da alcun testo/dataset di terzi |
 
 **Perché non da Giallo Zafferano o simili:** valutato e rifiutato più volte
 (vedi `DECISIONI.md` nel repo principale) — il diritto sui generis sulle
@@ -25,13 +24,13 @@ esistono + ingredienti/quantità) indipendentemente dalla riformulazione del
 testo. Solo fonti con licenza che permette esplicitamente l'estrazione
 (CC BY-SA, licenze aperte) o dati di autorship originale.
 
-**Limite di qualità noto — combinazioni "originale-nativa":** essendo
-generate combinatoriamente incrociando pool di ingredienti per cucina, una
-minoranza di combinazioni risulta culinariamente insolita (es. un
-formaggio "in umido", un salume italiano etichettato come piatto inglese)
-pur restando corrette nei macro — i pool privilegiano la coerenza del
-matching sulla banca dati piuttosto che l'autenticità di ogni singolo
-abbinamento.
+**Nota sul volume:** una prima versione generava ricette "originali" in
+modo combinatorio (pool di ingredienti × metodo di cottura × variante
+dieta) per raggiungere ~5000 ricette — approccio scartato su richiesta
+esplicita dell'utente ("non deve essere combinatorio, devi ispirarti a
+cose reali", volume finale accettato più basso). Le 75 ricette "reali"
+attuali sono scritte singolarmente ispirandosi a piatti riconoscibili,
+non assemblate meccanicamente.
 
 ## Schema (un oggetto per ricetta)
 
