@@ -1,0 +1,61 @@
+# Dataset ricette — scoperta (`ricette_scoperta.json`)
+
+Catalogo di ricette per la funzione "Ricette — scoperta" di EasyKeto
+(`FeatureFlags.RICETTE_SCOPERTA_ABILITATA`). **I macro di ogni ricetta sono
+sempre calcolati dai database CIQUAL/CREA usati dall'app, mai presi dalla
+fonte esterna** — indipendentemente dalla fonte, ogni ingrediente è
+matchato uno per uno contro CIQUAL/CREA con un matcher testuale a soglia di
+confidenza (nessun uso di IA/Gemini per il matching), e i grammi sono
+sempre quantità reali dichiarate (mai stimate).
+
+## Fonti combinate (5.299 ricette al 15 agosto 2026)
+
+| Fonte (`fonte`) | N. ricette | Licenza | Note |
+|---|---|---|---|
+| `kaggle-foodcom` | 246 | Dataset Kaggle Food.com, licenza aperta | Estratte da un dataset di ~500k ricette, filtrate per plausibilità macro e bilancio massa (`peso_porzione_dichiarato_g` vs `serving_size` dichiarato) |
+| `wikibooks-it` | 8 | CC BY-SA 4.0 (it.wikibooks.org, "Libro di cucina") | API pubblica MediaWiki, non scraping |
+| `wikibooks-en` | 25 | CC BY-SA 4.0 (en.wikibooks.org, "Cookbook") | Categorie Italian/French/Spanish/German/English recipes |
+| `originale` | 20 | — (autorship originale) | 20 ricette scritte a mano da conoscenza culinaria di dominio pubblico |
+| `originale-nativa` | 5.032 | — (autorship originale) | Generate in modo combinatorio (proteina × verdura × cucina × variante dieta), su richiesta esplicita dell'utente. Nomi da template, quantità scelte da chi scrive, non da fonte terza |
+
+**Perché non da Giallo Zafferano o simili:** valutato e rifiutato più volte
+(vedi `DECISIONI.md` nel repo principale) — il diritto sui generis sulle
+banche dati (Direttiva 96/9/CE) protegge la compilazione (quali ricette
+esistono + ingredienti/quantità) indipendentemente dalla riformulazione del
+testo. Solo fonti con licenza che permette esplicitamente l'estrazione
+(CC BY-SA, licenze aperte) o dati di autorship originale.
+
+**Limite di qualità noto — combinazioni "originale-nativa":** essendo
+generate combinatoriamente incrociando pool di ingredienti per cucina, una
+minoranza di combinazioni risulta culinariamente insolita (es. un
+formaggio "in umido", un salume italiano etichettato come piatto inglese)
+pur restando corrette nei macro — i pool privilegiano la coerenza del
+matching sulla banca dati piuttosto che l'autenticità di ogni singolo
+abbinamento.
+
+## Schema (un oggetto per ricetta)
+
+| Campo | Tipo | Note |
+|---|---|---|
+| `id` | Long | Intero progressivo, univoco nel file — il DTO Android (`RicetteScopertaDownloadWorker.kt`) richiede `Long`, non stringa |
+| `nome` | String | |
+| `fonte` | String | Uno dei valori in tabella sopra |
+| `licenza_fonte` | String? | Testo di attribuzione da mostrare in UI, `null` per autorship originale |
+| `tipo_pasto` | [String] | `colazione` / `pranzo` / `cena` / `spuntino` — una ricetta può averne più di uno |
+| `cucina` | [String] | `italiana` / `francese` / `tedesca` / `spagnola` / `inglese` / altre (dedotte da tag/categoria per le fonti esterne) |
+| `tipo_dieta` | [String] | `chetogenica` / `ipocalorica` / `bassa_glicemia` / `iperproteica` — euristica su macro già calcolati, non validazione clinica |
+| `porzioni` | Double | |
+| `peso_porzione_dichiarato_g` | Double | |
+| `kcal_porzione` / `carbo_porzione` / `grassi_porzione` / `proteine_porzione` | Double | Per porzione |
+| `ingredienti` | [{nome, grammi, fonte_macro, voce_matchata}] | `fonte_macro` è `"CIQUAL"`/`"CREA"`/`null` (ingredienti a impatto trascurabile) |
+| `prompt_immagine` | String? | Testo descrittivo per un futuro tool di generazione immagini — non ancora usato in app |
+
+## Pipeline di generazione
+
+Script Python (non versionati in questo repo, vivono nell'ambiente di
+sviluppo): downloader/estrattore per Wikibooks IT/EN (API MediaWiki
+pubblica), pipeline Kaggle Food.com, generatore combinatorio per le
+ricette native, modulo di classificazione condiviso
+(`tipo_pasto`/`cucina`/`tipo_dieta`/`prompt_immagine`) applicato in fase
+di merge finale. Dettaglio delle decisioni prese in `DECISIONI.md` nel
+repo principale, blocco "Ricette — scoperta".
