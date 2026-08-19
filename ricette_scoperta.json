@@ -132,7 +132,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Bowl of Oats' (cucina americana, ingredienti principali: oats, vanilla, maple syrup), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno all'impostazione più bassa (100-200 gradi).",
+   "Preriscaldare il forno all'impostazione più bassa, circa 85°C (185°F).",
    "In una ciotola piccola mescolare la vaniglia e lo sciroppo fino a ottenere un composto ben amalgamato.",
    "In una ciotola media mescolare bene i fiocchi d'avena con il composto di vaniglia.",
    "Stendere su una teglia da forno e infornare per 2 minuti.",
@@ -379,7 +379,7 @@
   "procedimento_it": [
    "Lavare il petto di pollo e tagliarlo a metà nel senso della lunghezza (per aprirlo a farfalla), condire con timo, pepe, sale, olio d'oliva e cumino.",
    "Lasciare marinare per almeno 2 ore.",
-   "Disporre in una teglia da forno, coprire con carta stagnola e cuocere per 30 minuti in forno moderatamente caldo (175°C/350°F), oppure cuocere in una padella antiaderente a fuoco basso per 20 minuti."
+   "Disporre in una teglia da forno, coprire con carta stagnola e cuocere per 30 minuti in forno moderatamente caldo a 175°C (350°F), oppure cuocere in una padella antiaderente a fuoco basso per 20 minuti."
   ],
   "procedimento_en": [
    "Wash and cut chicken breast down the middle (to form a butterfly), season with thyme, peppers, salt, olive oil and cumin.",
@@ -2514,7 +2514,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Potaddies' (cucina internazionale, ingredienti principali: potatoes, vegetable oil, butter, softened, salt and pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 400°F (circa 200°C).",
+   "Preriscaldare il forno a 200°C (400°F).",
    "Tagliare le patate per il lungo a fette da circa 1,3 cm.",
    "Versare un filo d'olio sul fondo della teglia.",
    "Spalmare 1 cucchiaino di burro su un lato di ogni fetta di patata.",
@@ -2620,7 +2620,7 @@
   "procedimento_it": [
    "Mescolare la farina e l'olio in una padella di ghisa o in un recipiente pesante da forno.",
    "Io uso una pentola di ghisa (dutch oven).",
-   "Cuocere in forno preriscaldato a 400°F (circa 200°C) per 1 ora e mezza - 2 ore, MESCOLANDO OGNI 15 MINUTI con una frusta.",
+   "Cuocere in forno preriscaldato a 200°C (400°F) per 1 ora e mezza - 2 ore, MESCOLANDO OGNI 15 MINUTI con una frusta.",
    "Il colore indica il grado di cottura.",
    "Lasciare raffreddare prima di conservare.",
    "Bisogna mescolare ogni 15 minuti, altrimenti brucia.",
@@ -2728,7 +2728,7 @@
    "Con un tritatutto o un robot da cucina, tritare finemente le arachidi, il sedano, le carote, le cipolle, il prezzemolo e i semi (senza però ridurli in polvere o purea). Unire il mix di spezie in polvere.",
    "Versare il composto in una ciotola e impastare energicamente per 1 minuto. Se il composto ha bisogno di più legante, aggiungere 1-2 cucchiai d'acqua. Il composto resterà comunque un po' asciutto.",
    "Oliare leggermente una teglia. Formare con il composto 4 mucchietti grandi o 6 medi. Appiattirli in polpette usando il dorso di un cucchiaio.",
-   "Cuocere in forno a 350°F (circa 175°C) per 15-20 minuti, finché i burger sono dorati e croccanti al tatto.",
+   "Cuocere in forno a 175°C (350°F) per 15-20 minuti, finché i burger sono dorati e croccanti al tatto.",
    "Servire come si servirebbero normali hamburger."
   ],
   "procedimento_en": [
@@ -2811,7 +2811,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Orange Ginger Chicken and Rice Recipe' (cucina asiatica, ingredienti principali: orange juice, divided, onion, finely, cooked brown rice, fresh ginger, grated, dried parsley), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Riscaldare il forno a 350°F (circa 175°C).",
+   "Riscaldare il forno a 175°C (350°F).",
    "Scaldare 1 cucchiaio di succo d'arancia in un pentolino a fuoco medio.",
    "Aggiungere la cipolla e cuocerla nel succo d'arancia finché morbida, mescolando spesso.",
    "Aggiungere il riso, lo zenzero, il prezzemolo e il timo e mescolare bene.",
@@ -3140,7 +3140,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Balsamic Glazed Onions' (cucina europea, ingredienti principali: red onions, extra virgin olive oil, balsamic vinegar), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 425°F (circa 220°C).",
+   "Preriscaldare il forno a 220°C (425°F).",
    "Tagliare le cipolle a metà per il lungo, lasciando la buccia.",
    "In una padella da forno da 12 pollici (circa 30 cm), scaldare l'olio finché comincia a fumare.",
    "Mettere 4 metà di cipolla nella padella con il lato tagliato verso il basso.",
@@ -4066,7 +4066,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Thyme Roasted New Potatoes' (cucina europea, ingredienti principali: baby new potatoes, fresh thyme, chopped, olive oil), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 400°F (circa 200°C).",
+   "Preriscaldare il forno a 200°C (400°F).",
    "Mettere le patate novelle in una teglia da forno con il timo e condire generosamente con sale e pepe nero macinato fresco.",
    "Versare sopra un filo d'olio d'oliva e arrostire per 45-50 minuti finché dorate e cotte fino in fondo."
   ],
@@ -4116,7 +4116,7 @@
    "Lavare le albicocche con acqua fredda e tagliarle a metà. Togliere il nocciolo e le eventuali parti danneggiate.",
    "Metterle in una pentola capiente, aggiungere 600 g di zucchero, mescolare e lasciare riposare per 4-6 ore finché le albicocche diventano succose. Si può mescolare di tanto in tanto.",
    "Aggiungere lo zucchero rimanente, mescolare e cuocere a fuoco vivace per 10-15 minuti. Quando le albicocche iniziano a bollire si forma della schiuma. Dopo 10-15 minuti la maggior parte della schiuma scomparirà, ma se resta va rimossa.",
-   "Aggiungere pectina se gradita, mescolare e versare la marmellata calda (100°C) in barattoli di vetro.",
+   "Aggiungere pectina se gradita, mescolare e versare la marmellata calda, a 100°C (212°F), in barattoli di vetro.",
    "Chiudere i barattoli caldi e conservarli in un luogo buio."
   ],
   "procedimento_en": [
@@ -4179,7 +4179,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Apples and Cinnamon Pork Chop Bake' (cucina internazionale, ingredienti principali: boneless pork chops, cinnamon, margarine, apples, sliced, brown sugar), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 350°F (circa 175°C).",
+   "Preriscaldare il forno a 175°C (350°F).",
    "Rosolare le braciole di maiale in un po' d'olio d'oliva. Togliere dal fuoco.",
    "Mescolare cannella, mele e zucchero di canna.",
    "In una teglia da 13x9x2 pollici (circa 33x23x5 cm), disporre a strati le braciole e coprirle con il composto di mele. Tagliare il burro a fettine e disporlo sopra le braciole.",
@@ -4239,7 +4239,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Rosemary Potatoes' (cucina internazionale, ingredienti principali: potato, cooking spray, dried rosemary), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 230°C.",
+   "Preriscaldare il forno a 230°C (446°F).",
    "Sbucciare e lavare le patate, poi tagliarle a dadini di media grandezza. Sbollentarle al microonde in poca acqua per 5-6 minuti. Scolare bene. Ricoprire generosamente una teglia piatta con spray da cucina, distribuire le patate a dadini e spruzzarle a loro volta con lo spray. Cospargere le patate con rosmarino. Cuocere in forno 30-35 minuti o finché le patate sono dorate, girandole una volta."
   ],
   "procedimento_en": [
@@ -4375,7 +4375,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Meatloaf' (cucina internazionale, ingredienti principali: ground beef, breadcrumbs, chopped onion, milk, ketchup), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Polpettone: unire tutti gli ingredienti, disporli in uno stampo da plumcake e cuocere in forno a 350°F (circa 175°C) per 45 minuti.",
+   "Polpettone: unire tutti gli ingredienti, disporli in uno stampo da plumcake e cuocere in forno a 175°C (350°F) per 45 minuti.",
    "Glassa: mentre il polpettone cuoce, mettere gli ingredienti della glassa in un pentolino e cuocere sul fornello finché lo zucchero di canna si scioglie.",
    "Quando il polpettone è pronto, versare la glassa sopra e cuocere per altri 10 minuti."
   ],
@@ -4643,7 +4643,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Mustard Glazed Ham' (cucina internazionale, ingredienti principali: cooked ham, dijon mustard, packed brown sugar, dry white wine), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Disporre il prosciutto, con il lato grasso rivolto verso l'alto, su una griglia dentro una teglia da forno bassa.",
-   "Arrostire senza coprire in forno a 325°F (circa 165°C) per 1 ora e 45 minuti - 2 ore e un quarto, o finché il termometro da carne inserito nella parte più spessa segna 140°F (circa 60°C).",
+   "Arrostire senza coprire in forno a 165°C (325°F) per 1 ora e 45 minuti - 2 ore e un quarto, o finché il termometro da carne inserito nella parte più spessa segna 60°C (140°F).",
    "Mescolare senape, zucchero di canna e vino. Spennellare il prosciutto 2 o 3 volte durante gli ultimi 20 minuti di cottura."
   ],
   "procedimento_en": [
@@ -4879,7 +4879,7 @@
    "Aggiungere il latte e sbattere.",
    "Disporre il riso in una teglia da forno unta da 1,5 quart (circa 1,4 litri).",
    "Disporre il tonno sopra il riso e versare la salsa sopra.",
-   "Cuocere in forno a 350°F (180°C) per 25 minuti."
+   "Cuocere in forno a 180°C (350°F) per 25 minuti."
   ],
   "procedimento_en": [
    "Drain oil/water from tuna.",
@@ -5041,7 +5041,7 @@
   "procedimento_it": [
    "Tagliare le fragole a metà o in quarti, a seconda della dimensione; disporle su una teglia; condire con sale e pepe.",
    "Distribuirle su una teglia (usare carta stagnola per facilitare la pulizia).",
-   "Essiccare in forno per tre ore a 100°C / 210°F."
+   "Essiccare in forno per tre ore a 100°C (212°F)."
   ],
   "procedimento_en": [
    "Halve or quarter the strawberries, depending on their size; place on a baking sheet; season with salt and pepper.",
@@ -5535,7 +5535,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Balsamic Glazed Onions' (cucina europea, ingredienti principali: red onions, extra virgin olive oil, balsamic vinegar), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 425°F (220°C).",
+   "Preriscaldare il forno a 220°C (425°F).",
    "Tagliare le cipolle a metà per il lungo, lasciando la buccia.",
    "In una padella da forno da 30 cm, scaldare l'olio finché non fuma.",
    "Disporre 4 metà di cipolla con il lato tagliato verso il basso nella padella.",
@@ -5794,7 +5794,7 @@
   "procedimento_it": [
    "Disporre il pollo in una teglia da forno (non unta). Di solito taglio il pollo in pezzi grandi come un palmo per servirlo più facilmente.",
    "Unire gli altri ingredienti e stenderli sopra il pollo.",
-   "Cuocere in forno a 350°F (180°C) per 3/4 d'ora, o finché il pollo è cotto e la copertura è dorata ai bordi."
+   "Cuocere in forno a 180°C (350°F) per 3/4 d'ora, o finché il pollo è cotto e la copertura è dorata ai bordi."
   ],
   "procedimento_en": [
    "Place chicken into an oven-proof casserole dish (ungreased).  I usually cut the chicken into palm sized pieces to make it easier to serve.",
@@ -5841,7 +5841,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Walnut Oil' (cucina internazionale, ingredienti principali: walnut pieces, vegetable oil), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 350°F (180°C).",
+   "Preriscaldare il forno a 180°C (350°F).",
    "Immergere le noci in acqua bollente in una piccola casseruola; far bollire per 3 minuti; scolare.",
    "Distribuire le noci in un solo strato su una teglia bassa.",
    "Cuocere in forno per 15-25 minuti o finché dorate, mescolando una volta.",
@@ -6368,7 +6368,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'West Indes Baked Bananas - Guineos Al Horno' (cucina internazionale, ingredienti principali: bananas, lemon juice, vanilla, brown sugar, cinnamon), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scaldare il forno a 425°F (220°C). Disporre le banane sbucciate in una teglia. Coprire ciascuna con succo di limone e vaniglia. Cospargere ogni banana con zucchero di canna e cannella. Cuocere in forno per 7 minuti. Servire calde."
+   "Scaldare il forno a 220°C (425°F). Disporre le banane sbucciate in una teglia. Coprire ciascuna con succo di limone e vaniglia. Cospargere ogni banana con zucchero di canna e cannella. Cuocere in forno per 7 minuti. Servire calde."
   ],
   "procedimento_en": [
    "Heat oven to 425*F.  Place peeled bananas in a baking pan.  Cover each with lemon juice and vanilla.  Sprinkle each banana with brown sugar and cinnamon.  Bake for 7 minutes.  Serve hot."
@@ -6530,7 +6530,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Baked Apple' (cucina internazionale, ingredienti principali: apple, maple syrup), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 180°C.",
+   "Preriscaldare il forno a 180°C (356°F).",
    "Lavare la mela e togliere il torsolo con uno scavino, creando una cavità centrale senza forare la base.",
    "Incidere leggermente la buccia intorno all'equatore della mela per evitare che scoppi in cottura.",
    "Adagiare la mela in una piccola teglia da forno e versare lo sciroppo d'acero nella cavità e sulla superficie.",
@@ -7083,7 +7083,7 @@
    "Premere il sacchetto finché l'olio e il peperoncino in polvere non sono ben mescolati.",
    "Aggiungere quindi le patate e sigillare il sacchetto.",
    "Agitare le patate nel sacchetto e poi toglierle.",
-   "Disporle su una teglia leggermente unta o spruzzata con olio e cuocere in forno a 350°F (180°C) per circa 1 ora o finché morbide alla forchetta."
+   "Disporle su una teglia leggermente unta o spruzzata con olio e cuocere in forno a 180°C (350°F) per circa 1 ora o finché morbide alla forchetta."
   ],
   "procedimento_en": [
    "Sliced the potatoes into large fries.",
@@ -7291,11 +7291,11 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Maple Glazed Pork Roast With Sweet Potatoes' (cucina internazionale, ingredienti principali: boneless pork loin roast, all-purpose flour, pure maple syrup, sweet potatoes, unsalted butter, softened), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 350°F (180°C).",
+   "Preriscalda il forno a 180°C (350°F).",
    "Tampona la carne di maiale per asciugarla e condiscila generosamente con sale e pepe.",
    "Cospargi il centro di una teglia da forno resistente al fuoco con 1/2 cucchiaio di farina.",
    "Adagia il maiale sulla farina nella teglia e arrostisci al centro del forno per 40 minuti.",
-   "Spennella il maiale con un po' di sciroppo d'acero e continua ad arrostire, spennellando con lo sciroppo d'acero ogni 10 minuti, finché un termometro inserito per 5 cm al centro della carne non segna 155°F (68°C), altri 20-25 minuti.",
+   "Spennella il maiale con un po' di sciroppo d'acero e continua ad arrostire, spennellando con lo sciroppo d'acero ogni 10 minuti, finché un termometro inserito per 5 cm al centro della carne non segna 68°C (155°F), altri 20-25 minuti.",
    "Mentre il maiale arrostisce, sbuccia le patate e tagliale a pezzi di circa 4 cm.",
    "In una pentola copri le patate con acqua fredda salata per circa 5 cm oltre il livello delle patate e fai sobbollire finché sono tenere, circa 15 minuti.",
    "Scola le patate in uno scolapasta posizionato sopra una ciotola grande e conserva 3 tazze dell'acqua di cottura.",
@@ -7572,11 +7572,11 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Sweet Potato for Two' (cucina internazionale, ingredienti principali: sweet potato, olive oil, brown sugar, cinnamon), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 400°F (200°C).",
+   "Preriscalda il forno a 200°C (400°F).",
    "Ungi una teglia da crostata.",
    "Sbuccia la patata dolce e tagliala a pezzetti.",
    "Metti i pezzetti di patata dolce in una ciotola grande e aggiungi i restanti ingredienti. Mescola con un cucchiaio di legno finché non sono ben amalgamati.",
-   "Cuoci in forno a 400°F (200°C) per 40 minuti, mescolando circa ogni 15-20 minuti."
+   "Cuoci in forno a 200°C (400°F) per 40 minuti, mescolando circa ogni 15-20 minuti."
   ],
   "procedimento_en": [
    "Preheat oven to 400*.",
@@ -7641,7 +7641,7 @@
   "procedimento_it": [
    "Schiaccia i fagioli rossi.",
    "Poi aggiungi le spezie, la carota e il pangrattato finché non si formano degli hamburger.",
-   "Metti gli hamburger in una teglia da forno e cuoci a 350°F (180°C) per 20 minuti."
+   "Metti gli hamburger in una teglia da forno e cuoci a 180°C (350°F) per 20 minuti."
   ],
   "procedimento_en": [
    "Mash up kidney beans.",
@@ -7752,7 +7752,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Mammy's Apple Crisp' (cucina americana, ingredienti principali: apples, sliced, brown sugar, all-purpose flour, unsalted butter, softened, walnuts, chopped), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 180°C e imburrare una teglia da forno.",
+   "Preriscaldare il forno a 180°C (356°F) e imburrare una teglia da forno.",
    "Disporre le fette di mela nella teglia formando uno strato uniforme.",
    "In una ciotola mescolare farina, zucchero di canna e noci tritate.",
    "Aggiungere il burro morbido e lavorare con le dita fino a ottenere un composto sbricioloso tipo crumble.",
@@ -8105,7 +8105,7 @@
    "Affetta sottilmente le patate.",
    "Alterna gli strati in una teglia da forno unta.",
    "Mescola insieme la crema di funghi e il latte.",
-   "Versa sopra gli strati e cuoci in forno a 350°F (180°C) per 1 ora o finché le patate non sono tenere."
+   "Versa sopra gli strati e cuoci in forno a 180°C (350°F) per 1 ora o finché le patate non sono tenere."
   ],
   "procedimento_en": [
    "Slice corned beef 1/4 inch thick or crumble.",
@@ -8257,7 +8257,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Southwestern Rice Casserole' (cucina internazionale, ingredienti principali: cooked white rice, red bell pepper, cut into strips, diced tomatoes and green chilies, tomato sauce), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scalda il forno a 350°F (180°C).",
+   "Scalda il forno a 180°C (350°F).",
    "In una teglia da forno da 1,5 litri non unta, unisci tutti gli ingredienti. Mescola bene.",
    "Cuoci in forno per 35-40 minuti."
   ],
@@ -8478,7 +8478,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Buttery Roast Thyme Potatoes' (cucina europea, ingredienti principali: new potatoes, olive oil, onions, finely, thyme, chopped, melted butter), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scalda il forno a 325°F (160°C).",
+   "Scalda il forno a 160°C (325°F).",
    "Affetta le patate a rondelle dello spessore di una moneta.",
    "Scalda l'olio in una casseruola grande e aggiungi le cipolle, condisci con un po' di sale, molto pepe e il timo.",
    "Cuoci a fuoco dolce per circa 15 minuti finché non si ammorbidiscono.",
@@ -8552,7 +8552,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Baked Sweet Potato With Topping' (cucina internazionale, ingredienti principali: sweet potato, pure maple syrup, raisins, sunflower seeds, salt and pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 400°F (200°C). Rivesti una teglia da forno con carta stagnola.",
+   "Preriscalda il forno a 200°C (400°F). Rivesti una teglia da forno con carta stagnola.",
    "Punzecchia la patata con una forchetta. Mettila sulla teglia e cuoci in forno per un'ora o finché non è molto tenera.",
    "Taglia la patata dolce a metà e guarnisci con i restanti ingredienti.",
    "NOTA: la patata può essere cotta anche al microonde. Prova con otto minuti, girandola dopo quattro per una cottura uniforme."
@@ -8770,7 +8770,7 @@
   "procedimento_it": [
    "Strofina bene le patate dolci sotto l'acqua corrente per pulirle.",
    "Punzecchia le patate tutt'intorno con una forchetta.",
-   "Cuoci in forno a 350°F (180°C) per circa 1 ora o finché non sono morbide (metti le patate direttamente sulla griglia senza avvolgerle nella stagnola).",
+   "Cuoci in forno a 180°C (350°F) per circa 1 ora o finché non sono morbide (metti le patate direttamente sulla griglia senza avvolgerle nella stagnola).",
    "Metti il burro in una ciotolina in tavola.",
    "Metti lo zucchero di canna in una ciotolina in tavola.",
    "Incidi le patate dolci lungo il centro.",
@@ -9296,7 +9296,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Baked Onion Fans' (cucina internazionale, ingredienti principali: size red onions, balsamic vinegar, fresh ground black pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 350°F (180°C).",
+   "Preriscalda il forno a 180°C (350°F).",
    "Spazzola via eventuali pezzi di buccia che si staccano, ma per il resto lascia le cipolle non sbucciate.",
    "Taglia le cipolle a metà, dalla radice fino al gambo.",
    "Disponi le metà, con il lato tagliato rivolto verso il basso, in una teglia di vetro abbastanza grande da contenerle comodamente.",
@@ -9496,7 +9496,7 @@
    "Sterilizza un barattolo di vetro da 1 litro. Usa un coperchio nuovo.",
    "Lava con cura le more e stendile su carta oleata. Piega la carta sopra e premi delicatamente giusto per ammaccarle. Se premi troppo forte otterrai una poltiglia di more.",
    "Usando la carta, fai scivolare le more nel barattolo (assicurati che sia ancora caldo dalla sterilizzazione).",
-   "Scalda l'aceto appena sotto il punto di ebollizione, circa 195°F (90°C). Versalo sulle more usando un imbuto. Fai attenzione a non scottarti.",
+   "Scalda l'aceto appena sotto il punto di ebollizione, circa 90°C (195°F). Versalo sulle more usando un imbuto. Fai attenzione a non scottarti.",
    "Pulisci il bordo del barattolo con un tovagliolo di carta umido e pulito, quindi chiudi seguendo le istruzioni del produttore. Conserva in un luogo fresco e buio per 3 settimane.",
    "Per verificare il sapore, versa una goccia di aceto su un cucchiaio di legno o su un pezzo di pane bianco.",
    "Quando il sapore è giusto, filtra l'aceto con un colino in una brocca o in un misurino. Scarta le more.",
@@ -9641,7 +9641,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Garlic Roasted Green Beans' (cucina internazionale, ingredienti principali: green beans, fresh, olive oil, kosher salt, black pepper, garlic, fresh, minced), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 200°C.",
+   "Preriscaldare il forno a 200°C (392°F).",
    "Lavare e spuntare i fagiolini.",
    "Disporli su una teglia foderata con carta forno, condire con olio d'oliva, aglio tritato, sale kosher e pepe nero, mescolando bene per distribuire uniformemente il condimento.",
    "Stendere i fagiolini in un unico strato senza sovrapporli.",
@@ -9699,7 +9699,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Ediets Dinner - Grilled Chicken W/ Baked Sweet Potato &amp; Broc' (cucina internazionale, ingredienti principali: boneless chicken breasts, cinnamon, sweet potato, fresh broccoli), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Patata dolce al forno:",
-   "Preriscalda il forno a 375°F (190°C).",
+   "Preriscalda il forno a 190°C (375°F).",
    "Strofina la patata e punzecchiala con una forchetta in 4 o 5 punti.",
    "Cuoci in forno per circa 45 minuti, a seconda della dimensione.",
    "Una volta cotta, lascia riposare la patata per circa 1-2 minuti.",
@@ -9997,7 +9997,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Taiwanese Sweet Potatoes' (cucina asiatica, ingredienti principali: -4 sweet potatoes, sesame oil, white pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 350°F (180°C). Tagliare la patata dolce a listarelle (come per le patatine fritte).",
+   "Preriscaldare il forno a 180°C (350°F). Tagliare la patata dolce a listarelle (come per le patatine fritte).",
    "Mettere le listarelle di patata in un sacchetto di plastica con l'olio e agitare per ricoprirle in modo uniforme.",
    "Trasferire le patatine su una teglia unta. Cospargere abbondantemente di pepe e cuocere in forno per 30 minuti o fino a cottura completata."
   ],
@@ -10180,7 +10180,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Hot Potatoes' (cucina internazionale, ingredienti principali: potatoes, olive oil, cinnamon, ground ginger, cayenne pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scaldare il barbecue al massimo fino a circa 425°F (220°C), poi ridurre a fuoco medio.",
+   "Scaldare il barbecue al massimo fino a circa 220°C (425°F), poi ridurre a fuoco medio.",
    "Tagliare le patate a fette di circa 1 cm di spessore.",
    "Disporle su una teglia e spennellarle con metà dell'olio.",
    "Girare le patate e spennellare l'altro lato con l'olio rimasto.",
@@ -10367,7 +10367,7 @@
    "Mettere gli altri ingredienti in un sacchetto da freezer da 1 gallone e aggiungere il maiale.",
    "Girare più volte per ricoprire la carne con la marinata. Etichettare e congelare.",
    "Al momento di servire, scongelare la carne. Disporla a strati in una teglia da forno preparata e versarvi sopra la marinata rimasta.",
-   "Coprire e cuocere in forno a 350°F (180°C) per 30 minuti.",
+   "Coprire e cuocere in forno a 180°C (350°F) per 30 minuti.",
    "Girare la carne e cuocere per altri 20 minuti.",
    "Contorno consigliato: patate dolci al forno."
   ],
@@ -10718,7 +10718,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Roasted Green Beans' (cucina internazionale, ingredienti principali: green beans, olive oil, kosher salt, fresh ground pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 400°F (200°C).",
+   "Preriscaldare il forno a 200°C (400°F).",
    "Lavare, asciugare bene e spuntare i fagiolini.",
    "Disporre i fagiolini su una teglia e condire con un filo d'olio d'oliva (in alternativa, usare uno spray all'olio d'oliva).",
    "Cospargere di sale e pepe a piacere.",
@@ -10849,7 +10849,7 @@
   "procedimento_it": [
    "Rosolare il maiale in 2 cucchiaini di olio per dorarlo all'esterno e sigillare i succhi. Trasferire in una teglia da forno.",
    "Unire i restanti 3 cucchiaini di olio con il rosmarino e l'aglio. Spennellare il filetto con il composto. Cospargere generosamente con sale e pepe.",
-   "Cuocere in forno scoperto a 425°F (220°C) per 18-25 minuti, finché non è cotto fino in fondo."
+   "Cuocere in forno scoperto a 220°C (425°F) per 18-25 minuti, finché non è cotto fino in fondo."
   ],
   "procedimento_en": [
    "Sear pork in 2 t. oil to brown outside and seal in juices.  Place in baking dish.",
@@ -10958,8 +10958,8 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Homemade Yogurt' (cucina internazionale, ingredienti principali: milk (whole, 2%, 1%), plain yogurt), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scaldare il latte in un pentolino fino a circa 85°C, appena sotto il bollore, mescolando di tanto in tanto per evitare che si attacchi.",
-   "Togliere dal fuoco e lasciar raffreddare il latte fino a circa 43-46°C, tiepido al tatto.",
+   "Scaldare il latte in un pentolino fino a circa 85°C (185°F), appena sotto il bollore, mescolando di tanto in tanto per evitare che si attacchi.",
+   "Togliere dal fuoco e lasciar raffreddare il latte fino a circa 43-46°C (109-115°F), tiepido al tatto.",
    "Prelevare un po' di latte tiepido e stemperarvi lo yogurt bianco, poi versare questo composto nel resto del latte mescolando bene.",
    "Versare in un contenitore o in barattoli, coprire e avvolgere in un canovaccio per mantenere il calore.",
    "Lasciar fermentare in un luogo tiepido (es. forno spento con la luce accesa) per 6-8 ore, senza muovere il contenitore, finché si rapprende.",
@@ -11095,7 +11095,7 @@
    "Rosolare la carne macinata di manzo con le cipolle.",
    "Aggiungere la farina al composto.",
    "In una teglia da forno grande aggiungere la carne in scatola (corned beef), lo zucchero di canna, il peperoncino in polvere, il ketchup, l'acqua e l'aceto.",
-   "Aggiungere il composto di carne macinata e cuocere in forno a 350°F (180°C) per 1 ora.",
+   "Aggiungere il composto di carne macinata e cuocere in forno a 180°C (350°F) per 1 ora.",
    "Servire nei panini."
   ],
   "procedimento_en": [
@@ -11310,7 +11310,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Hazelnut Butter' (cucina internazionale, ingredienti principali: hazelnuts, unsalted butter, vanilla extract), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 350°F (180°C).",
+   "Preriscaldare il forno a 180°C (350°F).",
    "Tostare le nocciole su una teglia per 10-15 minuti, o finché non diventano fragranti. Scuotere la teglia più volte durante la tostatura.",
    "Versarle su un canovaccio da cucina e piegare il canovaccio sopra in modo che facciano vapore. Lasciar raffreddare per 15 minuti, poi strofinarle con il canovaccio per eliminare la pellicina.",
    "Frullare le nocciole nel robot da cucina finché non sono finemente tritate. Aggiungere il burro a pezzetti insieme alla vaniglia e frullare fino a ottenere un composto liscio.",
@@ -11373,7 +11373,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Cinnamon Baked Sweet Potatoes / Yams' (cucina internazionale, ingredienti principali: sweet potatoes, butter, melted, brown sugar, cinnamon), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Lavare le patate dolci. Foderare una teglia da 9x9 pollici con un foglio di alluminio. Lasciare la buccia sulle patate e disporle nella teglia.",
-   "Cuocere in forno a 350°F (180°C) da 1 ora e mezza a 2 ore, a seconda della dimensione, o finché le patate non risultano tenere alla forchetta/al coltello.",
+   "Cuocere in forno a 180°C (350°F) da 1 ora e mezza a 2 ore, a seconda della dimensione, o finché le patate non risultano tenere alla forchetta/al coltello.",
    "Togliere dal forno e tagliare ogni patata a metà. (La buccia può essere lasciata o rimossa.) Versare il burro fuso su ogni metà. Unire zucchero e cannella e cospargere sopra.",
    "Buon appetito."
   ],
@@ -11521,7 +11521,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Cajun Style Sweet Potato' (cucina americana, ingredienti principali: paprika, brown sugar, black pepper, onion powder, dried thyme), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 375°F (190°C).",
+   "Preriscaldare il forno a 190°C (375°F).",
    "In una ciotola piccola, mescolare paprika, zucchero di canna, pepe nero, cipolla in polvere, timo, rosmarino, aglio in polvere e pepe di Cayenna.",
    "Tagliare le patate dolci a metà per il lungo. Spennellare ogni metà con olio d'oliva. Strofinare il mix di spezie sulla superficie tagliata di ogni metà. Disporre le patate dolci su una teglia, o in una pirofila bassa.",
    "Cuocere nel forno preriscaldato finché non sono tenere, circa 1 ora."
@@ -11637,7 +11637,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Easiest Low Fat French Fries' (cucina internazionale, ingredienti principali: -6 potatoes, cut into wedges, cooking spray, salt and pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 220°C.",
+   "Preriscaldare il forno a 220°C (425°F).",
    "Lavare le patate e tagliarle a spicchi regolari, lasciando la buccia.",
    "Disporre gli spicchi su una teglia foderata con carta forno.",
    "Spruzzare gli spicchi con cooking spray e condire con sale e pepe, mescolando per distribuire uniformemente il condimento.",
@@ -11796,7 +11796,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Sweet Potato Fries' (cucina internazionale, ingredienti principali: sweet potatoes or 2 yams, olive oil, ground cloves, ground cinnamon), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 220°C.",
+   "Preriscaldare il forno a 220°C (425°F).",
    "Pelare le patate dolci e tagliarle a bastoncini regolari, come delle patatine fritte.",
    "In una ciotola condire i bastoncini con olio d'oliva, chiodi di garofano macinati e cannella, mescolando bene per ricoprirli uniformemente.",
    "Disporli in un unico strato su una teglia foderata con carta forno, senza sovrapporli.",
@@ -11919,8 +11919,8 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Lebanese Laban (Yogurt)' (cucina asiatica, ingredienti principali: milk, yogurt), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scaldare il latte in un pentolino fino quasi al bollore, circa 85°C, mescolando per evitare che si attacchi sul fondo.",
-   "Togliere dal fuoco e lasciar intiepidire il latte fino a circa 40-45°C.",
+   "Scaldare il latte in un pentolino fino quasi al bollore, circa 85°C (185°F), mescolando per evitare che si attacchi sul fondo.",
+   "Togliere dal fuoco e lasciar intiepidire il latte fino a circa 40-45°C (104-113°F).",
    "Stemperare lo yogurt in una piccola quantità di latte tiepido, poi incorporarlo al resto del latte mescolando delicatamente.",
    "Versare in un contenitore di vetro o ceramica e coprire con un canovaccio o un coperchio.",
    "Avvolgere il contenitore in una coperta e lasciarlo riposare in un luogo tiepido e senza correnti d'aria per 8-12 ore, finché il laban si è rappreso.",
@@ -12049,7 +12049,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Cajun Ham and Potato Bake' (cucina americana, ingredienti principali: red wine vinegar, dijon mustard, potatoes, and, lean ham, diced, chili powder), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 350°F (180°C).",
+   "Preriscaldare il forno a 180°C (350°F).",
    "Spruzzare una teglia quadrata da 9 pollici con spray antiaderente.",
    "Mettere da parte.",
    "In una ciotola media, unire l'aceto, la senape, il peperoncino in polvere e il cumino.",
@@ -12121,7 +12121,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Melitzanosalata' (cucina europea, ingredienti principali: eggplants, onion, finely, green pepper, finely, mayonnaise), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Bucherellare le melanzane intere con una forchetta e arrostirle su fiamma diretta, sotto il grill del forno o in forno a 220°C finché la buccia è annerita e la polpa morbida, circa 30-40 minuti.",
+   "Bucherellare le melanzane intere con una forchetta e arrostirle su fiamma diretta, sotto il grill del forno o in forno a 220°C (425°F) finché la buccia è annerita e la polpa morbida, circa 30-40 minuti.",
    "Lasciar intiepidire le melanzane, poi tagliarle a metà e raccogliere la polpa con un cucchiaio, scartando la buccia.",
    "Scolare la polpa in un colino per eliminare il liquido in eccesso, poi tritarla finemente o schiacciarla con una forchetta.",
    "In una ciotola unire la polpa di melanzana con la cipolla tritata finemente e il peperone verde tritato finemente.",
@@ -12277,7 +12277,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Artichoke Dip' (cucina internazionale, ingredienti principali: mayonnaise, parmesan cheese, artichokes, drained), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Mescolare e cuocere in forno a 350°F (180°C) finché non forma delle bollicine in superficie."
+   "Mescolare e cuocere in forno a 180°C (350°F) finché non forma delle bollicine in superficie."
   ],
   "procedimento_en": [
    "Mix and bake till bubbly at 350."
@@ -12321,7 +12321,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Simple Sliced Salami Snacks' (cucina europea, ingredienti principali: sliced salami, sliced salami), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 350°F (180°C).",
+   "Preriscaldare il forno a 180°C (350°F).",
    "Disporre uno strato di fette sulla teglia da grill.",
    "Cuocere in forno per 8-10 minuti.",
    "Togliere dal forno, lasciare raffreddare, poi disporre su carta assorbente per asciugare.",
@@ -12787,7 +12787,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Cajun Baked Sweet Potato' (cucina americana, ingredienti principali: paprika, brown sugar, black pepper, onion powder, thyme), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 375 gradi (190°C).",
+   "Preriscalda il forno a 190°C (375°F).",
    "Unisci la paprika, lo zucchero di canna, il pepe nero, la cipolla in polvere, il timo, il rosmarino, l'aglio in polvere e il pepe di Cayenna.",
    "Taglia le patate dolci a metà per il lungo; strofina le metà con olio d'oliva, poi strofina il mix di spezie sulla parte tagliata di ciascuna patata.",
    "Cuoci in forno per 1 ora, o finché le patate dolci non sono morbide."
@@ -12866,7 +12866,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Balsamic Pork Tenderloin' (cucina internazionale, ingredienti principali: pork tenderloin, balsamic vinegar, extra virgin olive oil, garlic, sliced, salt and pepper), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 500°F (260°C).",
+   "Preriscalda il forno a 260°C (500°F).",
    "Pratica delle incisioni nel filetto di maiale e inserisci delle fettine d'aglio.",
    "Unisci aceto balsamico e olio d'oliva e strofina il composto sulla carne.",
    "Metti in una teglia da forno.",
@@ -12999,7 +12999,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Perfect Pork Tenderloin' (cucina internazionale, ingredienti principali: soy sauce, worcestershire sauce, pork tenderloin), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Unisci tutti gli ingredienti e lascia marinare tutta la notte.",
-   "Preriscalda il forno a 500 gradi (260°C).",
+   "Preriscalda il forno a 260°C (500°F).",
    "Metti la carne in una teglia foderata di carta stagnola per facilitare la pulizia.",
    "Cuoci la carne per 6 minuti per ogni libbra (circa 450 g). Spegni il forno - NON APRIRE LO SPORTELLO DEL FORNO - lascia il filetto in forno per un'ora. NON SBIRCIARE!"
   ],
@@ -13302,7 +13302,7 @@
    "Sbuccia le patate e tagliale a cubetti di 2 cm.",
    "Disponile su una teglia da forno e cospargi con il cumino e abbondante sale e pepe nero macinato fresco.",
    "Versa l'olio sopra e mescola le patate finché non sono ben ricoperte.",
-   "Cuoci in forno preriscaldato a temperatura da moderata a calda (180-200°C) finché non sono dorate e croccanti, circa 30 minuti.",
+   "Cuoci in forno preriscaldato a temperatura da moderata a calda, 180-200°C (350-400°F), finché non sono dorate e croccanti, circa 30 minuti.",
    "Servi con piatti in stile orientale."
   ],
   "procedimento_en": [
@@ -14391,7 +14391,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Lancashire Hotpot' (cucina inglese, ingredienti principali: (900 g) neck of lamb or mutton, potatoes), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Taglia l'agnello a cubetti e metti da parte. Preriscalda il forno a 325°F / 170°C (gas mark 3).",
+   "Taglia l'agnello a cubetti e metti da parte. Preriscalda il forno a 170°C (325°F, gas mark 3).",
    "Disponi uno strato di patate sul fondo di una pirofila e ricopri con una manciata di cipolla a cubetti. Aggiungi uno strato di agnello a cubetti sopra, cospargendo con le erbe.",
    "Ripeti questi strati finché la pirofila non è piena. Termina con un ultimo strato di patate.",
    "Versa acqua bollente nella pirofila fino a riempirla.",
@@ -14497,7 +14497,7 @@
    "Incorpora gradualmente il latte freddo finché non è completamente amalgamato, senza grumi.",
    "Cuoci a fuoco medio, mescolando finché il composto non inizia a sobbollire, poi lascia sobbollire ancora qualche minuto.",
    "Incorpora sale, pepe, timo e noce moscata, e lascia raffreddare la besciamella.",
-   "Preriscalda il forno a 390°F/200°C.",
+   "Preriscalda il forno a 200°C (390°F).",
    "Ricopri il fondo della pirofila con un po' di ragù alla bolognese.",
    "Ricopri con uno strato di sfoglie di lasagna, rompendole o tagliandole per adattarle se necessario.",
    "Aggiungi uno strato di ragù alla bolognese e besciamella, ripetendo gli strati fino a raggiungere il bordo della pirofila.",
@@ -14946,7 +14946,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Potatoes Anna' (cucina francese, ingredienti principali: potatoes, optionally, butter), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 250°C.",
+   "Preriscalda il forno a 250°C (482°F).",
    "Sciogli il burro.",
    "Affetta le patate sottilmente e premi le fette contro carta assorbente per asciugarle.",
    "Spennella lo stampo con il burro fuso. Disponi le fette di patate a strati nello stampo, spennellando ogni strato con il burro e terminando con il burro in superficie.",
@@ -15268,7 +15268,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Snails with Garlic Butter (Escargots à la Bourguignonne)' (cucina francese, ingredienti principali: butter, softened, minced shallots, fresh chopped parsley), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscalda il forno a 400°F (200°C).",
+   "Preriscalda il forno a 200°C (400°F).",
    "Scola e sciacqua le lumache.",
    "Unisci il burro con gli scalogni, l'aglio, il prezzemolo, il sale e il pepe, e amalgama bene.",
    "Fai saltare le cappelle dei funghi, se le usi, in un po' di burro all'aglio finché non sono cotte ma ancora sode, poi togli dal fuoco.",
@@ -15613,7 +15613,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Salmone al forno con asparagi' (cucina internazionale, ingredienti principali: salmone crudo allevamento, asparagi crudi, olio extravergine di oliva, limone, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 200°C.",
+   "Preriscaldare il forno a 200°C (392°F).",
    "Pulire gli asparagi eliminando la parte finale legnosa del gambo.",
    "Disporre il filetto di salmone e gli asparagi su una teglia foderata con carta forno.",
    "Condire con olio extravergine d'oliva, succo di limone e sale, distribuendo bene su salmone e asparagi.",
@@ -17219,7 +17219,7 @@
    "Preparare un sugo semplice facendo cuocere i pomodori tagliati a pezzi con un filo di olio extravergine e un pizzico di sale per 15-20 minuti, finché si addensa leggermente.",
    "Tagliare la mozzarella a fette sottili e far sgocciolare il liquido in eccesso.",
    "In una teglia comporre gli strati: un velo di sugo, uno strato di melanzane grigliate, mozzarella e una spolverata di parmigiano grattugiato; ripetere gli strati fino a esaurimento degli ingredienti, terminando con sugo, mozzarella e parmigiano.",
-   "Guarnire con foglie di basilico fresco e cuocere in forno preriscaldato a 200°C per 25-30 minuti, finché la superficie è dorata e gratinata.",
+   "Guarnire con foglie di basilico fresco e cuocere in forno preriscaldato a 200°C (392°F) per 25-30 minuti, finché la superficie è dorata e gratinata.",
    "Lasciar riposare 10 minuti fuori dal forno prima di tagliare e servire."
   ]
  },
@@ -17514,7 +17514,7 @@
    "Sbucciare le patate e tagliarle a fette sottili.",
    "Pulire il branzino, sciacquarlo e asciugarlo bene, praticando qualche incisione sui fianchi.",
    "Disporre le fette di patata sul fondo di una teglia oliata, condirle con un filo di olio extravergine e un pizzico di sale.",
-   "Infornare le patate da sole in forno preriscaldato a 200°C per 15 minuti, per farle ammorbidire.",
+   "Infornare le patate da sole in forno preriscaldato a 200°C (392°F) per 15 minuti, per farle ammorbidire.",
    "Adagiare il branzino sopra le patate, salarlo, irrorarlo con olio extravergine e succo di limone, e distribuire il prezzemolo tritato.",
    "Infornare nuovamente per 20-25 minuti, finché il pesce è cotto e la carne si stacca facilmente dalla lisca.",
    "Servire caldo con le patate come contorno, guarnendo con altro prezzemolo fresco."
@@ -18952,7 +18952,7 @@
    "Ammorbidire il burro a temperatura ambiente e mescolarlo con l'aglio tritato, le foglioline di timo e un pizzico di sale fino a ottenere un composto omogeneo.",
    "Massaggiare il pollo con il burro aromatizzato, cercando di farne penetrare un poco anche sotto la pelle.",
    "Farcire la cavità (o disporre accanto, se si usano tagli di petto) con qualche fetta di limone.",
-   "Disporre il pollo in una teglia e infornare in forno preriscaldato a 200°C per il tempo necessario alla cottura, girandolo e bagnandolo con il fondo di cottura ogni 15-20 minuti, finché la pelle è dorata e croccante e la carne cotta internamente.",
+   "Disporre il pollo in una teglia e infornare in forno preriscaldato a 200°C (392°F) per il tempo necessario alla cottura, girandolo e bagnandolo con il fondo di cottura ogni 15-20 minuti, finché la pelle è dorata e croccante e la carne cotta internamente.",
    "Irrorare con il succo di limone rimasto negli ultimi 10 minuti di cottura.",
    "Lasciar riposare qualche minuto fuori dal forno prima di tagliare e servire, con il fondo di cottura come condimento."
   ]
@@ -19351,7 +19351,7 @@
    "In una ciotola capiente unire il manzo macinato, il maiale spalla tritato finemente, l'uovo, il pangrattato, la cipolla e il sale.",
    "Amalgamare bene con le mani fino a ottenere un composto compatto e omogeneo.",
    "Dare al composto la forma di un polpettone allungato e disporlo su una teglia foderata o in una pirofila.",
-   "Cuocere in forno preriscaldato a 180°C per circa 50-60 minuti, finché la superficie è dorata e la cottura è completa al cuore.",
+   "Cuocere in forno preriscaldato a 180°C (356°F) per circa 50-60 minuti, finché la superficie è dorata e la cottura è completa al cuore.",
    "Lasciare riposare 5-10 minuti prima di affettare e servire."
   ]
  },
@@ -21600,7 +21600,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo arrosto della domenica' (cucina inglese, ingredienti principali: pollo petto crudo, patata sbucciata cruda, carota cruda, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Accendere il forno a 200°C in modalità statica.",
+   "Accendere il forno a 200°C (392°F) in modalità statica.",
    "Sbucciare le patate e le carote e tagliarle a tocchetti regolari.",
    "Disporre il petto di pollo in una teglia, condirlo con olio extravergine e sale, massaggiando bene la carne.",
    "Aggiungere patate e carote intorno al pollo, condendole anch'esse con un filo d'olio e sale.",
@@ -21797,7 +21797,7 @@
    "Salare il filetto di manzo e scottarlo a fuoco alto nel burro per 1-2 minuti per lato, giusto per sigillarlo.",
    "Stendere le fette di prosciutto cotto leggermente sovrapposte su un foglio di pellicola e spalmarvi sopra la duxelles di funghi.",
    "Adagiare il filetto scottato al centro e arrotolare stretto usando la pellicola, formando un cilindro compatto.",
-   "Rimuovere la pellicola, trasferire il rotolo in una teglia imburrata e cuocere in forno a 200°C per 15-20 minuti.",
+   "Rimuovere la pellicola, trasferire il rotolo in una teglia imburrata e cuocere in forno a 200°C (390°F) per 15-20 minuti.",
    "Lasciare riposare 5 minuti prima di affettare e servire."
   ]
  },
@@ -24529,7 +24529,7 @@
    "Tagliare il petto di pollo a pezzi o inciderlo con qualche taglio superficiale per far penetrare meglio la marinatura.",
    "In una ciotola mescolare lo yogurt bianco con il curry in polvere, lo zenzero grattugiato, l'aglio tritato, il succo di limone e il sale, ottenendo una marinatura densa.",
    "Immergere il pollo nella marinatura, coprire e lasciar riposare in frigorifero per almeno 2 ore, idealmente tutta la notte.",
-   "Scaldare il forno a 220°C in modalità grill o statica con resistenza alta.",
+   "Scaldare il forno a 220°C (425°F) in modalità grill o statica con resistenza alta.",
    "Disporre il pollo su una teglia rivestita di carta forno, eliminando l'eccesso di marinatura, e cuocere per 20-25 minuti girandolo a metà cottura finché si formano bordi leggermente bruciacchiati.",
    "Verificare la cottura interna del pollo e servire caldo, eventualmente con un filo del liquido di cottura."
   ]
@@ -25529,10 +25529,10 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Costine di maiale al barbecue' (cucina americana, ingredienti principali: maiale costine crude, salsa barbecue, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Salare le costine di maiale su entrambi i lati e lasciarle a temperatura ambiente per 15 minuti.",
-   "Scaldare il forno a 160°C in modalità statica.",
+   "Scaldare il forno a 160°C (320°F) in modalità statica.",
    "Disporre le costine su una teglia rivestita di carta forno e cuocere coperte con un foglio di alluminio per circa 1 ora e 30 minuti, finché la carne risulta molto tenera.",
    "Rimuovere l'alluminio, spennellare abbondantemente le costine con la salsa barbecue su tutti i lati.",
-   "Alzare la temperatura del forno a 220°C, o passare in modalità grill, e cuocere ancora 10-15 minuti finché la salsa si caramellizza in superficie, girando le costine a metà cottura.",
+   "Alzare la temperatura del forno a 220°C (430°F), o passare in modalità grill, e cuocere ancora 10-15 minuti finché la salsa si caramellizza in superficie, girando le costine a metà cottura.",
    "Lasciar riposare qualche minuto prima di servire."
   ]
  },
@@ -25596,7 +25596,7 @@
    "Sbattere l'uovo in un piatto fondo con un pizzico di sale.",
    "Disporre il pangrattato in un altro piatto.",
    "Passare ogni pezzo di pollo prima nell'uovo sbattuto, sgocciolando l'eccesso, poi nel pangrattato, premendo bene per far aderire la panatura su tutta la superficie.",
-   "Scaldare il forno a 200°C in modalità statica o ventilata e rivestire una teglia con carta forno.",
+   "Scaldare il forno a 200°C (390°F) in modalità statica o ventilata e rivestire una teglia con carta forno.",
    "Disporre il pollo panato sulla teglia e irrorare con un filo di olio extravergine di oliva su ogni pezzo.",
    "Cuocere per 20-25 minuti, girando a metà cottura, finché la panatura è dorata e croccante e il pollo ben cotto all'interno.",
    "Servire caldo, appena sfornato."
@@ -25647,7 +25647,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Ali di pollo al barbecue' (cucina americana, ingredienti principali: ali di pollo, salsa barbecue, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Asciugare bene le ali di pollo con carta da cucina e salarle leggermente.",
-   "Scaldare il forno a 200°C in modalità statica o ventilata.",
+   "Scaldare il forno a 200°C (390°F) in modalità statica o ventilata.",
    "Disporre le ali di pollo su una teglia rivestita di carta forno, ben distanziate tra loro.",
    "Cuocere per 25-30 minuti girandole a metà cottura, finché la pelle è dorata e croccante.",
    "Spennellare le ali con abbondante salsa barbecue su tutti i lati.",
@@ -25931,7 +25931,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Bistecca di manzo con patate al forno' (cucina americana, ingredienti principali: manzo spalla cruda, patata sbucciata cruda, burro, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Tagliare le patate sbucciate a cubetti regolari o a spicchi.",
-   "Scaldare il forno a 200°C in modalità statica o ventilata.",
+   "Scaldare il forno a 200°C (390°F) in modalità statica o ventilata.",
    "Condire le patate con un filo di olio extravergine di oliva e un pizzico di sale, disporle su una teglia rivestita di carta forno e cuocere per 30-35 minuti girandole a metà cottura, finché dorate e croccanti fuori, morbide dentro.",
    "Poco prima che le patate siano pronte, salare la bistecca di manzo su entrambi i lati e lasciarla a temperatura ambiente.",
    "Scaldare una padella o bistecchiera ben calda con un filo di olio e cuocere la bistecca 3-4 minuti per lato per una cottura media, secondo lo spessore e i gusti.",
@@ -26129,7 +26129,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpettone di manzo (Meatloaf)' (cucina americana, ingredienti principali: manzo macinato, uovo crudo, pangrattato, cipolla cruda, salsa barbecue), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scaldare il forno a 180°C in modalità statica.",
+   "Scaldare il forno a 180°C (355°F) in modalità statica.",
    "Tritare finemente la cipolla.",
    "In una ciotola capiente unire il manzo macinato, la cipolla tritata, l'uovo, il pangrattato e un pizzico di sale, amalgamando bene con le mani fino ad ottenere un composto omogeneo.",
    "Formare un pane compatto e dare forma a un polpettone, adagiandolo su una teglia rivestita di carta forno o dentro uno stampo da plumcake.",
@@ -26195,7 +26195,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Tacchino arrosto con verdure' (cucina americana, ingredienti principali: tacchino fesa crudo, carota cruda, patata sbucciata cruda, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Tagliare la carota e le patate sbucciate a tocchetti regolari.",
-   "Scaldare il forno a 190°C in modalità statica o ventilata.",
+   "Scaldare il forno a 190°C (375°F) in modalità statica o ventilata.",
    "Condire la fesa di tacchino con sale e un filo di olio extravergine di oliva, massaggiando bene la superficie.",
    "Disporre il tacchino al centro di una teglia e le verdure attorno, condendo anch'esse con olio e sale.",
    "Cuocere in forno per 35-45 minuti a seconda dello spessore della carne, girando le verdure a metà cottura e bagnando eventualmente il tacchino con i suoi succhi di cottura.",
@@ -26326,7 +26326,7 @@
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Chips di tortilla con guacamole (spuntino)' (cucina americana, ingredienti principali: avocado, pomodoro crudo media, limone, tortilla di mais da farcire, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
    "Tagliare le tortillas di mais a triangoli.",
-   "Scaldare il forno a 200°C, disporre i triangoli di tortilla su una teglia in un solo strato e cuocere per 8-10 minuti girandoli a metà cottura, finché diventano dorati e croccanti come chips.",
+   "Scaldare il forno a 200°C (390°F), disporre i triangoli di tortilla su una teglia in un solo strato e cuocere per 8-10 minuti girandoli a metà cottura, finché diventano dorati e croccanti come chips.",
    "Nel frattempo tagliare l'avocado a metà, eliminare il nocciolo e prelevare la polpa con un cucchiaio, mettendola in una ciotola.",
    "Schiacciare l'avocado con una forchetta fino alla consistenza desiderata, più o meno grossolana.",
    "Tagliare il pomodoro a cubetti piccoli e unirlo all'avocado insieme al succo di limone e un pizzico di sale, mescolando bene per ottenere il guacamole.",
@@ -26518,7 +26518,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Agnello al forno alla greca' (cucina greca, ingredienti principali: agnello coscia cruda, limone, aglio, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Scaldare il forno a 180°C in modalità statica.",
+   "Scaldare il forno a 180°C (355°F) in modalità statica.",
    "Incidere leggermente la coscia di agnello in alcuni punti con la punta di un coltello.",
    "In una ciotola mescolare l'olio extravergine di oliva, il succo di limone, l'aglio tritato e il sale, ottenendo una marinatura.",
    "Massaggiare la coscia di agnello con la marinatura, facendola penetrare bene anche nelle incisioni, e lasciar riposare almeno 30 minuti a temperatura ambiente o alcune ore in frigorifero.",
@@ -26903,7 +26903,7 @@
    "In una ciotola sbriciolare la feta con una forchetta e unire gli spinaci saltati.",
    "Aggiungere l'uovo sbattuto e un pizzico di sale, amalgamando bene il composto.",
    "Versare il composto in una piccola teglia o in stampini individuali unti con olio.",
-   "Cuocere in forno statico preriscaldato a 180°C per 20-25 minuti, finché la superficie non risulta dorata e soda al tatto.",
+   "Cuocere in forno statico preriscaldato a 180°C (355°F) per 20-25 minuti, finché la superficie non risulta dorata e soda al tatto.",
    "Lasciare intiepidire qualche minuto prima di servire."
   ]
  },
@@ -27026,7 +27026,7 @@
   ],
   "prompt_immagine": "Fotografia realistica in stile food photography di 'Branzino al forno alla greca con limone' (cucina greca, ingredienti principali: spigola mediterranea cruda allevamento, limone, olio extravergine di oliva, aglio, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
   "procedimento_it": [
-   "Preriscaldare il forno a 200°C in modalità statica.",
+   "Preriscaldare il forno a 200°C (390°F) in modalità statica.",
    "Pulire la spigola se necessario, sciacquarla e asciugarla bene con carta da cucina, praticando 2-3 incisioni sui fianchi.",
    "Sbucciare e schiacciare leggermente gli spicchi d'aglio, inserendoli insieme a qualche fetta di limone nella cavità del pesce.",
    "Adagiare la spigola in una teglia foderata, condirla con olio extravergine di oliva, sale e altre fette di limone disposte sopra e intorno.",
