@@ -55,7 +55,8 @@ combinatoria.
 | Campo | Tipo | Note |
 |---|---|---|
 | `id` | Long | Intero progressivo, univoco nel file — il DTO Android (`RicetteScopertaDownloadWorker.kt`) richiede `Long`, non stringa |
-| `nome` | String | |
+| `nome` | String | Titolo nella lingua originale della fonte (inglese per `kaggle-foodcom`/`wikibooks-en`, italiano per `wikibooks-it`/`originale`) |
+| `nome_it` | String | Titolo tradotto in italiano — sempre presente per tutte le 448 ricette. Per le fonti già in italiano (`wikibooks-it`, `originale`) è identico a `nome`; per le fonti inglesi è una traduzione naturale, non letterale (stesso criterio di `procedimento_it` sotto). L'app Android mostra sempre `nome_it`, tranne quando la lingua di sistema è inglese (mostra `nome`) |
 | `fonte` | String | Uno dei valori in tabella sopra |
 | `licenza_fonte` | String? | Testo di attribuzione da mostrare in UI, `null` per autorship originale |
 | `tipo_pasto` | [String] | `colazione` / `pranzo` / `cena` / `spuntino` — una ricetta può averne più di uno |
