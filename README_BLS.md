@@ -29,6 +29,9 @@ nutriente). Estratti solo i 5 costituenti necessari all'app.
 |---|---|---|---|
 | `nome` | `Lebensmittelbezeichnung` | — | Tedesco, nativo — campo canonico/fallback (BLS è un dataset nativo tedesco, come CREA lo è per l'italiano) |
 | `nome_en` | `Food name` | — | Inglese, già incluso nella fonte ufficiale (non una traduzione aggiunta da noi, a differenza di CIQUAL/CREA) |
+| `nome_it` | — | — | Traduzione italiana, aggiunta in un secondo passaggio partendo da `nome_en` (non da `nome` tedesco) — presente per tutte le 7.043 voci |
+| `nome_fr` | — | — | Traduzione francese, stesso procedimento |
+| `nome_es` | — | — | Traduzione spagnola, stesso procedimento |
 | `food_code` | `BLS Code` | — | Codice BLS originale, stabile tra le versioni |
 | `carboidrati_disponibili` | `CHO Kohlenhydrate, verfügbar` | CHO | Già "disponibili" (standard EU, netti di fibre) — mapping diretto, stesso principio di CIQUAL/CREA |
 | `fibre` | `FIBT Ballaststoffe, gesamt` | FIBT | |
@@ -43,15 +46,16 @@ Note sulla conversione:
   (`<LOD`/`<LOD or <LOQ` = sotto il limite di rilevabilità/quantificazione,
   o `-` = non determinato) invece di un numero: stessa disciplina già
   seguita per CIQUAL/CREA, nessun valore indovinato per un campo mancante.
-- Nessuna traduzione italiana/francese/spagnola aggiunta in questo
-  passaggio (a differenza di CIQUAL/CREA, che le hanno ricevute in un
-  secondo momento) — BLS resta per ora DE (nativo) + EN (dalla fonte
-  ufficiale) soltanto. Un'estensione futura è possibile con lo stesso
-  procedimento già usato per CIQUAL/CREA (traduzione a blocchi via
-  agenti in background), non fatta qui per restare nello scope della
-  richiesta originale (aggiungere una fonte tedesca, non tradurla in
-  altre 3 lingue).
 - Nessun duplicato di nome trovato tra le 7.043 voci valide.
+- Traduzioni IT/FR/ES aggiunte in un secondo passaggio (20 agosto 2026),
+  con lo stesso procedimento già usato per CIQUAL/CREA/UK: traduzione a
+  blocchi (250 voci per volta) via agenti in background, sequenziali (mai
+  in parallelo), poi consolidate e verificate (nessun id mancante/duplicato,
+  nessun campo vuoto) prima di essere fuse nel dataset. Traduzione fatta
+  dall'inglese `nome_en` (fonte ufficiale), non dal tedesco `nome` — stesso
+  criterio già usato per UK (da `nome`, essendo l'inglese la lingua
+  canonica di quel dataset). Vedi `DECISIONI.md` nel repo principale,
+  "Regola standard: traduzione dei dataset locali".
 
 ## Aggiornamento
 
