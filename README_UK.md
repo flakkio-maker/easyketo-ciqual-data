@@ -30,7 +30,8 @@ righe dati a partire dalla riga 4). Estratti i campi necessari all'app.
 
 | Campo app | Colonna CoFID | Note |
 |---|---|---|
-| `nome` | `Food Name` | Inglese, nativo — nessuna traduzione (stessa scelta già fatta per BLS: solo lingua nativa in questo giro, nessun `nome_en` separato perché l'inglese È la lingua nativa qui) |
+| `nome` | `Food Name` | Inglese, nativo — nessun `nome_en` separato perché l'inglese È la lingua nativa qui |
+| `nome_it` / `nome_fr` / `nome_es` / `nome_de` | — | Traduzioni statiche (20 agosto 2026, seguito — vedi `DECISIONI.md` nel repo principale "Traduzioni BLS/UK: parità di lingue con CIQUAL/CREA"), stesso principio delle colonne equivalenti di CIQUAL/CREA/BLS: traduzione naturale (non letterale) del nome inglese, non una rielaborazione dal dato nutrizionale |
 | `food_code` | `Food Code` | Codice CoFID originale |
 | `carboidrati_disponibili` | `Carbohydrate` | Convenzione "carboidrati disponibili" (già netti di fibra, standard EU/de-facto europeo) — mapping diretto, zero conversione, stesso principio di CIQUAL/CREA/BLS |
 | `fibre` | `Fibre (NSP)` (Non-starch polysaccharide, metodo Englyst) | Scelta rispetto alla colonna alternativa AOAC per copertura dati nettamente migliore (vedi sotto) — non incide sui carboidrati, già netti a prescindere |
@@ -59,12 +60,10 @@ Note sulla conversione:
   nome commerciale, es. marche/preparazioni diverse con la stessa
   etichetta) — nessuna deduplicazione forzata, stesso principio già
   applicato a CIQUAL/CREA/BLS.
-- Nessuna traduzione italiana/francese/spagnola aggiunta in questo
-  passaggio (stessa scelta già fatta per BLS) — UK resta per ora solo
-  EN nativo. Estensione futura possibile con lo stesso procedimento già
-  usato per CIQUAL/CREA (traduzione a blocchi via agenti in
-  background), fuori scope di questo giro (l'obiettivo era rendere
-  disponibile il dataset, non tradurlo).
+- Traduzioni italiano/francese/spagnolo/tedesco aggiunte in un secondo
+  passaggio (20 agosto 2026) — tutte e 2.537 le voci, via agenti in
+  batch paralleli, stesso procedimento già usato per CIQUAL/CREA. Vedi
+  `DECISIONI.md` nel repo principale.
 
 ## Aggiornamento
 
