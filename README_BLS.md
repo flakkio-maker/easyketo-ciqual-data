@@ -57,6 +57,42 @@ Note sulla conversione:
   canonica di quel dataset). Vedi `DECISIONI.md` nel repo principale,
   "Regola standard: traduzione dei dataset locali".
 
+## Micronutrienti (aggiunti il 21 agosto 2026)
+
+Vedi `DECISIONI.md` nel repo principale, "Nota backlog: micronutrienti".
+Script incluso: `aggiungi_micronutrienti_bls.py`, legge direttamente
+`BLS_4_0_Daten_2025_DE.xlsx` (formato largo: 3 colonne per nutriente,
+"CODICE nome [unità]" / "CODICE Datenherkunft" / "CODICE Referenz") e
+incrocia per `BLS Code` == `food_code` già presente in `bls_2025.json`.
+Match: 7043/7043 (100%), il foglio dati copre tutti gli alimenti già
+convertiti.
+
+32 campi aggiunti, stessa struttura di `crea_2026.json`/`ciqual_2025.json`
+(vedi `README_CREA.md`). Note specifiche BLS:
+
+- **Selenio sempre 0.0**: BLS non lo traccia come nutriente (verificato
+  cercando "Selen"/"selenium" nel dizionario componenti ufficiale,
+  nessun codice trovato) — a differenza di CIQUAL/CREA che ce l'hanno.
+  Limite della fonte, non un errore di estrazione.
+- **Conversione unità µg→mg per rame, manganese, vitamina B6**: il
+  foglio dati BLS riporta questi 3 campi in µg/100g, mentre CIQUAL/CREA
+  li riportano in mg/100g per lo stesso nutriente (verificato negli
+  header colonna, es. "CU Kupfer [µg/100g]") — senza la conversione i
+  valori sarebbero risultati 1000 volte troppo alti rispetto alle altre
+  due fonti (bug individuato e corretto prima del commit, verificando
+  un campione: salmone reale crudo dava rame=180mg invece di 0.041mg
+  prima del fix). Tutti gli altri 29 campi sono già nella stessa unità
+  delle altre fonti, nessun'altra conversione necessaria.
+- Codici usati per l'aggregazione dove BLS distingue più varianti:
+  `VITA` (retinol equivalents, non `VITAA` RAE), `FOL` (folati
+  equivalenti aggregati, non `FOLFD` grezzo né `FOLAC` sintetico) —
+  stessa granularità delle altre due fonti. `VITK` è già un codice
+  aggregato in BLS (a differenza di CIQUAL che va sommato da K1+K2).
+
+File sorgente `BLS_4_0_Daten_2025_DE.xlsx` NON committato in questo
+repo (vendor, ~30MB) — va riottenuto da blsdb.de per una rigenerazione
+futura, stessa scelta già presa per gli altri file sorgente grezzi.
+
 ## Aggiornamento
 
 Il BLS ha un meccanismo di download ufficiale in blocco
