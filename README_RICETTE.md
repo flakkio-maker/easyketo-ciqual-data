@@ -69,6 +69,7 @@ combinatoria.
 | `prompt_immagine` | String? | Testo descrittivo per un futuro tool di generazione immagini — non ancora usato in app |
 | `procedimento_it` | [String] | Passi di preparazione in italiano, uno step per elemento — sempre presente per tutte le 448 ricette. Recuperato dalla fonte originale reale quando disponibile (tradotto in italiano se la fonte era in inglese) e scritto da zero, in base a conoscenza culinaria reale del piatto e agli ingredienti registrati, solo per le ricette senza fonte testuale recuperabile (perlopiù `fonte: "originale"`) — nessuna invenzione quando esiste un testo originale. Vedi `DECISIONI.md` nel repo principale, blocco "Procedimento ricette: fonte reale + multi-lingua" |
 | `procedimento_en` | [String]? | Presente **solo** quando la fonte originale della ricetta era già in inglese (`kaggle-foodcom`, `wikibooks-en`) — in quel caso è il testo originale inglese, non una ritraduzione. `null` per le ricette con fonte italiana o senza fonte testuale. L'app Android mostra `procedimento_en` al posto di `procedimento_it` solo se la lingua di sistema del dispositivo è inglese |
+| `immagine_url` | String? | URL pubblico dell'immagine della ricetta (cartella `immagini_ricette/` di questo repo, `raw.githubusercontent.com`). `null`/assente per le ricette non ancora fotografate/generate — la UI mostra un placeholder in quel caso. Prima immagine aggiunta il 21 agosto 2026 (id 304, "Aringa marinata con cipolle", foto fornita direttamente dall'utente anziché generata dal `prompt_immagine`) |
 
 ## Pipeline di generazione
 
