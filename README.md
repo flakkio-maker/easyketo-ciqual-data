@@ -60,6 +60,41 @@ Note sulla conversione:
 - `categoria` è il gruppo alimentare di primo livello (11 gruppi, es.
   "meat, egg and fish", "cereal products").
 
-Script di conversione non incluso in questo commit (girato una tantum in
-locale); la logica è documentata qui per riproducibilità futura se il
-dataset dovesse essere rigenerato per un aggiornamento CIQUAL successivo.
+Script di conversione originale (macro) non incluso in questo commit
+(girato una tantum in locale); la logica è documentata qui per
+riproducibilità futura se il dataset dovesse essere rigenerato per un
+aggiornamento CIQUAL successivo.
+
+## Micronutrienti (aggiunti il 21 agosto 2026)
+
+Vedi `DECISIONI.md` nel repo principale, "Nota backlog: micronutrienti" e
+il blocco "Micronutrienti CIQUAL implementati". A differenza della
+conversione macro sopra, lo script per questo passaggio **è incluso**:
+`aggiungi_micronutrienti_ciqual.py`, che incrocia `alim_2025_11_03.xml`
+(alim_code ↔ nome inglese) e `compo_2025_11_03.xml` (alim_code +
+const_code → valore) contro `ciqual_2025.json` già esistente, senza
+toccare i campi macro/traduzioni già presenti.
+
+32 campi aggiunti, stessa struttura di `crea_2026.json` (vedi
+`README_CREA.md` per la tabella completa dei nomi campo): 11 minerali,
+13 vitamine, 8 di qualità dei grassi. Note specifiche CIQUAL (diverse da
+CREA):
+
+- **Biotina (`vitamina_b7`) sempre 0.0**: CIQUAL non include questo
+  nutriente nella sua tabella ufficiale (verificato cercando nel
+  dizionario `const_2025_11_03.xml` — nessun codice corrispondente).
+  Non è un bug di estrazione, è un limite della fonte.
+- **`vitamina_k`** è la somma di K1 (`const_code` 54101) e K2 (54104):
+  CIQUAL li separa, CREA no — sommati per restare comparabili.
+- **Copertura match**: 3.322 alimenti su 3.323 hanno trovato un
+  `alim_code` corrispondente per nome (99,97%); un solo alimento
+  ("Biscuit (cookie), snack with chocolate filling, whole wheat") non ha
+  trovato corrispondenza esatta nel nome inglese XML — resta a 0.0 su
+  tutti i 32 campi micronutrienti, macro invariati.
+- Stesso trattamento "< X" già usato per i macro (vedi sopra): valore
+  numerico preso come approssimazione.
+
+File sorgente XML (`alim_2025_11_03.xml`, `compo_2025_11_03.xml`) NON
+committati in questo repo (troppo grandi/vendor, stessa scelta già presa
+per `crea_food_composition_tables.csv` — vedi `README_CREA.md`): vanno
+riottenuti dal sito ANSES per una futura rigenerazione.
