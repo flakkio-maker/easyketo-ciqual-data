@@ -45,6 +45,28 @@ preparazione/ingredienti, collegate per `food_code`). Script:
 | `preparazione` | `crea_recipes.json: preparation` | Solo per le 56 voci con ricetta collegata, altrimenti `null` |
 | `ingredienti` | `crea_recipes.json: ingredients` | Idem, stringa `"nome qty, nome qty, ..."` |
 
+**Micronutrienti (aggiunti il 21 agosto 2026, vedi `DECISIONI.md` nel repo
+principale — "Nota backlog: micronutrienti"):** mappatura diretta 1:1 dalle
+colonne CREA equivalenti (il CSV sorgente ne ha 139 in totale — mg o g/100g,
+nessuna conversione di unità necessaria). Non tutte le 139 colonne sono
+state riportate, solo quelle discusse esplicitamente:
+
+| Categoria | Campi output |
+|---|---|
+| Minerali (mg/100g) | `sodio`, `potassio`, `calcio`, `ferro`, `magnesio`, `zinco`, `fosforo`, `iodio`, `selenio`, `rame`, `manganese` |
+| Vitamine | `vitamina_a`, `vitamina_b1`…`vitamina_b12` (thiamina, riboflavina, niacina, ac. pantotenico, B6, biotina, folati, B12), `vitamina_c`, `vitamina_d`, `vitamina_e`, `vitamina_k` |
+| Qualità dei grassi (g/100g) | `colesterolo`, `grassi_saturi`, `grassi_monoinsaturi`, `grassi_polinsaturi`, `omega3_ala`, `omega3_epa`, `omega3_dha`, `omega6_linoleico` |
+
+Esclusi deliberatamente: amminoacidi, polifenoli/fitosteroli/altri
+fitochimici presenti nel CSV originale — fuori dallo scope deciso con
+l'utente (solo minerali/vitamine/qualità grassi).
+
+Nota sui valori: stesso comportamento del resto del dataset, cella vuota
+nel CSV sorgente → `0.0`. Per queste colonne CREA non distingue "non
+misurato" da "zero reale" (a differenza di CIQUAL che ha un `code_confiance`
+per teneur) — un `0.0` va quindi letto come "non disponibile o trascurabile
+nella fonte", non necessariamente come zero assoluto.
+
 Note sulla conversione:
 - Valori numerici mancanti/vuoti nel CSV sorgente sono mappati a `0.0`
   (nessun alimento escluso per campo mancante, a differenza di CIQUAL: il
