@@ -65,6 +65,41 @@ Note sulla conversione:
   batch paralleli, stesso procedimento già usato per CIQUAL/CREA. Vedi
   `DECISIONI.md` nel repo principale.
 
+## Micronutrienti (aggiunti il 21 agosto 2026)
+
+Vedi `DECISIONI.md` nel repo principale, "Nota backlog: micronutrienti".
+Script incluso: `aggiungi_micronutrienti_uk.py`, legge `cofid_main.xlsx`
+da **tre fogli separati** (a differenza di BLS che li ha tutti in uno):
+`'1.4 Inorganics'` (minerali), `'1.5 Vitamins'` (vitamine), `'1.3
+Proximates'` (qualità grassi + colesterolo, stesso foglio dei macro).
+Incrocio per `Food Code` == `food_code` già presente in `uk_2025.json`.
+Match: 2537/2537 (100%).
+
+32 campi aggiunti, stessa struttura delle altre tre fonti. Due
+differenze reali di granularità della fonte, non errori di estrazione:
+
+- **Nessun omega-3/omega-6 individuale**: CoFID riporta nel foglio
+  Proximates solo i **totali** "n-3 poly /100g food" e "n-6 poly /100g
+  food" (somma di tutti gli acidi grassi n-3, o n-6, inclusi insieme —
+  non scomposti in ALA/EPA/DHA come CIQUAL/CREA/BLS). Mappare il totale
+  in un solo campo specifico (es. `omega3_ala`) sarebbe fuorviante —
+  lasciati tutti e 4 (`omega3_ala`/`omega3_epa`/`omega3_dha`/
+  `omega6_linoleico`) a 0.0 per questa fonte.
+- **Vitamina K solo K1** (fillochinone): nessuna colonna K2 nella
+  fonte, a differenza di CIQUAL (K1+K2 sommati) e BLS (già aggregato)
+  — possibile sottostima per alimenti ricchi di K2 (formaggi
+  fermentati, natto).
+
+Altre scelte: niacina da "Niacin equivalent" (include la conversione da
+triptofano, non il valore grezzo — stessa scelta di BLS); grassi
+saturi/mono/polinsaturi dalle colonne "/100g food" (valore assoluto per
+100g alimento), non "/100g FA" (percentuale relativa alla frazione
+lipidica, valore diverso); "Mono FA /100g food"/"Poly FA /100g food"
+(varianti totali, non le "cis-" che escludono i grassi trans).
+
+File sorgente `cofid_main.xlsx` NON committato in questo repo (vendor,
+multi-foglio) — va riottenuto da gov.uk per una rigenerazione futura.
+
 ## Aggiornamento
 
 Il CoFID viene aggiornato periodicamente da Public Health England/UK
