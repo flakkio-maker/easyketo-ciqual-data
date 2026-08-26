@@ -8,11 +8,11 @@ matchato uno per uno contro CIQUAL/CREA con un matcher testuale a soglia di
 confidenza (nessun uso di IA/Gemini per il matching), e i grammi sono
 sempre quantità reali dichiarate (mai stimate).
 
-## Fonti combinate (448 ricette al 15 agosto 2026)
+## Fonti combinate (446 ricette al 26 agosto 2026)
 
 | Fonte (`fonte`) | N. ricette | Licenza | Note |
 |---|---|---|---|
-| `kaggle-foodcom` | 246 | Dataset Kaggle Food.com, licenza aperta | Estratte da un dataset di ~500k ricette, filtrate per plausibilità macro e bilancio massa (`peso_porzione_dichiarato_g` vs `serving_size` dichiarato) |
+| `kaggle-foodcom` | 244 | Dataset Kaggle Food.com, licenza aperta | Estratte da un dataset di ~500k ricette, filtrate per plausibilità macro e bilancio massa (`peso_porzione_dichiarato_g` vs `serving_size` dichiarato). 2 ricette non alimentari (prodotti per la casa: "Goo Gone Homemade" id 17, "Cheap Homemade Furniture Polish" id 171) rimosse il 26 agosto 2026 dopo segnalazione utente — il filtro di plausibilità macro non le aveva intercettate perché olio vegetale/bicarbonato/succo di lime hanno macro coerenti con un keto snack |
 | `wikibooks-it` | 8 | CC BY-SA 4.0 (it.wikibooks.org, "Libro di cucina") | API pubblica MediaWiki, non scraping |
 | `wikibooks-en` | 25 | CC BY-SA 4.0 (en.wikibooks.org, "Cookbook") | Categorie Italian/French/Spanish/German/English recipes |
 | `originale` | 202 | — (autorship originale) | 20 ricette generiche + 182 ispirate a piatti reali e riconoscibili (es. Coq au vin, Gulasch, Tortilla española, Ossobuco alla milanese, Shepherd's pie, Butter chicken, Pad thai, Ramen, Tandoori), scritte una per una da conoscenza culinaria di dominio pubblico — non generate combinatoriamente, non estratte da alcun testo/dataset di terzi |
@@ -56,7 +56,7 @@ combinatoria.
 |---|---|---|
 | `id` | Long | Intero progressivo, univoco nel file — il DTO Android (`RicetteScopertaDownloadWorker.kt`) richiede `Long`, non stringa |
 | `nome` | String | Titolo nella lingua originale della fonte (inglese per `kaggle-foodcom`/`wikibooks-en`, italiano per `wikibooks-it`/`originale`) |
-| `nome_it` | String | Titolo tradotto in italiano — sempre presente per tutte le 448 ricette. Per le fonti già in italiano (`wikibooks-it`, `originale`) è identico a `nome`; per le fonti inglesi è una traduzione naturale, non letterale (stesso criterio di `procedimento_it` sotto). L'app Android mostra sempre `nome_it`, tranne quando la lingua di sistema è inglese (mostra `nome`) |
+| `nome_it` | String | Titolo tradotto in italiano — sempre presente per tutte le 446 ricette. Per le fonti già in italiano (`wikibooks-it`, `originale`) è identico a `nome`; per le fonti inglesi è una traduzione naturale, non letterale (stesso criterio di `procedimento_it` sotto). L'app Android mostra sempre `nome_it`, tranne quando la lingua di sistema è inglese (mostra `nome`) |
 | `fonte` | String | Uno dei valori in tabella sopra |
 | `licenza_fonte` | String? | Testo di attribuzione da mostrare in UI, `null` per autorship originale |
 | `tipo_pasto` | [String] | `colazione` / `pranzo` / `cena` / `spuntino` — una ricetta può averne più di uno |
@@ -67,7 +67,7 @@ combinatoria.
 | `kcal_porzione` / `carbo_porzione` / `grassi_porzione` / `proteine_porzione` | Double | Per porzione |
 | `ingredienti` | [{nome, nome_it, grammi, fonte_macro, voce_matchata}] | `fonte_macro` è `"CIQUAL"`/`"CREA"`/`null` (ingredienti a impatto trascurabile). `nome_it` (20 agosto 2026) sempre presente, stesso principio di `nome`/`nome_it` a livello ricetta: identico a `nome` per le fonti già in italiano, traduzione naturale (non letterale) per `kaggle-foodcom`/`wikibooks-en` — vedi `DECISIONI.md` nel repo principale, blocco "Ingredienti ricette: traduzione italiana" |
 | `prompt_immagine` | String? | Testo descrittivo per un futuro tool di generazione immagini — non ancora usato in app |
-| `procedimento_it` | [String] | Passi di preparazione in italiano, uno step per elemento — sempre presente per tutte le 448 ricette. Recuperato dalla fonte originale reale quando disponibile (tradotto in italiano se la fonte era in inglese) e scritto da zero, in base a conoscenza culinaria reale del piatto e agli ingredienti registrati, solo per le ricette senza fonte testuale recuperabile (perlopiù `fonte: "originale"`) — nessuna invenzione quando esiste un testo originale. Vedi `DECISIONI.md` nel repo principale, blocco "Procedimento ricette: fonte reale + multi-lingua" |
+| `procedimento_it` | [String] | Passi di preparazione in italiano, uno step per elemento — sempre presente per tutte le 446 ricette. Recuperato dalla fonte originale reale quando disponibile (tradotto in italiano se la fonte era in inglese) e scritto da zero, in base a conoscenza culinaria reale del piatto e agli ingredienti registrati, solo per le ricette senza fonte testuale recuperabile (perlopiù `fonte: "originale"`) — nessuna invenzione quando esiste un testo originale. Vedi `DECISIONI.md` nel repo principale, blocco "Procedimento ricette: fonte reale + multi-lingua" |
 | `procedimento_en` | [String]? | Presente **solo** quando la fonte originale della ricetta era già in inglese (`kaggle-foodcom`, `wikibooks-en`) — in quel caso è il testo originale inglese, non una ritraduzione. `null` per le ricette con fonte italiana o senza fonte testuale. L'app Android mostra `procedimento_en` al posto di `procedimento_it` solo se la lingua di sistema del dispositivo è inglese |
 | `immagine_url` | String? | URL pubblico dell'immagine della ricetta (cartella `immagini_ricette/` di questo repo, `raw.githubusercontent.com`). `null`/assente per le ricette non ancora fotografate/generate — la UI mostra un placeholder in quel caso. Prima immagine aggiunta il 21 agosto 2026 (id 304, "Aringa marinata con cipolle", foto fornita direttamente dall'utente anziché generata dal `prompt_immagine`) |
 
