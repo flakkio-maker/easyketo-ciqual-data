@@ -20290,11 +20290,11 @@
     "proteine_porzione": 19.6,
     "ingredienti": [
       {
-        "nome": "pane media",
+        "nome": "pane medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pane (media)",
-        "nome_it": "pane media"
+        "nome_it": "pane medio"
       },
       {
         "nome": "prosciutto cotto",
@@ -20324,7 +20324,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Croque monsieur' (cucina francese, ingredienti principali: pane media, prosciutto cotto, groviera, burro, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Croque monsieur' (cucina francese, ingredienti principali: pane medio, prosciutto cotto, groviera, burro, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Sciogliere una parte del burro e spalmarlo su un lato di ogni fetta di pane.",
       "Disporre su una fetta il prosciutto cotto e uno strato di groviera grattugiata o a fette sottili.",
@@ -23553,11 +23553,11 @@
     "proteine_porzione": 23.0,
     "ingredienti": [
       {
-        "nome": "pane media",
+        "nome": "pane medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pane (media)",
-        "nome_it": "pane media"
+        "nome_it": "pane medio"
       },
       {
         "nome": "cheddar",
@@ -23587,7 +23587,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Toast al formaggio gallese (Welsh rarebit)' (cucina inglese, ingredienti principali: pane media, cheddar, senape, burro, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Toast al formaggio gallese (Welsh rarebit)' (cucina inglese, ingredienti principali: pane medio, cheddar, senape, burro, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il pane a fette e tostarlo leggermente, in tostapane o sotto il grill, da un solo lato.",
       "Grattugiare il cheddar.",
@@ -23852,11 +23852,11 @@
         "nome_it": "cetriolo polpa senza buccia crudo"
       },
       {
-        "nome": "pane media",
+        "nome": "pane medio",
         "grammi": 80.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pane (media)",
-        "nome_it": "pane media"
+        "nome_it": "pane medio"
       },
       {
         "nome": "sale",
@@ -23865,7 +23865,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Formaggio cheddar con sottaceti (Ploughman's)' (cucina inglese, ingredienti principali: cheddar, prosciutto cotto, cetriolo polpa senza buccia crudo, pane media, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Formaggio cheddar con sottaceti (Ploughman's)' (cucina inglese, ingredienti principali: cheddar, prosciutto cotto, cetriolo polpa senza buccia crudo, pane medio, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il cheddar a fette spesse o a cubetti.",
       "Affettare il prosciutto cotto e disporlo su un tagliere.",
