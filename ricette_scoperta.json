@@ -17262,11 +17262,11 @@
         "nome_it": "parmigiano reggiano dop"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 400.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -17289,7 +17289,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpette di manzo al sugo' (cucina internazionale, ingredienti principali: manzo spalla cruda, uovo crudo, parmigiano reggiano dop, pomodoro crudo media, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpette di manzo al sugo' (cucina internazionale, ingredienti principali: manzo spalla cruda, uovo crudo, parmigiano reggiano dop, pomodoro crudo medio, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Macinare la spalla di manzo cruda, oppure usare carne già macinata.",
       "In una ciotola unire la carne macinata, l'uovo, il parmigiano grattugiato e un pizzico di sale, amalgamando bene con le mani.",
@@ -17327,18 +17327,18 @@
     "proteine_porzione": 35.9,
     "ingredienti": [
       {
-        "nome": "merluzzo cotto media",
+        "nome": "merluzzo cotto medio",
         "grammi": 300.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Merluzzo, cotto (media)",
-        "nome_it": "merluzzo cotto media"
+        "nome_it": "merluzzo cotto medio"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -17367,7 +17367,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo in umido con pomodorini' (cucina internazionale, ingredienti principali: merluzzo cotto media, pomodoro crudo media, olio extravergine di oliva, aglio, prezzemolo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo in umido con pomodorini' (cucina internazionale, ingredienti principali: merluzzo cotto medio, pomodoro crudo medio, olio extravergine di oliva, aglio, prezzemolo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Scaldare l'olio extravergine in una padella con l'aglio tritato o schiacciato, facendolo soffriggere a fuoco basso per 30-60 secondi senza bruciarlo.",
       "Tagliare i pomodori a spicchi o a pezzi e aggiungerli in padella, salando leggermente.",
@@ -17496,11 +17496,11 @@
         "nome_it": "speck alto adige igp"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 150.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -17516,7 +17516,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova strapazzate con speck e pomodorini' (cucina internazionale, ingredienti principali: uovo crudo, speck alto adige igp, pomodoro crudo media, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova strapazzate con speck e pomodorini' (cucina internazionale, ingredienti principali: uovo crudo, speck alto adige igp, pomodoro crudo medio, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare lo speck a listarelle o dadini e i pomodorini a metà.",
       "Scaldare l'olio in una padella antiaderente a fuoco medio.",
@@ -18075,11 +18075,11 @@
     "proteine_porzione": 17.3,
     "ingredienti": [
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "formaggio mozzarella latte vaccino",
@@ -18108,7 +18108,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata caprese con prosciutto crudo' (cucina internazionale, ingredienti principali: pomodoro crudo media, formaggio mozzarella latte vaccino, olio extravergine di oliva, basilico, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata caprese con prosciutto crudo' (cucina internazionale, ingredienti principali: pomodoro crudo medio, formaggio mozzarella latte vaccino, olio extravergine di oliva, basilico, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Lavare i pomodori e affettarli a rondelle non troppo sottili.",
       "Tagliare la mozzarella a fette dello stesso spessore dei pomodori.",
@@ -18453,11 +18453,11 @@
         "nome_it": "pollo petto crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 300.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olive nere",
@@ -18501,7 +18501,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo alla cacciatora' (cucina italiana, ingredienti principali: pollo petto crudo, pomodoro crudo media, olive nere, cipolla cruda, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo alla cacciatora' (cucina italiana, ingredienti principali: pollo petto crudo, pomodoro crudo medio, olive nere, cipolla cruda, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il petto di pollo a pezzi grandi, affettare la cipolla e tritare l'aglio.",
       "Scaldare l'olio extravergine in una casseruola larga e rosolare il pollo a fuoco vivace su tutti i lati finché è dorato; salare e tenere da parte.",
@@ -18798,11 +18798,11 @@
         "nome_it": "melanzana cruda"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 300.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "mozzarella",
@@ -18838,7 +18838,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Parmigiana di melanzane' (cucina italiana, ingredienti principali: melanzana cruda, pomodoro crudo media, mozzarella, parmigiano reggiano dop, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Parmigiana di melanzane' (cucina italiana, ingredienti principali: melanzana cruda, pomodoro crudo medio, mozzarella, parmigiano reggiano dop, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare le melanzane a fette longitudinali di circa mezzo centimetro, disporle su un colino salate e lasciarle spurgare per 30 minuti, poi sciacquarle e asciugarle.",
       "Grigliare le fette di melanzana su una piastra ben calda per 3-4 minuti per lato, finché sono morbide e segnate.",
@@ -18980,11 +18980,11 @@
         "nome_it": "fagioli cannellini"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 200.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -19235,11 +19235,11 @@
         "nome_it": "parmigiano reggiano dop"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 350.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -19262,7 +19262,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpette al sugo' (cucina italiana, ingredienti principali: manzo macinato, uovo crudo, pangrattato, parmigiano reggiano dop, pomodoro crudo media), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpette al sugo' (cucina italiana, ingredienti principali: manzo macinato, uovo crudo, pangrattato, parmigiano reggiano dop, pomodoro crudo medio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "In una ciotola capiente unire la carne macinata, l'uovo, il pangrattato e il parmigiano grattugiato.",
       "Salare e amalgamare bene l'impasto con le mani finché è omogeneo e compatto.",
@@ -19471,11 +19471,11 @@
         "nome_it": "merluzzo salato essiccato baccalà"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olive nere",
@@ -19505,7 +19505,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Baccalà alla livornese' (cucina italiana, ingredienti principali: merluzzo salato essiccato baccalà, pomodoro crudo media, olive nere, olio extravergine di oliva, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Baccalà alla livornese' (cucina italiana, ingredienti principali: merluzzo salato essiccato baccalà, pomodoro crudo medio, olive nere, olio extravergine di oliva, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Se necessario, dissalare il baccalà lasciandolo in ammollo in acqua fredda per alcune ore, cambiando l'acqua più volte; poi tagliarlo a pezzi regolari.",
       "Tritare finemente l'aglio.",
@@ -19613,11 +19613,11 @@
     "proteine_porzione": 17.3,
     "ingredienti": [
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "mozzarella",
@@ -19646,7 +19646,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Caprese con prosciutto crudo' (cucina italiana, ingredienti principali: pomodoro crudo media, mozzarella, olio extravergine di oliva, basilico, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Caprese con prosciutto crudo' (cucina italiana, ingredienti principali: pomodoro crudo medio, mozzarella, olio extravergine di oliva, basilico, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Lavare i pomodori e affettarli a rondelle di circa mezzo centimetro.",
       "Tagliare la mozzarella a fette dello stesso spessore.",
@@ -19789,11 +19789,11 @@
         "nome_it": "peperone verde giallo rosso crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cipolla cruda",
@@ -19823,7 +19823,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Ratatouille' (cucina francese, ingredienti principali: melanzana cruda, zucchine crude, peperone verde giallo rosso crudo, pomodoro crudo media, cipolla cruda), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Ratatouille' (cucina francese, ingredienti principali: melanzana cruda, zucchine crude, peperone verde giallo rosso crudo, pomodoro crudo medio, cipolla cruda), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare melanzane, zucchine e peperoni a cubetti di dimensioni simili; affettare la cipolla e tritare l'aglio.",
       "Scaldare l'olio extravergine in una casseruola larga e stufare la cipolla e l'aglio a fuoco medio-basso per 3-4 minuti.",
@@ -20076,11 +20076,11 @@
         "nome_it": "acciuga"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 150.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -20148,11 +20148,11 @@
         "nome_it": "peperone verde giallo rosso crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cipolla cruda",
@@ -20182,7 +20182,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Poulet basquaise' (cucina francese, ingredienti principali: pollo petto crudo, peperone verde giallo rosso crudo, pomodoro crudo media, cipolla cruda, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Poulet basquaise' (cucina francese, ingredienti principali: pollo petto crudo, peperone verde giallo rosso crudo, pomodoro crudo medio, cipolla cruda, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il petto di pollo a pezzi grandi, i peperoni a listarelle e la cipolla a fette sottili; tritare l'aglio.",
       "Scaldare l'olio extravergine in una padella larga e rosolare i pezzi di pollo a fuoco vivace su tutti i lati finché sono dorati; salare e tenere da parte.",
@@ -22032,11 +22032,11 @@
     "proteine_porzione": 1.7,
     "ingredienti": [
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 500.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "peperone verde giallo rosso crudo",
@@ -22080,7 +22080,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Gazpacho andaluso' (cucina spagnola, ingredienti principali: pomodoro crudo media, peperone verde giallo rosso crudo, cetriolo polpa senza buccia crudo, aglio, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Gazpacho andaluso' (cucina spagnola, ingredienti principali: pomodoro crudo medio, peperone verde giallo rosso crudo, cetriolo polpa senza buccia crudo, aglio, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Lavare i pomodori, il peperone e il cetriolo, tagliarli grossolanamente a pezzi.",
       "Sbucciare l'aglio.",
@@ -22130,11 +22130,11 @@
         "nome_it": "peperone verde giallo rosso crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "melanzana cruda",
@@ -22164,7 +22164,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pisto manchego' (cucina spagnola, ingredienti principali: zucchine crude, peperone verde giallo rosso crudo, pomodoro crudo media, melanzana cruda, cipolla cruda), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pisto manchego' (cucina spagnola, ingredienti principali: zucchine crude, peperone verde giallo rosso crudo, pomodoro crudo medio, melanzana cruda, cipolla cruda), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare a cubetti zucchine, peperone, melanzana e pomodoro; affettare la cipolla.",
       "Scaldare l'olio in una padella ampia e far appassire la cipolla.",
@@ -22347,11 +22347,11 @@
     "proteine_porzione": 52.3,
     "ingredienti": [
       {
-        "nome": "merluzzo cotto media",
+        "nome": "merluzzo cotto medio",
         "grammi": 350.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Merluzzo, cotto (media)",
-        "nome_it": "merluzzo cotto media"
+        "nome_it": "merluzzo cotto medio"
       },
       {
         "nome": "vongola cruda",
@@ -22388,7 +22388,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo alla basca con vongole' (cucina spagnola, ingredienti principali: merluzzo cotto media, vongola cruda, piselli crudi, aglio, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo alla basca con vongole' (cucina spagnola, ingredienti principali: merluzzo cotto medio, vongola cruda, piselli crudi, aglio, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Sciacquare le vongole sotto acqua corrente per eliminare eventuali residui di sabbia.",
       "Tritare l'aglio finemente.",
@@ -22454,11 +22454,11 @@
         "nome_it": "pangrattato"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 300.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -22481,7 +22481,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpette al sugo alla spagnola (Albóndigas)' (cucina spagnola, ingredienti principali: manzo macinato, maiale spalla cruda, uovo crudo, pangrattato, pomodoro crudo media), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Polpette al sugo alla spagnola (Albóndigas)' (cucina spagnola, ingredienti principali: manzo macinato, maiale spalla cruda, uovo crudo, pangrattato, pomodoro crudo medio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tritare l'aglio e in una ciotola unire il manzo macinato, il maiale, l'uovo, il pangrattato, metà dell'aglio tritato e il sale, amalgamando bene.",
       "Formare delle piccole polpette con le mani.",
@@ -23260,11 +23260,11 @@
         "nome_it": "wurstel"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "funghi champignon",
@@ -23287,7 +23287,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Colazione all'inglese completa' (cucina inglese, ingredienti principali: uovo crudo, speck alto adige igp, wurstel, pomodoro crudo media, funghi champignon), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Colazione all'inglese completa' (cucina inglese, ingredienti principali: uovo crudo, speck alto adige igp, wurstel, pomodoro crudo medio, funghi champignon), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare lo speck a fette e affettare i funghi champignon; tagliare il pomodoro a metà.",
       "Scaldare un filo d'olio in una padella ampia e rosolare lo speck finché croccante; tenere da parte.",
@@ -23331,11 +23331,11 @@
         "nome_it": "pollo petto crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 200.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "panna fresca",
@@ -23372,7 +23372,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry all'inglese' (cucina inglese, ingredienti principali: pollo petto crudo, pomodoro crudo media, panna fresca, cipolla cruda, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry all'inglese' (cucina inglese, ingredienti principali: pollo petto crudo, pomodoro crudo medio, panna fresca, cipolla cruda, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il petto di pollo a bocconcini e affettare la cipolla.",
       "Scaldare l'olio in una padella e rosolare il pollo finché dorato su tutti i lati; mettere da parte.",
@@ -23409,11 +23409,11 @@
     "proteine_porzione": 49.8,
     "ingredienti": [
       {
-        "nome": "merluzzo cotto media",
+        "nome": "merluzzo cotto medio",
         "grammi": 350.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Merluzzo, cotto (media)",
-        "nome_it": "merluzzo cotto media"
+        "nome_it": "merluzzo cotto medio"
       },
       {
         "nome": "pangrattato",
@@ -23450,7 +23450,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo impanato con purè di piselli' (cucina inglese, ingredienti principali: merluzzo cotto media, pangrattato, uovo crudo, piselli crudi, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo impanato con purè di piselli' (cucina inglese, ingredienti principali: merluzzo cotto medio, pangrattato, uovo crudo, piselli crudi, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Sbattere l'uovo in un piatto fondo.",
       "Passare i filetti di merluzzo prima nell'uovo sbattuto poi nel pangrattato, premendo bene per far aderire la panatura.",
@@ -24477,11 +24477,11 @@
         "nome_it": "peperone verde giallo rosso crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "aceto di vino rosso",
@@ -24511,7 +24511,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Maiale in agrodolce' (cucina cinese, ingredienti principali: maiale spalla cruda, peperone verde giallo rosso crudo, pomodoro crudo media, aceto di vino rosso, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Maiale in agrodolce' (cucina cinese, ingredienti principali: maiale spalla cruda, peperone verde giallo rosso crudo, pomodoro crudo medio, aceto di vino rosso, salsa di soia), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il maiale a cubetti e i peperoni a pezzi.",
       "Rosolare i cubetti di maiale in una padella con un filo di olio di sesamo fino a doratura su tutti i lati, poi tenerli da parte.",
@@ -25237,11 +25237,11 @@
     "proteine_porzione": 41.6,
     "ingredienti": [
       {
-        "nome": "merluzzo cotto media",
+        "nome": "merluzzo cotto medio",
         "grammi": 350.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Merluzzo, cotto (media)",
-        "nome_it": "merluzzo cotto media"
+        "nome_it": "merluzzo cotto medio"
       },
       {
         "nome": "zenzero",
@@ -25278,7 +25278,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo al vapore con zenzero e soia' (cucina cinese, ingredienti principali: merluzzo cotto media, zenzero, cipolline crude, salsa di soia, olio di sesamo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Merluzzo al vapore con zenzero e soia' (cucina cinese, ingredienti principali: merluzzo cotto medio, zenzero, cipolline crude, salsa di soia, olio di sesamo), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Disporre il filetto di merluzzo in un piatto adatto alla cottura a vapore.",
       "Cospargere il pesce con lo zenzero grattugiato.",
@@ -26268,11 +26268,11 @@
         "nome_it": "pollo petto crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cipolla cruda",
@@ -26323,7 +26323,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry (Chicken curry)' (cucina indiana, ingredienti principali: pollo petto crudo, pomodoro crudo media, cipolla cruda, latte di cocco, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al curry (Chicken curry)' (cucina indiana, ingredienti principali: pollo petto crudo, pomodoro crudo medio, cipolla cruda, latte di cocco, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il pollo a bocconcini, tritare finemente cipolla e aglio, grattugiare lo zenzero.",
       "Scaldare l'olio extravergine in una pentola capiente e soffriggere cipolla, aglio e zenzero per 3-4 minuti finché dorati.",
@@ -26369,11 +26369,11 @@
         "nome_it": "agnello coscia cruda"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cipolla cruda",
@@ -26417,7 +26417,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Agnello al curry (Lamb curry)' (cucina indiana, ingredienti principali: agnello coscia cruda, pomodoro crudo media, cipolla cruda, curry in polvere, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Agnello al curry (Lamb curry)' (cucina indiana, ingredienti principali: agnello coscia cruda, pomodoro crudo medio, cipolla cruda, curry in polvere, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare l'agnello a cubetti, tritare cipolla e aglio, grattugiare lo zenzero.",
       "Scaldare l'olio extravergine in una pentola e soffriggere cipolla, aglio e zenzero per 3-4 minuti.",
@@ -26463,11 +26463,11 @@
         "nome_it": "pollo petto crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "panna fresca",
@@ -26504,7 +26504,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al burro (Butter chicken)' (cucina indiana, ingredienti principali: pollo petto crudo, pomodoro crudo media, panna fresca, burro, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Pollo al burro (Butter chicken)' (cucina indiana, ingredienti principali: pollo petto crudo, pomodoro crudo medio, panna fresca, burro, curry in polvere), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il pollo a bocconcini e grattugiare lo zenzero.",
       "Sciogliere il burro in una padella capiente a fuoco medio.",
@@ -26555,11 +26555,11 @@
         "nome_it": "cipolla cruda"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 150.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "curry in polvere",
@@ -26589,7 +26589,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Dal di lenticchie' (cucina indiana, ingredienti principali: lenticchie, cipolla cruda, pomodoro crudo media, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Dal di lenticchie' (cucina indiana, ingredienti principali: lenticchie, cipolla cruda, pomodoro crudo medio, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Sciacquare bene le lenticchie sotto acqua corrente.",
       "Tritare finemente la cipolla e l'aglio.",
@@ -26641,11 +26641,11 @@
         "nome_it": "ricotta"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "curry in polvere",
@@ -26675,7 +26675,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Spinaci con paneer (Palak paneer, con ricotta)' (cucina indiana, ingredienti principali: spinaci crudi, ricotta, pomodoro crudo media, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Spinaci con paneer (Palak paneer, con ricotta)' (cucina indiana, ingredienti principali: spinaci crudi, ricotta, pomodoro crudo medio, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Lavare gli spinaci crudi e scottarli in una padella capiente per 3-4 minuti finché appassiscono, poi scolarli e strizzarli bene tritandoli grossolanamente.",
       "In una padella scaldare l'olio extravergine di oliva e rosolare l'aglio tritato finché profuma, circa 1 minuto.",
@@ -26726,11 +26726,11 @@
         "nome_it": "latte di cocco"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "curry in polvere",
@@ -26753,7 +26753,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi al curry con latte di cocco' (cucina indiana, ingredienti principali: gamberetto grigio bollito, latte di cocco, pomodoro crudo media, curry in polvere, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi al curry con latte di cocco' (cucina indiana, ingredienti principali: gamberetto grigio bollito, latte di cocco, pomodoro crudo medio, curry in polvere, zenzero), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "In una padella capiente scaldare un filo d'olio e far rosolare lo zenzero grattugiato per circa un minuto.",
       "Aggiungere il pomodoro tagliato a cubetti e il curry in polvere, cuocere a fuoco medio mescolando finché il pomodoro si ammorbidisce e rilascia i succhi, circa 5 minuti.",
@@ -26795,11 +26795,11 @@
         "nome_it": "ceci bolliti in acqua"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 200.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cipolla cruda",
@@ -26836,7 +26836,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Ceci al curry (Chana masala)' (cucina indiana, ingredienti principali: ceci bolliti in acqua, pomodoro crudo media, cipolla cruda, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Ceci al curry (Chana masala)' (cucina indiana, ingredienti principali: ceci bolliti in acqua, pomodoro crudo medio, cipolla cruda, curry in polvere, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Scaldare l'olio extravergine di oliva in una casseruola e far appassire la cipolla tritata a fuoco medio per 4-5 minuti.",
       "Unire l'aglio tritato e cuocere ancora un minuto finché profuma.",
@@ -27101,11 +27101,11 @@
         "nome_it": "uovo crudo"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 80.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "curry in polvere",
@@ -27128,7 +27128,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova speziate all'indiana (colazione)' (cucina indiana, ingredienti principali: uovo crudo, pomodoro crudo media, curry in polvere, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Uova speziate all'indiana (colazione)' (cucina indiana, ingredienti principali: uovo crudo, pomodoro crudo medio, curry in polvere, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Sbattere le uova in una ciotola con un pizzico di sale fino ad ottenere un composto omogeneo.",
       "Tagliare il pomodoro a cubetti piccoli.",
@@ -28022,11 +28022,11 @@
         "nome_it": "cheddar"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 50.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "olio extravergine di oliva",
@@ -28042,7 +28042,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Hamburger di manzo con formaggio (senza panino)' (cucina americana, ingredienti principali: manzo macinato, cheddar, pomodoro crudo media, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Hamburger di manzo con formaggio (senza panino)' (cucina americana, ingredienti principali: manzo macinato, cheddar, pomodoro crudo medio, olio extravergine di oliva, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il pomodoro a fette spesse.",
       "Dividere il manzo macinato in porzioni uguali e formare degli hamburger compatti con le mani, schiacciandoli leggermente e salandoli su entrambi i lati.",
@@ -28280,11 +28280,11 @@
         "nome_it": "fagioli borlotti"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cipolla cruda",
@@ -28313,7 +28313,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Chili con carne' (cucina americana, ingredienti principali: manzo macinato, fagioli borlotti, pomodoro crudo media, cipolla cruda, peperoncino), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Chili con carne' (cucina americana, ingredienti principali: manzo macinato, fagioli borlotti, pomodoro crudo medio, cipolla cruda, peperoncino), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Scaldare l'olio extravergine di oliva in una casseruola capiente e far appassire la cipolla tritata a fuoco medio per 4-5 minuti.",
       "Aggiungere il manzo macinato e rosolarlo a fuoco vivace, sgranandolo bene con un cucchiaio di legno finché perde il colore rosato.",
@@ -28378,11 +28378,11 @@
         "nome_it": "avocado"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 100.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cheddar",
@@ -28405,7 +28405,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata Cobb' (cucina americana, ingredienti principali: pollo petto crudo, uovo sodo, speck alto adige igp, avocado, pomodoro crudo media), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata Cobb' (cucina americana, ingredienti principali: pollo petto crudo, uovo sodo, speck alto adige igp, avocado, pomodoro crudo medio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Cuocere il petto di pollo in padella o al forno finché ben cotto, lasciarlo intiepidire e tagliarlo a cubetti o fettine.",
       "Rassodare le uova in acqua bollente per circa 9 minuti, raffreddarle sotto acqua fredda, sgusciarle e tagliarle a spicchi.",
@@ -28957,11 +28957,11 @@
         "nome_it": "avocado"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 80.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "limone",
@@ -28984,7 +28984,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Chips di tortilla con guacamole (spuntino)' (cucina americana, ingredienti principali: avocado, pomodoro crudo media, limone, tortilla di mais da farcire, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Chips di tortilla con guacamole (spuntino)' (cucina americana, ingredienti principali: avocado, pomodoro crudo medio, limone, tortilla di mais da farcire, sale), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare le tortillas di mais a triangoli.",
       "Scaldare il forno a 200°C (390°F), disporre i triangoli di tortilla su una teglia in un solo strato e cuocere per 8-10 minuti girandoli a metà cottura, finché diventano dorati e croccanti come chips.",
@@ -29235,11 +29235,11 @@
     "proteine_porzione": 9.8,
     "ingredienti": [
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 250.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "cetriolo polpa senza buccia crudo",
@@ -29283,7 +29283,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata greca con feta' (cucina greca, ingredienti principali: pomodoro crudo media, cetriolo polpa senza buccia crudo, feta, olive kalamata, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Insalata greca con feta' (cucina greca, ingredienti principali: pomodoro crudo medio, cetriolo polpa senza buccia crudo, feta, olive kalamata, olio extravergine di oliva), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il pomodoro a spicchi grossi.",
       "Tagliare il cetriolo a rondelle spesse o a mezzelune.",
@@ -29462,11 +29462,11 @@
         "nome_it": "gamberetto grigio bollito"
       },
       {
-        "nome": "pomodoro crudo media",
+        "nome": "pomodoro crudo medio",
         "grammi": 200.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pomodoro, crudo (media)",
-        "nome_it": "pomodoro crudo media"
+        "nome_it": "pomodoro crudo medio"
       },
       {
         "nome": "feta",
@@ -29496,7 +29496,7 @@
         "nome_it": "sale"
       }
     ],
-    "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi alla greca con feta e pomodoro' (cucina greca, ingredienti principali: gamberetto grigio bollito, pomodoro crudo media, feta, olio extravergine di oliva, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
+    "prompt_immagine": "Fotografia realistica in stile food photography di 'Gamberi alla greca con feta e pomodoro' (cucina greca, ingredienti principali: gamberetto grigio bollito, pomodoro crudo medio, feta, olio extravergine di oliva, aglio), piatto impiattato pronto da mangiare, luce naturale soffusa, vista dall'alto a 45 gradi, sfondo neutro, alta definizione.",
     "procedimento_it": [
       "Tagliare il pomodoro a cubetti.",
       "Scaldare l'olio extravergine di oliva in una padella e rosolare l'aglio tritato per circa un minuto finché profuma.",
