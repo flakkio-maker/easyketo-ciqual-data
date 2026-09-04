@@ -20,151 +20,119 @@ jobs:
           python-version: '3.x'
       - name: Install translator
         run: pip install requests
-      - name: Translate recipe names and procedures
+      - name: Translate with checkpoint/resume
         run: |
           python - <<'PY'
-          import json, time, requests
+          import json, time, requests, subprocess
 
           path = 'ricette_scoperta.json'
           with open(path, encoding='utf-8') as f:
               recipes = json.load(f)
-          assert len(recipes) == 446, f'Expected 446 recipes, got {len(recipes)}'
+          assert len(recipes) == 446
 
           URL = 'https://translate.googleapis.com/translate_a/single'
           SEP = '\n<<<CODEX_STEP>>>\n'
           session = requests.Session()
           session.headers.update({'User-Agent': 'Mozilla/5.0'})
 
-          def translate_one(text, lang):
-              if not text:
-                  return text
+          def call_google(text, lang):
               params = {'client': 'gtx', 'sl': 'it', 'tl': lang, 'dt': 't', 'q': text}
-              for attempt in range(8):
+              delay = 5
+              for attempt in range(12):
                   try:
-                      r = session.get(URL, params=params, timeout=45)
+                      r = session.get(URL, params=params, timeout=60)
+                      if r.status_code == 429:
+                          print('429', lang, 'sleep', delay)
+                          time.sleep(delay)
+                          delay = min(delay * 2, 120)
+                          continue
                       r.raise_for_status()
                       data = r.json()
                       value = ''.join(part[0] for part in data[0] if part and part[0])
                       if value:
+                          time.sleep(2.5)
                           return value
                   except Exception as e:
-                      print('retry-one', lang, attempt, repr(e))
-                  time.sleep(min(3 * (attempt + 1), 20))
-              raise RuntimeError(f'Translation failed: {lang}: {text[:120]}')
+                      print('retry', lang, attempt, repr(e), 'sleep', delay)
+                      time.sleep(delay)
+                      delay = min(delay * 2, 120)
+              raise RuntimeError(f'Google translation failed: {lang}: {text[:160]}')
 
-          def translate_texts(texts, lang):
-              if not texts:
-                  return []
-              out = []
-              chunk, chars = [], 0
-              chunks = []
+          def translate_list(texts, lang):
+              out=[]; chunk=[]; chars=0; chunks=[]
               for text in texts:
-                  text = str(text)
-                  extra = len(text) + len(SEP)
-                  if chunk and chars + extra > 3000:
-                      chunks.append(chunk)
-                      chunk, chars = [], 0
-                  chunk.append(text)
-                  chars += extra
-              if chunk:
-                  chunks.append(chunk)
-
-              for ci, chunk in enumerate(chunks):
-                  packed = SEP.join(chunk)
-                  translated = None
-                  for attempt in range(8):
-                      try:
-                          params = {'client': 'gtx', 'sl': 'it', 'tl': lang, 'dt': 't', 'q': packed}
-                          r = session.get(URL, params=params, timeout=60)
-                          r.raise_for_status()
-                          data = r.json()
-                          translated = ''.join(part[0] for part in data[0] if part and part[0])
-                          parts = translated.split(SEP) if translated else []
-                          if len(parts) == len(chunk):
-                              out.extend(parts)
-                              print('ok', lang, ci + 1, '/', len(chunks), len(chunk), 'items')
-                              break
-                          print('bad-split', lang, ci, len(chunk), len(parts))
-                      except Exception as e:
-                          print('retry-pack', lang, ci, attempt, repr(e))
-                      time.sleep(min(3 * (attempt + 1), 20))
-                  else:
-                      print('fallback-individual', lang, ci, len(chunk))
-                      for text in chunk:
-                          out.append(translate_one(text, lang))
-                  time.sleep(0.5)
-              assert len(out) == len(texts), (lang, len(out), len(texts))
+                  text=str(text)
+                  extra=len(text)+len(SEP)
+                  if chunk and chars+extra>1800:
+                      chunks.append(chunk); chunk=[]; chars=0
+                  chunk.append(text); chars+=extra
+              if chunk: chunks.append(chunk)
+              for i, chunk in enumerate(chunks, 1):
+                  packed=SEP.join(chunk)
+                  translated=call_google(packed, lang)
+                  parts=translated.split(SEP)
+                  if len(parts)!=len(chunk):
+                      print('separator mismatch; translating items individually', lang, i)
+                      parts=[call_google(x, lang) for x in chunk]
+                  out.extend(parts)
+                  print('OK', lang, i, '/', len(chunks), 'items', len(chunk))
+              assert len(out)==len(texts)
               return out
 
-          missing_en = [r for r in recipes if not r.get('procedimento_en')]
-          en_steps = []
-          for r in missing_en:
-              en_steps.extend(r.get('procedimento_it') or [])
-          en_trans = translate_texts(en_steps, 'en')
-          pos = 0
-          for r in missing_en:
-              steps = r.get('procedimento_it') or []
-              r['procedimento_en'] = en_trans[pos:pos + len(steps)]
-              pos += len(steps)
+          def save_and_commit(label):
+              with open(path,'w',encoding='utf-8') as f:
+                  json.dump(recipes,f,ensure_ascii=False,indent=2); f.write('\n')
+              subprocess.run(['git','config','user.name','Codex'],check=True)
+              subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+              subprocess.run(['git','add',path],check=True)
+              p=subprocess.run(['git','commit','-m',label])
+              if p.returncode==0: subprocess.run(['git','push'],check=True)
 
-          en_names = [r for r in missing_en if r.get('nome') == r.get('nome_it') or not r.get('nome')]
-          translated_en_names = translate_texts([r.get('nome_it', '') for r in en_names], 'en')
-          for r, v in zip(en_names, translated_en_names):
-              r['nome_en'] = v
-          for r in recipes:
-              if 'nome_en' not in r:
-                  r['nome_en'] = r.get('nome') or r.get('nome_it', '')
+          # Existing translations are preserved; reruns resume from missing fields.
+          missing=[r for r in recipes if not r.get('procedimento_en')]
+          if missing:
+              texts=[]
+              for r in missing: texts.extend(r.get('procedimento_it') or [])
+              tr=translate_list(texts,'en'); pos=0
+              for r in missing:
+                  n=len(r.get('procedimento_it') or []); r['procedimento_en']=tr[pos:pos+n]; pos+=n
+              names=[r for r in missing if not r.get('nome_en')]
+              if names:
+                  trn=translate_list([r.get('nome_it') or r.get('nome') or '' for r in names],'en')
+                  for r,v in zip(names,trn): r['nome_en']=v
+              save_and_commit('i18n(codex): checkpoint inglese ricette')
 
-          for lang in ('fr', 'es', 'de'):
-              name_key = f'nome_{lang}'
-              proc_key = f'procedimento_{lang}'
-              names = [r.get('nome_it') or r.get('nome') or '' for r in recipes]
-              translated_names = translate_texts(names, lang)
-              for r, v in zip(recipes, translated_names):
-                  r[name_key] = v
+          for lang in ('fr','es','de'):
+              name_key='nome_'+lang; proc_key='procedimento_'+lang
+              name_recipes=[r for r in recipes if not r.get(name_key)]
+              if name_recipes:
+                  tr=translate_list([r.get('nome_it') or r.get('nome') or '' for r in name_recipes],lang)
+                  for r,v in zip(name_recipes,tr): r[name_key]=v
+              targets=[r for r in recipes if not r.get(proc_key)]
+              texts=[]; positions=[]
+              for r in targets:
+                  steps=r.get('procedimento_it') or []
+                  positions.append(len(steps)); texts.extend(steps)
+              if texts:
+                  tr=translate_list(texts,lang); pos=0
+                  for r,n in zip(targets,positions): r[proc_key]=tr[pos:pos+n]; pos+=n
+              save_and_commit(f'i18n(codex): checkpoint traduzioni {lang} ricette')
 
-              positions = []
-              texts = []
-              for idx, r in enumerate(recipes):
-                  steps = r.get('procedimento_it') or []
-                  positions.append((idx, len(steps)))
-                  texts.extend(steps)
-              translated_steps = translate_texts(texts, lang)
-              pos = 0
-              for idx, n in positions:
-                  recipes[idx][proc_key] = translated_steps[pos:pos + n]
-                  pos += n
-
-          with open(path, 'w', encoding='utf-8') as f:
-              json.dump(recipes, f, ensure_ascii=False, indent=2)
-              f.write('\n')
-
-          print('DONE', len(recipes), 'recipes')
-          for lang in ('en', 'fr', 'es', 'de'):
-              print(lang, 'names', sum(bool(r.get('nome_' + lang)) for r in recipes),
-                    'procedures', sum(bool(r.get('procedimento_' + lang)) for r in recipes))
+          for lang in ('en','fr','es','de'):
+              print(lang,'names',sum(bool(r.get('nome_'+lang)) for r in recipes),'procedures',sum(bool(r.get('procedimento_'+lang)) for r in recipes))
+          print('DONE',len(recipes))
           PY
-      - name: Validate JSON and counts
+      - name: Validate final JSON
         run: |
           python - <<'PY'
           import json
-          with open('ricette_scoperta.json', encoding='utf-8') as f:
-              r = json.load(f)
-          assert len(r) == 446
-          assert len({x['id'] for x in r}) == 446
+          with open('ricette_scoperta.json',encoding='utf-8') as f: r=json.load(f)
+          assert len(r)==446 and len({x['id'] for x in r})==446
           for x in r:
-              assert x.get('nome_it')
-              assert x.get('procedimento_it')
-              for lang in ('en', 'fr', 'es', 'de'):
-                  assert x.get('nome_' + lang), (x['id'], 'nome_' + lang)
-                  assert x.get('procedimento_' + lang), (x['id'], 'procedimento_' + lang)
-                  assert len(x['procedimento_' + lang]) == len(x['procedimento_it']), (x['id'], lang)
-          print('VALID 446/446 with names + procedures in IT/EN/FR/ES/DE')
+              assert x.get('nome_it') and x.get('procedimento_it')
+              for lang in ('en','fr','es','de'):
+                  assert x.get('nome_'+lang),(x['id'],'nome_'+lang)
+                  assert x.get('procedimento_'+lang),(x['id'],'procedimento_'+lang)
+                  assert len(x['procedimento_'+lang])==len(x['procedimento_it']),(x['id'],lang)
+          print('VALID 446/446')
           PY
-      - name: Commit translations
-        run: |
-          git config user.name "Codex"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ricette_scoperta.json
-          git commit -m "i18n(codex): completa traduzione delle 446 ricette" || exit 0
-          git push
