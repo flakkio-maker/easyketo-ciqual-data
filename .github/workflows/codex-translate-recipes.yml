@@ -19,44 +19,49 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install translator
-        run: pip install deep-translator
+        run: pip install requests
       - name: Translate recipe names and procedures
         run: |
           python - <<'PY'
-          import json, time
-          from deep_translator import GoogleTranslator
+          import json, time, requests
 
           path = 'ricette_scoperta.json'
           with open(path, encoding='utf-8') as f:
               recipes = json.load(f)
           assert len(recipes) == 446, f'Expected 446 recipes, got {len(recipes)}'
 
+          URL = 'https://translate.googleapis.com/translate_a/single'
           SEP = '\n<<<CODEX_STEP>>>\n'
+          session = requests.Session()
+          session.headers.update({'User-Agent': 'Mozilla/5.0'})
 
-          def translate_one(tr, text, lang):
-              for attempt in range(5):
+          def translate_one(text, lang):
+              if not text:
+                  return text
+              params = {'client': 'gtx', 'sl': 'it', 'tl': lang, 'dt': 't', 'q': text}
+              for attempt in range(8):
                   try:
-                      value = tr.translate(text)
+                      r = session.get(URL, params=params, timeout=45)
+                      r.raise_for_status()
+                      data = r.json()
+                      value = ''.join(part[0] for part in data[0] if part and part[0])
                       if value:
                           return value
                   except Exception as e:
                       print('retry-one', lang, attempt, repr(e))
-                  time.sleep(2 * (attempt + 1))
+                  time.sleep(min(3 * (attempt + 1), 20))
               raise RuntimeError(f'Translation failed: {lang}: {text[:120]}')
 
           def translate_texts(texts, lang):
               if not texts:
                   return []
-              tr = GoogleTranslator(source='it', target=lang)
               out = []
-              # Google accepts a single request reliably; pack multiple short
-              # strings into one request and split them back using a sentinel.
               chunk, chars = [], 0
               chunks = []
               for text in texts:
                   text = str(text)
                   extra = len(text) + len(SEP)
-                  if chunk and chars + extra > 4200:
+                  if chunk and chars + extra > 3000:
                       chunks.append(chunk)
                       chunk, chars = [], 0
                   chunk.append(text)
@@ -67,27 +72,30 @@ jobs:
               for ci, chunk in enumerate(chunks):
                   packed = SEP.join(chunk)
                   translated = None
-                  for attempt in range(5):
+                  for attempt in range(8):
                       try:
-                          translated = tr.translate(packed)
+                          params = {'client': 'gtx', 'sl': 'it', 'tl': lang, 'dt': 't', 'q': packed}
+                          r = session.get(URL, params=params, timeout=60)
+                          r.raise_for_status()
+                          data = r.json()
+                          translated = ''.join(part[0] for part in data[0] if part and part[0])
                           parts = translated.split(SEP) if translated else []
                           if len(parts) == len(chunk):
                               out.extend(parts)
+                              print('ok', lang, ci + 1, '/', len(chunks), len(chunk), 'items')
                               break
                           print('bad-split', lang, ci, len(chunk), len(parts))
                       except Exception as e:
                           print('retry-pack', lang, ci, attempt, repr(e))
-                      time.sleep(2 * (attempt + 1))
+                      time.sleep(min(3 * (attempt + 1), 20))
                   else:
-                      # Last-resort per-string translation for this chunk.
                       print('fallback-individual', lang, ci, len(chunk))
                       for text in chunk:
-                          out.append(translate_one(tr, text, lang))
-                  time.sleep(0.4)
+                          out.append(translate_one(text, lang))
+                  time.sleep(0.5)
               assert len(out) == len(texts), (lang, len(out), len(texts))
               return out
 
-          # English: keep existing English procedures; fill only missing ones.
           missing_en = [r for r in recipes if not r.get('procedimento_en')]
           en_steps = []
           for r in missing_en:
@@ -98,6 +106,7 @@ jobs:
               steps = r.get('procedimento_it') or []
               r['procedimento_en'] = en_trans[pos:pos + len(steps)]
               pos += len(steps)
+
           en_names = [r for r in missing_en if r.get('nome') == r.get('nome_it') or not r.get('nome')]
           translated_en_names = translate_texts([r.get('nome_it', '') for r in en_names], 'en')
           for r, v in zip(en_names, translated_en_names):
@@ -106,7 +115,6 @@ jobs:
               if 'nome_en' not in r:
                   r['nome_en'] = r.get('nome') or r.get('nome_it', '')
 
-          # FR/ES/DE: complete names and procedures for all 446 recipes.
           for lang in ('fr', 'es', 'de'):
               name_key = f'nome_{lang}'
               proc_key = f'procedimento_{lang}'
