@@ -50,7 +50,7 @@ jobs:
                       data = r.json()
                       value = ''.join(part[0] for part in data[0] if part and part[0])
                       if value:
-                          time.sleep(2.5)
+                          time.sleep(5)
                           return value
                   except Exception as e:
                       print('retry', lang, attempt, repr(e), 'sleep', delay)
@@ -63,7 +63,7 @@ jobs:
               for text in texts:
                   text=str(text)
                   extra=len(text)+len(SEP)
-                  if chunk and chars+extra>1800:
+                  if chunk and chars+extra>900:
                       chunks.append(chunk); chunk=[]; chars=0
                   chunk.append(text); chars+=extra
               if chunk: chunks.append(chunk)
@@ -88,7 +88,6 @@ jobs:
               p=subprocess.run(['git','commit','-m',label])
               if p.returncode==0: subprocess.run(['git','push'],check=True)
 
-          # Existing translations are preserved; reruns resume from missing fields.
           missing=[r for r in recipes if not r.get('procedimento_en')]
           if missing:
               texts=[]
