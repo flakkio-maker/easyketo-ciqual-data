@@ -26,89 +26,131 @@ jobs:
           import json, time
           from deep_translator import GoogleTranslator
 
-          path='ricette_scoperta.json'
-          with open(path,encoding='utf-8') as f:
-              recipes=json.load(f)
-          assert len(recipes)==446, f'Expected 446 recipes, got {len(recipes)}'
+          path = 'ricette_scoperta.json'
+          with open(path, encoding='utf-8') as f:
+              recipes = json.load(f)
+          assert len(recipes) == 446, f'Expected 446 recipes, got {len(recipes)}'
 
-          def translate_batch(texts, lang):
-              if not texts: return []
-              tr=GoogleTranslator(source='it', target=lang)
-              out=[]
-              for i in range(0,len(texts),40):
-                  chunk=texts[i:i+40]
-                  for attempt in range(4):
+          SEP = '\n<<<CODEX_STEP>>>\n'
+
+          def translate_one(tr, text, lang):
+              for attempt in range(5):
+                  try:
+                      value = tr.translate(text)
+                      if value:
+                          return value
+                  except Exception as e:
+                      print('retry-one', lang, attempt, repr(e))
+                  time.sleep(2 * (attempt + 1))
+              raise RuntimeError(f'Translation failed: {lang}: {text[:120]}')
+
+          def translate_texts(texts, lang):
+              if not texts:
+                  return []
+              tr = GoogleTranslator(source='it', target=lang)
+              out = []
+              # Google accepts a single request reliably; pack multiple short
+              # strings into one request and split them back using a sentinel.
+              chunk, chars = [], 0
+              chunks = []
+              for text in texts:
+                  text = str(text)
+                  extra = len(text) + len(SEP)
+                  if chunk and chars + extra > 4200:
+                      chunks.append(chunk)
+                      chunk, chars = [], 0
+                  chunk.append(text)
+                  chars += extra
+              if chunk:
+                  chunks.append(chunk)
+
+              for ci, chunk in enumerate(chunks):
+                  packed = SEP.join(chunk)
+                  translated = None
+                  for attempt in range(5):
                       try:
-                          vals=tr.translate_batch(chunk)
-                          if len(vals)==len(chunk):
-                              out.extend(vals); break
+                          translated = tr.translate(packed)
+                          parts = translated.split(SEP) if translated else []
+                          if len(parts) == len(chunk):
+                              out.extend(parts)
+                              break
+                          print('bad-split', lang, ci, len(chunk), len(parts))
                       except Exception as e:
-                          print('retry',lang,i,attempt,e)
-                          time.sleep(2*(attempt+1))
+                          print('retry-pack', lang, ci, attempt, repr(e))
+                      time.sleep(2 * (attempt + 1))
                   else:
-                      raise RuntimeError(f'Translation failed: {lang} batch {i}')
-                  time.sleep(0.3)
+                      # Last-resort per-string translation for this chunk.
+                      print('fallback-individual', lang, ci, len(chunk))
+                      for text in chunk:
+                          out.append(translate_one(tr, text, lang))
+                  time.sleep(0.4)
+              assert len(out) == len(texts), (lang, len(out), len(texts))
               return out
 
-          # English: keep existing source text where present; translate only
-          # recipes without an English procedure/title.
-          missing_en=[r for r in recipes if not r.get('procedimento_en')]
-          en_steps=[]
-          for r in missing_en: en_steps.extend(r.get('procedimento_it') or [])
-          en_trans=translate_batch(en_steps,'en')
-          pos=0
+          # English: keep existing English procedures; fill only missing ones.
+          missing_en = [r for r in recipes if not r.get('procedimento_en')]
+          en_steps = []
           for r in missing_en:
-              steps=r.get('procedimento_it') or []
-              r['procedimento_en']=en_trans[pos:pos+len(steps)]; pos+=len(steps)
-              if r.get('nome')==r.get('nome_it') or not r.get('nome'):
-                  r['nome_en']=translate_batch([r.get('nome_it','')],'en')[0]
-              else:
-                  r['nome_en']=r['nome']
+              en_steps.extend(r.get('procedimento_it') or [])
+          en_trans = translate_texts(en_steps, 'en')
+          pos = 0
+          for r in missing_en:
+              steps = r.get('procedimento_it') or []
+              r['procedimento_en'] = en_trans[pos:pos + len(steps)]
+              pos += len(steps)
+          en_names = [r for r in missing_en if r.get('nome') == r.get('nome_it') or not r.get('nome')]
+          translated_en_names = translate_texts([r.get('nome_it', '') for r in en_names], 'en')
+          for r, v in zip(en_names, translated_en_names):
+              r['nome_en'] = v
           for r in recipes:
               if 'nome_en' not in r:
-                  r['nome_en']=r.get('nome') or r.get('nome_it','')
+                  r['nome_en'] = r.get('nome') or r.get('nome_it', '')
 
-          # FR/ES/DE: complete names + procedures for all 446 recipes.
-          for lang in ('fr','es','de'):
-              name_key=f'nome_{lang}'
-              proc_key=f'procedimento_{lang}'
-              names=[r.get('nome_it') or r.get('nome') or '' for r in recipes]
-              translated_names=translate_batch(names,lang)
-              for r,v in zip(recipes,translated_names): r[name_key]=v
-              positions=[]; texts=[]
-              for idx,r in enumerate(recipes):
-                  steps=r.get('procedimento_it') or []
-                  positions.append((idx,len(steps)))
+          # FR/ES/DE: complete names and procedures for all 446 recipes.
+          for lang in ('fr', 'es', 'de'):
+              name_key = f'nome_{lang}'
+              proc_key = f'procedimento_{lang}'
+              names = [r.get('nome_it') or r.get('nome') or '' for r in recipes]
+              translated_names = translate_texts(names, lang)
+              for r, v in zip(recipes, translated_names):
+                  r[name_key] = v
+
+              positions = []
+              texts = []
+              for idx, r in enumerate(recipes):
+                  steps = r.get('procedimento_it') or []
+                  positions.append((idx, len(steps)))
                   texts.extend(steps)
-              translated_steps=translate_batch(texts,lang)
-              pos=0
-              for idx,n in positions:
-                  recipes[idx][proc_key]=translated_steps[pos:pos+n]
-                  pos+=n
+              translated_steps = translate_texts(texts, lang)
+              pos = 0
+              for idx, n in positions:
+                  recipes[idx][proc_key] = translated_steps[pos:pos + n]
+                  pos += n
 
-          with open(path,'w',encoding='utf-8') as f:
-              json.dump(recipes,f,ensure_ascii=False,indent=2)
+          with open(path, 'w', encoding='utf-8') as f:
+              json.dump(recipes, f, ensure_ascii=False, indent=2)
               f.write('\n')
 
-          print('DONE',len(recipes),'recipes')
-          for lang in ('en','fr','es','de'):
-              print(lang,'names',sum(bool(r.get('nome_'+lang) if lang!='en' else r.get('nome_en')) for r in recipes),
-                    'procedures',sum(bool(r.get('procedimento_'+lang)) for r in recipes))
+          print('DONE', len(recipes), 'recipes')
+          for lang in ('en', 'fr', 'es', 'de'):
+              print(lang, 'names', sum(bool(r.get('nome_' + lang)) for r in recipes),
+                    'procedures', sum(bool(r.get('procedimento_' + lang)) for r in recipes))
           PY
       - name: Validate JSON and counts
         run: |
           python - <<'PY'
           import json
-          with open('ricette_scoperta.json',encoding='utf-8') as f: r=json.load(f)
-          assert len(r)==446
-          assert len({x['id'] for x in r})==446
+          with open('ricette_scoperta.json', encoding='utf-8') as f:
+              r = json.load(f)
+          assert len(r) == 446
+          assert len({x['id'] for x in r}) == 446
           for x in r:
               assert x.get('nome_it')
               assert x.get('procedimento_it')
-              for lang in ('en','fr','es','de'):
-                  assert x.get('nome_'+lang), (x['id'], 'nome_'+lang)
-                  assert x.get('procedimento_'+lang), (x['id'], 'procedimento_'+lang)
-                  assert len(x['procedimento_'+lang])==len(x['procedimento_it']), (x['id'],lang)
+              for lang in ('en', 'fr', 'es', 'de'):
+                  assert x.get('nome_' + lang), (x['id'], 'nome_' + lang)
+                  assert x.get('procedimento_' + lang), (x['id'], 'procedimento_' + lang)
+                  assert len(x['procedimento_' + lang]) == len(x['procedimento_it']), (x['id'], lang)
           print('VALID 446/446 with names + procedures in IT/EN/FR/ES/DE')
           PY
       - name: Commit translations
