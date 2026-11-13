@@ -9,10 +9,11 @@
       "pranzo"
     ],
     "cucina": [
-      "europea",
       "greca"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 521.0,
     "kcal_porzione": 634.4,
@@ -482,7 +483,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 8.0,
     "peso_porzione_dichiarato_g": 116.0,
@@ -755,7 +757,9 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 294.0,
     "kcal_porzione": 904.0,
@@ -2285,7 +2289,9 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 439.0,
     "kcal_porzione": 1081.4,
@@ -2438,9 +2444,11 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "americana"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 5.0,
     "peso_porzione_dichiarato_g": 495.0,
     "kcal_porzione": 588.4,
@@ -2696,7 +2704,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -2774,7 +2781,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -2860,7 +2866,8 @@
     ],
     "tipo_dieta": [
       "chetogenica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 352.0,
@@ -3441,7 +3448,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -3956,7 +3962,8 @@
       "asiatica"
     ],
     "tipo_dieta": [
-      "ipocalorica"
+      "ipocalorica",
+      "iperproteica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 264.0,
@@ -4322,7 +4329,8 @@
     ],
     "tipo_dieta": [
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 240.0,
@@ -4420,7 +4428,6 @@
       "europea"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -4776,7 +4783,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 227.0,
@@ -5604,7 +5612,7 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "americana"
     ],
     "tipo_dieta": [],
     "porzioni": 1.0,
@@ -5936,7 +5944,9 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 6.0,
     "peso_porzione_dichiarato_g": 312.0,
     "kcal_porzione": 881.2,
@@ -7645,7 +7655,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 202.0,
@@ -7930,7 +7941,6 @@
       "italiana"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -8139,7 +8149,7 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "americana"
     ],
     "tipo_dieta": [
       "ipocalorica",
@@ -8314,7 +8324,8 @@
     ],
     "tipo_dieta": [
       "chetogenica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 126.0,
@@ -8491,10 +8502,9 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "americana"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -8586,7 +8596,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -8729,7 +8738,9 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 371.0,
     "kcal_porzione": 783.6,
@@ -9962,7 +9973,7 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "americana"
     ],
     "tipo_dieta": [
       "ipocalorica"
@@ -12101,9 +12112,11 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "americana"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 8.0,
     "peso_porzione_dichiarato_g": 372.0,
     "kcal_porzione": 605.8,
@@ -12937,7 +12950,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -13134,7 +13146,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -13313,7 +13324,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 6.0,
     "peso_porzione_dichiarato_g": 187.0,
@@ -13769,7 +13781,8 @@
     "tipo_dieta": [
       "chetogenica",
       "ipocalorica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 86.0,
@@ -14318,7 +14331,9 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 425.0,
     "kcal_porzione": 500.9,
@@ -14534,7 +14549,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 179.0,
@@ -15179,7 +15195,8 @@
     "tipo_dieta": [
       "chetogenica",
       "ipocalorica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 155.0,
@@ -15825,7 +15842,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 119.0,
@@ -15911,7 +15929,7 @@
       "spuntino"
     ],
     "cucina": [
-      "internazionale"
+      "indiana"
     ],
     "tipo_dieta": [
       "ipocalorica",
@@ -17144,7 +17162,6 @@
       "europea"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -17717,7 +17734,6 @@
       "pranzo"
     ],
     "cucina": [
-      "europea",
       "greca"
     ],
     "tipo_dieta": [
@@ -18468,7 +18484,6 @@
       "pranzo"
     ],
     "cucina": [
-      "asiatica",
       "giapponese"
     ],
     "tipo_dieta": [
@@ -18833,7 +18848,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 6.0,
     "peso_porzione_dichiarato_g": 162.0,
@@ -19075,7 +19091,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 76.0,
@@ -19683,7 +19700,7 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "italiana"
     ],
     "tipo_dieta": [
       "ipocalorica"
@@ -20027,7 +20044,6 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -20135,7 +20151,9 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 417.5,
     "kcal_porzione": 652.6,
@@ -20260,7 +20278,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 525.6,
@@ -21564,7 +21583,6 @@
       "francese"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -21669,7 +21687,9 @@
     "cucina": [
       "tedesca"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 488.9,
     "kcal_porzione": 812.4,
@@ -21877,7 +21897,8 @@
       "italiana"
     ],
     "tipo_dieta": [
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 539.3,
@@ -23078,7 +23099,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 324.0,
@@ -23404,7 +23426,8 @@
     "tipo_dieta": [
       "chetogenica",
       "ipocalorica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 251.0,
@@ -23518,7 +23541,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 256.0,
@@ -23644,7 +23668,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 288.0,
@@ -23757,7 +23782,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 253.0,
@@ -23818,7 +23844,7 @@
       "Servire caldo."
     ],
     "nome_it": "Petto di tacchino con funghi champignon",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/254_petto_di_tacchino_con_funghi_champignon_v2.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/254_petto_di_tacchino_con_funghi_champignon.jpg",
     "nome_en": "Turkey breast with button mushrooms",
     "procedimento_en": [
       "Cut the chicken breast into slices or strips.",
@@ -23987,7 +24013,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 191.0,
@@ -24325,7 +24352,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 314.0,
@@ -24432,7 +24460,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 286.5,
@@ -24486,7 +24515,7 @@
       "Servire ben caldo."
     ],
     "nome_it": "Bocconcini di pollo con peperoni",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/260_bocconcini_di_pollo_con_peperoni_v2.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/260_bocconcini_di_pollo_con_peperoni.jpg",
     "nome_en": "Chicken bites with peppers",
     "procedimento_en": [
       "Cut the chicken breast into even bite-sized pieces of about 2-3 cm.",
@@ -24659,7 +24688,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 288.0,
@@ -24767,7 +24797,7 @@
       "pranzo"
     ],
     "cucina": [
-      "internazionale"
+      "italiana"
     ],
     "tipo_dieta": [
       "chetogenica",
@@ -24878,7 +24908,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 356.0,
@@ -25004,7 +25035,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 276.5,
@@ -25058,7 +25090,7 @@
       "Disporre la carne nel piatto con gli spinaci saltati a fianco e servire subito."
     ],
     "nome_it": "Fesa di tacchino con spinaci saltati",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/265_fesa_di_tacchino_con_spinaci_saltati_v2.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/265_fesa_di_tacchino_con_spinaci_saltati.jpg",
     "nome_en": "Turkey escalope with sautéed spinach",
     "procedimento_en": [
       "Cut the chicken breast (used in place of the turkey escalope) into thin slices or strips.",
@@ -25699,7 +25731,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 529.0,
@@ -25957,7 +25990,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 227.0,
@@ -26448,7 +26482,8 @@
     ],
     "tipo_dieta": [
       "ipocalorica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 292.7,
@@ -26581,7 +26616,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 295.0,
@@ -26713,7 +26749,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 297.0,
@@ -26825,7 +26862,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 326.0,
@@ -27156,7 +27194,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 414.0,
@@ -27544,7 +27583,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 362.2,
@@ -27682,7 +27722,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 316.0,
@@ -28429,7 +28470,7 @@
       "Spegnere il fuoco, cospargere con il prezzemolo tritato fresco e servire subito, ben caldi."
     ],
     "nome_it": "Funghi trifolati alla francese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/293_funghi_trifolati_alla_francese_v2.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/293_funghi_trifolati_alla_francese.jpg",
     "nome_en": "French sautéed mushrooms",
     "procedimento_en": [
       "Clean the button mushrooms with a damp cloth, without rinsing them under water, and slice them.",
@@ -28609,7 +28650,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 284.0,
@@ -28721,7 +28763,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 187.0,
@@ -29155,7 +29198,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 379.0,
@@ -30247,7 +30291,6 @@
       "tedesca"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -30651,7 +30694,6 @@
       "spagnola"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -30771,7 +30813,6 @@
       "spagnola"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -30889,7 +30930,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 225.5,
@@ -31007,7 +31049,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 172.5,
@@ -31170,7 +31213,7 @@
       "Servire caldo con il sughetto di cottura."
     ],
     "nome_it": "Merluzzo alla basca con vongole",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/318_merluzzo_alla_basca_con_vongole.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/318_merluzzo_alla_basca_con_vongole_v2.jpg",
     "nome_en": "Basque-style cod with clams",
     "procedimento_en": [
       "Rinse the clams under running water to remove any sand.",
@@ -31301,7 +31344,7 @@
       "Rimettere le polpette nel sugo, salare, coprire e cuocere a fuoco basso per 15-20 minuti finché le polpette sono cotte e il sugo si è addensato."
     ],
     "nome_it": "Polpette al sugo alla spagnola (Albóndigas)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/319_polpette_al_sugo_alla_spagnola_albondigas.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/319_polpette_al_sugo_alla_spagnola_albondigas_v2.jpg",
     "nome_en": "Spanish meatballs in sauce (Albóndigas)",
     "procedimento_en": [
       "Chop the garlic and, in a bowl, combine the ground beef, pork, egg, breadcrumbs, half the chopped garlic and salt, mixing well.",
@@ -31464,7 +31507,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 197.5,
@@ -31624,7 +31668,7 @@
       "Condire con abbondante olio extravergine di oliva e un pizzico di sale, servire tiepido."
     ],
     "nome_it": "Polpo alla galiziana",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/322_polpo_alla_galiziana.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/322_polpo_alla_galiziana_v2.jpg",
     "nome_en": "Galician-style octopus",
     "procedimento_en": [
       "Peel the potatoes and boil them in salted water until tender, drain and cut into thick slices.",
@@ -31838,7 +31882,7 @@
       "Aggiustare di sale e servire caldi."
     ],
     "nome_it": "Fagiolini con prosciutto",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/324_fagiolini_con_prosciutto.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/324_fagiolini_con_prosciutto_v2.jpg",
     "nome_en": "Green beans with prosciutto",
     "procedimento_en": [
       "Wash and trim the green beans, then boil them in salted water for 8-10 minutes until tender but still crisp; drain.",
@@ -31944,7 +31988,7 @@
       "Salare e servire."
     ],
     "nome_it": "Spinaci con ceci alla spagnola",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/325_spinaci_con_ceci_alla_spagnola.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/325_spinaci_con_ceci_alla_spagnola_v2.jpg",
     "nome_en": "Spanish-style spinach with chickpeas",
     "procedimento_en": [
       "Wash the raw spinach thoroughly.",
@@ -31997,7 +32041,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 241.3,
@@ -32165,7 +32210,7 @@
       "Servire fresche, eventualmente dopo un ulteriore breve riposo in frigorifero."
     ],
     "nome_it": "Acciughe marinate",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/327_acciughe_marinate.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/327_acciughe_marinate_v2.jpg",
     "nome_en": "Marinated anchovies",
     "procedimento_en": [
       "Clean the anchovies, removing the head, backbone and innards, to get clean fillets (or use ready-cleaned fillets).",
@@ -32279,7 +32324,7 @@
       "Affettare la carne e servirla con le verdure e il fondo di cottura."
     ],
     "nome_it": "Arrosto di manzo con verdure",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/328_arrosto_di_manzo_con_verdure.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/328_arrosto_di_manzo_con_verdure_v2.jpg",
     "nome_en": "Roast beef with vegetables",
     "procedimento_en": [
       "Cut the carrots, potatoes and onion into large chunks.",
@@ -32381,7 +32426,7 @@
       "Disporre il purè nel piatto, adagiare sopra i wurstel e completare con le cipolle caramellate."
     ],
     "nome_it": "Salsicce con purè e cipolle (Bangers and mash)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/329_salsicce_con_pure_e_cipolle_bangers_and_mash.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/329_salsicce_con_pure_e_cipolle_bangers_and_mash_v2.jpg",
     "nome_en": "Bangers and mash",
     "procedimento_en": [
       "Peel the potatoes, cut them into pieces and boil them in salted water until soft, about 15-20 minutes.",
@@ -32428,7 +32473,8 @@
     ],
     "tipo_dieta": [
       "chetogenica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 422.0,
@@ -32496,7 +32542,7 @@
       "Comporre il piatto con uova, speck, wurstel, funghi e pomodoro, salando leggermente dove necessario."
     ],
     "nome_it": "Colazione all'inglese completa",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/330_colazione_all_inglese_completa.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/330_colazione_all_inglese_completa_v2.jpg",
     "nome_en": "Full English breakfast",
     "procedimento_en": [
       "Cut the speck into slices and slice the button mushrooms; halve the tomato.",
@@ -32549,7 +32595,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 278.7,
@@ -32617,7 +32664,7 @@
       "Togliere dal fuoco, incorporare la panna fresca e mescolare fino a ottenere una salsa cremosa; scaldare ancora un minuto senza bollire e servire."
     ],
     "nome_it": "Pollo al curry all'inglese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/331_pollo_al_curry_all_inglese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/331_pollo_al_curry_all_inglese_v2.jpg",
     "nome_en": "English chicken curry",
     "procedimento_en": [
       "Cut the chicken breast into bite-sized pieces and slice the onion.",
@@ -32731,7 +32778,7 @@
       "Servire il merluzzo impanato accompagnato dal purè di piselli caldo."
     ],
     "nome_it": "Merluzzo impanato con purè di piselli",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/332_merluzzo_impanato_con_pure_di_piselli.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/332_merluzzo_impanato_con_pure_di_piselli_v2.jpg",
     "nome_en": "Breaded cod with pea mash",
     "procedimento_en": [
       "Beat the egg in a shallow dish.",
@@ -32838,7 +32885,7 @@
       "Cuocere a fuoco molto basso per almeno 2 ore, mescolando di tanto in tanto, finché la carne risulta molto tenera e il fondo si è ristretto in una salsa densa."
     ],
     "nome_it": "Manzo brasato alla birra",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/333_manzo_brasato_alla_birra.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/333_manzo_brasato_alla_birra_v2.jpg",
     "nome_en": "Beer-braised beef",
     "procedimento_en": [
       "Cut the beef shoulder into large cubes.",
@@ -32940,7 +32987,7 @@
       "Passare sotto il grill del forno per 2-3 minuti finché la superficie è dorata e bollente; servire subito."
     ],
     "nome_it": "Toast al formaggio gallese (Welsh rarebit)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/334_toast_al_formaggio_gallese_welsh_rarebit.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/334_toast_al_formaggio_gallese_welsh_rarebit_v2.jpg",
     "nome_en": "Welsh rarebit",
     "procedimento_en": [
       "Slice the bread and toast it lightly, in a toaster or under the broiler, on one side only.",
@@ -33041,7 +33088,7 @@
       "Incorporare delicatamente il salmone affumicato a listarelle e servire immediatamente."
     ],
     "nome_it": "Uova e salmone affumicato",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/335_uova_e_salmone_affumicato.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/335_uova_e_salmone_affumicato_v2.jpg",
     "nome_en": "Eggs and smoked salmon",
     "procedimento_en": [
       "Beat the eggs in a bowl with a pinch of salt.",
@@ -33148,7 +33195,7 @@
       "Lasciare riposare il pollo 5 minuti prima di affettarlo, servire con le verdure arrosto."
     ],
     "nome_it": "Pollo arrosto della domenica",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/336_pollo_arrosto_della_domenica.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/336_pollo_arrosto_della_domenica_v2.jpg",
     "nome_en": "Sunday roast chicken",
     "procedimento_en": [
       "Turn the oven on to 200°C (392°F) in conventional (static) mode.",
@@ -33256,7 +33303,7 @@
       "Adagiare il pesce grigliato sull'insalata e servire con spicchi di limone."
     ],
     "nome_it": "Sgombro alla griglia con insalata",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/337_sgombro_alla_griglia_con_insalata.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/337_sgombro_alla_griglia_con_insalata_v2.jpg",
     "nome_en": "Grilled mackerel with salad",
     "procedimento_en": [
       "Heat a grill or a non-stick pan until very hot.",
@@ -33362,7 +33409,7 @@
       "Salare leggermente il cetriolo e servire il tutto a temperatura ambiente."
     ],
     "nome_it": "Formaggio cheddar con sottaceti (Ploughman's)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/338_formaggio_cheddar_con_sottaceti_ploughman_s.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/338_formaggio_cheddar_con_sottaceti_ploughman_s_v2.jpg",
     "nome_en": "Ploughman's cheddar with pickles",
     "procedimento_en": [
       "Cut the cheddar into thick slices or cubes.",
@@ -33415,7 +33462,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 339.0,
@@ -33470,7 +33518,7 @@
       "Lasciare riposare 5 minuti prima di affettare e servire."
     ],
     "nome_it": "Filetto di manzo in crosta (Beef Wellington, senza pasta sfoglia)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/339_filetto_di_manzo_in_crosta_beef_wellington_senza_pasta_sfoglia.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/339_filetto_di_manzo_in_crosta_beef_wellington_senza_pasta_sfoglia_v2.jpg",
     "nome_en": "Beef Wellington in crust (no puff pastry)",
     "procedimento_en": [
       "Finely chop the button mushrooms.",
@@ -33525,7 +33573,8 @@
       "inglese"
     ],
     "tipo_dieta": [
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 324.0,
@@ -33580,7 +33629,7 @@
       "Servire ben caldo."
     ],
     "nome_it": "Manzo in scatola con patate (Corned beef hash)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/340_manzo_in_scatola_con_patate_corned_beef_hash.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/340_manzo_in_scatola_con_patate_corned_beef_hash_v2.jpg",
     "nome_en": "Corned beef hash with potatoes",
     "procedimento_en": [
       "Peel the potatoes, cut them into small cubes and boil them in salted water for 8-10 minutes until almost cooked, then drain.",
@@ -33637,7 +33686,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 200.0,
@@ -33690,7 +33740,7 @@
       "Versare il burro al limone sui filetti, cospargere con prezzemolo tritato e servire subito."
     ],
     "nome_it": "Sogliola al burro",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/341_sogliola_al_burro.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/341_sogliola_al_burro_v2.jpg",
     "nome_en": "Sole in butter sauce",
     "procedimento_en": [
       "Pat the sole fillets dry well with paper towel and season with salt.",
@@ -33743,7 +33793,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 215.0,
@@ -33804,7 +33855,7 @@
       "Aggiustare di sale e servire caldo."
     ],
     "nome_it": "Pollo al limone alla cinese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/342_pollo_al_limone_alla_cinese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/342_pollo_al_limone_alla_cinese_v2.jpg",
     "nome_en": "Chinese-style lemon chicken",
     "procedimento_en": [
       "Cut the chicken breast into strips or bite-sized pieces.",
@@ -33857,7 +33908,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 347.0,
@@ -33933,7 +33985,7 @@
       "Sfumare con la salsa di soia rimasta, salare e servire subito."
     ],
     "nome_it": "Manzo con germogli di soia e peperoni",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/343_manzo_con_germogli_di_soia_e_peperoni.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/343_manzo_con_germogli_di_soia_e_peperoni_v2.jpg",
     "nome_en": "Beef with bean sprouts and peppers",
     "procedimento_en": [
       "Cut the beef into thin strips against the grain.",
@@ -34058,7 +34110,7 @@
       "Servire immediatamente ben caldo."
     ],
     "nome_it": "Gamberi saltati con germogli di bambù",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/344_gamberi_saltati_con_germogli_di_bambu.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/344_gamberi_saltati_con_germogli_di_bambu_v2.jpg",
     "nome_en": "Stir-fried shrimp with bamboo shoots",
     "procedimento_en": [
       "Finely chop the ginger and slice the spring onions.",
@@ -34186,7 +34238,7 @@
       "Servire caldo."
     ],
     "nome_it": "Tofu saltato con verdure",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/345_tofu_saltato_con_verdure.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/345_tofu_saltato_con_verdure_v2.jpg",
     "nome_en": "Stir-fried tofu with vegetables",
     "procedimento_en": [
       "Cut the tofu into cubes and pat dry with paper towel.",
@@ -34313,7 +34365,7 @@
       "Salare e servire caldo."
     ],
     "nome_it": "Maiale in agrodolce",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/346_maiale_in_agrodolce.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/346_maiale_in_agrodolce_v2.jpg",
     "nome_en": "Sweet and sour pork",
     "procedimento_en": [
       "Cut the pork into cubes and the peppers into pieces.",
@@ -34435,7 +34487,7 @@
       "Condire con la salsa di soia, saltare ancora un minuto e servire caldo."
     ],
     "nome_it": "Riso alla cantonese con uovo",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/347_riso_alla_cantonese_con_uovo.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/347_riso_alla_cantonese_con_uovo_v2.jpg",
     "nome_en": "Cantonese-style fried rice with egg",
     "procedimento_en": [
       "Cook the rice in plenty of salted water, drain and let it cool (ideally rice left over from the day before).",
@@ -34486,7 +34538,7 @@
       "spuntino"
     ],
     "cucina": [
-      "cinese"
+      "giapponese"
     ],
     "tipo_dieta": [
       "ipocalorica",
@@ -34545,7 +34597,7 @@
       "Aggiustare di sale se necessario, guarnire con le cipolline affettate e servire subito."
     ],
     "nome_it": "Zuppa di miso con tofu",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/348_zuppa_di_miso_con_tofu.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/348_zuppa_di_miso_con_tofu_v2.jpg",
     "nome_en": "Miso soup with tofu",
     "procedimento_en": [
       "Bring the vegetable broth to a gentle simmer in a pot.",
@@ -34598,7 +34650,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 255.5,
@@ -34667,7 +34720,7 @@
       "Servire il composto caldo, da avvolgere in foglie di lattuga fresca a piacere."
     ],
     "nome_it": "Involtini di lattuga con pollo alla cinese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/349_involtini_di_lattuga_con_pollo_alla_cinese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/349_involtini_di_lattuga_con_pollo_alla_cinese_v2.jpg",
     "nome_en": "Chinese-style chicken lettuce wraps",
     "procedimento_en": [
       "Cut the chicken breast into small cubes.",
@@ -34793,7 +34846,7 @@
       "Distribuire il ripieno su sfoglie di riso o foglie di lattuga e arrotolare stretto per formare gli involtini, servire freddi o a temperatura ambiente."
     ],
     "nome_it": "Involtino primavera con verdure e gamberi (senza frittura)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/350_involtino_primavera_con_verdure_e_gamberi_senza_frittura.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/350_involtino_primavera_con_verdure_e_gamberi_senza_frittura_v2.jpg",
     "nome_en": "Spring rolls with vegetables and shrimp (no frying)",
     "procedimento_en": [
       "Soak the rice vermicelli in hot water for 5-8 minutes until soft, then drain and roughly cut them.",
@@ -34850,7 +34903,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 265.5,
@@ -34919,7 +34973,7 @@
       "Aggiungere le mandorle tostate a fine cottura e servire subito."
     ],
     "nome_it": "Pollo alle mandorle alla cinese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/351_pollo_alle_mandorle_alla_cinese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/351_pollo_alle_mandorle_alla_cinese_v2.jpg",
     "nome_en": "Chinese-style almond chicken",
     "procedimento_en": [
       "Cut the chicken breast into bite-sized pieces and the peppers into strips.",
@@ -34974,7 +35028,8 @@
     ],
     "tipo_dieta": [
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 166.0,
@@ -35020,7 +35075,7 @@
       "Salare leggermente e servire ben caldo."
     ],
     "nome_it": "Manzo alla piastra con salsa di soia e sesamo (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/352_manzo_alla_piastra_con_salsa_di_soia_e_sesamo_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/352_manzo_alla_piastra_con_salsa_di_soia_e_sesamo_spuntino_v2.jpg",
     "nome_en": "Griddled beef with soy-sesame sauce (snack)",
     "procedimento_en": [
       "Cut the beef into thin slices.",
@@ -35122,7 +35177,7 @@
       "Servire calda, tagliata a spicchi."
     ],
     "nome_it": "Frittata di uova alla cinese con cipollotto",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/353_frittata_di_uova_alla_cinese_con_cipollotto.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/353_frittata_di_uova_alla_cinese_con_cipollotto_v2.jpg",
     "nome_en": "Chinese-style egg omelet with spring onion",
     "procedimento_en": [
       "Beat the eggs in a bowl with a pinch of salt and the soy sauce.",
@@ -35235,7 +35290,7 @@
       "Servire ben caldo."
     ],
     "nome_it": "Zuppa di pollo e zenzero alla cinese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/354_zuppa_di_pollo_e_zenzero_alla_cinese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/354_zuppa_di_pollo_e_zenzero_alla_cinese_v2.jpg",
     "nome_en": "Chinese-style chicken and ginger soup",
     "procedimento_en": [
       "Cut the chicken breast into thin slices and the carrot into rounds.",
@@ -35288,7 +35343,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 202.0,
@@ -35390,7 +35446,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 212.0,
@@ -35452,7 +35509,7 @@
       "Irrorare con la salsa di soia, salare leggermente e servire subito."
     ],
     "nome_it": "Merluzzo al vapore con zenzero e soia",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/356_merluzzo_al_vapore_con_zenzero_e_soia.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/356_merluzzo_al_vapore_con_zenzero_e_soia_v2.jpg",
     "nome_en": "Steamed cod with ginger and soy",
     "procedimento_en": [
       "Place the cod fillet on a plate suitable for steaming.",
@@ -35564,7 +35621,7 @@
       "Servire il salmone irrorato con la glassa teriyaki rimasta in padella."
     ],
     "nome_it": "Salmone teriyaki",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/357_salmone_teriyaki.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/357_salmone_teriyaki_v2.jpg",
     "nome_en": "Teriyaki salmon",
     "procedimento_en": [
       "Pat the salmon fillet dry and season lightly with salt.",
@@ -35617,7 +35674,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 168.0,
@@ -35671,7 +35729,7 @@
       "Salare e servire subito."
     ],
     "nome_it": "Tonno scottato alla giapponese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/358_tonno_scottato_alla_giapponese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/358_tonno_scottato_alla_giapponese_v2.jpg",
     "nome_en": "Japanese-style seared tuna",
     "procedimento_en": [
       "Drain the canned tuna well.",
@@ -35724,7 +35782,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 194.5,
@@ -35778,7 +35837,7 @@
       "Servire caldo, irrorato con la glassa rimasta."
     ],
     "nome_it": "Pollo teriyaki",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/359_pollo_teriyaki.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/359_pollo_teriyaki_v2.jpg",
     "nome_en": "Teriyaki chicken",
     "procedimento_en": [
       "Cut the chicken breast into bite-sized pieces and season with salt.",
@@ -35893,7 +35952,7 @@
       "Servire il tonkatsu accompagnato dal cavolo crudo affettato, salato leggermente."
     ],
     "nome_it": "Tonkatsu (maiale impanato) con cavolo",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/360_tonkatsu_maiale_impanato_con_cavolo.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/360_tonkatsu_maiale_impanato_con_cavolo_v2.jpg",
     "nome_en": "Tonkatsu (breaded pork cutlet) with cabbage",
     "procedimento_en": [
       "Lightly pound the pork fillet with a meat mallet to even out the thickness, season with salt.",
@@ -35947,7 +36006,9 @@
     "cucina": [
       "giapponese"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "iperproteica"
+    ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 235.5,
     "kcal_porzione": 619.9,
@@ -36000,7 +36061,7 @@
       "Irrorare con la salsa di soia e servire."
     ],
     "nome_it": "Riso con salmone e nori",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/361_riso_con_salmone_e_nori.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/361_riso_con_salmone_e_nori_v2.jpg",
     "nome_en": "Rice with salmon and nori",
     "procedimento_en": [
       "Cook the rice in salted water according to the package instructions, then drain.",
@@ -36106,7 +36167,7 @@
       "Aggiustare di sale e servire subito."
     ],
     "nome_it": "Zuppa di miso con alghe e tofu",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/362_zuppa_di_miso_con_alghe_e_tofu.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/362_zuppa_di_miso_con_alghe_e_tofu_v2.jpg",
     "nome_en": "Miso soup with seaweed and tofu",
     "procedimento_en": [
       "Bring the vegetable broth to a gentle simmer.",
@@ -36207,7 +36268,7 @@
       "Salare leggermente, lasciare intiepidire, tagliare a fette e servire."
     ],
     "nome_it": "Tamagoyaki (omelette giapponese)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/363_tamagoyaki_omelette_giapponese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/363_tamagoyaki_omelette_giapponese_v2.jpg",
     "nome_en": "Tamagoyaki (Japanese rolled omelet)",
     "procedimento_en": [
       "Beat the eggs in a bowl with the soy sauce until well combined.",
@@ -36263,7 +36324,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 163.0,
@@ -36316,7 +36378,7 @@
       "Salare i gamberetti e servirli caldi con la salsina per intingere a parte."
     ],
     "nome_it": "Gamberi in tempura leggera (senza frittura)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/364_gamberi_in_tempura_leggera_senza_frittura.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/364_gamberi_in_tempura_leggera_senza_frittura_v2.jpg",
     "nome_en": "Light tempura-style shrimp (no frying)",
     "procedimento_en": [
       "Pat the pre-cooked shrimp dry well with paper towel.",
@@ -36412,7 +36474,7 @@
       "Irrorare il pesce grigliato con la salsa di soia e limone appena prima di servire."
     ],
     "nome_it": "Sgombro alla griglia alla giapponese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/365_sgombro_alla_griglia_alla_giapponese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/365_sgombro_alla_griglia_alla_giapponese_v2.jpg",
     "nome_en": "Japanese-style grilled mackerel",
     "procedimento_en": [
       "Heat a grill or non-stick pan well.",
@@ -36461,7 +36523,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 223.0,
@@ -36522,7 +36585,7 @@
       "Salare e servire immediatamente ben caldo."
     ],
     "nome_it": "Manzo alla piastra con salsa di soia (Yakiniku)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/366_manzo_alla_piastra_con_salsa_di_soia_yakiniku.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/366_manzo_alla_piastra_con_salsa_di_soia_yakiniku_v2.jpg",
     "nome_en": "Griddled beef with soy sauce (Yakiniku)",
     "procedimento_en": [
       "Cut the beef into thin slices.",
@@ -36572,7 +36635,6 @@
       "giapponese"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
       "bassa_glicemia"
     ],
@@ -36621,7 +36683,7 @@
       "Lasciare marinare in frigorifero almeno 15 minuti prima di servire fredda."
     ],
     "nome_it": "Insalata di cetrioli alla giapponese (Sunomono)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/367_insalata_di_cetrioli_alla_giapponese_sunomono.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/367_insalata_di_cetrioli_alla_giapponese_sunomono_v2.jpg",
     "nome_en": "Japanese-style cucumber salad (Sunomono)",
     "procedimento_en": [
       "Slice the cucumber very thinly, ideally with a mandoline.",
@@ -36702,7 +36764,7 @@
       "Cospargere con un pizzico di sale abbondante e servire caldi."
     ],
     "nome_it": "Edamame al sale",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/368_edamame_al_sale.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/368_edamame_al_sale_v2.jpg",
     "nome_en": "Salted edamame",
     "procedimento_en": [
       "Bring a large pot of salted water to a boil.",
@@ -36809,7 +36871,7 @@
       "Aggiustare di sale e servire ben caldo."
     ],
     "nome_it": "Pollo al curry alla giapponese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/369_pollo_al_curry_alla_giapponese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/369_pollo_al_curry_alla_giapponese_v2.jpg",
     "nome_en": "Japanese-style chicken curry",
     "procedimento_en": [
       "Cut the chicken into bite-sized pieces and the potatoes and carrots into cubes.",
@@ -37030,7 +37092,7 @@
       "Aggiustare di sale e servire caldo."
     ],
     "nome_it": "Pollo al curry (Chicken curry)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/371_pollo_al_curry_chicken_curry.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/371_pollo_al_curry_chicken_curry_v2.jpg",
     "nome_en": "Chicken curry",
     "procedimento_en": [
       "Cut the chicken into bite-sized pieces, finely chop the onion and garlic, and grate the ginger.",
@@ -37168,7 +37230,7 @@
       "Aggiustare di sale, mescolando di tanto in tanto e aggiungendo acqua se necessario, servire caldo."
     ],
     "nome_it": "Agnello al curry (Lamb curry)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/372_agnello_al_curry_lamb_curry.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/372_agnello_al_curry_lamb_curry_v2.jpg",
     "nome_en": "Lamb curry",
     "procedimento_en": [
       "Cut the lamb into cubes, chop the onion and garlic, and grate the ginger.",
@@ -37229,7 +37291,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 297.0,
@@ -37299,7 +37362,7 @@
       "Aggiustare di sale e servire caldo."
     ],
     "nome_it": "Pollo al burro (Butter chicken)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/373_pollo_al_burro_butter_chicken.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/373_pollo_al_burro_butter_chicken_v2.jpg",
     "nome_en": "Butter chicken",
     "procedimento_en": [
       "Cut the chicken into bite-sized pieces and grate the ginger.",
@@ -37428,7 +37491,7 @@
       "Aggiustare di sale e servire caldo."
     ],
     "nome_it": "Dal di lenticchie",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/374_dal_di_lenticchie.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/374_dal_di_lenticchie_v2.jpg",
     "nome_en": "Lentil dal",
     "procedimento_en": [
       "Rinse the lentils well under running water.",
@@ -37556,7 +37619,7 @@
       "Servire caldo, eventualmente scaldando pochi minuti a fuoco bassissimo se la ricotta si è raffreddata."
     ],
     "nome_it": "Spinaci con paneer (Palak paneer, con ricotta)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/375_spinaci_con_paneer_palak_paneer_con_ricotta.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/375_spinaci_con_paneer_palak_paneer_con_ricotta_v2.jpg",
     "nome_en": "Spinach with paneer (Palak paneer, with ricotta)",
     "procedimento_en": [
       "Wash the raw spinach and blanch it in a large pan for 3-4 minutes until wilted, then drain, squeeze it well and roughly chop it.",
@@ -37609,7 +37672,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 283.5,
@@ -37670,7 +37734,7 @@
       "Servire ben caldo, mescolando la salsa prima di impiattare."
     ],
     "nome_it": "Gamberi al curry con latte di cocco",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/376_gamberi_al_curry_con_latte_di_cocco.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/376_gamberi_al_curry_con_latte_di_cocco_v2.jpg",
     "nome_en": "Coconut curry shrimp",
     "procedimento_en": [
       "In a large pan, heat a drizzle of oil and sauté the grated ginger for about a minute.",
@@ -37789,7 +37853,7 @@
       "Salare, mescolare ancora e servire caldo."
     ],
     "nome_it": "Ceci al curry (Chana masala)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/377_ceci_al_curry_chana_masala.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/377_ceci_al_curry_chana_masala_v2.jpg",
     "nome_en": "Chickpea curry (Chana masala)",
     "procedimento_en": [
       "Heat the extra virgin olive oil in a saucepan and cook the chopped onion over medium heat for 4-5 minutes until softened.",
@@ -37886,7 +37950,7 @@
       "Lasciar riposare in frigorifero almeno 15-20 minuti prima di servire, in modo che i sapori si amalgamino."
     ],
     "nome_it": "Yogurt speziato all'indiana con cetriolo (Raita)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/378_yogurt_speziato_all_indiana_con_cetriolo_raita.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/378_yogurt_speziato_all_indiana_con_cetriolo_raita_v2.jpg",
     "nome_en": "Indian-style spiced cucumber yogurt (Raita)",
     "procedimento_en": [
       "Wash the cucumber, remove the seeds if very watery, and coarsely grate it or cut it into very small cubes.",
@@ -37935,7 +37999,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 232.0,
@@ -38003,7 +38068,7 @@
       "Verificare la cottura interna del pollo e servire caldo, eventualmente con un filo del liquido di cottura."
     ],
     "nome_it": "Tandoori chicken (pollo speziato al forno)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/379_tandoori_chicken_pollo_speziato_al_forno.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/379_tandoori_chicken_pollo_speziato_al_forno_v2.jpg",
     "nome_en": "Tandoori chicken (spiced oven-baked chicken)",
     "procedimento_en": [
       "Cut the chicken breast into pieces or make a few shallow cuts to let the marinade penetrate better.",
@@ -38115,7 +38180,7 @@
       "Aggiustare di sale e servire caldo."
     ],
     "nome_it": "Riso basmati con verdure e curry",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/380_riso_basmati_con_verdure_e_curry.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/380_riso_basmati_con_verdure_e_curry_v2.jpg",
     "nome_en": "Basmati rice with vegetables and curry",
     "procedimento_en": [
       "Rinse the basmati rice under running water until the water runs clear, to remove excess starch.",
@@ -38221,7 +38286,7 @@
       "Salare e servire subito, ben calde."
     ],
     "nome_it": "Uova speziate all'indiana (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/381_uova_speziate_all_indiana_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/381_uova_speziate_all_indiana_colazione_v2.jpg",
     "nome_en": "Indian-style spiced eggs (breakfast)",
     "procedimento_en": [
       "Beat the eggs in a bowl with a pinch of salt until smooth.",
@@ -38273,7 +38338,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 204.0,
@@ -38327,7 +38393,7 @@
       "Servire caldo, come spuntino proteico anche freddo."
     ],
     "nome_it": "Pollo tikka alla griglia (spuntino proteico)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/382_pollo_tikka_alla_griglia_spuntino_proteico.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/382_pollo_tikka_alla_griglia_spuntino_proteico_v2.jpg",
     "nome_en": "Grilled chicken tikka (protein snack)",
     "procedimento_en": [
       "Cut the chicken breast into even cubes suitable for skewering.",
@@ -38380,7 +38446,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 308.5,
@@ -38441,7 +38508,7 @@
       "Salare, spegnere il fuoco e mantecare con le foglie di basilico spezzettate a mano prima di servire."
     ],
     "nome_it": "Pollo al curry rosso thailandese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/383_pollo_al_curry_rosso_thailandese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/383_pollo_al_curry_rosso_thailandese_v2.jpg",
     "nome_en": "Thai red curry chicken",
     "procedimento_en": [
       "Cut the chicken breast into strips or even bite-sized pieces.",
@@ -38498,7 +38565,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 282.5,
@@ -38558,7 +38626,7 @@
       "Salare, spegnere il fuoco e mantecare con le foglie di basilico spezzettate prima di servire."
     ],
     "nome_it": "Gamberi al curry verde thailandese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/384_gamberi_al_curry_verde_thailandese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/384_gamberi_al_curry_verde_thailandese_v2.jpg",
     "nome_en": "Thai green curry shrimp",
     "procedimento_en": [
       "Cut the eggplant into even cubes.",
@@ -38611,7 +38679,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 198.0,
@@ -38678,7 +38747,7 @@
       "Aggiustare di sale e servire immediatamente, ben caldo."
     ],
     "nome_it": "Manzo piccante con basilico thailandese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/385_manzo_piccante_con_basilico_thailandese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/385_manzo_piccante_con_basilico_thailandese_v2.jpg",
     "nome_en": "Spicy Thai basil beef",
     "procedimento_en": [
       "Cut the beef into thin strips or roughly mince it with a knife.",
@@ -38734,7 +38803,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 199.5,
@@ -38794,7 +38864,7 @@
       "Servire a temperatura ambiente, tradizionalmente accompagnato da foglie di lattuga o cavolo per fare degli involtini."
     ],
     "nome_it": "Insalata di pollo alla thailandese (Larb)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/386_insalata_di_pollo_alla_thailandese_larb.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/386_insalata_di_pollo_alla_thailandese_larb_v2.jpg",
     "nome_en": "Thai-style chicken salad (Larb)",
     "procedimento_en": [
       "Cook the chicken breast in a pan with a splash of water or steam it until fully cooked, then let it cool slightly and finely shred it with a knife or your hands.",
@@ -38914,7 +38984,7 @@
       "Servire immediatamente ben calda."
     ],
     "nome_it": "Zuppa di gamberi piccante (Tom yum)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/387_zuppa_di_gamberi_piccante_tom_yum.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/387_zuppa_di_gamberi_piccante_tom_yum_v2.jpg",
     "nome_en": "Spicy shrimp soup (Tom yum)",
     "procedimento_en": [
       "Bring the vegetable broth to a boil in a large pot.",
@@ -38971,7 +39041,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 312.5,
@@ -39033,7 +39104,7 @@
       "Salare, assaggiare e servire calda."
     ],
     "nome_it": "Zuppa di pollo al cocco (Tom kha gai)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/388_zuppa_di_pollo_al_cocco_tom_kha_gai.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/388_zuppa_di_pollo_al_cocco_tom_kha_gai_v2.jpg",
     "nome_en": "Coconut chicken soup (Tom kha gai)",
     "procedimento_en": [
       "Cut the chicken breast into even bite-sized pieces.",
@@ -39090,7 +39161,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 198.0,
@@ -39151,7 +39223,7 @@
       "Salare leggermente a fine cottura e servire calda, tagliata a fette."
     ],
     "nome_it": "Maiale alla griglia alla thailandese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/389_maiale_alla_griglia_alla_thailandese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/389_maiale_alla_griglia_alla_thailandese_v2.jpg",
     "nome_en": "Thai-style grilled pork",
     "procedimento_en": [
       "Cut the pork fillet into slices, not too thin, or into even bite-sized pieces.",
@@ -39262,7 +39334,7 @@
       "Aggiungere le arachidi tritate, mescolare ancora, aggiustare di sale e servire fresca."
     ],
     "nome_it": "Insalata di papaia piccante (con carote, versione adattata)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/390_insalata_di_papaia_piccante_con_carote_versione_adattata.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/390_insalata_di_papaia_piccante_con_carote_versione_adattata_v2.jpg",
     "nome_en": "Spicy carrot salad (papaya-style, adapted version)",
     "procedimento_en": [
       "Wash and cut the carrot into thin julienne strips, using a peeler or a coarse grater, to recreate the stringy texture typical of green papaya.",
@@ -39376,7 +39448,7 @@
       "Lavare e asciugare delle foglie di lattuga intere, distribuire un cucchiaio abbondante di ripieno al centro di ciascuna e arrotolarle formando degli involtini da mangiare con le mani."
     ],
     "nome_it": "Involtini di lattuga con gamberi alla thailandese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/391_involtini_di_lattuga_con_gamberi_alla_thailandese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/391_involtini_di_lattuga_con_gamberi_alla_thailandese_v2.jpg",
     "nome_en": "Thai-style shrimp lettuce wraps",
     "procedimento_en": [
       "Wash and cut the carrot into thin julienne strips.",
@@ -39476,7 +39548,7 @@
       "Aggiustare di sale se necessario, guarnire con le restanti cipolline crude e servire caldo."
     ],
     "nome_it": "Uova al vapore alla thailandese (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/392_uova_al_vapore_alla_thailandese_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/392_uova_al_vapore_alla_thailandese_colazione_v2.jpg",
     "nome_en": "Thai-style steamed eggs (breakfast)",
     "procedimento_en": [
       "Beat the eggs in a bowl with the fish sauce until smooth and slightly frothy.",
@@ -39583,7 +39655,7 @@
       "Servire caldo con le fette di pomodoro fresco a lato."
     ],
     "nome_it": "Hamburger di manzo con formaggio (senza panino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/393_hamburger_di_manzo_con_formaggio_senza_panino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/393_hamburger_di_manzo_con_formaggio_senza_panino_v2.jpg",
     "nome_en": "Beef burger with cheese (no bun)",
     "procedimento_en": [
       "Cut the tomato into thick slices.",
@@ -39635,7 +39707,8 @@
     ],
     "tipo_dieta": [
       "chetogenica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 271.0,
@@ -39675,7 +39748,7 @@
       "Lasciar riposare qualche minuto prima di servire."
     ],
     "nome_it": "Costine di maiale al barbecue",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/394_costine_di_maiale_al_barbecue.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/394_costine_di_maiale_al_barbecue_v2.jpg",
     "nome_en": "Barbecue pork ribs",
     "procedimento_en": [
       "Season the pork ribs with salt on both sides and let them sit at room temperature for 15 minutes.",
@@ -39784,7 +39857,7 @@
       "Servire caldo, appena sfornato."
     ],
     "nome_it": "Pollo fritto al forno (versione leggera)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/395_pollo_fritto_al_forno_versione_leggera.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/395_pollo_fritto_al_forno_versione_leggera_v2.jpg",
     "nome_en": "Oven-fried chicken (lighter version)",
     "procedimento_en": [
       "Cut the chicken breast into strips or thin cutlets.",
@@ -39886,7 +39959,7 @@
       "Servire calde."
     ],
     "nome_it": "Ali di pollo al barbecue",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/396_ali_di_pollo_al_barbecue.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/396_ali_di_pollo_al_barbecue_v2.jpg",
     "nome_en": "Barbecue chicken wings",
     "procedimento_en": [
       "Pat the chicken wings dry well with paper towel and season lightly with salt.",
@@ -40010,7 +40083,7 @@
       "Aggiustare di sale e peperoncino secondo il gusto e servire ben caldo."
     ],
     "nome_it": "Chili con carne",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/397_chili_con_carne.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/397_chili_con_carne_v2.jpg",
     "nome_en": "Chili con carne",
     "procedimento_en": [
       "Heat the extra virgin olive oil in a large saucepan and cook the chopped onion over medium heat for 4-5 minutes until softened.",
@@ -40138,7 +40211,7 @@
       "Condire con un filo di olio extravergine di oliva e un pizzico di sale prima di servire, mescolando eventualmente solo al momento di mangiare."
     ],
     "nome_it": "Insalata Cobb",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/398_insalata_cobb.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/398_insalata_cobb_v2.jpg",
     "nome_en": "Cobb salad",
     "procedimento_en": [
       "Cook the chicken breast in a pan or in the oven until fully cooked, let it cool slightly and cut it into cubes or strips.",
@@ -40244,7 +40317,7 @@
       "Impiattare il salmone, irrorare con succo di limone fresco e servire con il mais dolce a lato."
     ],
     "nome_it": "Salmone alla griglia con mais",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/399_salmone_alla_griglia_con_mais.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/399_salmone_alla_griglia_con_mais_v2.jpg",
     "nome_en": "Grilled salmon with corn",
     "procedimento_en": [
       "Pat the salmon fillet dry well and season with salt and a drizzle of extra virgin olive oil on both sides.",
@@ -40347,7 +40420,7 @@
       "Lasciar riposare la bistecca 2-3 minuti prima di affettarla, servire calda insieme alle patate al forno."
     ],
     "nome_it": "Bistecca di manzo con patate al forno",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/400_bistecca_di_manzo_con_patate_al_forno.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/400_bistecca_di_manzo_con_patate_al_forno_v2.jpg",
     "nome_en": "Beef steak with roasted potatoes",
     "procedimento_en": [
       "Cut the peeled potatoes into even cubes or wedges.",
@@ -40465,7 +40538,7 @@
       "Aggiustare di sale e servire calda."
     ],
     "nome_it": "Zuppa di vongole alla newyorkese",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/401_zuppa_di_vongole_alla_newyorkese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/401_zuppa_di_vongole_alla_newyorkese_v2.jpg",
     "nome_en": "New England clam chowder",
     "procedimento_en": [
       "Rinse the clams well under running water to remove any traces of sand.",
@@ -40569,7 +40642,7 @@
       "Unire lo speck croccante alle uova negli ultimi secondi di cottura, mescolare e servire immediatamente."
     ],
     "nome_it": "Uova strapazzate con bacon all'americana (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/402_uova_strapazzate_con_bacon_all_americana_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/402_uova_strapazzate_con_bacon_all_americana_colazione_v2.jpg",
     "nome_en": "American-style scrambled eggs with bacon (breakfast)",
     "procedimento_en": [
       "Cut the bacon into thin strips.",
@@ -40684,7 +40757,7 @@
       "Lasciar riposare il polpettone 5-10 minuti prima di affettarlo e servirlo."
     ],
     "nome_it": "Polpettone di manzo (Meatloaf)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/403_polpettone_di_manzo_meatloaf.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/403_polpettone_di_manzo_meatloaf_v2.jpg",
     "nome_en": "Beef meatloaf",
     "procedimento_en": [
       "Preheat the oven to 180°C (355°F) conventional setting.",
@@ -40795,7 +40868,7 @@
       "Verificare che il tacchino sia cotto internamente, lasciarlo riposare qualche minuto, affettarlo e servirlo con le verdure arrostite."
     ],
     "nome_it": "Tacchino arrosto con verdure",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/404_tacchino_arrosto_con_verdure.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/404_tacchino_arrosto_con_verdure_v2.jpg",
     "nome_en": "Roast turkey with vegetables",
     "procedimento_en": [
       "Cut the peeled carrot and potatoes into even chunks.",
@@ -40909,7 +40982,7 @@
       "Comporre il piatto disponendo il pollo a fette, il mais e l'avocado, condendo con un filo di olio extravergine di oliva e succo di limone fresco prima di servire."
     ],
     "nome_it": "Petto di pollo alla griglia con mais e avocado",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/405_petto_di_pollo_alla_griglia_con_mais_e_avocado.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/405_petto_di_pollo_alla_griglia_con_mais_e_avocado_v2.jpg",
     "nome_en": "Grilled chicken breast with corn and avocado",
     "procedimento_en": [
       "Season the chicken breast with salt, a drizzle of extra virgin olive oil and lemon juice, letting it absorb the flavors for 10 minutes.",
@@ -41013,7 +41086,7 @@
       "Servire il guacamole in una ciotola accompagnato dalle chips di tortilla croccanti appena sfornate."
     ],
     "nome_it": "Chips di tortilla con guacamole (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/406_chips_di_tortilla_con_guacamole_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/406_chips_di_tortilla_con_guacamole_spuntino_v2.jpg",
     "nome_en": "Tortilla chips with guacamole (snack)",
     "procedimento_en": [
       "Cut the corn tortillas into triangles.",
@@ -41066,7 +41139,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 196.0,
@@ -41120,7 +41194,7 @@
       "Servire caldo, irrorando con un ulteriore filo di limone se gradito."
     ],
     "nome_it": "Souvlaki di pollo",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/407_souvlaki_di_pollo.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/407_souvlaki_di_pollo_v2.jpg",
     "nome_en": "Chicken souvlaki",
     "procedimento_en": [
       "Cut the chicken breast into even cubes.",
@@ -41281,7 +41355,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 3.0,
     "peso_porzione_dichiarato_g": 220.7,
@@ -41335,7 +41410,7 @@
       "Lasciar riposare la carne 10 minuti prima di affettarla e servirla, irrorata con il fondo di cottura."
     ],
     "nome_it": "Agnello al forno alla greca",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/409_agnello_al_forno_alla_greca.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/409_agnello_al_forno_alla_greca_v2.jpg",
     "nome_en": "Greek-style roast lamb",
     "procedimento_en": [
       "Preheat the oven to 180°C (355°F) conventional setting.",
@@ -41456,7 +41531,7 @@
       "Condire con un generoso filo di olio extravergine di oliva e un pizzico di sale, mescolando delicatamente per non sfaldare troppo la feta prima di servire."
     ],
     "nome_it": "Insalata greca con feta",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/410_insalata_greca_con_feta.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/410_insalata_greca_con_feta_v2.jpg",
     "nome_en": "Greek salad with feta",
     "procedimento_en": [
       "Cut the tomato into large wedges.",
@@ -41563,7 +41638,7 @@
       "Lasciar riposare in frigorifero almeno 20-30 minuti prima di servire con verdure crude, in modo che i sapori si amalgamino."
     ],
     "nome_it": "Tzatziki con verdure crude",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/411_tzatziki_con_verdure_crude.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/411_tzatziki_con_verdure_crude_v2.jpg",
     "nome_en": "Tzatziki with raw vegetables",
     "procedimento_en": [
       "Wash the cucumber and coarsely grate it, or cut it into very small cubes.",
@@ -41616,7 +41691,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 218.5,
@@ -41663,7 +41739,7 @@
       "Servire caldo, irrorato con altro olio extravergine di oliva e succo di limone fresco."
     ],
     "nome_it": "Polpo alla griglia alla greca",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/412_polpo_alla_griglia_alla_greca.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/412_polpo_alla_griglia_alla_greca_v2.jpg",
     "nome_en": "Greek-style grilled octopus",
     "procedimento_en": [
       "Clean the octopus well if needed and lightly tenderize it by beating if necessary.",
@@ -41716,7 +41792,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 291.0,
@@ -41777,7 +41854,7 @@
       "Aggiustare di sale e servire subito."
     ],
     "nome_it": "Gamberi alla greca con feta e pomodoro",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/413_gamberi_alla_greca_con_feta_e_pomodoro.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/413_gamberi_alla_greca_con_feta_e_pomodoro_v2.jpg",
     "nome_en": "Greek-style shrimp with feta and tomato",
     "procedimento_en": [
       "Cut the tomato into cubes.",
@@ -41865,7 +41942,7 @@
       "Disporre i bastoncini di cetriolo intorno alla ciotola, pronti per essere usati come cucchiaio commestibile."
     ],
     "nome_it": "Hummus con verdure crude (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/414_hummus_con_verdure_crude_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/414_hummus_con_verdure_crude_spuntino_v2.jpg",
     "nome_en": "Hummus with raw vegetables (snack)",
     "procedimento_en": [
       "Wash the cucumber and cut it into sticks or thick rounds, suitable for dipping.",
@@ -41966,7 +42043,7 @@
       "Lasciare intiepidire qualche minuto prima di servire."
     ],
     "nome_it": "Spanakopita senza pasta sfoglia (spinaci e feta)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/415_spanakopita_senza_pasta_sfoglia_spinaci_e_feta.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/415_spanakopita_senza_pasta_sfoglia_spinaci_e_feta_v2.jpg",
     "nome_en": "Spanakopita without phyllo (spinach and feta)",
     "procedimento_en": [
       "Wash the raw spinach, dry it well and roughly chop it.",
@@ -42080,7 +42157,7 @@
       "Mescolare delicatamente il tutto e servire fresco, eventualmente in una ciotolina."
     ],
     "nome_it": "Yogurt greco con cetriolo e noci",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/416_yogurt_greco_con_cetriolo_e_noci.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/416_yogurt_greco_con_cetriolo_e_noci_v2.jpg",
     "nome_en": "Greek yogurt with cucumber and walnuts",
     "procedimento_en": [
       "Wash the cucumber, peel it and cut it into small cubes or coarsely grate it.",
@@ -42133,7 +42210,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 228.5,
@@ -42187,7 +42265,7 @@
       "Sfilettare il pesce, irrorarlo con il fondo di cottura e un ulteriore filo d'olio e succo di limone fresco prima di servire."
     ],
     "nome_it": "Branzino al forno alla greca con limone",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/417_branzino_al_forno_alla_greca_con_limone.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/417_branzino_al_forno_alla_greca_con_limone_v2.jpg",
     "nome_en": "Greek-style baked sea bass with lemon",
     "procedimento_en": [
       "Preheat the oven to 200°C (390°F) conventional setting.",
@@ -42239,7 +42317,8 @@
     "tipo_dieta": [
       "chetogenica",
       "ipocalorica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "iperproteica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 216.0,
@@ -42287,7 +42366,7 @@
       "Piegare la frittata a metà o arrotolarla su se stessa aiutandosi con la spatola, e farla scivolare nel piatto."
     ],
     "nome_it": "Frittata alla francese con formaggio groviera (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/418_frittata_alla_francese_con_formaggio_groviera_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/418_frittata_alla_francese_con_formaggio_groviera_colazione_v2.jpg",
     "nome_en": "French-style omelet with Gruyère (breakfast)",
     "procedimento_en": [
       "Beat the eggs in a bowl with a pinch of salt, without whisking too vigorously.",
@@ -42389,7 +42468,7 @@
       "Servire subito, eventualmente mescolando leggermente prima di gustare."
     ],
     "nome_it": "Yogurt con speck e uova alla tedesca (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/419_yogurt_con_speck_e_uova_alla_tedesca_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/419_yogurt_con_speck_e_uova_alla_tedesca_colazione_v2.jpg",
     "nome_en": "German-style yogurt with ham and eggs (breakfast)",
     "procedimento_en": [
       "Peel the hard-boiled egg, previously cooked for about 9 minutes in boiling water and cooled, and cut it in half or into wedges.",
@@ -42484,7 +42563,7 @@
       "Lasciare intiepidire qualche minuto prima di tagliarla a spicchi."
     ],
     "nome_it": "Tortilla di patate ridotta con uova (colazione spagnola)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/420_tortilla_di_patate_ridotta_con_uova_colazione_spagnola.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/420_tortilla_di_patate_ridotta_con_uova_colazione_spagnola_v2.jpg",
     "nome_en": "Reduced potato tortilla with eggs (Spanish breakfast)",
     "procedimento_en": [
       "Peel the potato and cut it into thin slices or small cubes.",
@@ -42540,7 +42619,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 166.0,
@@ -42586,7 +42666,7 @@
       "Lasciarlo riposare un paio di minuti, poi tagliarlo a fette e servirlo con un ultimo filo d'olio e una spruzzata di limone fresco."
     ],
     "nome_it": "Petto di pollo alla griglia semplice (spuntino proteico)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/421_petto_di_pollo_alla_griglia_semplice_spuntino_proteico.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/421_petto_di_pollo_alla_griglia_semplice_spuntino_proteico_v2.jpg",
     "nome_en": "Simple grilled chicken breast (protein snack)",
     "procedimento_en": [
       "Lightly pound the chicken breast to even out the thickness.",
@@ -42633,7 +42713,8 @@
     ],
     "tipo_dieta": [
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 166.0,
@@ -42780,7 +42861,7 @@
       "Disporre gli involtini su un piatto da portata e servire, a temperatura ambiente o leggermente scaldati in padella per far ammorbidire il formaggio."
     ],
     "nome_it": "Prosciutto cotto e groviera (spuntino francese)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/423_prosciutto_cotto_e_groviera_spuntino_francese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/423_prosciutto_cotto_e_groviera_spuntino_francese_v2.jpg",
     "nome_en": "Ham and Gruyère rolls (French snack)",
     "procedimento_en": [
       "Cut the Gruyère into strips or small triangles.",
@@ -42827,7 +42908,8 @@
     ],
     "tipo_dieta": [
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 166.0,
@@ -42873,7 +42955,7 @@
       "Servire caldi, eventualmente con un filo di senape aggiuntiva a parte."
     ],
     "nome_it": "Bocconcini di pollo alla senape (spuntino tedesco)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/424_bocconcini_di_pollo_alla_senape_spuntino_tedesco.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/424_bocconcini_di_pollo_alla_senape_spuntino_tedesco_v2.jpg",
     "nome_en": "Mustard chicken bites (German snack)",
     "procedimento_en": [
       "Cut the chicken breast into even bite-sized pieces.",
@@ -42921,7 +43003,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 166.0,
@@ -43049,7 +43132,7 @@
       "Servire tiepido o freddo."
     ],
     "nome_it": "Uova sode con speck (spuntino inglese)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/426_uova_sode_con_speck_spuntino_inglese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/426_uova_sode_con_speck_spuntino_inglese_v2.jpg",
     "nome_en": "Hard-boiled eggs with bacon (English snack)",
     "procedimento_en": [
       "Peel the hard-boiled eggs, previously cooked and cooled, and cut them in half lengthwise.",
@@ -43097,7 +43180,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 219.0,
@@ -43143,7 +43227,7 @@
       "Servire accompagnato da una piccola quantità di senape, da spalmare o intingere a piacere."
     ],
     "nome_it": "Petto di pollo freddo con senape (colazione inglese)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/427_petto_di_pollo_freddo_con_senape_colazione_inglese.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/427_petto_di_pollo_freddo_con_senape_colazione_inglese_v2.jpg",
     "nome_en": "Cold chicken breast with mustard (English breakfast)",
     "procedimento_en": [
       "Heat a non-stick pan and cook the chicken breast, seasoned with a pinch of salt, for 4-5 minutes per side, until fully cooked and golden.",
@@ -43192,7 +43276,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 330.0,
@@ -43300,7 +43385,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 300.0,
@@ -43348,7 +43434,7 @@
       "Affettare il filetto e servirlo accanto all'insalata condita, irrorando la carne con un filo d'olio."
     ],
     "nome_it": "Bistecca di manzo alla griglia con insalata verde e olio d'oliva",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/429_bistecca_di_manzo_alla_griglia_con_insalata_verde_e_olio_d_oliva.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/429_bistecca_di_manzo_alla_griglia_con_insalata_verde_e_olio_d_oliva_v2.jpg",
     "nome_en": "Grilled beef steak with green salad and olive oil",
     "procedimento_en": [
       "Bring the beef fillet to room temperature and pat it dry with paper towel.",
@@ -43464,7 +43550,7 @@
       "Servire ben caldo."
     ],
     "nome_it": "Pollo al burro all'indiana senza riso",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/430_pollo_al_burro_all_indiana_senza_riso.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/430_pollo_al_burro_all_indiana_senza_riso_v2.jpg",
     "nome_en": "Indian-style butter chicken without rice",
     "procedimento_en": [
       "Cut the chicken thighs into bite-sized pieces, removing any bones.",
@@ -43583,7 +43669,7 @@
       "Servire immediatamente ben caldo."
     ],
     "nome_it": "Curry verde di pollo al latte di cocco senza riso",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/431_curry_verde_di_pollo_al_latte_di_cocco_senza_riso.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/431_curry_verde_di_pollo_al_latte_di_cocco_senza_riso_v2.jpg",
     "nome_en": "Green coconut curry chicken without rice",
     "procedimento_en": [
       "Cut the chicken breast into strips or even bite-sized pieces.",
@@ -43695,7 +43781,7 @@
       "Guarnire con il salmone affumicato e le fettine di avocado, irrorando con un filo di olio di sesamo e la salsa di soia rimanente."
     ],
     "nome_it": "Uova al vapore con salmone affumicato, avocado e salsa di soia (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/432_uova_al_vapore_con_salmone_affumicato_avocado_e_salsa_di_soia_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/432_uova_al_vapore_con_salmone_affumicato_avocado_e_salsa_di_soia_colazione_v2.jpg",
     "nome_en": "Steamed eggs with smoked salmon, avocado and soy sauce (breakfast)",
     "procedimento_en": [
       "Beat the egg whites in a bowl until smooth, adding a teaspoon of soy sauce for flavor.",
@@ -43747,7 +43833,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 235.0,
@@ -43802,7 +43889,7 @@
       "Spegnere il fuoco, unire la parte verde del cipollotto a crudo e un ultimo filo di salsa di soia, mescolando bene prima di servire."
     ],
     "nome_it": "Uova alla cinese con petto di pollo saltato e cipollotto (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/433_uova_alla_cinese_con_petto_di_pollo_saltato_e_cipollotto_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/433_uova_alla_cinese_con_petto_di_pollo_saltato_e_cipollotto_colazione_v2.jpg",
     "nome_en": "Chinese-style eggs with stir-fried chicken breast and spring onion (breakfast)",
     "procedimento_en": [
       "Cut the chicken breast into thin strips and the spring onion into rounds, keeping the green part separate.",
@@ -43904,7 +43991,7 @@
       "Servire immediatamente ben calde."
     ],
     "nome_it": "Uova strapazzate con prosciutto cotto ed emmental (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/434_uova_strapazzate_con_prosciutto_cotto_ed_emmental_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/434_uova_strapazzate_con_prosciutto_cotto_ed_emmental_colazione_v2.jpg",
     "nome_en": "Scrambled eggs with cooked ham and Emmental (breakfast)",
     "procedimento_en": [
       "Cut the cooked ham and Emmental into small cubes.",
@@ -44010,7 +44097,7 @@
       "Farla scivolare nel piatto e servire subito."
     ],
     "nome_it": "Omelette al prosciutto e groviera (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/435_omelette_al_prosciutto_e_groviera_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/435_omelette_al_prosciutto_e_groviera_colazione_v2.jpg",
     "nome_en": "Ham and Gruyère omelet (breakfast)",
     "procedimento_en": [
       "Cut the cooked ham into strips and grate or thinly slice the Gruyère.",
@@ -44116,7 +44203,7 @@
       "Servire calda."
     ],
     "nome_it": "Frittata di albumi con feta e spinaci (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/436_frittata_di_albumi_con_feta_e_spinaci_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/436_frittata_di_albumi_con_feta_e_spinaci_colazione_v2.jpg",
     "nome_en": "Egg white omelet with feta and spinach (breakfast)",
     "procedimento_en": [
       "Wash the spinach and stir-fry it in a pan with a drizzle of extra virgin olive oil for 2-3 minutes, until wilted; drain any excess liquid.",
@@ -44235,7 +44322,7 @@
       "Spegnere il fuoco, cospargere con il coriandolo fresco tritato e servire subito."
     ],
     "nome_it": "Uova e pollo speziati all'indiana con cumino e coriandolo (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/437_uova_e_pollo_speziati_all_indiana_con_cumino_e_coriandolo_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/437_uova_e_pollo_speziati_all_indiana_con_cumino_e_coriandolo_colazione_v2.jpg",
     "nome_en": "Indian-spiced eggs and chicken with cumin and cilantro (breakfast)",
     "procedimento_en": [
       "Finely chop the onion and fresh cilantro; cut the chicken breast into small bite-sized pieces.",
@@ -44330,7 +44417,7 @@
       "Servire immediatamente."
     ],
     "nome_it": "Uova strapazzate con prosciutto crudo e grana padano (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/438_uova_strapazzate_con_prosciutto_crudo_e_grana_padano_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/438_uova_strapazzate_con_prosciutto_crudo_e_grana_padano_colazione_v2.jpg",
     "nome_en": "Scrambled eggs with prosciutto and Grana Padano (breakfast)",
     "procedimento_en": [
       "Cut the prosciutto into strips and grate the Grana Padano.",
@@ -44429,7 +44516,7 @@
       "Servire calda, tagliata a spicchi."
     ],
     "nome_it": "Tortilla di soli albumi con jamón serrano (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/439_tortilla_di_soli_albumi_con_jamon_serrano_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/439_tortilla_di_soli_albumi_con_jamon_serrano_colazione_v2.jpg",
     "nome_en": "Egg white tortilla with jamón serrano (breakfast)",
     "procedimento_en": [
       "Cut the jamón serrano into thin strips.",
@@ -44527,7 +44614,7 @@
       "Servire immediatamente ben calde."
     ],
     "nome_it": "Uova e speck alla tedesca (colazione)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/440_uova_e_speck_alla_tedesca_colazione.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/440_uova_e_speck_alla_tedesca_colazione_v2.jpg",
     "nome_en": "German-style eggs and bacon (breakfast)",
     "procedimento_en": [
       "Cut the bacon into thin strips.",
@@ -44579,7 +44666,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 125.0,
@@ -44612,7 +44700,7 @@
       "Lasciarli riposare un paio di minuti prima di servirli, eventualmente infilzati su stuzzicadenti."
     ],
     "nome_it": "Bocconcini di petto di pollo grigliato (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/441_bocconcini_di_petto_di_pollo_grigliato_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/441_bocconcini_di_petto_di_pollo_grigliato_spuntino_v2.jpg",
     "nome_en": "Grilled chicken breast bites (snack)",
     "procedimento_en": [
       "Cut the chicken breast into even bite-sized pieces.",
@@ -44715,7 +44803,7 @@
       "Arrotolare o piegare le foglie a formare degli involtini e servire subito."
     ],
     "nome_it": "Involtini di lattuga con tonno piccante alla asiatica (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/442_involtini_di_lattuga_con_tonno_piccante_alla_asiatica_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/442_involtini_di_lattuga_con_tonno_piccante_alla_asiatica_spuntino_v2.jpg",
     "nome_en": "Asian-style spicy tuna lettuce wraps (snack)",
     "procedimento_en": [
       "Drain the tuna if needed and flake it in a bowl with a fork.",
@@ -44823,7 +44911,7 @@
       "Distribuire il maiale saltato al centro di ogni foglia di lattuga, arrotolare e servire subito ben caldo."
     ],
     "nome_it": "Involtini di lattuga con filetto di maiale speziato alla cinese (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/443_involtini_di_lattuga_con_filetto_di_maiale_speziato_alla_cinese_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/443_involtini_di_lattuga_con_filetto_di_maiale_speziato_alla_cinese_spuntino_v2.jpg",
     "nome_en": "Chinese-spiced pork fillet lettuce wraps (snack)",
     "procedimento_en": [
       "Cut the pork fillet into thin strips.",
@@ -44874,7 +44962,8 @@
     ],
     "tipo_dieta": [
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 135.0,
@@ -44915,7 +45004,7 @@
       "Servire caldi, eventualmente fermando gli involtini con uno stuzzicadenti."
     ],
     "nome_it": "Involtino di tacchino ed emmental (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/444_involtino_di_tacchino_ed_emmental_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/444_involtino_di_tacchino_ed_emmental_spuntino_v2.jpg",
     "nome_en": "Turkey and Emmental rolls (snack)",
     "procedimento_en": [
       "Cut the Emmental into thin sticks.",
@@ -45006,7 +45095,7 @@
       "Servire a temperatura ambiente."
     ],
     "nome_it": "Feta e olive kalamata con olio d'oliva (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/445_feta_e_olive_kalamata_con_olio_d_oliva_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/445_feta_e_olive_kalamata_con_olio_d_oliva_spuntino_v2.jpg",
     "nome_en": "Feta and kalamata olives with olive oil (snack)",
     "procedimento_en": [
       "Cut the feta into even cubes.",
@@ -45055,7 +45144,8 @@
     "tipo_dieta": [
       "ipocalorica",
       "iperproteica",
-      "bassa_glicemia"
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 155.0,
@@ -45096,7 +45186,7 @@
       "Servire caldi, accompagnati da un cucchiaio di yogurt greco a parte."
     ],
     "nome_it": "Spiedini di pollo alla greca con yogurt (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/446_spiedini_di_pollo_alla_greca_con_yogurt_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/446_spiedini_di_pollo_alla_greca_con_yogurt_spuntino_v2.jpg",
     "nome_en": "Greek-style chicken skewers with yogurt (snack)",
     "procedimento_en": [
       "Cut the chicken breast into even cubes.",
@@ -45203,7 +45293,7 @@
       "Servire caldi, appena tolti dal fuoco."
     ],
     "nome_it": "Pollo tandoori a cubetti (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/447_pollo_tandoori_a_cubetti_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/447_pollo_tandoori_a_cubetti_spuntino_v2.jpg",
     "nome_en": "Tandoori chicken bites (snack)",
     "procedimento_en": [
       "Cut the boneless chicken thighs into even cubes.",
@@ -45318,7 +45408,7 @@
       "Distribuire il pollo speziato al centro di ogni foglia di lattuga, arrotolare e servire subito."
     ],
     "nome_it": "Involtini di pollo alla thailandese con lattuga e salsa di pesce (spuntino)",
-    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/448_involtini_di_pollo_alla_thailandese_con_lattuga_e_salsa_di_pesce_spuntino.jpg",
+    "immagine_url": "https://raw.githubusercontent.com/flakkio-maker/easyketo-ciqual-data/main/immagini_ricette/448_involtini_di_pollo_alla_thailandese_con_lattuga_e_salsa_di_pesce_spuntino_v2.jpg",
     "nome_en": "Thai-style chicken lettuce wraps with fish sauce",
     "procedimento_en": [
       "Cut the chicken breast into thin strips.",
