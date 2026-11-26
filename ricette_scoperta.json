@@ -6608,9 +6608,10 @@
       "internazionale"
     ],
     "tipo_dieta": [
-      "chetogenica",
       "ipocalorica",
-      "bassa_glicemia"
+      "iperproteica",
+      "bassa_glicemia",
+      "chetogenica"
     ],
     "porzioni": 20.0,
     "peso_porzione_dichiarato_g": 117.0,
@@ -9877,7 +9878,10 @@
     "cucina": [
       "internazionale"
     ],
-    "tipo_dieta": [],
+    "tipo_dieta": [
+      "ipocalorica",
+      "iperproteica"
+    ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 282.0,
     "kcal_porzione": 260.1,
@@ -16309,6 +16313,8 @@
       "internazionale"
     ],
     "tipo_dieta": [
+      "ipocalorica",
+      "iperproteica",
       "bassa_glicemia"
     ],
     "porzioni": 6.0,
