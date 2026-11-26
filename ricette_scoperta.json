@@ -2451,10 +2451,10 @@
     ],
     "porzioni": 5.0,
     "peso_porzione_dichiarato_g": 495.0,
-    "kcal_porzione": 588.4,
-    "carbo_porzione": 33.2,
-    "grassi_porzione": 28.5,
-    "proteine_porzione": 40.9,
+    "kcal_porzione": 507.9,
+    "carbo_porzione": 33.7,
+    "grassi_porzione": 20.3,
+    "proteine_porzione": 38.7,
     "ingredienti": [
       {
         "nome": "can tomato sauce",
@@ -2487,7 +2487,7 @@
         "nome": "green pepper",
         "grammi": 120.0,
         "fonte_macro": "CIQUAL",
-        "voce_matchata": "Pâté with green pepper",
+        "voce_matchata": "Peperone, verde, giallo o rosso, crudo",
         "nome_it": "peperone verde"
       }
     ],
@@ -3349,10 +3349,10 @@
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 271.0,
-    "kcal_porzione": 262.7,
-    "carbo_porzione": 37.5,
-    "grassi_porzione": 9.2,
-    "proteine_porzione": 7.3,
+    "kcal_porzione": 178.3,
+    "carbo_porzione": 38.0,
+    "grassi_porzione": 0.6,
+    "proteine_porzione": 5.0,
     "ingredienti": [
       {
         "nome": "sliced potatoes",
@@ -3372,7 +3372,7 @@
         "nome": "chopped green pepper",
         "grammi": 50.3,
         "fonte_macro": "CIQUAL",
-        "voce_matchata": "Pâté with green pepper",
+        "voce_matchata": "Peperone, verde, giallo o rosso, crudo",
         "nome_it": "peperone verde tritato"
       },
       {
@@ -6614,16 +6614,16 @@
     ],
     "porzioni": 20.0,
     "peso_porzione_dichiarato_g": 117.0,
-    "kcal_porzione": 350.9,
-    "carbo_porzione": 2.5,
-    "grassi_porzione": 30.3,
-    "proteine_porzione": 16.8,
+    "kcal_porzione": 164.9,
+    "carbo_porzione": 3.2,
+    "grassi_porzione": 8.9,
+    "proteine_porzione": 17.9,
     "ingredienti": [
       {
         "nome": "cooked ham",
         "grammi": 2268.0,
-        "fonte_macro": "CIQUAL",
-        "voce_matchata": "Ham pâté",
+        "fonte_macro": "CREA",
+        "voce_matchata": "Prosciutto cotto",
         "nome_it": "prosciutto cotto"
       },
       {
@@ -6941,10 +6941,10 @@
     ],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 320.0,
-    "kcal_porzione": 380.8,
-    "carbo_porzione": 47.7,
-    "grassi_porzione": 11.8,
-    "proteine_porzione": 19.9,
+    "kcal_porzione": 338.6,
+    "carbo_porzione": 48.0,
+    "grassi_porzione": 7.5,
+    "proteine_porzione": 18.7,
     "ingredienti": [
       {
         "nome": "tuna",
@@ -6971,7 +6971,7 @@
         "nome": "chopped green pepper",
         "grammi": 50.3,
         "fonte_macro": "CIQUAL",
-        "voce_matchata": "Pâté with green pepper",
+        "voce_matchata": "Peperone, verde, giallo o rosso, crudo",
         "nome_it": "peperone verde tritato"
       },
       {
@@ -7556,10 +7556,10 @@
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 64.0,
-    "kcal_porzione": 43.6,
-    "carbo_porzione": 6.9,
+    "kcal_porzione": 39.3,
+    "carbo_porzione": 6.1,
     "grassi_porzione": 0.3,
-    "proteine_porzione": 1.6,
+    "proteine_porzione": 1.5,
     "ingredienti": [
       {
         "nome": "garlic powder",
@@ -7595,8 +7595,8 @@
       {
         "nome": "ground red pepper",
         "grammi": 12.6,
-        "fonte_macro": "CREA",
-        "voce_matchata": "Red bell peppers, raw",
+        "fonte_macro": null,
+        "voce_matchata": null,
         "nome_it": "peperoncino rosso macinato"
       },
       {
@@ -9880,10 +9880,10 @@
     "tipo_dieta": [],
     "porzioni": 4.0,
     "peso_porzione_dichiarato_g": 282.0,
-    "kcal_porzione": 646.7,
+    "kcal_porzione": 260.1,
     "carbo_porzione": 35.0,
-    "grassi_porzione": 53.8,
-    "proteine_porzione": 5.2,
+    "grassi_porzione": 4.1,
+    "proteine_porzione": 20.4,
     "ingredienti": [
       {
         "nome": "cream of chicken soup",
@@ -9902,8 +9902,8 @@
       {
         "nome": "cooked chicken (chopped or shredded)",
         "grammi": 201.1,
-        "fonte_macro": "CIQUAL",
-        "voce_matchata": "Chicken fat",
+        "fonte_macro": "CREA",
+        "voce_matchata": "Chicken, breast, cooked, pan-fried",
         "nome_it": "pollo cotto (tritato o sfilacciato)"
       },
       {
@@ -9980,8 +9980,8 @@
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 340.0,
-    "kcal_porzione": 396.6,
-    "carbo_porzione": 98.9,
+    "kcal_porzione": 395.2,
+    "carbo_porzione": 98.6,
     "grassi_porzione": 0.0,
     "proteine_porzione": 0.2,
     "ingredienti": [
@@ -10018,8 +10018,8 @@
       {
         "nome": "ground red pepper",
         "grammi": 4.2,
-        "fonte_macro": "CREA",
-        "voce_matchata": "Red bell peppers, raw",
+        "fonte_macro": null,
+        "voce_matchata": null,
         "nome_it": "peperoncino rosso macinato"
       },
       {
@@ -11895,10 +11895,10 @@
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 30.0,
-    "kcal_porzione": 35.4,
+    "kcal_porzione": 73.7,
     "carbo_porzione": 7.3,
-    "grassi_porzione": 0.1,
-    "proteine_porzione": 0.7,
+    "grassi_porzione": 4.6,
+    "proteine_porzione": 0.4,
     "ingredienti": [
       {
         "nome": "ketchup",
@@ -11910,8 +11910,8 @@
       {
         "nome": "black truffle oil",
         "grammi": 4.5,
-        "fonte_macro": "CREA",
-        "voce_matchata": "Black truffle",
+        "fonte_macro": "CIQUAL",
+        "voce_matchata": "Olio d'oliva, extra vergine",
         "nome_it": "olio al tartufo nero"
       }
     ],
@@ -16313,10 +16313,10 @@
     ],
     "porzioni": 6.0,
     "peso_porzione_dichiarato_g": 390.0,
-    "kcal_porzione": 813.8,
+    "kcal_porzione": 298.3,
     "carbo_porzione": 25.0,
-    "grassi_porzione": 74.3,
-    "proteine_porzione": 9.0,
+    "grassi_porzione": 8.0,
+    "proteine_porzione": 29.2,
     "ingredienti": [
       {
         "nome": "olive oil",
@@ -16369,8 +16369,8 @@
       {
         "nome": "cooked chicken, shredded",
         "grammi": 402.2,
-        "fonte_macro": "CIQUAL",
-        "voce_matchata": "Chicken fat",
+        "fonte_macro": "CREA",
+        "voce_matchata": "Chicken, breast, cooked, pan-fried",
         "nome_it": "pollo cotto, sfilacciato"
       },
       {
@@ -17613,10 +17613,10 @@
     ],
     "porzioni": 2.0,
     "peso_porzione_dichiarato_g": 338.0,
-    "kcal_porzione": 383.8,
-    "carbo_porzione": 31.6,
-    "grassi_porzione": 21.3,
-    "proteine_porzione": 15.6,
+    "kcal_porzione": 260.1,
+    "carbo_porzione": 32.1,
+    "grassi_porzione": 7.0,
+    "proteine_porzione": 16.4,
     "ingredienti": [
       {
         "nome": "red wine vinegar",
@@ -17642,8 +17642,8 @@
       {
         "nome": "lean ham, diced",
         "grammi": 150.8,
-        "fonte_macro": "CIQUAL",
-        "voce_matchata": "Ham pâté",
+        "fonte_macro": "CREA",
+        "voce_matchata": "Prosciutto cotto",
         "nome_it": "prosciutto magro a dadini"
       },
       {
@@ -17743,10 +17743,10 @@
     ],
     "porzioni": 6.0,
     "peso_porzione_dichiarato_g": 91.0,
-    "kcal_porzione": 332.0,
-    "carbo_porzione": 6.0,
-    "grassi_porzione": 32.1,
-    "proteine_porzione": 3.4,
+    "kcal_porzione": 264.9,
+    "carbo_porzione": 6.4,
+    "grassi_porzione": 25.2,
+    "proteine_porzione": 1.5,
     "ingredienti": [
       {
         "nome": "eggplants",
@@ -17766,7 +17766,7 @@
         "nome": "green pepper, finely",
         "grammi": 120.0,
         "fonte_macro": "CIQUAL",
-        "voce_matchata": "Pâté with green pepper",
+        "voce_matchata": "Peperone, verde, giallo o rosso, crudo",
         "nome_it": "peperone verde, finemente"
       },
       {
@@ -20289,11 +20289,11 @@
     "proteine_porzione": 79.2,
     "ingredienti": [
       {
-        "nome": "(about 3.5 lbs) chicken, jointed (or drumsticks, thighs, breasts); get the giblets, and the blood if you can; season beforehand; marrow is important",
+        "nome": "(about 3.5 lbs) chicken, jointed (or drumsticks, thighs, breasts)",
         "grammi": 1500.0,
         "fonte_macro": "CIQUAL",
         "voce_matchata": "Pollo, carne, cruda",
-        "nome_it": "(circa 1,6 kg) pollo, tagliato a pezzi (oppure cosce, sovracosce, petti); procurati anche le rigaglie e, se possibile, il sangue; condisci in anticipo; il midollo è importante"
+        "nome_it": "(circa 1,6 kg) pollo, tagliato a pezzi (oppure cosce, sovracosce, petti)"
       },
       {
         "nome": "onion",
@@ -20515,10 +20515,10 @@
     ],
     "porzioni": 1.0,
     "peso_porzione_dichiarato_g": 358.4,
-    "kcal_porzione": 351.7,
-    "carbo_porzione": 15.9,
-    "grassi_porzione": 26.0,
-    "proteine_porzione": 13.6,
+    "kcal_porzione": 269.7,
+    "carbo_porzione": 16.2,
+    "grassi_porzione": 16.6,
+    "proteine_porzione": 14.1,
     "ingredienti": [
       {
         "nome": "(1 tablespoon) butter",
@@ -20558,8 +20558,8 @@
       {
         "nome": "of ham",
         "grammi": 50.0,
-        "fonte_macro": "CIQUAL",
-        "voce_matchata": "Pâté di prosciutto",
+        "fonte_macro": "CREA",
+        "voce_matchata": "Prosciutto cotto",
         "nome_it": "di prosciutto"
       }
     ],
