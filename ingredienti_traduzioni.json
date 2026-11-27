@@ -1,0 +1,3122 @@
+{
+"(1 cucchiaio) burro": {
+"de": "Butter",
+"en": "butter",
+"es": "mantequilla",
+"fr": "beurre"
+},
+"(1 cucchiaio) farina": {
+"de": "Mehl",
+"en": "flour",
+"es": "harina",
+"fr": "farine"
+},
+"(1 oz) burro (meglio se un burro ricco e di qualità)": {
+"de": "Butter (am besten eine gute, reichhaltige Butter)",
+"en": "butter (a good rich butter is best)",
+"es": "mantequilla (mejor si es una mantequilla rica y de calidad)",
+"fr": "beurre (de préférence un bon beurre riche)"
+},
+"(12-15 ca.) scalogni": {
+"de": "Schalotten",
+"en": "shallots",
+"es": "chalotas",
+"fr": "échalotes"
+},
+"(14 oz) riso per risotto": {
+"de": "Risottoreis",
+"en": "risotto rice",
+"es": "arroz para risotto",
+"fr": "riz à risotto"
+},
+"(1½ tazze) farina 00 o semola di grano duro": {
+"de": "Mehl Type \"00\" oder Hartweizengrieß",
+"en": "\"00\" flour or durum wheat semolina",
+"es": "harina \"00\" o sémola de trigo duro",
+"fr": "farine \"00\" ou semoule de blé dur"
+},
+"(4 fl oz) panna da montare": {
+"de": "Schlagsahne",
+"en": "whipping cream",
+"es": "nata para montar",
+"fr": "crème à fouetter"
+},
+"(450 g) carne di manzo macinata": {
+"de": "Rinderhackfleisch",
+"en": "ground beef",
+"es": "carne de res molida",
+"fr": "bœuf haché"
+},
+"(70 g/2,5 oz) farina": {
+"de": "Mehl",
+"en": "flour",
+"es": "harina",
+"fr": "farine"
+},
+"(790 g) patate rosse": {
+"de": "rote Kartoffeln",
+"en": "red potatoes",
+"es": "patatas rojas",
+"fr": "pommes de terre rouges"
+},
+"(8 cucchiai/1 panetto) burro": {
+"de": "Butter",
+"en": "butter",
+"es": "mantequilla",
+"fr": "beurre"
+},
+"(900 g) collo d'agnello o montone": {
+"de": "Lamm- oder Hammelhals",
+"en": "neck of lamb or mutton",
+"es": "cuello de cordero o carnero",
+"fr": "collier d'agneau ou de mouton"
+},
+"(950 ml) latte intero, freddo": {
+"de": "Vollmilch, kalt",
+"en": "whole milk, cold",
+"es": "leche entera, fría",
+"fr": "lait entier, froid"
+},
+"(circa 1,6 kg) pollo, tagliato a pezzi (oppure cosce, sovracosce, petti)": {
+"de": "Hähnchen, in Stücke geteilt (oder Unterschenkel, Oberschenkel, Brust)",
+"en": "chicken, jointed (or drumsticks, thighs, breasts)",
+"es": "pollo troceado (o muslos, contramuslos, pechugas)",
+"fr": "poulet coupé en morceaux (ou pilons, hauts de cuisse, blancs)"
+},
+"(¼ lb) prosciutto crudo a fette": {
+"de": "Rohschinken in Scheiben",
+"en": "sliced cured ham",
+"es": "jamón curado en lonchas",
+"fr": "jambon cru en tranches"
+},
+"(½ kg) patate, lavate": {
+"de": "Kartoffeln, gewaschen",
+"en": "potatoes, washed",
+"es": "patatas, lavadas",
+"fr": "pommes de terre, lavées"
+},
+"(½ pinta) maionese": {
+"de": "Mayonnaise",
+"en": "mayonnaise",
+"es": "mayonesa",
+"fr": "mayonnaise"
+},
+"(½ tazza) latte": {
+"de": "Milch",
+"en": "milk",
+"es": "leche",
+"fr": "lait"
+},
+"4 patate dolci": {
+"de": "Süßkartoffeln",
+"en": "sweet potatoes",
+"es": "batatas",
+"fr": "patates douces"
+},
+"6 patate, tagliate a spicchi": {
+"de": "Kartoffeln, in Spalten geschnitten",
+"en": "potatoes, cut into wedges",
+"es": "patatas cortadas en gajos",
+"fr": "pommes de terre coupées en quartiers"
+},
+"acciuga": {
+"de": "Sardelle",
+"en": "anchovy",
+"es": "anchoa",
+"fr": "anchois"
+},
+"acciuga cruda": {
+"de": "rohe Sardelle",
+"en": "raw anchovy",
+"es": "anchoa cruda",
+"fr": "anchois cru"
+},
+"aceto": {
+"de": "Essig",
+"en": "vinegar",
+"es": "vinagre",
+"fr": "vinaigre"
+},
+"aceto balsamico": {
+"de": "Balsamico-Essig",
+"en": "balsamic vinegar",
+"es": "vinagre balsámico",
+"fr": "vinaigre balsamique"
+},
+"aceto di vino rosso": {
+"de": "Rotweinessig",
+"en": "red wine vinegar",
+"es": "vinagre de vino tinto",
+"fr": "vinaigre de vin rouge"
+},
+"acqua": {
+"de": "Wasser",
+"en": "water",
+"es": "agua",
+"fr": "eau"
+},
+"aglio": {
+"de": "Knoblauch",
+"en": "garlic",
+"es": "ajo",
+"fr": "ail"
+},
+"aglio a fette": {
+"de": "Knoblauch in Scheiben",
+"en": "garlic, sliced",
+"es": "ajo en láminas",
+"fr": "ail en lamelles"
+},
+"aglio fresco tritato": {
+"de": "frischer Knoblauch, gehackt",
+"en": "fresh garlic, minced",
+"es": "ajo fresco picado",
+"fr": "ail frais haché"
+},
+"aglio in polvere": {
+"de": "Knoblauchpulver",
+"en": "garlic powder",
+"es": "ajo en polvo",
+"fr": "ail en poudre"
+},
+"aglio secco macinato": {
+"de": "getrockneter Knoblauch, gemahlen",
+"en": "dried garlic, ground",
+"es": "ajo seco molido",
+"fr": "ail séché moulu"
+},
+"aglio tagliato sottile": {
+"de": "Knoblauch, in dünne Scheiben geschnitten",
+"en": "garlic, thinly sliced",
+"es": "ajo en láminas finas",
+"fr": "ail finement émincé"
+},
+"aglio tritato": {
+"de": "Knoblauch, gehackt",
+"en": "minced garlic",
+"es": "ajo picado",
+"fr": "ail haché"
+},
+"aglio, tritato": {
+"de": "Knoblauch, gehackt",
+"en": "garlic, chopped",
+"es": "ajo picado",
+"fr": "ail haché"
+},
+"aglio, tritato finemente": {
+"de": "Knoblauch, fein gehackt",
+"en": "garlic, finely chopped",
+"es": "ajo finamente picado",
+"fr": "ail finement haché"
+},
+"agnello coscia cruda": {
+"de": "rohe Lammkeule",
+"en": "raw leg of lamb",
+"es": "pierna de cordero cruda",
+"fr": "gigot d'agneau cru"
+},
+"albicocche": {
+"de": "Aprikosen",
+"en": "apricots",
+"es": "albaricoques",
+"fr": "abricots"
+},
+"albume d'uovo": {
+"de": "Eiweiß",
+"en": "egg white",
+"es": "clara de huevo",
+"fr": "blanc d'œuf"
+},
+"ali di pollo": {
+"de": "Hähnchenflügel",
+"en": "chicken wings",
+"es": "alitas de pollo",
+"fr": "ailes de poulet"
+},
+"ali di tacchino": {
+"de": "Putenflügel",
+"en": "turkey wings",
+"es": "alas de pavo",
+"fr": "ailes de dinde"
+},
+"amido di mais": {
+"de": "Speisestärke",
+"en": "cornstarch",
+"es": "maicena",
+"fr": "fécule de maïs"
+},
+"ananas a pezzi sciroppato leggero": {
+"de": "Ananasstücke in leichtem Sirup",
+"en": "pineapple chunks in light syrup",
+"es": "trozos de piña en almíbar ligero",
+"fr": "morceaux d'ananas au sirop léger"
+},
+"ananas tritato grossolanamente": {
+"de": "Ananas, grob gehackt",
+"en": "coarsely chopped pineapple",
+"es": "piña picada en trozos grandes",
+"fr": "ananas grossièrement haché"
+},
+"anatra magret petto alla griglia in padella": {
+"de": "gebratene Entenbrust (Magret)",
+"en": "pan-grilled duck breast (magret)",
+"es": "magret de pato a la plancha",
+"fr": "magret de canard poêlé"
+},
+"aneto fresco tritato": {
+"de": "frischer Dill, gehackt",
+"en": "chopped fresh dill",
+"es": "eneldo fresco picado",
+"fr": "aneth frais haché"
+},
+"aneto secco": {
+"de": "getrockneter Dill",
+"en": "dried dill",
+"es": "eneldo seco",
+"fr": "aneth séché"
+},
+"arachidi": {
+"de": "Erdnüsse",
+"en": "peanuts",
+"es": "cacahuetes",
+"fr": "cacahuètes"
+},
+"arachidi tostate": {
+"de": "geröstete Erdnüsse",
+"en": "roasted peanuts",
+"es": "cacahuetes tostados",
+"fr": "cacahuètes grillées"
+},
+"aringa atlantica affumicata": {
+"de": "geräucherter Atlantikhering",
+"en": "smoked Atlantic herring",
+"es": "arenque del Atlántico ahumado",
+"fr": "hareng de l'Atlantique fumé"
+},
+"arrosto di lonza di maiale disossata": {
+"de": "Schweinelendenbraten ohne Knochen",
+"en": "boneless pork loin roast",
+"es": "asado de lomo de cerdo deshuesado",
+"fr": "rôti de longe de porc désossé"
+},
+"arrosto di maiale": {
+"de": "Schweinebraten",
+"en": "pork roast",
+"es": "asado de cerdo",
+"fr": "rôti de porc"
+},
+"asparagi crudi": {
+"de": "Spargel, roh",
+"en": "raw asparagus",
+"es": "espárragos crudos",
+"fr": "asperges crues"
+},
+"avena": {
+"de": "Haferflocken",
+"en": "oats",
+"es": "avena",
+"fr": "flocons d'avoine"
+},
+"avocado": {
+"de": "Avocado",
+"en": "avocado",
+"es": "aguacate",
+"fr": "avocat"
+},
+"banana": {
+"de": "Banane",
+"en": "banana",
+"es": "plátano",
+"fr": "banane"
+},
+"banane": {
+"de": "Bananen",
+"en": "bananas",
+"es": "plátanos",
+"fr": "bananes"
+},
+"basilico": {
+"de": "Basilikum",
+"en": "basil",
+"es": "albahaca",
+"fr": "basilic"
+},
+"basilico fresco": {
+"de": "frisches Basilikum",
+"en": "fresh basil",
+"es": "albahaca fresca",
+"fr": "basilic frais"
+},
+"basilico fresco, tritato": {
+"de": "frisches Basilikum, gehackt",
+"en": "chopped fresh basil",
+"es": "albahaca fresca picada",
+"fr": "basilic frais haché"
+},
+"basilico secco": {
+"de": "getrocknetes Basilikum",
+"en": "dried basil",
+"es": "albahaca seca",
+"fr": "basilic séché"
+},
+"basilico, tagliato a julienne o tritato": {
+"de": "Basilikum, in Streifen geschnitten oder gehackt",
+"en": "julienned or minced basil",
+"es": "albahaca cortada en juliana o picada",
+"fr": "basilic taillé en julienne ou haché"
+},
+"basilico, tritato e ben pressato": {
+"de": "Basilikum, gehackt und fest eingedrückt",
+"en": "basil, chopped and firmly packed",
+"es": "albahaca picada y bien compactada",
+"fr": "basilic haché et bien tassé"
+},
+"besciamella": {
+"de": "Béchamelsauce",
+"en": "béchamel sauce",
+"es": "salsa bechamel",
+"fr": "sauce béchamel"
+},
+"birra chiara": {
+"de": "helles Bier",
+"en": "light beer",
+"es": "cerveza rubia",
+"fr": "bière blonde"
+},
+"bistecche di filetto di manzo": {
+"de": "Rinderfiletsteaks",
+"en": "beef tenderloin steaks",
+"es": "filetes de solomillo de ternera",
+"fr": "steaks de filet de bœuf"
+},
+"braciole di maiale disossate": {
+"de": "Schweinekoteletts ohne Knochen",
+"en": "boneless pork chops",
+"es": "chuletas de cerdo deshuesadas",
+"fr": "côtes de porc désossées"
+},
+"broccoli": {
+"de": "Brokkoli",
+"en": "broccoli",
+"es": "brócoli",
+"fr": "brocoli"
+},
+"broccoli freschi": {
+"de": "frischer Brokkoli",
+"en": "fresh broccoli",
+"es": "brócoli fresco",
+"fr": "brocoli frais"
+},
+"broccolo crudo": {
+"de": "rohe Brokkoli",
+"en": "raw broccoli",
+"es": "brócoli crudo",
+"fr": "brocoli cru"
+},
+"brodo dado carne verdure disidratato ricostituito": {
+"de": "rekonstituierte Fleisch-Gemüse-Brühe (Instant)",
+"en": "reconstituted dehydrated meat and vegetable bouillon",
+"es": "caldo deshidratado de carne y verduras reconstituido",
+"fr": "bouillon déshydraté de viande et légumes reconstitué"
+},
+"brodo dado pollame disidratato ricostituito": {
+"de": "rekonstituierte Geflügelbrühe (Instant)",
+"en": "reconstituted dehydrated poultry bouillon",
+"es": "caldo de pollo deshidratado reconstituido",
+"fr": "bouillon de volaille déshydraté reconstitué"
+},
+"brodo dado vegetale disidratato ricostituito": {
+"de": "rekonstituierte Gemüsebrühe (Instant)",
+"en": "reconstituted dehydrated vegetable bouillon",
+"es": "caldo de verduras deshidratado reconstituido",
+"fr": "bouillon de légumes déshydraté reconstitué"
+},
+"brodo di manzo": {
+"de": "Rinderbrühe",
+"en": "beef stock",
+"es": "caldo de ternera",
+"fr": "bouillon de bœuf"
+},
+"brodo di pollo": {
+"de": "Hühnerbrühe",
+"en": "chicken broth",
+"es": "caldo de pollo",
+"fr": "bouillon de poulet"
+},
+"brodo vegetale": {
+"de": "Gemüsebrühe",
+"en": "vegetable broth",
+"es": "caldo de verduras",
+"fr": "bouillon de légumes"
+},
+"burro": {
+"de": "Butter",
+"en": "butter",
+"es": "mantequilla",
+"fr": "beurre"
+},
+"burro (a fette)": {
+"de": "Butter (in Scheiben)",
+"en": "butter (sliced)",
+"es": "mantequilla (en lonchas)",
+"fr": "beurre (en tranches)"
+},
+"burro di arachidi": {
+"de": "Erdnussbutter",
+"en": "peanut butter",
+"es": "mantequilla de cacahuete",
+"fr": "beurre de cacahuète"
+},
+"burro di arachidi cremoso": {
+"de": "cremige Erdnussbutter",
+"en": "creamy peanut butter",
+"es": "crema de cacahuete cremosa",
+"fr": "beurre de cacahuète crémeux"
+},
+"burro fresco non salato": {
+"de": "frische ungesalzene Butter",
+"en": "fresh unsalted butter",
+"es": "mantequilla fresca sin sal",
+"fr": "beurre frais non salé"
+},
+"burro fuso": {
+"de": "geschmolzene Butter",
+"en": "melted butter",
+"es": "mantequilla derretida",
+"fr": "beurre fondu"
+},
+"burro non salato": {
+"de": "ungesalzene Butter",
+"en": "unsalted butter",
+"es": "mantequilla sin sal",
+"fr": "beurre non salé"
+},
+"burro non salato, ammorbidito": {
+"de": "ungesalzene Butter, weich",
+"en": "unsalted butter, softened",
+"es": "mantequilla sin sal, blanda",
+"fr": "beurre doux ramolli"
+},
+"burro o margarina, diviso in due parti": {
+"de": "Butter oder Margarine, in zwei Portionen geteilt",
+"en": "butter or margarine, divided",
+"es": "mantequilla o margarina, dividida en dos partes",
+"fr": "beurre ou margarine, en deux parts"
+},
+"burro salato": {
+"de": "gesalzene Butter",
+"en": "salted butter",
+"es": "mantequilla con sal",
+"fr": "beurre salé"
+},
+"burro salato (ammorbidito)": {
+"de": "gesalzene Butter (weich)",
+"en": "salted butter (softened)",
+"es": "mantequilla con sal (blanda)",
+"fr": "beurre salé (ramolli)"
+},
+"burro, ammorbidito": {
+"de": "Butter, weich",
+"en": "butter, softened",
+"es": "mantequilla blanda",
+"fr": "beurre ramolli"
+},
+"burro, diviso in due parti": {
+"de": "Butter, in zwei Portionen geteilt",
+"en": "butter, divided",
+"es": "mantequilla, dividida en dos partes",
+"fr": "beurre, divisé en deux"
+},
+"burro, fuso": {
+"de": "Butter, geschmolzen",
+"en": "butter, melted",
+"es": "mantequilla derretida",
+"fr": "beurre fondu"
+},
+"caffè macinato fine": {
+"de": "fein gemahlener Kaffee",
+"en": "finely ground coffee",
+"es": "café molido fino",
+"fr": "café moulu fin"
+},
+"calamaro crudo": {
+"de": "roher Kalmar",
+"en": "raw squid",
+"es": "calamar crudo",
+"fr": "calamar cru"
+},
+"cannella": {
+"de": "Zimt",
+"en": "cinnamon",
+"es": "canela",
+"fr": "cannelle"
+},
+"cannella macinata": {
+"de": "gemahlener Zimt",
+"en": "ground cinnamon",
+"es": "canela molida",
+"fr": "cannelle moulue"
+},
+"capperi": {
+"de": "Kapern",
+"en": "capers",
+"es": "alcaparras",
+"fr": "câpres"
+},
+"carciofi, sgocciolati": {
+"de": "Artischocken, abgetropft",
+"en": "artichokes, drained",
+"es": "alcachofas, escurridas",
+"fr": "artichauts, égouttés"
+},
+"carne di manzo": {
+"de": "Rindfleisch",
+"en": "beef",
+"es": "carne de res",
+"fr": "viande de bœuf"
+},
+"carne macinata di agnello": {
+"de": "Lammhackfleisch",
+"en": "ground lamb",
+"es": "carne picada de cordero",
+"fr": "agneau haché"
+},
+"carne macinata di manzo": {
+"de": "Rinderhackfleisch",
+"en": "ground beef",
+"es": "carne picada de ternera",
+"fr": "bœuf haché"
+},
+"carne macinata di manzo magra": {
+"de": "mageres Rinderhackfleisch",
+"en": "lean ground beef",
+"es": "carne picada de ternera magra",
+"fr": "bœuf haché maigre"
+},
+"carota": {
+"de": "Karotte",
+"en": "carrot",
+"es": "zanahoria",
+"fr": "carotte"
+},
+"carota (facoltativa)": {
+"de": "Karotte (optional)",
+"en": "carrot (optional)",
+"es": "zanahoria (opcional)",
+"fr": "carotte (facultatif)"
+},
+"carota cruda": {
+"de": "rohe Karotte",
+"en": "raw carrot",
+"es": "zanahoria cruda",
+"fr": "carotte crue"
+},
+"carota tritata": {
+"de": "Karotte, gehackt",
+"en": "chopped carrot",
+"es": "zanahoria picada",
+"fr": "carotte hachée"
+},
+"carota, a dadini": {
+"de": "Karotte, gewürfelt",
+"en": "carrot, diced",
+"es": "zanahoria en cubos",
+"fr": "carotte en dés"
+},
+"carota, a fette": {
+"de": "Karotte, in Scheiben",
+"en": "carrot, sliced",
+"es": "zanahoria, en rodajas",
+"fr": "carotte, en rondelles"
+},
+"carota, cotta al vapore e schiacciata": {
+"de": "Karotte, gedämpft und zerdrückt",
+"en": "carrot, steamed and mashed",
+"es": "zanahoria cocida al vapor y triturada",
+"fr": "carotte cuite à la vapeur et écrasée"
+},
+"carota, e": {
+"de": "Karotte",
+"en": "carrot",
+"es": "zanahoria",
+"fr": "carotte"
+},
+"carota, grattugiata": {
+"de": "Karotte, geraspelt",
+"en": "carrot, shredded",
+"es": "zanahoria rallada",
+"fr": "carotte râpée"
+},
+"carote": {
+"de": "Karotten",
+"en": "carrots",
+"es": "zanahorias",
+"fr": "carottes"
+},
+"carote crude a fette": {
+"de": "rohe Karotten, in Scheiben",
+"en": "raw carrots, sliced",
+"es": "zanahorias crudas en rodajas",
+"fr": "carottes crues en tranches"
+},
+"carote, e grattugiate": {
+"de": "Karotten, geraspelt",
+"en": "carrots, shredded",
+"es": "zanahorias ralladas",
+"fr": "carottes râpées"
+},
+"cavoletto di bruxelles fresco": {
+"de": "frischer Rosenkohl",
+"en": "fresh brussels sprouts",
+"es": "coles de Bruselas frescas",
+"fr": "choux de Bruxelles frais"
+},
+"cavolfiore": {
+"de": "Blumenkohl",
+"en": "cauliflower",
+"es": "coliflor",
+"fr": "chou-fleur"
+},
+"cavolo cappuccio bianco, a testa": {
+"de": "Weißkohl, ganzer Kopf",
+"en": "white cabbage, whole head",
+"es": "col blanca, entera",
+"fr": "chou blanc, pommé"
+},
+"cavolo cappuccio crudo": {
+"de": "roher Weißkohl",
+"en": "raw cabbage",
+"es": "repollo crudo",
+"fr": "chou cabus cru"
+},
+"cavolo nero, preferibilmente toscano, privato dei gambi più duri e tagliato a listarelle spesse": {
+"de": "Grünkohl, vorzugsweise toskanischer, grobe Stiele entfernt, in dicke Streifen geschnitten",
+"en": "kale, preferably Tuscan, coarse stems removed, cut into thick ribbons",
+"es": "col rizada, preferiblemente toscana, sin los tallos duros, cortada en tiras gruesas",
+"fr": "chou kale, de préférence toscan, sans les tiges dures, coupé en larges lanières"
+},
+"cavolo rosso crudo": {
+"de": "roher Rotkohl",
+"en": "raw red cabbage",
+"es": "col lombarda cruda",
+"fr": "chou rouge cru"
+},
+"cavolo rosso tagliato finemente": {
+"de": "Rotkohl, fein geschnitten",
+"en": "red cabbage, finely sliced",
+"es": "col lombarda, cortada fina",
+"fr": "chou rouge, finement émincé"
+},
+"ceci bolliti in acqua": {
+"de": "in Wasser gekochte Kichererbsen",
+"en": "chickpeas boiled in water",
+"es": "garbanzos hervidos en agua",
+"fr": "pois chiches bouillis à l'eau"
+},
+"ceci cotti, sgocciolati": {
+"de": "gekochte Kichererbsen, abgetropft",
+"en": "cooked chickpeas, drained",
+"es": "garbanzos cocidos escurridos",
+"fr": "pois chiches cuits égouttés"
+},
+"ceci, sgocciolati": {
+"de": "Kichererbsen, abgetropft",
+"en": "chickpeas, drained",
+"es": "garbanzos escurridos",
+"fr": "pois chiches égouttés"
+},
+"cetrioli": {
+"de": "Gurken",
+"en": "cucumbers",
+"es": "pepinos",
+"fr": "concombres"
+},
+"cetriolo grattugiato": {
+"de": "Gurke, gerieben",
+"en": "cucumber, grated",
+"es": "pepino rallado",
+"fr": "concombre râpé"
+},
+"cetriolo polpa senza buccia crudo": {
+"de": "rohe geschälte Gurke",
+"en": "raw peeled cucumber",
+"es": "pepino crudo pelado",
+"fr": "concombre cru épluché"
+},
+"champignon fungo coltivato crudo": {
+"de": "Champignon, kultiviert, roh",
+"en": "raw cultivated champignon mushroom",
+"es": "champiñón cultivado crudo",
+"fr": "champignon de Paris cru"
+},
+"cheddar": {
+"de": "Cheddar",
+"en": "cheddar",
+"es": "cheddar",
+"fr": "cheddar"
+},
+"chiodi di garofano": {
+"de": "Gewürznelken",
+"en": "cloves",
+"es": "clavos de olor",
+"fr": "clous de girofle"
+},
+"chiodi di garofano macinati": {
+"de": "gemahlene Gewürznelken",
+"en": "ground cloves",
+"es": "clavos de olor molidos",
+"fr": "clous de girofle moulus"
+},
+"cicoria witloof o indivia belga cruda": {
+"de": "rohe Chicorée",
+"en": "raw Belgian endive (witloof chicory)",
+"es": "endivia cruda",
+"fr": "endive crue"
+},
+"cioccolato al latte": {
+"de": "Vollmilchschokolade",
+"en": "milk chocolate",
+"es": "chocolate con leche",
+"fr": "chocolat au lait"
+},
+"cipolla": {
+"de": "Zwiebel",
+"en": "onion",
+"es": "cebolla",
+"fr": "oignon"
+},
+"cipolla a dadini": {
+"de": "Zwiebel, gewürfelt",
+"en": "onion, diced",
+"es": "cebolla en cubos",
+"fr": "oignon en dés"
+},
+"cipolla cruda": {
+"de": "rohe Zwiebel",
+"en": "raw onion",
+"es": "cebolla cruda",
+"fr": "oignon cru"
+},
+"cipolla in polvere": {
+"de": "Zwiebelpulver",
+"en": "onion powder",
+"es": "cebolla en polvo",
+"fr": "oignon en poudre"
+},
+"cipolla medio-grande": {
+"de": "mittelgroße bis große Zwiebel",
+"en": "medium-large onion",
+"es": "cebolla mediana-grande",
+"fr": "oignon moyen à grand"
+},
+"cipolla o 1-2 scalogni": {
+"de": "Zwiebel oder 1-2 Schalotten",
+"en": "onion or 1-2 shallots",
+"es": "cebolla o 1-2 chalotas",
+"fr": "oignon ou 1 à 2 échalotes"
+},
+"cipolla rossa tritata": {
+"de": "rote Zwiebel, gehackt",
+"en": "chopped red onion",
+"es": "cebolla roja picada",
+"fr": "oignon rouge haché"
+},
+"cipolla tritata": {
+"de": "Zwiebel, gehackt",
+"en": "chopped onion",
+"es": "cebolla picada",
+"fr": "oignon haché"
+},
+"cipolla tritata finemente": {
+"de": "Zwiebel, fein gehackt",
+"en": "finely chopped onion",
+"es": "cebolla finamente picada",
+"fr": "oignon finement haché"
+},
+"cipolla, finemente": {
+"de": "Zwiebel, fein gehackt",
+"en": "finely chopped onion",
+"es": "cebolla finamente picada",
+"fr": "oignon finement haché"
+},
+"cipolla, o una quantità equivalente di scalogno": {
+"de": "Zwiebel oder die gleiche Menge Schalotten",
+"en": "onion, or an equal amount of shallots",
+"es": "cebolla, o la misma cantidad de chalotas",
+"fr": "oignon, ou la même quantité d'échalotes"
+},
+"cipolle": {
+"de": "Zwiebeln",
+"en": "onions",
+"es": "cebollas",
+"fr": "oignons"
+},
+"cipolle rosse": {
+"de": "rote Zwiebeln",
+"en": "red onions",
+"es": "cebollas rojas",
+"fr": "oignons rouges"
+},
+"cipolle rosse di taglia media": {
+"de": "mittelgroße rote Zwiebeln",
+"en": "medium red onions",
+"es": "cebollas rojas medianas",
+"fr": "oignons rouges moyens"
+},
+"cipolle rosse, e": {
+"de": "rote Zwiebeln",
+"en": "red onions",
+"es": "cebollas rojas",
+"fr": "oignons rouges"
+},
+"cipolle tritate": {
+"de": "Zwiebeln, gehackt",
+"en": "chopped onions",
+"es": "cebollas picadas",
+"fr": "oignons hachés"
+},
+"cipolle tritate finemente": {
+"de": "Zwiebeln, fein gehackt",
+"en": "finely minced onions",
+"es": "cebollas finamente picadas",
+"fr": "oignons finement hachés"
+},
+"cipolle, finemente": {
+"de": "Zwiebeln, fein gehackt",
+"en": "onions, finely chopped",
+"es": "cebollas finamente picadas",
+"fr": "oignons finement hachés"
+},
+"cipolle, tagliate in quarti e poi a fette da ⅛–¼ di pollice": {
+"de": "Zwiebeln, geviertelt und in 3-6 mm dicke Scheiben geschnitten",
+"en": "onions, quartered and sliced into ⅛–¼-inch slices",
+"es": "cebollas, cortadas en cuartos y luego en rodajas de 3 a 6 mm",
+"fr": "oignons, coupés en quartiers puis en tranches de 3 à 6 mm"
+},
+"cipolline crude": {
+"de": "rohe Perlzwiebeln",
+"en": "raw pearl onions",
+"es": "cebollitas crudas",
+"fr": "petits oignons crus"
+},
+"cipollotto": {
+"de": "Frühlingszwiebel",
+"en": "scallion",
+"es": "cebolleta",
+"fr": "oignon nouveau"
+},
+"cocco grattugiato": {
+"de": "geraspelte Kokosnuss",
+"en": "shredded coconut",
+"es": "coco rallado",
+"fr": "noix de coco râpée"
+},
+"coniglio crudo": {
+"de": "rohes Kaninchen",
+"en": "raw rabbit",
+"es": "conejo crudo",
+"fr": "lapin cru"
+},
+"coriandolo fresco": {
+"de": "frischer Koriander",
+"en": "fresh cilantro",
+"es": "cilantro fresco",
+"fr": "coriandre fraîche"
+},
+"coriandolo macinato": {
+"de": "gemahlener Koriander",
+"en": "ground coriander",
+"es": "cilantro molido",
+"fr": "coriandre moulue"
+},
+"coriandolo tritato": {
+"de": "Koriander, gehackt",
+"en": "chopped coriander",
+"es": "cilantro picado",
+"fr": "coriandre hachée"
+},
+"cosce di pollo senza pelle": {
+"de": "Hähnchenschenkel ohne Haut",
+"en": "skinless chicken thighs",
+"es": "muslos de pollo sin piel",
+"fr": "cuisses de poulet sans peau"
+},
+"cozza comune cruda": {
+"de": "rohe Miesmuschel",
+"en": "raw common mussel",
+"es": "mejillón común crudo",
+"fr": "moule commune crue"
+},
+"crauti": {
+"de": "Sauerkraut",
+"en": "sauerkraut",
+"es": "chucrut",
+"fr": "choucroute"
+},
+"crema di funghi (zuppa condensata)": {
+"de": "Champignoncremesuppe (Kondenssuppe)",
+"en": "cream of mushroom soup",
+"es": "crema de champiñones (sopa condensada)",
+"fr": "crème de champignons (soupe condensée)"
+},
+"crema di pollo (zuppa condensata)": {
+"de": "Hühnercremesuppe (Dosensuppe)",
+"en": "cream of chicken soup",
+"es": "crema de pollo (sopa condensada)",
+"fr": "crème de poulet (soupe condensée)"
+},
+"cumino": {
+"de": "Kreuzkümmel",
+"en": "cumin",
+"es": "comino",
+"fr": "cumin"
+},
+"cumino (macinato)": {
+"de": "gemahlener Kreuzkümmel",
+"en": "ground cumin",
+"es": "comino molido",
+"fr": "cumin moulu"
+},
+"cumino macinato": {
+"de": "gemahlener Kreuzkümmel",
+"en": "ground cumin",
+"es": "comino molido",
+"fr": "cumin moulu"
+},
+"cuori di carciofo, sgocciolati": {
+"de": "Artischockenherzen, abgetropft",
+"en": "artichoke hearts, drained",
+"es": "corazones de alcachofa, escurridos",
+"fr": "cœurs d'artichaut, égouttés"
+},
+"cuori di carciofo, sgocciolati e tritati": {
+"de": "Artischockenherzen, abgetropft und gehackt",
+"en": "artichoke hearts, drained and chopped",
+"es": "corazones de alcachofa, escurridos y picados",
+"fr": "cœurs d'artichaut, égouttés et hachés"
+},
+"curry in polvere": {
+"de": "Currypulver",
+"en": "curry powder",
+"es": "curry en polvo",
+"fr": "poudre de curry"
+},
+"d'aglio": {
+"de": "Knoblauch",
+"en": "garlic",
+"es": "ajo",
+"fr": "ail"
+},
+"d'aglio, tritato": {
+"de": "Knoblauch, gehackt",
+"en": "garlic, chopped",
+"es": "ajo picado",
+"fr": "ail haché"
+},
+"d'olio": {
+"de": "Öl",
+"en": "oil",
+"es": "aceite",
+"fr": "huile"
+},
+"di noce moscata macinata (facoltativo)": {
+"de": "gemahlene Muskatnuss (optional)",
+"en": "ground nutmeg (optional)",
+"es": "nuez moscada molida (opcional)",
+"fr": "muscade moulue (facultatif)"
+},
+"di prosciutto": {
+"de": "Schinken",
+"en": "ham",
+"es": "jamón",
+"fr": "jambon"
+},
+"di sedano, tritato fine": {
+"de": "Sellerie, fein gehackt",
+"en": "celery, finely chopped",
+"es": "apio, picado fino",
+"fr": "céleri, haché fin"
+},
+"dragoncello": {
+"de": "Estragon",
+"en": "tarragon",
+"es": "estragón",
+"fr": "estragon"
+},
+"dragoncello (facoltativo)": {
+"de": "Estragon (optional)",
+"en": "tarragon (optional)",
+"es": "estragón (opcional)",
+"fr": "estragon (facultatif)"
+},
+"dragoncello o timo (facoltativo)": {
+"de": "Estragon oder Thymian (optional)",
+"en": "tarragon or thyme (optional)",
+"es": "estragón o tomillo (opcional)",
+"fr": "estragon ou thym (facultatif)"
+},
+"emmental": {
+"de": "Emmentaler",
+"en": "Emmental",
+"es": "emmental",
+"fr": "emmental"
+},
+"estratto di vaniglia": {
+"de": "Vanilleextrakt",
+"en": "vanilla extract",
+"es": "extracto de vainilla",
+"fr": "extrait de vanille"
+},
+"fagioli bianchi": {
+"de": "weiße Bohnen",
+"en": "white beans",
+"es": "alubias blancas",
+"fr": "haricots blancs"
+},
+"fagioli borlotti": {
+"de": "Borlotti-Bohnen",
+"en": "borlotti beans",
+"es": "alubias borlotti",
+"fr": "haricots borlotti"
+},
+"fagioli cannellini": {
+"de": "Cannellini-Bohnen",
+"en": "cannellini beans",
+"es": "alubias cannellini",
+"fr": "haricots cannellini"
+},
+"fagioli rossi": {
+"de": "rote Kidneybohnen",
+"en": "kidney beans",
+"es": "alubias rojas",
+"fr": "haricots rouges"
+},
+"fagioli rossi, scolati": {
+"de": "rote Kidneybohnen, abgetropft",
+"en": "kidney beans, drained",
+"es": "alubias rojas, escurridas",
+"fr": "haricots rouges, égouttés"
+},
+"fagiolini": {
+"de": "grüne Bohnen",
+"en": "green beans",
+"es": "judías verdes",
+"fr": "haricots verts"
+},
+"fagiolini crudi": {
+"de": "rohe grüne Bohnen",
+"en": "raw green beans",
+"es": "judías verdes crudas",
+"fr": "haricots verts crus"
+},
+"fagiolini freschi": {
+"de": "frische grüne Bohnen",
+"en": "fresh green beans",
+"es": "judías verdes frescas",
+"fr": "haricots verts frais"
+},
+"farina": {
+"de": "Mehl",
+"en": "flour",
+"es": "harina",
+"fr": "farine"
+},
+"farina 00": {
+"de": "Mehl Type 00",
+"en": "all-purpose flour (type 00)",
+"es": "harina 00",
+"fr": "farine 00"
+},
+"farina autolievitante": {
+"de": "Mehl mit Backpulver",
+"en": "self raising flour",
+"es": "harina con levadura",
+"fr": "farine avec levure incorporée"
+},
+"farina bianca": {
+"de": "Weißmehl",
+"en": "white flour",
+"es": "harina blanca",
+"fr": "farine blanche"
+},
+"farina di grano": {
+"de": "Weizenmehl",
+"en": "wheat flour",
+"es": "harina de trigo",
+"fr": "farine de blé"
+},
+"farina tipo \"00\"": {
+"de": "Mehl Type \"00\"",
+"en": "\"00\" flour",
+"es": "harina tipo \"00\"",
+"fr": "farine type \"00\""
+},
+"farro o grano in chicco (reperibile in negozi gastronomici specializzati)": {
+"de": "Dinkel oder Weizenkörner (im Feinkostladen erhältlich)",
+"en": "spelt or wheat berries (available at gourmet-food shops)",
+"es": "espelta o granos de trigo (en tiendas gourmet)",
+"fr": "épeautre ou blé en grains (en épicerie fine)"
+},
+"fave secche": {
+"de": "getrocknete Dicke Bohnen",
+"en": "dried fava beans",
+"es": "habas secas",
+"fr": "fèves sèches"
+},
+"fegatini di pollo": {
+"de": "Hühnerleber",
+"en": "chicken livers",
+"es": "hígados de pollo",
+"fr": "foies de volaille"
+},
+"feta": {
+"de": "Feta",
+"en": "feta",
+"es": "feta",
+"fr": "feta"
+},
+"filetto di maiale": {
+"de": "Schweinefilet",
+"en": "pork tenderloin",
+"es": "solomillo de cerdo",
+"fr": "filet de porc"
+},
+"filetto di manzo": {
+"de": "Rinderfilet",
+"en": "beef tenderloin",
+"es": "solomillo de res",
+"fr": "filet de bœuf"
+},
+"filetto di manzo tagliato": {
+"de": "Rinderfilet, geschnitten",
+"en": "cut beef tenderloin",
+"es": "solomillo de ternera cortado",
+"fr": "filet de bœuf coupé"
+},
+"finferli": {
+"de": "Pfifferlinge",
+"en": "chanterelle mushrooms",
+"es": "rebozuelos",
+"fr": "girolles"
+},
+"finocchio macinato": {
+"de": "gemahlener Fenchel",
+"en": "ground fennel",
+"es": "hinojo molido",
+"fr": "fenouil moulu"
+},
+"fiocchi di latte": {
+"de": "Hüttenkäse",
+"en": "cottage cheese",
+"es": "requesón",
+"fr": "fromage blanc en grains"
+},
+"fiocchi di latte magri": {
+"de": "Hüttenkäse, fettarm",
+"en": "low fat cottage cheese",
+"es": "requesón bajo en grasa",
+"fr": "fromage blanc en grains allégé"
+},
+"formaggio cheddar": {
+"de": "Cheddar-Käse",
+"en": "cheddar cheese",
+"es": "queso cheddar",
+"fr": "fromage cheddar"
+},
+"formaggio mozzarella latte vaccino": {
+"de": "Mozzarella aus Kuhmilch",
+"en": "cow's milk mozzarella cheese",
+"es": "queso mozzarella de leche de vaca",
+"fr": "fromage mozzarella au lait de vache"
+},
+"fragola": {
+"de": "Erdbeere",
+"en": "strawberry",
+"es": "fresa",
+"fr": "fraise"
+},
+"fragole fresche, a fette": {
+"de": "frische Erdbeeren, in Scheiben",
+"en": "fresh strawberries, sliced",
+"es": "fresas frescas en rodajas",
+"fr": "fraises fraîches en tranches"
+},
+"funghi champignon": {
+"de": "Champignons",
+"en": "button mushrooms",
+"es": "champiñones",
+"fr": "champignons de Paris"
+},
+"gamberetto grigio bollito": {
+"de": "gekochte Nordseekrabben",
+"en": "boiled brown shrimp",
+"es": "camarones grises hervidos",
+"fr": "crevettes grises cuites"
+},
+"gambi di sedano": {
+"de": "Selleriestangen",
+"en": "celery stalks",
+"es": "tallos de apio",
+"fr": "branches de céleri"
+},
+"gambo di sedano": {
+"de": "Selleriestange",
+"en": "stalk celery",
+"es": "tallo de apio",
+"fr": "branche de céleri"
+},
+"garam masala": {
+"de": "Garam Masala",
+"en": "garam masala",
+"es": "garam masala",
+"fr": "garam masala"
+},
+"gelatina di ribes nero": {
+"de": "schwarze Johannisbeergelee",
+"en": "black currant jelly",
+"es": "gelatina de grosella negra",
+"fr": "gelée de cassis"
+},
+"germogli di bambù": {
+"de": "Bambussprossen",
+"en": "bamboo shoots",
+"es": "brotes de bambú",
+"fr": "pousses de bambou"
+},
+"germogli di soia": {
+"de": "Sojasprossen",
+"en": "soybean sprouts",
+"es": "brotes de soja",
+"fr": "germes de soja"
+},
+"grana padano": {
+"de": "Grana Padano",
+"en": "Grana Padano",
+"es": "Grana Padano",
+"fr": "Grana Padano"
+},
+"grana padano dop": {
+"de": "Grana Padano g.U.",
+"en": "Grana Padano PDO",
+"es": "Grana Padano DOP",
+"fr": "Grana Padano AOP"
+},
+"grasso d'anatra": {
+"de": "Entenfett",
+"en": "duck fat",
+"es": "grasa de pato",
+"fr": "graisse de canard"
+},
+"groviera": {
+"de": "Gruyère",
+"en": "Gruyère",
+"es": "gruyer",
+"fr": "gruyère"
+},
+"hummus confezionato": {
+"de": "fertiger Hummus",
+"en": "store-bought hummus",
+"es": "hummus envasado",
+"fr": "houmous du commerce"
+},
+"jamon serrano": {
+"de": "Jamón Serrano",
+"en": "jamón serrano",
+"es": "jamón serrano",
+"fr": "jambon serrano"
+},
+"ketchup": {
+"de": "Ketchup",
+"en": "ketchup",
+"es": "kétchup",
+"fr": "ketchup"
+},
+"latte": {
+"de": "Milch",
+"en": "milk",
+"es": "leche",
+"fr": "lait"
+},
+"latte (intero, parzialmente scremato al 2%, scremato all'1%)": {
+"de": "Milch (Vollmilch, 2 %, 1 % Fett)",
+"en": "milk (whole, 2%, 1%)",
+"es": "leche (entera, semidesnatada al 2 %, desnatada al 1 %)",
+"fr": "lait (entier, demi-écrémé à 2 %, écrémé à 1 %)"
+},
+"latte di cocco": {
+"de": "Kokosmilch",
+"en": "coconut milk",
+"es": "leche de coco",
+"fr": "lait de coco"
+},
+"lattuga": {
+"de": "Kopfsalat",
+"en": "lettuce",
+"es": "lechuga",
+"fr": "laitue"
+},
+"lenticchie": {
+"de": "Linsen",
+"en": "lentils",
+"es": "lentejas",
+"fr": "lentilles"
+},
+"lenticchie brune secche": {
+"de": "getrocknete braune Linsen",
+"en": "dry brown lentils",
+"es": "lentejas pardas secas",
+"fr": "lentilles brunes sèches"
+},
+"lenticchie secche": {
+"de": "getrocknete Linsen",
+"en": "dried lentils",
+"es": "lentejas secas",
+"fr": "lentilles sèches"
+},
+"lime": {
+"de": "Limette",
+"en": "lime",
+"es": "lima",
+"fr": "citron vert"
+},
+"limone": {
+"de": "Zitrone",
+"en": "lemon",
+"es": "limón",
+"fr": "citron"
+},
+"lonza di maiale": {
+"de": "Schweinelende",
+"en": "pork loin",
+"es": "lomo de cerdo",
+"fr": "longe de porc"
+},
+"maggiorana secca": {
+"de": "getrockneter Majoran",
+"en": "dried marjoram",
+"es": "mejorana seca",
+"fr": "marjolaine séchée"
+},
+"maiale costine crude": {
+"de": "rohe Schweinerippchen",
+"en": "raw pork ribs",
+"es": "costillas de cerdo crudas",
+"fr": "côtes de porc crues"
+},
+"maiale filetto mignon crudo": {
+"de": "rohes Schweinefilet",
+"en": "raw pork tenderloin",
+"es": "solomillo de cerdo crudo",
+"fr": "filet mignon de porc cru"
+},
+"maiale spalla cruda": {
+"de": "rohe Schweineschulter",
+"en": "raw pork shoulder",
+"es": "paleta de cerdo cruda",
+"fr": "épaule de porc crue"
+},
+"maionese": {
+"de": "Mayonnaise",
+"en": "mayonnaise",
+"es": "mayonesa",
+"fr": "mayonnaise"
+},
+"mais dolce in scatola sgocciolato": {
+"de": "Mais aus der Dose, abgetropft",
+"en": "canned sweet corn, drained",
+"es": "maíz dulce en conserva escurrido",
+"fr": "maïs doux en conserve égoutté"
+},
+"mais surgelato": {
+"de": "Tiefkühlmais",
+"en": "frozen corn",
+"es": "maíz congelado",
+"fr": "maïs surgelé"
+},
+"mandorle": {
+"de": "Mandeln",
+"en": "almonds",
+"es": "almendras",
+"fr": "amandes"
+},
+"manzo in scatola (corned beef)": {
+"de": "Corned Beef (Rindfleisch in Dosen)",
+"en": "corned beef",
+"es": "corned beef (carne de res en conserva)",
+"fr": "corned beef (bœuf en conserve)"
+},
+"manzo macinato": {
+"de": "Rinderhackfleisch",
+"en": "ground beef",
+"es": "carne de res molida",
+"fr": "bœuf haché"
+},
+"manzo spalla cruda": {
+"de": "Rinderschulter, roh",
+"en": "raw beef shoulder",
+"es": "paleta de ternera cruda",
+"fr": "épaule de bœuf crue"
+},
+"margarina": {
+"de": "Margarine",
+"en": "margarine",
+"es": "margarina",
+"fr": "margarine"
+},
+"marmellata di albicocche": {
+"de": "Aprikosenmarmelade",
+"en": "apricot jam",
+"es": "mermelada de albaricoque",
+"fr": "confiture d'abricots"
+},
+"marmellata di fragole": {
+"de": "Erdbeermarmelade",
+"en": "strawberry jam",
+"es": "mermelada de fresa",
+"fr": "confiture de fraises"
+},
+"marmellata di lamponi": {
+"de": "Himbeermarmelade",
+"en": "raspberry jam",
+"es": "mermelada de frambuesa",
+"fr": "confiture de framboises"
+},
+"mela": {
+"de": "Apfel",
+"en": "apple",
+"es": "manzana",
+"fr": "pomme"
+},
+"mela granny smith, privata del torsolo": {
+"de": "Granny-Smith-Apfel, entkernt",
+"en": "granny smith apple, cored",
+"es": "manzana granny smith, sin corazón",
+"fr": "pomme granny smith, évidée"
+},
+"melanzana cruda": {
+"de": "rohe Aubergine",
+"en": "raw eggplant",
+"es": "berenjena cruda",
+"fr": "aubergine crue"
+},
+"melanzane": {
+"de": "Auberginen",
+"en": "eggplants",
+"es": "berenjenas",
+"fr": "aubergines"
+},
+"mele": {
+"de": "Äpfel",
+"en": "apples",
+"es": "manzanas",
+"fr": "pommes"
+},
+"mele golden delicious, private del torsolo e": {
+"de": "Golden-Delicious-Äpfel, entkernt",
+"en": "golden delicious apples, cored",
+"es": "manzanas golden delicious, sin corazón",
+"fr": "pommes golden delicious, évidées"
+},
+"mele granny smith, private del torsolo e": {
+"de": "Granny-Smith-Äpfel, entkernt",
+"en": "granny smith apples, cored",
+"es": "manzanas granny smith, sin corazón",
+"fr": "pommes granny smith, évidées"
+},
+"mele, a fette": {
+"de": "Äpfel, in Scheiben",
+"en": "apples, sliced",
+"es": "manzanas en rodajas",
+"fr": "pommes en tranches"
+},
+"menta fresca tritata": {
+"de": "frische Minze, gehackt",
+"en": "chopped fresh mint",
+"es": "menta fresca picada",
+"fr": "menthe fraîche hachée"
+},
+"menta tritata": {
+"de": "Minze, gehackt",
+"en": "chopped mint",
+"es": "menta picada",
+"fr": "menthe hachée"
+},
+"merluzzo cotto medio": {
+"de": "gegarter Kabeljau, mittelgroß",
+"en": "cooked cod, medium",
+"es": "bacalao cocido, mediano",
+"fr": "morue cuite, moyenne"
+},
+"merluzzo salato essiccato baccalà": {
+"de": "Salzkabeljau (Baccalà), getrocknet",
+"en": "salted dried cod (baccalà)",
+"es": "bacalao salado seco",
+"fr": "morue salée séchée"
+},
+"mezzi petti di pollo disossati e senza pelle": {
+"de": "Hähnchenbrusthälften, ohne Knochen und Haut",
+"en": "boneless skinless chicken breast halves",
+"es": "mitades de pechuga de pollo sin hueso y sin piel",
+"fr": "demi-blancs de poulet désossés et sans peau"
+},
+"miele": {
+"de": "Honig",
+"en": "honey",
+"es": "miel",
+"fr": "miel"
+},
+"mirtilli": {
+"de": "Heidelbeeren",
+"en": "blueberries",
+"es": "arándanos",
+"fr": "myrtilles"
+},
+"mirtilli surgelati": {
+"de": "gefrorene Heidelbeeren",
+"en": "frozen blueberries",
+"es": "arándanos congelados",
+"fr": "myrtilles surgelées"
+},
+"mirtillo crudo": {
+"de": "rohe Heidelbeeren",
+"en": "raw blueberries",
+"es": "arándanos crudos",
+"fr": "myrtilles crues"
+},
+"miso": {
+"de": "Miso",
+"en": "miso",
+"es": "miso",
+"fr": "miso"
+},
+"more": {
+"de": "Brombeeren",
+"en": "blackberries",
+"es": "moras",
+"fr": "mûres"
+},
+"mozzarella": {
+"de": "Mozzarella",
+"en": "mozzarella",
+"es": "mozzarella",
+"fr": "mozzarella"
+},
+"nocciole": {
+"de": "Haselnüsse",
+"en": "hazelnuts",
+"es": "avellanas",
+"fr": "noisettes"
+},
+"nocciole tritate": {
+"de": "gehackte Haselnüsse",
+"en": "chopped hazelnuts",
+"es": "avellanas picadas",
+"fr": "noisettes hachées"
+},
+"noce moscata macinata": {
+"de": "gemahlene Muskatnuss",
+"en": "ground nutmeg",
+"es": "nuez moscada molida",
+"fr": "noix de muscade moulue"
+},
+"noci": {
+"de": "Walnüsse",
+"en": "walnuts",
+"es": "nueces",
+"fr": "noix"
+},
+"noci crude": {
+"de": "rohe Walnüsse",
+"en": "raw walnuts",
+"es": "nueces crudas",
+"fr": "noix crues"
+},
+"noci pecan": {
+"de": "Pekannüsse",
+"en": "pecans",
+"es": "nueces pecanas",
+"fr": "noix de pécan"
+},
+"noci pecan tritate": {
+"de": "gehackte Pekannüsse",
+"en": "chopped pecans",
+"es": "nueces pecanas picadas",
+"fr": "noix de pécan hachées"
+},
+"noci tritate": {
+"de": "Walnüsse, gehackt",
+"en": "walnuts, chopped",
+"es": "nueces picadas",
+"fr": "noix hachées"
+},
+"nori": {
+"de": "Nori",
+"en": "nori",
+"es": "nori",
+"fr": "nori"
+},
+"okra (gombo)": {
+"de": "Okra",
+"en": "okra",
+"es": "okra",
+"fr": "gombo"
+},
+"olio (per friggere)": {
+"de": "Öl (zum Frittieren)",
+"en": "oil (for frying)",
+"es": "aceite (para freír)",
+"fr": "huile (pour la friture)"
+},
+"olio al tartufo nero": {
+"de": "Öl mit schwarzem Trüffel",
+"en": "black truffle oil",
+"es": "aceite de trufa negra",
+"fr": "huile à la truffe noire"
+},
+"olio d'oliva": {
+"de": "Olivenöl",
+"en": "olive oil",
+"es": "aceite de oliva",
+"fr": "huile d'olive"
+},
+"olio di cocco": {
+"de": "Kokosöl",
+"en": "coconut oil",
+"es": "aceite de coco",
+"fr": "huile de coco"
+},
+"olio di girasole": {
+"de": "Sonnenblumenöl",
+"en": "sunflower oil",
+"es": "aceite de girasol",
+"fr": "huile de tournesol"
+},
+"olio di oliva": {
+"de": "Olivenöl",
+"en": "olive oil",
+"es": "aceite de oliva",
+"fr": "huile d'olive"
+},
+"olio di sesamo": {
+"de": "Sesamöl",
+"en": "sesame oil",
+"es": "aceite de sésamo",
+"fr": "huile de sésame"
+},
+"olio extra vergine d'oliva": {
+"de": "natives Olivenöl extra",
+"en": "extra virgin olive oil",
+"es": "aceite de oliva virgen extra",
+"fr": "huile d'olive extra vierge"
+},
+"olio extravergine": {
+"de": "natives Olivenöl extra",
+"en": "extra virgin olive oil",
+"es": "aceite de oliva virgen extra",
+"fr": "huile d'olive extra vierge"
+},
+"olio extravergine di oliva": {
+"de": "natives Olivenöl extra",
+"en": "extra virgin olive oil",
+"es": "aceite de oliva virgen extra",
+"fr": "huile d'olive extra vierge"
+},
+"olio extravergine di oliva, più altro per condire a filo": {
+"de": "natives Olivenöl extra, plus mehr zum Beträufeln",
+"en": "extra-virgin olive oil, plus more for drizzling",
+"es": "aceite de oliva virgen extra, y más para rociar",
+"fr": "huile d'olive extra vierge, et un peu plus pour arroser"
+},
+"olio vegetale": {
+"de": "Pflanzenöl",
+"en": "vegetable oil",
+"es": "aceite vegetal",
+"fr": "huile végétale"
+},
+"olive kalamata": {
+"de": "Kalamata-Oliven",
+"en": "Kalamata olives",
+"es": "aceitunas Kalamata",
+"fr": "olives Kalamata"
+},
+"olive nere": {
+"de": "schwarze Oliven",
+"en": "black olives",
+"es": "aceitunas negras",
+"fr": "olives noires"
+},
+"origano": {
+"de": "Oregano",
+"en": "oregano",
+"es": "orégano",
+"fr": "origan"
+},
+"origano (facoltativo)": {
+"de": "Oregano (optional)",
+"en": "oregano (optional)",
+"es": "orégano (opcional)",
+"fr": "origan (facultatif)"
+},
+"origano (o q.b.)": {
+"de": "Oregano (oder nach Geschmack)",
+"en": "oregano (or to taste)",
+"es": "orégano (o al gusto)",
+"fr": "origan (ou selon le goût)"
+},
+"origano secco": {
+"de": "getrockneter Oregano",
+"en": "dried oregano",
+"es": "orégano seco",
+"fr": "origan séché"
+},
+"pancetta": {
+"de": "Pancetta",
+"en": "pancetta",
+"es": "pancetta",
+"fr": "pancetta"
+},
+"pancetta affumicata": {
+"de": "geräucherte Pancetta",
+"en": "smoked pancetta",
+"es": "panceta ahumada",
+"fr": "pancetta fumée"
+},
+"pancetta di maiale dolce": {
+"de": "milde Schweine-Pancetta",
+"en": "sweet pork pancetta",
+"es": "panceta de cerdo dulce",
+"fr": "pancetta de porc douce"
+},
+"pane bianco": {
+"de": "Weißbrot",
+"en": "white bread",
+"es": "pan blanco",
+"fr": "pain blanc"
+},
+"pane bianco fresco": {
+"de": "frisches Weißbrot",
+"en": "fresh white bread",
+"es": "pan blanco fresco",
+"fr": "pain blanc frais"
+},
+"pane medio": {
+"de": "Mischbrot",
+"en": "medium bread",
+"es": "pan mediano",
+"fr": "pain moyen"
+},
+"pangrattato": {
+"de": "Paniermehl",
+"en": "breadcrumbs",
+"es": "pan rallado",
+"fr": "chapelure"
+},
+"panna da cucina": {
+"de": "Kochsahne",
+"en": "cooking cream",
+"es": "nata para cocinar",
+"fr": "crème de cuisine"
+},
+"panna da montare": {
+"de": "Schlagsahne",
+"en": "whipping cream",
+"es": "nata para montar",
+"fr": "crème à fouetter"
+},
+"panna fresca": {
+"de": "frische Sahne",
+"en": "fresh cream",
+"es": "nata fresca",
+"fr": "crème fraîche liquide"
+},
+"paprika": {
+"de": "Paprika",
+"en": "paprika",
+"es": "pimentón",
+"fr": "paprika"
+},
+"parmigiano": {
+"de": "Parmesan",
+"en": "parmesan cheese",
+"es": "queso parmesano",
+"fr": "parmesan"
+},
+"parmigiano grattugiato": {
+"de": "geriebener Parmesan",
+"en": "grated parmesan",
+"es": "parmesano rallado",
+"fr": "parmesan râpé"
+},
+"parmigiano reggiano": {
+"de": "Parmigiano Reggiano",
+"en": "Parmigiano Reggiano",
+"es": "Parmigiano Reggiano",
+"fr": "Parmigiano Reggiano"
+},
+"parmigiano reggiano dop": {
+"de": "Parmigiano Reggiano DOP",
+"en": "Parmigiano Reggiano DOP",
+"es": "Parmigiano Reggiano DOP",
+"fr": "Parmigiano Reggiano DOP"
+},
+"parmigiano reggiano grattugiato finemente": {
+"de": "fein geriebener Parmigiano Reggiano",
+"en": "finely grated Parmigiano Reggiano",
+"es": "Parmigiano Reggiano rallado fino",
+"fr": "Parmigiano Reggiano finement râpé"
+},
+"passata di pomodoro": {
+"de": "Tomatenpüree",
+"en": "tomato puree",
+"es": "puré de tomate",
+"fr": "purée de tomates"
+},
+"pasta di tahina": {
+"de": "Tahini-Paste",
+"en": "tahini paste",
+"es": "pasta de tahini",
+"fr": "pâte de tahini"
+},
+"patata": {
+"de": "Kartoffel",
+"en": "potato",
+"es": "patata",
+"fr": "pomme de terre"
+},
+"patata dolce": {
+"de": "Süßkartoffel",
+"en": "sweet potato",
+"es": "batata",
+"fr": "patate douce"
+},
+"patata sbucciata cruda": {
+"de": "rohe geschälte Kartoffel",
+"en": "raw peeled potato",
+"es": "patata cruda pelada",
+"fr": "pomme de terre crue épluchée"
+},
+"patate": {
+"de": "Kartoffeln",
+"en": "potatoes",
+"es": "patatas",
+"fr": "pommes de terre"
+},
+"patate a fette": {
+"de": "Kartoffeln, in Scheiben",
+"en": "sliced potatoes",
+"es": "patatas en rodajas",
+"fr": "pommes de terre en tranches"
+},
+"patate a tocchetti": {
+"de": "Kartoffeln, in Stücken",
+"en": "chunked potatoes",
+"es": "patatas en trozos",
+"fr": "pommes de terre en morceaux"
+},
+"patate bianche": {
+"de": "weiße Kartoffeln",
+"en": "white potatoes",
+"es": "patatas blancas",
+"fr": "pommes de terre blanches"
+},
+"patate dolci": {
+"de": "Süßkartoffeln",
+"en": "sweet potatoes",
+"es": "batatas",
+"fr": "patates douces"
+},
+"patate dolci o 2 patate americane": {
+"de": "Süßkartoffeln oder Yamswurzeln",
+"en": "sweet potatoes or yams",
+"es": "batatas o boniatos",
+"fr": "patates douces ou ignames américaines"
+},
+"patate novelle": {
+"de": "neue Kartoffeln",
+"en": "new potatoes",
+"es": "patatas nuevas",
+"fr": "pommes de terre nouvelles"
+},
+"patate novelle piccole": {
+"de": "kleine Frühkartoffeln",
+"en": "baby new potatoes",
+"es": "patatas nuevas pequeñas",
+"fr": "petites pommes de terre nouvelles"
+},
+"patate, e": {
+"de": "Kartoffeln",
+"en": "potatoes",
+"es": "patatas",
+"fr": "pommes de terre"
+},
+"patate, facoltative": {
+"de": "Kartoffeln, optional",
+"en": "potatoes, optional",
+"es": "patatas, opcional",
+"fr": "pommes de terre, facultatif"
+},
+"pepe": {
+"de": "Pfeffer",
+"en": "pepper",
+"es": "pimienta",
+"fr": "poivre"
+},
+"pepe bianco": {
+"de": "weißer Pfeffer",
+"en": "white pepper",
+"es": "pimienta blanca",
+"fr": "poivre blanc"
+},
+"pepe di Cayenna": {
+"de": "Cayennepfeffer",
+"en": "cayenne pepper",
+"es": "pimienta de cayena",
+"fr": "poivre de Cayenne"
+},
+"pepe di Cayenna (q.b.)": {
+"de": "Cayennepfeffer (nach Geschmack)",
+"en": "cayenne pepper (to taste)",
+"es": "pimienta de cayena (al gusto)",
+"fr": "poivre de Cayenne (selon le goût)"
+},
+"pepe di Cayenna, q.b.": {
+"de": "Cayennepfeffer nach Geschmack",
+"en": "cayenne pepper, to taste",
+"es": "pimienta de cayena, al gusto",
+"fr": "poivre de Cayenne, selon le goût"
+},
+"pepe fresco macinato": {
+"de": "frisch gemahlener Pfeffer",
+"en": "fresh ground pepper",
+"es": "pimienta recién molida",
+"fr": "poivre fraîchement moulu"
+},
+"pepe macinato": {
+"de": "gemahlener Pfeffer",
+"en": "ground pepper",
+"es": "pimienta molida",
+"fr": "poivre moulu"
+},
+"pepe nero": {
+"de": "schwarzer Pfeffer",
+"en": "black pepper",
+"es": "pimienta negra",
+"fr": "poivre noir"
+},
+"pepe nero fresco macinato": {
+"de": "frisch gemahlener schwarzer Pfeffer",
+"en": "freshly ground black pepper",
+"es": "pimienta negra recién molida",
+"fr": "poivre noir fraîchement moulu"
+},
+"pepe nero fresco macinato grossolanamente": {
+"de": "frisch grob gemahlener schwarzer Pfeffer",
+"en": "fresh coarsely ground black pepper",
+"es": "pimienta negra recién molida gruesa",
+"fr": "poivre noir fraîchement moulu grossièrement"
+},
+"pepe nero macinato": {
+"de": "gemahlener schwarzer Pfeffer",
+"en": "ground black pepper",
+"es": "pimienta negra molida",
+"fr": "poivre noir moulu"
+},
+"pepe nero, q.b.": {
+"de": "schwarzer Pfeffer nach Geschmack",
+"en": "black pepper, to taste",
+"es": "pimienta negra, al gusto",
+"fr": "poivre noir, selon le goût"
+},
+"pepe, q.b.": {
+"de": "Pfeffer, nach Geschmack",
+"en": "pepper, to taste",
+"es": "pimienta, al gusto",
+"fr": "poivre, selon le goût"
+},
+"peperoncino": {
+"de": "Chilischote",
+"en": "chili pepper",
+"es": "chile",
+"fr": "piment"
+},
+"peperoncino in polvere": {
+"de": "Chilipulver",
+"en": "chili powder",
+"es": "chile en polvo",
+"fr": "piment en poudre"
+},
+"peperoncino piccante": {
+"de": "scharfe Chilischote",
+"en": "hot chili pepper",
+"es": "chile picante",
+"fr": "piment fort"
+},
+"peperoncino piccante rosso": {
+"de": "scharfe rote Chilischote",
+"en": "red hot chili pepper",
+"es": "guindilla roja picante",
+"fr": "piment rouge fort"
+},
+"peperoncino rosso macinato": {
+"de": "gemahlener roter Pfeffer",
+"en": "ground red pepper",
+"es": "pimiento rojo molido",
+"fr": "piment rouge moulu"
+},
+"peperone rosso": {
+"de": "rote Paprika",
+"en": "red pepper",
+"es": "pimiento rojo",
+"fr": "poivron rouge"
+},
+"peperone rosso tagliato a listarelle": {
+"de": "rote Paprika, in Streifen geschnitten",
+"en": "red bell pepper, cut into strips",
+"es": "pimiento rojo cortado en tiras",
+"fr": "poivron rouge coupé en lanières"
+},
+"peperone verde": {
+"de": "grüne Paprika",
+"en": "green pepper",
+"es": "pimiento verde",
+"fr": "poivron vert"
+},
+"peperone verde giallo rosso crudo": {
+"de": "rohe grüne, gelbe und rote Paprika",
+"en": "raw green, yellow and red bell pepper",
+"es": "pimiento verde, amarillo y rojo crudo",
+"fr": "poivron vert, jaune et rouge cru"
+},
+"peperone verde tritato": {
+"de": "grüne Paprika, gehackt",
+"en": "chopped green pepper",
+"es": "pimiento verde picado",
+"fr": "poivron vert haché"
+},
+"peperone verde, finemente": {
+"de": "grüne Paprika, fein gehackt",
+"en": "finely chopped green pepper",
+"es": "pimiento verde picado fino",
+"fr": "poivron vert finement haché"
+},
+"peperoni rossi": {
+"de": "rote Paprika",
+"en": "red peppers",
+"es": "pimientos rojos",
+"fr": "poivrons rouges"
+},
+"pesche sciroppate leggere, scolate": {
+"de": "Pfirsiche in leichtem Sirup, abgetropft",
+"en": "peaches in light syrup, drained",
+"es": "melocotones en almíbar ligero escurridos",
+"fr": "pêches au sirop léger égouttées"
+},
+"petti di pollo (da disossare)": {
+"de": "Hähnchenbrust, entbeint",
+"en": "chicken breasts, deboned",
+"es": "pechugas de pollo, deshuesadas",
+"fr": "blancs de poulet, désossés"
+},
+"petti di pollo disossati": {
+"de": "Hähnchenbrustfilets ohne Knochen",
+"en": "boneless chicken breasts",
+"es": "pechugas de pollo deshuesadas",
+"fr": "blancs de poulet désossés"
+},
+"petti di pollo disossati e senza pelle": {
+"de": "Hähnchenbrustfilets ohne Knochen und Haut",
+"en": "boneless skinless chicken breasts",
+"es": "pechugas de pollo deshuesadas y sin piel",
+"fr": "blancs de poulet sans os et sans peau"
+},
+"petto di pollo": {
+"de": "Hähnchenbrust",
+"en": "chicken breast",
+"es": "pechuga de pollo",
+"fr": "blanc de poulet"
+},
+"petto di pollo cotto": {
+"de": "gekochte Hähnchenbrust",
+"en": "cooked chicken breast",
+"es": "pechuga de pollo cocida",
+"fr": "poitrine de poulet cuite"
+},
+"petto di pollo disossato e senza pelle": {
+"de": "Hähnchenbrustfilet ohne Knochen und Haut",
+"en": "boneless skinless chicken breast",
+"es": "pechuga de pollo deshuesada y sin piel",
+"fr": "blanc de poulet sans os et sans peau"
+},
+"petto di tacchino": {
+"de": "Putenbrust",
+"en": "turkey breast",
+"es": "pechuga de pavo",
+"fr": "blanc de dinde"
+},
+"pezzetti di noce": {
+"de": "Walnussstücke",
+"en": "walnut pieces",
+"es": "trocitos de nuez",
+"fr": "morceaux de noix"
+},
+"piselli crudi": {
+"de": "rohe Erbsen",
+"en": "raw peas",
+"es": "guisantes crudos",
+"fr": "petits pois crus"
+},
+"piselli freschi": {
+"de": "frische Erbsen",
+"en": "fresh peas",
+"es": "guisantes frescos",
+"fr": "petits pois frais"
+},
+"piselli, cotti": {
+"de": "Erbsen, gekocht",
+"en": "peas, cooked",
+"es": "guisantes cocidos",
+"fr": "petits pois cuits"
+},
+"pistacchi tritati": {
+"de": "gehackte Pistazien",
+"en": "chopped pistachios",
+"es": "pistachos picados",
+"fr": "pistaches hachées"
+},
+"pollo coscia": {
+"de": "Hähnchenschenkel",
+"en": "chicken thigh",
+"es": "muslo de pollo",
+"fr": "cuisse de poulet"
+},
+"pollo cotto": {
+"de": "gekochtes Hähnchen",
+"en": "cooked chicken",
+"es": "pollo cocido",
+"fr": "poulet cuit"
+},
+"pollo cotto (tritato o sfilacciato)": {
+"de": "gekochtes Hähnchen (gehackt oder zerpflückt)",
+"en": "cooked chicken (chopped or shredded)",
+"es": "pollo cocido (picado o desmenuzado)",
+"fr": "poulet cuit (haché ou effiloché)"
+},
+"pollo cotto, sfilacciato": {
+"de": "gekochtes Hähnchen, zerpflückt",
+"en": "cooked chicken, shredded",
+"es": "pollo cocido desmenuzado",
+"fr": "poulet cuit effiloché"
+},
+"pollo petto crudo": {
+"de": "Hähnchenbrust, roh",
+"en": "raw chicken breast",
+"es": "pechuga de pollo cruda",
+"fr": "blanc de poulet cru"
+},
+"pollo, lessato (o altro pollo già cotto)": {
+"de": "pochiertes Hähnchen (oder anderes gegartes Hähnchen)",
+"en": "poached chicken (or other cooked chicken)",
+"es": "pollo hervido (u otro pollo cocido)",
+"fr": "poulet poché (ou autre poulet cuit)"
+},
+"polpo crudo": {
+"de": "roher Oktopus",
+"en": "raw octopus",
+"es": "pulpo crudo",
+"fr": "poulpe cru"
+},
+"pomodori a cubetti con peperoncini verdi": {
+"de": "Tomatenwürfel mit grünen Chilis",
+"en": "diced tomatoes and green chilies",
+"es": "tomates en cubos y chiles verdes",
+"fr": "tomates en dés et piments verts"
+},
+"pomodori maturi": {
+"de": "reife Tomaten",
+"en": "ripe tomatoes",
+"es": "tomates maduros",
+"fr": "tomates mûres"
+},
+"pomodori san marzano maturi": {
+"de": "reife San-Marzano-Tomaten",
+"en": "ripe San Marzano tomatoes",
+"es": "tomates San Marzano maduros",
+"fr": "tomates San Marzano mûres"
+},
+"pomodorini": {
+"de": "Kirschtomaten",
+"en": "cherry tomatoes",
+"es": "tomates cherry",
+"fr": "tomates cerises"
+},
+"pomodoro crudo medio": {
+"de": "mittelgroße Tomate, roh",
+"en": "raw medium tomato",
+"es": "tomate crudo mediano",
+"fr": "tomate crue moyenne"
+},
+"popcorn": {
+"de": "Popcorn",
+"en": "popcorn",
+"es": "palomitas de maíz",
+"fr": "pop-corn"
+},
+"porri": {
+"de": "Lauch",
+"en": "leeks",
+"es": "puerros",
+"fr": "poireaux"
+},
+"prezzemolo": {
+"de": "Petersilie",
+"en": "parsley",
+"es": "perejil",
+"fr": "persil"
+},
+"prezzemolo fresco": {
+"de": "frische Petersilie",
+"en": "fresh parsley",
+"es": "perejil fresco",
+"fr": "persil frais"
+},
+"prezzemolo fresco tritato": {
+"de": "frische Petersilie, gehackt",
+"en": "fresh chopped parsley",
+"es": "perejil fresco picado",
+"fr": "persil frais haché"
+},
+"prezzemolo fresco tritato finemente": {
+"de": "frische Petersilie, fein gehackt",
+"en": "finely chopped fresh parsley",
+"es": "perejil fresco finamente picado",
+"fr": "persil frais finement haché"
+},
+"prezzemolo fresco, tritato": {
+"de": "frische Petersilie, gehackt",
+"en": "fresh parsley, chopped",
+"es": "perejil fresco picado",
+"fr": "persil frais haché"
+},
+"prezzemolo fresco, tritato finemente": {
+"de": "frische Petersilie, fein gehackt",
+"en": "fresh parsley, finely chopped",
+"es": "perejil fresco finamente picado",
+"fr": "persil frais finement haché"
+},
+"prezzemolo secco": {
+"de": "getrocknete Petersilie",
+"en": "dried parsley",
+"es": "perejil seco",
+"fr": "persil séché"
+},
+"prezzemolo tritato": {
+"de": "Petersilie, gehackt",
+"en": "chopped parsley",
+"es": "perejil picado",
+"fr": "persil haché"
+},
+"prosciutto affumicato a pezzetti": {
+"de": "geräucherter Schinken, gehackt",
+"en": "smoked ham, chopped",
+"es": "jamón ahumado picado",
+"fr": "jambon fumé haché"
+},
+"prosciutto cotto": {
+"de": "gekochter Schinken",
+"en": "cooked ham",
+"es": "jamón cocido",
+"fr": "jambon cuit"
+},
+"prosciutto crudo": {
+"de": "Rohschinken",
+"en": "prosciutto crudo",
+"es": "jamón crudo",
+"fr": "jambon cru"
+},
+"prosciutto magro a dadini": {
+"de": "Schinken, mager, gewürfelt",
+"en": "lean ham, diced",
+"es": "jamón magro en dados",
+"fr": "jambon maigre en dés"
+},
+"quinoa": {
+"de": "Quinoa",
+"en": "quinoa",
+"es": "quinoa",
+"fr": "quinoa"
+},
+"rafano": {
+"de": "Meerrettich",
+"en": "horseradish",
+"es": "rábano picante",
+"fr": "raifort"
+},
+"rape (una manciata ciascuna)": {
+"de": "Rüben",
+"en": "turnips",
+"es": "nabos",
+"fr": "navets"
+},
+"ravanelli": {
+"de": "Radieschen",
+"en": "radishes",
+"es": "rábanos",
+"fr": "radis"
+},
+"ricotta": {
+"de": "Ricotta",
+"en": "ricotta",
+"es": "ricotta",
+"fr": "ricotta"
+},
+"riso (io uso il basmati)": {
+"de": "Reis (ich verwende Basmati)",
+"en": "rice (I use basmati)",
+"es": "arroz (yo uso basmati)",
+"fr": "riz (j'utilise du basmati)"
+},
+"riso bianco": {
+"de": "weißer Reis",
+"en": "white rice",
+"es": "arroz blanco",
+"fr": "riz blanc"
+},
+"riso bianco cotto": {
+"de": "gekochter weißer Reis",
+"en": "cooked white rice",
+"es": "arroz blanco cocido",
+"fr": "riz blanc cuit"
+},
+"riso brillato": {
+"de": "polierter Reis",
+"en": "polished rice",
+"es": "arroz pulido",
+"fr": "riz poli"
+},
+"riso cotto": {
+"de": "gekochter Reis",
+"en": "cooked rice",
+"es": "arroz cocido",
+"fr": "riz cuit"
+},
+"riso integrale": {
+"de": "Vollkornreis",
+"en": "brown rice",
+"es": "arroz integral",
+"fr": "riz complet"
+},
+"riso integrale (qualsiasi tipo)": {
+"de": "Naturreis (beliebige Sorte)",
+"en": "brown rice (any)",
+"es": "arroz integral (de cualquier tipo)",
+"fr": "riz complet (tout type)"
+},
+"riso integrale cotto": {
+"de": "gekochter Naturreis",
+"en": "cooked brown rice",
+"es": "arroz integral cocido",
+"fr": "riz complet cuit"
+},
+"riso per risotto": {
+"de": "Risottoreis",
+"en": "risotto rice",
+"es": "arroz para risotto",
+"fr": "riz à risotto"
+},
+"rognone vitello crudo": {
+"de": "rohe Kalbsniere",
+"en": "raw veal kidney",
+"es": "riñón de ternera crudo",
+"fr": "rognon de veau cru"
+},
+"rosmarino": {
+"de": "Rosmarin",
+"en": "rosemary",
+"es": "romero",
+"fr": "romarin"
+},
+"rosmarino fresco": {
+"de": "frischer Rosmarin",
+"en": "fresh rosemary",
+"es": "romero fresco",
+"fr": "romarin frais"
+},
+"rosmarino secco": {
+"de": "getrockneter Rosmarin",
+"en": "dried rosemary",
+"es": "romero seco",
+"fr": "romarin séché"
+},
+"rosmarino secco, tritato finemente": {
+"de": "getrockneter Rosmarin, fein gehackt",
+"en": "dried rosemary, finely chopped",
+"es": "romero seco, picado fino",
+"fr": "romarin sec, finement haché"
+},
+"rosmarino tritato finemente": {
+"de": "Rosmarin, fein gehackt",
+"en": "finely chopped rosemary",
+"es": "romero finamente picado",
+"fr": "romarin finement haché"
+},
+"rosmarino, spogliato dai rametti e tritato": {
+"de": "Rosmarin, Nadeln abgezupft und gehackt",
+"en": "rosemary, leaves removed and minced",
+"es": "romero, deshojado y picado",
+"fr": "romarin, effeuillé et haché"
+},
+"rucola": {
+"de": "Rucola",
+"en": "arugula",
+"es": "rúcula",
+"fr": "roquette"
+},
+"salame a fette": {
+"de": "Salami in Scheiben",
+"en": "sliced salami",
+"es": "salami en lonchas",
+"fr": "salami en tranches"
+},
+"sale": {
+"de": "Salz",
+"en": "salt",
+"es": "sal",
+"fr": "sel"
+},
+"sale e pepe": {
+"de": "Salz und Pfeffer",
+"en": "salt and pepper",
+"es": "sal y pimienta",
+"fr": "sel et poivre"
+},
+"sale e pepe nero": {
+"de": "Salz und schwarzer Pfeffer",
+"en": "salt and black pepper",
+"es": "sal y pimienta negra",
+"fr": "sel et poivre noir"
+},
+"sale e pepe nero, q.b.": {
+"de": "Salz und schwarzer Pfeffer, nach Geschmack",
+"en": "salt and black pepper, to taste",
+"es": "sal y pimienta negra, al gusto",
+"fr": "sel et poivre noir, selon le goût"
+},
+"sale e pepe, q.b.": {
+"de": "Salz und Pfeffer nach Geschmack",
+"en": "salt and pepper, to taste",
+"es": "sal y pimienta, al gusto",
+"fr": "sel et poivre, selon le goût"
+},
+"sale kosher": {
+"de": "koscheres Salz",
+"en": "kosher salt",
+"es": "sal kosher",
+"fr": "sel casher"
+},
+"sale kosher, q.b.": {
+"de": "koscheres Salz, nach Geschmack",
+"en": "kosher salt, to taste",
+"es": "sal kosher, al gusto",
+"fr": "sel casher, selon le goût"
+},
+"sale, q.b.": {
+"de": "Salz, nach Geschmack",
+"en": "salt, to taste",
+"es": "sal, al gusto",
+"fr": "sel, selon le goût"
+},
+"salmone affumicato": {
+"de": "Räucherlachs",
+"en": "smoked salmon",
+"es": "salmón ahumado",
+"fr": "saumon fumé"
+},
+"salmone crudo allevamento": {
+"de": "Zuchtlachs, roh",
+"en": "raw farmed salmon",
+"es": "salmón de piscifactoría crudo",
+"fr": "saumon d'élevage cru"
+},
+"salsa barbecue": {
+"de": "Barbecuesauce",
+"en": "barbecue sauce",
+"es": "salsa barbacoa",
+"fr": "sauce barbecue"
+},
+"salsa di pesce": {
+"de": "Fischsauce",
+"en": "fish sauce",
+"es": "salsa de pescado",
+"fr": "sauce de poisson"
+},
+"salsa di pomodoro": {
+"de": "Tomatensauce",
+"en": "tomato sauce",
+"es": "salsa de tomate",
+"fr": "sauce tomate"
+},
+"salsa di pomodoro in scatola": {
+"de": "Tomatensauce aus der Dose",
+"en": "canned tomato sauce",
+"es": "salsa de tomate en lata",
+"fr": "sauce tomate en conserve"
+},
+"salsa di soia": {
+"de": "Sojasauce",
+"en": "soy sauce",
+"es": "salsa de soja",
+"fr": "sauce soja"
+},
+"salsa di soia a basso contenuto di sodio": {
+"de": "natriumarme Sojasauce",
+"en": "low sodium soy sauce",
+"es": "salsa de soja baja en sodio",
+"fr": "sauce soja pauvre en sodium"
+},
+"salsa worcestershire": {
+"de": "Worcestershiresauce",
+"en": "Worcestershire sauce",
+"es": "salsa Worcestershire",
+"fr": "sauce Worcestershire"
+},
+"salvia fresca": {
+"de": "frischer Salbei",
+"en": "fresh sage",
+"es": "salvia fresca",
+"fr": "sauge fraîche"
+},
+"salvia secca": {
+"de": "getrockneter Salbei",
+"en": "dried sage",
+"es": "salvia seca",
+"fr": "sauge séchée"
+},
+"scalogni tritati": {
+"de": "Schalotten, gehackt",
+"en": "chopped shallots",
+"es": "chalotas picadas",
+"fr": "échalotes hachées"
+},
+"scalogno tritato": {
+"de": "Schalotte, gehackt",
+"en": "chopped shallot",
+"es": "chalota picada",
+"fr": "échalote hachée"
+},
+"sciroppo d'acero": {
+"de": "Ahornsirup",
+"en": "maple syrup",
+"es": "sirope de arce",
+"fr": "sirop d'érable"
+},
+"sciroppo d'acero puro": {
+"de": "reiner Ahornsirup",
+"en": "pure maple syrup",
+"es": "sirope de arce puro",
+"fr": "sirop d'érable pur"
+},
+"sciroppo d'acero senza zucchero": {
+"de": "zuckerfreier Ahornsirup",
+"en": "sugar-free maple syrup",
+"es": "sirope de arce sin azúcar",
+"fr": "sirop d'érable sans sucre"
+},
+"sedano": {
+"de": "Sellerie",
+"en": "celery",
+"es": "apio",
+"fr": "céleri"
+},
+"sedano gambo crudo": {
+"de": "rohe Selleriestange",
+"en": "raw celery stalk",
+"es": "tallo de apio crudo",
+"fr": "branche de céleri crue"
+},
+"sedano tritato": {
+"de": "Sellerie, gehackt",
+"en": "chopped celery",
+"es": "apio picado",
+"fr": "céleri haché"
+},
+"sedano tritato finemente": {
+"de": "Sellerie, fein gehackt",
+"en": "finely minced celery",
+"es": "apio finamente picado",
+"fr": "céleri finement haché"
+},
+"sedano, a dadini": {
+"de": "Sellerie, gewürfelt",
+"en": "celery, diced",
+"es": "apio, en dados",
+"fr": "céleri, en dés"
+},
+"sedano, tritato": {
+"de": "Sellerie, gehackt",
+"en": "celery, chopped",
+"es": "apio, picado",
+"fr": "céleri, haché"
+},
+"semi di cumino": {
+"de": "Kreuzkümmelsamen",
+"en": "cumin seed",
+"es": "semillas de comino",
+"fr": "graines de cumin"
+},
+"semi di girasole": {
+"de": "Sonnenblumenkerne",
+"en": "sunflower seeds",
+"es": "semillas de girasol",
+"fr": "graines de tournesol"
+},
+"semi di girasole non salati": {
+"de": "ungesalzene Sonnenblumenkerne",
+"en": "unsalted sunflower seeds",
+"es": "semillas de girasol sin sal",
+"fr": "graines de tournesol non salées"
+},
+"semi di sesamo": {
+"de": "Sesamsamen",
+"en": "sesame seeds",
+"es": "semillas de sésamo",
+"fr": "graines de sésame"
+},
+"semi di sesamo nero": {
+"de": "schwarze Sesamsamen",
+"en": "black sesame seed",
+"es": "semillas de sésamo negro",
+"fr": "graines de sésame noir"
+},
+"semi di soia": {
+"de": "Sojabohnen",
+"en": "soybeans",
+"es": "semillas de soja",
+"fr": "graines de soja"
+},
+"senape": {
+"de": "Senf",
+"en": "mustard",
+"es": "mostaza",
+"fr": "moutarde"
+},
+"senape di digione": {
+"de": "Dijon-Senf",
+"en": "dijon mustard",
+"es": "mostaza de Dijon",
+"fr": "moutarde de Dijon"
+},
+"senape in polvere": {
+"de": "Senfpulver",
+"en": "ground mustard",
+"es": "mostaza en polvo",
+"fr": "moutarde en poudre"
+},
+"senape secca in polvere": {
+"de": "Senfpulver",
+"en": "dry mustard powder",
+"es": "mostaza seca en polvo",
+"fr": "moutarde sèche en poudre"
+},
+"sgombro crudo": {
+"de": "rohe Makrele",
+"en": "raw mackerel",
+"es": "caballa cruda",
+"fr": "maquereau cru"
+},
+"sogliola comune cruda": {
+"de": "rohe Seezunge",
+"en": "raw common sole",
+"es": "lenguado común crudo",
+"fr": "sole commune crue"
+},
+"speck": {
+"de": "Speck",
+"en": "speck",
+"es": "speck",
+"fr": "speck"
+},
+"speck alto adige igp": {
+"de": "Südtiroler Speck g.g.A.",
+"en": "Alto Adige PGI speck",
+"es": "speck Alto Adige IGP",
+"fr": "speck Alto Adige IGP"
+},
+"spigola mediterranea cruda allevamento": {
+"de": "rohe Wolfsbarsch aus Zucht (Mittelmeer)",
+"en": "raw farmed Mediterranean sea bass",
+"es": "lubina mediterránea cruda de piscifactoría",
+"fr": "bar de Méditerranée cru d'élevage"
+},
+"spinaci": {
+"de": "Spinat",
+"en": "spinach",
+"es": "espinacas",
+"fr": "épinards"
+},
+"spinaci crudi": {
+"de": "Spinat, roh",
+"en": "raw spinach",
+"es": "espinacas crudas",
+"fr": "épinards crus"
+},
+"spinaci freschi": {
+"de": "frischer Spinat",
+"en": "fresh spinach",
+"es": "espinacas frescas",
+"fr": "épinards frais"
+},
+"spinaci surgelati": {
+"de": "tiefgekühlter Spinat",
+"en": "frozen spinach",
+"es": "espinacas congeladas",
+"fr": "épinards surgelés"
+},
+"spray da cucina antiaderente": {
+"de": "Antihaft-Kochspray",
+"en": "cooking spray",
+"es": "spray de cocina antiadherente",
+"fr": "spray de cuisson antiadhésif"
+},
+"succo d'arancia": {
+"de": "Orangensaft",
+"en": "orange juice",
+"es": "zumo de naranja",
+"fr": "jus d'orange"
+},
+"succo d'arancia fresco": {
+"de": "frisch gepresster Orangensaft",
+"en": "fresh orange juice",
+"es": "zumo de naranja fresco",
+"fr": "jus d'orange frais"
+},
+"succo d'arancia, diviso in più parti": {
+"de": "Orangensaft, aufgeteilt",
+"en": "orange juice, divided",
+"es": "zumo de naranja, dividido",
+"fr": "jus d'orange, divisé"
+},
+"succo di lime": {
+"de": "Limettensaft",
+"en": "lime juice",
+"es": "zumo de lima",
+"fr": "jus de citron vert"
+},
+"succo di lime (key lime)": {
+"de": "Limettensaft (Key Lime)",
+"en": "key lime juice",
+"es": "jugo de lima (key lime)",
+"fr": "jus de lime (key lime)"
+},
+"succo di lime fresco": {
+"de": "frischer Limettensaft",
+"en": "fresh lime juice",
+"es": "zumo de lima fresco",
+"fr": "jus de citron vert frais"
+},
+"succo di limone": {
+"de": "Zitronensaft",
+"en": "lemon juice",
+"es": "zumo de limón",
+"fr": "jus de citron"
+},
+"succo di limone fresco": {
+"de": "frischer Zitronensaft",
+"en": "fresh lemon juice",
+"es": "zumo de limón fresco",
+"fr": "jus de citron frais"
+},
+"succo di un limone": {
+"de": "Saft einer Zitrone",
+"en": "juice of a lemon",
+"es": "zumo de un limón",
+"fr": "jus d'un citron"
+},
+"tacchino fesa cruda": {
+"de": "Putenbrust, roh",
+"en": "raw turkey breast",
+"es": "pechuga de pavo cruda",
+"fr": "blanc de dinde cru"
+},
+"tacchino fesa crudo": {
+"de": "rohe Putenbrust",
+"en": "raw turkey breast (fesa)",
+"es": "pechuga de pavo cruda",
+"fr": "blanc de dinde cru"
+},
+"timo": {
+"de": "Thymian",
+"en": "thyme",
+"es": "tomillo",
+"fr": "thym"
+},
+"timo fresco o timo secco, a piacere": {
+"de": "frischer oder getrockneter Thymian nach Geschmack",
+"en": "fresh or dried thyme, to taste",
+"es": "tomillo fresco o seco, al gusto",
+"fr": "thym frais ou séché, selon le goût"
+},
+"timo fresco, tritato": {
+"de": "frischer Thymian, gehackt",
+"en": "fresh thyme, chopped",
+"es": "tomillo fresco picado",
+"fr": "thym frais haché"
+},
+"timo secco": {
+"de": "getrockneter Thymian",
+"en": "dried thyme",
+"es": "tomillo seco",
+"fr": "thym séché"
+},
+"timo tritato": {
+"de": "Thymian, gehackt",
+"en": "thyme, chopped",
+"es": "tomillo picado",
+"fr": "thym haché"
+},
+"tofu": {
+"de": "Tofu",
+"en": "tofu",
+"es": "tofu",
+"fr": "tofu"
+},
+"tonno": {
+"de": "Thunfisch",
+"en": "tuna",
+"es": "atún",
+"fr": "thon"
+},
+"tonno scatola naturale sgocciolato": {
+"de": "Thunfisch im eigenen Saft aus der Dose, abgetropft",
+"en": "canned tuna in water, drained",
+"es": "atún al natural en lata, escurrido",
+"fr": "thon au naturel en conserve, égoutté"
+},
+"tonno sott'olio vegetale, sgocciolato": {
+"de": "Thunfisch in Pflanzenöl, abgetropft",
+"en": "tuna in vegetable oil, drained",
+"es": "atún en aceite vegetal escurrido",
+"fr": "thon à l'huile végétale égoutté"
+},
+"tortilla di mais da farcire": {
+"de": "Maistortilla zum Füllen",
+"en": "corn tortilla for filling",
+"es": "tortilla de maíz para rellenar",
+"fr": "tortilla de maïs à garnir"
+},
+"trota iridea allevamento cruda": {
+"de": "rohe Regenbogenforelle aus Zucht",
+"en": "raw farmed rainbow trout",
+"es": "trucha arcoíris cruda de piscifactoría",
+"fr": "truite arc-en-ciel crue d'élevage"
+},
+"uova": {
+"de": "Eier",
+"en": "eggs",
+"es": "huevos",
+"fr": "œufs"
+},
+"uovo": {
+"de": "Ei",
+"en": "egg",
+"es": "huevo",
+"fr": "œuf"
+},
+"uovo crudo": {
+"de": "Ei, roh",
+"en": "raw egg",
+"es": "huevo crudo",
+"fr": "œuf cru"
+},
+"uovo sodo": {
+"de": "hartgekochtes Ei",
+"en": "hard-boiled egg",
+"es": "huevo duro",
+"fr": "œuf dur"
+},
+"uvetta": {
+"de": "Rosinen",
+"en": "raisins",
+"es": "pasas",
+"fr": "raisins secs"
+},
+"vaniglia": {
+"de": "Vanille",
+"en": "vanilla",
+"es": "vainilla",
+"fr": "vanille"
+},
+"verdure miste surgelate": {
+"de": "Tiefkühl-Gemüsemischung",
+"en": "frozen mixed vegetables",
+"es": "verduras mixtas congeladas",
+"fr": "légumes mélangés surgelés"
+},
+"vermicelli di riso": {
+"de": "Reisvermicelli",
+"en": "rice vermicelli",
+"es": "fideos de arroz",
+"fr": "vermicelles de riz"
+},
+"vino bianco secco": {
+"de": "trockener Weißwein",
+"en": "dry white wine",
+"es": "vino blanco seco",
+"fr": "vin blanc sec"
+},
+"vino madeira": {
+"de": "Madeira-Wein",
+"en": "Madeira wine",
+"es": "vino de Madeira",
+"fr": "vin de Madère"
+},
+"vino rosso": {
+"de": "Rotwein",
+"en": "red wine",
+"es": "vino tinto",
+"fr": "vin rouge"
+},
+"vitello cotoletta cruda": {
+"de": "rohes Kalbskotelett",
+"en": "raw veal cutlet",
+"es": "chuleta de ternera cruda",
+"fr": "escalope de veau crue"
+},
+"vitello geretto ossobuco crudo": {
+"de": "rohe Kalbshaxe (Ossobuco)",
+"en": "raw veal shank (osso buco)",
+"es": "jarrete de ternera crudo (osobuco)",
+"fr": "jarret de veau cru (osso buco)"
+},
+"vitello spalla cruda": {
+"de": "rohe Kalbsschulter",
+"en": "raw veal shoulder",
+"es": "paleta de ternera cruda",
+"fr": "épaule de veau crue"
+},
+"vongola cruda": {
+"de": "rohe Venusmuschel",
+"en": "raw clam",
+"es": "almeja cruda",
+"fr": "palourde crue"
+},
+"vongole": {
+"de": "Venusmuscheln",
+"en": "clams",
+"es": "almejas",
+"fr": "palourdes"
+},
+"wurstel": {
+"de": "Wiener Würstchen",
+"en": "wurstel",
+"es": "salchicha tipo Frankfurt",
+"fr": "saucisse de Francfort"
+},
+"yogurt": {
+"de": "Joghurt",
+"en": "yogurt",
+"es": "yogur",
+"fr": "yaourt"
+},
+"yogurt bianco": {
+"de": "Naturjoghurt",
+"en": "plain yogurt",
+"es": "yogur natural",
+"fr": "yaourt nature"
+},
+"yogurt bianco all'1%": {
+"de": "Naturjoghurt 1 % Fett",
+"en": "plain 1% yogurt",
+"es": "yogur natural al 1 %",
+"fr": "yaourt nature à 1 %"
+},
+"yogurt bianco magro": {
+"de": "fettarmer Naturjoghurt",
+"en": "low-fat plain yogurt",
+"es": "yogur natural bajo en grasa",
+"fr": "yaourt nature allégé"
+},
+"yogurt bianco parzialmente scremato": {
+"de": "fettarmer Naturjoghurt",
+"en": "plain low-fat yogurt",
+"es": "yogur natural semidesnatado",
+"fr": "yaourt nature demi-écrémé"
+},
+"yogurt bianco scremato": {
+"de": "fettarmer Naturjoghurt",
+"en": "nonfat plain yogurt",
+"es": "yogur natural desnatado",
+"fr": "yaourt nature écrémé"
+},
+"yogurt greco": {
+"de": "griechischer Joghurt",
+"en": "Greek yogurt",
+"es": "yogur griego",
+"fr": "yaourt grec"
+},
+"yogurt greco magro": {
+"de": "fettarmer griechischer Joghurt",
+"en": "low-fat greek yogurt",
+"es": "yogur griego bajo en grasa",
+"fr": "yaourt grec allégé"
+},
+"zafferano": {
+"de": "Safran",
+"en": "saffron",
+"es": "azafrán",
+"fr": "safran"
+},
+"zenzero": {
+"de": "Ingwer",
+"en": "ginger",
+"es": "jengibre",
+"fr": "gingembre"
+},
+"zenzero fresco grattugiato": {
+"de": "frischer Ingwer, gerieben",
+"en": "fresh ginger, grated",
+"es": "jengibre fresco rallado",
+"fr": "gingembre frais râpé"
+},
+"zenzero macinato": {
+"de": "gemahlener Ingwer",
+"en": "ground ginger",
+"es": "jengibre molido",
+"fr": "gingembre moulu"
+},
+"zucca in scatola": {
+"de": "Kürbis aus der Dose",
+"en": "canned pumpkin",
+"es": "calabaza en conserva",
+"fr": "citrouille en conserve"
+},
+"zucchero bianco": {
+"de": "weißer Zucker",
+"en": "white sugar",
+"es": "azúcar blanco",
+"fr": "sucre blanc"
+},
+"zucchero di canna": {
+"de": "brauner Zucker",
+"en": "brown sugar",
+"es": "azúcar moreno",
+"fr": "sucre roux"
+},
+"zucchero di canna ben pressato": {
+"de": "brauner Zucker, fest eingedrückt",
+"en": "packed brown sugar",
+"es": "azúcar moreno compactado",
+"fr": "sucre roux tassé"
+},
+"zucchero di canna, ben pressato": {
+"de": "brauner Zucker, fest eingedrückt",
+"en": "brown sugar, packed",
+"es": "azúcar moreno compactado",
+"fr": "sucre roux bien tassé"
+},
+"zucchine crude": {
+"de": "Zucchini, roh",
+"en": "raw zucchini",
+"es": "calabacines crudos",
+"fr": "courgettes crues"
+}
+}
