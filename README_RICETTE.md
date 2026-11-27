@@ -83,3 +83,17 @@ scritte singolarmente (`ricette_reali.py`, `ricette_reali2.py`,
 (`tipo_pasto`/`cucina`/`tipo_dieta`/`prompt_immagine`) applicato in fase
 di merge finale. Dettaglio delle decisioni prese in `DECISIONI.md` nel
 repo principale, blocco "Ricette — scoperta".
+
+## Portoghese brasiliano (27 novembre 2026)
+
+Tutte le 444 ricette hanno `nome_pt`, `procedimento_pt` (stesso numero di passi dell'originale) e `nome_pt` su ogni
+ingrediente. Traduzione da inglese (fonte principale) e italiano da 18 agenti in parallelo (lotti da 25 ricette), con
+controllo automatico di ingredienti/passi e dei numeri (tempi, temperature, quantita': identici all'inglese, quindi le
+unita' imperiali delle ricette Food.com restano in °F/quarts/once come nell'originale). **Prima versione non rivista da un
+madrelingua.** Fonte delle traduzioni: `ricette_traduzioni_pt.json`; si applicano con
+`python3 -I unisci_traduzioni_ricette_pt.py ricette_scoperta.json ricette_traduzioni_pt.json`.
+
+Incoerenze GIA' presenti nel catalogo originale, emerse durante la traduzione (non corrette qui): ricetta 333 "Beer-braised
+beef" senza birra tra gli ingredienti; 337 "Grilled mackerel" con salmone; 254 "Turkey breast" con pollo; 265/266 con note
+"usato al posto di..."; ricetta 204 e' una ricetta per capelli; in diverse ricette il campo `en` degli ingredienti contiene
+in realta' testo italiano; "speck Alto Adige IGP" tradotto "bacon/ham" nei passi inglesi.
