@@ -68,8 +68,8 @@ Regole (stesse delle altre fonti, con un adattamento):
   assente: sui 4 campi obbligatori la voce e' **scartata**, nessun valore
   indovinato;
 - lettere di nota a margine ("20a") ignorate;
-- nomi **in portoghese** (lingua nativa): niente `nome_it/en/fr/es/de`. L'app
-  mostra il nome portoghese quando la traduzione manca;
+- nomi: `nome` e' il **portoghese nativo** della TACO (mai sovrascritto);
+  `nome_en/it/fr/es/de` sono traduzioni (vedi "Traduzioni" sotto);
 - duplicati per nome: nessuno.
 
 **Totale: 590 alimenti** su 597 della TACO. Scartate 7 voci senza dati
@@ -78,8 +78,24 @@ Leite de vaca integral (458), Cana aguardente (472), Sal dietético (516),
 Sal grosso (517), Coco verde cru (591). Il latte intero resta fuori finche'
 il NEPA non pubblica i valori rivalutati.
 
+## Traduzioni (27 novembre 2026)
+
+Regola standard del progetto (DECISIONI.md, 19-20 agosto 2026): ogni banca dati ha i
+nomi in tutte le lingue dell'app. I 590 nomi sono tradotti in **EN, IT, FR, ES, DE** da
+agenti in batch paralleli (2 lotti da ~295 voci), con vocabolario fisso per gli stati di
+preparazione (cru/cozido/assado/frito/grelhado...) e struttura "alimento, variante,
+preparazione" invariata. I piatti e frutti tipicamente brasiliani senza equivalente
+(acarajé, feijoada, farofa, açaí, cupuaçu, pequi, jabuticaba, quindim, vatapá...) restano
+col nome originale. **Qualita': prima versione non rivista da un madrelingua**; i tagli di
+carne e alcuni pesci sono equivalenze orientative. Il portoghese e' `nome`.
+
+- `taco_traduzioni.json`: traduzioni per `food_code` (fonte delle traduzioni);
+- `unisci_traduzioni_taco.py`: le aggiunge a `taco_2011.json` (controlla che nessuna voce
+  ne sia senza).
+
 ## Aggiornamento
 
 `pdftotext -layout taco_4_edicao_ampliada_e_revisada.pdf taco.txt` e poi
-`python3 -I converti_taco.py taco.txt taco_2011.json`. Se il NEPA pubblicasse
+`python3 -I converti_taco.py taco.txt taco_2011.json` e poi
+`python3 -I unisci_traduzioni_taco.py taco_2011.json taco_traduzioni.json`. Se il NEPA pubblicasse
 una nuova edizione o un file di dati, rifare la verifica sopra.
