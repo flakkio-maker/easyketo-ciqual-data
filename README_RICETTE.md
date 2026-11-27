@@ -112,3 +112,13 @@ Altre verifiche fatte sul catalogo: titolo vs ingredienti (parole chiave di prot
 ingrediente vs voce del database per le ricette originali: nessun'altra incoerenza di sostanza. Nota residua: in diverse
 ricette il campo `nome` degli ingredienti e' in italiano (ricette originali); le traduzioni EN/FR/ES/DE di questi
 ingredienti mancano (vedi DECISIONI.md dell'app).
+
+## Nomi ingrediente in tutte le lingue (27 novembre 2026)
+
+Prima solo 5 ingredienti su 2.141 avevano `nome_en/fr/es/de` (le altre lingue ripiegavano sul nome originale: inglese per
+le ricette Food.com, italiano per le ricette originali). Ora tutti gli ingredienti hanno `nome_en`, `nome_fr`, `nome_es`,
+`nome_de` (e `nome_pt`): 520 nomi italiani unici tradotti da 5 agenti, applicati a tutti gli ingredienti che li usano.
+Fonte: `ingredienti_traduzioni.json` (chiave = `nome_it`); script `unisci_traduzioni_ingredienti.py` (non sovrascrive i
+campi gia' presenti). Frammenti rotti dell'originale ("potatoes, and") sono stati resi come ingrediente sensato; le
+quantita' tra parentesi nei nomi sono state tolte nelle traduzioni. Prima versione non rivista da un madrelingua.
+
