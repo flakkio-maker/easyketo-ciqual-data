@@ -8,7 +8,7 @@ matchato uno per uno contro CIQUAL/CREA con un matcher testuale a soglia di
 confidenza (nessun uso di IA/Gemini per il matching), e i grammi sono
 sempre quantità reali dichiarate (mai stimate).
 
-## Fonti combinate (446 ricette al 26 agosto 2026)
+## Fonti combinate (446 ricette al 26 agosto 2026 (443 dopo le correzioni del 27 novembre 2026))
 
 | Fonte (`fonte`) | N. ricette | Licenza | Note |
 |---|---|---|---|
@@ -88,12 +88,27 @@ repo principale, blocco "Ricette — scoperta".
 
 Tutte le 444 ricette hanno `nome_pt`, `procedimento_pt` (stesso numero di passi dell'originale) e `nome_pt` su ogni
 ingrediente. Traduzione da inglese (fonte principale) e italiano da 18 agenti in parallelo (lotti da 25 ricette), con
-controllo automatico di ingredienti/passi e dei numeri (tempi, temperature, quantita': identici all'inglese, quindi le
-unita' imperiali delle ricette Food.com restano in °F/quarts/once come nell'originale). **Prima versione non rivista da un
-madrelingua.** Fonte delle traduzioni: `ricette_traduzioni_pt.json`; si applicano con
+controllo automatico di ingredienti/passi e dei numeri. **Correzione (27 novembre 2026)**: la prima versione era stata
+tradotta dall'inglese e conservava le unita' americane; 86 passi in 64 ricette sono stati rifatti partendo dall'italiano,
+che ha gia' unita' metriche (g, litri, cm) e doppia temperatura "190°C (375°F)": ora il portoghese ha gli stessi numeri
+dell'italiano in ogni passo (controllato su tutti i 2.431 passi). **Prima versione non rivista da un madrelingua.** Fonte delle traduzioni: `ricette_traduzioni_pt.json`; si applicano con
 `python3 -I unisci_traduzioni_ricette_pt.py ricette_scoperta.json ricette_traduzioni_pt.json`.
 
-Incoerenze GIA' presenti nel catalogo originale, emerse durante la traduzione (non corrette qui): ricetta 333 "Beer-braised
-beef" senza birra tra gli ingredienti; 337 "Grilled mackerel" con salmone; 254 "Turkey breast" con pollo; 265/266 con note
-"usato al posto di..."; ricetta 204 e' una ricetta per capelli; in diverse ricette il campo `en` degli ingredienti contiene
-in realta' testo italiano; "speck Alto Adige IGP" tradotto "bacon/ham" nei passi inglesi.
+## Correzioni del 27 novembre 2026
+
+Ricette con ingredienti che non corrispondevano al titolo, corrette con `correzioni_ricette_20261127.py` (macro per porzione
+ricalcolati dai database CIQUAL/CREA; verifica: lo stesso calcolo riproduce esattamente i valori precedenti; tag dieta non toccati):
+
+| Ricetta | Problema | Correzione |
+|---|---|---|
+| 333 Manzo brasato alla birra | nessuna birra | +200 g di birra chiara (CREA), brodo da 300 a 100 g, passo 5 in 6 lingue |
+| 337 Sgombro alla griglia | l'ingrediente era salmone | sgombro (CREA "Sgombro o maccarello") |
+| 266 Sgombro al limone | salmone + nota "in sostituzione" | sgombro, nota tolta |
+| 254 Petto di tacchino con funghi | petto di pollo | fesa di tacchino (CREA), passi aggiornati |
+| 265 Fesa di tacchino con spinaci | pollo + nota "in sostituzione" | fesa di tacchino, nota tolta |
+| 204 Milky Way Shine Treatment | trattamento per capelli, non cibo | rimossa dal catalogo (443 ricette) |
+
+Altre verifiche fatte sul catalogo: titolo vs ingredienti (parole chiave di proteine, verdure, formaggi, ecc.) e nome
+ingrediente vs voce del database per le ricette originali: nessun'altra incoerenza di sostanza. Nota residua: in diverse
+ricette il campo `nome` degli ingredienti e' in italiano (ricette originali); le traduzioni EN/FR/ES/DE di questi
+ingredienti mancano (vedi DECISIONI.md dell'app).
