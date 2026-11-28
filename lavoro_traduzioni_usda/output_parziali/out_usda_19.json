@@ -1,0 +1,352 @@
+{
+ "5364": {
+  "it": "Omelette o uova strapazzate, con pomodori, grassi non specificati",
+  "fr": "Omelette ou œufs brouillés, avec tomates, matières grasses non précisées",
+  "es": "Tortilla u huevos revueltos, con tomates, grasa no especificada",
+  "de": "Omelett oder Rührei mit Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com tomates, gordura não especificada"
+ },
+ "5365": {
+  "it": "Omelette o uova strapazzate, con verdure diverse da quelle a foglia verde scuro e/o pomodori, con grassi aggiunti",
+  "fr": "Omelette ou œufs brouillés, avec légumes autres que les légumes à feuilles vert foncé et/ou tomates, avec matières grasses ajoutées",
+  "es": "Tortilla u huevos revueltos, con verduras distintas de las de hoja verde oscuro y/o tomates, con grasa añadida",
+  "de": "Omelett oder Rührei mit anderem Gemüse als dunkelgrünem Blattgemüse und/oder Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com vegetais que não sejam folhas verde-escuras e/ou tomates, com gordura adicionada"
+ },
+ "5366": {
+  "it": "Omelette o uova strapazzate, con verdure diverse da quelle a foglia verde scuro e/o pomodori, senza grassi aggiunti",
+  "fr": "Omelette ou œufs brouillés, avec légumes autres que les légumes à feuilles vert foncé et/ou tomates, sans matières grasses ajoutées",
+  "es": "Tortilla u huevos revueltos, con verduras distintas de las de hoja verde oscuro y/o tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei mit anderem Gemüse als dunkelgrünem Blattgemüse und/oder Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com vegetais que não sejam folhas verde-escuras e/ou tomates, sem gordura adicionada"
+ },
+ "5367": {
+  "it": "Omelette o uova strapazzate, con verdure diverse da quelle a foglia verde scuro e/o pomodori, grassi non specificati",
+  "fr": "Omelette ou œufs brouillés, avec légumes autres que les légumes à feuilles vert foncé et/ou tomates, matières grasses non précisées",
+  "es": "Tortilla u huevos revueltos, con verduras distintas de las de hoja verde oscuro y/o tomates, grasa no especificada",
+  "de": "Omelett oder Rührei mit anderem Gemüse als dunkelgrünem Blattgemüse und/oder Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com vegetais que não sejam folhas verde-escuras e/ou tomates, gordura não especificada"
+ },
+ "5368": {
+  "it": "Involtino primavera all'uovo, senza carne",
+  "fr": "Rouleau impérial aux œufs, sans viande",
+  "es": "Rollito de huevo, sin carne",
+  "de": "Eier-Frühlingsrolle, ohne Fleisch",
+  "pt": "Rolinho primavera de ovo, sem carne"
+ },
+ "5369": {
+  "it": "Involtino primavera all'uovo, con manzo e/o maiale",
+  "fr": "Rouleau impérial aux œufs, avec bœuf et/ou porc",
+  "es": "Rollito de huevo, con carne de res y/o cerdo",
+  "de": "Eier-Frühlingsrolle mit Rind und/oder Schweinefleisch",
+  "pt": "Rolinho primavera de ovo, com carne bovina e/ou suína"
+ },
+ "5370": {
+  "it": "Involtino primavera all'uovo, con pollo o tacchino",
+  "fr": "Rouleau impérial aux œufs, avec poulet ou dinde",
+  "es": "Rollito de huevo, con pollo o pavo",
+  "de": "Eier-Frühlingsrolle mit Hähnchen oder Pute",
+  "pt": "Rolinho primavera de ovo, com frango ou peru"
+ },
+ "5371": {
+  "it": "Involtino primavera all'uovo, con gamberi",
+  "fr": "Rouleau impérial aux œufs, avec crevettes",
+  "es": "Rollito de huevo, con camarones",
+  "de": "Eier-Frühlingsrolle mit Garnelen",
+  "pt": "Rolinho primavera de ovo, com camarão"
+ },
+ "5372": {
+  "it": "Involtini primavera con pollo, refrigerati, riscaldati",
+  "fr": "Rouleaux impériaux au poulet, réfrigérés, réchauffés",
+  "es": "Rollitos primavera de pollo, refrigerados, calentados",
+  "de": "Frühlingsrollen mit Hähnchen, gekühlt, erhitzt",
+  "pt": "Rolinhos primavera de frango, refrigerados, aquecidos"
+ },
+ "5373": {
+  "it": "Involtini primavera con maiale, refrigerati, riscaldati",
+  "fr": "Rouleaux impériaux au porc, réfrigérés, réchauffés",
+  "es": "Rollitos primavera de cerdo, refrigerados, calentados",
+  "de": "Frühlingsrollen mit Schweinefleisch, gekühlt, erhitzt",
+  "pt": "Rolinhos primavera de carne suína, refrigerados, aquecidos"
+ },
+ "5374": {
+  "it": "Involtini primavera alle verdure, surgelati, preparati",
+  "fr": "Rouleaux impériaux aux légumes, surgelés, préparés",
+  "es": "Rollitos primavera de verduras, congelados, preparados",
+  "de": "Gemüse-Frühlingsrollen, tiefgekühlt, zubereitet",
+  "pt": "Rolinhos primavera de vegetais, congelados, preparados"
+ },
+ "5375": {
+  "it": "Panino con insalata di uova su pane integrale",
+  "fr": "Sandwich à la salade d'œufs sur pain complet",
+  "es": "Sándwich de ensalada de huevo en pan integral",
+  "de": "Eiersalat-Sandwich auf Vollkornbrot",
+  "pt": "Sanduíche de salada de ovos em pão integral"
+ },
+ "5376": {
+  "it": "Panino con insalata di uova su pane bianco",
+  "fr": "Sandwich à la salade d'œufs sur pain blanc",
+  "es": "Sándwich de ensalada de huevo en pan blanco",
+  "de": "Eiersalat-Sandwich auf Weißbrot",
+  "pt": "Sanduíche de salada de ovos em pão branco"
+ },
+ "5377": {
+  "it": "Insalata di uova, preparata con condimento senza grassi",
+  "fr": "Salade d'œufs, préparée avec une sauce sans matières grasses",
+  "es": "Ensalada de huevo, preparada con aderezo sin grasa",
+  "de": "Eiersalat, mit fettfreiem Dressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho sem gordura"
+ },
+ "5378": {
+  "it": "Insalata di uova, preparata con condimento cremoso",
+  "fr": "Salade d'œufs, préparée avec une sauce crémeuse",
+  "es": "Ensalada de huevo, preparada con aderezo cremoso",
+  "de": "Eiersalat, mit cremigem Dressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho cremoso"
+ },
+ "5379": {
+  "it": "Insalata di uova, preparata con condimento italiano",
+  "fr": "Salade d'œufs, préparée avec une sauce italienne",
+  "es": "Ensalada de huevo, preparada con aderezo italiano",
+  "de": "Eiersalat, mit italienischem Dressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho italiano"
+ },
+ "5380": {
+  "it": "Insalata di uova, preparata con condimento cremoso leggero",
+  "fr": "Salade d'œufs, préparée avec une sauce crémeuse allégée",
+  "es": "Ensalada de huevo, preparada con aderezo cremoso ligero",
+  "de": "Eiersalat, mit leichtem cremigem Dressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho cremoso light"
+ },
+ "5381": {
+  "it": "Insalata di uova, preparata con condimento italiano leggero",
+  "fr": "Salade d'œufs, préparée avec une sauce italienne allégée",
+  "es": "Ensalada de huevo, preparada con aderezo italiano ligero",
+  "de": "Eiersalat, mit leichtem italienischem Dressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho italiano light"
+ },
+ "5382": {
+  "it": "Insalata di uova, preparata con maionese leggera",
+  "fr": "Salade d'œufs, préparée avec de la mayonnaise allégée",
+  "es": "Ensalada de huevo, preparada con mayonesa ligera",
+  "de": "Eiersalat, mit leichter Mayonnaise zubereitet",
+  "pt": "Salada de ovos, preparada com maionese light"
+ },
+ "5383": {
+  "it": "Insalata di uova, preparata con condimento per insalata tipo maionese leggero",
+  "fr": "Salade d'œufs, préparée avec une sauce à salade légère de type mayonnaise",
+  "es": "Ensalada de huevo, preparada con aderezo ligero para ensalada tipo mayonesa",
+  "de": "Eiersalat, mit leichtem mayonnaiseartigem Salatdressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho para salada tipo maionese light"
+ },
+ "5384": {
+  "it": "Insalata di uova, preparata con maionese",
+  "fr": "Salade d'œufs, préparée avec de la mayonnaise",
+  "es": "Ensalada de huevo, preparada con mayonesa",
+  "de": "Eiersalat, mit Mayonnaise zubereitet",
+  "pt": "Salada de ovos, preparada com maionese"
+ },
+ "5385": {
+  "it": "Insalata di uova, preparata con condimento per insalata tipo maionese",
+  "fr": "Salade d'œufs, préparée avec une sauce à salade de type mayonnaise",
+  "es": "Ensalada de huevo, preparada con aderezo para ensalada tipo mayonesa",
+  "de": "Eiersalat, mit mayonnaiseartigem Salatdressing zubereitet",
+  "pt": "Salada de ovos, preparada com molho para salada tipo maionese"
+ },
+ "5386": {
+  "it": "Panino con uovo su bagel",
+  "fr": "Sandwich aux œufs dans un bagel",
+  "es": "Sándwich de huevo en bagel",
+  "de": "Ei-Sandwich im Bagel",
+  "pt": "Sanduíche de ovo no bagel"
+ },
+ "5387": {
+  "it": "Panino con uovo su bagel, con pancetta",
+  "fr": "Sandwich aux œufs dans un bagel, avec bacon",
+  "es": "Sándwich de huevo en bagel, con beicon",
+  "de": "Ei-Sandwich im Bagel mit Speck",
+  "pt": "Sanduíche de ovo no bagel, com bacon"
+ },
+ "5388": {
+  "it": "Panino con uovo su bagel, con prosciutto",
+  "fr": "Sandwich aux œufs dans un bagel, avec jambon",
+  "es": "Sándwich de huevo en bagel, con jamón",
+  "de": "Ei-Sandwich im Bagel mit Schinken",
+  "pt": "Sanduíche de ovo no bagel, com presunto"
+ },
+ "5389": {
+  "it": "Panino con uovo su bagel, con salsiccia",
+  "fr": "Sandwich aux œufs dans un bagel, avec saucisse",
+  "es": "Sándwich de huevo en bagel, con salchicha",
+  "de": "Ei-Sandwich im Bagel mit Wurst",
+  "pt": "Sanduíche de ovo no bagel, com salsicha"
+ },
+ "5390": {
+  "it": "Panino con uovo su biscotto salato tipo biscuit",
+  "fr": "Sandwich aux œufs dans un biscuit américain",
+  "es": "Sándwich de huevo en panecillo tipo biscuit",
+  "de": "Ei-Sandwich auf amerikanischem Biscuit-Brötchen",
+  "pt": "Sanduíche de ovo em pão tipo biscuit americano"
+ },
+ "5391": {
+  "it": "Panino con uovo su biscotto salato tipo biscuit, con pancetta",
+  "fr": "Sandwich aux œufs dans un biscuit américain, avec bacon",
+  "es": "Sándwich de huevo en panecillo tipo biscuit, con beicon",
+  "de": "Ei-Sandwich auf amerikanischem Biscuit-Brötchen mit Speck",
+  "pt": "Sanduíche de ovo em pão tipo biscuit americano, com bacon"
+ },
+ "5392": {
+  "it": "Panino con uovo su biscotto salato tipo biscuit, con pancetta e formaggio",
+  "fr": "Sandwich aux œufs dans un biscuit américain, avec bacon et fromage",
+  "es": "Sándwich de huevo en panecillo tipo biscuit, con beicon y queso",
+  "de": "Ei-Sandwich auf amerikanischem Biscuit-Brötchen mit Speck und Käse",
+  "pt": "Sanduíche de ovo em pão tipo biscuit americano, com bacon e queijo"
+ },
+ "5393": {
+  "it": "Panino con uovo su biscotto salato tipo biscuit, con salsiccia",
+  "fr": "Sandwich aux œufs dans un biscuit américain, avec saucisse",
+  "es": "Sándwich de huevo en panecillo tipo biscuit, con salchicha",
+  "de": "Ei-Sandwich auf amerikanischem Biscuit-Brötchen mit Wurst",
+  "pt": "Sanduíche de ovo em pão tipo biscuit americano, com salsicha"
+ },
+ "5394": {
+  "it": "Panino con uovo su biscotto salato tipo biscuit, con salsiccia e formaggio",
+  "fr": "Sandwich aux œufs dans un biscuit américain, avec saucisse et fromage",
+  "es": "Sándwich de huevo en panecillo tipo biscuit, con salchicha y queso",
+  "de": "Ei-Sandwich auf amerikanischem Biscuit-Brötchen mit Wurst und Käse",
+  "pt": "Sanduíche de ovo em pão tipo biscuit americano, com salsicha e queijo"
+ },
+ "5395": {
+  "it": "Panino con uovo su croissant",
+  "fr": "Sandwich aux œufs dans un croissant",
+  "es": "Sándwich de huevo en croissant",
+  "de": "Ei-Sandwich im Croissant",
+  "pt": "Sanduíche de ovo no croissant"
+ },
+ "5396": {
+  "it": "Panino con uovo su croissant, con pancetta",
+  "fr": "Sandwich aux œufs dans un croissant, avec bacon",
+  "es": "Sándwich de huevo en croissant, con beicon",
+  "de": "Ei-Sandwich im Croissant mit Speck",
+  "pt": "Sanduíche de ovo no croissant, com bacon"
+ },
+ "5397": {
+  "it": "Panino con uovo su croissant, con prosciutto",
+  "fr": "Sandwich aux œufs dans un croissant, avec jambon",
+  "es": "Sándwich de huevo en croissant, con jamón",
+  "de": "Ei-Sandwich im Croissant mit Schinken",
+  "pt": "Sanduíche de ovo no croissant, com presunto"
+ },
+ "5398": {
+  "it": "Panino con uovo su croissant, con salsiccia",
+  "fr": "Sandwich aux œufs dans un croissant, avec saucisse",
+  "es": "Sándwich de huevo en croissant, con salchicha",
+  "de": "Ei-Sandwich im Croissant mit Wurst",
+  "pt": "Sanduíche de ovo no croissant, com salsicha"
+ },
+ "5399": {
+  "it": "Panino con uovo su muffin inglese",
+  "fr": "Sandwich aux œufs dans un muffin anglais",
+  "es": "Sándwich de huevo en muffin inglés",
+  "de": "Ei-Sandwich im English Muffin",
+  "pt": "Sanduíche de ovo no muffin inglês"
+ },
+ "5400": {
+  "it": "Panino con uovo su muffin inglese, con pancetta",
+  "fr": "Sandwich aux œufs dans un muffin anglais, avec bacon",
+  "es": "Sándwich de huevo en muffin inglés, con beicon",
+  "de": "Ei-Sandwich im English Muffin mit Speck",
+  "pt": "Sanduíche de ovo no muffin inglês, com bacon"
+ },
+ "5401": {
+  "it": "Panino con uovo su muffin inglese, con prosciutto",
+  "fr": "Sandwich aux œufs dans un muffin anglais, avec jambon",
+  "es": "Sándwich de huevo en muffin inglés, con jamón",
+  "de": "Ei-Sandwich im English Muffin mit Schinken",
+  "pt": "Sanduíche de ovo no muffin inglês, com presunto"
+ },
+ "5402": {
+  "it": "Panino con uovo su muffin inglese, con salsiccia",
+  "fr": "Sandwich aux œufs dans un muffin anglais, avec saucisse",
+  "es": "Sándwich de huevo en muffin inglés, con salchicha",
+  "de": "Ei-Sandwich im English Muffin mit Wurst",
+  "pt": "Sanduíche de ovo no muffin inglês, com salsicha"
+ },
+ "5403": {
+  "it": "Panino con uovo su pancake",
+  "fr": "Sandwich aux œufs dans un pancake",
+  "es": "Sándwich de huevo en pancake",
+  "de": "Ei-Sandwich auf Pancake",
+  "pt": "Sanduíche de ovo em panqueca"
+ },
+ "5404": {
+  "it": "Panino con uovo su pancake, con carne",
+  "fr": "Sandwich aux œufs dans un pancake, avec viande",
+  "es": "Sándwich de huevo en pancake, con carne",
+  "de": "Ei-Sandwich auf Pancake mit Fleisch",
+  "pt": "Sanduíche de ovo em panqueca, com carne"
+ },
+ "5405": {
+  "it": "Panino con uovo su pane integrale",
+  "fr": "Sandwich aux œufs sur pain complet",
+  "es": "Sándwich de huevo en pan integral",
+  "de": "Ei-Sandwich auf Vollkornbrot",
+  "pt": "Sanduíche de ovo em pão integral"
+ },
+ "5406": {
+  "it": "Panino con uovo su pane integrale, con formaggio",
+  "fr": "Sandwich aux œufs sur pain complet, avec fromage",
+  "es": "Sándwich de huevo en pan integral, con queso",
+  "de": "Ei-Sandwich auf Vollkornbrot mit Käse",
+  "pt": "Sanduíche de ovo em pão integral, com queijo"
+ },
+ "5407": {
+  "it": "Panino con uovo su pane integrale, con carne",
+  "fr": "Sandwich aux œufs sur pain complet, avec viande",
+  "es": "Sándwich de huevo en pan integral, con carne",
+  "de": "Ei-Sandwich auf Vollkornbrot mit Fleisch",
+  "pt": "Sanduíche de ovo em pão integral, com carne"
+ },
+ "5408": {
+  "it": "Panino con uovo su pane integrale, con carne e formaggio",
+  "fr": "Sandwich aux œufs sur pain complet, avec viande et fromage",
+  "es": "Sándwich de huevo en pan integral, con carne y queso",
+  "de": "Ei-Sandwich auf Vollkornbrot mit Fleisch und Käse",
+  "pt": "Sanduíche de ovo em pão integral, com carne e queijo"
+ },
+ "5409": {
+  "it": "Panino con uovo su pane bianco",
+  "fr": "Sandwich aux œufs sur pain blanc",
+  "es": "Sándwich de huevo en pan blanco",
+  "de": "Ei-Sandwich auf Weißbrot",
+  "pt": "Sanduíche de ovo em pão branco"
+ },
+ "5410": {
+  "it": "Panino con uovo su pane bianco, con formaggio",
+  "fr": "Sandwich aux œufs sur pain blanc, avec fromage",
+  "es": "Sándwich de huevo en pan blanco, con queso",
+  "de": "Ei-Sandwich auf Weißbrot mit Käse",
+  "pt": "Sanduíche de ovo em pão branco, com queijo"
+ },
+ "5411": {
+  "it": "Panino con uovo su pane bianco, con carne",
+  "fr": "Sandwich aux œufs sur pain blanc, avec viande",
+  "es": "Sándwich de huevo en pan blanco, con carne",
+  "de": "Ei-Sandwich auf Weißbrot mit Fleisch",
+  "pt": "Sanduíche de ovo em pão branco, com carne"
+ },
+ "5412": {
+  "it": "Panino con uovo su pane bianco, con carne e formaggio",
+  "fr": "Sandwich aux œufs sur pain blanc, avec viande et fromage",
+  "es": "Sándwich de huevo en pan blanco, con carne y queso",
+  "de": "Ei-Sandwich auf Weißbrot mit Fleisch und Käse",
+  "pt": "Sanduíche de ovo em pão branco, com carne e queijo"
+ },
+ "5413": {
+  "it": "Sostituto dell'uovo, liquido o surgelato, senza grassi",
+  "fr": "Substitut d'œuf, liquide ou surgelé, sans matières grasses",
+  "es": "Sustituto de huevo, líquido o congelado, sin grasa",
+  "de": "Eiersatz, flüssig oder tiefgekühlt, fettfrei",
+  "pt": "Substituto de ovo, líquido ou congelado, sem gordura"
+ }
+}
