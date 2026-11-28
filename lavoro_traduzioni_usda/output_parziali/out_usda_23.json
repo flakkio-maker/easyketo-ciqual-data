@@ -698,5 +698,691 @@
   "es": "Hamburguesa, de cafetería escolar",
   "de": "Hamburger, aus der Schulkantine",
   "pt": "Hambúrguer, de cantina escolar"
+ },
+ "6756": {
+  "it": "Hamburger, non specificato",
+  "fr": "Hamburger, non précisé",
+  "es": "Hamburguesa, no especificada",
+  "de": "Hamburger, nicht näher bezeichnet",
+  "pt": "Hambúrguer, não especificado"
+ },
+ "6757": {
+  "it": "Hamburger, su panino integrale, 1 hamburger grande",
+  "fr": "Hamburger, sur pain complet, 1 gros steak haché",
+  "es": "Hamburguesa, en pan integral, 1 carne grande",
+  "de": "Hamburger, auf Vollkornbrötchen, 1 großes Patty",
+  "pt": "Hambúrguer, em pão integral, 1 hambúrguer grande"
+ },
+ "6758": {
+  "it": "Hamburger, su panino integrale, 1 hamburger medio",
+  "fr": "Hamburger, sur pain complet, 1 steak haché moyen",
+  "es": "Hamburguesa, en pan integral, 1 carne mediana",
+  "de": "Hamburger, auf Vollkornbrötchen, 1 mittelgroßes Patty",
+  "pt": "Hambúrguer, em pão integral, 1 hambúrguer médio"
+ },
+ "6759": {
+  "it": "Hamburger, su panino integrale, 1 hamburger piccolo",
+  "fr": "Hamburger, sur pain complet, 1 petit steak haché",
+  "es": "Hamburguesa, en pan integral, 1 carne pequeña",
+  "de": "Hamburger, auf Vollkornbrötchen, 1 kleines Patty",
+  "pt": "Hambúrguer, em pão integral, 1 hambúrguer pequeno"
+ },
+ "6760": {
+  "it": "Hamburger, su panino bianco, 1 hamburger grande",
+  "fr": "Hamburger, sur pain blanc, 1 gros steak haché",
+  "es": "Hamburguesa, en pan blanco, 1 carne grande",
+  "de": "Hamburger, auf Weißbrötchen, 1 großes Patty",
+  "pt": "Hambúrguer, em pão branco, 1 hambúrguer grande"
+ },
+ "6761": {
+  "it": "Hamburger, su panino bianco, 1 hamburger medio",
+  "fr": "Hamburger, sur pain blanc, 1 steak haché moyen",
+  "es": "Hamburguesa, en pan blanco, 1 carne mediana",
+  "de": "Hamburger, auf Weißbrötchen, 1 mittelgroßes Patty",
+  "pt": "Hambúrguer, em pão branco, 1 hambúrguer médio"
+ },
+ "6762": {
+  "it": "Hamburger, su panino bianco, 1 hamburger piccolo",
+  "fr": "Hamburger, sur pain blanc, 1 petit steak haché",
+  "es": "Hamburguesa, en pan blanco, 1 carne pequeña",
+  "de": "Hamburger, auf Weißbrötchen, 1 kleines Patty",
+  "pt": "Hambúrguer, em pão branco, 1 hambúrguer pequeno"
+ },
+ "6763": {
+  "it": "Sidro alcolico",
+  "fr": "Cidre alcoolisé",
+  "es": "Sidra alcohólica",
+  "de": "Alkoholischer Apfelwein",
+  "pt": "Sidra alcoólica"
+ },
+ "6764": {
+  "it": "Hard seltzer",
+  "fr": "Hard seltzer",
+  "es": "Hard seltzer",
+  "de": "Hard Seltzer",
+  "pt": "Hard seltzer"
+ },
+ "6765": {
+  "it": "Hash, tipo di carne non specificato",
+  "fr": "Hachis, type de viande non précisé",
+  "es": "Hash, tipo de carne no especificado",
+  "de": "Hash, Fleischart nicht angegeben",
+  "pt": "Hash, tipo de carne não especificado"
+ },
+ "6766": {
+  "it": "Haupia",
+  "fr": "Haupia",
+  "es": "Haupia",
+  "de": "Haupia",
+  "pt": "Haupia"
+ },
+ "6767": {
+  "it": "Hayacas, stile portoricano",
+  "fr": "Hayacas, à la portoricaine",
+  "es": "Hayacas, al estilo puertorriqueño",
+  "de": "Hayacas nach puerto-ricanischer Art",
+  "pt": "Hayacas, ao estilo porto-riquenho"
+ },
+ "6768": {
+  "it": "Nocciole",
+  "fr": "Noisettes",
+  "es": "Avellanas",
+  "de": "Haselnüsse",
+  "pt": "Avelãs"
+ },
+ "6769": {
+  "it": "Nocciole beaked (popoli indigeni delle Northern Plains)",
+  "fr": "Noisettes beaked (peuples autochtones des Northern Plains)",
+  "es": "Avellanas beaked (pueblos indígenas de las Northern Plains)",
+  "de": "Beaked-Haselnüsse (indigene Völker der Northern Plains)",
+  "pt": "Avelãs beaked (povos indígenas das Northern Plains)"
+ },
+ "6770": {
+  "it": "Formaggio di testa",
+  "fr": "Fromage de tête",
+  "es": "Queso de cabeza",
+  "de": "Presskopf",
+  "pt": "Queijo de cabeça"
+ },
+ "6771": {
+  "it": "Formaggio di testa, maiale",
+  "fr": "Fromage de tête, porc",
+  "es": "Queso de cabeza, cerdo",
+  "de": "Presskopf, Schwein",
+  "pt": "Queijo de cabeça, carne suína"
+ },
+ "6772": {
+  "it": "Cuore",
+  "fr": "Cœur",
+  "es": "Corazón",
+  "de": "Herz",
+  "pt": "Coração"
+ },
+ "6773": {
+  "it": "Cuori di palma, in scatola",
+  "fr": "Cœurs de palmier, en conserve",
+  "es": "Palmitos, en conserva",
+  "de": "Palmherzen, aus der Dose",
+  "pt": "Palmito, enlatado"
+ },
+ "6774": {
+  "it": "Cuori di palma, crudi",
+  "fr": "Cœurs de palmier, crus",
+  "es": "Palmitos, crudos",
+  "de": "Palmherzen, roh",
+  "pt": "Palmito, cru"
+ },
+ "6775": {
+  "it": "Heinz, Weight Watchers, éclair al cioccolato, surgelato",
+  "fr": "Heinz, Weight Watchers, éclair au chocolat, surgelé",
+  "es": "Heinz, Weight Watchers, éclair de chocolate, congelado",
+  "de": "Heinz, Weight Watchers, Schokoladen-Eclair, tiefgekühlt",
+  "pt": "Heinz, Weight Watchers, éclair de chocolate, congelado"
+ },
+ "6776": {
+  "it": "Stomaci di maiale",
+  "fr": "Mâchoires de porc",
+  "es": "Panzas de cerdo",
+  "de": "Schweinemägen",
+  "pt": "Buchos de porco"
+ },
+ "6777": {
+  "it": "Salsa hoisin",
+  "fr": "Sauce hoisin",
+  "es": "Salsa hoisin",
+  "de": "Hoisinsauce",
+  "pt": "Molho hoisin"
+ },
+ "6778": {
+  "it": "Salsa olandese",
+  "fr": "Sauce hollandaise",
+  "es": "Salsa holandesa",
+  "de": "Sauce Hollandaise",
+  "pt": "Molho holandês"
+ },
+ "6779": {
+  "it": "Hominy, in scatola, bianco",
+  "fr": "Maïs hominy, en conserve, blanc",
+  "es": "Maíz hominy, en conserva, blanco",
+  "de": "Hominy, aus der Dose, weiß",
+  "pt": "Canjica de milho, enlatada, branca"
+ },
+ "6780": {
+  "it": "Hominy, in scatola, giallo",
+  "fr": "Maïs hominy, en conserve, jaune",
+  "es": "Maíz hominy, en conserva, amarillo",
+  "de": "Hominy, aus der Dose, gelb",
+  "pt": "Canjica de milho, enlatada, amarela"
+ },
+ "6781": {
+  "it": "Hominy, cotto",
+  "fr": "Maïs hominy, cuit",
+  "es": "Maíz hominy, cocido",
+  "de": "Hominy, gegart",
+  "pt": "Canjica de milho, cozida"
+ },
+ "6782": {
+  "it": "Miele",
+  "fr": "Miel",
+  "es": "Miel",
+  "de": "Honig",
+  "pt": "Mel"
+ },
+ "6783": {
+  "it": "Burro al miele",
+  "fr": "Beurre au miel",
+  "es": "Mantequilla con miel",
+  "de": "Honigbutter",
+  "pt": "Manteiga com mel"
+ },
+ "6784": {
+  "it": "Salsa dip alla senape e miele",
+  "fr": "Sauce dip à la moutarde et au miel",
+  "es": "Salsa para mojar de mostaza y miel",
+  "de": "Honig-Senf-Dip",
+  "pt": "Molho para mergulhar de mostarda e mel"
+ },
+ "6785": {
+  "it": "Condimento alla senape e miele",
+  "fr": "Sauce à salade à la moutarde et au miel",
+  "es": "Aderezo de mostaza y miel",
+  "de": "Honig-Senf-Dressing",
+  "pt": "Molho para salada de mostarda e mel"
+ },
+ "6786": {
+  "it": "Condimento alla senape e miele, senza grassi",
+  "fr": "Sauce à salade à la moutarde et au miel, sans matières grasses",
+  "es": "Aderezo de mostaza y miel, sin grasa",
+  "de": "Honig-Senf-Dressing, fettfrei",
+  "pt": "Molho para salada de mostarda e mel, sem gordura"
+ },
+ "6787": {
+  "it": "Condimento alla senape e miele, leggero",
+  "fr": "Sauce à salade à la moutarde et au miel, légère",
+  "es": "Aderezo de mostaza y miel, ligero",
+  "de": "Honig-Senf-Dressing, leicht",
+  "pt": "Molho para salada de mostarda e mel, light"
+ },
+ "6788": {
+  "it": "Salsiccia arrotolata al miele, manzo",
+  "fr": "Saucisse roulée au miel, bœuf",
+  "es": "Salchicha enrollada con miel, carne de res",
+  "de": "Honig-Rollwurst, Rindfleisch",
+  "pt": "Linguiça enrolada com mel, carne bovina"
+ },
+ "6789": {
+  "it": "Melone honeydew, crudo",
+  "fr": "Melon honeydew, cru",
+  "es": "Melón honeydew, crudo",
+  "de": "Honigmelone, roh",
+  "pt": "Melão honeydew, cru"
+ },
+ "6790": {
+  "it": "Horchata, preparata con latte",
+  "fr": "Horchata, préparée avec du lait",
+  "es": "Horchata, preparada con leche",
+  "de": "Horchata, mit Milch zubereitet",
+  "pt": "Horchata, preparada com leite"
+ },
+ "6791": {
+  "it": "Horchata, preparata con acqua",
+  "fr": "Horchata, préparée avec de l'eau",
+  "es": "Horchata, preparada con agua",
+  "de": "Horchata, mit Wasser zubereitet",
+  "pt": "Horchata, preparada com água"
+ },
+ "6792": {
+  "it": "HORMEL ALWAYS TENDER, lonza di maiale disossata, carne fresca",
+  "fr": "HORMEL ALWAYS TENDER, longe de porc désossée, porc frais",
+  "es": "HORMEL ALWAYS TENDER, lomo de cerdo deshuesado, carne de cerdo fresca",
+  "de": "HORMEL ALWAYS TENDER, Schweinelende ohne Knochen, frisches Schweinefleisch",
+  "pt": "HORMEL ALWAYS TENDER, lombo suíno sem osso, carne suína fresca"
+ },
+ "6793": {
+  "it": "HORMEL ALWAYS TENDER, braciole taglio centrale, carne fresca di maiale",
+  "fr": "HORMEL ALWAYS TENDER, côtelettes coupe centrale, porc frais",
+  "es": "HORMEL ALWAYS TENDER, chuletas de corte central, carne de cerdo fresca",
+  "de": "HORMEL ALWAYS TENDER, Koteletts aus der Mitte, frisches Schweinefleisch",
+  "pt": "HORMEL ALWAYS TENDER, costeletas do corte central, carne suína fresca"
+ },
+ "6794": {
+  "it": "HORMEL ALWAYS TENDER, filetti di lonza di maiale, aromatizzati al limone e aglio",
+  "fr": "HORMEL ALWAYS TENDER, filets de longe de porc, saveur citron et ail",
+  "es": "HORMEL ALWAYS TENDER, filetes de lomo de cerdo, sabor limón y ajo",
+  "de": "HORMEL ALWAYS TENDER, Schweinelendenfilets, Zitronen-Knoblauch-Geschmack",
+  "pt": "HORMEL ALWAYS TENDER, filés de lombo suíno, sabor limão e alho"
+ },
+ "6795": {
+  "it": "HORMEL ALWAYS TENDER, filetto di maiale, aromatizzato al pepe",
+  "fr": "HORMEL ALWAYS TENDER, filet de porc, saveur poivre",
+  "es": "HORMEL ALWAYS TENDER, solomillo de cerdo, sabor pimienta",
+  "de": "HORMEL ALWAYS TENDER, Schweinefilet, Pfeffergeschmack",
+  "pt": "HORMEL ALWAYS TENDER, filé mignon suíno, sabor pimenta"
+ },
+ "6796": {
+  "it": "HORMEL ALWAYS TENDER, filetto di maiale, aromatizzato teriyaki",
+  "fr": "HORMEL ALWAYS TENDER, filet de porc, saveur teriyaki",
+  "es": "HORMEL ALWAYS TENDER, solomillo de cerdo, sabor teriyaki",
+  "de": "HORMEL ALWAYS TENDER, Schweinefilet, Teriyaki-Geschmack",
+  "pt": "HORMEL ALWAYS TENDER, filé mignon suíno, sabor teriyaki"
+ },
+ "6797": {
+  "it": "HORMEL, pancetta canadese",
+  "fr": "HORMEL, bacon canadien",
+  "es": "HORMEL, tocino canadiense",
+  "de": "HORMEL, kanadischer Speck",
+  "pt": "HORMEL, bacon canadense"
+ },
+ "6798": {
+  "it": "Hormel Pillow Pak, pepperoni di tacchino affettato",
+  "fr": "Hormel Pillow Pak, pepperoni de dinde en tranches",
+  "es": "Hormel Pillow Pak, pepperoni de pavo en lonchas",
+  "de": "Hormel Pillow Pak, Putensalami in Scheiben",
+  "pt": "Hormel Pillow Pak, pepperoni de peru fatiado"
+ },
+ "6799": {
+  "it": "HORMEL, prosciutto Cure 81",
+  "fr": "HORMEL, jambon Cure 81",
+  "es": "HORMEL, jamón Cure 81",
+  "de": "HORMEL, Schinken Cure 81",
+  "pt": "HORMEL, presunto Cure 81"
+ },
+ "6800": {
+  "it": "Melone cornuto (Kiwano)",
+  "fr": "Melon à cornes (Kiwano)",
+  "es": "Melón africano (Kiwano)",
+  "de": "Hornmelone (Kiwano)",
+  "pt": "Melão-de-chifres (Kiwano)"
+ },
+ "6801": {
+  "it": "Rafano",
+  "fr": "Raifort",
+  "es": "Rábano picante",
+  "de": "Meerrettich",
+  "pt": "Raiz-forte"
+ },
+ "6802": {
+  "it": "Salsa al rafano",
+  "fr": "Sauce au raifort",
+  "es": "Salsa de rábano picante",
+  "de": "Meerrettichsauce",
+  "pt": "Molho de raiz-forte"
+ },
+ "6803": {
+  "it": "Rafano, preparato",
+  "fr": "Raifort, préparé",
+  "es": "Rábano picante, preparado",
+  "de": "Meerrettich, zubereitet",
+  "pt": "Raiz-forte, preparada"
+ },
+ "6804": {
+  "it": "Cioccolata calda/cacao, miscela secca, preparata con latte non lattiero-caseario",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, préparé avec du lait non laitier",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, preparado con leche no láctea",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, mit pflanzlicher Milchalternative zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, preparado com bebida vegetal"
+ },
+ "6805": {
+  "it": "Cioccolata calda/cacao, miscela secca, preparata con latte parzialmente scremato (1%) o scremato",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, préparé avec du lait demi-écrémé (1 %) ou écrémé",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, preparado con leche baja en grasa (1 %) o descremada",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, mit fettarmer (1 %) oder Magermilch zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, preparado com leite semidesnatado (1%) ou desnatado"
+ },
+ "6806": {
+  "it": "Cioccolata calda/cacao, miscela secca, preparata con acqua",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, préparé avec de l'eau",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, preparado con agua",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, mit Wasser zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, preparado com água"
+ },
+ "6807": {
+  "it": "Cioccolata calda/cacao, miscela secca, preparata con acqua, con panna montata",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, préparé avec de l'eau, avec crème fouettée",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, preparado con agua, con crema batida",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, mit Wasser zubereitet, mit Schlagsahne",
+  "pt": "Chocolate quente/cacau, mistura em pó, preparado com água, com chantilly"
+ },
+ "6808": {
+  "it": "Cioccolata calda/cacao, miscela secca, preparata con latte intero o parzialmente scremato (2%)",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, préparé avec du lait entier ou demi-écrémé (2 %)",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, preparado con leche entera o semidescremada (2 %)",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, mit Vollmilch oder fettarmer Milch (2 %) zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, preparado com leite integral ou semidesnatado (2%)"
+ },
+ "6809": {
+  "it": "Cioccolata calda/cacao, miscela secca, a ridotto contenuto di zuccheri, preparata con latte parzialmente scremato (1%) o scremato",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, à teneur réduite en sucres, préparé avec du lait demi-écrémé (1 %) ou écrémé",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, con menos azúcar, preparado con leche baja en grasa (1 %) o descremada",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, zuckerreduziert, mit fettarmer (1 %) oder Magermilch zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, com teor reduzido de açúcar, preparado com leite semidesnatado (1%) ou desnatado"
+ },
+ "6810": {
+  "it": "Cioccolata calda/cacao, miscela secca, a ridotto contenuto di zuccheri, preparata con latte non lattiero-caseario",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, à teneur réduite en sucres, préparé avec du lait non laitier",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, con menos azúcar, preparado con leche no láctea",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, zuckerreduziert, mit pflanzlicher Milchalternative zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, com teor reduzido de açúcar, preparado com bebida vegetal"
+ },
+ "6811": {
+  "it": "Cioccolata calda/cacao, miscela secca, a ridotto contenuto di zuccheri, preparata con acqua",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, à teneur réduite en sucres, préparé avec de l'eau",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, con menos azúcar, preparado con agua",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, zuckerreduziert, mit Wasser zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, com teor reduzido de açúcar, preparado com água"
+ },
+ "6812": {
+  "it": "Cioccolata calda/cacao, miscela secca, a ridotto contenuto di zuccheri, preparata con latte intero o parzialmente scremato (2%)",
+  "fr": "Chocolat chaud/cacao, préparation en poudre, à teneur réduite en sucres, préparé avec du lait entier ou demi-écrémé (2 %)",
+  "es": "Chocolate caliente/cacao, mezcla en polvo, con menos azúcar, preparado con leche entera o semidescremada (2 %)",
+  "de": "Heiße Schokolade/Kakao, Trockenmischung, zuckerreduziert, mit Vollmilch oder fettarmer Milch (2 %) zubereitet",
+  "pt": "Chocolate quente/cacau, mistura em pó, com teor reduzido de açúcar, preparado com leite integral ou semidesnatado (2%)"
+ },
+ "6813": {
+  "it": "Cioccolata calda/cacao, preparata con latte parzialmente scremato (1%) o scremato",
+  "fr": "Chocolat chaud/cacao, préparé avec du lait demi-écrémé (1 %) ou écrémé",
+  "es": "Chocolate caliente/cacao, preparado con leche baja en grasa (1 %) o descremada",
+  "de": "Heiße Schokolade/Kakao, mit fettarmer (1 %) oder Magermilch zubereitet",
+  "pt": "Chocolate quente/cacau, preparado com leite semidesnatado (1%) ou desnatado"
+ },
+ "6814": {
+  "it": "Cioccolata calda/cacao, preparata con latte non lattiero-caseario",
+  "fr": "Chocolat chaud/cacao, préparé avec du lait non laitier",
+  "es": "Chocolate caliente/cacao, preparado con leche no láctea",
+  "de": "Heiße Schokolade/Kakao, mit pflanzlicher Milchalternative zubereitet",
+  "pt": "Chocolate quente/cacau, preparado com bebida vegetal"
+ },
+ "6815": {
+  "it": "Cioccolata calda/cacao, preparata con latte intero o parzialmente scremato (2%)",
+  "fr": "Chocolat chaud/cacao, préparé avec du lait entier ou demi-écrémé (2 %)",
+  "es": "Chocolate caliente/cacao, preparado con leche entera o semidescremada (2 %)",
+  "de": "Heiße Schokolade/Kakao, mit Vollmilch oder fettarmer Milch (2 %) zubereitet",
+  "pt": "Chocolate quente/cacau, preparado com leite integral ou semidesnatado (2%)"
+ },
+ "6816": {
+  "it": "Cioccolata calda/cacao, non specificato",
+  "fr": "Chocolat chaud/cacao, non précisé",
+  "es": "Chocolate caliente/cacao, no especificado",
+  "de": "Heiße Schokolade/Kakao, nicht näher bezeichnet",
+  "pt": "Chocolate quente/cacau, não especificado"
+ },
+ "6817": {
+  "it": "Cioccolata calda/cacao, a ridotto contenuto di zuccheri, preparata con latte parzialmente scremato (1%) o scremato",
+  "fr": "Chocolat chaud/cacao, à teneur réduite en sucres, préparé avec du lait demi-écrémé (1 %) ou écrémé",
+  "es": "Chocolate caliente/cacao, con menos azúcar, preparado con leche baja en grasa (1 %) o descremada",
+  "de": "Heiße Schokolade/Kakao, zuckerreduziert, mit fettarmer (1 %) oder Magermilch zubereitet",
+  "pt": "Chocolate quente/cacau, com teor reduzido de açúcar, preparado com leite semidesnatado (1%) ou desnatado"
+ },
+ "6818": {
+  "it": "Cioccolata calda/cacao, a ridotto contenuto di zuccheri, preparata con latte non lattiero-caseario",
+  "fr": "Chocolat chaud/cacao, à teneur réduite en sucres, préparé avec du lait non laitier",
+  "es": "Chocolate caliente/cacao, con menos azúcar, preparado con leche no láctea",
+  "de": "Heiße Schokolade/Kakao, zuckerreduziert, mit pflanzlicher Milchalternative zubereitet",
+  "pt": "Chocolate quente/cacau, com teor reduzido de açúcar, preparado com bebida vegetal"
+ },
+ "6819": {
+  "it": "Cioccolata calda/cacao, a ridotto contenuto di zuccheri, preparata con latte intero o parzialmente scremato (2%)",
+  "fr": "Chocolat chaud/cacao, à teneur réduite en sucres, préparé avec du lait entier ou demi-écrémé (2 %)",
+  "es": "Chocolate caliente/cacao, con menos azúcar, preparado con leche entera o semidescremada (2 %)",
+  "de": "Heiße Schokolade/Kakao, zuckerreduziert, mit Vollmilch oder fettarmer Milch (2 %) zubereitet",
+  "pt": "Chocolate quente/cacau, com teor reduzido de açúcar, preparado com leite integral ou semidesnatado (2%)"
+ },
+ "6820": {
+  "it": "Cioccolata calda/cacao, con panna montata",
+  "fr": "Chocolat chaud/cacao, avec crème fouettée",
+  "es": "Chocolate caliente/cacao, con crema batida",
+  "de": "Heiße Schokolade/Kakao mit Schlagsahne",
+  "pt": "Chocolate quente/cacau, com chantilly"
+ },
+ "6821": {
+  "it": "Panino con hot dog di manzo su pane integrale",
+  "fr": "Sandwich au hot-dog de bœuf sur pain complet",
+  "es": "Sándwich de hot dog de carne de res en pan integral",
+  "de": "Hotdog-Sandwich mit Rindfleisch auf Vollkornbrot",
+  "pt": "Sanduíche de cachorro-quente de carne bovina em pão integral"
+ },
+ "6822": {
+  "it": "Panino con hot dog di manzo su panino integrale",
+  "fr": "Sandwich au hot-dog de bœuf sur pain à hot-dog complet",
+  "es": "Sándwich de hot dog de carne de res en pan integral para hot dog",
+  "de": "Hotdog-Sandwich mit Rindfleisch auf Vollkorn-Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente de carne bovina em pão integral de hot dog"
+ },
+ "6823": {
+  "it": "Panino con hot dog di manzo su pane bianco",
+  "fr": "Sandwich au hot-dog de bœuf sur pain blanc",
+  "es": "Sándwich de hot dog de carne de res en pan blanco",
+  "de": "Hotdog-Sandwich mit Rindfleisch auf Weißbrot",
+  "pt": "Sanduíche de cachorro-quente de carne bovina em pão branco"
+ },
+ "6824": {
+  "it": "Panino con hot dog di manzo su panino bianco",
+  "fr": "Sandwich au hot-dog de bœuf sur pain à hot-dog blanc",
+  "es": "Sándwich de hot dog de carne de res en pan blanco para hot dog",
+  "de": "Hotdog-Sandwich mit Rindfleisch auf weißem Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente de carne bovina em pão branco de hot dog"
+ },
+ "6825": {
+  "it": "Panino con hot dog di carne e pollame su pane integrale",
+  "fr": "Sandwich au hot-dog de viande et volaille sur pain complet",
+  "es": "Sándwich de hot dog de carne y ave en pan integral",
+  "de": "Hotdog-Sandwich mit Fleisch und Geflügel auf Vollkornbrot",
+  "pt": "Sanduíche de cachorro-quente de carne e aves em pão integral"
+ },
+ "6826": {
+  "it": "Panino con hot dog di carne e pollame su panino integrale",
+  "fr": "Sandwich au hot-dog de viande et volaille sur pain à hot-dog complet",
+  "es": "Sándwich de hot dog de carne y ave en pan integral para hot dog",
+  "de": "Hotdog-Sandwich mit Fleisch und Geflügel auf Vollkorn-Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente de carne e aves em pão integral de hot dog"
+ },
+ "6827": {
+  "it": "Panino con hot dog di carne e pollame su pane bianco",
+  "fr": "Sandwich au hot-dog de viande et volaille sur pain blanc",
+  "es": "Sándwich de hot dog de carne y ave en pan blanco",
+  "de": "Hotdog-Sandwich mit Fleisch und Geflügel auf Weißbrot",
+  "pt": "Sanduíche de cachorro-quente de carne e aves em pão branco"
+ },
+ "6828": {
+  "it": "Panino con hot dog di carne e pollame su panino bianco",
+  "fr": "Sandwich au hot-dog de viande et volaille sur pain à hot-dog blanc",
+  "es": "Sándwich de hot dog de carne y ave en pan blanco para hot dog",
+  "de": "Hotdog-Sandwich mit Fleisch und Geflügel auf weißem Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente de carne e aves em pão branco de hot dog"
+ },
+ "6829": {
+  "it": "Panino con hot dog, non specificato, su pane integrale",
+  "fr": "Sandwich au hot-dog, non précisé, sur pain complet",
+  "es": "Sándwich de hot dog, no especificado, en pan integral",
+  "de": "Hotdog-Sandwich, nicht näher bezeichnet, auf Vollkornbrot",
+  "pt": "Sanduíche de cachorro-quente, não especificado, em pão integral"
+ },
+ "6830": {
+  "it": "Panino con hot dog, non specificato, su panino integrale",
+  "fr": "Sandwich au hot-dog, non précisé, sur pain à hot-dog complet",
+  "es": "Sándwich de hot dog, no especificado, en pan integral para hot dog",
+  "de": "Hotdog-Sandwich, nicht näher bezeichnet, auf Vollkorn-Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente, não especificado, em pão integral de hot dog"
+ },
+ "6831": {
+  "it": "Panino con hot dog, non specificato, su pane bianco",
+  "fr": "Sandwich au hot-dog, non précisé, sur pain blanc",
+  "es": "Sándwich de hot dog, no especificado, en pan blanco",
+  "de": "Hotdog-Sandwich, nicht näher bezeichnet, auf Weißbrot",
+  "pt": "Sanduíche de cachorro-quente, não especificado, em pão branco"
+ },
+ "6832": {
+  "it": "Panino con hot dog, non specificato, su panino bianco",
+  "fr": "Sandwich au hot-dog, non précisé, sur pain à hot-dog blanc",
+  "es": "Sándwich de hot dog, no especificado, en pan blanco para hot dog",
+  "de": "Hotdog-Sandwich, nicht näher bezeichnet, auf weißem Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente, não especificado, em pão branco de hot dog"
+ },
+ "6833": {
+  "it": "Panino con hot dog a ridotto contenuto di grassi su pane integrale",
+  "fr": "Sandwich au hot-dog à teneur réduite en matières grasses sur pain complet",
+  "es": "Sándwich de hot dog reducido en grasa en pan integral",
+  "de": "Hotdog-Sandwich, fettarm, auf Vollkornbrot",
+  "pt": "Sanduíche de cachorro-quente com teor reduzido de gordura em pão integral"
+ },
+ "6834": {
+  "it": "Panino con hot dog a ridotto contenuto di grassi su panino integrale",
+  "fr": "Sandwich au hot-dog à teneur réduite en matières grasses sur pain à hot-dog complet",
+  "es": "Sándwich de hot dog reducido en grasa en pan integral para hot dog",
+  "de": "Hotdog-Sandwich, fettarm, auf Vollkorn-Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente com teor reduzido de gordura em pão integral de hot dog"
+ },
+ "6835": {
+  "it": "Panino con hot dog a ridotto contenuto di grassi su pane bianco",
+  "fr": "Sandwich au hot-dog à teneur réduite en matières grasses sur pain blanc",
+  "es": "Sándwich de hot dog reducido en grasa en pan blanco",
+  "de": "Hotdog-Sandwich, fettarm, auf Weißbrot",
+  "pt": "Sanduíche de cachorro-quente com teor reduzido de gordura em pão branco"
+ },
+ "6836": {
+  "it": "Panino con hot dog a ridotto contenuto di grassi su panino bianco",
+  "fr": "Sandwich au hot-dog à teneur réduite en matières grasses sur pain à hot-dog blanc",
+  "es": "Sándwich de hot dog reducido en grasa en pan blanco para hot dog",
+  "de": "Hotdog-Sandwich, fettarm, auf weißem Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente com teor reduzido de gordura em pão branco de hot dog"
+ },
+ "6837": {
+  "it": "Panino con hot dog di tacchino su pane integrale",
+  "fr": "Sandwich au hot-dog de dinde sur pain complet",
+  "es": "Sándwich de hot dog de pavo en pan integral",
+  "de": "Putendog-Sandwich auf Vollkornbrot",
+  "pt": "Sanduíche de cachorro-quente de peru em pão integral"
+ },
+ "6838": {
+  "it": "Panino con hot dog di tacchino su panino integrale",
+  "fr": "Sandwich au hot-dog de dinde sur pain à hot-dog complet",
+  "es": "Sándwich de hot dog de pavo en pan integral para hot dog",
+  "de": "Putendog-Sandwich auf Vollkorn-Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente de peru em pão integral de hot dog"
+ },
+ "6839": {
+  "it": "Panino con hot dog di tacchino su pane bianco",
+  "fr": "Sandwich au hot-dog de dinde sur pain blanc",
+  "es": "Sándwich de hot dog de pavo en pan blanco",
+  "de": "Putendog-Sandwich auf Weißbrot",
+  "pt": "Sanduíche de cachorro-quente de peru em pão branco"
+ },
+ "6840": {
+  "it": "Panino con hot dog di tacchino su panino bianco",
+  "fr": "Sandwich au hot-dog de dinde sur pain à hot-dog blanc",
+  "es": "Sándwich de hot dog de pavo en pan blanco para hot dog",
+  "de": "Putendog-Sandwich auf weißem Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente de peru em pão branco de hot dog"
+ },
+ "6841": {
+  "it": "Panino con hot dog vegetariano su pane",
+  "fr": "Sandwich au hot-dog végétarien sur pain",
+  "es": "Sándwich de hot dog vegetariano en pan",
+  "de": "Vegetarisches Hotdog-Sandwich auf Brot",
+  "pt": "Sanduíche de cachorro-quente vegetariano em pão"
+ },
+ "6842": {
+  "it": "Panino con hot dog vegetariano su panino",
+  "fr": "Sandwich au hot-dog végétarien sur pain à hot-dog",
+  "es": "Sándwich de hot dog vegetariano en pan para hot dog",
+  "de": "Vegetarisches Hotdog-Sandwich auf Hotdog-Brötchen",
+  "pt": "Sanduíche de cachorro-quente vegetariano em pão de hot dog"
+ },
+ "6843": {
+  "it": "Hot dog, manzo",
+  "fr": "Hot-dog, bœuf",
+  "es": "Hot dog, carne de res",
+  "de": "Hotdog, Rindfleisch",
+  "pt": "Cachorro-quente, carne bovina"
+ },
+ "6844": {
+  "it": "Hot dog, carne e pollame",
+  "fr": "Hot-dog, viande et volaille",
+  "es": "Hot dog, carne y ave",
+  "de": "Hotdog, Fleisch und Geflügel",
+  "pt": "Cachorro-quente, carne e aves"
+ },
+ "6845": {
+  "it": "Hot dog, non specificato",
+  "fr": "Hot-dog, non précisé",
+  "es": "Hot dog, no especificado",
+  "de": "Hotdog, nicht näher bezeichnet",
+  "pt": "Cachorro-quente, não especificado"
+ },
+ "6846": {
+  "it": "Hot dog, a ridotto contenuto di grassi",
+  "fr": "Hot-dog, à teneur réduite en matières grasses",
+  "es": "Hot dog, reducido en grasa",
+  "de": "Hotdog, fettarm",
+  "pt": "Cachorro-quente, com teor reduzido de gordura"
+ },
+ "6847": {
+  "it": "Hot dog, tacchino",
+  "fr": "Hot-dog, dinde",
+  "es": "Hot dog, pavo",
+  "de": "Hotdog, Pute",
+  "pt": "Cachorro-quente, peru"
+ },
+ "6848": {
+  "it": "Hot dog, vegetariano",
+  "fr": "Hot-dog, végétarien",
+  "es": "Hot dog, vegetariano",
+  "de": "Hotdog, vegetarisch",
+  "pt": "Cachorro-quente, vegetariano"
+ },
+ "6849": {
+  "it": "Salsa piccante al peperoncino",
+  "fr": "Sauce au piment fort",
+  "es": "Salsa picante de chile",
+  "de": "Scharfe Chilisauce",
+  "pt": "Molho de pimenta"
+ },
+ "6850": {
+  "it": "HOT POCKETS, sandwich ripieno di prosciutto e formaggio, surgelato",
+  "fr": "HOT POCKETS, sandwich fourré au jambon et au fromage, surgelé",
+  "es": "HOT POCKETS, sándwich relleno de jamón y queso, congelado",
+  "de": "HOT POCKETS, Sandwich mit Schinken-Käse-Füllung, tiefgekühlt",
+  "pt": "HOT POCKETS, sanduíche recheado com presunto e queijo, congelado"
+ },
+ "6851": {
+  "it": "HOT POCKETS, CROISSANT POCKETS, sandwich ripieno di pollo, broccoli e cheddar, surgelato",
+  "fr": "HOT POCKETS, CROISSANT POCKETS, sandwich fourré au poulet, brocoli et cheddar, surgelé",
+  "es": "HOT POCKETS, CROISSANT POCKETS, sándwich relleno de pollo, brócoli y cheddar, congelado",
+  "de": "HOT POCKETS, CROISSANT POCKETS, Sandwich mit Hähnchen-, Brokkoli- und Cheddarfüllung, tiefgekühlt",
+  "pt": "HOT POCKETS, CROISSANT POCKETS, sanduíche recheado com frango, brócolis e cheddar, congelado"
+ },
+ "6852": {
+  "it": "HOT POCKETS, sandwich ripieno di polpette e mozzarella, surgelato",
+  "fr": "HOT POCKETS, sandwich fourré aux boulettes de viande et à la mozzarella, surgelé",
+  "es": "HOT POCKETS, sándwich relleno de albóndigas y mozzarella, congelado",
+  "de": "HOT POCKETS, Sandwich mit Fleischbällchen-Mozzarella-Füllung, tiefgekühlt",
+  "pt": "HOT POCKETS, sanduíche recheado com almôndegas e muçarela, congelado"
+ },
+ "6853": {
+  "it": "Salsa piccante thailandese",
+  "fr": "Sauce thaïlandaise piquante",
+  "es": "Salsa picante tailandesa",
+  "de": "Scharfe thailändische Sauce",
+  "pt": "Molho tailandês picante"
  }
 }
