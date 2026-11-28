@@ -1,0 +1,1790 @@
+[
+{
+"id": "5364",
+"en": "Egg omelet or scrambled egg, with tomatoes, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5365",
+"en": "Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat added",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5366",
+"en": "Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5367",
+"en": "Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5368",
+"en": "Egg roll, meatless",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5369",
+"en": "Egg roll, with beef and/or pork",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5370",
+"en": "Egg roll, with chicken or turkey",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5371",
+"en": "Egg roll, with shrimp",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5372",
+"en": "Egg rolls, chicken, refrigerated, heated",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "5373",
+"en": "Egg rolls, pork, refrigerated, heated",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "5374",
+"en": "Egg rolls, vegetable, frozen, prepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "5375",
+"en": "Egg salad sandwich on wheat",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5376",
+"en": "Egg salad sandwich on white",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5377",
+"en": "Egg Salad, made with any type of fat free dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5378",
+"en": "Egg salad, made with creamy dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5379",
+"en": "Egg salad, made with Italian dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5380",
+"en": "Egg salad, made with light creamy dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5381",
+"en": "Egg salad, made with light Italian dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5382",
+"en": "Egg salad, made with light mayonnaise",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5383",
+"en": "Egg salad, made with light mayonnaise-type salad dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5384",
+"en": "Egg salad, made with mayonnaise",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5385",
+"en": "Egg salad, made with mayonnaise-type salad dressing",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5386",
+"en": "Egg sandwich on bagel",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5387",
+"en": "Egg sandwich on bagel, with bacon",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5388",
+"en": "Egg sandwich on bagel, with ham",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5389",
+"en": "Egg sandwich on bagel, with sausage",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5390",
+"en": "Egg sandwich on biscuit",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5391",
+"en": "Egg sandwich on biscuit, with bacon",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5392",
+"en": "Egg sandwich on biscuit, with bacon and cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5393",
+"en": "Egg sandwich on biscuit, with sausage",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5394",
+"en": "Egg sandwich on biscuit, with sausage and cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5395",
+"en": "Egg sandwich on croissant",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5396",
+"en": "Egg sandwich on croissant, with bacon",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5397",
+"en": "Egg sandwich on croissant, with ham",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5398",
+"en": "Egg sandwich on croissant, with sausage",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5399",
+"en": "Egg sandwich on English muffin",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5400",
+"en": "Egg sandwich on English muffin, with bacon",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5401",
+"en": "Egg sandwich on English muffin, with ham",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5402",
+"en": "Egg sandwich on English muffin, with sausage",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5403",
+"en": "Egg sandwich on griddle/pancake",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5404",
+"en": "Egg sandwich on griddle/pancake, with meat",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5405",
+"en": "Egg sandwich on wheat bread",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5406",
+"en": "Egg sandwich on wheat bread, with cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5407",
+"en": "Egg sandwich on wheat bread, with meat",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5408",
+"en": "Egg sandwich on wheat bread, with meat and cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5409",
+"en": "Egg sandwich on white bread",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5410",
+"en": "Egg sandwich on white bread, with cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5411",
+"en": "Egg sandwich on white bread, with meat",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5412",
+"en": "Egg sandwich on white bread, with meat and cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5413",
+"en": "Egg substitute, liquid or frozen, fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5414",
+"en": "Egg substitute, omelet, scrambled, or fried, fat added",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5415",
+"en": "Egg substitute, omelet, scrambled, or fried, no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5416",
+"en": "Egg substitute, omelet, scrambled, or fried, with cheese",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5417",
+"en": "Egg substitute, omelet, scrambled, or fried, with cheese and meat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5418",
+"en": "Egg substitute, omelet, scrambled, or fried, with cheese and vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5419",
+"en": "Egg substitute, omelet, scrambled, or fried, with cheese, meat, and vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5420",
+"en": "Egg substitute, omelet, scrambled, or fried, with meat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5421",
+"en": "Egg substitute, omelet, scrambled, or fried, with meat and vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5422",
+"en": "Egg substitute, omelet, scrambled, or fried, with vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5423",
+"en": "Egg substitute, powder",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5424",
+"en": "Egg white omelet, scrambled, or fried, made with butter",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5425",
+"en": "Egg white omelet, scrambled, or fried, made with cooking spray",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5426",
+"en": "Egg white omelet, scrambled, or fried, made with margarine",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5427",
+"en": "Egg white omelet, scrambled, or fried, made with oil",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5428",
+"en": "Egg white omelet, scrambled, or fried, no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5429",
+"en": "Egg white omelet, scrambled, or fried, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5430",
+"en": "Egg white omelet, scrambled, or fried, NS as to fat type",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5431",
+"en": "Egg white sandwich",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5432",
+"en": "Egg white sandwich, with cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5433",
+"en": "Egg white sandwich, with meat",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5434",
+"en": "Egg white, omelet, scrambled, or fried, with cheese",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5435",
+"en": "Egg white, omelet, scrambled, or fried, with cheese and meat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5436",
+"en": "Egg white, omelet, scrambled, or fried, with cheese and vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5437",
+"en": "Egg white, omelet, scrambled, or fried, with cheese, meat, and vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5438",
+"en": "Egg white, omelet, scrambled, or fried, with meat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5439",
+"en": "Egg white, omelet, scrambled, or fried, with meat and vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5440",
+"en": "Egg white, omelet, scrambled, or fried, with vegetables",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5441",
+"en": "Egg, Benedict",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5442",
+"en": "Egg, creamed",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5443",
+"en": "Egg, deviled",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5444",
+"en": "Egg, duck, whole, fresh, raw",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5445",
+"en": "Egg, goose, whole, fresh, raw",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5446",
+"en": "Egg, quail, whole, fresh, raw",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5447",
+"en": "Egg, turkey, whole, fresh, raw",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5448",
+"en": "Egg, white only, raw",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5449",
+"en": "Egg, white, cooked, fat added",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5450",
+"en": "Egg, white, cooked, no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5451",
+"en": "Egg, white, cooked, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5452",
+"en": "Egg, white, dried",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5453",
+"en": "Egg, white, dried, flakes, stabilized, glucose reduced",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5454",
+"en": "Egg, white, dried, powder, stabilized, glucose reduced",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5455",
+"en": "Egg, white, dried, stabilized, glucose reduced",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5456",
+"en": "Egg, white, raw, fresh",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5457",
+"en": "Egg, white, raw, frozen, pasteurized",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5458",
+"en": "Egg, whole, baked, fat added",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5459",
+"en": "Egg, whole, baked, no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5460",
+"en": "Egg, whole, baked, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5461",
+"en": "Egg, whole, boiled or poached",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5462",
+"en": "Egg, whole, cooked, fried",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5463",
+"en": "Egg, whole, cooked, hard-boiled",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5464",
+"en": "Egg, whole, cooked, NS as to cooking method",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5465",
+"en": "Egg, whole, cooked, omelet",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5466",
+"en": "Egg, whole, cooked, poached",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5467",
+"en": "Egg, whole, cooked, scrambled",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5468",
+"en": "Egg, whole, dried",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5469",
+"en": "Egg, whole, dried, stabilized, glucose reduced",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5470",
+"en": "Egg, whole, fried no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5471",
+"en": "Egg, whole, fried with animal fat or meat drippings",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5472",
+"en": "Egg, whole, fried with butter",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5473",
+"en": "Egg, whole, fried with cooking spray",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5474",
+"en": "Egg, whole, fried with margarine",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5475",
+"en": "Egg, whole, fried with oil",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5476",
+"en": "Egg, whole, fried, from fast food / restaurant",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5477",
+"en": "Egg, whole, fried, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5478",
+"en": "Egg, whole, fried, NS as to fat type",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5479",
+"en": "Egg, whole, pickled",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5480",
+"en": "Egg, whole, raw",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5481",
+"en": "Egg, whole, raw, fresh",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5482",
+"en": "Egg, whole, raw, frozen, pasteurized",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5483",
+"en": "Egg, whole, raw, frozen, pasteurized (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5484",
+"en": "Egg, whole, raw, frozen, salted, pasteurized",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5485",
+"en": "Egg, yolk only, cooked, fat added",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5486",
+"en": "Egg, yolk only, cooked, no added fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5487",
+"en": "Egg, yolk only, cooked, NS as to fat",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5488",
+"en": "Egg, yolk only, raw",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5489",
+"en": "Egg, yolk, dried",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5490",
+"en": "Egg, yolk, raw, fresh",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5491",
+"en": "Egg, yolk, raw, frozen, pasteurized",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5492",
+"en": "Egg, yolk, raw, frozen, salted, pasteurized",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5493",
+"en": "Egg, yolk, raw, frozen, sugared, pasteurized",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5494",
+"en": "Eggnog",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5495",
+"en": "Eggnog, alcoholic",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5496",
+"en": "Eggplant and meat casserole",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5497",
+"en": "Eggplant dip",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5498",
+"en": "Eggplant parmesan casserole, regular",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5499",
+"en": "Eggplant with cheese and tomato sauce",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5500",
+"en": "Eggplant, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5501",
+"en": "Eggplant, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5502",
+"en": "Eggplant, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5503",
+"en": "Eggplant, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5504",
+"en": "Eggplant, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5505",
+"en": "Eggplant, pickled",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5506",
+"en": "Eggplant, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "5507",
+"en": "Eggs, Grade A, Large, egg white",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5508",
+"en": "Eggs, Grade A, Large, egg whole",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5509",
+"en": "Eggs, Grade A, Large, egg yolk",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "5510",
+"en": "Eggs, scrambled, frozen mixture",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5511",
+"en": "Einkorn, grain, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "5512",
+"en": "Elderberries, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "5513",
+"en": "Elk, free range, ground, cooked patties (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5514",
+"en": "Elk, free range, ground, raw (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5515",
+"en": "Elk, free range, roast, eye of round, cooked (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5516",
+"en": "Elk, free range, roast, eye of round, raw (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5517",
+"en": "Empanada, beef",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5518",
+"en": "Empanada, beef, with vegetables",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5519",
+"en": "Empanada, chicken",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5520",
+"en": "Empanada, chicken, with vegetables",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5521",
+"en": "Empanada, fruit",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5522",
+"en": "Empanada, NFS",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5523",
+"en": "Empanada, no meat",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5524",
+"en": "Emu, fan fillet, cooked, broiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5525",
+"en": "Emu, fan fillet, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5526",
+"en": "Emu, flat fillet, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5527",
+"en": "Emu, full rump, cooked, broiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5528",
+"en": "Emu, full rump, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5529",
+"en": "Emu, ground, cooked, pan-broiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5530",
+"en": "Emu, ground, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5531",
+"en": "Emu, inside drum, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5532",
+"en": "Emu, inside drums, cooked, broiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5533",
+"en": "Emu, outside drum, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5534",
+"en": "Emu, oyster, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5535",
+"en": "Emu, top loin, cooked, broiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5536",
+"en": "Enchilada sauce, green",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5537",
+"en": "Enchilada sauce, red",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5538",
+"en": "Enchilada, beef",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5539",
+"en": "Enchilada, chicken",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5540",
+"en": "Enchilada, NFS",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5541",
+"en": "Enchilada, no meat",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5542",
+"en": "Enchilada, pork",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5543",
+"en": "Endive, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5544",
+"en": "Energy Drink",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5545",
+"en": "Energy drink (Full Throttle)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5546",
+"en": "Energy drink (Monster)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5547",
+"en": "Energy drink (Mountain Dew AMP)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5548",
+"en": "Energy drink (No Fear Motherload)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5549",
+"en": "Energy drink (No Fear)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5550",
+"en": "Energy drink (NOS)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5551",
+"en": "Energy drink (Ocean Spray Cran-Energy Juice Drink)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5552",
+"en": "Energy drink (Red Bull)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5553",
+"en": "Energy drink (Rockstar)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5554",
+"en": "Energy drink (SoBe Energize Energy Juice Drink)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5555",
+"en": "Energy drink (Vault)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5556",
+"en": "Energy drink (XS Gold Plus)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5557",
+"en": "Energy drink (XS)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5558",
+"en": "Energy drink, low calorie (Monster)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5559",
+"en": "Energy drink, sugar free",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5560",
+"en": "Energy drink, sugar free (Monster)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5561",
+"en": "Energy drink, sugar free (Mountain Dew AMP)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5562",
+"en": "Energy drink, sugar free (No Fear)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5563",
+"en": "Energy drink, sugar free (Rockstar)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5564",
+"en": "Energy drink, sugar free (Vault)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5565",
+"en": "Energy drink, sugar-free (NOS)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5566",
+"en": "Energy drink, sugar-free (Red Bull)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5567",
+"en": "English muffins, plain, enriched, without calcium propionate(includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5568",
+"en": "English muffins, plain, unenriched, with calcium propionate (includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5569",
+"en": "English muffins, plain, unenriched, without calcium propionate (includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5570",
+"en": "English muffins, whole grain white",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5571",
+"en": "Epazote, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5572",
+"en": "Eppaw, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5573",
+"en": "Escargot",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5574",
+"en": "Escarole, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5575",
+"en": "Escarole, cooked, boiled, drained, no salt added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5576",
+"en": "Fajita, beef or pork",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5577",
+"en": "Fajita, chicken",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5578",
+"en": "Fajita, NFS",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5579",
+"en": "Fajita, shrimp",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5580",
+"en": "Fajita, vegetable",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5581",
+"en": "Falafel",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5582",
+"en": "Falafel sandwich",
+"categoria": "Vegetable sandwiches/burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5583",
+"en": "Falafel, home-prepared",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5584",
+"en": "Farro, pearled, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "5585",
+"en": "Fast food, biscuit",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5586",
+"en": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, regular crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5587",
+"en": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, stuffed crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5588",
+"en": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, thick crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5589",
+"en": "Fast Food, Pizza Chain, 14\" pizza, cheese topping, thin crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5590",
+"en": "Fast Food, Pizza Chain, 14\" pizza, meat and vegetable topping, regular crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5591",
+"en": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, regular crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5592",
+"en": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, thick crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5593",
+"en": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, thin crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5594",
+"en": "Fast Food, Pizza Chain, 14\" pizza, sausage topping, regular crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5595",
+"en": "Fast Food, Pizza Chain, 14\" pizza, sausage topping, thick crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5596",
+"en": "Fast Food, Pizza Chain, 14\" pizza, sausage topping, thin crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5597",
+"en": "Fast foods, bagel, with breakfast steak, egg, cheese, and condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5598",
+"en": "Fast foods, bagel, with egg, sausage patty, cheese, and condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5599",
+"en": "Fast foods, biscuit, with crispy chicken fillet",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5600",
+"en": "Fast foods, biscuit, with egg and bacon",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5601",
+"en": "Fast foods, biscuit, with egg and ham",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5602",
+"en": "Fast Foods, biscuit, with egg and sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5603",
+"en": "Fast foods, biscuit, with egg, cheese, and bacon",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5604",
+"en": "Fast foods, biscuit, with ham",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5605",
+"en": "Fast foods, biscuit, with sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5606",
+"en": "Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5607",
+"en": "Fast foods, breakfast burrito, with egg, cheese, and sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5608",
+"en": "Fast foods, burrito, with beans",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5609",
+"en": "Fast foods, burrito, with beans and beef",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5610",
+"en": "Fast foods, burrito, with beans and cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5611",
+"en": "Fast foods, burrito, with beans, cheese, and beef",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5612",
+"en": "Fast foods, cheeseburger, double, regular patty and bun, with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5613",
+"en": "Fast foods, cheeseburger; double, large patty; with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5614",
+"en": "Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5615",
+"en": "Fast foods, cheeseburger; double, regular patty; double decker bun with condiments and special sauce",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5616",
+"en": "Fast foods, cheeseburger; double, regular patty; with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5617",
+"en": "Fast foods, cheeseburger; single, large patty; plain",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5618",
+"en": "Fast foods, cheeseburger; single, large patty; with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5619",
+"en": "Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5620",
+"en": "Fast foods, cheeseburger; single, regular patty, with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5621",
+"en": "Fast foods, cheeseburger; single, regular patty, with condiments and vegetables",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5622",
+"en": "Fast foods, cheeseburger; single, regular patty; plain",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5623",
+"en": "Fast foods, chicken fillet sandwich, plain with pickles",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5624",
+"en": "Fast foods, chicken tenders",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5625",
+"en": "Fast foods, chicken, breaded and fried, boneless pieces, plain",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5626",
+"en": "Fast foods, coleslaw",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5627",
+"en": "Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5628",
+"en": "Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5629",
+"en": "Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5630",
+"en": "Fast foods, croissant, with egg, cheese, and bacon",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5631",
+"en": "Fast foods, croissant, with egg, cheese, and ham",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5632",
+"en": "Fast foods, croissant, with egg, cheese, and sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5633",
+"en": "Fast foods, egg, scrambled",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5634",
+"en": "Fast foods, english muffin, with cheese and sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5635",
+"en": "Fast foods, english muffin, with egg, cheese, and canadian bacon",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5636",
+"en": "Fast foods, english muffin, with egg, cheese, and sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5637",
+"en": "Fast foods, fish sandwich, with tartar sauce",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5638",
+"en": "Fast foods, fish sandwich, with tartar sauce and cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5639",
+"en": "Fast foods, french toast sticks",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5640",
+"en": "Fast Foods, Fried Chicken, Breast, meat and skin and breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5641",
+"en": "Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5642",
+"en": "Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5643",
+"en": "Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5644",
+"en": "Fast Foods, Fried Chicken, Skin and breading from all pieces",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5645",
+"en": "Fast Foods, Fried Chicken, Thigh, meat and skin and breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5646",
+"en": "Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5647",
+"en": "Fast Foods, Fried Chicken, Wing, meat and skin and breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5648",
+"en": "Fast Foods, Fried Chicken, Wing, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5649",
+"en": "Fast foods, griddle cake sandwich, egg, cheese, and bacon",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5650",
+"en": "Fast foods, griddle cake sandwich, egg, cheese, and sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5651",
+"en": "Fast foods, griddle cake sandwich, sausage",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5652",
+"en": "Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5653",
+"en": "Fast foods, grilled chicken in tortilla, with lettuce, cheese, and ranch sauce",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5654",
+"en": "Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5655",
+"en": "Fast foods, hamburger, large, single patty, with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5656",
+"en": "Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5657",
+"en": "Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5658",
+"en": "Fast foods, hamburger; single, regular patty; double decker bun with condiments and special sauce",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5659",
+"en": "Fast foods, hamburger; single, regular patty; plain",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5660",
+"en": "Fast foods, hamburger; single, regular patty; with condiments",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5661",
+"en": "Fast foods, hush puppies",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+}
+]

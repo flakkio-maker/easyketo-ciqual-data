@@ -1,0 +1,1790 @@
+[
+{
+"id": "3874",
+"en": "Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3875",
+"en": "Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3876",
+"en": "Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3877",
+"en": "Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3878",
+"en": "Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3879",
+"en": "Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3880",
+"en": "Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3881",
+"en": "Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3882",
+"en": "Chicken or turkey, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3883",
+"en": "Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3884",
+"en": "Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3885",
+"en": "Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3886",
+"en": "Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3887",
+"en": "Chicken or turkey, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3888",
+"en": "Chicken or turkey, potatoes, corn, and cheese, with gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3889",
+"en": "Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3890",
+"en": "Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3891",
+"en": "Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3892",
+"en": "Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3893",
+"en": "Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3894",
+"en": "Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3895",
+"en": "Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3896",
+"en": "Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3897",
+"en": "Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3898",
+"en": "Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3899",
+"en": "Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3900",
+"en": "Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3901",
+"en": "Chicken or turkey, rice, corn, and cheese, with gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3902",
+"en": "Chicken or turkey, stuffing, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3903",
+"en": "Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3904",
+"en": "Chicken or turkey, stuffing, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3905",
+"en": "Chicken or turkey,stuffing, and vegetables excluding carrots, broccoli, and dark green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3906",
+"en": "Chicken patty, breaded",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3907",
+"en": "Chicken patty, frozen, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3908",
+"en": "Chicken patty, frozen, uncooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3909",
+"en": "Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3910",
+"en": "Chicken pot pie, frozen entree, prepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "3911",
+"en": "Chicken salad sandwich on wheat",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3912",
+"en": "Chicken salad sandwich on white",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3913",
+"en": "Chicken salad sandwich wrap",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3914",
+"en": "Chicken salad spread",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3915",
+"en": "Chicken skin",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3916",
+"en": "Chicken spread",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "3917",
+"en": "Chicken tenders or strips, breaded, from fast food",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3918",
+"en": "Chicken tenders or strips, breaded, from frozen",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3919",
+"en": "Chicken tenders or strips, breaded, from other sources",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3920",
+"en": "Chicken tenders or strips, breaded, from restaurant",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3921",
+"en": "Chicken tenders or strips, breaded, from school lunch",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3922",
+"en": "Chicken tenders or strips, NFS",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3923",
+"en": "Chicken tenders, breaded, frozen, prepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "3924",
+"en": "Chicken thigh, baked or broiled, skin eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3925",
+"en": "Chicken thigh, baked or broiled, skin eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3926",
+"en": "Chicken thigh, baked or broiled, skin not eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3927",
+"en": "Chicken thigh, baked or broiled, skin not eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3928",
+"en": "Chicken thigh, baked, broiled, or roasted, skin eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3929",
+"en": "Chicken thigh, baked, broiled, or roasted, skin not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3930",
+"en": "Chicken thigh, baked, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3931",
+"en": "Chicken thigh, baked, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3932",
+"en": "Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3933",
+"en": "Chicken thigh, fried, coated, skin / coating eaten, from fast food",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3934",
+"en": "Chicken thigh, fried, coated, skin / coating eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3935",
+"en": "Chicken thigh, fried, coated, skin / coating eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3936",
+"en": "Chicken thigh, fried, coated, skin / coating eaten, from restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3937",
+"en": "Chicken thigh, fried, coated, skin / coating not eaten, from fast food",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3938",
+"en": "Chicken thigh, fried, coated, skin / coating not eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3939",
+"en": "Chicken thigh, fried, coated, skin / coating not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3940",
+"en": "Chicken thigh, fried, coated, skin / coating not eaten, from restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3941",
+"en": "Chicken thigh, grilled with sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3942",
+"en": "Chicken thigh, grilled with sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3943",
+"en": "Chicken thigh, grilled without sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3944",
+"en": "Chicken thigh, grilled without sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3945",
+"en": "Chicken thigh, NS as to cooking method, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3946",
+"en": "Chicken thigh, NS as to cooking method, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3947",
+"en": "Chicken thigh, rotisserie, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3948",
+"en": "Chicken thigh, rotisserie, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3949",
+"en": "Chicken thigh, sauteed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3950",
+"en": "Chicken thigh, sauteed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3951",
+"en": "Chicken thigh, stewed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3952",
+"en": "Chicken thigh, stewed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3953",
+"en": "Chicken wing, baked or broiled, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3954",
+"en": "Chicken wing, baked or broiled, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3955",
+"en": "Chicken wing, baked, broiled, or roasted, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3956",
+"en": "Chicken wing, baked, coated",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3957",
+"en": "Chicken wing, fried, coated, from fast food",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3958",
+"en": "Chicken wing, fried, coated, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3959",
+"en": "Chicken wing, fried, coated, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3960",
+"en": "Chicken wing, fried, coated, from restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3961",
+"en": "Chicken wing, grilled with sauce",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3962",
+"en": "Chicken wing, grilled without sauce",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3963",
+"en": "Chicken wing, NS as to cooking method",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3964",
+"en": "Chicken wing, rotisserie",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3965",
+"en": "Chicken wing, sauteed",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3966",
+"en": "Chicken wing, stewed",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3967",
+"en": "Chicken with gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3968",
+"en": "Chicken with mole sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3969",
+"en": "Chicken with noodles and cheese sauce, diet frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3970",
+"en": "Chicken with rice and vegetable, diet frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3971",
+"en": "Chicken, back",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3972",
+"en": "Chicken, breast, boneless, skinless, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "3973",
+"en": "Chicken, breast, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "3974",
+"en": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "3975",
+"en": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3976",
+"en": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3977",
+"en": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3978",
+"en": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, grilled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3979",
+"en": "Chicken, broiler, rotisserie, BBQ, back meat only",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3980",
+"en": "Chicken, broiler, rotisserie, BBQ, back, meat and skin",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3981",
+"en": "Chicken, broiler, rotisserie, BBQ, breast, meat and skin",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3982",
+"en": "Chicken, broiler, rotisserie, BBQ, breast, meat only",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3983",
+"en": "Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3984",
+"en": "Chicken, broiler, rotisserie, BBQ, drumstick, meat only",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3985",
+"en": "Chicken, broiler, rotisserie, BBQ, skin",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3986",
+"en": "Chicken, broiler, rotisserie, BBQ, thigh, meat and skin",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3987",
+"en": "Chicken, broiler, rotisserie, BBQ, thigh, meat only",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3988",
+"en": "Chicken, broiler, rotisserie, BBQ, wing, meat and skin",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3989",
+"en": "Chicken, broiler, rotisserie, BBQ, wing, meat only",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3990",
+"en": "Chicken, broilers or fryers, back, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3991",
+"en": "Chicken, broilers or fryers, back, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3992",
+"en": "Chicken, broilers or fryers, back, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3993",
+"en": "Chicken, broilers or fryers, back, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3994",
+"en": "Chicken, broilers or fryers, back, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3995",
+"en": "Chicken, broilers or fryers, back, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3996",
+"en": "Chicken, broilers or fryers, back, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3997",
+"en": "Chicken, broilers or fryers, back, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3998",
+"en": "Chicken, broilers or fryers, back, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3999",
+"en": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4000",
+"en": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4001",
+"en": "Chicken, broilers or fryers, breast, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4002",
+"en": "Chicken, broilers or fryers, breast, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4003",
+"en": "Chicken, broilers or fryers, breast, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4004",
+"en": "Chicken, broilers or fryers, breast, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4005",
+"en": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4006",
+"en": "Chicken, broilers or fryers, breast, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4007",
+"en": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4008",
+"en": "Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4009",
+"en": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4010",
+"en": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4011",
+"en": "Chicken, broilers or fryers, dark meat, drumstick, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4012",
+"en": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4013",
+"en": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4014",
+"en": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4015",
+"en": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4016",
+"en": "Chicken, broilers or fryers, dark meat, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4017",
+"en": "Chicken, broilers or fryers, dark meat, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4018",
+"en": "Chicken, broilers or fryers, dark meat, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4019",
+"en": "Chicken, broilers or fryers, dark meat, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4020",
+"en": "Chicken, broilers or fryers, dark meat, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4021",
+"en": "Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4022",
+"en": "Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4023",
+"en": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4024",
+"en": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4025",
+"en": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4026",
+"en": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4027",
+"en": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4028",
+"en": "Chicken, broilers or fryers, drumstick, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4029",
+"en": "Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "4030",
+"en": "Chicken, broilers or fryers, drumstick, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4031",
+"en": "Chicken, broilers or fryers, drumstick, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4032",
+"en": "Chicken, broilers or fryers, drumstick, rotisserie, original seasoning, meat only, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4033",
+"en": "Chicken, broilers or fryers, giblets, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4034",
+"en": "Chicken, broilers or fryers, giblets, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4035",
+"en": "Chicken, broilers or fryers, giblets, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4036",
+"en": "Chicken, broilers or fryers, leg, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4037",
+"en": "Chicken, broilers or fryers, leg, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4038",
+"en": "Chicken, broilers or fryers, leg, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4039",
+"en": "Chicken, broilers or fryers, leg, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4040",
+"en": "Chicken, broilers or fryers, leg, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4041",
+"en": "Chicken, broilers or fryers, leg, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4042",
+"en": "Chicken, broilers or fryers, leg, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4043",
+"en": "Chicken, broilers or fryers, leg, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4044",
+"en": "Chicken, broilers or fryers, leg, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4045",
+"en": "Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4046",
+"en": "Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4047",
+"en": "Chicken, broilers or fryers, light meat, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4048",
+"en": "Chicken, broilers or fryers, light meat, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4049",
+"en": "Chicken, broilers or fryers, light meat, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4050",
+"en": "Chicken, broilers or fryers, light meat, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4051",
+"en": "Chicken, broilers or fryers, light meat, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4052",
+"en": "Chicken, broilers or fryers, light meat, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4053",
+"en": "Chicken, broilers or fryers, light meat, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4054",
+"en": "Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4055",
+"en": "Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4056",
+"en": "Chicken, broilers or fryers, meat and skin and giblets and neck, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4057",
+"en": "Chicken, broilers or fryers, meat and skin and giblets and neck, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4058",
+"en": "Chicken, broilers or fryers, meat and skin and giblets and neck, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4059",
+"en": "Chicken, broilers or fryers, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4060",
+"en": "Chicken, broilers or fryers, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4061",
+"en": "Chicken, broilers or fryers, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4062",
+"en": "Chicken, broilers or fryers, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4063",
+"en": "Chicken, broilers or fryers, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4064",
+"en": "Chicken, broilers or fryers, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4065",
+"en": "Chicken, broilers or fryers, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4066",
+"en": "Chicken, broilers or fryers, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4067",
+"en": "Chicken, broilers or fryers, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4068",
+"en": "Chicken, broilers or fryers, neck, meat and skin, cooked simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4069",
+"en": "Chicken, broilers or fryers, neck, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4070",
+"en": "Chicken, broilers or fryers, neck, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4071",
+"en": "Chicken, broilers or fryers, neck, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4072",
+"en": "Chicken, broilers or fryers, neck, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4073",
+"en": "Chicken, broilers or fryers, neck, meat only, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4074",
+"en": "Chicken, broilers or fryers, neck, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4075",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, back, meat and skin, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4076",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4077",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat and skin, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4078",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat only, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4079",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, drumstick, meat and skin, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4080",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, skin only, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4081",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat and skin, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4082",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat only, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4083",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat and skin, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4084",
+"en": "Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat only, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4085",
+"en": "Chicken, broilers or fryers, separable fat, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4086",
+"en": "Chicken, broilers or fryers, skin only, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4087",
+"en": "Chicken, broilers or fryers, skin only, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4088",
+"en": "Chicken, broilers or fryers, skin only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4089",
+"en": "Chicken, broilers or fryers, skin only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4090",
+"en": "Chicken, broilers or fryers, skin only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4091",
+"en": "Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4092",
+"en": "Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4093",
+"en": "Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4094",
+"en": "Chicken, broilers or fryers, thigh, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4095",
+"en": "Chicken, broilers or fryers, thigh, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4096",
+"en": "Chicken, broilers or fryers, thigh, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4097",
+"en": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4098",
+"en": "Chicken, broilers or fryers, thigh, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4099",
+"en": "Chicken, broilers or fryers, wing, meat and skin, cooked, fried, batter",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4100",
+"en": "Chicken, broilers or fryers, wing, meat and skin, cooked, fried, flour",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4101",
+"en": "Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4102",
+"en": "Chicken, broilers or fryers, wing, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4103",
+"en": "Chicken, broilers or fryers, wing, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4104",
+"en": "Chicken, broilers or fryers, wing, meat only, cooked, fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4105",
+"en": "Chicken, broilers or fryers, wing, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4106",
+"en": "Chicken, broilers or fryers, wing, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4107",
+"en": "Chicken, broilers or fryers, wing, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4108",
+"en": "Chicken, canned, meat only",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4109",
+"en": "Chicken, canned, meat only, with broth",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4110",
+"en": "Chicken, canned, no broth",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4111",
+"en": "Chicken, capons, giblets, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4112",
+"en": "Chicken, capons, giblets, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4113",
+"en": "Chicken, capons, meat and skin and giblets and neck, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4114",
+"en": "Chicken, capons, meat and skin and giblets and neck, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4115",
+"en": "Chicken, capons, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4116",
+"en": "Chicken, capons, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4117",
+"en": "Chicken, chicken roll, roasted",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4118",
+"en": "Chicken, cornish game hens, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4119",
+"en": "Chicken, cornish game hens, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4120",
+"en": "Chicken, cornish game hens, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4121",
+"en": "Chicken, cornish game hens, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4122",
+"en": "Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4123",
+"en": "Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4124",
+"en": "Chicken, dark meat, drumstick, meat and skin, with added solution, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4125",
+"en": "Chicken, dark meat, drumstick, meat only, with added solution, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4126",
+"en": "Chicken, dark meat, drumstick, meat only, with added solution, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4127",
+"en": "Chicken, dark meat, drumstick, meat only, with added solution, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4128",
+"en": "Chicken, dark meat, thigh, meat and skin, with added solution, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4129",
+"en": "Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4130",
+"en": "Chicken, dark meat, thigh, meat and skin, with added solution, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4131",
+"en": "Chicken, dark meat, thigh, meat only, with added solution, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4132",
+"en": "Chicken, dark meat, thigh, meat only, with added solution, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4133",
+"en": "Chicken, dark meat, thigh, meat only, with added solution, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4134",
+"en": "Chicken, drumstick, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "4135",
+"en": "Chicken, feet, boiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4136",
+"en": "Chicken, for use with vegetables",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4137",
+"en": "Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4138",
+"en": "Chicken, fried, with potatoes, vegetable, frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4139",
+"en": "Chicken, gizzard, all classes, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4140",
+"en": "Chicken, gizzard, all classes, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4141",
+"en": "Chicken, ground",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4142",
+"en": "Chicken, ground, crumbles, cooked, pan-browned",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4143",
+"en": "Chicken, ground, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4144",
+"en": "Chicken, ground, with additives, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "4145",
+"en": "Chicken, heart, all classes, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4146",
+"en": "Chicken, heart, all classes, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4147",
+"en": "Chicken, liver, all classes, cooked, pan-fried",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4148",
+"en": "Chicken, liver, all classes, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4149",
+"en": "Chicken, liver, all classes, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4150",
+"en": "Chicken, meatless",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4151",
+"en": "Chicken, meatless, breaded, fried",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4152",
+"en": "Chicken, meatless, NFS",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4153",
+"en": "Chicken, neck or ribs",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4154",
+"en": "Chicken, NS as to part and cooking method, NS as to skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4155",
+"en": "Chicken, NS as to part and cooking method, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4156",
+"en": "Chicken, NS as to part and cooking method, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4157",
+"en": "Chicken, NS as to part, baked, broiled, or roasted, NS as to skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4158",
+"en": "Chicken, NS as to part, baked, broiled, or roasted, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4159",
+"en": "Chicken, NS as to part, baked, broiled, or roasted, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4160",
+"en": "Chicken, NS as to part, baked, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4161",
+"en": "Chicken, NS as to part, baked, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4162",
+"en": "Chicken, NS as to part, fried, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4163",
+"en": "Chicken, NS as to part, fried, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4164",
+"en": "Chicken, NS as to part, grilled with sauce, NS as to skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4165",
+"en": "Chicken, NS as to part, grilled with sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4166",
+"en": "Chicken, NS as to part, grilled with sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4167",
+"en": "Chicken, NS as to part, grilled without sauce, NS as to skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4168",
+"en": "Chicken, NS as to part, grilled without sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4169",
+"en": "Chicken, NS as to part, grilled without sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4170",
+"en": "Chicken, NS as to part, rotisserie, NS as to skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4171",
+"en": "Chicken, NS as to part, rotisserie, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+}
+]

@@ -1,0 +1,2088 @@
+{
+ "4172": {
+  "it": "Pollo, parte non specificata, arrosto allo spiedo, pelle non consumata",
+  "fr": "Poulet, partie non précisée, rôti à la broche, peau non consommée",
+  "es": "Pollo, pieza sin especificar, asado en asador, piel no consumida",
+  "de": "Hähnchen, Teil nicht angegeben, vom Drehspieß, Haut nicht mitgegessen",
+  "pt": "Frango, parte não especificada, assado no espeto, pele não consumida"
+ },
+ "4173": {
+  "it": "Pollo, parte non specificata, saltato in padella, pelle consumata",
+  "fr": "Poulet, partie non précisée, sauté, peau consommée",
+  "es": "Pollo, pieza sin especificar, salteado, piel consumida",
+  "de": "Hähnchen, Teil nicht angegeben, sautiert, Haut mitgegessen",
+  "pt": "Frango, parte não especificada, salteado, pele consumida"
+ },
+ "4174": {
+  "it": "Pollo, parte non specificata, saltato in padella, pelle non consumata",
+  "fr": "Poulet, partie non précisée, sauté, peau non consommée",
+  "es": "Pollo, pieza sin especificar, salteado, piel no consumida",
+  "de": "Hähnchen, Teil nicht angegeben, sautiert, Haut nicht mitgegessen",
+  "pt": "Frango, parte não especificada, salteado, pele não consumida"
+ },
+ "4175": {
+  "it": "Pollo, parte non specificata, stufato, non specificato se la pelle è consumata",
+  "fr": "Poulet, partie non précisée, mijoté, non précisé si la peau est consommée",
+  "es": "Pollo, pieza sin especificar, estofado, sin especificar si se consume la piel",
+  "de": "Hähnchen, Teil nicht angegeben, geschmort, nicht angegeben ob Haut mitgegessen",
+  "pt": "Frango, parte não especificada, ensopado, não especificado se a pele é consumida"
+ },
+ "4176": {
+  "it": "Pollo, parte non specificata, stufato, pelle consumata",
+  "fr": "Poulet, partie non précisée, mijoté, peau consommée",
+  "es": "Pollo, pieza sin especificar, estofado, piel consumida",
+  "de": "Hähnchen, Teil nicht angegeben, geschmort, Haut mitgegessen",
+  "pt": "Frango, parte não especificada, ensopado, pele consumida"
+ },
+ "4177": {
+  "it": "Pollo, parte non specificata, stufato, pelle non consumata",
+  "fr": "Poulet, partie non précisée, mijoté, peau non consommée",
+  "es": "Pollo, pieza sin especificar, estofado, piel no consumida",
+  "de": "Hähnchen, Teil nicht angegeben, geschmort, Haut nicht mitgegessen",
+  "pt": "Frango, parte não especificada, ensopado, pele não consumida"
+ },
+ "4178": {
+  "it": "Pollo, bocconcini (nuggets), carne scura e bianca, precotti, surgelati, non riscaldati",
+  "fr": "Poulet, nuggets, viande brune et blanche, précuits, surgelés, non réchauffés",
+  "es": "Pollo, nuggets, carne oscura y blanca, precocidos, congelados, sin recalentar",
+  "de": "Hähnchen, Nuggets, dunkles und weißes Fleisch, vorgegart, tiefgekühlt, nicht aufgewärmt",
+  "pt": "Frango, nuggets, carne escura e branca, pré-cozidos, congelados, não reaquecidos"
+ },
+ "4179": {
+  "it": "Pollo, bocconcini (nuggets), carne bianca, precotti, surgelati, non riscaldati",
+  "fr": "Poulet, nuggets, viande blanche, précuits, surgelés, non réchauffés",
+  "es": "Pollo, nuggets, carne blanca, precocidos, congelados, sin recalentar",
+  "de": "Hähnchen, Nuggets, weißes Fleisch, vorgegart, tiefgekühlt, nicht aufgewärmt",
+  "pt": "Frango, nuggets, carne branca, pré-cozidos, congelados, não reaquecidos"
+ },
+ "4180": {
+  "it": "Pollo, affettato confezionato o da banco gastronomia",
+  "fr": "Poulet, charcuterie préemballée ou de traiteur",
+  "es": "Pollo, fiambre envasado o de charcutería",
+  "de": "Hähnchen, Aufschnitt, abgepackt oder von der Theke",
+  "pt": "Frango, frios fatiados embalados ou de delicatessen"
+ },
+ "4181": {
+  "it": "Pollo, affettato confezionato o da banco gastronomia, a ridotto contenuto di sodio",
+  "fr": "Poulet, charcuterie préemballée ou de traiteur, à teneur réduite en sodium",
+  "es": "Pollo, fiambre envasado o de charcutería, reducido en sodio",
+  "de": "Hähnchen, Aufschnitt, abgepackt oder von der Theke, natriumreduziert",
+  "pt": "Frango, frios fatiados embalados ou de delicatessen, com teor reduzido de sódio"
+ },
+ "4182": {
+  "it": "Pollo, da arrosto, carne scura, solo carne, cotto, arrosto",
+  "fr": "Poulet, à rôtir, viande brune, viande seule, cuit, rôti",
+  "es": "Pollo, para asar, carne oscura, solo carne, cocido, asado",
+  "de": "Hähnchen, Brathähnchen, dunkles Fleisch, nur Fleisch, gekocht, gebraten (im Ofen)",
+  "pt": "Frango, para assar, carne escura, apenas carne, cozido, assado"
+ },
+ "4183": {
+  "it": "Pollo, da arrosto, carne scura, solo carne, crudo",
+  "fr": "Poulet, à rôtir, viande brune, viande seule, cru",
+  "es": "Pollo, para asar, carne oscura, solo carne, crudo",
+  "de": "Hähnchen, Brathähnchen, dunkles Fleisch, nur Fleisch, roh",
+  "pt": "Frango, para assar, carne escura, apenas carne, cru"
+ },
+ "4184": {
+  "it": "Pollo, da arrosto, frattaglie, cotte, lessate a fuoco lento",
+  "fr": "Poulet, à rôtir, abats, cuits, mijotés",
+  "es": "Pollo, para asar, menudencias, cocidas, hervidas a fuego lento",
+  "de": "Hähnchen, Brathähnchen, Innereien, gekocht, geköchelt",
+  "pt": "Frango, para assar, miúdos, cozidos, cozidos em fogo baixo"
+ },
+ "4185": {
+  "it": "Pollo, da arrosto, frattaglie, crude",
+  "fr": "Poulet, à rôtir, abats, crus",
+  "es": "Pollo, para asar, menudencias, crudas",
+  "de": "Hähnchen, Brathähnchen, Innereien, roh",
+  "pt": "Frango, para assar, miúdos, crus"
+ },
+ "4186": {
+  "it": "Pollo, da arrosto, carne chiara, solo carne, cotto, arrosto",
+  "fr": "Poulet, à rôtir, viande blanche, viande seule, cuit, rôti",
+  "es": "Pollo, para asar, carne clara, solo carne, cocido, asado",
+  "de": "Hähnchen, Brathähnchen, helles Fleisch, nur Fleisch, gekocht, gebraten (im Ofen)",
+  "pt": "Frango, para assar, carne clara, apenas carne, cozido, assado"
+ },
+ "4187": {
+  "it": "Pollo, da arrosto, carne chiara, solo carne, crudo",
+  "fr": "Poulet, à rôtir, viande blanche, viande seule, cru",
+  "es": "Pollo, para asar, carne clara, solo carne, crudo",
+  "de": "Hähnchen, Brathähnchen, helles Fleisch, nur Fleisch, roh",
+  "pt": "Frango, para assar, carne clara, apenas carne, cru"
+ },
+ "4188": {
+  "it": "Pollo, da arrosto, carne, pelle, frattaglie e collo, cotto, arrosto",
+  "fr": "Poulet, à rôtir, viande, peau, abats et cou, cuit, rôti",
+  "es": "Pollo, para asar, carne, piel, menudencias y cuello, cocido, asado",
+  "de": "Hähnchen, Brathähnchen, Fleisch, Haut, Innereien und Hals, gekocht, gebraten (im Ofen)",
+  "pt": "Frango, para assar, carne, pele, miúdos e pescoço, cozido, assado"
+ },
+ "4189": {
+  "it": "Pollo, da arrosto, carne, pelle, frattaglie e collo, crudo",
+  "fr": "Poulet, à rôtir, viande, peau, abats et cou, cru",
+  "es": "Pollo, para asar, carne, piel, menudencias y cuello, crudo",
+  "de": "Hähnchen, Brathähnchen, Fleisch, Haut, Innereien und Hals, roh",
+  "pt": "Frango, para assar, carne, pele, miúdos e pescoço, cru"
+ },
+ "4190": {
+  "it": "Pollo, da arrosto, carne e pelle, cotto, arrosto",
+  "fr": "Poulet, à rôtir, viande et peau, cuit, rôti",
+  "es": "Pollo, para asar, carne y piel, cocido, asado",
+  "de": "Hähnchen, Brathähnchen, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+  "pt": "Frango, para assar, carne e pele, cozido, assado"
+ },
+ "4191": {
+  "it": "Pollo, da arrosto, solo carne, cotto, arrosto",
+  "fr": "Poulet, à rôtir, viande seule, cuit, rôti",
+  "es": "Pollo, para asar, solo carne, cocido, asado",
+  "de": "Hähnchen, Brathähnchen, nur Fleisch, gekocht, gebraten (im Ofen)",
+  "pt": "Frango, para assar, apenas carne, cozido, assado"
+ },
+ "4192": {
+  "it": "Pollo, da arrosto, solo carne, crudo",
+  "fr": "Poulet, à rôtir, viande seule, cru",
+  "es": "Pollo, para asar, solo carne, crudo",
+  "de": "Hähnchen, Brathähnchen, nur Fleisch, roh",
+  "pt": "Frango, para assar, apenas carne, cru"
+ },
+ "4193": {
+  "it": "Pollo, pelle (di cosce e sovracosce), cotta, brasata",
+  "fr": "Poulet, peau (pilons et cuisses), cuite, braisée",
+  "es": "Pollo, piel (de muslos y contramuslos), cocida, estofada",
+  "de": "Hähnchen, Haut (von Unter- und Oberschenkeln), gekocht, geschmort",
+  "pt": "Frango, pele (de coxas e sobrecoxas), cozida, refogada"
+ },
+ "4194": {
+  "it": "Pollo, pelle (di cosce e sovracosce), cotta, arrosto",
+  "fr": "Poulet, peau (pilons et cuisses), cuite, rôtie",
+  "es": "Pollo, piel (de muslos y contramuslos), cocida, asada",
+  "de": "Hähnchen, Haut (von Unter- und Oberschenkeln), gekocht, gebraten (im Ofen)",
+  "pt": "Frango, pele (de coxas e sobrecoxas), cozida, assada"
+ },
+ "4195": {
+  "it": "Pollo, pelle (di cosce e sovracosce), cruda",
+  "fr": "Poulet, peau (pilons et cuisses), crue",
+  "es": "Pollo, piel (de muslos y contramuslos), cruda",
+  "de": "Hähnchen, Haut (von Unter- und Oberschenkeln), roh",
+  "pt": "Frango, pele (de coxas e sobrecoxas), crua"
+ },
+ "4196": {
+  "it": "Pollo, pelle (di cosce e sovracosce), con soluzione aggiunta, cotta, brasata",
+  "fr": "Poulet, peau (pilons et cuisses), avec solution ajoutée, cuite, braisée",
+  "es": "Pollo, piel (de muslos y contramuslos), con solución añadida, cocida, estofada",
+  "de": "Hähnchen, Haut (von Unter- und Oberschenkeln), mit zugesetzter Lösung, gekocht, geschmort",
+  "pt": "Frango, pele (de coxas e sobrecoxas), com solução adicionada, cozida, refogada"
+ },
+ "4197": {
+  "it": "Pollo, pelle (di cosce e sovracosce), con soluzione aggiunta, cotta, arrosto",
+  "fr": "Poulet, peau (pilons et cuisses), avec solution ajoutée, cuite, rôtie",
+  "es": "Pollo, piel (de muslos y contramuslos), con solución añadida, cocida, asada",
+  "de": "Hähnchen, Haut (von Unter- und Oberschenkeln), mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+  "pt": "Frango, pele (de coxas e sobrecoxas), com solução adicionada, cozida, assada"
+ },
+ "4198": {
+  "it": "Pollo, pelle (di cosce e sovracosce), con soluzione aggiunta, cruda",
+  "fr": "Poulet, peau (pilons et cuisses), avec solution ajoutée, crue",
+  "es": "Pollo, piel (de muslos y contramuslos), con solución añadida, cruda",
+  "de": "Hähnchen, Haut (von Unter- und Oberschenkeln), mit zugesetzter Lösung, roh",
+  "pt": "Frango, pele (de coxas e sobrecoxas), com solução adicionada, crua"
+ },
+ "4199": {
+  "it": "Pollo, da brodo, carne scura, solo carne, cotto, stufato",
+  "fr": "Poule, à bouillir, viande brune, viande seule, cuite, mijotée",
+  "es": "Pollo, para guisar, carne oscura, solo carne, cocido, estofado",
+  "de": "Suppenhuhn, dunkles Fleisch, nur Fleisch, gekocht, geschmort",
+  "pt": "Frango, para ensopar, carne escura, apenas carne, cozido, ensopado"
+ },
+ "4200": {
+  "it": "Pollo, da brodo, carne scura, solo carne, crudo",
+  "fr": "Poule, à bouillir, viande brune, viande seule, crue",
+  "es": "Pollo, para guisar, carne oscura, solo carne, crudo",
+  "de": "Suppenhuhn, dunkles Fleisch, nur Fleisch, roh",
+  "pt": "Frango, para ensopar, carne escura, apenas carne, cru"
+ },
+ "4201": {
+  "it": "Pollo, da brodo, frattaglie, cotte, lessate a fuoco lento",
+  "fr": "Poule, à bouillir, abats, cuits, mijotés",
+  "es": "Pollo, para guisar, menudencias, cocidas, hervidas a fuego lento",
+  "de": "Suppenhuhn, Innereien, gekocht, geköchelt",
+  "pt": "Frango, para ensopar, miúdos, cozidos, cozidos em fogo baixo"
+ },
+ "4202": {
+  "it": "Pollo, da brodo, frattaglie, crude",
+  "fr": "Poule, à bouillir, abats, crus",
+  "es": "Pollo, para guisar, menudencias, crudas",
+  "de": "Suppenhuhn, Innereien, roh",
+  "pt": "Frango, para ensopar, miúdos, crus"
+ },
+ "4203": {
+  "it": "Pollo, da brodo, carne chiara, solo carne, cotto, stufato",
+  "fr": "Poule, à bouillir, viande blanche, viande seule, cuite, mijotée",
+  "es": "Pollo, para guisar, carne clara, solo carne, cocido, estofado",
+  "de": "Suppenhuhn, helles Fleisch, nur Fleisch, gekocht, geschmort",
+  "pt": "Frango, para ensopar, carne clara, apenas carne, cozido, ensopado"
+ },
+ "4204": {
+  "it": "Pollo, da brodo, carne chiara, solo carne, crudo",
+  "fr": "Poule, à bouillir, viande blanche, viande seule, crue",
+  "es": "Pollo, para guisar, carne clara, solo carne, crudo",
+  "de": "Suppenhuhn, helles Fleisch, nur Fleisch, roh",
+  "pt": "Frango, para ensopar, carne clara, apenas carne, cru"
+ },
+ "4205": {
+  "it": "Pollo, da brodo, carne e pelle, frattaglie e collo, cotto, stufato",
+  "fr": "Poule, à bouillir, viande et peau, abats et cou, cuite, mijotée",
+  "es": "Pollo, para guisar, carne y piel, menudencias y cuello, cocido, estofado",
+  "de": "Suppenhuhn, Fleisch und Haut, Innereien und Hals, gekocht, geschmort",
+  "pt": "Frango, para ensopar, carne e pele, miúdos e pescoço, cozido, ensopado"
+ },
+ "4206": {
+  "it": "Pollo, da brodo, carne e pelle, frattaglie e collo, crudo",
+  "fr": "Poule, à bouillir, viande et peau, abats et cou, crue",
+  "es": "Pollo, para guisar, carne y piel, menudencias y cuello, crudo",
+  "de": "Suppenhuhn, Fleisch und Haut, Innereien und Hals, roh",
+  "pt": "Frango, para ensopar, carne e pele, miúdos e pescoço, cru"
+ },
+ "4207": {
+  "it": "Pollo, da brodo, carne e pelle, cotto, stufato",
+  "fr": "Poule, à bouillir, viande et peau, cuite, mijotée",
+  "es": "Pollo, para guisar, carne y piel, cocido, estofado",
+  "de": "Suppenhuhn, Fleisch und Haut, gekocht, geschmort",
+  "pt": "Frango, para ensopar, carne e pele, cozido, ensopado"
+ },
+ "4208": {
+  "it": "Pollo, da brodo, carne e pelle, crudo",
+  "fr": "Poule, à bouillir, viande et peau, crue",
+  "es": "Pollo, para guisar, carne y piel, crudo",
+  "de": "Suppenhuhn, Fleisch und Haut, roh",
+  "pt": "Frango, para ensopar, carne e pele, cru"
+ },
+ "4209": {
+  "it": "Pollo, da brodo, solo carne, cotto, stufato",
+  "fr": "Poule, à bouillir, viande seule, cuite, mijotée",
+  "es": "Pollo, para guisar, solo carne, cocido, estofado",
+  "de": "Suppenhuhn, nur Fleisch, gekocht, geschmort",
+  "pt": "Frango, para ensopar, apenas carne, cozido, ensopado"
+ },
+ "4210": {
+  "it": "Pollo, da brodo, solo carne, crudo",
+  "fr": "Poule, à bouillir, viande seule, crue",
+  "es": "Pollo, para guisar, solo carne, crudo",
+  "de": "Suppenhuhn, nur Fleisch, roh",
+  "pt": "Frango, para ensopar, apenas carne, cru"
+ },
+ "4211": {
+  "it": "Pollo, codrione",
+  "fr": "Poulet, croupion",
+  "es": "Pollo, rabadilla",
+  "de": "Hähnchen, Bürzel",
+  "pt": "Frango, sambiquira"
+ },
+ "4212": {
+  "it": "Pollo, sovracoscia, disossata, senza pelle, cruda",
+  "fr": "Poulet, cuisse, désossée, sans peau, crue",
+  "es": "Pollo, muslo, deshuesado, sin piel, crudo",
+  "de": "Hähnchen, Keule, ohne Knochen, ohne Haut, roh",
+  "pt": "Frango, sobrecoxa, sem osso, sem pele, crua"
+ },
+ "4213": {
+  "it": "Pollo, sovracoscia, carne e pelle, cruda",
+  "fr": "Poulet, cuisse, viande et peau, crue",
+  "es": "Pollo, muslo, carne y piel, cruda",
+  "de": "Hähnchen, Keule, Fleisch und Haut, roh",
+  "pt": "Frango, sobrecoxa, carne e pele, crua"
+ },
+ "4214": {
+  "it": "Pollo, cosce, surgelate, impanate, riscaldate",
+  "fr": "Poulet, cuisses, surgelées, panées, réchauffées",
+  "es": "Pollo, muslos, congelados, empanados, recalentados",
+  "de": "Hähnchen, Keulen, tiefgekühlt, paniert, aufgewärmt",
+  "pt": "Frango, coxas, congeladas, empanadas, reaquecidas"
+ },
+ "4215": {
+  "it": "Pollo, ala, surgelata, glassata, aromatizzata al barbecue",
+  "fr": "Poulet, aile, surgelée, glacée, aromatisée barbecue",
+  "es": "Pollo, ala, congelada, glaseada, con sabor a barbacoa",
+  "de": "Hähnchen, Flügel, tiefgekühlt, glasiert, mit Barbecue-Geschmack",
+  "pt": "Frango, asa, congelada, glaceada, sabor churrasco"
+ },
+ "4216": {
+  "it": "Pollo, ala, surgelata, glassata, aromatizzata al barbecue, riscaldata (forno tradizionale)",
+  "fr": "Poulet, aile, surgelée, glacée, aromatisée barbecue, réchauffée (four traditionnel)",
+  "es": "Pollo, ala, congelada, glaseada, con sabor a barbacoa, recalentada (horno convencional)",
+  "de": "Hähnchen, Flügel, tiefgekühlt, glasiert, mit Barbecue-Geschmack, aufgewärmt (herkömmlicher Backofen)",
+  "pt": "Frango, asa, congelada, glaceada, sabor churrasco, reaquecida (forno convencional)"
+ },
+ "4217": {
+  "it": "Pollo, ala, surgelata, glassata, aromatizzata al barbecue, riscaldata (microonde)",
+  "fr": "Poulet, aile, surgelée, glacée, aromatisée barbecue, réchauffée (micro-ondes)",
+  "es": "Pollo, ala, congelada, glaseada, con sabor a barbacoa, recalentada (microondas)",
+  "de": "Hähnchen, Flügel, tiefgekühlt, glasiert, mit Barbecue-Geschmack, aufgewärmt (Mikrowelle)",
+  "pt": "Frango, asa, congelada, glaceada, sabor churrasco, reaquecida (micro-ondas)"
+ },
+ "4218": {
+  "it": "Pollo, ala, carne e pelle, cruda",
+  "fr": "Poulet, aile, viande et peau, crue",
+  "es": "Pollo, ala, carne y piel, cruda",
+  "de": "Hähnchen, Flügel, Fleisch und Haut, roh",
+  "pt": "Frango, asa, carne e pele, crua"
+ },
+ "4219": {
+  "it": "Farina di ceci (besan)",
+  "fr": "Farine de pois chiches (besan)",
+  "es": "Harina de garbanzo (besan)",
+  "de": "Kichererbsenmehl (Besan)",
+  "pt": "Farinha de grão-de-bico (besan)"
+ },
+ "4220": {
+  "it": "Farina di ceci, pregelatinizzata",
+  "fr": "Farine de pois chiches, prégélatinisée",
+  "es": "Harina de garbanzo, pregelatinizada",
+  "de": "Kichererbsenmehl, vorverkleistert",
+  "pt": "Farinha de grão-de-bico, pré-gelatinizada"
+ },
+ "4221": {
+  "it": "Ceci (garbanzo, grammo del Bengala), in scatola, con sodio aggiunto, sgocciolati e sciacquati",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), en conserve, avec sodium ajouté, égouttés et rincés",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), en conserva, con sodio añadido, escurridos y enjuagados",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), aus der Dose, mit zugesetztem Natrium, abgetropft und abgespült",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), enlatado, com sódio adicionado, escorrido e enxaguado"
+ },
+ "4222": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, in scatola, solidi sgocciolati",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, en conserve, solides égouttés",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, en conserva, sólidos escurridos",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, aus der Dose, abgetropfte feste Bestandteile",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, enlatado, sólidos escorridos"
+ },
+ "4223": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, in scatola, sgocciolati, sciacquati con acqua del rubinetto",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, en conserve, égouttés, rincés à l'eau du robinet",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, en conserva, escurridos, enjuagados con agua del grifo",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, aus der Dose, abgetropft, mit Leitungswasser abgespült",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, enlatado, escorrido, enxaguado em água da torneira"
+ },
+ "4224": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, in scatola, solidi e liquidi",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, en conserve, solides et liquides",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, en conserva, sólidos y líquidos",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, aus der Dose, feste und flüssige Bestandteile",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, enlatado, sólidos e líquidos"
+ },
+ "4225": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, in scatola, solidi e liquidi, a basso contenuto di sodio",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, en conserve, solides et liquides, pauvres en sodium",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, en conserva, sólidos y líquidos, bajos en sodio",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, aus der Dose, feste und flüssige Bestandteile, natriumarm",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, enlatado, sólidos e líquidos, com baixo teor de sódio"
+ },
+ "4226": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, cotti, bolliti, con sale",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, cuits, bouillis, avec sel",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, cocidos, hervidos, con sal",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, gekocht, mit Salz",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, cozido, cozido em água, com sal"
+ },
+ "4227": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, cotti, bolliti, senza sale",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, cuits, bouillis, sans sel",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, cocidos, hervidos, sin sal",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, gekocht, ohne Salz",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, cozido, cozido em água, sem sal"
+ },
+ "4228": {
+  "it": "Ceci (garbanzo, grammo del Bengala), semi maturi, crudi",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), graines mûres, crus",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), semillas maduras, crudos",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), reife Samen, roh",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), sementes maduras, cru"
+ },
+ "4229": {
+  "it": "Ceci (garbanzo, grammo del Bengala), secchi",
+  "fr": "Pois chiches (garbanzos, gram du Bengale), secs",
+  "es": "Garbanzos (garbanzos, gramo de Bengala), secos",
+  "de": "Kichererbsen (Garbanzo, Bengalische Kichererbse), getrocknet",
+  "pt": "Grão-de-bico (garbanzo, grão-de-bico de Bengala), seco"
+ },
+ "4230": {
+  "it": "Ceci, da scatola, con grasso aggiunto",
+  "fr": "Pois chiches, en conserve, avec matière grasse ajoutée",
+  "es": "Garbanzos, de conserva, con grasa añadida",
+  "de": "Kichererbsen, aus der Dose, mit zugesetztem Fett",
+  "pt": "Grão-de-bico, enlatado, com gordura adicionada"
+ },
+ "4231": {
+  "it": "Ceci, da scatola, senza grasso aggiunto",
+  "fr": "Pois chiches, en conserve, sans matière grasse ajoutée",
+  "es": "Garbanzos, de conserva, sin grasa añadida",
+  "de": "Kichererbsen, aus der Dose, ohne zugesetztes Fett",
+  "pt": "Grão-de-bico, enlatado, sem gordura adicionada"
+ },
+ "4232": {
+  "it": "Ceci, da scatola, a ridotto contenuto di sodio",
+  "fr": "Pois chiches, en conserve, à teneur réduite en sodium",
+  "es": "Garbanzos, de conserva, reducidos en sodio",
+  "de": "Kichererbsen, aus der Dose, natriumreduziert",
+  "pt": "Grão-de-bico, enlatado, com teor reduzido de sódio"
+ },
+ "4233": {
+  "it": "Ceci, da secchi, con grasso aggiunto",
+  "fr": "Pois chiches, à partir de secs, avec matière grasse ajoutée",
+  "es": "Garbanzos, de secos, con grasa añadida",
+  "de": "Kichererbsen, aus getrockneten, mit zugesetztem Fett",
+  "pt": "Grão-de-bico, a partir de seco, com gordura adicionada"
+ },
+ "4234": {
+  "it": "Ceci, da secchi, senza grasso aggiunto",
+  "fr": "Pois chiches, à partir de secs, sans matière grasse ajoutée",
+  "es": "Garbanzos, de secos, sin grasa añadida",
+  "de": "Kichererbsen, aus getrockneten, ohne zugesetztes Fett",
+  "pt": "Grão-de-bico, a partir de seco, sem gordura adicionada"
+ },
+ "4235": {
+  "it": "Ceci, non specificato",
+  "fr": "Pois chiches, non spécifié",
+  "es": "Garbanzos, no especificado",
+  "de": "Kichererbsen, nicht näher bezeichnet",
+  "pt": "Grão-de-bico, não especificado"
+ },
+ "4236": {
+  "it": "Ceci, soffiati",
+  "fr": "Pois chiches, soufflés",
+  "es": "Garbanzos, inflados",
+  "de": "Kichererbsen, gepufft",
+  "pt": "Grão-de-bico, estufado"
+ },
+ "4237": {
+  "it": "Bevanda di cicoria",
+  "fr": "Boisson à la chicorée",
+  "es": "Bebida de achicoria",
+  "de": "Zichoriengetränk",
+  "pt": "Bebida de chicória"
+ },
+ "4238": {
+  "it": "Cicoria (foglie), cruda",
+  "fr": "Chicorée (feuilles), crue",
+  "es": "Achicoria (hojas), cruda",
+  "de": "Chicorée (Blätter), roh",
+  "pt": "Chicória (folhas), crua"
+ },
+ "4239": {
+  "it": "Radici di cicoria, crude",
+  "fr": "Racines de chicorée, crues",
+  "es": "Raíces de achicoria, crudas",
+  "de": "Zichorienwurzeln, roh",
+  "pt": "Raízes de chicória, cruas"
+ },
+ "4240": {
+  "it": "Cicoria belga (witloof), cruda",
+  "fr": "Endive (witloof), crue",
+  "es": "Endibia (witloof), cruda",
+  "de": "Chicorée (Witloof), roh",
+  "pt": "Endívia (witloof), crua"
+ },
+ "4241": {
+  "it": "Chilaquiles (tortilla di mais fritta con salsa)",
+  "fr": "Chilaquiles (tortilla de maïs frite avec sauce)",
+  "es": "Chilaquiles",
+  "de": "Chilaquiles (frittierte Maistortilla mit Sauce)",
+  "pt": "Chilaquiles (tortilha de milho frita com molho)"
+ },
+ "4242": {
+  "it": "Chilchen (bevanda ai frutti rossi) (Navajo)",
+  "fr": "Chilchen (boisson aux fruits rouges) (Navajo)",
+  "es": "Chilchen (bebida de frutos rojos) (navajo)",
+  "de": "Chilchen (Rote-Beeren-Getränk) (Navajo)",
+  "pt": "Chilchen (bebida de frutas vermelhas) (navajo)"
+ },
+ "4243": {
+  "it": "Latte di crescita per bambini, ABBOTT NUTRITION, PEDIASURE, pronto da bere",
+  "fr": "Lait de croissance pour enfants, ABBOTT NUTRITION, PEDIASURE, prêt à boire",
+  "es": "Fórmula infantil, ABBOTT NUTRITION, PEDIASURE, lista para beber",
+  "de": "Kindernahrung, ABBOTT NUTRITION, PEDIASURE, trinkfertig",
+  "pt": "Fórmula infantil, ABBOTT NUTRITION, PEDIASURE, pronta para beber"
+ },
+ "4244": {
+  "it": "Latte di crescita per bambini, ABBOTT NUTRITION, PEDIASURE, pronto da bere, con ferro e fibre",
+  "fr": "Lait de croissance pour enfants, ABBOTT NUTRITION, PEDIASURE, prêt à boire, avec fer et fibres",
+  "es": "Fórmula infantil, ABBOTT NUTRITION, PEDIASURE, lista para beber, con hierro y fibra",
+  "de": "Kindernahrung, ABBOTT NUTRITION, PEDIASURE, trinkfertig, mit Eisen und Ballaststoffen",
+  "pt": "Fórmula infantil, ABBOTT NUTRITION, PEDIASURE, pronta para beber, com ferro e fibras"
+ },
+ "4245": {
+  "it": "Chiles rellenos (peperoni ripieni), ripieni di formaggio",
+  "fr": "Chiles rellenos (piments farcis), farcis au fromage",
+  "es": "Chiles rellenos, rellenos de queso",
+  "de": "Chiles rellenos (gefüllte Chilischoten), mit Käsefüllung",
+  "pt": "Chiles rellenos (pimentas recheadas), recheados com queijo"
+ },
+ "4246": {
+  "it": "Chiles rellenos (peperoni ripieni), ripieni di carne e formaggio",
+  "fr": "Chiles rellenos (piments farcis), farcis à la viande et au fromage",
+  "es": "Chiles rellenos, rellenos de carne y queso",
+  "de": "Chiles rellenos (gefüllte Chilischoten), mit Fleisch- und Käsefüllung",
+  "pt": "Chiles rellenos (pimentas recheadas), recheados com carne e queijo"
+ },
+ "4247": {
+  "it": "Chili con carne con fagioli, piatto pronto in scatola",
+  "fr": "Chili con carne avec haricots, plat préparé en conserve",
+  "es": "Chile con carne con frijoles, plato preparado en conserva",
+  "de": "Chili con Carne mit Bohnen, Fertiggericht aus der Dose",
+  "pt": "Chili com carne com feijão, prato pronto enlatado"
+ },
+ "4248": {
+  "it": "Panino con hot dog al chili, su pane integrale",
+  "fr": "Sandwich hot-dog au chili, sur pain complet",
+  "es": "Sándwich de perrito caliente con chile, en pan integral",
+  "de": "Hot-Dog-Sandwich mit Chili, auf Vollkornbrot",
+  "pt": "Sanduíche de cachorro-quente com chili, em pão integral"
+ },
+ "4249": {
+  "it": "Panino con hot dog al chili, su panino integrale",
+  "fr": "Sandwich hot-dog au chili, sur petit pain complet",
+  "es": "Sándwich de perrito caliente con chile, en bollo integral",
+  "de": "Hot-Dog-Sandwich mit Chili, im Vollkornbrötchen",
+  "pt": "Sanduíche de cachorro-quente com chili, em pãozinho integral"
+ },
+ "4250": {
+  "it": "Panino con hot dog al chili, su pane bianco",
+  "fr": "Sandwich hot-dog au chili, sur pain blanc",
+  "es": "Sándwich de perrito caliente con chile, en pan blanco",
+  "de": "Hot-Dog-Sandwich mit Chili, auf Weißbrot",
+  "pt": "Sanduíche de cachorro-quente com chili, em pão branco"
+ },
+ "4251": {
+  "it": "Panino con hot dog al chili, su panino bianco",
+  "fr": "Sandwich hot-dog au chili, sur petit pain blanc",
+  "es": "Sándwich de perrito caliente con chile, en bollo blanco",
+  "de": "Hot-Dog-Sandwich mit Chili, im Weißbrötchen",
+  "pt": "Sanduíche de cachorro-quente com chili, em pãozinho branco"
+ },
+ "4252": {
+  "it": "Hot dog al chili, senza panino",
+  "fr": "Hot-dog au chili, sans pain",
+  "es": "Perrito caliente con chile, sin pan",
+  "de": "Hot Dog mit Chili, ohne Brötchen",
+  "pt": "Cachorro-quente com chili, sem pão"
+ },
+ "4253": {
+  "it": "Chili con fagioli, in scatola",
+  "fr": "Chili aux haricots, en conserve",
+  "es": "Chile con frijoles, en conserva",
+  "de": "Chili mit Bohnen, aus der Dose",
+  "pt": "Chili com feijão, enlatado"
+ },
+ "4254": {
+  "it": "Chili con fagioli, in ciotole per microonde",
+  "fr": "Chili aux haricots, en bols pour micro-ondes",
+  "es": "Chile con frijoles, en tazones para microondas",
+  "de": "Chili mit Bohnen, in mikrowellengeeigneten Schalen",
+  "pt": "Chili com feijão, em potes para micro-ondas"
+ },
+ "4255": {
+  "it": "Chili con pollo",
+  "fr": "Chili au poulet",
+  "es": "Chile con pollo",
+  "de": "Chili mit Huhn",
+  "pt": "Chili com frango"
+ },
+ "4256": {
+  "it": "Chili con pollo e fagioli",
+  "fr": "Chili au poulet et aux haricots",
+  "es": "Chile con pollo y frijoles",
+  "de": "Chili mit Huhn und Bohnen",
+  "pt": "Chili com frango e feijão"
+ },
+ "4257": {
+  "it": "Chili con maccheroni",
+  "fr": "Chili avec macaronis",
+  "es": "Chile con macarrones",
+  "de": "Chili mit Makkaroni",
+  "pt": "Chili com macarrão"
+ },
+ "4258": {
+  "it": "Chili con carne",
+  "fr": "Chili à la viande",
+  "es": "Chile con carne",
+  "de": "Chili mit Fleisch",
+  "pt": "Chili com carne"
+ },
+ "4259": {
+  "it": "Chili con carne e fagioli",
+  "fr": "Chili à la viande et aux haricots",
+  "es": "Chile con carne y frijoles",
+  "de": "Chili mit Fleisch und Bohnen",
+  "pt": "Chili com carne e feijão"
+ },
+ "4260": {
+  "it": "Chili con carne, in scatola",
+  "fr": "Chili à la viande, en conserve",
+  "es": "Chile con carne, en conserva",
+  "de": "Chili mit Fleisch, aus der Dose",
+  "pt": "Chili com carne, enlatado"
+ },
+ "4261": {
+  "it": "Chili con carne, da ristorante",
+  "fr": "Chili à la viande, de restaurant",
+  "es": "Chile con carne, de restaurante",
+  "de": "Chili mit Fleisch, aus dem Restaurant",
+  "pt": "Chili com carne, de restaurante"
+ },
+ "4262": {
+  "it": "Chili, non specificato",
+  "fr": "Chili, non spécifié",
+  "es": "Chile, no especificado",
+  "de": "Chili, nicht näher bezeichnet",
+  "pt": "Chili, não especificado"
+ },
+ "4263": {
+  "it": "Chili, senza fagioli, piatto pronto in scatola",
+  "fr": "Chili, sans haricots, plat préparé en conserve",
+  "es": "Chile, sin frijoles, plato preparado en conserva",
+  "de": "Chili, ohne Bohnen, Fertiggericht aus der Dose",
+  "pt": "Chili, sem feijão, prato pronto enlatado"
+ },
+ "4264": {
+  "it": "Chili, vegetariano",
+  "fr": "Chili, végétarien",
+  "es": "Chile, vegetariano",
+  "de": "Chili, vegetarisch",
+  "pt": "Chili, vegetariano"
+ },
+ "4265": {
+  "it": "Chili, bianco",
+  "fr": "Chili, blanc",
+  "es": "Chile, blanco",
+  "de": "Chili, weiß",
+  "pt": "Chili, branco"
+ },
+ "4266": {
+  "it": "Hamburger al chili, con o senza formaggio, nel panino",
+  "fr": "Hamburger au chili, avec ou sans fromage, dans un petit pain",
+  "es": "Hamburguesa con chile, con o sin queso, en bollo",
+  "de": "Chili-Burger, mit oder ohne Käse, im Brötchen",
+  "pt": "Hambúrguer com chili, com ou sem queijo, no pão"
+ },
+ "4267": {
+  "it": "Chimichanga, pollo",
+  "fr": "Chimichanga, poulet",
+  "es": "Chimichanga, pollo",
+  "de": "Chimichanga, Huhn",
+  "pt": "Chimichanga, frango"
+ },
+ "4268": {
+  "it": "Chimichanga, carne",
+  "fr": "Chimichanga, viande",
+  "es": "Chimichanga, carne",
+  "de": "Chimichanga, Fleisch",
+  "pt": "Chimichanga, carne"
+ },
+ "4269": {
+  "it": "Chimichanga, con fagioli",
+  "fr": "Chimichanga, aux haricots",
+  "es": "Chimichanga, con frijoles",
+  "de": "Chimichanga, mit Bohnen",
+  "pt": "Chimichanga, com feijão"
+ },
+ "4270": {
+  "it": "Frittella cinese",
+  "fr": "Crêpe chinoise",
+  "es": "Panqueque chino",
+  "de": "Chinesischer Pfannkuchen",
+  "pt": "Panqueca chinesa"
+ },
+ "4271": {
+  "it": "Salsa dip al chipotle, light",
+  "fr": "Dip au chipotle, allégé",
+  "es": "Dip de chipotle, ligero",
+  "de": "Chipotle-Dip, leicht",
+  "pt": "Molho dip de chipotle, light"
+ },
+ "4272": {
+  "it": "Salsa dip al chipotle, normale",
+  "fr": "Dip au chipotle, classique",
+  "es": "Dip de chipotle, normal",
+  "de": "Chipotle-Dip, normal",
+  "pt": "Molho dip de chipotle, tradicional"
+ },
+ "4273": {
+  "it": "Salsa dip al chipotle, a base di yogurt",
+  "fr": "Dip au chipotle, à base de yaourt",
+  "es": "Dip de chipotle, a base de yogur",
+  "de": "Chipotle-Dip, auf Joghurtbasis",
+  "pt": "Molho dip de chipotle, à base de iogurte"
+ },
+ "4274": {
+  "it": "Patatine di riso",
+  "fr": "Chips de riz",
+  "es": "Chips de arroz",
+  "de": "Reischips",
+  "pt": "Chips de arroz"
+ },
+ "4275": {
+  "it": "Chitone, coriaceo, gumboots (nativi dell'Alaska)",
+  "fr": "Chiton, coriace, gumboots (Autochtones de l'Alaska)",
+  "es": "Quitón, coriáceo, gumboots (nativos de Alaska)",
+  "de": "Käferschnecke, ledrig, Gumboots (Ureinwohner Alaskas)",
+  "pt": "Quitão, coriáceo, gumboots (nativos do Alasca)"
+ },
+ "4276": {
+  "it": "Chitterlings (intestino di maiale)",
+  "fr": "Chitterlings (intestins de porc)",
+  "es": "Chitterlings (intestino de cerdo)",
+  "de": "Chitterlings (Schweinedarm)",
+  "pt": "Chitterlings (intestino de porco)"
+ },
+ "4277": {
+  "it": "Erba cipollina, liofilizzata",
+  "fr": "Ciboulette, lyophilisée",
+  "es": "Cebollino, liofilizado",
+  "de": "Schnittlauch, gefriergetrocknet",
+  "pt": "Cebolinha, liofilizada"
+ },
+ "4278": {
+  "it": "Erba cipollina, cruda",
+  "fr": "Ciboulette, crue",
+  "es": "Cebollino, crudo",
+  "de": "Schnittlauch, roh",
+  "pt": "Cebolinha, crua"
+ },
+ "4279": {
+  "it": "Cioccolato in polvere per bevande, miscela secca, non ricostituito",
+  "fr": "Chocolat en poudre pour boissons, mélange sec, non reconstitué",
+  "es": "Chocolate en polvo para bebidas, mezcla seca, sin reconstituir",
+  "de": "Schokoladengetränkepulver, Trockenmischung, nicht zubereitet",
+  "pt": "Chocolate em pó para bebidas, mistura seca, não reconstituído"
+ },
+ "4280": {
+  "it": "Cioccolato in polvere per bevande, light, miscela secca, non ricostituito",
+  "fr": "Chocolat en poudre pour boissons, allégé, mélange sec, non reconstitué",
+  "es": "Chocolate en polvo para bebidas, ligero, mezcla seca, sin reconstituir",
+  "de": "Schokoladengetränkepulver, leicht, Trockenmischung, nicht zubereitet",
+  "pt": "Chocolate em pó para bebidas, light, mistura seca, não reconstituído"
+ },
+ "4281": {
+  "it": "Cioccolatino",
+  "fr": "Bonbon au chocolat",
+  "es": "Dulce de chocolate",
+  "de": "Schokoladenbonbon",
+  "pt": "Bombom de chocolate"
+ },
+ "4282": {
+  "it": "Cioccolatino con cereali",
+  "fr": "Bonbon au chocolat avec céréales",
+  "es": "Dulce de chocolate con cereales",
+  "de": "Schokoladenbonbon mit Getreide",
+  "pt": "Bombom de chocolate com cereais"
+ },
+ "4283": {
+  "it": "Cioccolatino con frutta secca disidratata",
+  "fr": "Bonbon au chocolat avec fruits séchés",
+  "es": "Dulce de chocolate con fruta seca",
+  "de": "Schokoladenbonbon mit Trockenfrüchten",
+  "pt": "Bombom de chocolate com frutas secas"
+ },
+ "4284": {
+  "it": "Cioccolatino con frutta a guscio",
+  "fr": "Bonbon au chocolat avec fruits à coque",
+  "es": "Dulce de chocolate con frutos secos",
+  "de": "Schokoladenbonbon mit Nüssen",
+  "pt": "Bombom de chocolate com oleaginosas"
+ },
+ "4285": {
+  "it": "Cioccolatino con frutta a guscio, altro, non specificato",
+  "fr": "Bonbon au chocolat avec fruits à coque, autre, non spécifié",
+  "es": "Dulce de chocolate con frutos secos, otro, no especificado",
+  "de": "Schokoladenbonbon mit Nüssen, andere, nicht näher bezeichnet",
+  "pt": "Bombom de chocolate com oleaginosas, outro, não especificado"
+ },
+ "4286": {
+  "it": "Cioccolatino, con guscio di zucchero",
+  "fr": "Bonbon au chocolat, enrobé d'une coque de sucre",
+  "es": "Dulce de chocolate, con cubierta de azúcar",
+  "de": "Schokoladenbonbon, mit Zuckerhülle",
+  "pt": "Bombom de chocolate, com casquinha de açúcar"
+ },
+ "4287": {
+  "it": "Cioccolatino, con guscio di zucchero e frutta a guscio",
+  "fr": "Bonbon au chocolat, enrobé d'une coque de sucre, avec fruits à coque",
+  "es": "Dulce de chocolate, con cubierta de azúcar y frutos secos",
+  "de": "Schokoladenbonbon, mit Zuckerhülle und Nüssen",
+  "pt": "Bombom de chocolate, com casquinha de açúcar e oleaginosas"
+ },
+ "4288": {
+  "it": "Cioccolatino, ripieno di caramello",
+  "fr": "Bonbon au chocolat, fourré au caramel",
+  "es": "Dulce de chocolate, relleno de caramelo",
+  "de": "Schokoladenbonbon, mit Karamellfüllung",
+  "pt": "Bombom de chocolate, recheado de caramelo"
+ },
+ "4289": {
+  "it": "Cioccolatino, ripieno di caramello e frutta a guscio",
+  "fr": "Bonbon au chocolat, fourré au caramel, avec fruits à coque",
+  "es": "Dulce de chocolate, relleno de caramelo con frutos secos",
+  "de": "Schokoladenbonbon, mit Karamellfüllung und Nüssen",
+  "pt": "Bombom de chocolate, recheado de caramelo e oleaginosas"
+ },
+ "4290": {
+  "it": "Cioccolatino, ripieno di cocco",
+  "fr": "Bonbon au chocolat, fourré à la noix de coco",
+  "es": "Dulce de chocolate, relleno de coco",
+  "de": "Schokoladenbonbon, mit Kokosfüllung",
+  "pt": "Bombom de chocolate, recheado de coco"
+ },
+ "4291": {
+  "it": "Cioccolatino, ripieno di biscotto",
+  "fr": "Bonbon au chocolat, fourré au biscuit",
+  "es": "Dulce de chocolate, relleno de galleta",
+  "de": "Schokoladenbonbon, mit Keksfüllung",
+  "pt": "Bombom de chocolate, recheado de biscoito"
+ },
+ "4292": {
+  "it": "Cioccolatino, ripieno di crema",
+  "fr": "Bonbon au chocolat, fourré à la crème",
+  "es": "Dulce de chocolate, relleno de crema",
+  "de": "Schokoladenbonbon, mit Cremefüllung",
+  "pt": "Bombom de chocolate, recheado de creme"
+ },
+ "4293": {
+  "it": "Cioccolatino, fudge",
+  "fr": "Bonbon au chocolat, fudge",
+  "es": "Dulce de chocolate, fudge",
+  "de": "Schokoladenbonbon, Fudge",
+  "pt": "Bombom de chocolate, fudge"
+ },
+ "4294": {
+  "it": "Cioccolatino, ripieno di torrone morbido (nougat)",
+  "fr": "Bonbon au chocolat, fourré au nougat",
+  "es": "Dulce de chocolate, relleno de turrón blando (nougat)",
+  "de": "Schokoladenbonbon, mit Nougatfüllung",
+  "pt": "Bombom de chocolate, recheado de nougat"
+ },
+ "4295": {
+  "it": "Cioccolatino, ripieno di torrone morbido (nougat) e frutta a guscio",
+  "fr": "Bonbon au chocolat, fourré au nougat, avec fruits à coque",
+  "es": "Dulce de chocolate, relleno de turrón blando (nougat) con frutos secos",
+  "de": "Schokoladenbonbon, mit Nougatfüllung und Nüssen",
+  "pt": "Bombom de chocolate, recheado de nougat e oleaginosas"
+ },
+ "4296": {
+  "it": "Cioccolatino, altro, non specificato",
+  "fr": "Bonbon au chocolat, autre, non spécifié",
+  "es": "Dulce de chocolate, otro, no especificado",
+  "de": "Schokoladenbonbon, andere, nicht näher bezeichnet",
+  "pt": "Bombom de chocolate, outro, não especificado"
+ },
+ "4297": {
+  "it": "Cioccolatino, ripieno di burro di arachidi",
+  "fr": "Bonbon au chocolat, fourré au beurre de cacahuète",
+  "es": "Dulce de chocolate, relleno de mantequilla de cacahuete",
+  "de": "Schokoladenbonbon, mit Erdnussbutterfüllung",
+  "pt": "Bombom de chocolate, recheado de pasta de amendoim"
+ },
+ "4298": {
+  "it": "Cioccolatino, senza zucchero",
+  "fr": "Bonbon au chocolat, sans sucre",
+  "es": "Dulce de chocolate, sin azúcar",
+  "de": "Schokoladenbonbon, zuckerfrei",
+  "pt": "Bombom de chocolate, sem açúcar"
+ },
+ "4299": {
+  "it": "Gocce di cioccolato",
+  "fr": "Pépites de chocolat",
+  "es": "Chips de chocolate",
+  "de": "Schokoladentropfen",
+  "pt": "Gotas de chocolate"
+ },
+ "4300": {
+  "it": "Salsa dip al cioccolato",
+  "fr": "Dip au chocolat",
+  "es": "Dip de chocolate",
+  "de": "Schokoladen-Dip",
+  "pt": "Molho dip de chocolate"
+ },
+ "4301": {
+  "it": "Crema spalmabile al cioccolato e nocciole",
+  "fr": "Pâte à tartiner chocolat-noisette",
+  "es": "Crema para untar de chocolate y avellanas",
+  "de": "Nuss-Nougat-Creme mit Schokolade und Haselnüssen",
+  "pt": "Creme de avelã com chocolate"
+ },
+ "4302": {
+  "it": "Bevanda al latte e cioccolato",
+  "fr": "Boisson lactée au chocolat",
+  "es": "Bebida de leche con chocolate",
+  "de": "Schokoladenmilchgetränk",
+  "pt": "Bebida láctea de chocolate"
+ },
+ "4303": {
+  "it": "Latte al cioccolato, senza grassi (scremato)",
+  "fr": "Lait chocolaté, sans matières grasses (écrémé)",
+  "es": "Leche con chocolate, sin grasa (desnatada)",
+  "de": "Schokoladenmilch, fettfrei (entrahmt)",
+  "pt": "Leite com chocolate, sem gordura (desnatado)"
+ },
+ "4304": {
+  "it": "Latte al cioccolato, a basso contenuto di grassi (1%)",
+  "fr": "Lait chocolaté, allégé (1 %)",
+  "es": "Leche con chocolate, baja en grasa (1%)",
+  "de": "Schokoladenmilch, fettarm (1%)",
+  "pt": "Leite com chocolate, com baixo teor de gordura (1%)"
+ },
+ "4305": {
+  "it": "Latte al cioccolato, Nesquik, preparato con latte vegetale",
+  "fr": "Lait chocolaté, Nesquik, préparé avec du lait végétal",
+  "es": "Leche con chocolate, Nesquik, preparada con leche vegetal",
+  "de": "Schokoladenmilch, Nesquik, mit pflanzlicher Milch zubereitet",
+  "pt": "Leite com chocolate, Nesquik, preparado com leite vegetal"
+ },
+ "4306": {
+  "it": "Latte al cioccolato, Nesquik, non specificato il tipo di latte",
+  "fr": "Lait chocolaté, Nesquik, type de lait non précisé",
+  "es": "Leche con chocolate, Nesquik, sin especificar el tipo de leche",
+  "de": "Schokoladenmilch, Nesquik, Milchsorte nicht angegeben",
+  "pt": "Leite com chocolate, Nesquik, tipo de leite não especificado"
+ },
+ "4307": {
+  "it": "Latte al cioccolato, non specificato",
+  "fr": "Lait chocolaté, non spécifié",
+  "es": "Leche con chocolate, no especificado",
+  "de": "Schokoladenmilch, nicht näher bezeichnet",
+  "pt": "Leite com chocolate, não especificado"
+ },
+ "4308": {
+  "it": "Latte al cioccolato, a ridotto contenuto di grassi (2%)",
+  "fr": "Lait chocolaté, à teneur réduite en matières grasses (2 %)",
+  "es": "Leche con chocolate, reducida en grasa (2%)",
+  "de": "Schokoladenmilch, fettreduziert (2%)",
+  "pt": "Leite com chocolate, com teor reduzido de gordura (2%)"
+ },
+ "4309": {
+  "it": "Latte al cioccolato, a ridotto contenuto di zuccheri, senza grassi (scremato)",
+  "fr": "Lait chocolaté, à teneur réduite en sucre, sans matières grasses (écrémé)",
+  "es": "Leche con chocolate, reducida en azúcar, sin grasa (desnatada)",
+  "de": "Schokoladenmilch, zuckerreduziert, fettfrei (entrahmt)",
+  "pt": "Leite com chocolate, com teor reduzido de açúcar, sem gordura (desnatado)"
+ },
+ "4310": {
+  "it": "Latte al cioccolato, a ridotto contenuto di zuccheri, a basso contenuto di grassi (1%)",
+  "fr": "Lait chocolaté, à teneur réduite en sucre, allégé (1 %)",
+  "es": "Leche con chocolate, reducida en azúcar, baja en grasa (1%)",
+  "de": "Schokoladenmilch, zuckerreduziert, fettarm (1%)",
+  "pt": "Leite com chocolate, com teor reduzido de açúcar, com baixo teor de gordura (1%)"
+ },
+ "4311": {
+  "it": "Latte al cioccolato, a ridotto contenuto di zuccheri, non specificato",
+  "fr": "Lait chocolaté, à teneur réduite en sucre, non spécifié",
+  "es": "Leche con chocolate, reducida en azúcar, no especificado",
+  "de": "Schokoladenmilch, zuckerreduziert, nicht näher bezeichnet",
+  "pt": "Leite com chocolate, com teor reduzido de açúcar, não especificado"
+ },
+ "4312": {
+  "it": "Latte al cioccolato, a ridotto contenuto di zuccheri, a ridotto contenuto di grassi (2%)",
+  "fr": "Lait chocolaté, à teneur réduite en sucre, à teneur réduite en matières grasses (2 %)",
+  "es": "Leche con chocolate, reducida en azúcar, reducida en grasa (2%)",
+  "de": "Schokoladenmilch, zuckerreduziert, fettreduziert (2%)",
+  "pt": "Leite com chocolate, com teor reduzido de açúcar, com teor reduzido de gordura (2%)"
+ },
+ "4313": {
+  "it": "Latte al cioccolato, a ridotto contenuto di zuccheri, intero",
+  "fr": "Lait chocolaté, à teneur réduite en sucre, entier",
+  "es": "Leche con chocolate, reducida en azúcar, entera",
+  "de": "Schokoladenmilch, zuckerreduziert, Vollmilch",
+  "pt": "Leite com chocolate, com teor reduzido de açúcar, integral"
+ },
+ "4314": {
+  "it": "Latte al cioccolato, intero",
+  "fr": "Lait chocolaté, entier",
+  "es": "Leche con chocolate, entera",
+  "de": "Schokoladenmilch, Vollmilch",
+  "pt": "Leite com chocolate, integral"
+ },
+ "4315": {
+  "it": "Sciroppo di cioccolato",
+  "fr": "Sirop de chocolat",
+  "es": "Sirope de chocolate",
+  "de": "Schokoladensirup",
+  "pt": "Calda de chocolate"
+ },
+ "4316": {
+  "it": "Sciroppo di cioccolato, light",
+  "fr": "Sirop de chocolat, allégé",
+  "es": "Sirope de chocolate, ligero",
+  "de": "Schokoladensirup, leicht",
+  "pt": "Calda de chocolate, light"
+ },
+ "4317": {
+  "it": "Cioccolato fondente, 45-59% di cacao",
+  "fr": "Chocolat noir, 45-59 % de cacao",
+  "es": "Chocolate negro, 45-59% de cacao",
+  "de": "Zartbitterschokolade, 45-59% Kakao",
+  "pt": "Chocolate amargo, 45-59% de cacau"
+ },
+ "4318": {
+  "it": "Cioccolato fondente, 60-69% di cacao",
+  "fr": "Chocolat noir, 60-69 % de cacao",
+  "es": "Chocolate negro, 60-69% de cacao",
+  "de": "Zartbitterschokolade, 60-69% Kakao",
+  "pt": "Chocolate amargo, 60-69% de cacau"
+ },
+ "4319": {
+  "it": "Cioccolato fondente, 70-85% di cacao",
+  "fr": "Chocolat noir, 70-85 % de cacao",
+  "es": "Chocolate negro, 70-85% de cacao",
+  "de": "Zartbitterschokolade, 70-85% Kakao",
+  "pt": "Chocolate amargo, 70-85% de cacau"
+ },
+ "4320": {
+  "it": "Crema spalmabile alle nocciole aromatizzata al cioccolato",
+  "fr": "Pâte à tartiner aux noisettes aromatisée au chocolat",
+  "es": "Crema para untar de avellanas con sabor a chocolate",
+  "de": "Haselnussaufstrich mit Schokoladengeschmack",
+  "pt": "Creme de avelã com sabor de chocolate"
+ },
+ "4321": {
+  "it": "Ciliegie di Virginia (chokecherries), crude, snocciolate (Indiani delle Grandi Pianure del Nord)",
+  "fr": "Cerises de Virginie (chokecherries), crues, dénoyautées (Indiens des plaines du Nord)",
+  "es": "Cerezas de Virginia (chokecherries), crudas, sin hueso (indios de las Grandes Llanuras del Norte)",
+  "de": "Virginische Traubenkirschen (Chokecherries), roh, entsteint (Indianer der nördlichen Great Plains)",
+  "pt": "Cerejas-de-virgínia (chokecherries), cruas, sem caroço (indígenas das Planícies do Norte)"
+ },
+ "4322": {
+  "it": "Ciliegie di Virginia (chokecherries), crude, snocciolate (Shoshone Bannock)",
+  "fr": "Cerises de Virginie (chokecherries), crues, dénoyautées (Shoshone-Bannock)",
+  "es": "Cerezas de Virginia (chokecherries), crudas, sin hueso (shoshone bannock)",
+  "de": "Virginische Traubenkirschen (Chokecherries), roh, entsteint (Shoshone Bannock)",
+  "pt": "Cerejas-de-virgínia (chokecherries), cruas, sem caroço (shoshone bannock)"
+ },
+ "4323": {
+  "it": "Chorizo",
+  "fr": "Chorizo",
+  "es": "Chorizo",
+  "de": "Chorizo",
+  "pt": "Chorizo"
+ },
+ "4324": {
+  "it": "Noodles chow fun con carne e verdure",
+  "fr": "Nouilles chow fun à la viande et aux légumes",
+  "es": "Fideos chow fun con carne y verduras",
+  "de": "Chow-Fun-Nudeln mit Fleisch und Gemüse",
+  "pt": "Macarrão chow fun com carne e legumes"
+ },
+ "4325": {
+  "it": "Noodles chow fun con verdure, senza carne",
+  "fr": "Nouilles chow fun aux légumes, sans viande",
+  "es": "Fideos chow fun con verduras, sin carne",
+  "de": "Chow-Fun-Nudeln mit Gemüse, fleischlos",
+  "pt": "Macarrão chow fun com legumes, sem carne"
+ },
+ "4326": {
+  "it": "Chow mein o chop suey, senza carne, senza noodles",
+  "fr": "Chow mein ou chop suey, sans viande, sans nouilles",
+  "es": "Chow mein o chop suey, sin carne, sin fideos",
+  "de": "Chow Mein oder Chop Suey, fleischlos, ohne Nudeln",
+  "pt": "Chow mein ou chop suey, sem carne, sem macarrão"
+ },
+ "4327": {
+  "it": "Chow mein o chop suey, senza carne, con noodles",
+  "fr": "Chow mein ou chop suey, sans viande, avec nouilles",
+  "es": "Chow mein o chop suey, sin carne, con fideos",
+  "de": "Chow Mein oder Chop Suey, fleischlos, mit Nudeln",
+  "pt": "Chow mein ou chop suey, sem carne, com macarrão"
+ },
+ "4328": {
+  "it": "Chow mein o chop suey, tipo di carne non specificato, senza noodles",
+  "fr": "Chow mein ou chop suey, type de viande non précisé, sans nouilles",
+  "es": "Chow mein o chop suey, sin especificar el tipo de carne, sin fideos",
+  "de": "Chow Mein oder Chop Suey, Fleischsorte nicht angegeben, ohne Nudeln",
+  "pt": "Chow mein ou chop suey, tipo de carne não especificado, sem macarrão"
+ },
+ "4329": {
+  "it": "Chow mein o chop suey, tipo di carne non specificato, con noodles",
+  "fr": "Chow mein ou chop suey, type de viande non précisé, avec nouilles",
+  "es": "Chow mein o chop suey, sin especificar el tipo de carne, con fideos",
+  "de": "Chow Mein oder Chop Suey, Fleischsorte nicht angegeben, mit Nudeln",
+  "pt": "Chow mein ou chop suey, tipo de carne não especificado, com macarrão"
+ },
+ "4330": {
+  "it": "Chow mein o chop suey, vari tipi di carne, con noodles",
+  "fr": "Chow mein ou chop suey, divers types de viande, avec nouilles",
+  "es": "Chow mein o chop suey, varios tipos de carne, con fideos",
+  "de": "Chow Mein oder Chop Suey, verschiedene Fleischsorten, mit Nudeln",
+  "pt": "Chow mein ou chop suey, vários tipos de carne, com macarrão"
+ },
+ "4331": {
+  "it": "Chayote (christophine), cotto",
+  "fr": "Christophine (chayote), cuite",
+  "es": "Chayote (christophine), cocido",
+  "de": "Chayote (Christophine), gekocht",
+  "pt": "Chuchu (christophine), cozido"
+ },
+ "4332": {
+  "it": "Foglie di crisantemo, crude",
+  "fr": "Feuilles de chrysanthème, crues",
+  "es": "Hojas de crisantemo, crudas",
+  "de": "Chrysanthemenblätter, roh",
+  "pt": "Folhas de crisântemo, cruas"
+ },
+ "4333": {
+  "it": "Crisantemo commestibile (garland), cotto, bollito, sgocciolato, con sale",
+  "fr": "Chrysanthème comestible (garland), cuit, bouilli, égoutté, avec sel",
+  "es": "Crisantemo comestible (garland), cocido, hervido, escurrido, con sal",
+  "de": "Speisechrysantheme (Garland), gekocht, abgetropft, mit Salz",
+  "pt": "Crisântemo comestível (garland), cozido, cozido em água, escorrido, com sal"
+ },
+ "4334": {
+  "it": "Crisantemo commestibile (garland), cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chrysanthème comestible (garland), cuit, bouilli, égoutté, sans sel",
+  "es": "Crisantemo comestible (garland), cocido, hervido, escurrido, sin sal",
+  "de": "Speisechrysantheme (Garland), gekocht, abgetropft, ohne Salz",
+  "pt": "Crisântemo comestível (garland), cozido, cozido em água, escorrido, sem sal"
+ },
+ "4335": {
+  "it": "Crisantemo commestibile (garland), crudo",
+  "fr": "Chrysanthème comestible (garland), cru",
+  "es": "Crisantemo comestible (garland), crudo",
+  "de": "Speisechrysantheme (Garland), roh",
+  "pt": "Crisântemo comestível (garland), cru"
+ },
+ "4336": {
+  "it": "Churros",
+  "fr": "Churros",
+  "es": "Churros",
+  "de": "Churros",
+  "pt": "Churros"
+ },
+ "4337": {
+  "it": "Chutney",
+  "fr": "Chutney",
+  "es": "Chutney",
+  "de": "Chutney",
+  "pt": "Chutney"
+ },
+ "4338": {
+  "it": "Coriandolo, crudo",
+  "fr": "Coriandre, crue",
+  "es": "Cilantro, crudo",
+  "de": "Koriander, roh",
+  "pt": "Coentro, cru"
+ },
+ "4339": {
+  "it": "Girelle alla cannella, glassate (incluse quelle al miele)",
+  "fr": "Brioches à la cannelle, glacées (y compris brioches au miel)",
+  "es": "Rollos de canela, glaseados (incluye rollos de miel)",
+  "de": "Zimtschnecken, glasiert (einschließlich Honigschnecken)",
+  "pt": "Rolinhos de canela, glaceados (inclui rolinhos de mel)"
+ },
+ "4340": {
+  "it": "Frittella o polpetta di vongole",
+  "fr": "Beignet ou galette de palourdes",
+  "es": "Buñuelo o tortita de almejas",
+  "de": "Muschelkrapfen oder Muschelfrikadelle",
+  "pt": "Bolinho ou hambúrguer de mariscos"
+ },
+ "4341": {
+  "it": "Vongole Casino (gratinate con pancetta)",
+  "fr": "Palourdes Casino (gratinées au lard)",
+  "es": "Almejas Casino (gratinadas con beicon)",
+  "de": "Clams Casino (überbacken mit Speck)",
+  "pt": "Mariscos Casino (gratinados com bacon)"
+ },
+ "4342": {
+  "it": "Vongole, al forno o alla griglia",
+  "fr": "Palourdes, cuites au four ou grillées",
+  "es": "Almejas, al horno o a la parrilla",
+  "de": "Venusmuscheln, gebacken oder gegrillt",
+  "pt": "Mariscos, assados no forno ou grelhados"
+ },
+ "4343": {
+  "it": "Vongole, in scatola",
+  "fr": "Palourdes, en conserve",
+  "es": "Almejas, en conserva",
+  "de": "Venusmuscheln, aus der Dose",
+  "pt": "Mariscos, enlatados"
+ },
+ "4344": {
+  "it": "Vongole, fritte",
+  "fr": "Palourdes, frites",
+  "es": "Almejas, fritas",
+  "de": "Venusmuscheln, frittiert",
+  "pt": "Mariscos, fritos"
+ },
+ "4345": {
+  "it": "Vongole, non specificato",
+  "fr": "Palourdes, non spécifié",
+  "es": "Almejas, no especificado",
+  "de": "Venusmuscheln, nicht näher bezeichnet",
+  "pt": "Mariscos, não especificado"
+ },
+ "4346": {
+  "it": "Vongole, crude",
+  "fr": "Palourdes, crues",
+  "es": "Almejas, crudas",
+  "de": "Venusmuscheln, roh",
+  "pt": "Mariscos, crus"
+ },
+ "4347": {
+  "it": "Vongole, al vapore o bollite",
+  "fr": "Palourdes, cuites à la vapeur ou bouillies",
+  "es": "Almejas, al vapor o hervidas",
+  "de": "Venusmuscheln, gedämpft oder gekocht",
+  "pt": "Mariscos, cozidos no vapor ou em água"
+ },
+ "4348": {
+  "it": "Verdure miste classiche, in scatola, cotte con burro o margarina",
+  "fr": "Mélange de légumes classique, en conserve, cuit au beurre ou à la margarine",
+  "es": "Verduras mixtas clásicas, en conserva, cocidas con mantequilla o margarina",
+  "de": "Klassische Gemüsemischung, aus der Dose, gekocht mit Butter oder Margarine",
+  "pt": "Mix de legumes clássico, enlatado, cozido com manteiga ou margarina"
+ },
+ "4349": {
+  "it": "Verdure miste classiche, in scatola, cotte con olio",
+  "fr": "Mélange de légumes classique, en conserve, cuit à l'huile",
+  "es": "Verduras mixtas clásicas, en conserva, cocidas con aceite",
+  "de": "Klassische Gemüsemischung, aus der Dose, gekocht mit Öl",
+  "pt": "Mix de legumes clássico, enlatado, cozido com óleo"
+ },
+ "4350": {
+  "it": "Verdure miste classiche, in scatola, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Mélange de légumes classique, en conserve, cuit, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Verduras mixtas clásicas, en conserva, cocidas, con grasa añadida, sin especificar el tipo de grasa",
+  "de": "Klassische Gemüsemischung, aus der Dose, gekocht, mit zugesetztem Fett, Fettart nicht angegeben",
+  "pt": "Mix de legumes clássico, enlatado, cozido, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4351": {
+  "it": "Verdure miste classiche, in scatola, cotte, senza grasso aggiunto",
+  "fr": "Mélange de légumes classique, en conserve, cuit, sans matière grasse ajoutée",
+  "es": "Verduras mixtas clásicas, en conserva, cocidas, sin grasa añadida",
+  "de": "Klassische Gemüsemischung, aus der Dose, gekocht, ohne zugesetztes Fett",
+  "pt": "Mix de legumes clássico, enlatado, cozido, sem gordura adicionada"
+ },
+ "4352": {
+  "it": "Verdure miste classiche, in scatola, a ridotto contenuto di sodio, cotte con burro o margarina",
+  "fr": "Mélange de légumes classique, en conserve, à teneur réduite en sodium, cuit au beurre ou à la margarine",
+  "es": "Verduras mixtas clásicas, en conserva, reducidas en sodio, cocidas con mantequilla o margarina",
+  "de": "Klassische Gemüsemischung, aus der Dose, natriumreduziert, gekocht mit Butter oder Margarine",
+  "pt": "Mix de legumes clássico, enlatado, com teor reduzido de sódio, cozido com manteiga ou margarina"
+ },
+ "4353": {
+  "it": "Verdure miste classiche, in scatola, a ridotto contenuto di sodio, cotte con olio",
+  "fr": "Mélange de légumes classique, en conserve, à teneur réduite en sodium, cuit à l'huile",
+  "es": "Verduras mixtas clásicas, en conserva, reducidas en sodio, cocidas con aceite",
+  "de": "Klassische Gemüsemischung, aus der Dose, natriumreduziert, gekocht mit Öl",
+  "pt": "Mix de legumes clássico, enlatado, com teor reduzido de sódio, cozido com óleo"
+ },
+ "4354": {
+  "it": "Verdure miste classiche, in scatola, a ridotto contenuto di sodio, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Mélange de légumes classique, en conserve, à teneur réduite en sodium, cuit, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Verduras mixtas clásicas, en conserva, reducidas en sodio, cocidas, con grasa añadida, sin especificar el tipo de grasa",
+  "de": "Klassische Gemüsemischung, aus der Dose, natriumreduziert, gekocht, mit zugesetztem Fett, Fettart nicht angegeben",
+  "pt": "Mix de legumes clássico, enlatado, com teor reduzido de sódio, cozido, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4355": {
+  "it": "Verdure miste classiche, in scatola, a ridotto contenuto di sodio, cotte, senza grasso aggiunto",
+  "fr": "Mélange de légumes classique, en conserve, à teneur réduite en sodium, cuit, sans matière grasse ajoutée",
+  "es": "Verduras mixtas clásicas, en conserva, reducidas en sodio, cocidas, sin grasa añadida",
+  "de": "Klassische Gemüsemischung, aus der Dose, natriumreduziert, gekocht, ohne zugesetztes Fett",
+  "pt": "Mix de legumes clássico, enlatado, com teor reduzido de sódio, cozido, sem gordura adicionada"
+ },
+ "4356": {
+  "it": "Verdure miste classiche, cotte, da ristorante",
+  "fr": "Mélange de légumes classique, cuit, de restaurant",
+  "es": "Verduras mixtas clásicas, cocidas, de restaurante",
+  "de": "Klassische Gemüsemischung, gekocht, aus dem Restaurant",
+  "pt": "Mix de legumes clássico, cozido, de restaurante"
+ },
+ "4357": {
+  "it": "Verdure miste classiche, surgelate, cotte con burro o margarina",
+  "fr": "Mélange de légumes classique, surgelé, cuit au beurre ou à la margarine",
+  "es": "Verduras mixtas clásicas, congeladas, cocidas con mantequilla o margarina",
+  "de": "Klassische Gemüsemischung, tiefgekühlt, gekocht mit Butter oder Margarine",
+  "pt": "Mix de legumes clássico, congelado, cozido com manteiga ou margarina"
+ },
+ "4358": {
+  "it": "Verdure miste classiche, surgelate, cotte con olio",
+  "fr": "Mélange de légumes classique, surgelé, cuit à l'huile",
+  "es": "Verduras mixtas clásicas, congeladas, cocidas con aceite",
+  "de": "Klassische Gemüsemischung, tiefgekühlt, gekocht mit Öl",
+  "pt": "Mix de legumes clássico, congelado, cozido com óleo"
+ },
+ "4359": {
+  "it": "Verdure miste classiche, surgelate, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Mélange de légumes classique, surgelé, cuit, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Verduras mixtas clásicas, congeladas, cocidas, con grasa añadida, sin especificar el tipo de grasa",
+  "de": "Klassische Gemüsemischung, tiefgekühlt, gekocht, mit zugesetztem Fett, Fettart nicht angegeben",
+  "pt": "Mix de legumes clássico, congelado, cozido, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4360": {
+  "it": "Verdure miste classiche, surgelate, cotte, senza grasso aggiunto",
+  "fr": "Mélange de légumes classique, surgelé, cuit, sans matière grasse ajoutée",
+  "es": "Verduras mixtas clásicas, congeladas, cocidas, sin grasa añadida",
+  "de": "Klassische Gemüsemischung, tiefgekühlt, gekocht, ohne zugesetztes Fett",
+  "pt": "Mix de legumes clássico, congelado, cozido, sem gordura adicionada"
+ },
+ "4361": {
+  "it": "Verdure miste classiche, forma non specificata, cotte",
+  "fr": "Mélange de légumes classique, forme non précisée, cuit",
+  "es": "Verduras mixtas clásicas, sin especificar la forma, cocidas",
+  "de": "Klassische Gemüsemischung, Form nicht angegeben, gekocht",
+  "pt": "Mix de legumes clássico, forma não especificada, cozido"
+ },
+ "4362": {
+  "it": "Clementina, cruda",
+  "fr": "Clémentine, crue",
+  "es": "Clementina, cruda",
+  "de": "Clementine, roh",
+  "pt": "Clementina, crua"
+ },
+ "4363": {
+  "it": "Clementine, crude",
+  "fr": "Clémentines, crues",
+  "es": "Clementinas, crudas",
+  "de": "Clementinen, roh",
+  "pt": "Clementinas, cruas"
+ },
+ "4364": {
+  "it": "Barretta Clif Z",
+  "fr": "Barre Clif Z",
+  "es": "Barrita Clif Z",
+  "de": "Clif Z Riegel",
+  "pt": "Barra Clif Z"
+ },
+ "4365": {
+  "it": "Camemoro (cloudberry), crudo (nativi dell'Alaska)",
+  "fr": "Chicouté (ronce petit-mûrier), cru (Autochtones de l'Alaska)",
+  "es": "Mora ártica (cloudberry), cruda (nativos de Alaska)",
+  "de": "Moltebeeren, roh (Ureinwohner Alaskas)",
+  "pt": "Amora-ártica (cloudberry), crua (nativos do Alasca)"
+ },
+ "4366": {
+  "it": "Club sandwich su pane integrale",
+  "fr": "Club sandwich sur pain complet",
+  "es": "Club sándwich en pan integral",
+  "de": "Club Sandwich auf Vollkornbrot",
+  "pt": "Club sanduíche em pão integral"
+ },
+ "4367": {
+  "it": "Club sandwich su pane integrale, con formaggio",
+  "fr": "Club sandwich sur pain complet, avec fromage",
+  "es": "Club sándwich en pan integral, con queso",
+  "de": "Club Sandwich auf Vollkornbrot, mit Käse",
+  "pt": "Club sanduíche em pão integral, com queijo"
+ },
+ "4368": {
+  "it": "Club sandwich su pane bianco",
+  "fr": "Club sandwich sur pain blanc",
+  "es": "Club sándwich en pan blanco",
+  "de": "Club Sandwich auf Weißbrot",
+  "pt": "Club sanduíche em pão branco"
+ },
+ "4369": {
+  "it": "Club sandwich su pane bianco, con formaggio",
+  "fr": "Club sandwich sur pain blanc, avec fromage",
+  "es": "Club sándwich en pan blanco, con queso",
+  "de": "Club Sandwich auf Weißbrot, mit Käse",
+  "pt": "Club sanduíche em pão branco, com queijo"
+ },
+ "4370": {
+  "it": "Club sandwich o panino imbottito, da ristorante",
+  "fr": "Club sandwich ou sandwich sous-marin, de restaurant",
+  "es": "Club sándwich o bocadillo, de restaurante",
+  "de": "Club Sandwich oder Sub, aus dem Restaurant",
+  "pt": "Club sanduíche ou sanduíche submarino, de restaurante"
+ },
+ "4371": {
+  "it": "Cobb salad, senza condimento",
+  "fr": "Salade Cobb, sans assaisonnement",
+  "es": "Ensalada Cobb, sin aderezo",
+  "de": "Cobb Salad, ohne Dressing",
+  "pt": "Salada Cobb, sem molho"
+ },
+ "4372": {
+  "it": "Cobbler (dolce al cucchiaio), di mele",
+  "fr": "Cobbler (crumble), aux pommes",
+  "es": "Cobbler (pastel de fruta), de manzana",
+  "de": "Cobbler (Obstauflauf), Apfel",
+  "pt": "Cobbler (torta de frutas), de maçã"
+ },
+ "4373": {
+  "it": "Cobbler (dolce al cucchiaio), ai frutti di bosco",
+  "fr": "Cobbler (crumble), aux fruits rouges",
+  "es": "Cobbler (pastel de fruta), de frutos del bosque",
+  "de": "Cobbler (Obstauflauf), Beeren",
+  "pt": "Cobbler (torta de frutas), de frutas vermelhas"
+ },
+ "4374": {
+  "it": "Cobbler (dolce al cucchiaio), di ciliegie",
+  "fr": "Cobbler (crumble), aux cerises",
+  "es": "Cobbler (pastel de fruta), de cereza",
+  "de": "Cobbler (Obstauflauf), Kirsche",
+  "pt": "Cobbler (torta de frutas), de cereja"
+ },
+ "4375": {
+  "it": "Cobbler (dolce al cucchiaio), di pesche",
+  "fr": "Cobbler (crumble), aux pêches",
+  "es": "Cobbler (pastel de fruta), de durazno",
+  "de": "Cobbler (Obstauflauf), Pfirsich",
+  "pt": "Cobbler (torta de frutas), de pêssego"
+ },
+ "4376": {
+  "it": "Cardio (cockles), crudo (nativi dell'Alaska)",
+  "fr": "Coques (cockles), crues (Autochtones de l'Alaska)",
+  "es": "Berberechos (cockles), crudos (nativos de Alaska)",
+  "de": "Herzmuscheln (Cockles), roh (Ureinwohner Alaskas)",
+  "pt": "Berbigões (cockles), crus (nativos do Alasca)"
+ },
+ "4377": {
+  "it": "Salsa cocktail",
+  "fr": "Sauce cocktail",
+  "es": "Salsa cóctel",
+  "de": "Cocktailsauce",
+  "pt": "Molho cocktail"
+ },
+ "4378": {
+  "it": "Cocktail, non specificato",
+  "fr": "Cocktail, non spécifié",
+  "es": "Cóctel, no especificado",
+  "de": "Cocktail, nicht näher bezeichnet",
+  "pt": "Coquetel, não especificado"
+ },
+ "4379": {
+  "it": "Preparato per cacao, NESTLE, Rich Chocolate Hot Cocoa Mix",
+  "fr": "Préparation pour cacao, NESTLE, Rich Chocolate Hot Cocoa Mix",
+  "es": "Mezcla para cacao, NESTLE, Rich Chocolate Hot Cocoa Mix",
+  "de": "Kakaomischung, NESTLE, Rich Chocolate Hot Cocoa Mix",
+  "pt": "Mistura para cacau, NESTLE, Rich Chocolate Hot Cocoa Mix"
+ },
+ "4380": {
+  "it": "Cacao in polvere, non ricostituito",
+  "fr": "Poudre de cacao, non reconstituée",
+  "es": "Cacao en polvo, sin reconstituir",
+  "de": "Kakaopulver, nicht zubereitet",
+  "pt": "Cacau em pó, não reconstituído"
+ },
+ "4381": {
+  "it": "Cacao, polvere secca, ad alto contenuto di grassi o per colazione, trattato con alcali",
+  "fr": "Cacao, poudre sèche, riche en matières grasses ou pour petit-déjeuner, traité aux alcalis",
+  "es": "Cacao, polvo seco, alto en grasa o para desayuno, procesado con álcali",
+  "de": "Kakao, Trockenpulver, fettreich oder Frühstückskakao, mit Alkali aufgeschlossen",
+  "pt": "Cacau, pó seco, com alto teor de gordura ou para café da manhã, processado com álcali"
+ },
+ "4382": {
+  "it": "Cacao, polvere secca, non zuccherato",
+  "fr": "Cacao, poudre sèche, non sucré",
+  "es": "Cacao, polvo seco, sin azúcar",
+  "de": "Kakao, Trockenpulver, ungezuckert",
+  "pt": "Cacau, pó seco, sem açúcar"
+ },
+ "4383": {
+  "it": "Cacao, polvere secca, non zuccherato, HERSHEY'S European Style Cocoa",
+  "fr": "Cacao, poudre sèche, non sucré, HERSHEY'S European Style Cocoa",
+  "es": "Cacao, polvo seco, sin azúcar, HERSHEY'S European Style Cocoa",
+  "de": "Kakao, Trockenpulver, ungezuckert, HERSHEY'S European Style Cocoa",
+  "pt": "Cacau, pó seco, sem açúcar, HERSHEY'S European Style Cocoa"
+ },
+ "4384": {
+  "it": "Cacao, polvere secca, non zuccherato, trattato con alcali",
+  "fr": "Cacao, poudre sèche, non sucré, traité aux alcalis",
+  "es": "Cacao, polvo seco, sin azúcar, procesado con álcali",
+  "de": "Kakao, Trockenpulver, ungezuckert, mit Alkali aufgeschlossen",
+  "pt": "Cacau, pó seco, sem açúcar, processado com álcali"
+ },
+ "4385": {
+  "it": "Crema di cocco, in scatola, zuccherata",
+  "fr": "Crème de coco, en conserve, sucrée",
+  "es": "Crema de coco, en conserva, azucarada",
+  "de": "Kokoscreme, aus der Dose, gezuckert",
+  "pt": "Creme de coco, enlatado, adoçado"
+ },
+ "4386": {
+  "it": "Latte di cocco",
+  "fr": "Lait de coco",
+  "es": "Leche de coco",
+  "de": "Kokosmilch",
+  "pt": "Leite de coco"
+ },
+ "4387": {
+  "it": "Latte di cocco, per cucinare",
+  "fr": "Lait de coco, pour la cuisine",
+  "es": "Leche de coco, para cocinar",
+  "de": "Kokosmilch, zum Kochen",
+  "pt": "Leite de coco, para cozinhar"
+ },
+ "4388": {
+  "it": "Olio di cocco",
+  "fr": "Huile de coco",
+  "es": "Aceite de coco",
+  "de": "Kokosöl",
+  "pt": "Óleo de coco"
+ },
+ "4389": {
+  "it": "Acqua di cocco, zuccherata",
+  "fr": "Eau de coco, sucrée",
+  "es": "Agua de coco, azucarada",
+  "de": "Kokoswasser, gezuckert",
+  "pt": "Água de coco, adoçada"
+ },
+ "4390": {
+  "it": "Acqua di cocco, non zuccherata",
+  "fr": "Eau de coco, non sucrée",
+  "es": "Agua de coco, sin azúcar",
+  "de": "Kokoswasser, ungezuckert",
+  "pt": "Água de coco, sem açúcar"
+ },
+ "4391": {
+  "it": "Cocco, fresco",
+  "fr": "Noix de coco, fraîche",
+  "es": "Coco, fresco",
+  "de": "Kokosnuss, frisch",
+  "pt": "Coco, fresco"
+ },
+ "4392": {
+  "it": "Cocco, confezionato",
+  "fr": "Noix de coco, préemballée",
+  "es": "Coco, envasado",
+  "de": "Kokosnuss, abgepackt",
+  "pt": "Coco, embalado"
+ },
+ "4393": {
+  "it": "Merluzzo del Pacifico o dell'Alaska, surgelato, pescato in natura",
+  "fr": "Morue du Pacifique ou d'Alaska, surgelée, pêchée en mer",
+  "es": "Bacalao del Pacífico o de Alaska, congelado, de captura silvestre",
+  "de": "Pazifischer Kabeljau oder Alaska-Kabeljau, tiefgekühlt, Wildfang",
+  "pt": "Bacalhau do Pacífico ou do Alasca, congelado, de pesca extrativa"
+ },
+ "4394": {
+  "it": "Insalata di baccalà alla portoricana, Serenata",
+  "fr": "Salade de morue à la portoricaine, Serenata",
+  "es": "Ensalada de bacalao al estilo puertorriqueño, Serenata",
+  "de": "Stockfischsalat nach puerto-ricanischer Art, Serenata",
+  "pt": "Salada de bacalhau à moda porto-riquenha, Serenata"
+ },
+ "4395": {
+  "it": "Baccalà con verdure amidacee alla portoricana",
+  "fr": "Morue avec légumes féculents à la portoricaine",
+  "es": "Bacalao con vegetales almidonados al estilo puertorriqueño",
+  "de": "Stockfisch mit stärkehaltigem Gemüse nach puerto-ricanischer Art",
+  "pt": "Bacalhau com vegetais amiláceos à moda porto-riquenha"
+ },
+ "4396": {
+  "it": "Caffè e cicoria, preparato",
+  "fr": "Café et chicorée, préparé",
+  "es": "Café y achicoria, preparado",
+  "de": "Kaffee und Zichorie, aufgebrüht",
+  "pt": "Café e chicória, preparado"
+ },
+ "4397": {
+  "it": "Caffè e cicoria, preparato, decaffeinato",
+  "fr": "Café et chicorée, préparé, décaféiné",
+  "es": "Café y achicoria, preparado, descafeinado",
+  "de": "Kaffee und Zichorie, aufgebrüht, entkoffeiniert",
+  "pt": "Café e chicória, preparado, descafeinado"
+ },
+ "4398": {
+  "it": "Torta da caffè (coffee cake), tipo crumb o quick bread",
+  "fr": "Gâteau au café (coffee cake), type crumb ou quick bread",
+  "es": "Pastel de café (coffee cake), tipo crumb o pan rápido",
+  "de": "Coffee Cake, Streusel- oder Schnellbrot-Art",
+  "pt": "Bolo de café (coffee cake), tipo crumb ou pão rápido"
+ },
+ "4399": {
+  "it": "Torta da caffè (coffee cake), tipo crumb o quick bread, ripiena di formaggio",
+  "fr": "Gâteau au café (coffee cake), type crumb ou quick bread, fourré au fromage",
+  "es": "Pastel de café (coffee cake), tipo crumb o pan rápido, relleno de queso",
+  "de": "Coffee Cake, Streusel- oder Schnellbrot-Art, mit Käsefüllung",
+  "pt": "Bolo de café (coffee cake), tipo crumb ou pão rápido, recheado de queijo"
+ },
+ "4400": {
+  "it": "Torta da caffè (coffee cake), tipo crumb o quick bread, con frutta",
+  "fr": "Gâteau au café (coffee cake), type crumb ou quick bread, avec fruits",
+  "es": "Pastel de café (coffee cake), tipo crumb o pan rápido, con fruta",
+  "de": "Coffee Cake, Streusel- oder Schnellbrot-Art, mit Früchten",
+  "pt": "Bolo de café (coffee cake), tipo crumb ou pão rápido, com frutas"
+ },
+ "4401": {
+  "it": "Torta da caffè (coffee cake), con lievito",
+  "fr": "Gâteau au café (coffee cake), à la levure",
+  "es": "Pastel de café (coffee cake), con levadura",
+  "de": "Coffee Cake, Hefeteig",
+  "pt": "Bolo de café (coffee cake), com fermento biológico"
+ },
+ "4402": {
+  "it": "Panna per caffè, liquida",
+  "fr": "Crème pour café, liquide",
+  "es": "Crema para café, líquida",
+  "de": "Kaffeesahne, flüssig",
+  "pt": "Creme para café, líquido"
+ },
+ "4403": {
+  "it": "Panna per caffè, liquida, senza grassi",
+  "fr": "Crème pour café, liquide, sans matières grasses",
+  "es": "Crema para café, líquida, sin grasa",
+  "de": "Kaffeesahne, flüssig, fettfrei",
+  "pt": "Creme para café, líquido, sem gordura"
+ },
+ "4404": {
+  "it": "Panna per caffè, liquida, senza grassi, aromatizzata",
+  "fr": "Crème pour café, liquide, sans matières grasses, aromatisée",
+  "es": "Crema para café, líquida, sin grasa, aromatizada",
+  "de": "Kaffeesahne, flüssig, fettfrei, aromatisiert",
+  "pt": "Creme para café, líquido, sem gordura, aromatizado"
+ },
+ "4405": {
+  "it": "Panna per caffè, liquida, senza grassi, senza zucchero, aromatizzata",
+  "fr": "Crème pour café, liquide, sans matières grasses, sans sucre, aromatisée",
+  "es": "Crema para café, líquida, sin grasa, sin azúcar, aromatizada",
+  "de": "Kaffeesahne, flüssig, fettfrei, zuckerfrei, aromatisiert",
+  "pt": "Creme para café, líquido, sem gordura, sem açúcar, aromatizado"
+ },
+ "4406": {
+  "it": "Panna per caffè, liquida, aromatizzata",
+  "fr": "Crème pour café, liquide, aromatisée",
+  "es": "Crema para café, líquida, aromatizada",
+  "de": "Kaffeesahne, flüssig, aromatisiert",
+  "pt": "Creme para café, líquido, aromatizado"
+ },
+ "4407": {
+  "it": "Panna per caffè, liquida, senza zucchero, aromatizzata",
+  "fr": "Crème pour café, liquide, sans sucre, aromatisée",
+  "es": "Crema para café, líquida, sin azúcar, aromatizada",
+  "de": "Kaffeesahne, flüssig, zuckerfrei, aromatisiert",
+  "pt": "Creme para café, líquido, sem açúcar, aromatizado"
+ },
+ "4408": {
+  "it": "Panna per caffè, non specificato",
+  "fr": "Crème pour café, non spécifié",
+  "es": "Crema para café, no especificado",
+  "de": "Kaffeesahne, nicht näher bezeichnet",
+  "pt": "Creme para café, não especificado"
+ },
+ "4409": {
+  "it": "Panna per caffè, in polvere",
+  "fr": "Crème pour café, en poudre",
+  "es": "Crema para café, en polvo",
+  "de": "Kaffeeweißer, Pulver",
+  "pt": "Creme para café, em pó"
+ },
+ "4410": {
+  "it": "Panna per caffè, in polvere, senza grassi",
+  "fr": "Crème pour café, en poudre, sans matières grasses",
+  "es": "Crema para café, en polvo, sin grasa",
+  "de": "Kaffeeweißer, Pulver, fettfrei",
+  "pt": "Creme para café, em pó, sem gordura"
+ },
+ "4411": {
+  "it": "Panna per caffè, in polvere, aromatizzata",
+  "fr": "Crème pour café, en poudre, aromatisée",
+  "es": "Crema para café, en polvo, aromatizada",
+  "de": "Kaffeeweißer, Pulver, aromatisiert",
+  "pt": "Creme para café, em pó, aromatizado"
+ },
+ "4412": {
+  "it": "Panna per caffè, di soia, liquida",
+  "fr": "Crème pour café, au soja, liquide",
+  "es": "Crema para café, de soja, líquida",
+  "de": "Kaffeesahne, Soja, flüssig",
+  "pt": "Creme para café, de soja, líquido"
+ },
+ "4413": {
+  "it": "Panna per caffè, in polvere, senza zucchero, aromatizzata",
+  "fr": "Crème pour café, en poudre, sans sucre, aromatisée",
+  "es": "Crema para café, en polvo, sin azúcar, aromatizada",
+  "de": "Kaffeeweißer, Pulver, zuckerfrei, aromatisiert",
+  "pt": "Creme para café, em pó, sem açúcar, aromatizado"
+ },
+ "4414": {
+  "it": "Surrogato di caffè",
+  "fr": "Succédané de café",
+  "es": "Sucedáneo de café",
+  "de": "Kaffee-Ersatz",
+  "pt": "Substituto de café"
+ },
+ "4415": {
+  "it": "Caffè, in bottiglia o in lattina",
+  "fr": "Café, en bouteille ou en canette",
+  "es": "Café, embotellado o enlatado",
+  "de": "Kaffee, in Flaschen oder Dosen",
+  "pt": "Café, engarrafado ou enlatado"
+ },
+ "4416": {
+  "it": "Caffè, in bottiglia o in lattina, light",
+  "fr": "Café, en bouteille ou en canette, allégé",
+  "es": "Café, embotellado o enlatado, ligero",
+  "de": "Kaffee, in Flaschen oder Dosen, leicht",
+  "pt": "Café, engarrafado ou enlatado, light"
+ },
+ "4417": {
+  "it": "Caffè, preparato",
+  "fr": "Café, préparé",
+  "es": "Café, preparado",
+  "de": "Kaffee, aufgebrüht",
+  "pt": "Café, preparado"
+ },
+ "4418": {
+  "it": "Caffè, preparato, miscela di normale e decaffeinato",
+  "fr": "Café, préparé, mélange de normal et de décaféiné",
+  "es": "Café, preparado, mezcla de normal y descafeinado",
+  "de": "Kaffee, aufgebrüht, Mischung aus normal und entkoffeiniert",
+  "pt": "Café, preparado, mistura de normal e descafeinado"
+ },
+ "4419": {
+  "it": "Caffè, preparato, decaffeinato",
+  "fr": "Café, préparé, décaféiné",
+  "es": "Café, preparado, descafeinado",
+  "de": "Kaffee, aufgebrüht, entkoffeiniert",
+  "pt": "Café, preparado, descafeinado"
+ },
+ "4420": {
+  "it": "Caffè, preparato, aromatizzato",
+  "fr": "Café, préparé, aromatisé",
+  "es": "Café, preparado, aromatizado",
+  "de": "Kaffee, aufgebrüht, aromatisiert",
+  "pt": "Café, preparado, aromatizado"
+ },
+ "4421": {
+  "it": "Caffè, cafe con leche",
+  "fr": "Café, café con leche",
+  "es": "Café, café con leche",
+  "de": "Kaffee, Café con Leche",
+  "pt": "Café, café com leite"
+ },
+ "4422": {
+  "it": "Caffè, cafe con leche, decaffeinato",
+  "fr": "Café, café con leche, décaféiné",
+  "es": "Café, café con leche, descafeinado",
+  "de": "Kaffee, Café con Leche, entkoffeiniert",
+  "pt": "Café, café com leite, descafeinado"
+ },
+ "4423": {
+  "it": "Caffè, Caffè Mocha",
+  "fr": "Café, Café Mocha",
+  "es": "Café, Café Mocha",
+  "de": "Kaffee, Café Mocha",
+  "pt": "Café, Café Mocha"
+ },
+ "4424": {
+  "it": "Caffè, Caffè Mocha, decaffeinato",
+  "fr": "Café, Café Mocha, décaféiné",
+  "es": "Café, Café Mocha, descafeinado",
+  "de": "Kaffee, Café Mocha, entkoffeiniert",
+  "pt": "Café, Café Mocha, descafeinado"
+ },
+ "4425": {
+  "it": "Caffè, Caffè Mocha, decaffeinato, senza grassi",
+  "fr": "Café, Café Mocha, décaféiné, sans matières grasses",
+  "es": "Café, Café Mocha, descafeinado, sin grasa",
+  "de": "Kaffee, Café Mocha, entkoffeiniert, fettfrei",
+  "pt": "Café, Café Mocha, descafeinado, sem gordura"
+ },
+ "4426": {
+  "it": "Caffè, Caffè Mocha, decaffeinato, con latte vegetale",
+  "fr": "Café, Café Mocha, décaféiné, avec lait végétal",
+  "es": "Café, Café Mocha, descafeinado, con leche vegetal",
+  "de": "Kaffee, Café Mocha, entkoffeiniert, mit pflanzlicher Milch",
+  "pt": "Café, Café Mocha, descafeinado, com leite vegetal"
+ },
+ "4427": {
+  "it": "Caffè, Caffè Mocha, senza grassi",
+  "fr": "Café, Café Mocha, sans matières grasses",
+  "es": "Café, Café Mocha, sin grasa",
+  "de": "Kaffee, Café Mocha, fettfrei",
+  "pt": "Café, Café Mocha, sem gordura"
+ },
+ "4428": {
+  "it": "Caffè, Caffè Mocha, con latte vegetale",
+  "fr": "Café, Café Mocha, avec lait végétal",
+  "es": "Café, Café Mocha, con leche vegetal",
+  "de": "Kaffee, Café Mocha, mit pflanzlicher Milch",
+  "pt": "Café, Café Mocha, com leite vegetal"
+ },
+ "4429": {
+  "it": "Caffè, Cappuccino",
+  "fr": "Café, Cappuccino",
+  "es": "Café, Capuchino",
+  "de": "Kaffee, Cappuccino",
+  "pt": "Café, Cappuccino"
+ },
+ "4430": {
+  "it": "Caffè, Cappuccino, decaffeinato",
+  "fr": "Café, Cappuccino, décaféiné",
+  "es": "Café, Capuchino, descafeinado",
+  "de": "Kaffee, Cappuccino, entkoffeiniert",
+  "pt": "Café, Cappuccino, descafeinado"
+ },
+ "4431": {
+  "it": "Caffè, Cappuccino, decaffeinato, senza grassi",
+  "fr": "Café, Cappuccino, décaféiné, sans matières grasses",
+  "es": "Café, Capuchino, descafeinado, sin grasa",
+  "de": "Kaffee, Cappuccino, entkoffeiniert, fettfrei",
+  "pt": "Café, Cappuccino, descafeinado, sem gordura"
+ },
+ "4432": {
+  "it": "Caffè, Cappuccino, decaffeinato, con latte vegetale",
+  "fr": "Café, Cappuccino, décaféiné, avec lait végétal",
+  "es": "Café, Capuchino, descafeinado, con leche vegetal",
+  "de": "Kaffee, Cappuccino, entkoffeiniert, mit pflanzlicher Milch",
+  "pt": "Café, Cappuccino, descafeinado, com leite vegetal"
+ },
+ "4433": {
+  "it": "Caffè, Cappuccino, senza grassi",
+  "fr": "Café, Cappuccino, sans matières grasses",
+  "es": "Café, Capuchino, sin grasa",
+  "de": "Kaffee, Cappuccino, fettfrei",
+  "pt": "Café, Cappuccino, sem gordura"
+ },
+ "4434": {
+  "it": "Caffè, Cappuccino, con latte vegetale",
+  "fr": "Café, Cappuccino, avec lait végétal",
+  "es": "Café, Capuchino, con leche vegetal",
+  "de": "Kaffee, Cappuccino, mit pflanzlicher Milch",
+  "pt": "Café, Cappuccino, com leite vegetal"
+ },
+ "4435": {
+  "it": "Caffè, cubano",
+  "fr": "Café, cubain",
+  "es": "Café, cubano",
+  "de": "Kaffee, kubanisch",
+  "pt": "Café, cubano"
+ },
+ "4436": {
+  "it": "Caffè, decaffeinato, con latte o panna già aggiunti",
+  "fr": "Café, décaféiné, pré-éclairci",
+  "es": "Café, descafeinado, con leche o crema añadida",
+  "de": "Kaffee, entkoffeiniert, mit Milch oder Sahne vorgemischt",
+  "pt": "Café, descafeinado, com leite ou creme já adicionados"
+ },
+ "4437": {
+  "it": "Caffè, decaffeinato, con latte o panna e dolcificante a basse calorie già aggiunti",
+  "fr": "Café, décaféiné, pré-éclairci et pré-sucré avec un édulcorant à faible teneur en calories",
+  "es": "Café, descafeinado, con leche o crema y edulcorante bajo en calorías añadidos",
+  "de": "Kaffee, entkoffeiniert, mit Milch oder Sahne und kalorienarmem Süßstoff vorgemischt",
+  "pt": "Café, descafeinado, com leite ou creme e adoçante de baixa caloria já adicionados"
+ },
+ "4438": {
+  "it": "Caffè, decaffeinato, con latte o panna e zucchero già aggiunti",
+  "fr": "Café, décaféiné, pré-éclairci et pré-sucré avec du sucre",
+  "es": "Café, descafeinado, con leche o crema y azúcar añadidos",
+  "de": "Kaffee, entkoffeiniert, mit Milch oder Sahne und Zucker vorgemischt",
+  "pt": "Café, descafeinado, com leite ou creme e açúcar já adicionados"
+ },
+ "4439": {
+  "it": "Caffè, decaffeinato, con dolcificante a basse calorie già aggiunto",
+  "fr": "Café, décaféiné, pré-sucré avec un édulcorant à faible teneur en calories",
+  "es": "Café, descafeinado, con edulcorante bajo en calorías añadido",
+  "de": "Kaffee, entkoffeiniert, mit kalorienarmem Süßstoff vorgesüßt",
+  "pt": "Café, descafeinado, com adoçante de baixa caloria já adicionado"
+ },
+ "4440": {
+  "it": "Caffè, decaffeinato, con zucchero già aggiunto",
+  "fr": "Café, décaféiné, pré-sucré avec du sucre",
+  "es": "Café, descafeinado, con azúcar añadido",
+  "de": "Kaffee, entkoffeiniert, mit Zucker vorgesüßt",
+  "pt": "Café, descafeinado, com açúcar já adicionado"
+ },
+ "4441": {
+  "it": "Caffè, espresso",
+  "fr": "Café, expresso",
+  "es": "Café, espresso",
+  "de": "Kaffee, Espresso",
+  "pt": "Café, espresso"
+ },
+ "4442": {
+  "it": "Caffè, espresso, decaffeinato",
+  "fr": "Café, expresso, décaféiné",
+  "es": "Café, espresso, descafeinado",
+  "de": "Kaffee, Espresso, entkoffeiniert",
+  "pt": "Café, espresso, descafeinado"
+ },
+ "4443": {
+  "it": "Caffè, Iced Caffè Mocha",
+  "fr": "Café, Iced Café Mocha",
+  "es": "Café, Iced Café Mocha",
+  "de": "Kaffee, Iced Café Mocha",
+  "pt": "Café, Iced Café Mocha"
+ },
+ "4444": {
+  "it": "Caffè, Iced Caffè Mocha, decaffeinato",
+  "fr": "Café, Iced Café Mocha, décaféiné",
+  "es": "Café, Iced Café Mocha, descafeinado",
+  "de": "Kaffee, Iced Café Mocha, entkoffeiniert",
+  "pt": "Café, Iced Café Mocha, descafeinado"
+ },
+ "4445": {
+  "it": "Caffè, Iced Caffè Mocha, decaffeinato, senza grassi",
+  "fr": "Café, Iced Café Mocha, décaféiné, sans matières grasses",
+  "es": "Café, Iced Café Mocha, descafeinado, sin grasa",
+  "de": "Kaffee, Iced Café Mocha, entkoffeiniert, fettfrei",
+  "pt": "Café, Iced Café Mocha, descafeinado, sem gordura"
+ },
+ "4446": {
+  "it": "Caffè, Iced Caffè Mocha, decaffeinato, con latte vegetale",
+  "fr": "Café, Iced Café Mocha, décaféiné, avec lait végétal",
+  "es": "Café, Iced Café Mocha, descafeinado, con leche vegetal",
+  "de": "Kaffee, Iced Café Mocha, entkoffeiniert, mit pflanzlicher Milch",
+  "pt": "Café, Iced Café Mocha, descafeinado, com leite vegetal"
+ },
+ "4447": {
+  "it": "Caffè, Iced Caffè Mocha, senza grassi",
+  "fr": "Café, Iced Café Mocha, sans matières grasses",
+  "es": "Café, Iced Café Mocha, sin grasa",
+  "de": "Kaffee, Iced Café Mocha, fettfrei",
+  "pt": "Café, Iced Café Mocha, sem gordura"
+ },
+ "4448": {
+  "it": "Caffè, Iced Caffè Mocha, con latte vegetale",
+  "fr": "Café, Iced Café Mocha, avec lait végétal",
+  "es": "Café, Iced Café Mocha, con leche vegetal",
+  "de": "Kaffee, Iced Café Mocha, mit pflanzlicher Milch",
+  "pt": "Café, Iced Café Mocha, com leite vegetal"
+ },
+ "4449": {
+  "it": "Caffè, Iced Latte",
+  "fr": "Café, Iced Latte",
+  "es": "Café, Iced Latte",
+  "de": "Kaffee, Iced Latte",
+  "pt": "Café, Iced Latte"
+ },
+ "4450": {
+  "it": "Caffè, Iced Latte, decaffeinato",
+  "fr": "Café, Iced Latte, décaféiné",
+  "es": "Café, Iced Latte, descafeinado",
+  "de": "Kaffee, Iced Latte, entkoffeiniert",
+  "pt": "Café, Iced Latte, descafeinado"
+ },
+ "4451": {
+  "it": "Caffè, Iced Latte, decaffeinato, aromatizzato",
+  "fr": "Café, Iced Latte, décaféiné, aromatisé",
+  "es": "Café, Iced Latte, descafeinado, aromatizado",
+  "de": "Kaffee, Iced Latte, entkoffeiniert, aromatisiert",
+  "pt": "Café, Iced Latte, descafeinado, aromatizado"
+ },
+ "4452": {
+  "it": "Caffè, Iced Latte, decaffeinato, senza grassi",
+  "fr": "Café, Iced Latte, décaféiné, sans matières grasses",
+  "es": "Café, Iced Latte, descafeinado, sin grasa",
+  "de": "Kaffee, Iced Latte, entkoffeiniert, fettfrei",
+  "pt": "Café, Iced Latte, descafeinado, sem gordura"
+ },
+ "4453": {
+  "it": "Caffè, Iced Latte, decaffeinato, senza grassi, aromatizzato",
+  "fr": "Café, Iced Latte, décaféiné, sans matières grasses, aromatisé",
+  "es": "Café, Iced Latte, descafeinado, sin grasa, aromatizado",
+  "de": "Kaffee, Iced Latte, entkoffeiniert, fettfrei, aromatisiert",
+  "pt": "Café, Iced Latte, descafeinado, sem gordura, aromatizado"
+ },
+ "4454": {
+  "it": "Caffè, Iced Latte, decaffeinato, con latte vegetale",
+  "fr": "Café, Iced Latte, décaféiné, avec lait végétal",
+  "es": "Café, Iced Latte, descafeinado, con leche vegetal",
+  "de": "Kaffee, Iced Latte, entkoffeiniert, mit pflanzlicher Milch",
+  "pt": "Café, Iced Latte, descafeinado, com leite vegetal"
+ },
+ "4455": {
+  "it": "Caffè, Iced Latte, decaffeinato, con latte vegetale, aromatizzato",
+  "fr": "Café, Iced Latte, décaféiné, avec lait végétal, aromatisé",
+  "es": "Café, Iced Latte, descafeinado, con leche vegetal, aromatizado",
+  "de": "Kaffee, Iced Latte, entkoffeiniert, mit pflanzlicher Milch, aromatisiert",
+  "pt": "Café, Iced Latte, descafeinado, com leite vegetal, aromatizado"
+ },
+ "4456": {
+  "it": "Caffè, Iced Latte, aromatizzato",
+  "fr": "Café, Iced Latte, aromatisé",
+  "es": "Café, Iced Latte, aromatizado",
+  "de": "Kaffee, Iced Latte, aromatisiert",
+  "pt": "Café, Iced Latte, aromatizado"
+ },
+ "4457": {
+  "it": "Caffè, Iced Latte, senza grassi",
+  "fr": "Café, Iced Latte, sans matières grasses",
+  "es": "Café, Iced Latte, sin grasa",
+  "de": "Kaffee, Iced Latte, fettfrei",
+  "pt": "Café, Iced Latte, sem gordura"
+ },
+ "4458": {
+  "it": "Caffè, Iced Latte, senza grassi, aromatizzato",
+  "fr": "Café, Iced Latte, sans matières grasses, aromatisé",
+  "es": "Café, Iced Latte, sin grasa, aromatizado",
+  "de": "Kaffee, Iced Latte, fettfrei, aromatisiert",
+  "pt": "Café, Iced Latte, sem gordura, aromatizado"
+ },
+ "4459": {
+  "it": "Caffè, Iced Latte, con latte vegetale",
+  "fr": "Café, Iced Latte, avec lait végétal",
+  "es": "Café, Iced Latte, con leche vegetal",
+  "de": "Kaffee, Iced Latte, mit pflanzlicher Milch",
+  "pt": "Café, Iced Latte, com leite vegetal"
+ },
+ "4460": {
+  "it": "Caffè, Iced Latte, con latte vegetale, aromatizzato",
+  "fr": "Café, Iced Latte, avec lait végétal, aromatisé",
+  "es": "Café, Iced Latte, con leche vegetal, aromatizado",
+  "de": "Kaffee, Iced Latte, mit pflanzlicher Milch, aromatisiert",
+  "pt": "Café, Iced Latte, com leite vegetal, aromatizado"
+ },
+ "4461": {
+  "it": "Caffè, istantaneo, con il 50% di caffeina in meno, ricostituito",
+  "fr": "Café, instantané, avec 50 % de caféine en moins, reconstitué",
+  "es": "Café, instantáneo, con 50% menos de cafeína, reconstituido",
+  "de": "Kaffee, Instant-, 50% weniger Koffein, zubereitet",
+  "pt": "Café, instantâneo, com 50% menos cafeína, reconstituído"
+ },
+ "4462": {
+  "it": "Caffè, istantaneo, decaffeinato, non ricostituito",
+  "fr": "Café, instantané, décaféiné, non reconstitué",
+  "es": "Café, instantáneo, descafeinado, sin reconstituir",
+  "de": "Kaffee, Instant-, entkoffeiniert, nicht zubereitet",
+  "pt": "Café, instantâneo, descafeinado, não reconstituído"
+ },
+ "4463": {
+  "it": "Caffè, istantaneo, decaffeinato, con latte o panna e dolcificante a basse calorie già aggiunti, non ricostituito",
+  "fr": "Café, instantané, décaféiné, pré-éclairci et pré-sucré avec un édulcorant à faible teneur en calories, non reconstitué",
+  "es": "Café, instantáneo, descafeinado, con leche o crema y edulcorante bajo en calorías añadidos, sin reconstituir",
+  "de": "Kaffee, Instant-, entkoffeiniert, mit Milch oder Sahne und kalorienarmem Süßstoff vorgemischt, nicht zubereitet",
+  "pt": "Café, instantâneo, descafeinado, com leite ou creme e adoçante de baixa caloria já adicionados, não reconstituído"
+ },
+ "4464": {
+  "it": "Caffè, istantaneo, decaffeinato, con latte o panna e dolcificante a basse calorie già aggiunti, ricostituito",
+  "fr": "Café, instantané, décaféiné, pré-éclairci et pré-sucré avec un édulcorant à faible teneur en calories, reconstitué",
+  "es": "Café, instantáneo, descafeinado, con leche o crema y edulcorante bajo en calorías añadidos, reconstituido",
+  "de": "Kaffee, Instant-, entkoffeiniert, mit Milch oder Sahne und kalorienarmem Süßstoff vorgemischt, zubereitet",
+  "pt": "Café, instantâneo, descafeinado, com leite ou creme e adoçante de baixa caloria já adicionados, reconstituído"
+ },
+ "4465": {
+  "it": "Caffè, istantaneo, decaffeinato, con latte o panna e zucchero già aggiunti, non ricostituito",
+  "fr": "Café, instantané, décaféiné, pré-éclairci et pré-sucré avec du sucre, non reconstitué",
+  "es": "Café, instantáneo, descafeinado, con leche o crema y azúcar añadidos, sin reconstituir",
+  "de": "Kaffee, Instant-, entkoffeiniert, mit Milch oder Sahne und Zucker vorgemischt, nicht zubereitet",
+  "pt": "Café, instantâneo, descafeinado, com leite ou creme e açúcar já adicionados, não reconstituído"
+ },
+ "4466": {
+  "it": "Caffè, istantaneo, decaffeinato, con latte o panna e zucchero già aggiunti, ricostituito",
+  "fr": "Café, instantané, décaféiné, pré-éclairci et pré-sucré avec du sucre, reconstitué",
+  "es": "Café, instantáneo, descafeinado, con leche o crema y azúcar añadidos, reconstituido",
+  "de": "Kaffee, Instant-, entkoffeiniert, mit Milch oder Sahne und Zucker vorgemischt, zubereitet",
+  "pt": "Café, instantâneo, descafeinado, com leite ou creme e açúcar já adicionados, reconstituído"
+ },
+ "4467": {
+  "it": "Caffè, istantaneo, decaffeinato, ricostituito",
+  "fr": "Café, instantané, décaféiné, reconstitué",
+  "es": "Café, instantáneo, descafeinado, reconstituido",
+  "de": "Kaffee, Instant-, entkoffeiniert, zubereitet",
+  "pt": "Café, instantâneo, descafeinado, reconstituído"
+ },
+ "4468": {
+  "it": "Caffè, istantaneo, non ricostituito",
+  "fr": "Café, instantané, non reconstitué",
+  "es": "Café, instantáneo, sin reconstituir",
+  "de": "Kaffee, Instant-, nicht zubereitet",
+  "pt": "Café, instantâneo, não reconstituído"
+ },
+ "4469": {
+  "it": "Caffè, istantaneo, con latte o panna e dolcificante a basse calorie già aggiunti, ricostituito",
+  "fr": "Café, instantané, pré-éclairci et pré-sucré avec un édulcorant à faible teneur en calories, reconstitué",
+  "es": "Café, instantáneo, con leche o crema y edulcorante bajo en calorías añadidos, reconstituido",
+  "de": "Kaffee, Instant-, mit Milch oder Sahne und kalorienarmem Süßstoff vorgemischt, zubereitet",
+  "pt": "Café, instantâneo, com leite ou creme e adoçante de baixa caloria já adicionados, reconstituído"
+ }
+}

@@ -1,0 +1,1790 @@
+[
+{
+"id": "10728",
+"en": "Rice, white, short-grain, enriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10729",
+"en": "Rice, white, short-grain, enriched, uncooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10730",
+"en": "Rice, white, short-grain, raw, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10731",
+"en": "Rice, white, steamed, Chinese restaurant",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10732",
+"en": "Rice, white, with carrots and dark green vegetables, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10733",
+"en": "Rice, white, with carrots and dark green vegetables, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10734",
+"en": "Rice, white, with carrots and dark green vegetables, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10735",
+"en": "Rice, white, with carrots and tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10736",
+"en": "Rice, white, with carrots and tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10737",
+"en": "Rice, white, with carrots and tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10738",
+"en": "Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10739",
+"en": "Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10740",
+"en": "Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10741",
+"en": "Rice, white, with carrots, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10742",
+"en": "Rice, white, with carrots, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10743",
+"en": "Rice, white, with carrots, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10744",
+"en": "Rice, white, with cheese and/or cream based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10745",
+"en": "Rice, white, with cheese and/or cream based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10746",
+"en": "Rice, white, with cheese and/or cream based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10747",
+"en": "Rice, white, with corn, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10748",
+"en": "Rice, white, with corn, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10749",
+"en": "Rice, white, with corn, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10750",
+"en": "Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10751",
+"en": "Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10752",
+"en": "Rice, white, with dark green vegetables and tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10753",
+"en": "Rice, white, with dark green vegetables, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10754",
+"en": "Rice, white, with dark green vegetables, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10755",
+"en": "Rice, white, with dark green vegetables, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10756",
+"en": "Rice, white, with gravy, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10757",
+"en": "Rice, white, with gravy, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10758",
+"en": "Rice, white, with gravy, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10759",
+"en": "Rice, white, with lentils, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10760",
+"en": "Rice, white, with lentils, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10761",
+"en": "Rice, white, with lentils, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10762",
+"en": "Rice, white, with other vegetables, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10763",
+"en": "Rice, white, with other vegetables, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10764",
+"en": "Rice, white, with other vegetables, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10765",
+"en": "Rice, white, with peas and carrots, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10766",
+"en": "Rice, white, with peas and carrots, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10767",
+"en": "Rice, white, with peas and carrots, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10768",
+"en": "Rice, white, with peas, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10769",
+"en": "Rice, white, with peas, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10770",
+"en": "Rice, white, with peas, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10771",
+"en": "Rice, white, with soy-based sauce, fat added",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10772",
+"en": "Rice, white, with soy-based sauce, no added fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10773",
+"en": "Rice, white, with soy-based sauce, NS as to fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10774",
+"en": "Rice, white, with tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10775",
+"en": "Rice, white, with tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10776",
+"en": "Rice, white, with tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10777",
+"en": "Rice, white, with vegetables and gravy, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10778",
+"en": "Rice, white, with vegetables and gravy, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10779",
+"en": "Rice, white, with vegetables and gravy, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10780",
+"en": "Rice, white, with vegetables, cheese and/or cream based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10781",
+"en": "Rice, white, with vegetables, cheese and/or cream based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10782",
+"en": "Rice, white, with vegetables, cheese and/or cream based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10783",
+"en": "Rice, white, with vegetables, soy-based sauce, fat added",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10784",
+"en": "Rice, white, with vegetables, soy-based sauce, no added fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10785",
+"en": "Rice, white, with vegetables, soy-based sauce, NS as to fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10786",
+"en": "Rice, wild, 100%, cooked, fat added",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10787",
+"en": "Rice, wild, 100%, cooked, no added fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10788",
+"en": "Rice, wild, 100%, cooked, NS as to fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10789",
+"en": "RICE-A-RONI, chicken flavor, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10790",
+"en": "Ripe plantain meat pie, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10791",
+"en": "Roast beef sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10792",
+"en": "Roast beef sandwich on wheat, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10793",
+"en": "Roast beef sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10794",
+"en": "Roast beef sandwich on white, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10795",
+"en": "Roast beef spread",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10796",
+"en": "Roast beef, deli style, prepackaged, sliced",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10797",
+"en": "Rob Roy",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10798",
+"en": "Roll with meat and/or shrimp, vegetables and rice paper, not fried",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10799",
+"en": "Roll, bran, NS as to type of bran",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10800",
+"en": "Roll, cheese",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10801",
+"en": "Roll, diet",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10802",
+"en": "Roll, egg bread",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10803",
+"en": "Roll, French or Vienna",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10804",
+"en": "Roll, garlic",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10805",
+"en": "Roll, gluten free",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10806",
+"en": "Roll, hard, NS as to major flour",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10807",
+"en": "Roll, Mexican, bolillo",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10808",
+"en": "Roll, multigrain",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10809",
+"en": "Roll, multigrain, hamburger bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10810",
+"en": "Roll, multigrain, hot dog bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10811",
+"en": "Roll, NS as to major flour",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10812",
+"en": "Roll, oatmeal",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10813",
+"en": "Roll, pumpernickel",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10814",
+"en": "Roll, rye",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10815",
+"en": "Roll, sour dough",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10816",
+"en": "Roll, sweet, cinnamon bun, frosted",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10817",
+"en": "Roll, sweet, cinnamon bun, no frosting",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10818",
+"en": "Roll, sweet, frosted",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10819",
+"en": "Roll, sweet, no frosting",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10820",
+"en": "Roll, sweet, with fruit, frosted",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10821",
+"en": "Roll, sweet, with fruit, frosted, diet",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10822",
+"en": "Roll, wheat or cracked wheat",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10823",
+"en": "Roll, wheat or cracked wheat, hamburger bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10824",
+"en": "Roll, wheat or cracked wheat, hot dog bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10825",
+"en": "Roll, white, hamburger bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10826",
+"en": "Roll, white, hard",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10827",
+"en": "Roll, white, hoagie, submarine",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10828",
+"en": "Roll, white, hot dog bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10829",
+"en": "Roll, white, soft",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10830",
+"en": "Roll, whole grain white",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10831",
+"en": "Roll, whole grain white, hamburger bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10832",
+"en": "Roll, whole grain white, hot dog bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10833",
+"en": "Roll, whole wheat",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10834",
+"en": "Roll, whole wheat, hamburger bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10835",
+"en": "Roll, whole wheat, hot dog bun",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10836",
+"en": "Rolls, dinner, egg",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10837",
+"en": "Rolls, dinner, oat bran",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10838",
+"en": "Rolls, dinner, plain, commercially prepared (includes brown-and-serve)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10839",
+"en": "Rolls, dinner, plain, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10840",
+"en": "Rolls, dinner, rye",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10841",
+"en": "Rolls, dinner, sweet",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10842",
+"en": "Rolls, dinner, wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10843",
+"en": "Rolls, dinner, whole-wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10844",
+"en": "Rolls, french",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10845",
+"en": "Rolls, gluten-free, white, made with brown rice flour, tapioca starch, and potato starch",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10846",
+"en": "Rolls, gluten-free, white, made with brown rice flour, tapioca starch, and sorghum flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10847",
+"en": "Rolls, gluten-free, white, made with rice flour, rice starch, and corn starch",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10848",
+"en": "Rolls, gluten-free, whole grain, made with tapioca starch and brown rice flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10849",
+"en": "Rolls, hamburger or hot dog, wheat/cracked wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10850",
+"en": "Rolls, hamburger or hot dog, whole wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10851",
+"en": "Rolls, hamburger or hotdog, mixed-grain",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10852",
+"en": "Rolls, hamburger or hotdog, plain",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10853",
+"en": "Rolls, hamburger, whole grain white, calcium-fortified",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10854",
+"en": "Rolls, hard (includes kaiser)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10855",
+"en": "Rolls, pumpernickel",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10856",
+"en": "Romaine lettuce, raw",
+"categoria": "Lettuce and lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10857",
+"en": "Rose Hips, wild (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10858",
+"en": "Rose-apples, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10859",
+"en": "Roselle, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10860",
+"en": "Rosemary, fresh",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "10861",
+"en": "Rowal, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10862",
+"en": "Ruby Red grapefruit juice blend (grapefruit, grape, apple), OCEAN SPRAY, bottled, with added vitamin C",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10863",
+"en": "Rudi's, Gluten-Free Bakery, Original Sandwich Bread",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10864",
+"en": "Ruffed Grouse, breast meat, skinless, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10865",
+"en": "Rum",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10866",
+"en": "Rum and cola",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10867",
+"en": "Rum and diet cola",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10868",
+"en": "Rum, hot buttered",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10869",
+"en": "Russian dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10870",
+"en": "Rusty Nail",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10871",
+"en": "Rutabaga, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10872",
+"en": "Rutabaga, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10873",
+"en": "Rutabagas, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10874",
+"en": "Rutabagas, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10875",
+"en": "Rutabagas, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10876",
+"en": "Rye flour, dark",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10877",
+"en": "Rye flour, light",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10878",
+"en": "Rye flour, medium",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10879",
+"en": "Rye grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10880",
+"en": "Safflower oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10881",
+"en": "Sage Valley, Gluten Free Vanilla Sandwich Cookies",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10882",
+"en": "Salad dressing, bacon and tomato",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10883",
+"en": "Salad dressing, blue or roquefort cheese dressing, commercial, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10884",
+"en": "Salad dressing, blue or roquefort cheese dressing, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10885",
+"en": "Salad dressing, blue or roquefort cheese dressing, light",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10886",
+"en": "Salad dressing, blue or roquefort cheese, low calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10887",
+"en": "Salad dressing, buttermilk, lite",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10888",
+"en": "Salad dressing, caesar dressing, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10889",
+"en": "Salad dressing, caesar, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10890",
+"en": "Salad dressing, caesar, low calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10891",
+"en": "Salad dressing, coleslaw",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10892",
+"en": "Salad Dressing, coleslaw, reduced fat",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10893",
+"en": "Salad dressing, fat free, NFS",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10894",
+"en": "Salad dressing, french dressing, commercial, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10895",
+"en": "Salad dressing, french dressing, commercial, regular, without salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10896",
+"en": "Salad dressing, french dressing, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10897",
+"en": "Salad dressing, french dressing, reduced calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10898",
+"en": "Salad dressing, french dressing, reduced fat",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10899",
+"en": "Salad dressing, french dressing, reduced fat, without salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10900",
+"en": "Salad dressing, french, cottonseed, oil, home recipe",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10901",
+"en": "Salad dressing, french, home recipe",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10902",
+"en": "Salad dressing, green goddess, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10903",
+"en": "Salad dressing, home recipe, vinegar and oil",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10904",
+"en": "Salad dressing, honey mustard dressing, reduced calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10905",
+"en": "Salad dressing, honey mustard, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10906",
+"en": "Salad dressing, italian dressing, commercial, reduced fat",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10907",
+"en": "Salad dressing, italian dressing, commercial, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10908",
+"en": "Salad dressing, italian dressing, commercial, regular, without salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10909",
+"en": "Salad dressing, italian dressing, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10910",
+"en": "Salad dressing, italian dressing, reduced calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10911",
+"en": "Salad dressing, italian dressing, reduced fat, without salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10912",
+"en": "Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10913",
+"en": "Salad dressing, KRAFT Mayo Light Mayonnaise",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10914",
+"en": "Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10915",
+"en": "Salad dressing, light, NFS",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10916",
+"en": "Salad dressing, mayonnaise and mayonnaise-type, low calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10917",
+"en": "Salad dressing, mayonnaise type, regular, with salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10918",
+"en": "Salad dressing, mayonnaise, imitation, milk cream",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10919",
+"en": "Salad dressing, mayonnaise, imitation, soybean",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10920",
+"en": "Salad dressing, mayonnaise, imitation, soybean without cholesterol",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10921",
+"en": "Salad dressing, mayonnaise, light",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10922",
+"en": "Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10923",
+"en": "Salad dressing, mayonnaise, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10924",
+"en": "Salad dressing, mayonnaise, soybean and safflower oil, with salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10925",
+"en": "Salad dressing, mayonnaise, soybean oil, without salt",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10926",
+"en": "Salad Dressing, mayonnaise-like, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10927",
+"en": "Salad dressing, mayonnaise-type, light",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10928",
+"en": "Salad dressing, NFS, for salads",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10929",
+"en": "Salad dressing, NFS, for sandwiches",
+"categoria": "Mayonnaise",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10930",
+"en": "Salad dressing, peppercorn dressing, commercial, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10931",
+"en": "Salad dressing, poppyseed, creamy",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10932",
+"en": "Salad dressing, ranch dressing, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10933",
+"en": "Salad dressing, ranch dressing, reduced fat",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10934",
+"en": "Salad dressing, ranch dressing, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10935",
+"en": "Salad dressing, russian dressing",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10936",
+"en": "Salad dressing, russian dressing, low calorie",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10937",
+"en": "Salad dressing, sesame seed dressing, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10938",
+"en": "Salad dressing, spray-style dressing, assorted flavors",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10939",
+"en": "Salad dressing, sweet and sour",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10940",
+"en": "Salad dressing, thousand island dressing, fat-free",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10941",
+"en": "Salad dressing, thousand island dressing, reduced fat",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10942",
+"en": "Salad dressing, thousand island, commercial, regular",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10943",
+"en": "Salami sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10944",
+"en": "Salami sandwich on wheat, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10945",
+"en": "Salami sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10946",
+"en": "Salami sandwich on white, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10947",
+"en": "Salami, cooked, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10948",
+"en": "Salami, cooked, beef and pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10949",
+"en": "Salami, cooked, turkey",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10950",
+"en": "Salami, dry or hard, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10951",
+"en": "Salami, dry or hard, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10952",
+"en": "Salami, hard, sliced",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "10953",
+"en": "Salami, Italian, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10954",
+"en": "Salami, Italian, pork and beef, dry, sliced, 50% less sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10955",
+"en": "Salami, made from any type of meat, reduced fat",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10956",
+"en": "Salami, made from any type of meat, reduced sodium",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10957",
+"en": "Salami, NFS",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10958",
+"en": "Salami, pork, beef, less sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10959",
+"en": "Salisbury steak dinner, NFS, frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10960",
+"en": "Salisbury steak with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10961",
+"en": "Salisbury steak with gravy, frozen",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10962",
+"en": "Salisbury steak with gravy, macaroni and cheese, frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10963",
+"en": "Salisbury steak with gravy, potatoes, vegetable, frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10964",
+"en": "Salisbury steak with gravy, whipped potatoes, vegetable, dessert, frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10965",
+"en": "Salmon cake sandwich",
+"categoria": "Seafood sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10966",
+"en": "Salmon nuggets, breaded, frozen, heated",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10967",
+"en": "Salmon nuggets, cooked as purchased, unheated",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10968",
+"en": "Salmon salad",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10969",
+"en": "Salmon, red (sockeye), filets with skin, smoked (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10970",
+"en": "Salmon, sockeye, canned, drained solids, without skin and bones",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10971",
+"en": "Salmon, sockeye, canned, total can contents",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10972",
+"en": "Salmonberries, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10973",
+"en": "Salsa verde or salsa, green",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10974",
+"en": "Salsa, NFS",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10975",
+"en": "Salsa, pico de gallo",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10976",
+"en": "Salsa, red",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10977",
+"en": "Salsa, red, homemade",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10978",
+"en": "Salsify, (vegetable oyster), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10979",
+"en": "Salsify, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10980",
+"en": "Salsify, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10981",
+"en": "Salsify, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10982",
+"en": "Salt, table",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "10983",
+"en": "Sambar, vegetable stew",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10984",
+"en": "Samosa",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10985",
+"en": "Sandwich spread",
+"categoria": "Mayonnaise",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10986",
+"en": "Sandwich spread, meatless",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10987",
+"en": "Sandwich spread, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10988",
+"en": "Sandwich spread, with chopped pickle, regular, unspecified oils",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "10989",
+"en": "Sandwich wrap, NFS",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10990",
+"en": "Sandwich, NFS",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10991",
+"en": "Sangria, red",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10992",
+"en": "Sangria, white",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10993",
+"en": "Sapodilla, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10994",
+"en": "Sapote, mamey, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10995",
+"en": "Sardine sandwich",
+"categoria": "Seafood sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10996",
+"en": "Sauce as ingredient in hamburgers",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10997",
+"en": "Sauce, alfredo mix, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "10998",
+"en": "Sauce, barbecue",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "10999",
+"en": "Sauce, barbecue, BULL'S-EYE, original",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11000",
+"en": "Sauce, barbecue, KC MASTERPIECE, original",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11001",
+"en": "Sauce, barbecue, KRAFT, original",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11002",
+"en": "Sauce, barbecue, OPEN PIT, original",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11003",
+"en": "Sauce, barbecue, SWEET BABY RAY'S, original",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11004",
+"en": "Sauce, cheese sauce mix, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11005",
+"en": "Sauce, cheese, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11006",
+"en": "Sauce, chili, peppers, hot, immature green, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11007",
+"en": "Sauce, cocktail, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11008",
+"en": "Sauce, duck, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11009",
+"en": "Sauce, enchilada, red, mild, ready to serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11010",
+"en": "Sauce, fish, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11011",
+"en": "Sauce, hoisin, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11012",
+"en": "Sauce, homemade, white, medium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11013",
+"en": "Sauce, homemade, white, thick",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11014",
+"en": "Sauce, horseradish",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11015",
+"en": "Sauce, hot chile, sriracha",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11016",
+"en": "Sauce, hot chile, sriracha, CHA! BY TEXAS PETE",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11017",
+"en": "Sauce, hot chile, sriracha, TUONG OT SRIRACHA",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11018",
+"en": "Sauce, NFS",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11019",
+"en": "Sauce, oyster, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11020",
+"en": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "Foundation"
+},
+{
+"id": "11021",
+"en": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11022",
+"en": "Sauce, peanut, made from coconut, water, sugar, peanuts",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11023",
+"en": "Sauce, peanut, made from peanut butter, water, soy sauce",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11024",
+"en": "Sauce, peppers, hot, chili, mature red, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11025",
+"en": "Sauce, pesto, BUITONI, pesto with basil, ready-to-serve, refrigerated",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+}
+]

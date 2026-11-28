@@ -1,0 +1,1790 @@
+[
+{
+"id": "9238",
+"en": "Pickles, cucumber, dill or kosher dill",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "9239",
+"en": "Pickles, cucumber, dill, reduced sodium",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9240",
+"en": "Pickles, cucumber, sour",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9241",
+"en": "Pickles, cucumber, sour, low sodium",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9242",
+"en": "Pickles, cucumber, sweet (includes bread and butter pickles)",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9243",
+"en": "Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9244",
+"en": "Pickles, dill",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9245",
+"en": "Pickles, fried",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9246",
+"en": "Pickles, NFS",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9247",
+"en": "Pickles, sweet",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9248",
+"en": "Picnic loaf, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "9249",
+"en": "Pie Crust, Cookie-type, Chocolate, Ready Crust",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9250",
+"en": "Pie Crust, Cookie-type, Graham Cracker, Ready Crust",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9251",
+"en": "Pie crust, cookie-type, prepared from recipe, graham cracker, chilled",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9252",
+"en": "Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9253",
+"en": "Pie crust, deep dish, frozen, baked, made with enriched flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9254",
+"en": "Pie crust, deep dish, frozen, unbaked, made with enriched flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9255",
+"en": "Pie crust, refrigerated, regular, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9256",
+"en": "Pie crust, refrigerated, regular, unbaked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9257",
+"en": "Pie crust, standard-type, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9258",
+"en": "Pie crust, standard-type, dry mix, prepared, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9259",
+"en": "Pie crust, standard-type, frozen, ready-to-bake, enriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9260",
+"en": "Pie crust, standard-type, frozen, ready-to-bake, enriched, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9261",
+"en": "Pie crust, standard-type, frozen, ready-to-bake, unenriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9262",
+"en": "Pie crust, standard-type, prepared from recipe, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9263",
+"en": "Pie crust, standard-type, prepared from recipe, unbaked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9264",
+"en": "Pie fillings, apple, canned",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "9265",
+"en": "Pie fillings, blueberry, canned",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "9266",
+"en": "Pie fillings, canned, cherry",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "9267",
+"en": "Pie fillings, cherry, low calorie",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "9268",
+"en": "Pie shell",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9269",
+"en": "Pie shell, graham cracker",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9270",
+"en": "Pie, apple",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9271",
+"en": "Pie, apple, commercially prepared, enriched flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9272",
+"en": "Pie, apple, commercially prepared, unenriched flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9273",
+"en": "Pie, apple, fast food",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9274",
+"en": "Pie, apple, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9275",
+"en": "Pie, banana cream",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9276",
+"en": "Pie, banana cream, prepared from mix, no-bake type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9277",
+"en": "Pie, banana cream, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9278",
+"en": "Pie, berry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9279",
+"en": "Pie, blueberry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9280",
+"en": "Pie, blueberry, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9281",
+"en": "Pie, blueberry, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9282",
+"en": "Pie, cherry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9283",
+"en": "Pie, cherry, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9284",
+"en": "Pie, cherry, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9285",
+"en": "Pie, chocolate cream",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9286",
+"en": "Pie, chocolate creme, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9287",
+"en": "Pie, chocolate mousse, prepared from mix, no-bake type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9288",
+"en": "Pie, coconut cream",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9289",
+"en": "Pie, coconut cream, prepared from mix, no-bake type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9290",
+"en": "Pie, coconut creme, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9291",
+"en": "Pie, coconut custard, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9292",
+"en": "Pie, custard",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9293",
+"en": "Pie, Dutch Apple, Commercially Prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9294",
+"en": "Pie, egg custard, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9295",
+"en": "Pie, fried pies, cherry",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9296",
+"en": "Pie, fried pies, fruit",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9297",
+"en": "Pie, fried pies, lemon",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9298",
+"en": "Pie, key lime",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9299",
+"en": "Pie, lemon",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9300",
+"en": "Pie, lemon meringue",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9301",
+"en": "Pie, lemon meringue, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9302",
+"en": "Pie, lemon meringue, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9303",
+"en": "Pie, mince, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9304",
+"en": "Pie, NFS",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9305",
+"en": "Pie, oatmeal",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9306",
+"en": "Pie, peach",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9307",
+"en": "Pie, peanut butter cream",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9308",
+"en": "Pie, pecan",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9309",
+"en": "Pie, pecan, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9310",
+"en": "Pie, pecan, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9311",
+"en": "Pie, pineapple cream",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9312",
+"en": "Pie, pumpkin",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9313",
+"en": "Pie, pumpkin, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9314",
+"en": "Pie, pumpkin, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9315",
+"en": "Pie, strawberry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9316",
+"en": "Pie, sweet potato",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9317",
+"en": "Pie, vanilla cream",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9318",
+"en": "Pie, vanilla cream, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9319",
+"en": "Pierogi",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9320",
+"en": "Pig in a blanket",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9321",
+"en": "Pigeon peas (red gram), mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9322",
+"en": "Pigeon peas (red gram), mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9323",
+"en": "Pigeon peas (red gram), mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9324",
+"en": "Pigeonpeas, immature seeds, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9325",
+"en": "Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9326",
+"en": "Pigeonpeas, immature seeds, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9327",
+"en": "Piki bread, made from blue cornmeal (Hopi)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9328",
+"en": "Pillsbury Golden Layer Buttermilk Biscuits, Artificial Flavor, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9329",
+"en": "Pillsbury Grands, Buttermilk Biscuits, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9330",
+"en": "Pillsbury, Buttermilk Biscuits, Artificial Flavor, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9331",
+"en": "Pillsbury, Chocolate Chip Cookies, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9332",
+"en": "Pillsbury, Cinnamon Rolls with Icing, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9333",
+"en": "Pillsbury, Crusty French Loaf, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9334",
+"en": "Pimento, canned",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9335",
+"en": "Pimiento",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9336",
+"en": "Pina Colada",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9337",
+"en": "Pina Colada, nonalcoholic",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9338",
+"en": "Pine nuts",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9339",
+"en": "Pineapple juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9340",
+"en": "Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9341",
+"en": "Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9342",
+"en": "Pineapple juice, canned, not from concentrate, unsweetened, with added vitamins A, C and E",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9343",
+"en": "Pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9344",
+"en": "Pineapple juice, frozen concentrate, unsweetened, undiluted",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9345",
+"en": "Pineapple salad with dressing",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9346",
+"en": "Pineapple, canned, extra heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9347",
+"en": "Pineapple, canned, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9348",
+"en": "Pineapple, canned, in syrup",
+"categoria": "Pineapple",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9349",
+"en": "Pineapple, canned, juice pack",
+"categoria": "Pineapple",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9350",
+"en": "Pineapple, canned, juice pack, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9351",
+"en": "Pineapple, canned, juice pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9352",
+"en": "Pineapple, canned, light syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9353",
+"en": "Pineapple, canned, NFS",
+"categoria": "Pineapple",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9354",
+"en": "Pineapple, canned, water pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9355",
+"en": "Pineapple, dried",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9356",
+"en": "Pineapple, frozen",
+"categoria": "Pineapple",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9357",
+"en": "Pineapple, frozen, chunks, sweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9358",
+"en": "Pineapple, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "9359",
+"en": "Pineapple, raw, all varieties",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9360",
+"en": "Pineapple, raw, extra sweet variety",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9361",
+"en": "Pineapple, raw, traditional varieties",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9362",
+"en": "Pink beans, cooked",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9363",
+"en": "Pinon Nuts, roasted (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9364",
+"en": "Pinto beans and brown rice",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9365",
+"en": "Pinto beans and rice, from fast food / restaurant",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9366",
+"en": "Pinto beans and white rice",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9367",
+"en": "Pinto beans with meat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9368",
+"en": "Pinto beans, from canned, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9369",
+"en": "Pinto beans, from canned, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9370",
+"en": "Pinto beans, from canned, reduced sodium",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9371",
+"en": "Pinto beans, from dried, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9372",
+"en": "Pinto beans, from dried, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9373",
+"en": "Pinto beans, from fast food / restaurant",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9374",
+"en": "Pinto beans, NFS",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9375",
+"en": "Pistachio nuts, lightly salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9376",
+"en": "Pistachio nuts, NFS",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9377",
+"en": "Pistachio nuts, salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9378",
+"en": "Pistachio nuts, unsalted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9379",
+"en": "Pita chips",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9380",
+"en": "Pitanga, (surinam-cherry), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9381",
+"en": "PIZZA HUT 12\" Cheese Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9382",
+"en": "PIZZA HUT 12\" Cheese Pizza, Pan Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9383",
+"en": "PIZZA HUT 12\" Cheese Pizza, THIN 'N CRISPY Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9384",
+"en": "PIZZA HUT 12\" Pepperoni Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9385",
+"en": "PIZZA HUT 12\" Pepperoni Pizza, Pan Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9386",
+"en": "PIZZA HUT 12\" Super Supreme Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9387",
+"en": "PIZZA HUT 14\" Cheese Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9388",
+"en": "PIZZA HUT 14\" Cheese Pizza, Pan Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9389",
+"en": "PIZZA HUT 14\" Cheese Pizza, Stuffed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9390",
+"en": "PIZZA HUT 14\" Cheese Pizza, THIN 'N CRISPY Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9391",
+"en": "PIZZA HUT 14\" Pepperoni Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9392",
+"en": "PIZZA HUT 14\" Pepperoni Pizza, Pan Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9393",
+"en": "PIZZA HUT 14\" Pepperoni Pizza, THIN 'N CRISPY Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9394",
+"en": "PIZZA HUT 14\" Sausage Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9395",
+"en": "PIZZA HUT 14\" Sausage Pizza, Pan Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9396",
+"en": "PIZZA HUT 14\" Sausage Pizza, THIN 'N CRISPY Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9397",
+"en": "PIZZA HUT 14\" Super Supreme Pizza, Hand-Tossed Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9398",
+"en": "PIZZA HUT, breadstick, parmesan garlic",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9399",
+"en": "Pizza rolls",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9400",
+"en": "Pizza rolls, frozen, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "9401",
+"en": "Pizza with beans and vegetables, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9402",
+"en": "Pizza with beans and vegetables, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9403",
+"en": "Pizza with cheese and extra vegetables, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9404",
+"en": "Pizza with cheese and extra vegetables, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9405",
+"en": "Pizza with cheese and extra vegetables, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9406",
+"en": "Pizza with extra meat and extra vegetables, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9407",
+"en": "Pizza with extra meat and extra vegetables, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9408",
+"en": "Pizza with extra meat and extra vegetables, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9409",
+"en": "Pizza with extra meat, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9410",
+"en": "Pizza with extra meat, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9411",
+"en": "Pizza with extra meat, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9412",
+"en": "Pizza with meat and fruit, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9413",
+"en": "Pizza with meat and fruit, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9414",
+"en": "Pizza with meat and fruit, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9415",
+"en": "Pizza with meat and vegetables, from frozen, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9416",
+"en": "Pizza with meat and vegetables, from frozen, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9417",
+"en": "Pizza with meat and vegetables, from frozen, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9418",
+"en": "Pizza with meat and vegetables, from restaurant or fast food, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9419",
+"en": "Pizza with meat and vegetables, from restaurant or fast food, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9420",
+"en": "Pizza with meat and vegetables, from restaurant or fast food, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9421",
+"en": "Pizza with meat other than pepperoni, from frozen, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9422",
+"en": "Pizza with meat other than pepperoni, from frozen, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9423",
+"en": "Pizza with meat other than pepperoni, from frozen, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9424",
+"en": "Pizza with meat other than pepperoni, from restaurant or fast food, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9425",
+"en": "Pizza with meat other than pepperoni, from restaurant or fast food, NS as to type of crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9426",
+"en": "Pizza with meat other than pepperoni, from restaurant or fast food, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9427",
+"en": "Pizza with meat other than pepperoni, from restaurant or fast food, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9428",
+"en": "Pizza with pepperoni, from frozen, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9429",
+"en": "Pizza with pepperoni, from frozen, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9430",
+"en": "Pizza with pepperoni, from frozen, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9431",
+"en": "Pizza with pepperoni, from restaurant or fast food, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9432",
+"en": "Pizza with pepperoni, from restaurant or fast food, NS as to type of crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9433",
+"en": "Pizza with pepperoni, from restaurant or fast food, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9434",
+"en": "Pizza with pepperoni, from restaurant or fast food, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9435",
+"en": "Pizza with pepperoni, from school lunch, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9436",
+"en": "Pizza with pepperoni, from school lunch, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9437",
+"en": "Pizza with pepperoni, stuffed crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9438",
+"en": "Pizza, cheese and vegetables, gluten-free thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9439",
+"en": "Pizza, cheese and vegetables, gluten-free thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9440",
+"en": "Pizza, cheese and vegetables, whole wheat thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9441",
+"en": "Pizza, cheese and vegetables, whole wheat thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9442",
+"en": "Pizza, cheese topping, regular crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9443",
+"en": "Pizza, cheese topping, rising crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9444",
+"en": "Pizza, cheese topping, thin crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9445",
+"en": "Pizza, cheese with vegetables, from frozen, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9446",
+"en": "Pizza, cheese, from frozen, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9447",
+"en": "Pizza, cheese, from frozen, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9448",
+"en": "Pizza, cheese, from restaurant or fast food, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9449",
+"en": "Pizza, cheese, from restaurant or fast food, NS as to type of crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9450",
+"en": "Pizza, cheese, from restaurant or fast food, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9451",
+"en": "Pizza, cheese, from restaurant or fast food, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9452",
+"en": "Pizza, cheese, from school lunch, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9453",
+"en": "Pizza, cheese, from school lunch, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9454",
+"en": "Pizza, cheese, from school lunch, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9455",
+"en": "Pizza, cheese, gluten-free thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9456",
+"en": "Pizza, cheese, gluten-free thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9457",
+"en": "Pizza, cheese, stuffed crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9458",
+"en": "Pizza, cheese, whole wheat thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9459",
+"en": "Pizza, cheese, whole wheat thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9460",
+"en": "Pizza, cheese, with fruit, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9461",
+"en": "Pizza, cheese, with fruit, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9462",
+"en": "Pizza, cheese, with fruit, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9463",
+"en": "Pizza, cheese, with vegetables, from frozen, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9464",
+"en": "Pizza, cheese, with vegetables, from restaurant or fast food, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9465",
+"en": "Pizza, cheese, with vegetables, from restaurant or fast food, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9466",
+"en": "Pizza, cheese, with vegetables, from restaurant or fast food, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9467",
+"en": "Pizza, extra cheese, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9468",
+"en": "Pizza, extra cheese, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9469",
+"en": "Pizza, meat and vegetable topping, regular crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9470",
+"en": "Pizza, meat and vegetable topping, rising crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9471",
+"en": "Pizza, meat topping, thick crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9472",
+"en": "Pizza, no cheese, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9473",
+"en": "Pizza, no cheese, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9474",
+"en": "Pizza, pepperoni topping, regular crust, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9475",
+"en": "Pizza, with meat other than pepperoni, from school lunch, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9476",
+"en": "Pizza, with meat other than pepperoni, from school lunch, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9477",
+"en": "Pizza, with meat other than pepperoni, from school lunch, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9478",
+"en": "Pizza, with meat other than pepperoni, stuffed crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9479",
+"en": "Pizza, with meat, gluten-free thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9480",
+"en": "Pizza, with meat, gluten-free thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9481",
+"en": "Pizza, with meat, whole wheat thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9482",
+"en": "Pizza, with meat, whole wheat thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9483",
+"en": "Pizza, with pepperoni, from school lunch, medium crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9484",
+"en": "Plantain chips",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9485",
+"en": "Plantain, cooked with butter or margarine",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9486",
+"en": "Plantain, cooked with oil",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9487",
+"en": "Plantain, cooked, fat added, NS as to fat type",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9488",
+"en": "Plantain, cooked, no added fat",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9489",
+"en": "Plantain, raw",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9490",
+"en": "Plantains, green, boiled",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9491",
+"en": "Plantains, green, fried",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9492",
+"en": "Plantains, green, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9493",
+"en": "Plantains, overripe, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "9494",
+"en": "Plantains, ripe, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "9495",
+"en": "Plantains, underripe, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "9496",
+"en": "Plantains, yellow, baked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9497",
+"en": "Plantains, yellow, fried, Latino restaurant",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9498",
+"en": "Plantains, yellow, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9499",
+"en": "Plum, black, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "9500",
+"en": "Plum, canned",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9501",
+"en": "Plum, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9502",
+"en": "Plums, canned, heavy syrup, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9503",
+"en": "Plums, canned, purple, extra heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9504",
+"en": "Plums, canned, purple, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9505",
+"en": "Plums, canned, purple, juice pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9506",
+"en": "Plums, canned, purple, light syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9507",
+"en": "Plums, canned, purple, water pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9508",
+"en": "Plums, dried (prunes), stewed, with added sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9509",
+"en": "Plums, dried (prunes), stewed, without added sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9510",
+"en": "Plums, dried (prunes), uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9511",
+"en": "Plums, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9512",
+"en": "Plums, wild (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9513",
+"en": "Pocky",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9514",
+"en": "Poi",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9515",
+"en": "Poke greens, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9516",
+"en": "Pokeberry shoots, (poke), cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9517",
+"en": "Pokeberry shoots, (poke), cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9518",
+"en": "Pokeberry shoots, (poke), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "9519",
+"en": "Polish sausage",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9520",
+"en": "Polish sausage, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "9521",
+"en": "Pomegranate juice beverage, 40-50% juice, light",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9522",
+"en": "Pomegranate juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9523",
+"en": "Pomegranate juice, bottled",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9524",
+"en": "Pomegranate, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9525",
+"en": "Pomegranates, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "9526",
+"en": "Popcorn cake",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9527",
+"en": "Popcorn chips, other flavors",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9528",
+"en": "Popcorn chips, plain",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9529",
+"en": "Popcorn chips, sweet flavors",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9530",
+"en": "Popcorn, air-popped, no butter added",
+"categoria": "Popcorn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9531",
+"en": "Popcorn, air-popped, with added butter",
+"categoria": "Popcorn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9532",
+"en": "Popcorn, caramel coated",
+"categoria": "Popcorn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9533",
+"en": "Popcorn, caramel coated, with nuts",
+"categoria": "Popcorn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9534",
+"en": "Popcorn, chocolate coated",
+"categoria": "Popcorn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "9535",
+"en": "Popcorn, microwave, butter flavored",
+"categoria": "Popcorn",
+"tipo": "Survey (FNDDS)"
+}
+]

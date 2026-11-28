@@ -1,0 +1,1790 @@
+[
+{
+"id": "10430",
+"en": "Quesadilla, chicken, with vegetables",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10431",
+"en": "Quesadilla, egg",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10432",
+"en": "Quesadilla, egg, with meat",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10433",
+"en": "Quesadilla, NFS",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10434",
+"en": "Quesadilla, with vegetables",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10435",
+"en": "Queso Anejo, aged Mexican cheese",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10436",
+"en": "Queso Asadero",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10437",
+"en": "Queso cotija",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10438",
+"en": "Queso Fresco",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10439",
+"en": "Quiche with meat, poultry or fish",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10440",
+"en": "Quinces, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10441",
+"en": "Quinoa flour, pre-gelatinized, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10442",
+"en": "Quinoa, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10443",
+"en": "Quinoa, fat added",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10444",
+"en": "Quinoa, no added fat",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10445",
+"en": "Quinoa, NS as to fat",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10446",
+"en": "Quinoa, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10447",
+"en": "Quinoa, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10448",
+"en": "Quinoa, uncooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10449",
+"en": "Rabbit",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10450",
+"en": "Raccoon",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10451",
+"en": "Radicchio, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "10452",
+"en": "Radish",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10453",
+"en": "Radish seeds, sprouted, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10454",
+"en": "Radishes, hawaiian style, pickled",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10455",
+"en": "Radishes, oriental, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10456",
+"en": "Radishes, oriental, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10457",
+"en": "Radishes, oriental, dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10458",
+"en": "Radishes, oriental, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10459",
+"en": "Radishes, pickled",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10460",
+"en": "Radishes, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10461",
+"en": "Radishes, red, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "10462",
+"en": "Radishes, white icicle, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10463",
+"en": "Raisins",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10464",
+"en": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10465",
+"en": "Raisins, golden, seedless",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10466",
+"en": "Raisins, seeded",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10467",
+"en": "Rambutan, canned, syrup pack",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10468",
+"en": "Ramen bowl with beef",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10469",
+"en": "Ramen bowl with chicken",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10470",
+"en": "Ramen bowl with fish",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10471",
+"en": "Ramen bowl with meat and egg",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10472",
+"en": "Ramen bowl, NFS",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10473",
+"en": "Ramen bowl, vegetarian",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10474",
+"en": "Ramen bowl, vegetarian with egg",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10475",
+"en": "Ranch dip, light",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10476",
+"en": "Ranch dip, regular",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10477",
+"en": "Ranch dip, yogurt based",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10478",
+"en": "Ranch dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10479",
+"en": "Ranch dressing, fat free",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10480",
+"en": "Ranch dressing, light",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10481",
+"en": "Raspberries, canned, red, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10482",
+"en": "Raspberries, frozen",
+"categoria": "Blueberries and other berries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10483",
+"en": "Raspberries, frozen, red, sweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10484",
+"en": "Raspberries, frozen, red, unsweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10485",
+"en": "Raspberries, puree, seedless",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10486",
+"en": "Raspberries, puree, with seeds",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10487",
+"en": "Raspberries, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "10488",
+"en": "Raspberries, wild (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10489",
+"en": "Raspberry juice concentrate",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10490",
+"en": "Ratatouille",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10491",
+"en": "Ravioli, cheese and spinach filled, with tomato sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10492",
+"en": "Ravioli, cheese and spinach-filled, no sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10493",
+"en": "Ravioli, cheese and spinach-filled, with cream sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10494",
+"en": "Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10495",
+"en": "Ravioli, cheese-filled, canned",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10496",
+"en": "Ravioli, cheese-filled, no sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10497",
+"en": "Ravioli, cheese-filled, with cream sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10498",
+"en": "Ravioli, cheese-filled, with meat sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10499",
+"en": "Ravioli, cheese-filled, with tomato sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10500",
+"en": "Ravioli, cheese-filled, with tomato sauce, canned",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10501",
+"en": "Ravioli, meat-filled, no sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10502",
+"en": "Ravioli, meat-filled, with cream sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10503",
+"en": "Ravioli, meat-filled, with tomato sauce or meat sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10504",
+"en": "Ravioli, meat-filled, with tomato sauce or meat sauce, canned",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10505",
+"en": "Ravioli, NS as to filling, no sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10506",
+"en": "Ravioli, NS as to filling, with cream sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10507",
+"en": "Ravioli, NS as to filling, with tomato sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10508",
+"en": "Raw vegetable, NFS",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10509",
+"en": "Red pepper, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10510",
+"en": "Reddi Wip Fat Free Whipped Topping",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10511",
+"en": "Refried beans",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10512",
+"en": "Refried beans with meat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10513",
+"en": "Refried beans, canned (pinto)",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "10514",
+"en": "Refried beans, canned, fat-free",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10515",
+"en": "Refried beans, canned, traditional style",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10516",
+"en": "Refried beans, canned, traditional, reduced sodium",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10517",
+"en": "Refried beans, canned, vegetarian",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "10518",
+"en": "Refried beans, from canned, reduced sodium",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10519",
+"en": "Refried beans, from fast food / restaurant",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10520",
+"en": "Relish, corn",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10521",
+"en": "Relish, pickle",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10522",
+"en": "Rennin, chocolate, dry mix, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10523",
+"en": "Rennin, chocolate, dry mix, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10524",
+"en": "Rennin, vanilla, dry mix, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10525",
+"en": "Rennin, vanilla, dry mix, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10526",
+"en": "Restaurant, Chinese, beef and vegetables",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10527",
+"en": "Restaurant, Chinese, chicken and vegetables",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10528",
+"en": "Restaurant, Chinese, chicken chow mein",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10529",
+"en": "Restaurant, Chinese, egg rolls, assorted",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10530",
+"en": "Restaurant, Chinese, fried rice, without meat",
+"categoria": "Restaurant Foods",
+"tipo": "Foundation"
+},
+{
+"id": "10531",
+"en": "Restaurant, Chinese, general tso's chicken",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10532",
+"en": "Restaurant, Chinese, kung pao chicken",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10533",
+"en": "Restaurant, Chinese, lemon chicken",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10534",
+"en": "Restaurant, Chinese, orange chicken",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10535",
+"en": "Restaurant, Chinese, sesame chicken",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10536",
+"en": "Restaurant, Chinese, shrimp and vegetables",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10537",
+"en": "Restaurant, Chinese, sweet and sour chicken",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10538",
+"en": "Restaurant, Chinese, sweet and sour pork",
+"categoria": "Restaurant Foods",
+"tipo": "Foundation"
+},
+{
+"id": "10539",
+"en": "Restaurant, Chinese, vegetable chow mein, without meat or noodles",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10540",
+"en": "Restaurant, Chinese, vegetable lo mein, without meat",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10541",
+"en": "Restaurant, family style, chicken fingers, from kid's menu",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10542",
+"en": "Restaurant, family style, chicken tenders",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10543",
+"en": "Restaurant, family style, chili with meat and beans",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10544",
+"en": "Restaurant, family style, coleslaw",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10545",
+"en": "Restaurant, family style, fish fillet, battered or breaded, fried",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10546",
+"en": "Restaurant, family style, french fries",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10547",
+"en": "Restaurant, family style, fried mozzarella sticks",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10548",
+"en": "Restaurant, family style, hash browns",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10549",
+"en": "Restaurant, family style, macaroni & cheese, from kids' menu",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10550",
+"en": "Restaurant, family style, onion rings",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10551",
+"en": "Restaurant, family style, shrimp, breaded and fried",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10552",
+"en": "Restaurant, family style, sirloin steak",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10553",
+"en": "Restaurant, family style, spaghetti and meatballs",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10554",
+"en": "Restaurant, Italian, cheese ravioli with marinara sauce",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10555",
+"en": "Restaurant, Italian, chicken parmesan without pasta",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10556",
+"en": "Restaurant, Italian, lasagna with meat",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10557",
+"en": "Restaurant, Italian, spaghetti with meat sauce",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10558",
+"en": "Restaurant, Italian, spaghetti with pomodoro sauce (no meat)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10559",
+"en": "Restaurant, Latino, arepa (unleavened cornmeal bread)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10560",
+"en": "Restaurant, Latino, Arroz con frijoles negros (rice and black beans)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10561",
+"en": "Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10562",
+"en": "Restaurant, Latino, Arroz con habichuelas colorados (Rice And Red Beans)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10563",
+"en": "Restaurant, Latino, arroz con leche (rice pudding)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10564",
+"en": "Restaurant, Latino, black bean soup",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10565",
+"en": "Restaurant, Latino, bunuelos (fried yeast bread)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10566",
+"en": "Restaurant, Latino, chicken and rice, entree, prepared",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10567",
+"en": "Restaurant, Latino, empanadas, beef, prepared",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10568",
+"en": "Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+"categoria": "Restaurant Foods",
+"tipo": "Foundation"
+},
+{
+"id": "10569",
+"en": "Restaurant, Latino, pupusas con queso (pupusas, cheese)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10570",
+"en": "Restaurant, Latino, pupusas del cerdo (pupusas, pork)",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10571",
+"en": "Restaurant, Latino, tamale, corn",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10572",
+"en": "Restaurant, Latino, tamale, pork",
+"categoria": "Restaurant Foods",
+"tipo": "Foundation"
+},
+{
+"id": "10573",
+"en": "Restaurant, Latino, tripe soup",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10574",
+"en": "Restaurant, Mexican, cheese enchilada",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10575",
+"en": "Restaurant, Mexican, cheese quesadilla",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10576",
+"en": "Restaurant, Mexican, cheese tamales",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10577",
+"en": "Restaurant, Mexican, refried beans",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10578",
+"en": "Restaurant, Mexican, soft taco with ground beef, cheese and lettuce",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10579",
+"en": "Restaurant, Mexican, spanish rice",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10580",
+"en": "Reuben sandwich",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10581",
+"en": "Rhubarb",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10582",
+"en": "Rhubarb, frozen, cooked, with sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10583",
+"en": "Rhubarb, frozen, uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10584",
+"en": "Rhubarb, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10585",
+"en": "Rhubarb, wild, leaves (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10586",
+"en": "Ribs, NFS",
+"categoria": "Pork",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10587",
+"en": "Rice and vermicelli mix, beef flavor, prepared with 80% margarine",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10588",
+"en": "Rice and vermicelli mix, beef flavor, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10589",
+"en": "Rice and vermicelli mix, chicken flavor, prepared with 80% margarine",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10590",
+"en": "Rice and vermicelli mix, rice pilaf flavor, prepared with 80% margarine",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10591",
+"en": "Rice and vermicelli mix, rice pilaf flavor, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10592",
+"en": "Rice and Wheat cereal bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "10593",
+"en": "Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10594",
+"en": "Rice bran, crude",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10595",
+"en": "Rice cake",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10596",
+"en": "Rice cake, cracker (include hain mini rice cakes)",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "10597",
+"en": "Rice crackers",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "10598",
+"en": "Rice croquette",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10599",
+"en": "Rice dessert or salad with fruit",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10600",
+"en": "Rice dressing",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10601",
+"en": "Rice flour, brown",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10602",
+"en": "Rice flour, white, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10603",
+"en": "Rice milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10604",
+"en": "Rice mix, cheese flavor, dry mix, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10605",
+"en": "Rice mix, white and wild, flavored, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10606",
+"en": "Rice noodles, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10607",
+"en": "Rice noodles, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10608",
+"en": "Rice paper",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10609",
+"en": "Rice pilaf",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10610",
+"en": "Rice with raisins",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10611",
+"en": "Rice with Spanish sausage, Puerto Rican style",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10612",
+"en": "Rice with squid, Puerto Rican style",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10613",
+"en": "Rice with stewed beans, Puerto Rican style",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10614",
+"en": "Rice with vienna sausage, Puerto Rican style",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10615",
+"en": "Rice, black, unenriched, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10616",
+"en": "Rice, brown and wild, cooked, fat added",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10617",
+"en": "Rice, brown and wild, cooked, no added fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10618",
+"en": "Rice, brown and wild, cooked, NS as to fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10619",
+"en": "Rice, brown, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10620",
+"en": "Rice, brown, cooked, fat added, made with oil",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10621",
+"en": "Rice, brown, cooked, fat added, NS as to fat type",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10622",
+"en": "Rice, brown, cooked, made with butter",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10623",
+"en": "Rice, brown, cooked, made with margarine",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10624",
+"en": "Rice, brown, cooked, no added fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10625",
+"en": "Rice, brown, cooked, NS as to fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10626",
+"en": "Rice, brown, long grain, unenriched, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10627",
+"en": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10628",
+"en": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10629",
+"en": "Rice, brown, medium-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10630",
+"en": "Rice, brown, medium-grain, raw (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10631",
+"en": "Rice, brown, parboiled, cooked, UNCLE BENS",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10632",
+"en": "Rice, brown, parboiled, dry, UNCLE BEN'S",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10633",
+"en": "Rice, brown, with carrots and dark green vegetables, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10634",
+"en": "Rice, brown, with carrots and dark green vegetables, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10635",
+"en": "Rice, brown, with carrots and dark green vegetables, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10636",
+"en": "Rice, brown, with carrots and tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10637",
+"en": "Rice, brown, with carrots and tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10638",
+"en": "Rice, brown, with carrots and tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10639",
+"en": "Rice, brown, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10640",
+"en": "Rice, brown, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10641",
+"en": "Rice, brown, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10642",
+"en": "Rice, brown, with carrots, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10643",
+"en": "Rice, brown, with carrots, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10644",
+"en": "Rice, brown, with carrots, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10645",
+"en": "Rice, brown, with cheese and/or cream based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10646",
+"en": "Rice, brown, with cheese and/or cream based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10647",
+"en": "Rice, brown, with cheese and/or cream based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10648",
+"en": "Rice, brown, with corn, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10649",
+"en": "Rice, brown, with corn, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10650",
+"en": "Rice, brown, with corn, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10651",
+"en": "Rice, brown, with dark green vegetables and tomatoes and/or tomato-based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10652",
+"en": "Rice, brown, with dark green vegetables and tomatoes and/or tomato-based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10653",
+"en": "Rice, brown, with dark green vegetables and tomatoes and/or tomato-based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10654",
+"en": "Rice, brown, with dark green vegetables, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10655",
+"en": "Rice, brown, with dark green vegetables, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10656",
+"en": "Rice, brown, with dark green vegetables, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10657",
+"en": "Rice, brown, with gravy, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10658",
+"en": "Rice, brown, with gravy, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10659",
+"en": "Rice, brown, with gravy, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10660",
+"en": "Rice, brown, with other vegetables, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10661",
+"en": "Rice, brown, with other vegetables, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10662",
+"en": "Rice, brown, with other vegetables, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10663",
+"en": "Rice, brown, with peas and carrots, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10664",
+"en": "Rice, brown, with peas and carrots, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10665",
+"en": "Rice, brown, with peas and carrots, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10666",
+"en": "Rice, brown, with peas, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10667",
+"en": "Rice, brown, with peas, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10668",
+"en": "Rice, brown, with peas, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10669",
+"en": "Rice, brown, with soy-based sauce, fat added",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10670",
+"en": "Rice, brown, with soy-based sauce, no added fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10671",
+"en": "Rice, brown, with soy-based sauce, NS as to fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10672",
+"en": "Rice, brown, with tomatoes and/or tomato based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10673",
+"en": "Rice, brown, with tomatoes and/or tomato based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10674",
+"en": "Rice, brown, with tomatoes and/or tomato based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10675",
+"en": "Rice, brown, with vegetables and gravy, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10676",
+"en": "Rice, brown, with vegetables and gravy, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10677",
+"en": "Rice, brown, with vegetables and gravy, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10678",
+"en": "Rice, brown, with vegetables, cheese and/or cream based sauce, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10679",
+"en": "Rice, brown, with vegetables, cheese and/or cream based sauce, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10680",
+"en": "Rice, brown, with vegetables, cheese and/or cream based sauce, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10681",
+"en": "Rice, brown, with vegetables, soy-based sauce, fat added",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10682",
+"en": "Rice, brown, with vegetables, soy-based sauce, no added fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10683",
+"en": "Rice, brown, with vegetables, soy-based sauce, NS as to fat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10684",
+"en": "Rice, cooked with coconut milk",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10685",
+"en": "Rice, cooked, NFS",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10686",
+"en": "Rice, cooked, with milk",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10687",
+"en": "Rice, fried, meatless",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10688",
+"en": "Rice, fried, NFS",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10689",
+"en": "Rice, fried, with beef",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10690",
+"en": "Rice, fried, with chicken",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10691",
+"en": "Rice, fried, with pork",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10692",
+"en": "Rice, fried, with shrimp",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10693",
+"en": "Rice, red, unenriched, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10694",
+"en": "Rice, sweet, cooked with honey",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10695",
+"en": "Rice, white and wild, cooked, fat added",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10696",
+"en": "Rice, white and wild, cooked, no added fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10697",
+"en": "Rice, white and wild, cooked, NS as to fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10698",
+"en": "Rice, white, cooked with fat, Puerto Rican style",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10699",
+"en": "Rice, white, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10700",
+"en": "Rice, white, cooked, fat added, NS as to fat type",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10701",
+"en": "Rice, white, cooked, glutinous",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10702",
+"en": "Rice, white, cooked, made with butter",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10703",
+"en": "Rice, white, cooked, made with margarine",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10704",
+"en": "Rice, white, cooked, made with oil",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10705",
+"en": "Rice, white, cooked, no added fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10706",
+"en": "Rice, white, cooked, NS as to fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10707",
+"en": "Rice, white, glutinous, unenriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10708",
+"en": "Rice, white, glutinous, unenriched, uncooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10709",
+"en": "Rice, white, long grain, unenriched, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10710",
+"en": "Rice, white, long-grain, parboiled, enriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10711",
+"en": "Rice, white, long-grain, parboiled, enriched, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10712",
+"en": "Rice, white, long-grain, parboiled, unenriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10713",
+"en": "Rice, white, long-grain, parboiled, unenriched, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10714",
+"en": "Rice, white, long-grain, precooked or instant, enriched, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10715",
+"en": "Rice, white, long-grain, precooked or instant, enriched, prepared",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10716",
+"en": "Rice, white, long-grain, regular, cooked, enriched, with salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10717",
+"en": "Rice, white, long-grain, regular, cooked, unenriched, with salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10718",
+"en": "Rice, white, long-grain, regular, enriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10719",
+"en": "Rice, white, long-grain, regular, raw, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10720",
+"en": "Rice, white, long-grain, regular, raw, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10721",
+"en": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10722",
+"en": "Rice, white, medium-grain, cooked, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10723",
+"en": "Rice, white, medium-grain, enriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10724",
+"en": "Rice, white, medium-grain, raw, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10725",
+"en": "Rice, white, medium-grain, raw, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "10726",
+"en": "Rice, white, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "10727",
+"en": "Rice, white, short-grain, cooked, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+}
+]

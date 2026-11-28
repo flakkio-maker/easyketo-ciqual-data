@@ -1,0 +1,1790 @@
+[
+{
+"id": "8046",
+"en": "Milk, filled, fluid, with blend of hydrogenated vegetable oils",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8047",
+"en": "Milk, filled, fluid, with lauric acid oil",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8048",
+"en": "Milk, fluid, 1% fat, without added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8049",
+"en": "Milk, fluid, nonfat, calcium fortified (fat free or skim)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8050",
+"en": "Milk, goat, fluid, with added vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8051",
+"en": "Milk, human, mature, fluid (For Reference Only)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8052",
+"en": "Milk, imitation, non-soy",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8053",
+"en": "Milk, indian buffalo, fluid",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8054",
+"en": "Milk, lactose free, fat free (skim)",
+"categoria": "Milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8055",
+"en": "Milk, lactose free, low fat (1%)",
+"categoria": "Milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8056",
+"en": "Milk, lactose free, reduced fat (2%)",
+"categoria": "Milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8057",
+"en": "Milk, lactose free, whole",
+"categoria": "Milk, whole",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8058",
+"en": "Milk, low fat (1%)",
+"categoria": "Milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8059",
+"en": "Milk, low sodium, fluid",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8060",
+"en": "Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8061",
+"en": "Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8062",
+"en": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "8063",
+"en": "Milk, malted",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8064",
+"en": "Milk, malted, dry mix, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8065",
+"en": "Milk, NFS",
+"categoria": "Milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8066",
+"en": "Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8067",
+"en": "Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8068",
+"en": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "8069",
+"en": "Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8070",
+"en": "Milk, producer, fluid, 3.7% milkfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8071",
+"en": "Milk, reduced fat (2%)",
+"categoria": "Milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8072",
+"en": "Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8073",
+"en": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8074",
+"en": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8075",
+"en": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "8076",
+"en": "Milk, reduced fat, fluid, 2% milkfat, without added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8077",
+"en": "Milk, sheep, fluid",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8078",
+"en": "Milk, whole",
+"categoria": "Milk, whole",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8079",
+"en": "Milk, whole, 3.25% milkfat, with added vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "8080",
+"en": "Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8081",
+"en": "Millet",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8082",
+"en": "Millet flour",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8083",
+"en": "Millet, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8084",
+"en": "Millet, flour, pre-gelatinized",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8085",
+"en": "Millet, flour, pre-gelatinized, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8086",
+"en": "Millet, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8087",
+"en": "Millet, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8088",
+"en": "Millet, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8089",
+"en": "Millet, whole grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8090",
+"en": "Mimosa",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8091",
+"en": "Mint julep",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8092",
+"en": "Mirepoix, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8093",
+"en": "Miso",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8094",
+"en": "Miso sauce",
+"categoria": "Soy-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8095",
+"en": "Mission Foods, Mission Flour Tortillas, Soft Taco, 8 inch",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8096",
+"en": "Mixed nuts, honey roasted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8097",
+"en": "Mixed nuts, NFS",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8098",
+"en": "Mixed nuts, unroasted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8099",
+"en": "Mixed nuts, with peanuts, lightly salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8100",
+"en": "Mixed nuts, with peanuts, salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8101",
+"en": "Mixed nuts, with peanuts, unsalted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8102",
+"en": "Mixed nuts, without peanuts, salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8103",
+"en": "Mixed nuts, without peanuts, unsalted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8104",
+"en": "Mixed salad greens, raw",
+"categoria": "Lettuce and lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8105",
+"en": "Mixed seeds",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8106",
+"en": "Mixed vegetable juice",
+"categoria": "Vegetable juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8107",
+"en": "Mock chicken legs",
+"categoria": "Beef, excludes ground",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8108",
+"en": "Mojito",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8109",
+"en": "Molasses",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "8110",
+"en": "Mole sauce",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8111",
+"en": "Mollusks, abalone, mixed species, cooked, fried",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8112",
+"en": "Mollusks, abalone, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8113",
+"en": "Mollusks, clam, mixed species, canned, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8114",
+"en": "Mollusks, clam, mixed species, canned, liquid",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8115",
+"en": "Mollusks, clam, mixed species, cooked, breaded and fried",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8116",
+"en": "Mollusks, clam, mixed species, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8117",
+"en": "Mollusks, clam, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8118",
+"en": "Mollusks, conch, baked or broiled",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8119",
+"en": "Mollusks, cuttlefish, mixed species, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8120",
+"en": "Mollusks, cuttlefish, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8121",
+"en": "Mollusks, mussel, blue, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8122",
+"en": "Mollusks, mussel, blue, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8123",
+"en": "Mollusks, octopus, common, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8124",
+"en": "Mollusks, octopus, common, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8125",
+"en": "Mollusks, oyster, eastern, canned",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8126",
+"en": "Mollusks, oyster, eastern, cooked, breaded and fried",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8127",
+"en": "Mollusks, oyster, eastern, farmed, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8128",
+"en": "Mollusks, oyster, eastern, farmed, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8129",
+"en": "Mollusks, oyster, eastern, wild, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8130",
+"en": "Mollusks, oyster, eastern, wild, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8131",
+"en": "Mollusks, oyster, eastern, wild, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8132",
+"en": "Mollusks, oyster, Pacific, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8133",
+"en": "Mollusks, oyster, Pacific, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8134",
+"en": "Mollusks, scallop, (bay and sea), cooked, steamed",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8135",
+"en": "Mollusks, scallop, mixed species, cooked, breaded and fried",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8136",
+"en": "Mollusks, scallop, mixed species, imitation, made from surimi",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8137",
+"en": "Mollusks, scallop, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8138",
+"en": "Mollusks, snail, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8139",
+"en": "Mollusks, squid, mixed species, cooked, fried",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8140",
+"en": "Mollusks, squid, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8141",
+"en": "Mollusks, whelk, unspecified, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8142",
+"en": "Mollusks, whelk, unspecified, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8143",
+"en": "Moo Goo Gai Pan",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8144",
+"en": "Moo Shu pork, without Chinese pancake",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8145",
+"en": "Moose",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8146",
+"en": "Moose, liver, braised (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8147",
+"en": "Moose, meat, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8148",
+"en": "MORI-NU, Tofu, silken, extra firm",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8149",
+"en": "MORI-NU, Tofu, silken, firm",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8150",
+"en": "MORI-NU, Tofu, silken, lite extra firm",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8151",
+"en": "MORI-NU, Tofu, silken, lite firm",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8152",
+"en": "MORI-NU, Tofu, silken, soft",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8153",
+"en": "Mortadella",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8154",
+"en": "Mortadella, beef, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8155",
+"en": "Moscow mule",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8156",
+"en": "Mothbeans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8157",
+"en": "Mothbeans, mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8158",
+"en": "Mothbeans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8159",
+"en": "Mother's loaf, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8160",
+"en": "Mountain yam, hawaii, cooked, steamed, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8161",
+"en": "Mountain yam, hawaii, cooked, steamed, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8162",
+"en": "Mountain yam, hawaii, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8163",
+"en": "Mouse nuts, roots (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8164",
+"en": "Mouse nuts, seedlings (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8165",
+"en": "Mousse",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8166",
+"en": "Mozzarella cheese, tomato, and basil, with oil and vinegar dressing",
+"categoria": "Coleslaw, non-lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8167",
+"en": "Mozzarella sticks, breaded, baked, or fried",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8168",
+"en": "Muffin, blueberry, commercially prepared, low-fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8169",
+"en": "Muffin, bran with fruit, lowfat",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8170",
+"en": "Muffin, carrot",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8171",
+"en": "Muffin, cheese",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8172",
+"en": "Muffin, chocolate",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8173",
+"en": "Muffin, chocolate chip",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8174",
+"en": "Muffin, English",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8175",
+"en": "Muffin, English, cheese",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8176",
+"en": "Muffin, English, multigrain",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8177",
+"en": "Muffin, English, oat bran",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8178",
+"en": "Muffin, English, oat bran, with raisins",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8179",
+"en": "Muffin, English, pumpernickel",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8180",
+"en": "Muffin, English, rye",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8181",
+"en": "Muffin, English, wheat bran",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8182",
+"en": "Muffin, English, wheat bran, with raisins",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8183",
+"en": "Muffin, English, wheat or cracked wheat",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8184",
+"en": "Muffin, English, wheat or cracked wheat, with raisins",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8185",
+"en": "Muffin, English, whole grain white",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8186",
+"en": "Muffin, English, whole wheat",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8187",
+"en": "Muffin, English, whole wheat, with raisins",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8188",
+"en": "Muffin, English, with fruit other than raisins",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8189",
+"en": "Muffin, English, with raisins",
+"categoria": "Bagels and English muffins",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8190",
+"en": "Muffin, fruit",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8191",
+"en": "Muffin, fruit, low fat",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8192",
+"en": "Muffin, NFS",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8193",
+"en": "Muffin, oat bran",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8194",
+"en": "Muffin, oatmeal",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8195",
+"en": "Muffin, plain",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8196",
+"en": "Muffin, pumpkin",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8197",
+"en": "Muffin, wheat",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8198",
+"en": "Muffin, wheat bran",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8199",
+"en": "Muffin, whole grain",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8200",
+"en": "Muffin, whole wheat",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8201",
+"en": "Muffin, zucchini",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8202",
+"en": "Muffins, blueberry, commercially prepared (Includes mini-muffins)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8203",
+"en": "Muffins, blueberry, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8204",
+"en": "Muffins, blueberry, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8205",
+"en": "Muffins, blueberry, toaster-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8206",
+"en": "Muffins, blueberry, toaster-type, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8207",
+"en": "Muffins, corn, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8208",
+"en": "Muffins, corn, dry mix, prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8209",
+"en": "Muffins, corn, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8210",
+"en": "Muffins, corn, toaster-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8211",
+"en": "Muffins, English, mixed-grain (includes granola)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8212",
+"en": "Muffins, English, plain, enriched, with ca prop (includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8213",
+"en": "Muffins, English, plain, toasted, enriched, with calcium propionate (includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8214",
+"en": "Muffins, English, raisin-cinnamon (includes apple-cinnamon)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8215",
+"en": "Muffins, English, raisin-cinnamon, toasted (includes apple-cinnamon)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8216",
+"en": "Muffins, English, wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8217",
+"en": "Muffins, English, whole-wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8218",
+"en": "Muffins, oat bran",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8219",
+"en": "Muffins, plain, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8220",
+"en": "Muffins, wheat bran, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8221",
+"en": "Muffins, wheat bran, toaster-type with raisins, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8222",
+"en": "Mulberries, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8223",
+"en": "Multigrain chips (Sun Chips)",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8224",
+"en": "Multiple meat sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8225",
+"en": "Multiple meat sandwich on wheat, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8226",
+"en": "Multiple meat sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8227",
+"en": "Multiple meat sandwich on white, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8228",
+"en": "Multiple meat sandwich or sub, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8229",
+"en": "Multiple meat sandwich or sub, with cheese, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8230",
+"en": "Multiple meat sandwich wrap",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8231",
+"en": "Mung beans, cooked",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8232",
+"en": "Mung beans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8233",
+"en": "Mung beans, mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8234",
+"en": "Mung beans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8235",
+"en": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8236",
+"en": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8237",
+"en": "Mung beans, mature seeds, sprouted, cooked, stir-fried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8238",
+"en": "Mung beans, mature seeds, sprouted, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8239",
+"en": "Mungo beans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8240",
+"en": "Mungo beans, mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8241",
+"en": "Mungo beans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8242",
+"en": "Mush, blue corn with ash (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8243",
+"en": "Mushroom corn, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8244",
+"en": "Mushroom, Asian, cooked, from dried",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8245",
+"en": "Mushroom, beech",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8246",
+"en": "Mushroom, crimini",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8247",
+"en": "Mushroom, enoki",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8248",
+"en": "Mushroom, king oyster",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8249",
+"en": "Mushroom, lion's mane",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8250",
+"en": "Mushroom, maitake",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8251",
+"en": "Mushroom, oyster",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8252",
+"en": "Mushroom, pioppini",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8253",
+"en": "Mushroom, portabella",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8254",
+"en": "Mushroom, white, exposed to ultraviolet light, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8255",
+"en": "Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8256",
+"en": "Mushrooms, brown, italian, or crimini, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8257",
+"en": "Mushrooms, canned, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8258",
+"en": "Mushrooms, canned, drained solids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8259",
+"en": "Mushrooms, Chanterelle, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8260",
+"en": "Mushrooms, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8261",
+"en": "Mushrooms, enoki, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8262",
+"en": "Mushrooms, for use on a sandwich",
+"categoria": "Vegetables on a sandwich",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8263",
+"en": "Mushrooms, fresh, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8264",
+"en": "Mushrooms, fresh, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8265",
+"en": "Mushrooms, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8266",
+"en": "Mushrooms, fresh, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8267",
+"en": "Mushrooms, maitake, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8268",
+"en": "Mushrooms, morel, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8269",
+"en": "Mushrooms, NS as to form, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8270",
+"en": "Mushrooms, oyster, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8271",
+"en": "Mushrooms, pickled",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8272",
+"en": "Mushrooms, portabella, exposed to ultraviolet light, grilled",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8273",
+"en": "Mushrooms, portabella, exposed to ultraviolet light, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8274",
+"en": "Mushrooms, portabella, grilled",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8275",
+"en": "Mushrooms, portabella, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8276",
+"en": "Mushrooms, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8277",
+"en": "Mushrooms, shiitake",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8278",
+"en": "Mushrooms, shiitake, cooked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8279",
+"en": "Mushrooms, shiitake, cooked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8280",
+"en": "Mushrooms, shiitake, dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8281",
+"en": "Mushrooms, shiitake, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8282",
+"en": "Mushrooms, shiitake, stir-fried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8283",
+"en": "Mushrooms, straw, canned, drained solids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8284",
+"en": "Mushrooms, stuffed",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8285",
+"en": "Mushrooms, white button",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8286",
+"en": "Mushrooms, white, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8287",
+"en": "Mushrooms, white, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8288",
+"en": "Mushrooms, white, microwaved",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8289",
+"en": "Mushrooms, white, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8290",
+"en": "Mushrooms, white, stir-fried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8291",
+"en": "Mussels",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8292",
+"en": "Mustard",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8293",
+"en": "Mustard greens, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8294",
+"en": "Mustard greens, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8295",
+"en": "Mustard greens, fresh, cooked, fat added",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8296",
+"en": "Mustard greens, fresh, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8297",
+"en": "Mustard greens, frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8298",
+"en": "Mustard greens, frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8299",
+"en": "Mustard greens, frozen, cooked, fat added",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8300",
+"en": "Mustard greens, frozen, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8301",
+"en": "Mustard greens, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8302",
+"en": "Mustard greens, NS as to form, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8303",
+"en": "Mustard greens, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8304",
+"en": "Mustard spinach, (tendergreen), cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8305",
+"en": "Mustard spinach, (tendergreen), cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8306",
+"en": "Mustard spinach, (tendergreen), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8307",
+"en": "Mustard, prepared, yellow",
+"categoria": "Spices and Herbs",
+"tipo": "Foundation"
+},
+{
+"id": "8308",
+"en": "Mutton, cooked, roasted (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8309",
+"en": "Nabisco, Nabisco Grahams Crackers",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8310",
+"en": "Nabisco, Nabisco Oreo Crunchies, Cookie Crumb Topping",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8311",
+"en": "Nabisco, Nabisco Ritz Crackers",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8312",
+"en": "Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8313",
+"en": "Nachos, beef or pork",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8314",
+"en": "Nachos, beef or pork, with beans",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8315",
+"en": "Nachos, cheese only",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8316",
+"en": "Nachos, chicken",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8317",
+"en": "Nachos, chicken, with beans",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8318",
+"en": "Nachos, NFS",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8319",
+"en": "Nachos, with beans",
+"categoria": "Nachos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8320",
+"en": "Nance, canned, syrup, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8321",
+"en": "Nance, frozen, unsweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8322",
+"en": "Naranjilla (lulo) pulp, frozen, unsweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8323",
+"en": "Natto",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8324",
+"en": "Nectarine, raw",
+"categoria": "Peaches and nectarines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8325",
+"en": "Nectarines, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "8326",
+"en": "New zealand spinach, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8327",
+"en": "New Zealand spinach, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8328",
+"en": "New Zealand spinach, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8329",
+"en": "Non-dairy milk, NFS",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8330",
+"en": "Noodle pudding",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8331",
+"en": "Noodles with vegetables in tomato-based sauce, diet frozen meal",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8332",
+"en": "Noodles, chinese, cellophane or long rice (mung beans), dehydrated",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8333",
+"en": "Noodles, chinese, chow mein",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8334",
+"en": "Noodles, chow mein",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8335",
+"en": "Noodles, cooked",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8336",
+"en": "Noodles, egg, cooked, enriched, with added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8337",
+"en": "Noodles, egg, cooked, unenriched, with added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8338",
+"en": "Noodles, egg, dry, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8339",
+"en": "Noodles, egg, dry, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8340",
+"en": "Noodles, egg, enriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8341",
+"en": "Noodles, egg, spinach, enriched, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8342",
+"en": "Noodles, egg, spinach, enriched, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8343",
+"en": "Noodles, egg, unenriched, cooked, without added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+}
+]

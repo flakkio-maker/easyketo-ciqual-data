@@ -1,0 +1,2088 @@
+{
+"7748": {
+"it": "Longan, secchi",
+"fr": "Longanes, séchés",
+"es": "Longanes, secos",
+"de": "Longan, getrocknet",
+"pt": "Longans, secos"
+},
+"7749": {
+"it": "Longan, crudi",
+"fr": "Longanes, crus",
+"es": "Longanes, crudos",
+"de": "Longan, roh",
+"pt": "Longans, crus"
+},
+"7750": {
+"it": "Nespole del Giappone, crude",
+"fr": "Nèfles du Japon, crues",
+"es": "Nísperos, crudos",
+"de": "Wollmispeln, roh",
+"pt": "Nêsperas, cruas"
+},
+"7751": {
+"it": "Radice di loto, cotta",
+"fr": "Racine de lotus, cuite",
+"es": "Raíz de loto, cocida",
+"de": "Lotuswurzel, gekocht",
+"pt": "Raiz de lótus, cozida"
+},
+"7752": {
+"it": "Radice di loto, cotta, bollita, sgocciolata, con sale",
+"fr": "Racine de lotus, cuite, bouillie, égouttée, avec sel",
+"es": "Raíz de loto, cocida, hervida, escurrida, con sal",
+"de": "Lotuswurzel, gekocht, abgetropft, mit Salz",
+"pt": "Raiz de lótus, cozida, cozida em água, escorrida, com sal"
+},
+"7753": {
+"it": "Radice di loto, cotta, bollita, sgocciolata, senza sale",
+"fr": "Racine de lotus, cuite, bouillie, égouttée, sans sel",
+"es": "Raíz de loto, cocida, hervida, escurrida, sin sal",
+"de": "Lotuswurzel, gekocht, abgetropft, ohne Salz",
+"pt": "Raiz de lótus, cozida, cozida em água, escorrida, sem sal"
+},
+"7754": {
+"it": "Radice di loto, cruda",
+"fr": "Racine de lotus, crue",
+"es": "Raíz de loto, cruda",
+"de": "Lotuswurzel, roh",
+"pt": "Raiz de lótus, crua"
+},
+"7755": {
+"it": "Luncheon meat, tipo a pagnotta",
+"fr": "Luncheon meat, type pain de viande",
+"es": "Luncheon meat, tipo pan",
+"de": "Frühstücksfleisch, Laibtyp",
+"pt": "Luncheon meat, tipo bloco"
+},
+"7756": {
+"it": "Luncheon meat, non specificato",
+"fr": "Luncheon meat, non spécifié",
+"es": "Luncheon meat, no especificado",
+"de": "Frühstücksfleisch, nicht näher bezeichnet",
+"pt": "Luncheon meat, não especificado"
+},
+"7757": {
+"it": "Luncheon meat, maiale e pollo, macinato, in scatola, include Spam Lite",
+"fr": "Luncheon meat, porc et poulet, haché, en conserve, inclut Spam Lite",
+"es": "Luncheon meat, cerdo y pollo, picado, en conserva, incluye Spam Lite",
+"de": "Frühstücksfleisch, Schwein und Huhn, gehackt, aus der Dose, einschließlich Spam Lite",
+"pt": "Luncheon meat, carne suína e frango, moído, enlatado, inclui Spam Lite"
+},
+"7758": {
+"it": "Luncheon meat, maiale con prosciutto, macinato, in scatola, include Spam (Hormel)",
+"fr": "Luncheon meat, porc avec jambon, haché, en conserve, inclut Spam (Hormel)",
+"es": "Luncheon meat, cerdo con jamón, picado, en conserva, incluye Spam (Hormel)",
+"de": "Frühstücksfleisch, Schwein mit Schinken, gehackt, aus der Dose, einschließlich Spam (Hormel)",
+"pt": "Luncheon meat, carne suína com presunto, moído, enlatado, inclui Spam (Hormel)"
+},
+"7759": {
+"it": "Luncheon meat, maiale, in scatola",
+"fr": "Luncheon meat, porc, en conserve",
+"es": "Luncheon meat, cerdo, en conserva",
+"de": "Frühstücksfleisch, Schwein, aus der Dose",
+"pt": "Luncheon meat, carne suína, enlatado"
+},
+"7760": {
+"it": "Luncheon meat, maiale, prosciutto e pollo, macinato, in scatola, a ridotto contenuto di sodio, con acido ascorbico aggiunto, include SPAM, 25% di sodio in meno",
+"fr": "Luncheon meat, porc, jambon et poulet, haché, en conserve, à teneur réduite en sodium, avec acide ascorbique ajouté, inclut SPAM, 25% de sodium en moins",
+"es": "Luncheon meat, cerdo, jamón y pollo, picado, en conserva, reducido en sodio, con ácido ascórbico añadido, incluye SPAM, 25% menos de sodio",
+"de": "Frühstücksfleisch, Schwein, Schinken und Huhn, gehackt, aus der Dose, natriumreduziert, mit Zusatz von Ascorbinsäure, einschließlich SPAM, 25% weniger Natrium",
+"pt": "Luncheon meat, carne suína, presunto e frango, moído, enlatado, com sódio reduzido, com ácido ascórbico adicionado, inclui SPAM, 25% menos sódio"
+},
+"7761": {
+"it": "Salsiccia da affettare (luncheon sausage), maiale e manzo",
+"fr": "Saucisson de type luncheon, porc et bœuf",
+"es": "Embutido de tipo luncheon, cerdo y vacuno",
+"de": "Aufschnittwurst, Schwein und Rind",
+"pt": "Frios tipo luncheon, carne suína e carne bovina"
+},
+"7762": {
+"it": "Fetta tipo luncheon, vegetale, sapore manzo, pollo, salame o tacchino",
+"fr": "Tranche type luncheon, sans viande, saveur bœuf, poulet, salami ou dinde",
+"es": "Loncha tipo luncheon, sin carne, sabor vacuno, pollo, salami o pavo",
+"de": "Aufschnittscheibe, fleischlos, mit Rind-, Hähnchen-, Salami- oder Putengeschmack",
+"pt": "Fatia tipo luncheon, sem carne, sabor carne bovina, frango, salame ou peru"
+},
+"7763": {
+"it": "Fette tipo luncheon, vegetali",
+"fr": "Tranches type luncheon, sans viande",
+"es": "Lonchas tipo luncheon, sin carne",
+"de": "Aufschnittscheiben, fleischlos",
+"pt": "Fatias tipo luncheon, sem carne"
+},
+"7764": {
+"it": "Affettato, petto di pollo, a fette",
+"fr": "Charcuterie, blanc de poulet, tranché",
+"es": "Fiambre, pechuga de pollo, en lonchas",
+"de": "Aufschnitt, Hähnchenbrust, in Scheiben",
+"pt": "Frios, peito de frango, fatiado"
+},
+"7765": {
+"it": "Affettato, prosciutto, Foresta Nera, a fette",
+"fr": "Charcuterie, jambon, Forêt-Noire, tranché",
+"es": "Fiambre, jamón, Selva Negra, en lonchas",
+"de": "Aufschnitt, Schinken, Schwarzwälder, in Scheiben",
+"pt": "Frios, presunto, Floresta Negra, fatiado"
+},
+"7766": {
+"it": "Affettato, roast beef, a fette, preconfezionato",
+"fr": "Charcuterie, rosbif, tranché, préemballé",
+"es": "Fiambre, rosbif, en lonchas, preenvasado",
+"de": "Aufschnitt, Roastbeef, in Scheiben, vorverpackt",
+"pt": "Frios, rosbife, fatiado, pré-embalado"
+},
+"7767": {
+"it": "Affettato, tacchino, arrosto al forno, a fette",
+"fr": "Charcuterie, dinde, rôtie au four, tranchée",
+"es": "Fiambre, pavo, asado al horno, en lonchas",
+"de": "Aufschnitt, Pute, im Ofen gebraten, in Scheiben",
+"pt": "Frios, peru, assado no forno, fatiado"
+},
+"7768": {
+"it": "Lupini, semi maturi, cotti, bolliti, con sale",
+"fr": "Lupins, graines mûres, cuites, bouillies, avec sel",
+"es": "Altramuces, semillas maduras, cocidas, hervidas, con sal",
+"de": "Lupinen, reife Samen, gekocht, mit Salz",
+"pt": "Tremoços, sementes maduras, cozidas, cozidas em água, com sal"
+},
+"7769": {
+"it": "Lupini, semi maturi, cotti, bolliti, senza sale",
+"fr": "Lupins, graines mûres, cuites, bouillies, sans sel",
+"es": "Altramuces, semillas maduras, cocidas, hervidas, sin sal",
+"de": "Lupinen, reife Samen, gekocht, ohne Salz",
+"pt": "Tremoços, sementes maduras, cozidas, cozidas em água, sem sal"
+},
+"7770": {
+"it": "Lupini, semi maturi, crudi",
+"fr": "Lupins, graines mûres, crues",
+"es": "Altramuces, semillas maduras, crudas",
+"de": "Lupinen, reife Samen, roh",
+"pt": "Tremoços, sementes maduras, cruas"
+},
+"7771": {
+"it": "Luxury loaf, maiale",
+"fr": "Luxury loaf (pain de viande de luxe), porc",
+"es": "Luxury loaf (fiambre de lujo), cerdo",
+"de": "Luxury Loaf (Fleischkäse de Luxe), Schwein",
+"pt": "Luxury loaf (frios de luxo), carne suína"
+},
+"7772": {
+"it": "Litchi",
+"fr": "Litchi",
+"es": "Lichi",
+"de": "Litschi",
+"pt": "Lichia"
+},
+"7773": {
+"it": "Noci di macadamia",
+"fr": "Noix de macadamia",
+"es": "Nueces de macadamia",
+"de": "Macadamianüsse",
+"pt": "Nozes de macadâmia"
+},
+"7774": {
+"it": "Maccheroni al formaggio, confezione con salsa in polvere, in scatola, non cotti",
+"fr": "Macaroni au fromage, préparation avec sauce en poudre, en boîte, non cuits",
+"es": "Macarrones con queso, preparado con salsa en polvo, en caja, sin cocer",
+"de": "Makkaroni mit Käse, Fertiggericht mit Saucenpulver, in der Packung, ungekocht",
+"pt": "Macarrão com queijo, kit com molho em pó, em caixa, não cozido"
+},
+"7775": {
+"it": "Sformato di maccheroni al formaggio, pollo, maiale e manzo",
+"fr": "Pain de macaroni au fromage, poulet, porc et bœuf",
+"es": "Pastel de macarrones con queso, pollo, cerdo y vacuno",
+"de": "Makkaroni-Käse-Auflauf, Huhn, Schwein und Rind",
+"pt": "Bolo de macarrão com queijo, frango, carne suína e carne bovina"
+},
+"7776": {
+"it": "Maccheroni al formaggio, preparato in scatola con salsa al formaggio, preparato",
+"fr": "Macaroni au fromage, préparation en boîte avec sauce au fromage, préparés",
+"es": "Macarrones con queso, preparado en caja con salsa de queso, preparados",
+"de": "Makkaroni mit Käse, Fertigmischung mit Käsesauce, zubereitet",
+"pt": "Macarrão com queijo, kit em caixa com molho de queijo, preparado"
+},
+"7777": {
+"it": "Maccheroni al formaggio, preparato in scatola con salsa al formaggio, non preparato",
+"fr": "Macaroni au fromage, préparation en boîte avec sauce au fromage, non préparés",
+"es": "Macarrones con queso, preparado en caja con salsa de queso, sin preparar",
+"de": "Makkaroni mit Käse, Fertigmischung mit Käsesauce, nicht zubereitet",
+"pt": "Macarrão com queijo, kit em caixa com molho de queijo, não preparado"
+},
+"7778": {
+"it": "Maccheroni al formaggio, piatto pronto in scatola",
+"fr": "Macaroni au fromage, plat préparé en conserve",
+"es": "Macarrones con queso, plato preparado en conserva",
+"de": "Makkaroni mit Käse, Fertiggericht aus der Dose",
+"pt": "Macarrão com queijo, prato pronto enlatado"
+},
+"7779": {
+"it": "Maccheroni al formaggio, in scatola, per microonde",
+"fr": "Macaroni au fromage, en conserve, pour micro-ondes",
+"es": "Macarrones con queso, en conserva, para microondas",
+"de": "Makkaroni mit Käse, aus der Dose, mikrowellengeeignet",
+"pt": "Macarrão com queijo, enlatado, para micro-ondas"
+},
+"7780": {
+"it": "Maccheroni al formaggio, miscela secca, preparati con latte al 2% e margarina in stecca all'80% dalla miscela secca",
+"fr": "Macaroni au fromage, mélange sec, préparés avec du lait à 2% et de la margarine en bâtonnet à 80% à partir du mélange sec",
+"es": "Macarrones con queso, mezcla seca, preparados con leche al 2% y margarina en barra al 80% a partir de la mezcla seca",
+"de": "Makkaroni mit Käse, Trockenmischung, zubereitet mit 2% Milch und 80% Stangenmargarine aus der Trockenmischung",
+"pt": "Macarrão com queijo, mistura seca, preparado com leite a 2% e margarina em tablete a 80% a partir da mistura seca"
+},
+"7781": {
+"it": "Maccheroni al formaggio, piatto pronto surgelato",
+"fr": "Macaroni au fromage, plat préparé surgelé",
+"es": "Macarrones con queso, plato preparado congelado",
+"de": "Makkaroni mit Käse, Fertiggericht, tiefgekühlt",
+"pt": "Macarrão com queijo, prato pronto congelado"
+},
+"7782": {
+"it": "Maccheroni o tagliatelle al formaggio",
+"fr": "Macaroni ou nouilles au fromage",
+"es": "Macarrones o fideos con queso",
+"de": "Makkaroni oder Nudeln mit Käse",
+"pt": "Macarrão ou massa com queijo"
+},
+"7783": {
+"it": "Maccheroni o tagliatelle al formaggio e pollo o tacchino",
+"fr": "Macaroni ou nouilles au fromage et poulet ou dinde",
+"es": "Macarrones o fideos con queso y pollo o pavo",
+"de": "Makkaroni oder Nudeln mit Käse und Huhn oder Pute",
+"pt": "Macarrão ou massa com queijo e frango ou peru"
+},
+"7784": {
+"it": "Maccheroni o tagliatelle al formaggio e uovo",
+"fr": "Macaroni ou nouilles au fromage et œuf",
+"es": "Macarrones o fideos con queso y huevo",
+"de": "Makkaroni oder Nudeln mit Käse und Ei",
+"pt": "Macarrão ou massa com queijo e ovo"
+},
+"7785": {
+"it": "Maccheroni o tagliatelle al formaggio e wurstel o hot dog",
+"fr": "Macaroni ou nouilles au fromage et saucisses de Francfort ou hot-dogs",
+"es": "Macarrones o fideos con queso y salchichas tipo Frankfurt o hot dogs",
+"de": "Makkaroni oder Nudeln mit Käse und Frankfurter Würstchen oder Hot Dogs",
+"pt": "Macarrão ou massa com queijo e salsichas ou cachorros-quentes"
+},
+"7786": {
+"it": "Maccheroni o tagliatelle al formaggio e carne",
+"fr": "Macaroni ou nouilles au fromage et viande",
+"es": "Macarrones o fideos con queso y carne",
+"de": "Makkaroni oder Nudeln mit Käse und Fleisch",
+"pt": "Macarrão ou massa com queijo e carne"
+},
+"7787": {
+"it": "Maccheroni o tagliatelle al formaggio e carne, preparati con miscela Hamburger Helper",
+"fr": "Macaroni ou nouilles au fromage et viande, préparés avec le mélange Hamburger Helper",
+"es": "Macarrones o fideos con queso y carne, preparados con mezcla Hamburger Helper",
+"de": "Makkaroni oder Nudeln mit Käse und Fleisch, zubereitet mit Hamburger-Helper-Mischung",
+"pt": "Macarrão ou massa com queijo e carne, preparado com mistura Hamburger Helper"
+},
+"7788": {
+"it": "Maccheroni o tagliatelle al formaggio e pomodoro",
+"fr": "Macaroni ou nouilles au fromage et tomate",
+"es": "Macarrones o fideos con queso y tomate",
+"de": "Makkaroni oder Nudeln mit Käse und Tomate",
+"pt": "Macarrão ou massa com queijo e tomate"
+},
+"7789": {
+"it": "Maccheroni o tagliatelle al formaggio e tonno",
+"fr": "Macaroni ou nouilles au fromage et thon",
+"es": "Macarrones o fideos con queso y atún",
+"de": "Makkaroni oder Nudeln mit Käse und Thunfisch",
+"pt": "Macarrão ou massa com queijo e atum"
+},
+"7790": {
+"it": "Maccheroni o tagliatelle al formaggio, in scatola",
+"fr": "Macaroni ou nouilles au fromage, en conserve",
+"es": "Macarrones o fideos con queso, en conserva",
+"de": "Makkaroni oder Nudeln mit Käse, aus der Dose",
+"pt": "Macarrão ou massa com queijo, enlatado"
+},
+"7791": {
+"it": "Maccheroni o tagliatelle al formaggio, tipo Easy Mac",
+"fr": "Macaroni ou nouilles au fromage, type Easy Mac",
+"es": "Macarrones o fideos con queso, tipo Easy Mac",
+"de": "Makkaroni oder Nudeln mit Käse, Typ Easy Mac",
+"pt": "Macarrão ou massa com queijo, tipo Easy Mac"
+},
+"7792": {
+"it": "Maccheroni o tagliatelle al formaggio, da ristorante",
+"fr": "Macaroni ou nouilles au fromage, de restaurant",
+"es": "Macarrones o fideos con queso, de restaurante",
+"de": "Makkaroni oder Nudeln mit Käse, aus dem Restaurant",
+"pt": "Macarrão ou massa com queijo, de restaurante"
+},
+"7793": {
+"it": "Maccheroni o tagliatelle al formaggio, preparati da miscela confezionata",
+"fr": "Macaroni ou nouilles au fromage, préparés à partir d'un mélange emballé",
+"es": "Macarrones o fideos con queso, preparados a partir de mezcla envasada",
+"de": "Makkaroni oder Nudeln mit Käse, aus Fertigmischung zubereitet",
+"pt": "Macarrão ou massa com queijo, preparado a partir de mistura embalada"
+},
+"7794": {
+"it": "Maccheroni o tagliatelle al formaggio, preparati da miscela confezionata a ridotto contenuto di grassi",
+"fr": "Macaroni ou nouilles au fromage, préparés à partir d'un mélange emballé allégé en matières grasses",
+"es": "Macarrones o fideos con queso, preparados a partir de mezcla envasada reducida en grasa",
+"de": "Makkaroni oder Nudeln mit Käse, aus fettreduzierter Fertigmischung zubereitet",
+"pt": "Macarrão ou massa com queijo, preparado a partir de mistura embalada com teor reduzido de gordura"
+},
+"7795": {
+"it": "Maccheroni o tagliatelle al formaggio, preparati da miscela confezionata a ridotto contenuto di grassi, non preparati",
+"fr": "Macaroni ou nouilles au fromage, préparés à partir d'un mélange emballé allégé en matières grasses, non préparés",
+"es": "Macarrones o fideos con queso, preparados a partir de mezcla envasada reducida en grasa, sin preparar",
+"de": "Makkaroni oder Nudeln mit Käse, aus fettreduzierter Fertigmischung zubereitet, nicht zubereitet",
+"pt": "Macarrão ou massa com queijo, preparado a partir de mistura embalada com teor reduzido de gordura, não preparado"
+},
+"7796": {
+"it": "Maccheroni o tagliatelle al formaggio, per microonde, non preparati",
+"fr": "Macaroni ou nouilles au fromage, pour micro-ondes, non préparés",
+"es": "Macarrones o fideos con queso, para microondas, sin preparar",
+"de": "Makkaroni oder Nudeln mit Käse, mikrowellengeeignet, nicht zubereitet",
+"pt": "Macarrão ou massa com queijo, para micro-ondas, não preparado"
+},
+"7797": {
+"it": "Maccheroni o tagliatelle al formaggio, integrali",
+"fr": "Macaroni ou nouilles au fromage, complets",
+"es": "Macarrones o fideos con queso, integrales",
+"de": "Makkaroni oder Nudeln mit Käse, Vollkorn-",
+"pt": "Macarrão ou massa com queijo, integral"
+},
+"7798": {
+"it": "Maccheroni o tagliatelle, alla panna, con formaggio",
+"fr": "Macaroni ou nouilles, à la crème, avec fromage",
+"es": "Macarrones o fideos, a la crema, con queso",
+"de": "Makkaroni oder Nudeln, mit Sahne, mit Käse",
+"pt": "Macarrão ou massa, cremoso, com queijo"
+},
+"7799": {
+"it": "Maccheroni o tagliatelle, alla panna, con formaggio e tonno",
+"fr": "Macaroni ou nouilles, à la crème, avec fromage et thon",
+"es": "Macarrones o fideos, a la crema, con queso y atún",
+"de": "Makkaroni oder Nudeln, mit Sahne, mit Käse und Thunfisch",
+"pt": "Macarrão ou massa, cremoso, com queijo e atum"
+},
+"7800": {
+"it": "Insalata di maccheroni o pasta con formaggio",
+"fr": "Salade de macaroni ou de pâtes avec fromage",
+"es": "Ensalada de macarrones o pasta con queso",
+"de": "Makkaroni- oder Nudelsalat mit Käse",
+"pt": "Salada de macarrão ou massa com queijo"
+},
+"7801": {
+"it": "Insalata di maccheroni o pasta con pollo",
+"fr": "Salade de macaroni ou de pâtes avec poulet",
+"es": "Ensalada de macarrones o pasta con pollo",
+"de": "Makkaroni- oder Nudelsalat mit Huhn",
+"pt": "Salada de macarrão ou massa com frango"
+},
+"7802": {
+"it": "Insalata di maccheroni o pasta con polpa di granchio",
+"fr": "Salade de macaroni ou de pâtes avec chair de crabe",
+"es": "Ensalada de macarrones o pasta con carne de cangrejo",
+"de": "Makkaroni- oder Nudelsalat mit Krabbenfleisch",
+"pt": "Salada de macarrão ou massa com carne de caranguejo"
+},
+"7803": {
+"it": "Insalata di maccheroni o pasta con uovo",
+"fr": "Salade de macaroni ou de pâtes avec œuf",
+"es": "Ensalada de macarrones o pasta con huevo",
+"de": "Makkaroni- oder Nudelsalat mit Ei",
+"pt": "Salada de macarrão ou massa com ovo"
+},
+"7804": {
+"it": "Insalata di maccheroni o pasta con carne",
+"fr": "Salade de macaroni ou de pâtes avec viande",
+"es": "Ensalada de macarrones o pasta con carne",
+"de": "Makkaroni- oder Nudelsalat mit Fleisch",
+"pt": "Salada de macarrão ou massa com carne"
+},
+"7805": {
+"it": "Insalata di maccheroni o pasta con gamberi",
+"fr": "Salade de macaroni ou de pâtes avec crevettes",
+"es": "Ensalada de macarrones o pasta con gambas",
+"de": "Makkaroni- oder Nudelsalat mit Garnelen",
+"pt": "Salada de macarrão ou massa com camarão"
+},
+"7806": {
+"it": "Insalata di maccheroni o pasta con tonno",
+"fr": "Salade de macaroni ou de pâtes avec thon",
+"es": "Ensalada de macarrones o pasta con atún",
+"de": "Makkaroni- oder Nudelsalat mit Thunfisch",
+"pt": "Salada de macarrão ou massa com atum"
+},
+"7807": {
+"it": "Insalata di maccheroni o pasta con tonno e uovo",
+"fr": "Salade de macaroni ou de pâtes avec thon et œuf",
+"es": "Ensalada de macarrones o pasta con atún y huevo",
+"de": "Makkaroni- oder Nudelsalat mit Thunfisch und Ei",
+"pt": "Salada de macarrão ou massa com atum e ovo"
+},
+"7808": {
+"it": "Insalata di maccheroni o pasta, condita con qualsiasi tipo di salsa senza grassi",
+"fr": "Salade de macaroni ou de pâtes, préparée avec tout type de sauce sans matières grasses",
+"es": "Ensalada de macarrones o pasta, aderezada con cualquier tipo de aliño sin grasa",
+"de": "Makkaroni- oder Nudelsalat, mit beliebiger fettfreier Salatsauce zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com qualquer tipo de molho sem gordura"
+},
+"7809": {
+"it": "Insalata di maccheroni o pasta, condita con salsa cremosa",
+"fr": "Salade de macaroni ou de pâtes, préparée avec une sauce crémeuse",
+"es": "Ensalada de macarrones o pasta, aderezada con salsa cremosa",
+"de": "Makkaroni- oder Nudelsalat, mit cremiger Salatsauce zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com molho cremoso"
+},
+"7810": {
+"it": "Insalata di maccheroni o pasta, condita con salsa italiana",
+"fr": "Salade de macaroni ou de pâtes, préparée avec une sauce italienne",
+"es": "Ensalada de macarrones o pasta, aderezada con salsa italiana",
+"de": "Makkaroni- oder Nudelsalat, mit italienischer Salatsauce zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com molho italiano"
+},
+"7811": {
+"it": "Insalata di maccheroni o pasta, condita con salsa cremosa light",
+"fr": "Salade de macaroni ou de pâtes, préparée avec une sauce crémeuse allégée",
+"es": "Ensalada de macarrones o pasta, aderezada con salsa cremosa ligera",
+"de": "Makkaroni- oder Nudelsalat, mit leichter cremiger Salatsauce zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com molho cremoso light"
+},
+"7812": {
+"it": "Insalata di maccheroni o pasta, condita con salsa italiana light",
+"fr": "Salade de macaroni ou de pâtes, préparée avec une sauce italienne allégée",
+"es": "Ensalada de macarrones o pasta, aderezada con salsa italiana ligera",
+"de": "Makkaroni- oder Nudelsalat, mit leichter italienischer Salatsauce zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com molho italiano light"
+},
+"7813": {
+"it": "Insalata di maccheroni o pasta, condita con maionese light",
+"fr": "Salade de macaroni ou de pâtes, préparée avec de la mayonnaise allégée",
+"es": "Ensalada de macarrones o pasta, aderezada con mayonesa ligera",
+"de": "Makkaroni- oder Nudelsalat, mit leichter Mayonnaise zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com maionese light"
+},
+"7814": {
+"it": "Insalata di maccheroni o pasta, condita con salsa tipo maionese light",
+"fr": "Salade de macaroni ou de pâtes, préparée avec une sauce de type mayonnaise allégée",
+"es": "Ensalada de macarrones o pasta, aderezada con salsa tipo mayonesa ligera",
+"de": "Makkaroni- oder Nudelsalat, mit leichter Salatsauce nach Mayonnaise-Art zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com molho tipo maionese light"
+},
+"7815": {
+"it": "Insalata di maccheroni o pasta, condita con maionese",
+"fr": "Salade de macaroni ou de pâtes, préparée avec de la mayonnaise",
+"es": "Ensalada de macarrones o pasta, aderezada con mayonesa",
+"de": "Makkaroni- oder Nudelsalat, mit Mayonnaise zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com maionese"
+},
+"7816": {
+"it": "Insalata di maccheroni o pasta, condita con salsa tipo maionese",
+"fr": "Salade de macaroni ou de pâtes, préparée avec une sauce de type mayonnaise",
+"es": "Ensalada de macarrones o pasta, aderezada con salsa tipo mayonesa",
+"de": "Makkaroni- oder Nudelsalat, mit Salatsauce nach Mayonnaise-Art zubereitet",
+"pt": "Salada de macarrão ou massa, preparada com molho tipo maionese"
+},
+"7817": {
+"it": "Maccheroni con tonno, stile portoricano",
+"fr": "Macaroni au thon, style portoricain",
+"es": "Macarrones con atún, estilo puertorriqueño",
+"de": "Makkaroni mit Thunfisch, puerto-ricanische Art",
+"pt": "Macarrão com atum, estilo porto-riquenho"
+},
+"7818": {
+"it": "Maccheroni, di verdure, arricchiti, cotti",
+"fr": "Macaroni, aux légumes, enrichis, cuits",
+"es": "Macarrones, de verduras, enriquecidos, cocidos",
+"de": "Makkaroni, Gemüse-, angereichert, gekocht",
+"pt": "Macarrão, de vegetais, enriquecido, cozido"
+},
+"7819": {
+"it": "Maccheroni, di verdure, arricchiti, secchi",
+"fr": "Macaroni, aux légumes, enrichis, secs",
+"es": "Macarrones, de verduras, enriquecidos, secos",
+"de": "Makkaroni, Gemüse-, angereichert, getrocknet",
+"pt": "Macarrão, de vegetais, enriquecido, seco"
+},
+"7820": {
+"it": "Lampuga (mahi mahi), surgelata, pescata in natura",
+"fr": "Mahi-mahi, surgelé, pêché à l'état sauvage",
+"es": "Mahi mahi (dorado), congelado, de captura salvaje",
+"de": "Mahi-Mahi, tiefgekühlt, Wildfang",
+"pt": "Mahi-mahi, congelado, de captura selvagem"
+},
+"7821": {
+"it": "Mai Tai",
+"fr": "Mai Tai",
+"es": "Mai Tai",
+"de": "Mai Tai",
+"pt": "Mai Tai"
+},
+"7822": {
+"it": "Spinaci di Malabar, cotti",
+"fr": "Épinards de Malabar, cuits",
+"es": "Espinaca de Malabar, cocida",
+"de": "Malabarspinat, gekocht",
+"pt": "Espinafre-de-malabar, cozido"
+},
+"7823": {
+"it": "Bevanda al malto, include birra analcolica",
+"fr": "Boisson au malt, inclut la bière sans alcool",
+"es": "Bebida de malta, incluye cerveza sin alcohol",
+"de": "Malzgetränk, einschließlich alkoholfreiem Bier",
+"pt": "Bebida de malte, inclui cerveja sem álcool"
+},
+"7824": {
+"it": "Mamey (mammea), crudo",
+"fr": "Mamey (abricot d'Amérique), cru",
+"es": "Mamey, crudo",
+"de": "Mamey (Mammeiapfel), roh",
+"pt": "Mamey (abricó-de-são-domingos), cru"
+},
+"7825": {
+"it": "Mandarino, senza semi, sbucciato, crudo",
+"fr": "Mandarine, sans pépins, pelée, crue",
+"es": "Mandarina, sin semillas, pelada, cruda",
+"de": "Mandarine, kernlos, geschält, roh",
+"pt": "Tangerina, sem sementes, descascada, crua"
+},
+"7826": {
+"it": "Nettare di mango",
+"fr": "Nectar de mangue",
+"es": "Néctar de mango",
+"de": "Mangonektar",
+"pt": "Néctar de manga"
+},
+"7827": {
+"it": "Nettare di mango, in scatola",
+"fr": "Nectar de mangue, en conserve",
+"es": "Néctar de mango, en conserva",
+"de": "Mangonektar, aus der Dose",
+"pt": "Néctar de manga, enlatado"
+},
+"7828": {
+"it": "Mango, Ataulfo, sbucciato, crudo",
+"fr": "Mangue, Ataulfo, pelée, crue",
+"es": "Mango, Ataulfo, pelado, crudo",
+"de": "Mango, Ataulfo, geschält, roh",
+"pt": "Manga, Ataulfo, descascada, crua"
+},
+"7829": {
+"it": "Mango, in scatola",
+"fr": "Mangue, en conserve",
+"es": "Mango, en conserva",
+"de": "Mango, aus der Dose",
+"pt": "Manga, enlatada"
+},
+"7830": {
+"it": "Mango, secco",
+"fr": "Mangue, séchée",
+"es": "Mango, seco",
+"de": "Mango, getrocknet",
+"pt": "Manga, seca"
+},
+"7831": {
+"it": "Mango, secco, zuccherato",
+"fr": "Mangue, séchée, sucrée",
+"es": "Mango, seco, azucarado",
+"de": "Mango, getrocknet, gezuckert",
+"pt": "Manga, seca, adoçada"
+},
+"7832": {
+"it": "Mango, surgelato",
+"fr": "Mangue, surgelée",
+"es": "Mango, congelado",
+"de": "Mango, tiefgekühlt",
+"pt": "Manga, congelada"
+},
+"7833": {
+"it": "Mango, crudo",
+"fr": "Mangue, crue",
+"es": "Mango, crudo",
+"de": "Mango, roh",
+"pt": "Manga, crua"
+},
+"7834": {
+"it": "Mango, Tommy Atkins, sbucciato, crudo",
+"fr": "Mangue, Tommy Atkins, pelée, crue",
+"es": "Mango, Tommy Atkins, pelado, crudo",
+"de": "Mango, Tommy Atkins, geschält, roh",
+"pt": "Manga, Tommy Atkins, descascada, crua"
+},
+"7835": {
+"it": "Manghi, crudi",
+"fr": "Mangues, crues",
+"es": "Mangos, crudos",
+"de": "Mangos, roh",
+"pt": "Mangas, cruas"
+},
+"7836": {
+"it": "Mangostano, in scatola, in sciroppo",
+"fr": "Mangoustan, en conserve, au sirop",
+"es": "Mangostán, en conserva, en almíbar",
+"de": "Mangostan, aus der Dose, in Sirup",
+"pt": "Mangostão, enlatado, em calda"
+},
+"7837": {
+"it": "Manhattan",
+"fr": "Manhattan",
+"es": "Manhattan",
+"de": "Manhattan",
+"pt": "Manhattan"
+},
+"7838": {
+"it": "Manicotti, ripieni di formaggio, senza sugo",
+"fr": "Manicotti, farcis au fromage, sans sauce",
+"es": "Manicotti, rellenos de queso, sin salsa",
+"de": "Manicotti, mit Käse gefüllt, ohne Sauce",
+"pt": "Manicotti, recheados com queijo, sem molho"
+},
+"7839": {
+"it": "Manicotti, ripieni di formaggio, con ragù di carne",
+"fr": "Manicotti, farcis au fromage, avec sauce à la viande",
+"es": "Manicotti, rellenos de queso, con salsa de carne",
+"de": "Manicotti, mit Käse gefüllt, mit Fleischsauce",
+"pt": "Manicotti, recheados com queijo, com molho de carne"
+},
+"7840": {
+"it": "Manicotti, ripieni di formaggio, con salsa di pomodoro, senza carne",
+"fr": "Manicotti, farcis au fromage, avec sauce tomate, sans viande",
+"es": "Manicotti, rellenos de queso, con salsa de tomate, sin carne",
+"de": "Manicotti, mit Käse gefüllt, mit Tomatensauce, fleischlos",
+"pt": "Manicotti, recheados com queijo, com molho de tomate, sem carne"
+},
+"7841": {
+"it": "Manicotti, ripieni di verdure e formaggio, con salsa di pomodoro, senza carne",
+"fr": "Manicotti, farcis aux légumes et au fromage, avec sauce tomate, sans viande",
+"es": "Manicotti, rellenos de verduras y queso, con salsa de tomate, sin carne",
+"de": "Manicotti, mit Gemüse und Käse gefüllt, mit Tomatensauce, fleischlos",
+"pt": "Manicotti, recheados com vegetais e queijo, com molho de tomate, sem carne"
+},
+"7842": {
+"it": "Ciliegie maraschino, in scatola, sgocciolate",
+"fr": "Cerises au marasquin, en conserve, égouttées",
+"es": "Cerezas al marrasquino, en conserva, escurridas",
+"de": "Maraschino-Kirschen, aus der Dose, abgetropft",
+"pt": "Cerejas ao marasquino, enlatadas, escorridas"
+},
+"7843": {
+"it": "Margarina da spalmare, 40-49% di grassi, in vaschetta",
+"fr": "Margarine à tartiner, 40-49% de matières grasses, en pot",
+"es": "Margarina untable, 40-49% de grasa, en tarrina",
+"de": "Streichmargarine, 40-49% Fett, im Becher",
+"pt": "Margarina cremosa, 40-49% de gordura, em pote"
+},
+"7844": {
+"it": "Margarina, 80% di grassi, in stecca, include oli di mais e di soia, normali e idrogenati",
+"fr": "Margarine, 80% de matières grasses, en bâtonnet, inclut huiles de maïs et de soja, normales et hydrogénées",
+"es": "Margarina, 80% de grasa, en barra, incluye aceites de maíz y de soja, normales e hidrogenados",
+"de": "Margarine, 80% Fett, in Stangenform, einschließlich normaler und gehärteter Mais- und Sojaöle",
+"pt": "Margarina, 80% de gordura, em tablete, inclui óleos de milho e de soja, normais e hidrogenados"
+},
+"7845": {
+"it": "Margarina, 80% di grassi, in vaschetta, CANOLA HARVEST Soft Spread (oli di canola, di palma e di palmisti)",
+"fr": "Margarine, 80% de matières grasses, en pot, CANOLA HARVEST Soft Spread (huiles de colza, de palme et de palmiste)",
+"es": "Margarina, 80% de grasa, en tarrina, CANOLA HARVEST Soft Spread (aceites de canola, de palma y de palmiste)",
+"de": "Margarine, 80% Fett, im Becher, CANOLA HARVEST Soft Spread (Raps-, Palm- und Palmkernöl)",
+"pt": "Margarina, 80% de gordura, em pote, CANOLA HARVEST Soft Spread (óleos de canola, de palma e de palmiste)"
+},
+"7846": {
+"it": "Margarina, industriale, non lattiera, olio di semi di cotone e di soia (parzialmente idrogenato), per pasta sfoglia",
+"fr": "Margarine, industrielle, non laitière, huile de coton et de soja (partiellement hydrogénée), pour pâtes feuilletées",
+"es": "Margarina, industrial, no láctea, aceite de algodón y de soja (parcialmente hidrogenado), para hojaldres",
+"de": "Margarine, industriell, milchfrei, Baumwollsaat- und Sojaöl (teilweise gehärtet), für Blätterteig",
+"pt": "Margarina, industrial, sem leite, óleo de algodão e de soja (parcialmente hidrogenado), para massas folhadas"
+},
+"7847": {
+"it": "Margarina, industriale, olio di soia e olio di soia parzialmente idrogenato, per prodotti da forno, salse e dolci",
+"fr": "Margarine, industrielle, huile de soja et huile de soja partiellement hydrogénée, pour la pâtisserie, les sauces et les confiseries",
+"es": "Margarina, industrial, aceite de soja y aceite de soja parcialmente hidrogenado, para hornear, salsas y dulces",
+"de": "Margarine, industriell, Sojaöl und teilweise gehärtetes Sojaöl, zum Backen, für Saucen und Süßwaren",
+"pt": "Margarina, industrial, óleo de soja e óleo de soja parcialmente hidrogenado, para assar, molhos e doces"
+},
+"7848": {
+"it": "Margarina, light",
+"fr": "Margarine, allégée",
+"es": "Margarina, ligera",
+"de": "Margarine, leicht",
+"pt": "Margarina, light"
+},
+"7849": {
+"it": "Margarina, crema vegetale simile alla margarina, 67-70% di grassi, in vaschetta",
+"fr": "Margarine, préparation végétale de type margarine, 67-70% de matières grasses, en pot",
+"es": "Margarina, untable vegetal tipo margarina, 67-70% de grasa, en tarrina",
+"de": "Margarine, margarineähnlicher Pflanzenölaufstrich, 67-70% Fett, im Becher",
+"pt": "Margarina, creme vegetal tipo margarina, 67-70% de gordura, em pote"
+},
+"7850": {
+"it": "Margarina, crema vegetale tipo margarina, 70% di grassi, soia e soia parzialmente idrogenata, in stecca",
+"fr": "Margarine, préparation végétale de type margarine, 70% de matières grasses, soja et soja partiellement hydrogéné, en bâtonnet",
+"es": "Margarina, untable vegetal tipo margarina, 70% de grasa, soja y soja parcialmente hidrogenada, en barra",
+"de": "Margarine, Pflanzenölaufstrich nach Margarineart, 70% Fett, Soja und teilweise gehärtetes Soja, in Stangenform",
+"pt": "Margarina, creme vegetal tipo margarina, 70% de gordura, soja e soja parcialmente hidrogenada, em tablete"
+},
+"7851": {
+"it": "Margarina, non specificata",
+"fr": "Margarine, non spécifiée",
+"es": "Margarina, no especificada",
+"de": "Margarine, nicht näher bezeichnet",
+"pt": "Margarina, não especificada"
+},
+"7852": {
+"it": "Margarina, normale, 80% di grassi, mista, in stecca, con sale",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en bâtonnet, avec sel",
+"es": "Margarina, normal, 80% de grasa, mixta, en barra, con sal",
+"de": "Margarine, normal, 80% Fett, Mischung, in Stangenform, mit Salz",
+"pt": "Margarina, comum, 80% de gordura, composta, em tablete, com sal"
+},
+"7853": {
+"it": "Margarina, normale, 80% di grassi, mista, in stecca, con sale, con vitamina D aggiunta",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en bâtonnet, avec sel, avec vitamine D ajoutée",
+"es": "Margarina, normal, 80% de grasa, mixta, en barra, con sal, con vitamina D añadida",
+"de": "Margarine, normal, 80% Fett, Mischung, in Stangenform, mit Salz, mit Zusatz von Vitamin D",
+"pt": "Margarina, comum, 80% de gordura, composta, em tablete, com sal, com vitamina D adicionada"
+},
+"7854": {
+"it": "Margarina, normale, 80% di grassi, mista, in stecca, senza sale",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en bâtonnet, sans sel",
+"es": "Margarina, normal, 80% de grasa, mixta, en barra, sin sal",
+"de": "Margarine, normal, 80% Fett, Mischung, in Stangenform, ohne Salz",
+"pt": "Margarina, comum, 80% de gordura, composta, em tablete, sem sal"
+},
+"7855": {
+"it": "Margarina, normale, 80% di grassi, mista, in stecca, senza sale, con vitamina D aggiunta",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en bâtonnet, sans sel, avec vitamine D ajoutée",
+"es": "Margarina, normal, 80% de grasa, mixta, en barra, sin sal, con vitamina D añadida",
+"de": "Margarine, normal, 80% Fett, Mischung, in Stangenform, ohne Salz, mit Zusatz von Vitamin D",
+"pt": "Margarina, comum, 80% de gordura, composta, em tablete, sem sal, com vitamina D adicionada"
+},
+"7856": {
+"it": "Margarina, normale, 80% di grassi, mista, in vaschetta, con sale",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en pot, avec sel",
+"es": "Margarina, normal, 80% de grasa, mixta, en tarrina, con sal",
+"de": "Margarine, normal, 80% Fett, Mischung, im Becher, mit Salz",
+"pt": "Margarina, comum, 80% de gordura, composta, em pote, com sal"
+},
+"7857": {
+"it": "Margarina, normale, 80% di grassi, mista, in vaschetta, con sale, con vitamina D aggiunta",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en pot, avec sel, avec vitamine D ajoutée",
+"es": "Margarina, normal, 80% de grasa, mixta, en tarrina, con sal, con vitamina D añadida",
+"de": "Margarine, normal, 80% Fett, Mischung, im Becher, mit Salz, mit Zusatz von Vitamin D",
+"pt": "Margarina, comum, 80% de gordura, composta, em pote, com sal, com vitamina D adicionada"
+},
+"7858": {
+"it": "Margarina, normale, 80% di grassi, mista, in vaschetta, senza sale",
+"fr": "Margarine, ordinaire, 80% de matières grasses, composite, en pot, sans sel",
+"es": "Margarina, normal, 80% de grasa, mixta, en tarrina, sin sal",
+"de": "Margarine, normal, 80% Fett, Mischung, im Becher, ohne Salz",
+"pt": "Margarina, comum, 80% de gordura, composta, em pote, sem sal"
+},
+"7859": {
+"it": "Margarina, normale, dura, soia (idrogenata)",
+"fr": "Margarine, ordinaire, dure, soja (hydrogéné)",
+"es": "Margarina, normal, dura, soja (hidrogenada)",
+"de": "Margarine, normal, hart, Soja (gehärtet)",
+"pt": "Margarina, comum, dura, soja (hidrogenada)"
+},
+"7860": {
+"it": "Margarina, in stecca",
+"fr": "Margarine, en bâtonnet",
+"es": "Margarina, en barra",
+"de": "Margarine, in Stangenform",
+"pt": "Margarina, em tablete"
+},
+"7861": {
+"it": "Margarina, in vaschetta",
+"fr": "Margarine, en pot",
+"es": "Margarina, en tarrina",
+"de": "Margarine, im Becher",
+"pt": "Margarina, em pote"
+},
+"7862": {
+"it": "Margarina da spalmare, 35-39% di grassi, in vaschetta",
+"fr": "Margarine à tartiner, 35-39% de matières grasses, en pot",
+"es": "Margarina untable, 35-39% de grasa, en tarrina",
+"de": "Streichmargarine, 35-39% Fett, im Becher",
+"pt": "Margarina cremosa, 35-39% de gordura, em pote"
+},
+"7863": {
+"it": "Grasso vegetale simile alla margarina, industriale, soia (parzialmente idrogenata), semi di cotone e soia, uso principale pasta sfoglia",
+"fr": "Graisse végétale de type margarine, industrielle, soja (partiellement hydrogéné), coton et soja, principal usage pâtes feuilletées",
+"es": "Grasa vegetal tipo margarina, industrial, soja (parcialmente hidrogenada), algodón y soja, uso principal hojaldres",
+"de": "Margarineähnliches Backfett, industriell, Soja (teilweise gehärtet), Baumwollsaat und Soja, Hauptverwendung Blätterteig",
+"pt": "Gordura vegetal tipo margarina, industrial, soja (parcialmente hidrogenada), algodão e soja, uso principal massas folhadas"
+},
+"7864": {
+"it": "Crema tipo margarina con yogurt, 70% di grassi, in stecca, con sale",
+"fr": "Préparation de type margarine au yaourt, 70% de matières grasses, en bâtonnet, avec sel",
+"es": "Untable tipo margarina con yogur, 70% de grasa, en barra, con sal",
+"de": "Margarineähnlicher Aufstrich mit Joghurt, 70% Fett, in Stangenform, mit Salz",
+"pt": "Creme tipo margarina com iogurte, 70% de gordura, em tablete, com sal"
+},
+"7865": {
+"it": "Crema tipo margarina con yogurt, circa 40% di grassi, in vaschetta, con sale",
+"fr": "Préparation de type margarine au yaourt, environ 40% de matières grasses, en pot, avec sel",
+"es": "Untable tipo margarina con yogur, aproximadamente 40% de grasa, en tarrina, con sal",
+"de": "Margarineähnlicher Aufstrich mit Joghurt, etwa 40% Fett, im Becher, mit Salz",
+"pt": "Creme tipo margarina com iogurte, aproximadamente 40% de gordura, em pote, com sal"
+},
+"7866": {
+"it": "Crema tipo margarina, BENECOL Light Spread",
+"fr": "Préparation de type margarine, BENECOL Light Spread",
+"es": "Untable tipo margarina, BENECOL Light Spread",
+"de": "Margarineähnlicher Aufstrich, BENECOL Light Spread",
+"pt": "Creme tipo margarina, BENECOL Light Spread"
+},
+"7867": {
+"it": "Crema tipo margarina, SMART BALANCE Light Buttery Spread",
+"fr": "Préparation de type margarine, SMART BALANCE Light Buttery Spread",
+"es": "Untable tipo margarina, SMART BALANCE Light Buttery Spread",
+"de": "Margarineähnlicher Aufstrich, SMART BALANCE Light Buttery Spread",
+"pt": "Creme tipo margarina, SMART BALANCE Light Buttery Spread"
+},
+"7868": {
+"it": "Crema tipo margarina, SMART BALANCE Omega Plus Spread (con steroli vegetali e olio di pesce)",
+"fr": "Préparation de type margarine, SMART BALANCE Omega Plus Spread (avec stérols végétaux et huile de poisson)",
+"es": "Untable tipo margarina, SMART BALANCE Omega Plus Spread (con esteroles vegetales y aceite de pescado)",
+"de": "Margarineähnlicher Aufstrich, SMART BALANCE Omega Plus Spread (mit Pflanzensterinen und Fischöl)",
+"pt": "Creme tipo margarina, SMART BALANCE Omega Plus Spread (com esteróis vegetais e óleo de peixe)"
+},
+"7869": {
+"it": "Crema tipo margarina, SMART BALANCE Regular Buttery Spread con olio di lino",
+"fr": "Préparation de type margarine, SMART BALANCE Regular Buttery Spread avec huile de lin",
+"es": "Untable tipo margarina, SMART BALANCE Regular Buttery Spread con aceite de lino",
+"de": "Margarineähnlicher Aufstrich, SMART BALANCE Regular Buttery Spread mit Leinöl",
+"pt": "Creme tipo margarina, SMART BALANCE Regular Buttery Spread com óleo de linhaça"
+},
+"7870": {
+"it": "Crema tipo margarina, SMART BEAT Smart Squeeze",
+"fr": "Préparation de type margarine, SMART BEAT Smart Squeeze",
+"es": "Untable tipo margarina, SMART BEAT Smart Squeeze",
+"de": "Margarineähnlicher Aufstrich, SMART BEAT Smart Squeeze",
+"pt": "Creme tipo margarina, SMART BEAT Smart Squeeze"
+},
+"7871": {
+"it": "Crema tipo margarina, SMART BEAT Super Light senza grassi saturi",
+"fr": "Préparation de type margarine, SMART BEAT Super Light sans graisses saturées",
+"es": "Untable tipo margarina, SMART BEAT Super Light sin grasas saturadas",
+"de": "Margarineähnlicher Aufstrich, SMART BEAT Super Light ohne gesättigte Fette",
+"pt": "Creme tipo margarina, SMART BEAT Super Light sem gorduras saturadas"
+},
+"7872": {
+"it": "Crema tipo margarina a base di oli vegetali, stecca/vaschetta/flacone, 60% di grassi, con vitamina D aggiunta",
+"fr": "Préparation de type margarine à base d'huiles végétales, bâtonnet/pot/flacon, 60% de matières grasses, avec vitamine D ajoutée",
+"es": "Untable tipo margarina de aceites vegetales, barra/tarrina/botella, 60% de grasa, con vitamina D añadida",
+"de": "Margarineähnlicher Pflanzenölaufstrich, Stange/Becher/Flasche, 60% Fett, mit Zusatz von Vitamin D",
+"pt": "Creme tipo margarina de óleos vegetais, tablete/pote/frasco, 60% de gordura, com vitamina D adicionada"
+},
+"7873": {
+"it": "Tipo margarina, miscela di burro e margarina, 80% di grassi, in stecca, senza sale",
+"fr": "Type margarine, mélange beurre-margarine, 80% de matières grasses, en bâtonnet, sans sel",
+"es": "Tipo margarina, mezcla de mantequilla y margarina, 80% de grasa, en barra, sin sal",
+"de": "Margarineähnlich, Butter-Margarine-Mischung, 80% Fett, in Stangenform, ohne Salz",
+"pt": "Tipo margarina, mistura de manteiga e margarina, 80% de gordura, em tablete, sem sal"
+},
+"7874": {
+"it": "Tipo margarina, miscela di margarina e burro, olio di soia e burro",
+"fr": "Type margarine, mélange margarine-beurre, huile de soja et beurre",
+"es": "Tipo margarina, mezcla de margarina y mantequilla, aceite de soja y mantequilla",
+"de": "Margarineähnlich, Margarine-Butter-Mischung, Sojaöl und Butter",
+"pt": "Tipo margarina, mistura de margarina e manteiga, óleo de soja e manteiga"
+},
+"7875": {
+"it": "Tipo margarina, crema a base di oli vegetali, 20% di grassi, con sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, 20% de matières grasses, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales, 20% de grasa, con sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 20% Fett, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, 20% de gordura, com sal"
+},
+"7876": {
+"it": "Tipo margarina, crema a base di oli vegetali, 20% di grassi, senza sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, 20% de matières grasses, sans sel",
+"es": "Tipo margarina, untable de aceites vegetales, 20% de grasa, sin sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 20% Fett, ohne Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, 20% de gordura, sem sal"
+},
+"7877": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, in stecca, con sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, en bâtonnet, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, en barra, con sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, in Stangenform, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, em tablete, com sal"
+},
+"7878": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, in stecca, con sale, con vitamina D aggiunta",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, en bâtonnet, avec sel, avec vitamine D ajoutée",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, en barra, con sal, con vitamina D añadida",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, in Stangenform, mit Salz, mit Zusatz von Vitamin D",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, em tablete, com sal, com vitamina D adicionada"
+},
+"7879": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, stecca/vaschetta/flacone, con sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, bâtonnet/pot/flacon, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, barra/tarrina/botella, con sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, Stange/Becher/Flasche, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, tablete/pote/frasco, com sal"
+},
+"7880": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, stecca/vaschetta/flacone, senza sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, bâtonnet/pot/flacon, sans sel",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, barra/tarrina/botella, sin sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, Stange/Becher/Flasche, ohne Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, tablete/pote/frasco, sem sal"
+},
+"7881": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, stecca/vaschetta/flacone, senza sale, con vitamina D aggiunta",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, bâtonnet/pot/flacon, sans sel, avec vitamine D ajoutée",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, barra/tarrina/botella, sin sal, con vitamina D añadida",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, Stange/Becher/Flasche, ohne Salz, mit Zusatz von Vitamin D",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, tablete/pote/frasco, sem sal, com vitamina D adicionada"
+},
+"7882": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, in vaschetta, con sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, en pot, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, en tarrina, con sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, im Becher, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, em pote, com sal"
+},
+"7883": {
+"it": "Tipo margarina, crema a base di oli vegetali, 60% di grassi, in vaschetta, con sale, con vitamina D aggiunta",
+"fr": "Type margarine, préparation à base d'huiles végétales, 60% de matières grasses, en pot, avec sel, avec vitamine D ajoutée",
+"es": "Tipo margarina, untable de aceites vegetales, 60% de grasa, en tarrina, con sal, con vitamina D añadida",
+"de": "Margarineähnlich, Pflanzenölaufstrich, 60% Fett, im Becher, mit Salz, mit Zusatz von Vitamin D",
+"pt": "Tipo margarina, creme de óleos vegetais, 60% de gordura, em pote, com sal, com vitamina D adicionada"
+},
+"7884": {
+"it": "Tipo margarina, crema a base di oli vegetali, circa 37% di grassi, oli non specificati, con sale, con vitamina D aggiunta",
+"fr": "Type margarine, préparation à base d'huiles végétales, environ 37% de matières grasses, huiles non spécifiées, avec sel, avec vitamine D ajoutée",
+"es": "Tipo margarina, untable de aceites vegetales, aproximadamente 37% de grasa, aceites no especificados, con sal, con vitamina D añadida",
+"de": "Margarineähnlich, Pflanzenölaufstrich, etwa 37% Fett, Öle nicht näher bezeichnet, mit Salz, mit Zusatz von Vitamin D",
+"pt": "Tipo margarina, creme de óleos vegetais, aproximadamente 37% de gordura, óleos não especificados, com sal, com vitamina D adicionada"
+},
+"7885": {
+"it": "Tipo margarina, crema a base di oli vegetali, senza grassi, liquida, con sale",
+"fr": "Type margarine, préparation à base d'huiles végétales, sans matières grasses, liquide, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales, sin grasa, líquido, con sal",
+"de": "Margarineähnlich, Pflanzenölaufstrich, fettfrei, flüssig, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais, sem gordura, líquido, com sal"
+},
+"7886": {
+"it": "Tipo margarina, crema a base di oli vegetali, senza grassi, in vaschetta",
+"fr": "Type margarine, préparation à base d'huiles végétales, sans matières grasses, en pot",
+"es": "Tipo margarina, untable de aceites vegetales, sin grasa, en tarrina",
+"de": "Margarineähnlich, Pflanzenölaufstrich, fettfrei, im Becher",
+"pt": "Tipo margarina, creme de óleos vegetais, sem gordura, em pote"
+},
+"7887": {
+"it": "Tipo margarina, crema a base di oli vegetali, in stecca o vaschetta, zuccherata",
+"fr": "Type margarine, préparation à base d'huiles végétales, en bâtonnet ou en pot, sucrée",
+"es": "Tipo margarina, untable de aceites vegetales, en barra o tarrina, azucarado",
+"de": "Margarineähnlich, Pflanzenölaufstrich, in Stangenform oder im Becher, gezuckert",
+"pt": "Tipo margarina, creme de óleos vegetais, em tablete ou pote, adoçado"
+},
+"7888": {
+"it": "Tipo margarina, crema di oli vegetali e burro, a ridotto contenuto calorico, in vaschetta, con sale",
+"fr": "Type margarine, préparation d'huiles végétales et de beurre, à teneur réduite en calories, en pot, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales y mantequilla, reducido en calorías, en tarrina, con sal",
+"de": "Margarineähnlich, Aufstrich aus Pflanzenölen und Butter, kalorienreduziert, im Becher, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais e manteiga, com calorias reduzidas, em pote, com sal"
+},
+"7889": {
+"it": "Tipo margarina, crema di oli vegetali e burro, in vaschetta, con sale",
+"fr": "Type margarine, préparation d'huiles végétales et de beurre, en pot, avec sel",
+"es": "Tipo margarina, untable de aceites vegetales y mantequilla, en tarrina, con sal",
+"de": "Margarineähnlich, Aufstrich aus Pflanzenölen und Butter, im Becher, mit Salz",
+"pt": "Tipo margarina, creme de óleos vegetais e manteiga, em pote, com sal"
+},
+"7890": {
+"it": "Margarita",
+"fr": "Margarita",
+"es": "Margarita",
+"de": "Margarita",
+"pt": "Margarita"
+},
+"7891": {
+"it": "Miscela per margarita, analcolica",
+"fr": "Préparation pour margarita, sans alcool",
+"es": "Mezcla para margarita, sin alcohol",
+"de": "Margarita-Mix, alkoholfrei",
+"pt": "Mistura para margarita, sem álcool"
+},
+"7892": {
+"it": "Biscotto Marie",
+"fr": "Biscuit Marie",
+"es": "Galleta María",
+"de": "Marie-Keks",
+"pt": "Biscoito Maria"
+},
+"7893": {
+"it": "Marmellata",
+"fr": "Marmelade",
+"es": "Mermelada",
+"de": "Marmelade",
+"pt": "Geleia de frutas cítricas"
+},
+"7894": {
+"it": "Marmellata di arance",
+"fr": "Marmelade d'orange",
+"es": "Mermelada de naranja",
+"de": "Orangenmarmelade",
+"pt": "Geleia de laranja"
+},
+"7895": {
+"it": "Martha White Foods, Martha White's Buttermilk Biscuit Mix, preparato secco",
+"fr": "Martha White Foods, Martha White's Buttermilk Biscuit Mix, préparation sèche",
+"es": "Martha White Foods, Martha White's Buttermilk Biscuit Mix, mezcla seca",
+"de": "Martha White Foods, Martha White's Buttermilk Biscuit Mix, Trockenmischung",
+"pt": "Martha White Foods, Martha White's Buttermilk Biscuit Mix, mistura seca"
+},
+"7896": {
+"it": "Martha White Foods, Martha White's Chewy Fudge Brownie Mix, preparato secco",
+"fr": "Martha White Foods, Martha White's Chewy Fudge Brownie Mix, préparation sèche",
+"es": "Martha White Foods, Martha White's Chewy Fudge Brownie Mix, mezcla seca",
+"de": "Martha White Foods, Martha White's Chewy Fudge Brownie Mix, Trockenmischung",
+"pt": "Martha White Foods, Martha White's Chewy Fudge Brownie Mix, mistura seca"
+},
+"7897": {
+"it": "Martini",
+"fr": "Martini",
+"es": "Martini",
+"de": "Martini",
+"pt": "Martini"
+},
+"7898": {
+"it": "Martini, aromatizzato",
+"fr": "Martini, aromatisé",
+"es": "Martini, aromatizado",
+"de": "Martini, aromatisiert",
+"pt": "Martini, aromatizado"
+},
+"7899": {
+"it": "Mary's Gone Crackers, Original Crackers, biologici, senza glutine",
+"fr": "Mary's Gone Crackers, Original Crackers, biologiques, sans gluten",
+"es": "Mary's Gone Crackers, Original Crackers, ecológicos, sin gluten",
+"de": "Mary's Gone Crackers, Original Crackers, Bio, glutenfrei",
+"pt": "Mary's Gone Crackers, Original Crackers, orgânicos, sem glúten"
+},
+"7900": {
+"it": "Masa harina, cotta",
+"fr": "Masa harina, cuite",
+"es": "Masa harina, cocida",
+"de": "Masa harina, gekocht",
+"pt": "Masa harina, cozida"
+},
+"7901": {
+"it": "Radici di mashu, crude (nativi dell'Alaska)",
+"fr": "Racines de mashu, crues (autochtones d'Alaska)",
+"es": "Raíces de mashu, crudas (nativos de Alaska)",
+"de": "Mashu-Wurzeln, roh (Ureinwohner Alaskas)",
+"pt": "Raízes de mashu, cruas (nativos do Alasca)"
+},
+"7902": {
+"it": "Condimento tipo maionese, senza colesterolo",
+"fr": "Sauce de type mayonnaise, sans cholestérol",
+"es": "Aderezo tipo mayonesa, sin colesterol",
+"de": "Mayonnaise-Dressing, cholesterinfrei",
+"pt": "Molho tipo maionese, sem colesterol"
+},
+"7903": {
+"it": "Maionese, senza grassi",
+"fr": "Mayonnaise, sans matières grasses",
+"es": "Mayonesa, sin grasa",
+"de": "Mayonnaise, fettfrei",
+"pt": "Maionese, sem gordura"
+},
+"7904": {
+"it": "Maionese, light",
+"fr": "Mayonnaise, allégée",
+"es": "Mayonesa, ligera",
+"de": "Mayonnaise, leicht",
+"pt": "Maionese, light"
+},
+"7905": {
+"it": "Maionese, a basso contenuto di sodio, ipocalorica o dietetica",
+"fr": "Mayonnaise, pauvre en sodium, faible en calories ou de régime",
+"es": "Mayonesa, baja en sodio, baja en calorías o dietética",
+"de": "Mayonnaise, natriumarm, kalorienarm oder Diät-",
+"pt": "Maionese, com baixo teor de sódio, baixa caloria ou diet"
+},
+"7906": {
+"it": "Maionese, preparata con tofu",
+"fr": "Mayonnaise, préparée avec du tofu",
+"es": "Mayonesa, preparada con tofu",
+"de": "Mayonnaise, mit Tofu zubereitet",
+"pt": "Maionese, preparada com tofu"
+},
+"7907": {
+"it": "Maionese, a ridotto contenuto di grassi, con olio d'oliva",
+"fr": "Mayonnaise, allégée en matières grasses, à l'huile d'olive",
+"es": "Mayonesa, reducida en grasa, con aceite de oliva",
+"de": "Mayonnaise, fettreduziert, mit Olivenöl",
+"pt": "Maionese, com teor reduzido de gordura, com azeite de oliva"
+},
+"7908": {
+"it": "Maionese, a ridotto contenuto calorico o dietetica, senza colesterolo",
+"fr": "Mayonnaise, allégée en calories ou de régime, sans cholestérol",
+"es": "Mayonesa, reducida en calorías o dietética, sin colesterol",
+"de": "Mayonnaise, kalorienreduziert oder Diät-, cholesterinfrei",
+"pt": "Maionese, com calorias reduzidas ou diet, sem colesterol"
+},
+"7909": {
+"it": "Maionese, normale",
+"fr": "Mayonnaise, ordinaire",
+"es": "Mayonesa, normal",
+"de": "Mayonnaise, normal",
+"pt": "Maionese, comum"
+},
+"7910": {
+"it": "Salsa tipo maionese",
+"fr": "Sauce de type mayonnaise",
+"es": "Salsa tipo mayonesa",
+"de": "Salatsauce nach Mayonnaise-Art",
+"pt": "Molho tipo maionese"
+},
+"7911": {
+"it": "Salsa tipo maionese, light",
+"fr": "Sauce de type mayonnaise, allégée",
+"es": "Salsa tipo mayonesa, ligera",
+"de": "Salatsauce nach Mayonnaise-Art, leicht",
+"pt": "Molho tipo maionese, light"
+},
+"7912": {
+"it": "McDONALD'S Insalata Bacon Ranch con pollo croccante",
+"fr": "McDONALD'S Salade Bacon Ranch avec poulet croustillant",
+"es": "McDONALD'S Ensalada Bacon Ranch con pollo crujiente",
+"de": "McDONALD'S Bacon-Ranch-Salat mit knusprigem Hähnchen",
+"pt": "McDONALD'S Salada Bacon Ranch com frango empanado crocante"
+},
+"7913": {
+"it": "McDONALD'S, Biscuit con bacon, uovo e formaggio",
+"fr": "McDONALD'S, Biscuit au bacon, œuf et fromage",
+"es": "McDONALD'S, Biscuit con beicon, huevo y queso",
+"de": "McDONALD'S, Biscuit mit Speck, Ei und Käse",
+"pt": "McDONALD'S, Biscuit com bacon, ovo e queijo"
+},
+"7914": {
+"it": "McDONALD'S, Insalata Bacon Ranch con pollo alla griglia",
+"fr": "McDONALD'S, Salade Bacon Ranch avec poulet grillé",
+"es": "McDONALD'S, Ensalada Bacon Ranch con pollo a la parrilla",
+"de": "McDONALD'S, Bacon-Ranch-Salat mit gegrilltem Hähnchen",
+"pt": "McDONALD'S, Salada Bacon Ranch com frango grelhado"
+},
+"7915": {
+"it": "McDONALD'S, Insalata Bacon Ranch senza pollo",
+"fr": "McDONALD'S, Salade Bacon Ranch sans poulet",
+"es": "McDONALD'S, Ensalada Bacon Ranch sin pollo",
+"de": "McDONALD'S, Bacon-Ranch-Salat ohne Hähnchen",
+"pt": "McDONALD'S, Salada Bacon Ranch sem frango"
+},
+"7916": {
+"it": "McDONALD'S, McGRIDDLES con bacon, uovo e formaggio",
+"fr": "McDONALD'S, McGRIDDLES au bacon, œuf et fromage",
+"es": "McDONALD'S, McGRIDDLES con beicon, huevo y queso",
+"de": "McDONALD'S, McGRIDDLES mit Speck, Ei und Käse",
+"pt": "McDONALD'S, McGRIDDLES com bacon, ovo e queijo"
+},
+"7917": {
+"it": "McDONALD'S, BIG BREAKFAST",
+"fr": "McDONALD'S, BIG BREAKFAST",
+"es": "McDONALD'S, BIG BREAKFAST",
+"de": "McDONALD'S, BIG BREAKFAST",
+"pt": "McDONALD'S, BIG BREAKFAST"
+},
+"7918": {
+"it": "McDONALD'S, BIG MAC",
+"fr": "McDONALD'S, BIG MAC",
+"es": "McDONALD'S, BIG MAC",
+"de": "McDONALD'S, BIG MAC",
+"pt": "McDONALD'S, BIG MAC"
+},
+"7919": {
+"it": "McDONALD'S, BIG MAC (senza salsa Big Mac)",
+"fr": "McDONALD'S, BIG MAC (sans sauce Big Mac)",
+"es": "McDONALD'S, BIG MAC (sin salsa Big Mac)",
+"de": "McDONALD'S, BIG MAC (ohne Big-Mac-Sauce)",
+"pt": "McDONALD'S, BIG MAC (sem molho Big Mac)"
+},
+"7920": {
+"it": "McDONALD'S, Cheeseburger",
+"fr": "McDONALD'S, Cheeseburger",
+"es": "McDONALD'S, Cheeseburger",
+"de": "McDONALD'S, Cheeseburger",
+"pt": "McDONALD'S, Cheeseburger"
+},
+"7921": {
+"it": "McDONALD'S, Chicken McNUGGETS",
+"fr": "McDONALD'S, Chicken McNUGGETS",
+"es": "McDONALD'S, Chicken McNUGGETS",
+"de": "McDONALD'S, Chicken McNUGGETS",
+"pt": "McDONALD'S, Chicken McNUGGETS"
+},
+"7922": {
+"it": "McDONALD'S, Deluxe Breakfast, con sciroppo e margarina",
+"fr": "McDONALD'S, Deluxe Breakfast, avec sirop et margarine",
+"es": "McDONALD'S, Deluxe Breakfast, con sirope y margarina",
+"de": "McDONALD'S, Deluxe Breakfast, mit Sirup und Margarine",
+"pt": "McDONALD'S, Deluxe Breakfast, com xarope e margarina"
+},
+"7923": {
+"it": "McDONALD'S, Double Cheeseburger",
+"fr": "McDONALD'S, Double Cheeseburger",
+"es": "McDONALD'S, Double Cheeseburger",
+"de": "McDONALD'S, Double Cheeseburger",
+"pt": "McDONALD'S, Double Cheeseburger"
+},
+"7924": {
+"it": "McDONALD'S, DOUBLE QUARTER POUNDER con formaggio",
+"fr": "McDONALD'S, DOUBLE QUARTER POUNDER au fromage",
+"es": "McDONALD'S, DOUBLE QUARTER POUNDER con queso",
+"de": "McDONALD'S, DOUBLE QUARTER POUNDER mit Käse",
+"pt": "McDONALD'S, DOUBLE QUARTER POUNDER com queijo"
+},
+"7925": {
+"it": "McDONALD'S, Egg McMUFFIN",
+"fr": "McDONALD'S, Egg McMUFFIN",
+"es": "McDONALD'S, Egg McMUFFIN",
+"de": "McDONALD'S, Egg McMUFFIN",
+"pt": "McDONALD'S, Egg McMUFFIN"
+},
+"7926": {
+"it": "McDONALD'S, FILET-O-FISH",
+"fr": "McDONALD'S, FILET-O-FISH",
+"es": "McDONALD'S, FILET-O-FISH",
+"de": "McDONALD'S, FILET-O-FISH",
+"pt": "McDONALD'S, FILET-O-FISH"
+},
+"7927": {
+"it": "McDONALD'S, FILET-O-FISH (senza salsa tartara)",
+"fr": "McDONALD'S, FILET-O-FISH (sans sauce tartare)",
+"es": "McDONALD'S, FILET-O-FISH (sin salsa tártara)",
+"de": "McDONALD'S, FILET-O-FISH (ohne Remouladensauce)",
+"pt": "McDONALD'S, FILET-O-FISH (sem molho tártaro)"
+},
+"7928": {
+"it": "McDONALD'S, patatine fritte",
+"fr": "McDONALD'S, frites",
+"es": "McDONALD'S, patatas fritas",
+"de": "McDONALD'S, Pommes frites",
+"pt": "McDONALD'S, batatas fritas"
+},
+"7929": {
+"it": "McDONALD'S, Parfait di frutta e yogurt",
+"fr": "McDONALD'S, Parfait fruits et yaourt",
+"es": "McDONALD'S, Parfait de frutas y yogur",
+"de": "McDONALD'S, Frucht-Joghurt-Parfait",
+"pt": "McDONALD'S, Parfait de frutas e iogurte"
+},
+"7930": {
+"it": "McDONALD'S, Parfait di frutta e yogurt (senza granola)",
+"fr": "McDONALD'S, Parfait fruits et yaourt (sans granola)",
+"es": "McDONALD'S, Parfait de frutas y yogur (sin granola)",
+"de": "McDONALD'S, Frucht-Joghurt-Parfait (ohne Granola)",
+"pt": "McDONALD'S, Parfait de frutas e iogurte (sem granola)"
+},
+"7931": {
+"it": "McDONALD'S, Hamburger",
+"fr": "McDONALD'S, Hamburger",
+"es": "McDONALD'S, Hamburguesa",
+"de": "McDONALD'S, Hamburger",
+"pt": "McDONALD'S, Hambúrguer"
+},
+"7932": {
+"it": "McDONALD'S, Hash Brown (frittella di patate)",
+"fr": "McDONALD'S, Hash Brown (galette de pommes de terre)",
+"es": "McDONALD'S, Hash Brown (tortita de patata)",
+"de": "McDONALD'S, Hash Brown (Kartoffelpuffer)",
+"pt": "McDONALD'S, Hash Brown (bolinho de batata)"
+},
+"7933": {
+"it": "McDONALD'S, Sundae al caramello caldo",
+"fr": "McDONALD'S, Sundae au caramel chaud",
+"es": "McDONALD'S, Sundae de caramelo caliente",
+"de": "McDONALD'S, Sundae mit heißem Karamell",
+"pt": "McDONALD'S, Sundae de caramelo quente"
+},
+"7934": {
+"it": "McDONALD'S, Sundae al cioccolato fondente caldo (hot fudge)",
+"fr": "McDONALD'S, Sundae au chocolat chaud (hot fudge)",
+"es": "McDONALD'S, Sundae de chocolate caliente (hot fudge)",
+"de": "McDONALD'S, Sundae mit heißer Schokoladensauce (Hot Fudge)",
+"pt": "McDONALD'S, Sundae de calda de chocolate quente (hot fudge)"
+},
+"7935": {
+"it": "McDONALD'S, Hotcakes (semplici)",
+"fr": "McDONALD'S, Hotcakes (nature)",
+"es": "McDONALD'S, Hotcakes (solos)",
+"de": "McDONALD'S, Hotcakes (pur)",
+"pt": "McDONALD'S, Hotcakes (simples)"
+},
+"7936": {
+"it": "McDONALD'S, Hotcakes (con 2 noci di margarina e sciroppo)",
+"fr": "McDONALD'S, Hotcakes (avec 2 noisettes de margarine et sirop)",
+"es": "McDONALD'S, Hotcakes (con 2 porciones de margarina y sirope)",
+"de": "McDONALD'S, Hotcakes (mit 2 Portionen Margarine und Sirup)",
+"pt": "McDONALD'S, Hotcakes (com 2 porções de margarina e xarope)"
+},
+"7937": {
+"it": "McDONALD'S, Hotcakes e salsiccia",
+"fr": "McDONALD'S, Hotcakes et saucisse",
+"es": "McDONALD'S, Hotcakes y salchicha",
+"de": "McDONALD'S, Hotcakes und Wurst",
+"pt": "McDONALD'S, Hotcakes e salsicha"
+},
+"7938": {
+"it": "McDONALD'S, McCHICKEN Sandwich",
+"fr": "McDONALD'S, McCHICKEN Sandwich",
+"es": "McDONALD'S, McCHICKEN Sandwich",
+"de": "McDONALD'S, McCHICKEN Sandwich",
+"pt": "McDONALD'S, McCHICKEN Sandwich"
+},
+"7939": {
+"it": "McDONALD'S, McCHICKEN Sandwich (senza maionese)",
+"fr": "McDONALD'S, McCHICKEN Sandwich (sans mayonnaise)",
+"es": "McDONALD'S, McCHICKEN Sandwich (sin mayonesa)",
+"de": "McDONALD'S, McCHICKEN Sandwich (ohne Mayonnaise)",
+"pt": "McDONALD'S, McCHICKEN Sandwich (sem maionese)"
+},
+"7940": {
+"it": "McDONALD'S, McFLURRY con M&M'S CANDIES",
+"fr": "McDONALD'S, McFLURRY avec M&M'S CANDIES",
+"es": "McDONALD'S, McFLURRY con M&M'S CANDIES",
+"de": "McDONALD'S, McFLURRY mit M&M'S CANDIES",
+"pt": "McDONALD'S, McFLURRY com M&M'S CANDIES"
+},
+"7941": {
+"it": "McDONALD'S, McFLURRY con biscotti OREO",
+"fr": "McDONALD'S, McFLURRY avec biscuits OREO",
+"es": "McDONALD'S, McFLURRY con galletas OREO",
+"de": "McDONALD'S, McFLURRY mit OREO-Keksen",
+"pt": "McDONALD'S, McFLURRY com biscoitos OREO"
+},
+"7942": {
+"it": "McDONALD'S, QUARTER POUNDER",
+"fr": "McDONALD'S, QUARTER POUNDER",
+"es": "McDONALD'S, QUARTER POUNDER",
+"de": "McDONALD'S, QUARTER POUNDER",
+"pt": "McDONALD'S, QUARTER POUNDER"
+},
+"7943": {
+"it": "McDONALD'S, QUARTER POUNDER con formaggio",
+"fr": "McDONALD'S, QUARTER POUNDER au fromage",
+"es": "McDONALD'S, QUARTER POUNDER con queso",
+"de": "McDONALD'S, QUARTER POUNDER mit Käse",
+"pt": "McDONALD'S, QUARTER POUNDER com queijo"
+},
+"7944": {
+"it": "McDONALD'S, RANCH SNACK WRAP, croccante",
+"fr": "McDONALD'S, RANCH SNACK WRAP, croustillant",
+"es": "McDONALD'S, RANCH SNACK WRAP, crujiente",
+"de": "McDONALD'S, RANCH SNACK WRAP, knusprig",
+"pt": "McDONALD'S, RANCH SNACK WRAP, crocante"
+},
+"7945": {
+"it": "McDONALD'S, RANCH SNACK WRAP, alla griglia",
+"fr": "McDONALD'S, RANCH SNACK WRAP, grillé",
+"es": "McDONALD'S, RANCH SNACK WRAP, a la parrilla",
+"de": "McDONALD'S, RANCH SNACK WRAP, gegrillt",
+"pt": "McDONALD'S, RANCH SNACK WRAP, grelhado"
+},
+"7946": {
+"it": "McDONALD'S, Biscuit con salsiccia",
+"fr": "McDONALD'S, Biscuit à la saucisse",
+"es": "McDONALD'S, Biscuit con salchicha",
+"de": "McDONALD'S, Biscuit mit Wurst",
+"pt": "McDONALD'S, Biscuit com salsicha"
+},
+"7947": {
+"it": "McDONALD'S, Biscuit con salsiccia e uovo",
+"fr": "McDONALD'S, Biscuit à la saucisse et à l'œuf",
+"es": "McDONALD'S, Biscuit con salchicha y huevo",
+"de": "McDONALD'S, Biscuit mit Wurst und Ei",
+"pt": "McDONALD'S, Biscuit com salsicha e ovo"
+},
+"7948": {
+"it": "McDONALD'S, Burrito con salsiccia",
+"fr": "McDONALD'S, Burrito à la saucisse",
+"es": "McDONALD'S, Burrito con salchicha",
+"de": "McDONALD'S, Burrito mit Wurst",
+"pt": "McDONALD'S, Burrito com salsicha"
+},
+"7949": {
+"it": "McDONALD'S, McGRIDDLES con salsiccia",
+"fr": "McDONALD'S, McGRIDDLES à la saucisse",
+"es": "McDONALD'S, McGRIDDLES con salchicha",
+"de": "McDONALD'S, McGRIDDLES mit Wurst",
+"pt": "McDONALD'S, McGRIDDLES com salsicha"
+},
+"7950": {
+"it": "McDONALD'S, McMUFFIN con salsiccia",
+"fr": "McDONALD'S, McMUFFIN à la saucisse",
+"es": "McDONALD'S, McMUFFIN con salchicha",
+"de": "McDONALD'S, McMUFFIN mit Wurst",
+"pt": "McDONALD'S, McMUFFIN com salsicha"
+},
+"7951": {
+"it": "McDONALD'S, McMUFFIN con salsiccia e uovo",
+"fr": "McDONALD'S, McMUFFIN à la saucisse et à l'œuf",
+"es": "McDONALD'S, McMUFFIN con salchicha y huevo",
+"de": "McDONALD'S, McMUFFIN mit Wurst und Ei",
+"pt": "McDONALD'S, McMUFFIN com salsicha e ovo"
+},
+"7952": {
+"it": "McDONALD'S, McGRIDDLES con salsiccia, uovo e formaggio",
+"fr": "McDONALD'S, McGRIDDLES à la saucisse, à l'œuf et au fromage",
+"es": "McDONALD'S, McGRIDDLES con salchicha, huevo y queso",
+"de": "McDONALD'S, McGRIDDLES mit Wurst, Ei und Käse",
+"pt": "McDONALD'S, McGRIDDLES com salsicha, ovo e queijo"
+},
+"7953": {
+"it": "McDONALD'S, Insalata contorno",
+"fr": "McDONALD'S, Salade d'accompagnement",
+"es": "McDONALD'S, Ensalada de acompañamiento",
+"de": "McDONALD'S, Beilagensalat",
+"pt": "McDONALD'S, Salada de acompanhamento"
+},
+"7954": {
+"it": "McDONALD'S, Biscuit con pollo stile Southern",
+"fr": "McDONALD'S, Biscuit au poulet façon Southern",
+"es": "McDONALD'S, Biscuit con pollo estilo sureño",
+"de": "McDONALD'S, Biscuit mit Hähnchen nach Südstaatenart",
+"pt": "McDONALD'S, Biscuit com frango estilo sulista"
+},
+"7955": {
+"it": "McDONALD'S, Sundae alla fragola",
+"fr": "McDONALD'S, Sundae à la fraise",
+"es": "McDONALD'S, Sundae de fresa",
+"de": "McDONALD'S, Erdbeer-Sundae",
+"pt": "McDONALD'S, Sundae de morango"
+},
+"7956": {
+"it": "McDONALD'S, Cono di gelato alla vaniglia a ridotto contenuto di grassi",
+"fr": "McDONALD'S, Cornet de glace à la vanille allégée en matières grasses",
+"es": "McDONALD'S, Cono de helado de vainilla reducido en grasa",
+"de": "McDONALD'S, Eiswaffel mit fettreduziertem Vanilleeis",
+"pt": "McDONALD'S, Casquinha de sorvete de baunilha com teor reduzido de gordura"
+},
+"7957": {
+"it": "McDouble (McDonald's)",
+"fr": "McDouble (McDonald's)",
+"es": "McDouble (McDonald's)",
+"de": "McDouble (McDonald's)",
+"pt": "McDouble (McDonald's)"
+},
+"7958": {
+"it": "Mckee Baking, Little Debbie Nutty Bars, wafer con burro di arachidi, ricoperti di cioccolato",
+"fr": "Mckee Baking, Little Debbie Nutty Bars, gaufrettes au beurre de cacahuète, enrobées de chocolat",
+"es": "Mckee Baking, Little Debbie Nutty Bars, obleas con mantequilla de cacahuete, cubiertas de chocolate",
+"de": "Mckee Baking, Little Debbie Nutty Bars, Waffeln mit Erdnussbutter, mit Schokolade überzogen",
+"pt": "Mckee Baking, Little Debbie Nutty Bars, wafers com pasta de amendoim, cobertos de chocolate"
+},
+"7959": {
+"it": "Estensore di carne (meat extender)",
+"fr": "Extenseur de viande (meat extender)",
+"es": "Extensor de carne (meat extender)",
+"de": "Fleischstrecker (Meat Extender)",
+"pt": "Extensor de carne (meat extender)"
+},
+"7960": {
+"it": "Pasto con polpettone, non specificato, pasto surgelato",
+"fr": "Repas avec pain de viande, non spécifié, repas surgelé",
+"es": "Comida con pastel de carne, no especificado, comida congelada",
+"de": "Hackbraten-Menü, nicht näher bezeichnet, Tiefkühlmenü",
+"pt": "Refeição com bolo de carne, não especificado, refeição congelada"
+},
+"7961": {
+"it": "Polpettone di manzo",
+"fr": "Pain de viande de bœuf",
+"es": "Pastel de carne de vacuno",
+"de": "Hackbraten aus Rind",
+"pt": "Bolo de carne de carne bovina"
+},
+"7962": {
+"it": "Polpettone di manzo e maiale",
+"fr": "Pain de viande de bœuf et de porc",
+"es": "Pastel de carne de vacuno y cerdo",
+"de": "Hackbraten aus Rind und Schwein",
+"pt": "Bolo de carne de carne bovina e carne suína"
+},
+"7963": {
+"it": "Polpettone di manzo e maiale, con salsa a base di pomodoro",
+"fr": "Pain de viande de bœuf et de porc, avec sauce à base de tomate",
+"es": "Pastel de carne de vacuno y cerdo, con salsa a base de tomate",
+"de": "Hackbraten aus Rind und Schwein, mit Sauce auf Tomatenbasis",
+"pt": "Bolo de carne de carne bovina e carne suína, com molho à base de tomate"
+},
+"7964": {
+"it": "Polpettone di manzo, vitello e maiale",
+"fr": "Pain de viande de bœuf, de veau et de porc",
+"es": "Pastel de carne de vacuno, ternera y cerdo",
+"de": "Hackbraten aus Rind, Kalb und Schwein",
+"pt": "Bolo de carne de carne bovina, vitela e carne suína"
+},
+"7965": {
+"it": "Polpettone di manzo, con salsa a base di pomodoro",
+"fr": "Pain de viande de bœuf, avec sauce à base de tomate",
+"es": "Pastel de carne de vacuno, con salsa a base de tomate",
+"de": "Hackbraten aus Rind, mit Sauce auf Tomatenbasis",
+"pt": "Bolo de carne de carne bovina, com molho à base de tomate"
+},
+"7966": {
+"it": "Polpettone di pollo o tacchino",
+"fr": "Pain de viande de poulet ou de dinde",
+"es": "Pastel de carne de pollo o pavo",
+"de": "Hackbraten aus Huhn oder Pute",
+"pt": "Bolo de carne de frango ou peru"
+},
+"7967": {
+"it": "Polpettone di pollo o tacchino, con salsa a base di pomodoro",
+"fr": "Pain de viande de poulet ou de dinde, avec sauce à base de tomate",
+"es": "Pastel de carne de pollo o pavo, con salsa a base de tomate",
+"de": "Hackbraten aus Huhn oder Pute, mit Sauce auf Tomatenbasis",
+"pt": "Bolo de carne de frango ou peru, com molho à base de tomate"
+},
+"7968": {
+"it": "Polpettone di prosciutto",
+"fr": "Pain de viande de jambon",
+"es": "Pastel de carne de jamón",
+"de": "Hackbraten aus Schinken",
+"pt": "Bolo de carne de presunto"
+},
+"7969": {
+"it": "Polpettone di cervo/daino",
+"fr": "Pain de viande de chevreuil/cerf",
+"es": "Pastel de carne de venado",
+"de": "Hackbraten aus Hirsch/Reh",
+"pt": "Bolo de carne de veado"
+},
+"7970": {
+"it": "Polpettone con patate e verdura, pasto surgelato",
+"fr": "Pain de viande avec pommes de terre et légumes, repas surgelé",
+"es": "Pastel de carne con patatas y verdura, comida congelada",
+"de": "Hackbraten mit Kartoffeln und Gemüse, Tiefkühlmenü",
+"pt": "Bolo de carne com batatas e vegetais, refeição congelada"
+},
+"7971": {
+"it": "Polpettone, non specificato il tipo di carne",
+"fr": "Pain de viande, type de viande non précisé",
+"es": "Pastel de carne, sin especificar el tipo de carne",
+"de": "Hackbraten, Fleischsorte nicht angegeben",
+"pt": "Bolo de carne, tipo de carne não especificado"
+},
+"7972": {
+"it": "Polpettone, stile portoricano",
+"fr": "Pain de viande, style portoricain",
+"es": "Pastel de carne, estilo puertorriqueño",
+"de": "Hackbraten, puerto-ricanische Art",
+"pt": "Bolo de carne, estilo porto-riquenho"
+},
+"7973": {
+"it": "Pasta di carne o carne in vasetto (potted meat), non specificata",
+"fr": "Pâté de viande ou viande en pot (potted meat), non spécifié",
+"es": "Paté de carne o carne en conserva (potted meat), no especificado",
+"de": "Fleischaufstrich oder Potted Meat, nicht näher bezeichnet",
+"pt": "Patê de carne ou carne em conserva (potted meat), não especificado"
+},
+"7974": {
+"it": "Sostituto della carne, a base di cereali e proteine vegetali, fritto",
+"fr": "Substitut de viande, à base de céréales et de protéines végétales, frit",
+"es": "Sustituto de la carne, a base de cereales y proteínas vegetales, frito",
+"de": "Fleischersatz, auf Getreide- und Pflanzenproteinbasis, frittiert",
+"pt": "Substituto de carne, à base de cereais e proteínas vegetais, frito"
+},
+"7975": {
+"it": "Carne con sugo, non specificato il tipo di carne",
+"fr": "Viande avec jus de cuisson, type de viande non précisé",
+"es": "Carne con salsa de carne, sin especificar el tipo de carne",
+"de": "Fleisch mit Bratensauce, Fleischsorte nicht angegeben",
+"pt": "Carne com molho, tipo de carne não especificado"
+},
+"7976": {
+"it": "Carne con salsa a base di pomodoro",
+"fr": "Viande avec sauce à base de tomate",
+"es": "Carne con salsa a base de tomate",
+"de": "Fleisch mit Sauce auf Tomatenbasis",
+"pt": "Carne com molho à base de tomate"
+},
+"7977": {
+"it": "Carne, macinata, non specificata",
+"fr": "Viande, hachée, non spécifiée",
+"es": "Carne, picada, no especificada",
+"de": "Fleisch, gehackt, nicht näher bezeichnet",
+"pt": "Carne, moída, não especificada"
+},
+"7978": {
+"it": "Carne, non specificata",
+"fr": "Viande, non spécifiée",
+"es": "Carne, no especificada",
+"de": "Fleisch, nicht näher bezeichnet",
+"pt": "Carne, não especificada"
+},
+"7979": {
+"it": "Panino o sub con polpette",
+"fr": "Sandwich ou sub aux boulettes de viande",
+"es": "Sándwich o sub de albóndigas",
+"de": "Sandwich oder Sub mit Fleischbällchen",
+"pt": "Sanduíche ou sub com almôndegas"
+},
+"7980": {
+"it": "Polpetta, vegetale",
+"fr": "Boulette, sans viande",
+"es": "Albóndiga, sin carne",
+"de": "Fleischbällchen, fleischlos",
+"pt": "Almôndega, sem carne"
+},
+"7981": {
+"it": "Polpette, surgelate, stile italiano",
+"fr": "Boulettes de viande, surgelées, style italien",
+"es": "Albóndigas, congeladas, estilo italiano",
+"de": "Fleischbällchen, tiefgekühlt, italienische Art",
+"pt": "Almôndegas, congeladas, estilo italiano"
+},
+"7982": {
+"it": "Polpette, vegetali",
+"fr": "Boulettes, sans viande",
+"es": "Albóndigas, sin carne",
+"de": "Fleischbällchen, fleischlos",
+"pt": "Almôndegas, sem carne"
+},
+"7983": {
+"it": "Polpette, non specificato il tipo di carne, con salsa",
+"fr": "Boulettes de viande, type de viande non précisé, avec sauce",
+"es": "Albóndigas, sin especificar el tipo de carne, con salsa",
+"de": "Fleischbällchen, Fleischsorte nicht angegeben, mit Sauce",
+"pt": "Almôndegas, tipo de carne não especificado, com molho"
+},
+"7984": {
+"it": "Polpette, stile portoricano",
+"fr": "Boulettes de viande, style portoricain",
+"es": "Albóndigas, estilo puertorriqueño",
+"de": "Fleischbällchen, puerto-ricanische Art",
+"pt": "Almôndegas, estilo porto-riquenho"
+},
+"7985": {
+"it": "Polpette, svedesi, in salsa, con tagliatelle, pasto surgelato dietetico",
+"fr": "Boulettes de viande, suédoises, en sauce, avec nouilles, repas surgelé de régime",
+"es": "Albóndigas, suecas, en salsa, con fideos, comida congelada dietética",
+"de": "Fleischbällchen, schwedische, in Sauce, mit Nudeln, Diät-Tiefkühlmenü",
+"pt": "Almôndegas, suecas, ao molho, com macarrão, refeição congelada diet"
+},
+"7986": {
+"it": "Polpette, impanate, non specificato il tipo di carne, con sugo",
+"fr": "Boulettes de viande, panées, type de viande non précisé, avec sauce",
+"es": "Albóndigas, empanadas, sin especificar el tipo de carne, con salsa",
+"de": "Fleischbällchen, paniert, Fleischsorte nicht angegeben, mit Bratensauce",
+"pt": "Almôndegas, empanadas, tipo de carne não especificado, com molho"
+},
+"7987": {
+"it": "Panino con polpettone",
+"fr": "Sandwich au pain de viande",
+"es": "Sándwich de pastel de carne",
+"de": "Sandwich mit Hackbraten",
+"pt": "Sanduíche de bolo de carne"
+},
+"7988": {
+"it": "Melba toast (fette biscottate sottili)",
+"fr": "Toast Melba",
+"es": "Tostada Melba",
+"de": "Melba-Toast",
+"pt": "Torrada Melba"
+},
+"7989": {
+"it": "Palline di melone, surgelate",
+"fr": "Billes de melon, surgelées",
+"es": "Bolitas de melón, congeladas",
+"de": "Melonenkugeln, tiefgekühlt",
+"pt": "Bolinhas de melão, congeladas"
+},
+"7990": {
+"it": "Melone, banana (Navajo)",
+"fr": "Melon, banane (Navajo)",
+"es": "Melón, banana (navajo)",
+"de": "Melone, Banane (Navajo)",
+"pt": "Melão, banana (Navajo)"
+},
+"7991": {
+"it": "Melone, surgelato",
+"fr": "Melon, surgelé",
+"es": "Melón, congelado",
+"de": "Melone, tiefgekühlt",
+"pt": "Melão, congelado"
+},
+"7992": {
+"it": "Meloni, cantalupo, crudi",
+"fr": "Melons, cantaloup, crus",
+"es": "Melones, cantalupo, crudos",
+"de": "Melonen, Cantaloupe, roh",
+"pt": "Melões, cantalupo, crus"
+},
+"7993": {
+"it": "Meloni, casaba, crudi",
+"fr": "Melons, casaba, crus",
+"es": "Melones, casaba, crudos",
+"de": "Melonen, Casaba, roh",
+"pt": "Melões, casaba, crus"
+},
+"7994": {
+"it": "Meloni, honeydew (melone invernale), crudi",
+"fr": "Melons, honeydew (melon miel), crus",
+"es": "Melones, honeydew (melón verde), crudos",
+"de": "Melonen, Honigmelone, roh",
+"pt": "Melões, honeydew (melão verde), crus"
+},
+"7995": {
+"it": "Meringhe",
+"fr": "Meringues",
+"es": "Merengues",
+"de": "Baisers",
+"pt": "Merengues"
+},
+"7996": {
+"it": "Pizza messicana",
+"fr": "Pizza mexicaine",
+"es": "Pizza mexicana",
+"de": "Mexikanische Pizza",
+"pt": "Pizza mexicana"
+},
+"7997": {
+"it": "Michelada",
+"fr": "Michelada",
+"es": "Michelada",
+"de": "Michelada",
+"pt": "Michelada"
+},
+"7998": {
+"it": "Barretta Milk 'n Cereal",
+"fr": "Barre Milk 'n Cereal",
+"es": "Barrita Milk 'n Cereal",
+"de": "Milk 'n Cereal Riegel",
+"pt": "Barra Milk 'n Cereal"
+},
+"7999": {
+"it": "Barretta al latte e cereali",
+"fr": "Barre au lait et aux céréales",
+"es": "Barrita de leche y cereales",
+"de": "Milch-Getreide-Riegel",
+"pt": "Barra de leite e cereais"
+},
+"8000": {
+"it": "Barretta di dessert al latte, surgelata, preparata con latte parzialmente scremato",
+"fr": "Barre dessert lactée, surgelée, préparée avec du lait demi-écrémé",
+"es": "Barrita de postre lácteo, congelada, preparada con leche semidesnatada",
+"de": "Milchdessertriegel, tiefgekühlt, aus fettarmer Milch",
+"pt": "Barra de sobremesa láctea, congelada, preparada com leite com baixo teor de gordura"
+},
+"8001": {
+"it": "Dessert al latte, surgelato, senza grassi del latte, al cioccolato",
+"fr": "Dessert lacté, surgelé, sans matière grasse du lait, au chocolat",
+"es": "Postre lácteo, congelado, sin grasa láctea, de chocolate",
+"de": "Milchdessert, tiefgekühlt, milchfettfrei, Schokolade",
+"pt": "Sobremesa láctea, congelada, sem gordura do leite, de chocolate"
+},
+"8002": {
+"it": "Frappè al latte con malto",
+"fr": "Milk-shake au malt",
+"es": "Batido con malta",
+"de": "Milchshake mit Malz",
+"pt": "Milk-shake com malte"
+},
+"8003": {
+"it": "Frappè al latte, in bottiglia, al cioccolato",
+"fr": "Milk-shake, en bouteille, au chocolat",
+"es": "Batido, embotellado, de chocolate",
+"de": "Milchshake, in der Flasche, Schokolade",
+"pt": "Milk-shake, engarrafado, de chocolate"
+},
+"8004": {
+"it": "Frappè al latte, in bottiglia, gusti diversi dal cioccolato",
+"fr": "Milk-shake, en bouteille, parfums autres que chocolat",
+"es": "Batido, embotellado, sabores distintos del chocolate",
+"de": "Milchshake, in der Flasche, andere Sorten als Schokolade",
+"pt": "Milk-shake, engarrafado, sabores que não chocolate"
+},
+"8005": {
+"it": "Frappè al latte, fast food, al cioccolato",
+"fr": "Milk-shake, fast-food, au chocolat",
+"es": "Batido, comida rápida, de chocolate",
+"de": "Milchshake, Fast Food, Schokolade",
+"pt": "Milk-shake, fast food, de chocolate"
+},
+"8006": {
+"it": "Frappè al latte, fast food, gusti diversi dal cioccolato",
+"fr": "Milk-shake, fast-food, parfums autres que chocolat",
+"es": "Batido, comida rápida, sabores distintos del chocolate",
+"de": "Milchshake, Fast Food, andere Sorten als Schokolade",
+"pt": "Milk-shake, fast food, sabores que não chocolate"
+},
+"8007": {
+"it": "Frappè al latte, fatto in casa, al cioccolato",
+"fr": "Milk-shake, fait maison, au chocolat",
+"es": "Batido, casero, de chocolate",
+"de": "Milchshake, hausgemacht, Schokolade",
+"pt": "Milk-shake, caseiro, de chocolate"
+},
+"8008": {
+"it": "Frappè al latte, fatto in casa, al cioccolato, light",
+"fr": "Milk-shake, fait maison, au chocolat, allégé",
+"es": "Batido, casero, de chocolate, ligero",
+"de": "Milchshake, hausgemacht, Schokolade, leicht",
+"pt": "Milk-shake, caseiro, de chocolate, light"
+},
+"8009": {
+"it": "Frappè al latte, fatto in casa, gusti diversi dal cioccolato",
+"fr": "Milk-shake, fait maison, parfums autres que chocolat",
+"es": "Batido, casero, sabores distintos del chocolate",
+"de": "Milchshake, hausgemacht, andere Sorten als Schokolade",
+"pt": "Milk-shake, caseiro, sabores que não chocolate"
+},
+"8010": {
+"it": "Frappè al latte, fatto in casa, gusti diversi dal cioccolato, light",
+"fr": "Milk-shake, fait maison, parfums autres que chocolat, allégé",
+"es": "Batido, casero, sabores distintos del chocolate, ligero",
+"de": "Milchshake, hausgemacht, andere Sorten als Schokolade, leicht",
+"pt": "Milk-shake, caseiro, sabores que não chocolate, light"
+},
+"8011": {
+"it": "Frappè al latte, densi, al cioccolato",
+"fr": "Milk-shakes, épais, au chocolat",
+"es": "Batidos, espesos, de chocolate",
+"de": "Milchshakes, dickflüssig, Schokolade",
+"pt": "Milk-shakes, cremosos, de chocolate"
+},
+"8012": {
+"it": "Frappè al latte, densi, alla vaniglia",
+"fr": "Milk-shakes, épais, à la vanille",
+"es": "Batidos, espesos, de vainilla",
+"de": "Milchshakes, dickflüssig, Vanille",
+"pt": "Milk-shakes, cremosos, de baunilha"
+},
+"8013": {
+"it": "Sostituti del latte, liquidi, con olio di acido laurico",
+"fr": "Substituts de lait, liquides, avec huile à acide laurique",
+"es": "Sustitutos de la leche, líquidos, con aceite de ácido láurico",
+"de": "Milchersatz, flüssig, mit Laurinsäureöl",
+"pt": "Substitutos do leite, líquidos, com óleo de ácido láurico"
+},
+"8014": {
+"it": "Latte, latticello, in polvere",
+"fr": "Lait, babeurre, en poudre",
+"es": "Leche, suero de mantequilla, en polvo",
+"de": "Milch, Buttermilch, getrocknet",
+"pt": "Leite, leitelho, em pó"
+},
+"8015": {
+"it": "Latte, latticello, liquido, fermentato, a basso contenuto di grassi",
+"fr": "Lait, babeurre, liquide, fermenté, pauvre en matières grasses",
+"es": "Leche, suero de mantequilla, líquido, fermentado, bajo en grasa",
+"de": "Milch, Buttermilch, flüssig, kulturgereift, fettarm",
+"pt": "Leite, leitelho, líquido, fermentado, com baixo teor de gordura"
+},
+"8016": {
+"it": "Latte, latticello, liquido, fermentato, a ridotto contenuto di grassi",
+"fr": "Lait, babeurre, liquide, fermenté, allégé en matières grasses",
+"es": "Leche, suero de mantequilla, líquido, fermentado, reducido en grasa",
+"de": "Milch, Buttermilch, flüssig, kulturgereift, fettreduziert",
+"pt": "Leite, leitelho, líquido, fermentado, com teor reduzido de gordura"
+},
+"8017": {
+"it": "Latte, latticello, liquido, intero",
+"fr": "Lait, babeurre, liquide, entier",
+"es": "Leche, suero de mantequilla, líquido, entero",
+"de": "Milch, Buttermilch, flüssig, Voll-",
+"pt": "Leite, leitelho, líquido, integral"
+},
+"8018": {
+"it": "Latte, in scatola, condensato, zuccherato",
+"fr": "Lait, en conserve, concentré, sucré",
+"es": "Leche, en conserva, condensada, azucarada",
+"de": "Milch, aus der Dose, kondensiert, gezuckert",
+"pt": "Leite, enlatado, condensado, adoçado"
+},
+"8019": {
+"it": "Latte, in scatola, evaporato, senza grassi, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, en conserve, évaporé, sans matières grasses, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, en conserva, evaporada, sin grasa, con vitamina A y vitamina D añadidas",
+"de": "Milch, aus der Dose, eingedampft, fettfrei, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, enlatado, evaporado, sem gordura, com vitamina A e vitamina D adicionadas"
+},
+"8020": {
+"it": "Latte, in scatola, evaporato, con vitamina A aggiunta",
+"fr": "Lait, en conserve, évaporé, avec vitamine A ajoutée",
+"es": "Leche, en conserva, evaporada, con vitamina A añadida",
+"de": "Milch, aus der Dose, eingedampft, mit Zusatz von Vitamin A",
+"pt": "Leite, enlatado, evaporado, com vitamina A adicionada"
+},
+"8021": {
+"it": "Latte, in scatola, evaporato, con vitamina D aggiunta e senza vitamina A aggiunta",
+"fr": "Lait, en conserve, évaporé, avec vitamine D ajoutée et sans vitamine A ajoutée",
+"es": "Leche, en conserva, evaporada, con vitamina D añadida y sin vitamina A añadida",
+"de": "Milch, aus der Dose, eingedampft, mit Zusatz von Vitamin D und ohne Zusatz von Vitamin A",
+"pt": "Leite, enlatado, evaporado, com vitamina D adicionada e sem vitamina A adicionada"
+},
+"8022": {
+"it": "Latte, bevanda al cioccolato, cioccolata calda, fatta in casa",
+"fr": "Lait, boisson au chocolat, chocolat chaud, fait maison",
+"es": "Leche, bebida de chocolate, chocolate caliente, casero",
+"de": "Milch, Schokoladengetränk, heiße Schokolade, hausgemacht",
+"pt": "Leite, bebida de chocolate, chocolate quente, caseiro"
+},
+"8023": {
+"it": "Latte, al cioccolato, senza grassi, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, au chocolat, sans matières grasses, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, de chocolate, sin grasa, con vitamina A y vitamina D añadidas",
+"de": "Milch, Schokolade, fettfrei, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, de chocolate, sem gordura, com vitamina A e vitamina D adicionadas"
+},
+"8024": {
+"it": "Latte, al cioccolato, liquido, di produzione industriale, a ridotto contenuto di grassi, con calcio aggiunto",
+"fr": "Lait, au chocolat, liquide, préparé industriellement, allégé en matières grasses, avec calcium ajouté",
+"es": "Leche, de chocolate, líquida, de preparación industrial, reducida en grasa, con calcio añadido",
+"de": "Milch, Schokolade, flüssig, handelsüblich zubereitet, fettreduziert, mit Zusatz von Calcium",
+"pt": "Leite, de chocolate, líquido, industrializado, com teor reduzido de gordura, com cálcio adicionado"
+},
+"8025": {
+"it": "Latte, al cioccolato, liquido, di produzione industriale, a ridotto contenuto di grassi, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, au chocolat, liquide, préparé industriellement, allégé en matières grasses, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, de chocolate, líquida, de preparación industrial, reducida en grasa, con vitamina A y vitamina D añadidas",
+"de": "Milch, Schokolade, flüssig, handelsüblich zubereitet, fettreduziert, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, de chocolate, líquido, industrializado, com teor reduzido de gordura, com vitamina A e vitamina D adicionadas"
+},
+"8026": {
+"it": "Latte, al cioccolato, liquido, di produzione industriale, intero, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, au chocolat, liquide, préparé industriellement, entier, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, de chocolate, líquida, de preparación industrial, entera, con vitamina A y vitamina D añadidas",
+"de": "Milch, Schokolade, flüssig, handelsüblich zubereitet, Voll-, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, de chocolate, líquido, industrializado, integral, com vitamina A e vitamina D adicionadas"
+},
+"8027": {
+"it": "Latte, al cioccolato, a basso contenuto di grassi, a zuccheri ridotti",
+"fr": "Lait, au chocolat, pauvre en matières grasses, à teneur réduite en sucres",
+"es": "Leche, de chocolate, baja en grasa, reducida en azúcar",
+"de": "Milch, Schokolade, fettarm, zuckerreduziert",
+"pt": "Leite, de chocolate, com baixo teor de gordura, com açúcar reduzido"
+},
+"8028": {
+"it": "Latte, al cioccolato, a basso contenuto di grassi, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, au chocolat, pauvre en matières grasses, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, de chocolate, baja en grasa, con vitamina A y vitamina D añadidas",
+"de": "Milch, Schokolade, fettarm, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, de chocolate, com baixo teor de gordura, com vitamina A e vitamina D adicionadas"
+},
+"8029": {
+"it": "Latte, condensato, zuccherato",
+"fr": "Lait, concentré, sucré",
+"es": "Leche, condensada, azucarada",
+"de": "Milch, kondensiert, gezuckert",
+"pt": "Leite, condensado, adoçado"
+},
+"8030": {
+"it": "Latte, in polvere, scremato, a calcio ridotto",
+"fr": "Lait, en poudre, écrémé, à teneur réduite en calcium",
+"es": "Leche, en polvo, desnatada, reducida en calcio",
+"de": "Milch, Pulver, entrahmt, calciumreduziert",
+"pt": "Leite, em pó, desnatado, com cálcio reduzido"
+},
+"8031": {
+"it": "Latte, in polvere, scremato, istantaneo, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, en poudre, écrémé, instantané, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, en polvo, desnatada, instantánea, con vitamina A y vitamina D añadidas",
+"de": "Milch, Pulver, entrahmt, Instant-, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, em pó, desnatado, instantâneo, com vitamina A e vitamina D adicionadas"
+},
+"8032": {
+"it": "Latte, in polvere, scremato, istantaneo, senza vitamina A e vitamina D aggiunte",
+"fr": "Lait, en poudre, écrémé, instantané, sans vitamine A ni vitamine D ajoutées",
+"es": "Leche, en polvo, desnatada, instantánea, sin vitamina A ni vitamina D añadidas",
+"de": "Milch, Pulver, entrahmt, Instant-, ohne Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, em pó, desnatado, instantâneo, sem vitamina A e vitamina D adicionadas"
+},
+"8033": {
+"it": "Latte, in polvere, scremato, normale, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, en poudre, écrémé, ordinaire, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, en polvo, desnatada, normal, con vitamina A y vitamina D añadidas",
+"de": "Milch, Pulver, entrahmt, normal, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, em pó, desnatado, comum, com vitamina A e vitamina D adicionadas"
+},
+"8034": {
+"it": "Latte, in polvere, scremato, normale, senza vitamina A e vitamina D aggiunte",
+"fr": "Lait, en poudre, écrémé, ordinaire, sans vitamine A ni vitamine D ajoutées",
+"es": "Leche, en polvo, desnatada, normal, sin vitamina A ni vitamina D añadidas",
+"de": "Milch, Pulver, entrahmt, normal, ohne Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, em pó, desnatado, comum, sem vitamina A e vitamina D adicionadas"
+},
+"8035": {
+"it": "Latte, in polvere, non ricostituito",
+"fr": "Lait, en poudre, non reconstitué",
+"es": "Leche, en polvo, sin reconstituir",
+"de": "Milch, Pulver, nicht rückverdünnt",
+"pt": "Leite, em pó, não reconstituído"
+},
+"8036": {
+"it": "Latte, in polvere, ricostituito, scremato",
+"fr": "Lait, en poudre, reconstitué, écrémé",
+"es": "Leche, en polvo, reconstituida, desnatada",
+"de": "Milch, Pulver, rückverdünnt, entrahmt",
+"pt": "Leite, em pó, reconstituído, desnatado"
+},
+"8037": {
+"it": "Latte, in polvere, ricostituito, intero",
+"fr": "Lait, en poudre, reconstitué, entier",
+"es": "Leche, en polvo, reconstituida, entera",
+"de": "Milch, Pulver, rückverdünnt, Voll-",
+"pt": "Leite, em pó, reconstituído, integral"
+},
+"8038": {
+"it": "Latte, in polvere, intero, con vitamina D aggiunta",
+"fr": "Lait, en poudre, entier, avec vitamine D ajoutée",
+"es": "Leche, en polvo, entera, con vitamina D añadida",
+"de": "Milch, Pulver, Voll-, mit Zusatz von Vitamin D",
+"pt": "Leite, em pó, integral, com vitamina D adicionada"
+},
+"8039": {
+"it": "Latte, in polvere, intero, senza vitamina D aggiunta",
+"fr": "Lait, en poudre, entier, sans vitamine D ajoutée",
+"es": "Leche, en polvo, entera, sin vitamina D añadida",
+"de": "Milch, Pulver, Voll-, ohne Zusatz von Vitamin D",
+"pt": "Leite, em pó, integral, sem vitamina D adicionada"
+},
+"8040": {
+"it": "Latte, evaporato, al 2% di grassi, con vitamina A e vitamina D aggiunte",
+"fr": "Lait, évaporé, à 2% de matières grasses, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, evaporada, al 2% de grasa, con vitamina A y vitamina D añadidas",
+"de": "Milch, eingedampft, 2% Fett, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, evaporado, a 2% de gordura, com vitamina A e vitamina D adicionadas"
+},
+"8041": {
+"it": "Latte, evaporato, senza grassi (scremato)",
+"fr": "Lait, évaporé, sans matières grasses (écrémé)",
+"es": "Leche, evaporada, sin grasa (desnatada)",
+"de": "Milch, eingedampft, fettfrei (entrahmt)",
+"pt": "Leite, evaporado, sem gordura (desnatado)"
+},
+"8042": {
+"it": "Latte, evaporato, non specificato il contenuto di grassi",
+"fr": "Lait, évaporé, teneur en matières grasses non précisée",
+"es": "Leche, evaporada, sin especificar el contenido de grasa",
+"de": "Milch, eingedampft, Fettgehalt nicht angegeben",
+"pt": "Leite, evaporado, teor de gordura não especificado"
+},
+"8043": {
+"it": "Latte, evaporato, a ridotto contenuto di grassi (2%)",
+"fr": "Lait, évaporé, allégé en matières grasses (2%)",
+"es": "Leche, evaporada, reducida en grasa (2%)",
+"de": "Milch, eingedampft, fettreduziert (2%)",
+"pt": "Leite, evaporado, com teor reduzido de gordura (2%)"
+},
+"8044": {
+"it": "Latte, evaporato, intero",
+"fr": "Lait, évaporé, entier",
+"es": "Leche, evaporada, entera",
+"de": "Milch, eingedampft, Voll-",
+"pt": "Leite, evaporado, integral"
+},
+"8045": {
+"it": "Latte, senza grassi (scremato)",
+"fr": "Lait, sans matières grasses (écrémé)",
+"es": "Leche, sin grasa (desnatada)",
+"de": "Milch, fettfrei (entrahmt)",
+"pt": "Leite, sem gordura (desnatado)"
+}
+}

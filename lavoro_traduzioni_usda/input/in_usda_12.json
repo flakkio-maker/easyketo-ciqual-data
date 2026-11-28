@@ -1,0 +1,1790 @@
+[
+{
+"id": "3278",
+"en": "Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3279",
+"en": "Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3280",
+"en": "Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3281",
+"en": "Cereals ready-to-eat, POST Raisin Bran Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3282",
+"en": "Cereals ready-to-eat, POST SELECTS Blueberry Morning",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3283",
+"en": "Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3284",
+"en": "Cereals ready-to-eat, POST, ALPHA-BITS",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3285",
+"en": "Cereals ready-to-eat, POST, COCOA PEBBLES",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3286",
+"en": "Cereals ready-to-eat, POST, FRUITY PEBBLES",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3287",
+"en": "Cereals ready-to-eat, POST, GOLDEN CRISP",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3288",
+"en": "Cereals ready-to-eat, POST, GRAPE-NUTS Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3289",
+"en": "Cereals ready-to-eat, POST, GRAPE-NUTS Flakes",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3290",
+"en": "Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3291",
+"en": "Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3292",
+"en": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3293",
+"en": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3294",
+"en": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, pecan bunches",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3295",
+"en": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with almonds",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3296",
+"en": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with real strawberries",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3297",
+"en": "Cereals ready-to-eat, POST, Honey Nut Shredded Wheat",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3298",
+"en": "Cereals ready-to-eat, POST, Honeycomb Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3299",
+"en": "Cereals ready-to-eat, POST, Shredded Wheat n' Bran, spoon-size",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3300",
+"en": "Cereals ready-to-eat, POST, Shredded Wheat, lightly frosted, spoon-size",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3301",
+"en": "Cereals ready-to-eat, POST, Shredded Wheat, original big biscuit",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3302",
+"en": "Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3303",
+"en": "Cereals ready-to-eat, Post, Waffle Crisp",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3304",
+"en": "Cereals ready-to-eat, QUAKER Oatmeal Squares, Golden Maple",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3305",
+"en": "Cereals ready-to-eat, QUAKER WHOLE HEARTS oat cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3306",
+"en": "Cereals ready-to-eat, QUAKER, 100% Natural Granola, Oats, Wheat and Honey",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3307",
+"en": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3308",
+"en": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH with CRUNCHBERRIES",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3309",
+"en": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S Halloween Crunch",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3310",
+"en": "Cereals ready-to-eat, QUAKER, Cap'n Crunch's OOPS! All Berries Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3311",
+"en": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3312",
+"en": "Cereals ready-to-eat, QUAKER, Christmas Crunch",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3313",
+"en": "Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3314",
+"en": "Cereals ready-to-eat, QUAKER, KING VITAMAN",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3315",
+"en": "Cereals ready-to-eat, QUAKER, Low Fat 100% Natural Granola with Raisins",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3316",
+"en": "Cereals ready-to-eat, QUAKER, Maple Brown Sugar LIFE Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3317",
+"en": "Cereals ready-to-eat, QUAKER, MOTHER'S Cinnamon Oat Crunch",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3318",
+"en": "Cereals ready-to-eat, QUAKER, MOTHER'S COCOA BUMPERS",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3319",
+"en": "Cereals ready-to-eat, QUAKER, MOTHER'S GRAHAM BUMPERS",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3320",
+"en": "Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3321",
+"en": "Cereals ready-to-eat, QUAKER, MOTHER'S Toasted Oat Bran cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3322",
+"en": "Cereals ready-to-eat, QUAKER, Natural Granola Apple Cranberry Almond",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3323",
+"en": "Cereals ready-to-eat, QUAKER, Oatmeal Squares",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3324",
+"en": "Cereals ready-to-eat, QUAKER, Oatmeal Squares, cinnamon",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3325",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Granola with Oats, Wheat, Honey, and Raisins",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3326",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3327",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER Honey Graham LIFE Cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3328",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER OAT CINNAMON LIFE",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3329",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3330",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3331",
+"en": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3332",
+"en": "Cereals ready-to-eat, QUAKER, Shredded Wheat, bagged cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3333",
+"en": "Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3334",
+"en": "Cereals ready-to-eat, QUAKER, Toasted Multigrain Crisps",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3335",
+"en": "Cereals ready-to-eat, RALSTON Corn Biscuits",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3336",
+"en": "Cereals ready-to-eat, RALSTON Corn Flakes",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3337",
+"en": "Cereals ready-to-eat, RALSTON CRISP RICE",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3338",
+"en": "Cereals ready-to-eat, RALSTON Crispy Hexagons",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3339",
+"en": "Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3340",
+"en": "Cereals ready-to-eat, RALSTON TASTEEOS",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3341",
+"en": "Cereals ready-to-eat, rice, puffed, fortified",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3342",
+"en": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Honey Crunch Wheat Germ",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3343",
+"en": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3344",
+"en": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Wheat Germ, Regular",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3345",
+"en": "Cereals ready-to-eat, UNCLE SAM CEREAL",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3346",
+"en": "Cereals ready-to-eat, WEETABIX whole grain cereal",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3347",
+"en": "Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3348",
+"en": "Cereals ready-to-eat, wheat germ, toasted, plain",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3349",
+"en": "Cereals ready-to-eat, wheat, puffed, fortified",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3350",
+"en": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3351",
+"en": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3352",
+"en": "Cereals, corn grits, white, regular and quick, enriched, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3353",
+"en": "Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3354",
+"en": "Cereals, corn grits, yellow, regular and quick, unenriched, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3355",
+"en": "Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3356",
+"en": "Cereals, CREAM OF RICE, cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3357",
+"en": "Cereals, CREAM OF RICE, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3358",
+"en": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3359",
+"en": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, stove-top, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3360",
+"en": "Cereals, CREAM OF WHEAT, 1 minute cook time, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3361",
+"en": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, microwaved, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3362",
+"en": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, stove-top, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3363",
+"en": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3364",
+"en": "Cereals, CREAM OF WHEAT, instant, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3365",
+"en": "Cereals, CREAM OF WHEAT, instant, prepared with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3366",
+"en": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3367",
+"en": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3368",
+"en": "Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3369",
+"en": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3370",
+"en": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3371",
+"en": "Cereals, farina, enriched, cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3372",
+"en": "Cereals, farina, unenriched, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3373",
+"en": "Cereals, MALT-O-MEAL, chocolate, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3374",
+"en": "Cereals, MALT-O-MEAL, chocolate, prepared with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3375",
+"en": "Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3376",
+"en": "Cereals, MALT-O-MEAL, Maple & Brown Sugar Hot Wheat Cereal, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3377",
+"en": "Cereals, MALT-O-MEAL, original, plain, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3378",
+"en": "Cereals, MALT-O-MEAL, original, plain, prepared with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3379",
+"en": "Cereals, Oat Bran, QUAKER, QUAKER/MOTHER'S Oat Bran, prepared with water, salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3380",
+"en": "Cereals, oats, instant, fortified, maple and brown sugar, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3381",
+"en": "Cereals, oats, instant, fortified, plain, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3382",
+"en": "Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3383",
+"en": "Cereals, oats, instant, fortified, with cinnamon and spice, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3384",
+"en": "Cereals, oats, instant, fortified, with cinnamon and spice, prepared with water",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3385",
+"en": "Cereals, oats, instant, fortified, with raisins and spice, prepared with water",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3386",
+"en": "Cereals, oats, regular and quick and instant, unenriched, cooked with water (includes boiling and microwaving), with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3387",
+"en": "Cereals, oats, regular and quick, not fortified, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3388",
+"en": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3389",
+"en": "Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3390",
+"en": "Cereals, QUAKER, corn grits, instant, plain, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3391",
+"en": "Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3392",
+"en": "Cereals, QUAKER, hominy grits, white, quick, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3393",
+"en": "Cereals, QUAKER, hominy grits, white, regular, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3394",
+"en": "Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3395",
+"en": "Cereals, QUAKER, Instant Grits, Butter flavor, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3396",
+"en": "Cereals, QUAKER, Instant Grits, Country Bacon flavor, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3397",
+"en": "Cereals, QUAKER, Instant Grits, Ham 'n' Cheese flavor, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3398",
+"en": "Cereals, QUAKER, Instant Grits, Redeye Gravy & Country Ham flavor, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3399",
+"en": "Cereals, QUAKER, Instant Oatmeal Organic, Regular",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3400",
+"en": "Cereals, QUAKER, Instant Oatmeal, Apple and Cinnamon, reduced sugar",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3401",
+"en": "Cereals, QUAKER, Instant Oatmeal, apples and cinnamon, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3402",
+"en": "Cereals, QUAKER, Instant Oatmeal, Banana Bread, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3403",
+"en": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, reduced sugar",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3404",
+"en": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Swirl, high fiber",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3405",
+"en": "Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3406",
+"en": "Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGGS, Brown Sugar, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3407",
+"en": "Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3408",
+"en": "Cereals, QUAKER, Instant Oatmeal, fruit and cream, variety of flavors, reduced sugar",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3409",
+"en": "Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3410",
+"en": "Cereals, QUAKER, Instant Oatmeal, Raisin and Spice, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3411",
+"en": "Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3412",
+"en": "Cereals, QUAKER, Instant Oatmeal, weight control, cinnamon",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3413",
+"en": "Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3414",
+"en": "Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, prepared with water, no salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3415",
+"en": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, apple walnut, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3416",
+"en": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, blueberry hazelnut, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3417",
+"en": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, cherry pistachio, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3418",
+"en": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, peach almond, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3419",
+"en": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, summer berry, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3420",
+"en": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3421",
+"en": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, no salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3422",
+"en": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3423",
+"en": "Cereals, QUAKER, Quick Oats with Iron, Dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3424",
+"en": "Cereals, QUAKER, Quick Oats, Dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3425",
+"en": "Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3426",
+"en": "Cereals, QUAKER, Weight Control Instant Oatmeal, maple and brown sugar",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3427",
+"en": "Cereals, QUAKER, Whole Wheat Natural Cereal, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3428",
+"en": "Cereals, ready-to-eat, MALT-O-MEAL, Blueberry Mini SPOONERS",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3429",
+"en": "Cereals, WHEATENA, cooked with water",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3430",
+"en": "Cereals, WHEATENA, cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3431",
+"en": "Cereals, WHEATENA, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3432",
+"en": "Cereals, whole wheat hot natural cereal, cooked with water, with salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3433",
+"en": "Cereals, whole wheat hot natural cereal, cooked with water, without salt",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3434",
+"en": "Cereals, whole wheat hot natural cereal, dry",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "3435",
+"en": "Ceviche",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3436",
+"en": "Champagne punch",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3437",
+"en": "Channa Saag",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3438",
+"en": "Chard, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3439",
+"en": "Chard, raw",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3440",
+"en": "Chard, swiss, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3441",
+"en": "Chard, swiss, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3442",
+"en": "Chard, swiss, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3443",
+"en": "Chayote, fruit, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3444",
+"en": "Chayote, fruit, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3445",
+"en": "Chayote, fruit, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3446",
+"en": "Cheese and Queso as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3447",
+"en": "Cheese as ingredient in sandwiches",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3448",
+"en": "Cheese ball",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3449",
+"en": "Cheese dip",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3450",
+"en": "Cheese dip with chili pepper",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3451",
+"en": "Cheese flavored corn snacks",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3452",
+"en": "Cheese flavored corn snacks (Cheetos)",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3453",
+"en": "Cheese flavored corn snacks, reduced fat",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3454",
+"en": "Cheese fondue",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3455",
+"en": "Cheese food, cold pack, American",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3456",
+"en": "Cheese food, pasteurized process, American, vitamin D fortified",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3457",
+"en": "Cheese food, pasteurized process, American, without added vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3458",
+"en": "Cheese food, pasteurized process, swiss",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3459",
+"en": "Cheese pastry puffs",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3460",
+"en": "Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3461",
+"en": "Cheese product, pasteurized process, American, vitamin D fortified",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3462",
+"en": "Cheese puffs and twists, corn based, baked, low fat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "3463",
+"en": "Cheese quiche, meatless",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3464",
+"en": "Cheese sandwich, American cheese, on wheat bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3465",
+"en": "Cheese sandwich, American cheese, on white bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3466",
+"en": "Cheese sandwich, cheddar cheese, on wheat bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3467",
+"en": "Cheese sandwich, cheddar cheese, on white bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3468",
+"en": "Cheese sandwich, NFS",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3469",
+"en": "Cheese sandwich, reduced fat cheese, on wheat bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3470",
+"en": "Cheese sandwich, reduced fat cheese, on white bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3471",
+"en": "Cheese sauce",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3472",
+"en": "Cheese sauce, for use with vegetables",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3473",
+"en": "Cheese sauce, prepared from recipe",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3474",
+"en": "Cheese souffle",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3475",
+"en": "Cheese spread, American or Cheddar cheese base",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3476",
+"en": "Cheese spread, American or Cheddar cheese base, reduced fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3477",
+"en": "Cheese spread, cream cheese",
+"categoria": "Cream cheese, sour cream, whipped cream",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3478",
+"en": "Cheese spread, cream cheese base",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3479",
+"en": "Cheese spread, pasteurized process, American",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3480",
+"en": "Cheese spread, pressurized can",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3481",
+"en": "Cheese spread, Swiss cheese base",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3482",
+"en": "Cheese steak sandwich or sub on wheat",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3483",
+"en": "Cheese steak sandwich or sub on white",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3484",
+"en": "Cheese substitute, mozzarella",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3485",
+"en": "Cheese, American",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3486",
+"en": "Cheese, American and Swiss blends",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3487",
+"en": "Cheese, american cheddar, imitation",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3488",
+"en": "Cheese, American, nonfat or fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3489",
+"en": "Cheese, American, reduced fat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3490",
+"en": "Cheese, American, reduced sodium",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3491",
+"en": "Cheese, American, restaurant",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3492",
+"en": "Cheese, blue",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3493",
+"en": "Cheese, Blue or Roquefort",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3494",
+"en": "Cheese, brick",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3495",
+"en": "Cheese, brie",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3496",
+"en": "Cheese, camembert",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3497",
+"en": "Cheese, caraway",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3498",
+"en": "Cheese, cheddar",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3499",
+"en": "Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3500",
+"en": "Cheese, cheddar, nonfat or fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3501",
+"en": "Cheese, Cheddar, reduced fat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3502",
+"en": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3503",
+"en": "Cheese, Cheddar, reduced sodium",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3504",
+"en": "Cheese, cheddar, sharp, sliced",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3505",
+"en": "Cheese, cheshire",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3506",
+"en": "Cheese, colby",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3507",
+"en": "Cheese, Colby Jack",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3508",
+"en": "Cheese, cotija, solid",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3509",
+"en": "Cheese, cottage cheese, with gelatin dessert",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3510",
+"en": "Cheese, cottage cheese, with gelatin dessert and fruit",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3511",
+"en": "Cheese, cottage cheese, with gelatin dessert and vegetables",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3512",
+"en": "Cheese, cottage, creamed, large or small curd",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3513",
+"en": "Cheese, cottage, creamed, with fruit",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3514",
+"en": "Cheese, cottage, dry curd",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3515",
+"en": "Cheese, cottage, low fat",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3516",
+"en": "Cheese, cottage, lowfat, 1% milkfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3517",
+"en": "Cheese, cottage, lowfat, 1% milkfat, lactose reduced",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3518",
+"en": "Cheese, cottage, lowfat, 1% milkfat, no sodium added",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3519",
+"en": "Cheese, cottage, lowfat, 1% milkfat, with vegetables",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3520",
+"en": "Cheese, cottage, lowfat, 2% milkfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3521",
+"en": "Cheese, cottage, lowfat, lactose reduced",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3522",
+"en": "Cheese, cottage, lowfat, low sodium",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3523",
+"en": "Cheese, cottage, lowfat, with fruit",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3524",
+"en": "Cheese, cottage, NFS",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3525",
+"en": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3526",
+"en": "Cheese, cottage, salted, dry curd",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3527",
+"en": "Cheese, cottage, with fruit",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3528",
+"en": "Cheese, cottage, with vegetables",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3529",
+"en": "Cheese, cream",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3530",
+"en": "Cheese, cream, fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3531",
+"en": "Cheese, cream, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3532",
+"en": "Cheese, dry white, queso seco",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3533",
+"en": "Cheese, edam",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3534",
+"en": "Cheese, feta",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3535",
+"en": "Cheese, feta, whole milk, crumbled",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3536",
+"en": "Cheese, fontina",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3537",
+"en": "Cheese, fresh, queso fresco",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3538",
+"en": "Cheese, gjetost",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3539",
+"en": "Cheese, goat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3540",
+"en": "Cheese, goat, hard type",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3541",
+"en": "Cheese, goat, semisoft type",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3542",
+"en": "Cheese, goat, soft type",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3543",
+"en": "Cheese, gouda",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3544",
+"en": "Cheese, Gouda or Edam",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3545",
+"en": "Cheese, gruyere",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3546",
+"en": "Cheese, limburger",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3547",
+"en": "Cheese, low fat, cheddar or colby",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3548",
+"en": "Cheese, low-sodium, cheddar or colby",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3549",
+"en": "Cheese, Mexican blend",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3550",
+"en": "Cheese, Mexican blend, reduced fat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3551",
+"en": "Cheese, Mexican, blend, reduced fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3552",
+"en": "Cheese, mexican, queso anejo",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3553",
+"en": "Cheese, mexican, queso asadero",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3554",
+"en": "Cheese, mexican, queso chihuahua",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3555",
+"en": "Cheese, mexican, queso cotija",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3556",
+"en": "Cheese, monterey",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3557",
+"en": "Cheese, monterey jack, solid",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3558",
+"en": "Cheese, monterey, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3559",
+"en": "Cheese, Monterey, reduced fat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3560",
+"en": "Cheese, mozzarella, low moisture, part-skim",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3561",
+"en": "Cheese, mozzarella, low moisture, part-skim, shredded",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3562",
+"en": "Cheese, mozzarella, low sodium",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3563",
+"en": "Cheese, Mozzarella, NFS",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3564",
+"en": "Cheese, mozzarella, nonfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3565",
+"en": "Cheese, Mozzarella, nonfat or fat free",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3566",
+"en": "Cheese, Mozzarella, part skim",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3567",
+"en": "Cheese, mozzarella, part skim milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3568",
+"en": "Cheese, Mozzarella, reduced sodium",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3569",
+"en": "Cheese, mozzarella, whole milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3570",
+"en": "Cheese, mozzarella, whole milk, low moisture",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3571",
+"en": "Cheese, muenster",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3572",
+"en": "Cheese, muenster, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3573",
+"en": "Cheese, Muenster, reduced fat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3574",
+"en": "Cheese, neufchatel",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3575",
+"en": "Cheese, NFS",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+}
+]

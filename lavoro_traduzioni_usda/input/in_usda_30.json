@@ -1,0 +1,1790 @@
+[
+{
+"id": "8642",
+"en": "Onion dip, regular",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8643",
+"en": "Onion dip, yogurt based",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8644",
+"en": "Onion flavored rings",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8645",
+"en": "Onion rings, breaded, par fried, frozen, prepared, heated in oven",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8646",
+"en": "Onion rings, breaded, par fried, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8647",
+"en": "Onions, canned, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8648",
+"en": "Onions, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8649",
+"en": "Onions, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8650",
+"en": "Onions, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8651",
+"en": "Onions, cooked, fat added",
+"categoria": "Onions",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8652",
+"en": "Onions, cooked, no added fat",
+"categoria": "Onions",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8653",
+"en": "Onions, dehydrated flakes",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8654",
+"en": "Onions, for use on a sandwich",
+"categoria": "Vegetables on a sandwich",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8655",
+"en": "Onions, frozen, chopped, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8656",
+"en": "Onions, frozen, chopped, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8657",
+"en": "Onions, frozen, chopped, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8658",
+"en": "Onions, frozen, whole, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8659",
+"en": "Onions, frozen, whole, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8660",
+"en": "Onions, frozen, whole, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8661",
+"en": "Onions, green, cooked",
+"categoria": "Onions",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8662",
+"en": "Onions, green, raw",
+"categoria": "Onions",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8663",
+"en": "Onions, pearl, cooked",
+"categoria": "Onions",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8664",
+"en": "Onions, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8665",
+"en": "Onions, red, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8666",
+"en": "Onions, spring or scallions (includes tops and bulb), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8667",
+"en": "Onions, sweet, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8668",
+"en": "Onions, welsh, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8669",
+"en": "Onions, white, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8670",
+"en": "Onions, yellow, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8671",
+"en": "Onions, yellow, sauteed",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8672",
+"en": "Onions, young green, tops only",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8673",
+"en": "Oopah (tunicate), whole animal (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8674",
+"en": "Opossum",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8675",
+"en": "Orange Blossom",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8676",
+"en": "Orange chicken",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8677",
+"en": "Orange juice beverage, 40-50% juice, light",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8678",
+"en": "Orange juice, 100%, canned, bottled or in a carton",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8679",
+"en": "Orange juice, 100%, freshly squeezed",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8680",
+"en": "Orange juice, 100%, frozen, not reconstituted",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8681",
+"en": "Orange juice, 100%, frozen, reconstituted",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8682",
+"en": "Orange juice, 100%, NFS",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8683",
+"en": "Orange juice, 100%, with calcium added, canned, bottled or in a carton",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8684",
+"en": "Orange juice, 100%, with calcium added, frozen, reconstituted",
+"categoria": "Citrus juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8685",
+"en": "Orange juice, canned, unsweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8686",
+"en": "Orange juice, chilled, includes from concentrate",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8687",
+"en": "Orange juice, chilled, includes from concentrate, with added calcium",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8688",
+"en": "Orange juice, chilled, includes from concentrate, with added calcium and vitamin D",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8689",
+"en": "Orange juice, chilled, includes from concentrate, with added calcium and vitamins A, D, E",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8690",
+"en": "Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8691",
+"en": "Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added calcium",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8692",
+"en": "Orange juice, frozen concentrate, unsweetened, undiluted",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8693",
+"en": "Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8694",
+"en": "Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "8695",
+"en": "Orange juice, no pulp, not fortified, not from concentrate, refrigerated",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "8696",
+"en": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8697",
+"en": "Orange peel, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8698",
+"en": "Orange Pineapple Juice Blend",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8699",
+"en": "Orange, canned, in syrup",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8700",
+"en": "Orange, canned, juice pack",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8701",
+"en": "Orange, canned, NFS",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8702",
+"en": "Orange, raw",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8703",
+"en": "Orange-grapefruit juice, canned or bottled, unsweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8704",
+"en": "Oranges, raw, all commercial varieties",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8705",
+"en": "Oranges, raw, California, valencias",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8706",
+"en": "Oranges, raw, Florida",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8707",
+"en": "Oranges, raw, navels",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "8708",
+"en": "Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8709",
+"en": "Oranges, raw, with peel",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8710",
+"en": "Oscar Mayer, Bologna (beef)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8711",
+"en": "Oscar Mayer, Braunschweiger Liver Sausage (sliced)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8712",
+"en": "Oscar Mayer, Chicken Breast (honey glazed)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8713",
+"en": "Oscar Mayer, Ham (chopped with natural juice)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8714",
+"en": "Oscar Mayer, Salami (hard)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8715",
+"en": "Oscar Mayer, Smokies Sausage Little Cheese (pork, turkey)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8716",
+"en": "Oscar Mayer, Wieners (beef franks)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "8717",
+"en": "Ostrich",
+"categoria": "Turkey, duck, other poultry",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8718",
+"en": "Ostrich, fan, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8719",
+"en": "Ostrich, ground, cooked, pan-broiled",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8720",
+"en": "Ostrich, ground, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8721",
+"en": "Ostrich, inside leg, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8722",
+"en": "Ostrich, inside leg, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8723",
+"en": "Ostrich, inside strip, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8724",
+"en": "Ostrich, inside strip, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8725",
+"en": "Ostrich, outside leg, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8726",
+"en": "Ostrich, outside strip, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8727",
+"en": "Ostrich, outside strip, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8728",
+"en": "Ostrich, oyster, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8729",
+"en": "Ostrich, oyster, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8730",
+"en": "Ostrich, round, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8731",
+"en": "Ostrich, tenderloin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8732",
+"en": "Ostrich, tip trimmed, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8733",
+"en": "Ostrich, tip trimmed, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8734",
+"en": "Ostrich, top loin, cooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8735",
+"en": "Ostrich, top loin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8736",
+"en": "Other vegetables as ingredient in omelet",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8737",
+"en": "Owl, horned, flesh, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8738",
+"en": "Oyster sauce",
+"categoria": "Soy-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8739",
+"en": "Oysters Rockefeller",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8740",
+"en": "Oysters, baked or broiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8741",
+"en": "Oysters, canned",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8742",
+"en": "Oysters, fried",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8743",
+"en": "Oysters, raw",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8744",
+"en": "Oysters, steamed",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8745",
+"en": "Pad Thai with chicken",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8746",
+"en": "Pad Thai with meat",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8747",
+"en": "Pad Thai with seafood",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8748",
+"en": "Pad Thai, meatless",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8749",
+"en": "Pad Thai, NFS",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8750",
+"en": "Paella with seafood",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8751",
+"en": "Paella, NFS",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8752",
+"en": "Pakora",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8753",
+"en": "Palak Paneer",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8754",
+"en": "Palm hearts, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8755",
+"en": "Pan Dulce, La Ricura, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8756",
+"en": "Pan dulce, NFS",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8757",
+"en": "Pan Dulce, no topping",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8758",
+"en": "Pan Dulce, with fruit, no frosting",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8759",
+"en": "Pan Dulce, with raisins and icing",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8760",
+"en": "Pan Dulce, with sugar topping",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8761",
+"en": "Pancake syrup",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8762",
+"en": "Pancake syrup, light",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8763",
+"en": "Pancakes and sausage, frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8764",
+"en": "Pancakes plain, frozen, ready-to-heat (includes buttermilk)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8765",
+"en": "Pancakes, blueberry, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8766",
+"en": "Pancakes, buckwheat, dry mix, incomplete",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8767",
+"en": "Pancakes, buttermilk, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8768",
+"en": "Pancakes, chocolate",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8769",
+"en": "Pancakes, chocolate, fast food / restaurant",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8770",
+"en": "Pancakes, chocolate, frozen",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8771",
+"en": "Pancakes, fruit",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8772",
+"en": "Pancakes, fruit, fast food / restaurant",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8773",
+"en": "Pancakes, fruit, frozen",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8774",
+"en": "Pancakes, gluten free",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8775",
+"en": "Pancakes, gluten-free, frozen, ready-to-heat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8776",
+"en": "Pancakes, NFS",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8777",
+"en": "Pancakes, plain",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8778",
+"en": "Pancakes, plain, dry mix, complete (includes buttermilk)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8779",
+"en": "Pancakes, plain, dry mix, complete, prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8780",
+"en": "Pancakes, plain, dry mix, incomplete (includes buttermilk)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8781",
+"en": "Pancakes, plain, dry mix, incomplete, prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8782",
+"en": "Pancakes, plain, fast food / restaurant",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8783",
+"en": "Pancakes, plain, frozen",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8784",
+"en": "Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8785",
+"en": "Pancakes, plain, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8786",
+"en": "Pancakes, plain, reduced fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8787",
+"en": "Pancakes, pumpkin",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8788",
+"en": "Pancakes, school",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8789",
+"en": "Pancakes, special dietary, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8790",
+"en": "Pancakes, whole grain",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8791",
+"en": "Pancakes, whole grain, fast food / restaurant",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8792",
+"en": "Pancakes, whole grain, frozen",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8793",
+"en": "Pancakes, whole grain, reduced fat",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8794",
+"en": "Pancakes, whole wheat, dry mix, incomplete",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8795",
+"en": "Pancakes, whole-wheat, dry mix, incomplete",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8796",
+"en": "Pancakes, whole-wheat, dry mix, incomplete, prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8797",
+"en": "Pannetone",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8798",
+"en": "PAPA JOHN'S 14\" Cheese Pizza, Original Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8799",
+"en": "PAPA JOHN'S 14\" Cheese Pizza, Thin Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8800",
+"en": "PAPA JOHN'S 14\" Pepperoni Pizza, Original Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8801",
+"en": "PAPA JOHN'S 14\" The Works Pizza, Original Crust",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "8802",
+"en": "Papad",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8803",
+"en": "Papad, grilled or broiled",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8804",
+"en": "Papaya juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8805",
+"en": "Papaya nectar",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8806",
+"en": "Papaya nectar, canned",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8807",
+"en": "Papaya, canned",
+"categoria": "Mango and papaya",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8808",
+"en": "Papaya, canned, heavy syrup, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8809",
+"en": "Papaya, dried",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8810",
+"en": "Papaya, raw",
+"categoria": "Mango and papaya",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8811",
+"en": "Papayas, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8812",
+"en": "Parmesan cheese topping, fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8813",
+"en": "Parsley, freeze-dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8814",
+"en": "Parsley, fresh",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8815",
+"en": "Parsley, raw",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8816",
+"en": "Parsnips, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8817",
+"en": "Parsnips, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8818",
+"en": "Parsnips, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "8819",
+"en": "Parsnips, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "8820",
+"en": "Passion fruit juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8821",
+"en": "Passion fruit nectar",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8822",
+"en": "Passion fruit, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8823",
+"en": "Passion-fruit juice, purple, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8824",
+"en": "Passion-fruit juice, yellow, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8825",
+"en": "Passion-fruit, (granadilla), purple, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "8826",
+"en": "Pasta mix, classic beef, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "8827",
+"en": "Pasta mix, classic cheeseburger macaroni, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "8828",
+"en": "Pasta mix, Italian four cheese lasagna, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "8829",
+"en": "Pasta mix, Italian lasagna, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "8830",
+"en": "Pasta with cream sauce and added vegetables, from home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8831",
+"en": "Pasta with cream sauce and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8832",
+"en": "Pasta with cream sauce and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8833",
+"en": "Pasta with cream sauce and meat, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8834",
+"en": "Pasta with cream sauce and meat, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8835",
+"en": "Pasta with cream sauce and meat, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8836",
+"en": "Pasta with cream sauce and poultry, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8837",
+"en": "Pasta with cream sauce and poultry, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8838",
+"en": "Pasta with cream sauce and poultry, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8839",
+"en": "Pasta with cream sauce and seafood, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8840",
+"en": "Pasta with cream sauce and seafood, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8841",
+"en": "Pasta with cream sauce and seafood, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8842",
+"en": "Pasta with cream sauce, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8843",
+"en": "Pasta with cream sauce, meat, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8844",
+"en": "Pasta with cream sauce, meat, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8845",
+"en": "Pasta with cream sauce, meat, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8846",
+"en": "Pasta with cream sauce, poultry, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8847",
+"en": "Pasta with cream sauce, poultry, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8848",
+"en": "Pasta with cream sauce, poultry, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8849",
+"en": "Pasta with cream sauce, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8850",
+"en": "Pasta with cream sauce, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8851",
+"en": "Pasta with cream sauce, seafood, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8852",
+"en": "Pasta with cream sauce, seafood, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8853",
+"en": "Pasta with cream sauce, seafood, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8854",
+"en": "Pasta with sauce and meat, from school lunch",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8855",
+"en": "Pasta with sauce, meatless, school lunch",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8856",
+"en": "Pasta with sauce, NFS",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8857",
+"en": "Pasta with Sliced Franks in Tomato Sauce, canned entree",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "8858",
+"en": "Pasta with tomato sauce, no meat, canned",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "8859",
+"en": "Pasta with tomato-based sauce and beans or lentils",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8860",
+"en": "Pasta with tomato-based sauce and cheese",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8861",
+"en": "Pasta with tomato-based sauce and meat, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8862",
+"en": "Pasta with tomato-based sauce and meat, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8863",
+"en": "Pasta with tomato-based sauce and meat, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8864",
+"en": "Pasta with tomato-based sauce and poultry, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8865",
+"en": "Pasta with tomato-based sauce and poultry, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8866",
+"en": "Pasta with tomato-based sauce and poultry, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8867",
+"en": "Pasta with tomato-based sauce and seafood, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8868",
+"en": "Pasta with tomato-based sauce and seafood, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8869",
+"en": "Pasta with tomato-based sauce and seafood, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8870",
+"en": "Pasta with tomato-based sauce, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8871",
+"en": "Pasta with tomato-based sauce, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8872",
+"en": "Pasta with tomato-based sauce, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8873",
+"en": "Pasta with tomato-based sauce, cheese and meat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8874",
+"en": "Pasta with tomato-based sauce, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8875",
+"en": "Pasta with tomato-based sauce, meat, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8876",
+"en": "Pasta with tomato-based sauce, meat, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8877",
+"en": "Pasta with tomato-based sauce, meat, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8878",
+"en": "Pasta with tomato-based sauce, poultry, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8879",
+"en": "Pasta with tomato-based sauce, poultry, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8880",
+"en": "Pasta with tomato-based sauce, poultry, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8881",
+"en": "Pasta with tomato-based sauce, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8882",
+"en": "Pasta with tomato-based sauce, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8883",
+"en": "Pasta with tomato-based sauce, seafood, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8884",
+"en": "Pasta with tomato-based sauce, seafood, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8885",
+"en": "Pasta with tomato-based sauce, seafood, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8886",
+"en": "Pasta with vegetables, no sauce or dressing",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8887",
+"en": "Pasta, cooked",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8888",
+"en": "Pasta, cooked, enriched, with added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8889",
+"en": "Pasta, cooked, enriched, without added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8890",
+"en": "Pasta, cooked, unenriched, with added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8891",
+"en": "Pasta, cooked, unenriched, without added salt",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8892",
+"en": "Pasta, dry, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8893",
+"en": "Pasta, dry, enriched, spaghetti",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8894",
+"en": "Pasta, dry, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8895",
+"en": "Pasta, dry, whole grain, spaghetti",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "8896",
+"en": "Pasta, fresh-refrigerated, plain, as purchased",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8897",
+"en": "Pasta, fresh-refrigerated, plain, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8898",
+"en": "Pasta, fresh-refrigerated, spinach, as purchased",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8899",
+"en": "Pasta, fresh-refrigerated, spinach, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8900",
+"en": "Pasta, gluten free",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8901",
+"en": "Pasta, gluten-free, brown rice flour, cooked, TINKYADA",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8902",
+"en": "Pasta, gluten-free, corn and rice flour, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8903",
+"en": "Pasta, gluten-free, corn flour and quinoa flour, cooked, ANCIENT HARVEST",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8904",
+"en": "Pasta, gluten-free, corn, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8905",
+"en": "Pasta, gluten-free, corn, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8906",
+"en": "Pasta, gluten-free, rice flour and rice bran extract, cooked, DE BOLES",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8907",
+"en": "Pasta, homemade, made with egg, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8908",
+"en": "Pasta, homemade, made without egg, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8909",
+"en": "Pasta, vegetable, cooked",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8910",
+"en": "Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8911",
+"en": "Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8912",
+"en": "Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8913",
+"en": "Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "8914",
+"en": "Pasta, whole grain, cooked",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8915",
+"en": "Pasta, whole grain, with cream sauce and meat, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8916",
+"en": "Pasta, whole grain, with cream sauce and meat, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8917",
+"en": "Pasta, whole grain, with cream sauce and meat, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8918",
+"en": "Pasta, whole grain, with cream sauce and poultry, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8919",
+"en": "Pasta, whole grain, with cream sauce and poultry, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8920",
+"en": "Pasta, whole grain, with cream sauce and poultry, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8921",
+"en": "Pasta, whole grain, with cream sauce and seafood, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8922",
+"en": "Pasta, whole grain, with cream sauce and seafood, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8923",
+"en": "Pasta, whole grain, with cream sauce and seafood, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8924",
+"en": "Pasta, whole grain, with cream sauce, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8925",
+"en": "Pasta, whole grain, with cream sauce, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8926",
+"en": "Pasta, whole grain, with cream sauce, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8927",
+"en": "Pasta, whole grain, with cream sauce, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8928",
+"en": "Pasta, whole grain, with cream sauce, meat, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8929",
+"en": "Pasta, whole grain, with cream sauce, meat, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8930",
+"en": "Pasta, whole grain, with cream sauce, meat, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8931",
+"en": "Pasta, whole grain, with cream sauce, poultry, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8932",
+"en": "Pasta, whole grain, with cream sauce, poultry, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8933",
+"en": "Pasta, whole grain, with cream sauce, poultry, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8934",
+"en": "Pasta, whole grain, with cream sauce, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8935",
+"en": "Pasta, whole grain, with cream sauce, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8936",
+"en": "Pasta, whole grain, with cream sauce, seafood, and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8937",
+"en": "Pasta, whole grain, with cream sauce, seafood, and added vegetables, ready-to-heat",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8938",
+"en": "Pasta, whole grain, with cream sauce, seafood, and added vegetables, restaurant",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8939",
+"en": "Pasta, whole grain, with tomato-based sauce and added vegetables, home recipe",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+}
+]

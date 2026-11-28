@@ -1,0 +1,1790 @@
+[
+{
+"id": "5960",
+"en": "Fish, salmon, coho, wild, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5961",
+"en": "Fish, salmon, coho, wild, cooked, moist heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5962",
+"en": "Fish, salmon, coho, wild, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5963",
+"en": "Fish, salmon, fried",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5964",
+"en": "Fish, salmon, grilled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5965",
+"en": "Fish, salmon, king (chinook), raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5966",
+"en": "Fish, salmon, king, chinook, kippered, canned (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5967",
+"en": "Fish, salmon, king, chinook, liver (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5968",
+"en": "Fish, salmon, king, chinook, smoked and canned (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5969",
+"en": "Fish, salmon, king, chinook, smoked, brined (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5970",
+"en": "Fish, salmon, king, with skin, kippered, (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5971",
+"en": "Fish, salmon, NFS",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5972",
+"en": "Fish, salmon, pink, canned, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5973",
+"en": "Fish, Salmon, pink, canned, drained solids, without skin and bones",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5974",
+"en": "Fish, salmon, pink, canned, total can contents",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5975",
+"en": "Fish, salmon, pink, canned, without salt, solids with bone and liquid",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5976",
+"en": "Fish, salmon, pink, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5977",
+"en": "Fish, salmon, pink, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5978",
+"en": "Fish, salmon, raw",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5979",
+"en": "Fish, salmon, red, (sockeye), canned, smoked (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5980",
+"en": "Fish, salmon, red, (sockeye), kippered (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5981",
+"en": "Fish, salmon, red, canned, bones removed (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5982",
+"en": "Fish, salmon, smoked",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5983",
+"en": "Fish, salmon, sockeye (red), raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5984",
+"en": "Fish, salmon, sockeye, canned, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5985",
+"en": "Fish, salmon, sockeye, canned, without salt, drained solids with bone",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5986",
+"en": "Fish, salmon, sockeye, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5987",
+"en": "Fish, salmon, sockeye, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5988",
+"en": "Fish, salmon, sockeye, wild caught, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "5989",
+"en": "Fish, salmon, steamed",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5990",
+"en": "Fish, salmon, tipnuk, fermented (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5991",
+"en": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5992",
+"en": "Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5993",
+"en": "Fish, sardines, canned",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "5994",
+"en": "Fish, scup, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5995",
+"en": "Fish, scup, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5996",
+"en": "Fish, sea bass, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5997",
+"en": "Fish, sea bass, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5998",
+"en": "Fish, seatrout, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "5999",
+"en": "Fish, seatrout, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6000",
+"en": "Fish, shad, american, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6001",
+"en": "Fish, shad, american, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6002",
+"en": "Fish, shark",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6003",
+"en": "Fish, shark, mixed species, cooked, batter-dipped and fried",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6004",
+"en": "Fish, shark, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6005",
+"en": "Fish, sheefish, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6006",
+"en": "Fish, sheepshead, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6007",
+"en": "Fish, sheepshead, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6008",
+"en": "Fish, smelt, rainbow, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6009",
+"en": "Fish, smelt, rainbow, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6010",
+"en": "Fish, smoked",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6011",
+"en": "Fish, snapper",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6012",
+"en": "Fish, snapper, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6013",
+"en": "Fish, snapper, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6014",
+"en": "Fish, spot, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6015",
+"en": "Fish, spot, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6016",
+"en": "Fish, stick",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6017",
+"en": "Fish, sturgeon, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6018",
+"en": "Fish, sturgeon, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6019",
+"en": "Fish, sturgeon, mixed species, smoked",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6020",
+"en": "Fish, sucker, white, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6021",
+"en": "Fish, sucker, white, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6022",
+"en": "Fish, sunfish, pumpkin seed, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6023",
+"en": "Fish, sunfish, pumpkin seed, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6024",
+"en": "Fish, surimi",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6025",
+"en": "Fish, swordfish",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6026",
+"en": "Fish, swordfish, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6027",
+"en": "Fish, swordfish, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6028",
+"en": "Fish, tilapia, baked or broiled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6029",
+"en": "Fish, tilapia, baked or broiled, coated",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6030",
+"en": "Fish, tilapia, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6031",
+"en": "Fish, tilapia, farm raised, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "6032",
+"en": "Fish, tilapia, fried",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6033",
+"en": "Fish, tilapia, grilled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6034",
+"en": "Fish, tilapia, NFS",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6035",
+"en": "Fish, tilapia, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6036",
+"en": "Fish, tilapia, steamed",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6037",
+"en": "Fish, tilefish, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6038",
+"en": "Fish, tilefish, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6039",
+"en": "Fish, tofu, and vegetables, tempura",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6040",
+"en": "Fish, trout, baked or broiled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6041",
+"en": "Fish, trout, baked or broiled, coated",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6042",
+"en": "Fish, trout, brook, raw, New York State",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6043",
+"en": "Fish, trout, fried",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6044",
+"en": "Fish, trout, grilled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6045",
+"en": "Fish, trout, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6046",
+"en": "Fish, trout, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6047",
+"en": "Fish, trout, NFS",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6048",
+"en": "Fish, trout, rainbow, farmed, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6049",
+"en": "Fish, trout, rainbow, farmed, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6050",
+"en": "Fish, trout, rainbow, wild, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6051",
+"en": "Fish, trout, rainbow, wild, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6052",
+"en": "Fish, trout, steamed",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6053",
+"en": "Fish, tuna salad",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6054",
+"en": "Fish, tuna, canned",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6055",
+"en": "Fish, tuna, cooked",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6056",
+"en": "Fish, tuna, fresh, bluefin, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6057",
+"en": "Fish, tuna, fresh, bluefin, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6058",
+"en": "Fish, tuna, fresh, skipjack, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6059",
+"en": "Fish, tuna, fresh, yellowfin, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6060",
+"en": "Fish, tuna, light, canned in oil, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6061",
+"en": "Fish, tuna, light, canned in oil, without salt, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6062",
+"en": "Fish, tuna, light, canned in water, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "6063",
+"en": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6064",
+"en": "Fish, tuna, light, canned in water, without salt, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6065",
+"en": "Fish, tuna, NFS",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6066",
+"en": "Fish, tuna, raw",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6067",
+"en": "Fish, tuna, skipjack, fresh, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6068",
+"en": "Fish, tuna, white, canned in oil, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6069",
+"en": "Fish, tuna, white, canned in oil, without salt, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6070",
+"en": "Fish, tuna, white, canned in water, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6071",
+"en": "Fish, tuna, white, canned in water, without salt, drained solids",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6072",
+"en": "Fish, tuna, yellowfin, fresh, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6073",
+"en": "Fish, turbot, european, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6074",
+"en": "Fish, turbot, european, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6075",
+"en": "Fish, white, mixed species, baked or broiled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6076",
+"en": "Fish, white, mixed species, baked or broiled, coated",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6077",
+"en": "Fish, white, mixed species, fried",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6078",
+"en": "Fish, white, mixed species, grilled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6079",
+"en": "Fish, white, mixed species, NFS",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6080",
+"en": "Fish, white, mixed species, steamed",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6081",
+"en": "Fish, whitefish, broad, head, eyes, cheeks and soft bones (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6082",
+"en": "Fish, whitefish, broad, liver (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6083",
+"en": "Fish, whitefish, dried (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6084",
+"en": "Fish, whitefish, eggs (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6085",
+"en": "Fish, whitefish, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6086",
+"en": "Fish, whitefish, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6087",
+"en": "Fish, whitefish, mixed species, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6088",
+"en": "Fish, whitefish, mixed species, smoked",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6089",
+"en": "Fish, whiting, baked or broiled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6090",
+"en": "Fish, whiting, baked or broiled, coated",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6091",
+"en": "Fish, whiting, fried",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6092",
+"en": "Fish, whiting, grilled",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6093",
+"en": "Fish, whiting, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6094",
+"en": "Fish, whiting, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6095",
+"en": "Fish, whiting, NFS",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6096",
+"en": "Fish, whiting, steamed",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6097",
+"en": "Fish, wolffish, Atlantic, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6098",
+"en": "Fish, wolffish, Atlantic, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6099",
+"en": "Fish, yellowtail, mixed species, cooked, dry heat",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6100",
+"en": "Fish, yellowtail, mixed species, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6101",
+"en": "Flan",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6102",
+"en": "Flan, caramel custard, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6103",
+"en": "Flan, caramel custard, dry mix, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6104",
+"en": "Flan, caramel custard, dry mix, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6105",
+"en": "Flavored pasta",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6106",
+"en": "Flavored rice and pasta mixture",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6107",
+"en": "Flavored rice and pasta mixture, reduced sodium",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6108",
+"en": "Flavored rice mixture",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6109",
+"en": "Flavored rice mixture with cheese",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6110",
+"en": "Flavored rice, brown and wild",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6111",
+"en": "Flax seeds",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6112",
+"en": "Flaxseed oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6113",
+"en": "Flaxseed, ground",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "6114",
+"en": "Flounder with crab stuffing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6115",
+"en": "Flour, 00",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6116",
+"en": "Flour, almond",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "6117",
+"en": "Flour, amaranth",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6118",
+"en": "Flour, barley",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6119",
+"en": "Flour, bread, white, enriched, unbleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6120",
+"en": "Flour, buckwheat",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6121",
+"en": "Flour, cassava",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "6122",
+"en": "Flour, chestnut",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "6123",
+"en": "Flour, coconut",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "6124",
+"en": "Flour, corn, yellow, fine meal, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6125",
+"en": "Flour, oat, whole grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6126",
+"en": "Flour, pastry, unenriched, unbleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6127",
+"en": "Flour, potato",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "6128",
+"en": "Flour, quinoa",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6129",
+"en": "Flour, rice, brown",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6130",
+"en": "Flour, rice, glutinous",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6131",
+"en": "Flour, rice, white, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6132",
+"en": "Flour, rye",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6133",
+"en": "Flour, semolina, coarse and semi-coarse",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6134",
+"en": "Flour, semolina, fine",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6135",
+"en": "Flour, sorghum",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6136",
+"en": "Flour, soy, defatted",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "6137",
+"en": "Flour, soy, full-fat",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "6138",
+"en": "Flour, spelt, whole grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6139",
+"en": "Flour, wheat, all-purpose, enriched, bleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6140",
+"en": "Flour, wheat, all-purpose, enriched, unbleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6141",
+"en": "Flour, wheat, all-purpose, unenriched, unbleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6142",
+"en": "Flour, whole wheat, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6143",
+"en": "Flowers or blossoms of sesbania, squash, or lily, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6144",
+"en": "Fluid replacement, 5% glucose in water",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6145",
+"en": "Fluid replacement, electrolyte solution",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6146",
+"en": "Fluid replacement, electrolyte solution (include PEDIALYTE)",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6147",
+"en": "Focaccia, Italian flatbread, plain",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6148",
+"en": "Focaccia, Italian, plain",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6149",
+"en": "Fonio, grain, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "6150",
+"en": "Formulated bar, high fiber, chewy, oats and chocolate",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6151",
+"en": "Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6152",
+"en": "Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Almond Snack Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6153",
+"en": "Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Blueberry Snack Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6154",
+"en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Chewy Chocolate Peanut Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6155",
+"en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Double Chocolate Nut Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6156",
+"en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Energy Bar, all flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6157",
+"en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6158",
+"en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON MULTIGRAIN CRUNCH BAR",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6159",
+"en": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6160",
+"en": "Formulated bar, POWER BAR, chocolate",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6161",
+"en": "Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6162",
+"en": "Formulated Bar, SOUTH BEACH protein bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6163",
+"en": "Formulated bar, ZONE PERFECT CLASSIC CRUNCH BAR, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "6164",
+"en": "Frankfurter, beef, heated",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6165",
+"en": "Frankfurter, beef, low fat",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6166",
+"en": "Frankfurter, beef, pork, and turkey, fat free",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6167",
+"en": "Frankfurter, beef, unheated",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "6168",
+"en": "Frankfurter, chicken",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6169",
+"en": "Frankfurter, low sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6170",
+"en": "Frankfurter, meat",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6171",
+"en": "Frankfurter, meat and poultry, cooked, boiled",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6172",
+"en": "Frankfurter, meat and poultry, cooked, grilled",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6173",
+"en": "Frankfurter, meat and poultry, low fat",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6174",
+"en": "Frankfurter, meat and poultry, unheated",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6175",
+"en": "Frankfurter, meat, heated",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6176",
+"en": "Frankfurter, meatless",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6177",
+"en": "Frankfurter, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6178",
+"en": "Frankfurter, turkey",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6179",
+"en": "Frankfurters or hot dogs and sauerkraut",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6180",
+"en": "Frankfurters or hot dogs with tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6181",
+"en": "Freezer pop",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6182",
+"en": "French dip sandwich",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6183",
+"en": "French or Catalina dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6184",
+"en": "French or Catalina dressing, fat free",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6185",
+"en": "French or Catalina dressing, light",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6186",
+"en": "French toast sticks",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6187",
+"en": "French toast sticks, fast food / restaurant",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6188",
+"en": "French toast sticks, school",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6189",
+"en": "French toast, fast food / restaurant",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6190",
+"en": "French toast, frozen",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6191",
+"en": "French toast, frozen, ready-to-heat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6192",
+"en": "French toast, gluten free",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6193",
+"en": "French toast, NFS",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6194",
+"en": "French toast, plain",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6195",
+"en": "French toast, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6196",
+"en": "French toast, school",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6197",
+"en": "French toast, whole grain",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6198",
+"en": "Frescavena",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6199",
+"en": "Fried broccoli",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6200",
+"en": "Fried cauliflower",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6201",
+"en": "Fried eggplant",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6202",
+"en": "Fried fish with sauce, Puerto Rican style",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6203",
+"en": "Fried green beans",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6204",
+"en": "Fried green tomatoes",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6205",
+"en": "Fried mushrooms",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6206",
+"en": "Fried okra",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6207",
+"en": "Fried onion rings",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6208",
+"en": "Fried seafood sandwich",
+"categoria": "Seafood sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6209",
+"en": "Fried stuffed potatoes, Puerto Rican style",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6210",
+"en": "Fried summer squash, yellow or green",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6211",
+"en": "Frijoles rojos volteados (Refried beans, red, canned)",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6212",
+"en": "Frito pie",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6213",
+"en": "Fritter, corn",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6214",
+"en": "Fritter, fruit",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6215",
+"en": "Fritter, plain",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6216",
+"en": "Frog legs",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6217",
+"en": "Frog legs, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6218",
+"en": "Frostings, chocolate, creamy, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6219",
+"en": "Frostings, chocolate, creamy, dry mix, prepared with butter",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6220",
+"en": "Frostings, chocolate, creamy, dry mix, prepared with margarine",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6221",
+"en": "Frostings, chocolate, creamy, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6222",
+"en": "Frostings, coconut-nut, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6223",
+"en": "Frostings, cream cheese-flavor, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6224",
+"en": "Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe No. C-32",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6225",
+"en": "Frostings, glaze, prepared-from-recipe",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6226",
+"en": "Frostings, vanilla, creamy, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6227",
+"en": "Frostings, vanilla, creamy, dry mix, prepared with margarine",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6228",
+"en": "Frostings, vanilla, creamy, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6229",
+"en": "Frostings, white, fluffy, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6230",
+"en": "Frostings, white, fluffy, dry mix, prepared with water",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6231",
+"en": "Frozen coffee drink",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6232",
+"en": "Frozen coffee drink, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6233",
+"en": "Frozen coffee drink, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6234",
+"en": "Frozen coffee drink, decaffeinated, nonfat, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6235",
+"en": "Frozen coffee drink, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6236",
+"en": "Frozen coffee drink, decaffeinated, with non-dairy milk and whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6237",
+"en": "Frozen coffee drink, decaffeinated, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6238",
+"en": "Frozen coffee drink, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6239",
+"en": "Frozen coffee drink, nonfat, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6240",
+"en": "Frozen coffee drink, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6241",
+"en": "Frozen coffee drink, with non-dairy milk and whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6242",
+"en": "Frozen coffee drink, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6243",
+"en": "Frozen daiquiri",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6244",
+"en": "Frozen dessert, non-dairy",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6245",
+"en": "Frozen dinner, NFS",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6246",
+"en": "Frozen fruit juice bar",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6247",
+"en": "Frozen fruit juice bar, no sugar added",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6248",
+"en": "Frozen margarita",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6249",
+"en": "Frozen mocha coffee drink",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6250",
+"en": "Frozen mocha coffee drink, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6251",
+"en": "Frozen mocha coffee drink, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6252",
+"en": "Frozen mocha coffee drink, decaffeinated, nonfat, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6253",
+"en": "Frozen mocha coffee drink, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6254",
+"en": "Frozen mocha coffee drink, decaffeinated, with non-dairy milk and whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6255",
+"en": "Frozen mocha coffee drink, decaffeinated, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6256",
+"en": "Frozen mocha coffee drink, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6257",
+"en": "Frozen mocha coffee drink, nonfat, with whipped cream",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+}
+]

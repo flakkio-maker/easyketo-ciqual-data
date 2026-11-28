@@ -1,0 +1,1790 @@
+[
+{
+"id": "11026",
+"en": "Sauce, pesto, CLASSICO, basil pesto, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11027",
+"en": "Sauce, pesto, MEZZETTA, NAPA VALLEY BISTRO, basil pesto, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11028",
+"en": "Sauce, pesto, ready-to-serve, refrigerated",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11029",
+"en": "Sauce, pesto, ready-to-serve, shelf stable",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11030",
+"en": "Sauce, pizza, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11031",
+"en": "Sauce, plum, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11032",
+"en": "Sauce, ready-to-serve, pepper or hot",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11033",
+"en": "Sauce, ready-to-serve, pepper, TABASCO",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11034",
+"en": "Sauce, salsa, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "Foundation"
+},
+{
+"id": "11035",
+"en": "Sauce, salsa, verde, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11036",
+"en": "Sauce, sofrito, prepared from recipe",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11037",
+"en": "Sauce, steak, tomato based",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11038",
+"en": "Sauce, sweet and sour, prepared-from-recipe",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11039",
+"en": "Sauce, sweet and sour, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11040",
+"en": "Sauce, tartar, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11041",
+"en": "Sauce, teriyaki, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11042",
+"en": "Sauce, teriyaki, ready-to-serve, reduced sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11043",
+"en": "Sauce, tomato chili sauce, bottled, with salt",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11044",
+"en": "Sauce, white, thin, prepared-from-recipe, with butter",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11045",
+"en": "Sauce, worcestershire",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11046",
+"en": "Sauerkraut",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11047",
+"en": "Sauerkraut, canned, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11048",
+"en": "Sausage and noodles with cream or white sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11049",
+"en": "Sausage and peppers, no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11050",
+"en": "Sausage and rice with cheese sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11051",
+"en": "Sausage and rice with mushroom sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11052",
+"en": "Sausage and rice with tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11053",
+"en": "Sausage and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11054",
+"en": "Sausage and vegetables, excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11055",
+"en": "Sausage biscuit sandwich",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11056",
+"en": "Sausage biscuit sandwich, with cheese",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11057",
+"en": "Sausage English muffin sandwich",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11058",
+"en": "Sausage gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11059",
+"en": "Sausage griddle/pancake sandwich",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11060",
+"en": "Sausage with tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11061",
+"en": "Sausage, beef, cured, cooked, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11062",
+"en": "Sausage, beef, fresh, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11063",
+"en": "Sausage, Berliner, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11064",
+"en": "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "11065",
+"en": "Sausage, chicken or turkey, Italian style, lower sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11066",
+"en": "Sausage, chicken, beef, pork, skinless, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11067",
+"en": "Sausage, egg and cheese breakfast biscuit",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "11068",
+"en": "Sausage, Italian, pork, mild, cooked, pan-fried",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "11069",
+"en": "Sausage, Italian, pork, mild, raw",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11070",
+"en": "Sausage, Italian, sweet, links",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11071",
+"en": "Sausage, Italian, turkey, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11072",
+"en": "Sausage, meatless",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11073",
+"en": "Sausage, New england brand, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11074",
+"en": "Sausage, NFS",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11075",
+"en": "Sausage, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11076",
+"en": "Sausage, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11077",
+"en": "Sausage, Polish, beef with chicken, hot",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11078",
+"en": "Sausage, Polish, pork and beef, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11079",
+"en": "Sausage, pork and beef, fresh, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11080",
+"en": "Sausage, pork and beef, with cheddar cheese, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11081",
+"en": "Sausage, pork and turkey, pre-cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11082",
+"en": "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "11083",
+"en": "Sausage, pork, chorizo, link or ground, raw",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11084",
+"en": "Sausage, pork, turkey, and beef, reduced sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11085",
+"en": "Sausage, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11086",
+"en": "Sausage, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11087",
+"en": "Sausage, smoked link sausage, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11088",
+"en": "Sausage, smoked link sausage, pork and beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11089",
+"en": "Sausage, smoked link sausage, pork and beef (nonfat dry milk added)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11090",
+"en": "Sausage, summer, pork and beef, sticks, with cheddar cheese",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11091",
+"en": "Sausage, turkey and pork, fresh, bulk, patty or link, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11092",
+"en": "Sausage, turkey, breakfast links, mild, raw",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "11093",
+"en": "Sausage, turkey, fresh, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11094",
+"en": "Sausage, turkey, fresh, raw",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11095",
+"en": "Sausage, turkey, hot, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11096",
+"en": "Sausage, turkey, pork, and beef, low fat, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11097",
+"en": "Sausage, turkey, reduced fat, brown and serve, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11098",
+"en": "Sausage, Vienna, canned, chicken, beef, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11099",
+"en": "Scallops, baked or broiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11100",
+"en": "Scallops, bay, Patagonian, frozen, wild caught",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "11101",
+"en": "Scallops, fried",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11102",
+"en": "Scallops, grilled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11103",
+"en": "Scallops, sea, frozen, wild caught",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "11104",
+"en": "Scallops, steamed or boiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11105",
+"en": "Schar, Gluten-Free, Classic White Rolls",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11106",
+"en": "Schar, Gluten-Free, Wheat-Free, Classic White Bread",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11107",
+"en": "SCHIFF,TIGER'S MILK BAR",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "11108",
+"en": "School Lunch, chicken nuggets, whole grain breaded",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11109",
+"en": "School Lunch, chicken patty, whole grain breaded",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11110",
+"en": "School Lunch, pizza, BIG DADDY'S LS 16\" 51% Whole Grain Rolled Edge Cheese Pizza, frozen",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11111",
+"en": "School Lunch, pizza, BIG DADDY'S LS 16\" 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, frozen",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11112",
+"en": "School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11113",
+"en": "School Lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11114",
+"en": "School Lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11115",
+"en": "School Lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11116",
+"en": "School Lunch, pizza, sausage topping, thick crust, whole grain, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11117",
+"en": "School Lunch, pizza, sausage topping, thin crust, whole grain, frozen, cooked",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11118",
+"en": "School Lunch, pizza, TONY'S Breakfast Pizza Sausage, frozen",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11119",
+"en": "School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Cheese Pizza 50/50 Cheese, frozen",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11120",
+"en": "School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese, frozen",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11121",
+"en": "Scone",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11122",
+"en": "Scone, with fruit",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11123",
+"en": "Scotch",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11124",
+"en": "Scrapple, cooked",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11125",
+"en": "Scrapple, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "11126",
+"en": "Screwdriver",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11127",
+"en": "Sea bass, Chilean, frozen, wild caught",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "11128",
+"en": "Sea cucumber, yane (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11129",
+"en": "Sea lion, Steller, fat (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11130",
+"en": "Sea lion, Steller, heart (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11131",
+"en": "Sea lion, Steller, kidney (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11132",
+"en": "Sea lion, Steller, liver (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11133",
+"en": "Sea lion, Steller, meat (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11134",
+"en": "Sea lion, Steller, meat with fat (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11135",
+"en": "Seabreeze",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11136",
+"en": "Seafood dip",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11137",
+"en": "Seafood garden salad with seafood, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11138",
+"en": "Seafood garden salad with seafood, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11139",
+"en": "Seafood garden salad with seafood, lettuce, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11140",
+"en": "Seafood garden salad with seafood, lettuce, vegetables excluding tomato and carrots, no dressing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11141",
+"en": "Seafood paella, Puerto Rican style",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11142",
+"en": "Seafood salad",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11143",
+"en": "Seafood salad sandwich",
+"categoria": "Seafood sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11144",
+"en": "Seafood sauce",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11145",
+"en": "Seafood souffle",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11146",
+"en": "Seafood thermidor",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11147",
+"en": "Seal, bearded (Oogruk), meat, dried (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11148",
+"en": "Seal, bearded (Oogruk), meat, dried, in oil (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11149",
+"en": "Seal, bearded (Oogruk), meat, low quadrant, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11150",
+"en": "Seal, bearded (Oogruk), meat, partially dried (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11151",
+"en": "Seal, bearded (Oogruk), meat, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11152",
+"en": "Seal, ringed, liver (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11153",
+"en": "Seal, ringed, meat (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11154",
+"en": "Seasoning mix, dry, chili, original",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11155",
+"en": "Seasoning mix, dry, sazon, coriander & annatto",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11156",
+"en": "Seasoning mix, dry, taco, original",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11157",
+"en": "Seaweed, agar, dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11158",
+"en": "Seaweed, agar, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11159",
+"en": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11160",
+"en": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, rehydrated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11161",
+"en": "Seaweed, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11162",
+"en": "Seaweed, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11163",
+"en": "Seaweed, dried",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11164",
+"en": "Seaweed, irishmoss, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11165",
+"en": "Seaweed, kelp, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11166",
+"en": "Seaweed, laver, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11167",
+"en": "Seaweed, pickled",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11168",
+"en": "Seaweed, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11169",
+"en": "Seaweed, spirulina, dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11170",
+"en": "Seaweed, spirulina, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11171",
+"en": "Seaweed, wakame, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11172",
+"en": "Seeds, breadfruit seeds, boiled",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11173",
+"en": "Seeds, breadfruit seeds, raw",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11174",
+"en": "Seeds, breadfruit seeds, roasted",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11175",
+"en": "Seeds, breadnut tree seeds, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11176",
+"en": "Seeds, breadnut tree seeds, raw",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11177",
+"en": "Seeds, chia seeds, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11178",
+"en": "Seeds, cottonseed flour, low fat (glandless)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11179",
+"en": "Seeds, cottonseed flour, partially defatted (glandless)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11180",
+"en": "Seeds, cottonseed kernels, roasted (glandless)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11181",
+"en": "Seeds, cottonseed meal, partially defatted (glandless)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11182",
+"en": "Seeds, flaxseed",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11183",
+"en": "Seeds, hemp seed, hulled",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11184",
+"en": "Seeds, lotus seeds, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11185",
+"en": "Seeds, lotus seeds, raw",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11186",
+"en": "Seeds, pumpkin and squash seed kernels, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11187",
+"en": "Seeds, pumpkin and squash seed kernels, roasted, with salt added",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11188",
+"en": "Seeds, pumpkin and squash seed kernels, roasted, without salt",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11189",
+"en": "Seeds, pumpkin and squash seeds, whole, roasted, with salt added",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11190",
+"en": "Seeds, pumpkin and squash seeds, whole, roasted, without salt",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11191",
+"en": "Seeds, pumpkin seeds (pepitas), raw",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "11192",
+"en": "Seeds, safflower seed kernels, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11193",
+"en": "Seeds, safflower seed meal, partially defatted",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11194",
+"en": "Seeds, sesame butter, paste",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11195",
+"en": "Seeds, sesame butter, tahini, from raw and stone ground kernels",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11196",
+"en": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11197",
+"en": "Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11198",
+"en": "Seeds, sesame butter, tahini, type of kernels unspecified",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11199",
+"en": "Seeds, sesame flour, high-fat",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11200",
+"en": "Seeds, sesame flour, low-fat",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11201",
+"en": "Seeds, sesame flour, partially defatted",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11202",
+"en": "Seeds, sesame meal, partially defatted",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11203",
+"en": "Seeds, sesame seed kernels, dried (decorticated)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11204",
+"en": "Seeds, sesame seed kernels, toasted, with salt added (decorticated)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11205",
+"en": "Seeds, sesame seed kernels, toasted, without salt added (decorticated)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11206",
+"en": "Seeds, sesame seeds, whole, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11207",
+"en": "Seeds, sesame seeds, whole, roasted and toasted",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11208",
+"en": "Seeds, sisymbrium sp. seeds, whole, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11209",
+"en": "Seeds, sunflower seed butter, with salt added (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11210",
+"en": "Seeds, sunflower seed butter, without salt",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11211",
+"en": "Seeds, sunflower seed flour, partially defatted",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11212",
+"en": "Seeds, sunflower seed kernels from shell, dry roasted, with salt added",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11213",
+"en": "Seeds, sunflower seed kernels, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11214",
+"en": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "11215",
+"en": "Seeds, sunflower seed kernels, dry roasted, without salt",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11216",
+"en": "Seeds, sunflower seed kernels, oil roasted, with salt added",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11217",
+"en": "Seeds, sunflower seed kernels, oil roasted, without salt",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11218",
+"en": "Seeds, sunflower seed kernels, toasted, with salt added",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11219",
+"en": "Seeds, sunflower seed kernels, toasted, without salt",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11220",
+"en": "Seeds, sunflower seed, kernel, raw",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "11221",
+"en": "Seeds, watermelon seed kernels, dried",
+"categoria": "Nut and Seed Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11222",
+"en": "Semolina, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11223",
+"en": "Semolina, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11224",
+"en": "Sesame butter, creamy",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "11225",
+"en": "Sesame chicken",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11226",
+"en": "Sesame dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11227",
+"en": "Sesame dressing, light",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11228",
+"en": "Sesame oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11229",
+"en": "Sesame seeds",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11230",
+"en": "Sesbania flower, cooked, steamed, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11231",
+"en": "Sesbania flower, cooked, steamed, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11232",
+"en": "Sesbania flower, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11233",
+"en": "Seven and Seven",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11234",
+"en": "Seven-layer salad, lettuce salad made with a combination of onion, celery, green pepper, peas, mayonnaise, cheese, eggs, and/or bacon",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11235",
+"en": "Shake, fast food, vanilla",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "11236",
+"en": "Shallots, freeze-dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11237",
+"en": "Shallots, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11238",
+"en": "Shellfish and noodles with tomato-based sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11239",
+"en": "Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, mushroom sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11240",
+"en": "Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11241",
+"en": "Shellfish mixture and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, mushroom sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11242",
+"en": "Shellfish mixture and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11243",
+"en": "Shellfish, NFS",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11244",
+"en": "Shepherd's pie",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11245",
+"en": "Sherbet, all flavors",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11246",
+"en": "Sherbet, orange",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "11247",
+"en": "Shirley Temple",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11248",
+"en": "Shortening bread, soybean (hydrogenated) and cottonseed",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11249",
+"en": "Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11250",
+"en": "Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11251",
+"en": "Shortening frying (heavy duty), beef tallow and cottonseed",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11252",
+"en": "Shortening frying (heavy duty), palm (hydrogenated)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11253",
+"en": "Shortening frying (heavy duty), soybean (hydrogenated), linoleic (less than 1%)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11254",
+"en": "Shortening household soybean (hydrogenated) and palm",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11255",
+"en": "Shortening industrial, lard and vegetable oil",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11256",
+"en": "Shortening industrial, soybean (hydrogenated) and cottonseed",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11257",
+"en": "Shortening, confectionery, fractionated palm",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11258",
+"en": "Shortening, household, lard and vegetable oil",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11259",
+"en": "Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11260",
+"en": "Shortening, industrial, soy (partially hydrogenated ) and corn for frying",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11261",
+"en": "Shortening, industrial, soy (partially hydrogenated ) for baking and confections",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11262",
+"en": "Shortening, industrial, soy (partially hydrogenated), pourable liquid fry shortening",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11263",
+"en": "Shortening, multipurpose, soybean (hydrogenated) and palm (hydrogenated)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11264",
+"en": "Shortening, NS as to vegetable or animal",
+"categoria": "Margarine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11265",
+"en": "Shortening, special purpose for baking, soybean (hydrogenated) palm and cottonseed",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11266",
+"en": "Shortening, special purpose for cakes and frostings, soybean (hydrogenated)",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11267",
+"en": "Shortening, vegetable, household, composite",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "11268",
+"en": "Shrimp and noodles with cheese sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11269",
+"en": "Shrimp and noodles with cream or white sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11270",
+"en": "Shrimp and noodles with gravy",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11271",
+"en": "Shrimp and noodles with mushroom sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11272",
+"en": "Shrimp and noodles with soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11273",
+"en": "Shrimp and noodles with tomato sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11274",
+"en": "Shrimp and noodles, no sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11275",
+"en": "Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11276",
+"en": "Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11277",
+"en": "Shrimp and vegetables in sauce with noodles, diet frozen meal",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11278",
+"en": "Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11279",
+"en": "Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11280",
+"en": "Shrimp chips",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11281",
+"en": "Shrimp chow mein or chop suey with noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11282",
+"en": "Shrimp chow mein or chop suey, no noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11283",
+"en": "Shrimp cocktail",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11284",
+"en": "Shrimp creole, no rice",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11285",
+"en": "Shrimp creole, with rice",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11286",
+"en": "Shrimp egg foo yung",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11287",
+"en": "Shrimp garden salad, shrimp, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11288",
+"en": "Shrimp garden salad, shrimp, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11289",
+"en": "Shrimp gumbo",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11290",
+"en": "Shrimp in garlic sauce, Puerto Rican style",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11291",
+"en": "Shrimp salad",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11292",
+"en": "Shrimp scampi",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11293",
+"en": "Shrimp shish kabob with vegetables, excluding potatoes",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11294",
+"en": "Shrimp teriyaki",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11295",
+"en": "Shrimp toast",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11296",
+"en": "Shrimp with crab stuffing",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11297",
+"en": "Shrimp with lobster sauce",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11298",
+"en": "Shrimp, baked or broiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11299",
+"en": "Shrimp, baked or broiled, coated",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11300",
+"en": "Shrimp, cake or patty",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11301",
+"en": "Shrimp, canned",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11302",
+"en": "Shrimp, dried",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11303",
+"en": "Shrimp, fried",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11304",
+"en": "Shrimp, grilled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11305",
+"en": "Shrimp, NFS",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11306",
+"en": "Shrimp, steamed or boiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11307",
+"en": "SILK Banana-Strawberry soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11308",
+"en": "SILK Black Cherry soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11309",
+"en": "SILK Blueberry soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11310",
+"en": "SILK Chai, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11311",
+"en": "SILK Chocolate, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11312",
+"en": "SILK Coffee, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11313",
+"en": "SILK French Vanilla Creamer",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11314",
+"en": "SILK Hazelnut Creamer",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11315",
+"en": "SILK Key Lime soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11316",
+"en": "SILK Light Chocolate, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11317",
+"en": "SILK Light Plain, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11318",
+"en": "SILK Light Vanilla, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11319",
+"en": "SILK Mocha, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11320",
+"en": "SILK Nog, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11321",
+"en": "SILK Original Creamer",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11322",
+"en": "SILK Peach soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11323",
+"en": "SILK Plain soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+}
+]

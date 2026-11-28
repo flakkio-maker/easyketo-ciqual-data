@@ -1,0 +1,2081 @@
+{
+"9238": {
+"it": "Sottaceti, cetriolo, all'aneto o kosher",
+"fr": "Pickles, concombre, à l'aneth ou kasher",
+"es": "Encurtidos, pepino, al eneldo o kosher",
+"de": "Essiggemüse, Gurke, Dill oder koscherer Dill",
+"pt": "Picles, pepino, ao dill ou kosher"
+},
+"9239": {
+"it": "Sottaceti, cetriolo, all'aneto, a ridotto contenuto di sodio",
+"fr": "Pickles, concombre, à l'aneth, à teneur réduite en sodium",
+"es": "Encurtidos, pepino, al eneldo, reducido en sodio",
+"de": "Essiggemüse, Gurke, Dill, natriumreduziert",
+"pt": "Picles, pepino, ao dill, com sódio reduzido"
+},
+"9240": {
+"it": "Sottaceti, cetriolo, acidi",
+"fr": "Pickles, concombre, acides",
+"es": "Encurtidos, pepino, agrios",
+"de": "Essiggemüse, Gurke, sauer",
+"pt": "Picles, pepino, azedos"
+},
+"9241": {
+"it": "Sottaceti, cetriolo, acidi, a basso contenuto di sodio",
+"fr": "Pickles, concombre, acides, pauvre en sodium",
+"es": "Encurtidos, pepino, agrios, bajo en sodio",
+"de": "Essiggemüse, Gurke, sauer, natriumarm",
+"pt": "Picles, pepino, azedos, com baixo teor de sódio"
+},
+"9242": {
+"it": "Sottaceti, cetriolo, dolci (inclusi i bread and butter pickles)",
+"fr": "Pickles, concombre, sucrés (y compris les bread and butter pickles)",
+"es": "Encurtidos, pepino, dulces (incluye bread and butter pickles)",
+"de": "Essiggemüse, Gurke, süß (einschließlich Bread-and-Butter-Pickles)",
+"pt": "Picles, pepino, doces (incluindo bread and butter pickles)"
+},
+"9243": {
+"it": "Sottaceti, cetriolo, dolci, a basso contenuto di sodio (inclusi i bread and butter pickles)",
+"fr": "Pickles, concombre, sucrés, pauvres en sodium (y compris les bread and butter pickles)",
+"es": "Encurtidos, pepino, dulces, bajo en sodio (incluye bread and butter pickles)",
+"de": "Essiggemüse, Gurke, süß, natriumarm (einschließlich Bread-and-Butter-Pickles)",
+"pt": "Picles, pepino, doces, com baixo teor de sódio (incluindo bread and butter pickles)"
+},
+"9244": {
+"it": "Sottaceti, all'aneto",
+"fr": "Pickles, à l'aneth",
+"es": "Encurtidos, al eneldo",
+"de": "Essiggemüse, Dill",
+"pt": "Picles, ao dill"
+},
+"9245": {
+"it": "Sottaceti, fritti",
+"fr": "Pickles, frits",
+"es": "Encurtidos, fritos",
+"de": "Essiggemüse, frittiert",
+"pt": "Picles, fritos"
+},
+"9246": {
+"it": "Sottaceti, non specificati",
+"fr": "Pickles, non spécifiés",
+"es": "Encurtidos, no especificados",
+"de": "Essiggemüse, nicht näher bezeichnet",
+"pt": "Picles, não especificados"
+},
+"9247": {
+"it": "Sottaceti, dolci",
+"fr": "Pickles, sucrés",
+"es": "Encurtidos, dulcees",
+"de": "Essiggemüse, süß",
+"pt": "Picles, docos"
+},
+"9248": {
+"it": "Polpettone freddo (picnic loaf), maiale, manzo",
+"fr": "Pain de viande froid (picnic loaf), porc, bœuf",
+"es": "Fiambre de carne (picnic loaf), cerdo, vacuno",
+"de": "Picknick-Fleischkäse (Picnic Loaf), Schwein, Rind",
+"pt": "Frios de carne (picnic loaf), carne suína, carne bovina"
+},
+"9249": {
+"it": "Base per torta, tipo biscotto, cioccolato, base pronta",
+"fr": "Pâte à tarte, type biscuit, chocolat, fond prêt à l'emploi",
+"es": "Masa de tarta, tipo galleta, chocolate, base lista",
+"de": "Pie-Boden, Keksart, Schokolade, fertiger Boden",
+"pt": "Massa de torta, tipo biscoito, chocolate, base pronta"
+},
+"9250": {
+"it": "Base per torta, tipo biscotto, cracker graham, base pronta",
+"fr": "Pâte à tarte, type biscuit, crackers Graham, fond prêt à l'emploi",
+"es": "Masa de tarta, tipo galleta, galletas Graham, base lista",
+"de": "Pie-Boden, Keksart, Graham-Cracker, fertiger Boden",
+"pt": "Massa de torta, tipo biscoito, biscoito Graham, base pronta"
+},
+"9251": {
+"it": "Base per torta, tipo biscotto, preparata da ricetta, cracker graham, refrigerata",
+"fr": "Pâte à tarte, type biscuit, préparée à partir d'une recette, crackers Graham, réfrigérée",
+"es": "Masa de tarta, tipo galleta, preparada según receta, galletas Graham, refrigerada",
+"de": "Pie-Boden, Keksart, nach Rezept zubereitet, Graham-Cracker, gekühlt",
+"pt": "Massa de torta, tipo biscoito, preparada a partir de receita, biscoito Graham, refrigerada"
+},
+"9252": {
+"it": "Base per torta, tipo biscotto, preparata da ricetta, wafer alla vaniglia, refrigerata",
+"fr": "Pâte à tarte, type biscuit, préparée à partir d'une recette, gaufrettes à la vanille, réfrigérée",
+"es": "Masa de tarta, tipo galleta, preparada según receta, galletas de vainilla (wafers), refrigerada",
+"de": "Pie-Boden, Keksart, nach Rezept zubereitet, Vanillewaffeln, gekühlt",
+"pt": "Massa de torta, tipo biscoito, preparada a partir de receita, wafer de baunilha, refrigerada"
+},
+"9253": {
+"it": "Base per torta, per teglia profonda, surgelata, al forno, con farina arricchita",
+"fr": "Pâte à tarte, pour moule profond, surgelée, cuite au four, à la farine enrichie",
+"es": "Masa de tarta, para molde hondo, congelada, al horno, con harina enriquecida",
+"de": "Pie-Boden, für tiefe Form, tiefgekühlt, gebacken, mit angereichertem Mehl",
+"pt": "Massa de torta, para forma funda, congelada, assada no forno, com farinha enriquecida"
+},
+"9254": {
+"it": "Base per torta, per teglia profonda, surgelata, non cotta, con farina arricchita",
+"fr": "Pâte à tarte, pour moule profond, surgelée, non cuite, à la farine enrichie",
+"es": "Masa de tarta, para molde hondo, congelada, sin hornear, con harina enriquecida",
+"de": "Pie-Boden, für tiefe Form, tiefgekühlt, ungebacken, mit angereichertem Mehl",
+"pt": "Massa de torta, para forma funda, congelada, não assada, com farinha enriquecida"
+},
+"9255": {
+"it": "Base per torta, refrigerata, normale, al forno",
+"fr": "Pâte à tarte, réfrigérée, normale, cuite au four",
+"es": "Masa de tarta, refrigerada, normal, al horno",
+"de": "Pie-Boden, gekühlt, normal, gebacken",
+"pt": "Massa de torta, refrigerada, normal, assada no forno"
+},
+"9256": {
+"it": "Base per torta, refrigerata, normale, non cotta",
+"fr": "Pâte à tarte, réfrigérée, normale, non cuite",
+"es": "Masa de tarta, refrigerada, normal, sin hornear",
+"de": "Pie-Boden, gekühlt, normal, ungebacken",
+"pt": "Massa de torta, refrigerada, normal, não assada"
+},
+"9257": {
+"it": "Base per torta, tipo standard, miscela secca",
+"fr": "Pâte à tarte, type standard, mélange sec",
+"es": "Masa de tarta, tipo estándar, mezcla seca",
+"de": "Pie-Boden, Standardtyp, Trockenmischung",
+"pt": "Massa de torta, tipo padrão, mistura seca"
+},
+"9258": {
+"it": "Base per torta, tipo standard, miscela secca, preparata, al forno",
+"fr": "Pâte à tarte, type standard, mélange sec, préparée, cuite au four",
+"es": "Masa de tarta, tipo estándar, mezcla seca, preparada, al horno",
+"de": "Pie-Boden, Standardtyp, Trockenmischung, zubereitet, gebacken",
+"pt": "Massa de torta, tipo padrão, mistura seca, preparada, assada no forno"
+},
+"9259": {
+"it": "Base per torta, tipo standard, surgelata, pronta da cuocere, arricchita",
+"fr": "Pâte à tarte, type standard, surgelée, prête à cuire, enrichie",
+"es": "Masa de tarta, tipo estándar, congelada, lista para hornear, enriquecida",
+"de": "Pie-Boden, Standardtyp, tiefgekühlt, backfertig, angereichert",
+"pt": "Massa de torta, tipo padrão, congelada, pronta para assar, enriquecida"
+},
+"9260": {
+"it": "Base per torta, tipo standard, surgelata, pronta da cuocere, arricchita, al forno",
+"fr": "Pâte à tarte, type standard, surgelée, prête à cuire, enrichie, cuite au four",
+"es": "Masa de tarta, tipo estándar, congelada, lista para hornear, enriquecida, al horno",
+"de": "Pie-Boden, Standardtyp, tiefgekühlt, backfertig, angereichert, gebacken",
+"pt": "Massa de torta, tipo padrão, congelada, pronta para assar, enriquecida, assada no forno"
+},
+"9261": {
+"it": "Base per torta, tipo standard, surgelata, pronta da cuocere, non arricchita",
+"fr": "Pâte à tarte, type standard, surgelée, prête à cuire, non enrichie",
+"es": "Masa de tarta, tipo estándar, congelada, lista para hornear, sin enriquecer",
+"de": "Pie-Boden, Standardtyp, tiefgekühlt, backfertig, nicht angereichert",
+"pt": "Massa de torta, tipo padrão, congelada, pronta para assar, não enriquecida"
+},
+"9262": {
+"it": "Base per torta, tipo standard, preparata da ricetta, al forno",
+"fr": "Pâte à tarte, type standard, préparée à partir d'une recette, cuite au four",
+"es": "Masa de tarta, tipo estándar, preparada según receta, al horno",
+"de": "Pie-Boden, Standardtyp, nach Rezept zubereitet, gebacken",
+"pt": "Massa de torta, tipo padrão, preparada a partir de receita, assada no forno"
+},
+"9263": {
+"it": "Base per torta, tipo standard, preparata da ricetta, non cotta",
+"fr": "Pâte à tarte, type standard, préparée à partir d'une recette, non cuite",
+"es": "Masa de tarta, tipo estándar, preparada según receta, sin hornear",
+"de": "Pie-Boden, Standardtyp, nach Rezept zubereitet, ungebacken",
+"pt": "Massa de torta, tipo padrão, preparada a partir de receita, não assada"
+},
+"9264": {
+"it": "Ripieni per torta, mela, in scatola",
+"fr": "Garnitures pour tarte, pomme, en conserve",
+"es": "Rellenos para tarta, manzana, en conserva",
+"de": "Tortenfüllungen, Apfel, aus der Dose",
+"pt": "Recheios para torta, maçã, enlatados"
+},
+"9265": {
+"it": "Ripieni per torta, mirtilli, in scatola",
+"fr": "Garnitures pour tarte, myrtilles, en conserve",
+"es": "Rellenos para tarta, arándanos, en conserva",
+"de": "Tortenfüllungen, Heidelbeeren, aus der Dose",
+"pt": "Recheios para torta, mirtilo, enlatados"
+},
+"9266": {
+"it": "Ripieni per torta, in scatola, ciliegia",
+"fr": "Garnitures pour tarte, en conserve, cerise",
+"es": "Rellenos para tarta, en conserva, cereza",
+"de": "Tortenfüllungen, aus der Dose, Kirsche",
+"pt": "Recheios para torta, enlatados, cereja"
+},
+"9267": {
+"it": "Ripieni per torta, ciliegia, a basso contenuto calorico",
+"fr": "Garnitures pour tarte, cerise, hypocaloriques",
+"es": "Rellenos para tarta, cereza, bajo en calorías",
+"de": "Tortenfüllungen, Kirsche, kalorienarm",
+"pt": "Recheios para torta, cereja, de baixa caloria"
+},
+"9268": {
+"it": "Guscio per torta",
+"fr": "Fond de tarte",
+"es": "Base de tarta",
+"de": "Pie-Boden",
+"pt": "Base de torta"
+},
+"9269": {
+"it": "Guscio per torta, cracker graham",
+"fr": "Fond de tarte, crackers Graham",
+"es": "Base de tarta, galletas Graham",
+"de": "Pie-Boden, Graham-Cracker",
+"pt": "Base de torta, biscoito Graham"
+},
+"9270": {
+"it": "Torta, mela",
+"fr": "Tarte, pomme",
+"es": "Tarta, manzana",
+"de": "Pie, Apfel",
+"pt": "Torta, maçã"
+},
+"9271": {
+"it": "Torta, mela, di produzione industriale, con farina arricchita",
+"fr": "Tarte, pomme, préparée industriellement, à la farine enrichie",
+"es": "Tarta, manzana, de preparación industrial, con harina enriquecida",
+"de": "Pie, Apfel, handelsüblich zubereitet, mit angereichertem Mehl",
+"pt": "Torta, maçã, industrializada, com farinha enriquecida"
+},
+"9272": {
+"it": "Torta, mela, di produzione industriale, con farina non arricchita",
+"fr": "Tarte, pomme, préparée industriellement, à la farine non enrichie",
+"es": "Tarta, manzana, de preparación industrial, con harina sin enriquecer",
+"de": "Pie, Apfel, handelsüblich zubereitet, mit nicht angereichertem Mehl",
+"pt": "Torta, maçã, industrializada, com farinha não enriquecida"
+},
+"9273": {
+"it": "Torta, mela, fast food",
+"fr": "Tarte, pomme, fast-food",
+"es": "Tarta, manzana, comida rápida",
+"de": "Pie, Apfel, Fast Food",
+"pt": "Torta, maçã, fast food"
+},
+"9274": {
+"it": "Torta, mela, preparata da ricetta",
+"fr": "Tarte, pomme, préparée à partir d'une recette",
+"es": "Tarta, manzana, preparada según receta",
+"de": "Pie, Apfel, nach Rezept zubereitet",
+"pt": "Torta, maçã, preparada a partir de receita"
+},
+"9275": {
+"it": "Torta, crema alla banana",
+"fr": "Tarte, crème à la banane",
+"es": "Tarta, crema de plátano",
+"de": "Pie, Bananencreme",
+"pt": "Torta, creme de banana"
+},
+"9276": {
+"it": "Torta, crema alla banana, preparata da miscela, tipo senza cottura",
+"fr": "Tarte, crème à la banane, préparée à partir d'un mélange, type sans cuisson",
+"es": "Tarta, crema de plátano, preparada con mezcla, tipo sin horneado",
+"de": "Pie, Bananencreme, aus Fertigmischung zubereitet, ohne Backen",
+"pt": "Torta, creme de banana, preparada com mistura, tipo sem cozimento"
+},
+"9277": {
+"it": "Torta, crema alla banana, preparata da ricetta",
+"fr": "Tarte, crème à la banane, préparée à partir d'une recette",
+"es": "Tarta, crema de plátano, preparada según receta",
+"de": "Pie, Bananencreme, nach Rezept zubereitet",
+"pt": "Torta, creme de banana, preparada a partir de receita"
+},
+"9278": {
+"it": "Torta, frutti di bosco",
+"fr": "Tarte, fruits rouges",
+"es": "Tarta, frutos rojos",
+"de": "Pie, Beeren",
+"pt": "Torta, frutas vermelhas"
+},
+"9279": {
+"it": "Torta, mirtilli",
+"fr": "Tarte, myrtilles",
+"es": "Tarta, arándanos",
+"de": "Pie, Heidelbeeren",
+"pt": "Torta, mirtilo"
+},
+"9280": {
+"it": "Torta, mirtilli, di produzione industriale",
+"fr": "Tarte, myrtilles, préparée industriellement",
+"es": "Tarta, arándanos, de preparación industrial",
+"de": "Pie, Heidelbeeren, handelsüblich zubereitet",
+"pt": "Torta, mirtilo, industrializada"
+},
+"9281": {
+"it": "Torta, mirtilli, preparata da ricetta",
+"fr": "Tarte, myrtilles, préparée à partir d'une recette",
+"es": "Tarta, arándanos, preparada según receta",
+"de": "Pie, Heidelbeeren, nach Rezept zubereitet",
+"pt": "Torta, mirtilo, preparada a partir de receita"
+},
+"9282": {
+"it": "Torta, ciliegia",
+"fr": "Tarte, cerise",
+"es": "Tarta, cereza",
+"de": "Pie, Kirsche",
+"pt": "Torta, cereja"
+},
+"9283": {
+"it": "Torta, ciliegia, di produzione industriale",
+"fr": "Tarte, cerise, préparée industriellement",
+"es": "Tarta, cereza, de preparación industrial",
+"de": "Pie, Kirsche, handelsüblich zubereitet",
+"pt": "Torta, cereja, industrializada"
+},
+"9284": {
+"it": "Torta, ciliegia, preparata da ricetta",
+"fr": "Tarte, cerise, préparée à partir d'une recette",
+"es": "Tarta, cereza, preparada según receta",
+"de": "Pie, Kirsche, nach Rezept zubereitet",
+"pt": "Torta, cereja, preparada a partir de receita"
+},
+"9285": {
+"it": "Torta, crema al cioccolato",
+"fr": "Tarte, crème au chocolat",
+"es": "Tarta, crema de chocolate",
+"de": "Pie, Schokoladencreme",
+"pt": "Torta, creme de chocolate"
+},
+"9286": {
+"it": "Torta, crema al cioccolato, di produzione industriale",
+"fr": "Tarte, crème au chocolat, préparée industriellement",
+"es": "Tarta, crema de chocolate, de preparación industrial",
+"de": "Pie, Schokoladencreme, handelsüblich zubereitet",
+"pt": "Torta, creme de chocolate, industrializada"
+},
+"9287": {
+"it": "Torta, mousse al cioccolato, preparata da miscela, tipo senza cottura",
+"fr": "Tarte, mousse au chocolat, préparée à partir d'un mélange, type sans cuisson",
+"es": "Tarta, mousse de chocolate, preparada con mezcla, tipo sin horneado",
+"de": "Pie, Schokoladenmousse, aus Fertigmischung zubereitet, ohne Backen",
+"pt": "Torta, mousse de chocolate, preparada com mistura, tipo sem cozimento"
+},
+"9288": {
+"it": "Torta, crema di cocco",
+"fr": "Tarte, crème de noix de coco",
+"es": "Tarta, crema de coco",
+"de": "Pie, Kokoscreme",
+"pt": "Torta, creme de coco"
+},
+"9289": {
+"it": "Torta, crema di cocco, preparata da miscela, tipo senza cottura",
+"fr": "Tarte, crème de noix de coco, préparée à partir d'un mélange, type sans cuisson",
+"es": "Tarta, crema de coco, preparada con mezcla, tipo sin horneado",
+"de": "Pie, Kokoscreme, aus Fertigmischung zubereitet, ohne Backen",
+"pt": "Torta, creme de coco, preparada com mistura, tipo sem cozimento"
+},
+"9290": {
+"it": "Torta, crema di cocco, di produzione industriale",
+"fr": "Tarte, crème de noix de coco, préparée industriellement",
+"es": "Tarta, crema de coco, de preparación industrial",
+"de": "Pie, Kokoscreme, handelsüblich zubereitet",
+"pt": "Torta, creme de coco, industrializada"
+},
+"9291": {
+"it": "Torta, crema pasticcera al cocco, di produzione industriale",
+"fr": "Tarte, crème pâtissière à la noix de coco, préparée industriellement",
+"es": "Tarta, crema pastelera de coco, de preparación industrial",
+"de": "Pie, Kokospudding, handelsüblich zubereitet",
+"pt": "Torta, creme de coco, industrializada"
+},
+"9292": {
+"it": "Torta, crema pasticcera",
+"fr": "Tarte, crème pâtissière",
+"es": "Tarta, crema pastelera",
+"de": "Pie, Vanillepudding",
+"pt": "Torta, creme"
+},
+"9293": {
+"it": "Torta, mela olandese, di produzione industriale",
+"fr": "Tarte, pomme à la hollandaise, préparée industriellement",
+"es": "Tarta, manzana holandesa, de preparación industrial",
+"de": "Pie, Holländischer Apfel, handelsüblich zubereitet",
+"pt": "Torta, maçã holandesa, industrializada"
+},
+"9294": {
+"it": "Torta, crema all'uovo, di produzione industriale",
+"fr": "Tarte, crème aux œufs, préparée industriellement",
+"es": "Tarta, crema de huevo, de preparación industrial",
+"de": "Pie, Eiercreme, handelsüblich zubereitet",
+"pt": "Torta, creme de ovos, industrializada"
+},
+"9295": {
+"it": "Torta, tortine fritte, ciliegia",
+"fr": "Tarte, chaussons frits, cerise",
+"es": "Tarta, empanadillas fritas, cereza",
+"de": "Pie, frittierte Teigtaschen, Kirsche",
+"pt": "Torta, tortinhas fritas, cereja"
+},
+"9296": {
+"it": "Torta, tortine fritte, frutta",
+"fr": "Tarte, chaussons frits, fruits",
+"es": "Tarta, empanadillas fritas, fruta",
+"de": "Pie, frittierte Teigtaschen, Obst",
+"pt": "Torta, tortinhas fritas, frutas"
+},
+"9297": {
+"it": "Torta, tortine fritte, limone",
+"fr": "Tarte, chaussons frits, citron",
+"es": "Tarta, empanadillas fritas, limón",
+"de": "Pie, frittierte Teigtaschen, Zitrone",
+"pt": "Torta, tortinhas fritas, limão"
+},
+"9298": {
+"it": "Torta, key lime",
+"fr": "Tarte, key lime",
+"es": "Tarta, key lime",
+"de": "Pie, Key Lime",
+"pt": "Torta, key lime"
+},
+"9299": {
+"it": "Torta, limone",
+"fr": "Tarte, citron",
+"es": "Tarta, limón",
+"de": "Pie, Zitrone",
+"pt": "Torta, limão"
+},
+"9300": {
+"it": "Torta, limone e meringa",
+"fr": "Tarte, citron meringué",
+"es": "Tarta, limón y merengue",
+"de": "Pie, Zitrone-Baiser",
+"pt": "Torta, limão e merengue"
+},
+"9301": {
+"it": "Torta, limone e meringa, di produzione industriale",
+"fr": "Tarte, citron meringué, préparée industriellement",
+"es": "Tarta, limón y merengue, de preparación industrial",
+"de": "Pie, Zitrone-Baiser, handelsüblich zubereitet",
+"pt": "Torta, limão e merengue, industrializada"
+},
+"9302": {
+"it": "Torta, limone e meringa, preparata da ricetta",
+"fr": "Tarte, citron meringué, préparée à partir d'une recette",
+"es": "Tarta, limón y merengue, preparada según receta",
+"de": "Pie, Zitrone-Baiser, nach Rezept zubereitet",
+"pt": "Torta, limão e merengue, preparada a partir de receita"
+},
+"9303": {
+"it": "Torta, mincemeat (frutta secca e spezie), preparata da ricetta",
+"fr": "Tarte, mincemeat (fruits secs et épices), préparée à partir d'une recette",
+"es": "Tarta, mincemeat (frutos secos y especias), preparada según receta",
+"de": "Pie, Mincemeat (Trockenfrüchte und Gewürze), nach Rezept zubereitet",
+"pt": "Torta, mincemeat (frutas secas e especiarias), preparada a partir de receita"
+},
+"9304": {
+"it": "Torta, non specificata",
+"fr": "Tarte, non spécifiée",
+"es": "Tarta, no especificada",
+"de": "Pie, nicht näher bezeichnet",
+"pt": "Torta, não especificada"
+},
+"9305": {
+"it": "Torta, farina d'avena",
+"fr": "Tarte, flocons d'avoine",
+"es": "Tarta, avena",
+"de": "Pie, Haferflocken",
+"pt": "Torta, aveia"
+},
+"9306": {
+"it": "Torta, pesca",
+"fr": "Tarte, pêche",
+"es": "Tarta, durazno",
+"de": "Pie, Pfirsich",
+"pt": "Torta, pêssego"
+},
+"9307": {
+"it": "Torta, crema al burro di arachidi",
+"fr": "Tarte, crème au beurre de cacahuète",
+"es": "Tarta, crema de mantequilla de cacahuete",
+"de": "Pie, Erdnussbutter-Creme",
+"pt": "Torta, creme de pasta de amendoim"
+},
+"9308": {
+"it": "Torta, noci pecan",
+"fr": "Tarte, noix de pécan",
+"es": "Tarta, nuez pecana",
+"de": "Pie, Pekannuss",
+"pt": "Torta, noz-pecã"
+},
+"9309": {
+"it": "Torta, noci pecan, di produzione industriale",
+"fr": "Tarte, noix de pécan, préparée industriellement",
+"es": "Tarta, nuez pecana, de preparación industrial",
+"de": "Pie, Pekannuss, handelsüblich zubereitet",
+"pt": "Torta, noz-pecã, industrializada"
+},
+"9310": {
+"it": "Torta, noci pecan, preparata da ricetta",
+"fr": "Tarte, noix de pécan, préparée à partir d'une recette",
+"es": "Tarta, nuez pecana, preparada según receta",
+"de": "Pie, Pekannuss, nach Rezept zubereitet",
+"pt": "Torta, noz-pecã, preparada a partir de receita"
+},
+"9311": {
+"it": "Torta, crema all'ananas",
+"fr": "Tarte, crème à l'ananas",
+"es": "Tarta, crema de piña",
+"de": "Pie, Ananascreme",
+"pt": "Torta, creme de abacaxi"
+},
+"9312": {
+"it": "Torta, zucca",
+"fr": "Tarte, citrouille",
+"es": "Tarta, calabaza",
+"de": "Pie, Kürbis",
+"pt": "Torta, abóbora"
+},
+"9313": {
+"it": "Torta, zucca, di produzione industriale",
+"fr": "Tarte, citrouille, préparée industriellement",
+"es": "Tarta, calabaza, de preparación industrial",
+"de": "Pie, Kürbis, handelsüblich zubereitet",
+"pt": "Torta, abóbora, industrializada"
+},
+"9314": {
+"it": "Torta, zucca, preparata da ricetta",
+"fr": "Tarte, citrouille, préparée à partir d'une recette",
+"es": "Tarta, calabaza, preparada según receta",
+"de": "Pie, Kürbis, nach Rezept zubereitet",
+"pt": "Torta, abóbora, preparada a partir de receita"
+},
+"9315": {
+"it": "Torta, fragola",
+"fr": "Tarte, fraise",
+"es": "Tarta, fresa",
+"de": "Pie, Erdbeere",
+"pt": "Torta, morango"
+},
+"9316": {
+"it": "Torta, patata dolce",
+"fr": "Tarte, patate douce",
+"es": "Tarta, batata",
+"de": "Pie, Süßkartoffel",
+"pt": "Torta, batata-doce"
+},
+"9317": {
+"it": "Torta, crema alla vaniglia",
+"fr": "Tarte, crème à la vanille",
+"es": "Tarta, crema de vainilla",
+"de": "Pie, Vanillecreme",
+"pt": "Torta, creme de baunilha"
+},
+"9318": {
+"it": "Torta, crema alla vaniglia, preparata da ricetta",
+"fr": "Tarte, crème à la vanille, préparée à partir d'une recette",
+"es": "Tarta, crema de vainilla, preparada según receta",
+"de": "Pie, Vanillecreme, nach Rezept zubereitet",
+"pt": "Torta, creme de baunilha, preparada a partir de receita"
+},
+"9319": {
+"it": "Pierogi (ravioli polacchi)",
+"fr": "Pierogi (raviolis polonais)",
+"es": "Pierogi (empanadillas polacas)",
+"de": "Pierogi (polnische Teigtaschen)",
+"pt": "Pierogi (pastéis poloneses)"
+},
+"9320": {
+"it": "Wurstel in pasta (pig in a blanket)",
+"fr": "Saucisse en pâte (pig in a blanket)",
+"es": "Salchicha envuelta en masa (pig in a blanket)",
+"de": "Würstchen im Teigmantel (Pig in a Blanket)",
+"pt": "Salsicha enrolada na massa (pig in a blanket)"
+},
+"9321": {
+"it": "Piselli d'Angola (gandul), semi maturi, cotti, bolliti, con sale",
+"fr": "Pois d'Angole (pois cajan), graines mûres, cuits, bouillis, avec sel",
+"es": "Guandú (gandul), semillas maduras, cocido, hervido, con sal",
+"de": "Straucherbsen (Cajanus), reife Samen, gekocht, gekocht, mit Salz",
+"pt": "Feijão-guandu, sementes maduras, cozido, cozido em água, com sal"
+},
+"9322": {
+"it": "Piselli d'Angola (gandul), semi maturi, cotti, bolliti, senza sale",
+"fr": "Pois d'Angole (pois cajan), graines mûres, cuits, bouillis, sans sel",
+"es": "Guandú (gandul), semillas maduras, cocido, hervido, sin sal",
+"de": "Straucherbsen (Cajanus), reife Samen, gekocht, gekocht, ohne Salz",
+"pt": "Feijão-guandu, sementes maduras, cozido, cozido em água, sem sal"
+},
+"9323": {
+"it": "Piselli d'Angola (gandul), semi maturi, crudi",
+"fr": "Pois d'Angole (pois cajan), graines mûres, crus",
+"es": "Guandú (gandul), semillas maduras, crudo",
+"de": "Straucherbsen (Cajanus), reife Samen, roh",
+"pt": "Feijão-guandu, sementes maduras, cruo"
+},
+"9324": {
+"it": "Piselli d'Angola, semi immaturi, cotti, bolliti, sgocciolati, con sale",
+"fr": "Pois d'Angole, graines immatures, cuits, bouillis, égouttés, avec sel",
+"es": "Guandú, semillas inmaduras, cocido, hervido, escurrido, con sal",
+"de": "Straucherbsen, unreife Samen, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Feijão-guandu, sementes imaturas, cozido, cozido em água, escorrido, com sal"
+},
+"9325": {
+"it": "Piselli d'Angola, semi immaturi, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Pois d'Angole, graines immatures, cuits, bouillis, égouttés, sans sel",
+"es": "Guandú, semillas inmaduras, cocido, hervido, escurrido, sin sal",
+"de": "Straucherbsen, unreife Samen, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Feijão-guandu, sementes imaturas, cozido, cozido em água, escorrido, sem sal"
+},
+"9326": {
+"it": "Piselli d'Angola, semi immaturi, crudi",
+"fr": "Pois d'Angole, graines immatures, crus",
+"es": "Guandú, semillas inmaduras, crudo",
+"de": "Straucherbsen, unreife Samen, roh",
+"pt": "Feijão-guandu, sementes imaturas, cruo"
+},
+"9327": {
+"it": "Pane piki, a base di farina di mais blu (Hopi)",
+"fr": "Pain piki, à base de farine de maïs bleu (Hopi)",
+"es": "Pan piki, hecho con harina de maíz azul (Hopi)",
+"de": "Piki-Brot, aus blauem Maismehl (Hopi)",
+"pt": "Pão piki, feito com farinha de milho azul (Hopi)"
+},
+"9328": {
+"it": "Pillsbury Golden Layer biscuit al latticello, aroma artificiale, impasto refrigerato",
+"fr": "Pillsbury Golden Layer biscuits au babeurre, arôme artificiel, pâte réfrigérée",
+"es": "Pillsbury Golden Layer bizcochos de suero de mantequilla, sabor artificial, masa refrigerada",
+"de": "Pillsbury Golden Layer Buttermilch-Biscuits, künstliches Aroma, gekühlter Teig",
+"pt": "Pillsbury Golden Layer biscuits de leitelho, aroma artificial, massa refrigerada"
+},
+"9329": {
+"it": "Pillsbury Grands, biscuit al latticello, impasto refrigerato",
+"fr": "Pillsbury Grands, biscuits au babeurre, pâte réfrigérée",
+"es": "Pillsbury Grands, bizcochos de suero de mantequilla, masa refrigerada",
+"de": "Pillsbury Grands, Buttermilch-Biscuits, gekühlter Teig",
+"pt": "Pillsbury Grands, biscuits de leitelho, massa refrigerada"
+},
+"9330": {
+"it": "Pillsbury, biscuit al latticello, aroma artificiale, impasto refrigerato",
+"fr": "Pillsbury, biscuits au babeurre, arôme artificiel, pâte réfrigérée",
+"es": "Pillsbury, bizcochos de suero de mantequilla, sabor artificial, masa refrigerada",
+"de": "Pillsbury, Buttermilch-Biscuits, künstliches Aroma, gekühlter Teig",
+"pt": "Pillsbury, biscuits de leitelho, aroma artificial, massa refrigerada"
+},
+"9331": {
+"it": "Pillsbury, biscotti con gocce di cioccolato, impasto refrigerato",
+"fr": "Pillsbury, cookies aux pépites de chocolat, pâte réfrigérée",
+"es": "Pillsbury, galletas con chispas de chocolate, masa refrigerada",
+"de": "Pillsbury, Kekse mit Schokostückchen, gekühlter Teig",
+"pt": "Pillsbury, biscoitos com gotas de chocolate, massa refrigerada"
+},
+"9332": {
+"it": "Pillsbury, rotolini alla cannella con glassa, impasto refrigerato",
+"fr": "Pillsbury, roulés à la cannelle avec glaçage, pâte réfrigérée",
+"es": "Pillsbury, rollos de canela con glaseado, masa refrigerada",
+"de": "Pillsbury, Zimtschnecken mit Zuckerguss, gekühlter Teig",
+"pt": "Pillsbury, rolinhos de canela com cobertura, massa refrigerada"
+},
+"9333": {
+"it": "Pillsbury, pagnotta francese croccante, impasto refrigerato",
+"fr": "Pillsbury, pain français croustillant, pâte réfrigérée",
+"es": "Pillsbury, pan francés crujiente, masa refrigerada",
+"de": "Pillsbury, knuspriges französisches Brot, gekühlter Teig",
+"pt": "Pillsbury, pão francês crocante, massa refrigerada"
+},
+"9334": {
+"it": "Peperone (pimiento), in scatola",
+"fr": "Poivron (pimiento), en conserve",
+"es": "Pimiento, en conserva",
+"de": "Paprika (Pimiento), aus der Dose",
+"pt": "Pimentão (pimiento), enlatado"
+},
+"9335": {
+"it": "Peperone (pimiento)",
+"fr": "Poivron (pimiento)",
+"es": "Pimiento",
+"de": "Paprika (Pimiento)",
+"pt": "Pimentão (pimiento)"
+},
+"9336": {
+"it": "Piña colada",
+"fr": "Piña colada",
+"es": "Piña colada",
+"de": "Piña Colada",
+"pt": "Piña colada"
+},
+"9337": {
+"it": "Piña colada, analcolica",
+"fr": "Piña colada, sans alcool",
+"es": "Piña colada, sin alcohol",
+"de": "Piña Colada, alkoholfrei",
+"pt": "Piña colada, sem álcool"
+},
+"9338": {
+"it": "Pinoli",
+"fr": "Pignons de pin",
+"es": "Piñones",
+"de": "Pinienkerne",
+"pt": "Pinhões"
+},
+"9339": {
+"it": "Succo di ananas, 100e",
+"fr": "Jus d'ananas, 100",
+"es": "Zumo de piña, 100e",
+"de": "Ananassaft, 100%",
+"pt": "Suco de abacaxi, 100e"
+},
+"9340": {
+"it": "Succo di ananas, in scatola o in bottiglia, non zuccherato, con aggiunta di acido ascorbico",
+"fr": "Jus d'ananas, en conserve ou en bouteille, non sucré, avec acide ascorbique ajouté",
+"es": "Zumo de piña, en conserva o embotellado, sin azúcar, con ácido ascórbico añadido",
+"de": "Ananassaft, aus der Dose oder Flasche, ungezuckert, mit Zusatz von Ascorbinsäure",
+"pt": "Suco de abacaxi, enlatado ou engarrafado, sem açúcar, com ácido ascórbico adicionado"
+},
+"9341": {
+"it": "Succo di ananas, in scatola o in bottiglia, non zuccherato, senza aggiunta di acido ascorbico",
+"fr": "Jus d'ananas, en conserve ou en bouteille, non sucré, sans acide ascorbique ajouté",
+"es": "Zumo de piña, en conserva o embotellado, sin azúcar, sin ácido ascórbico añadido",
+"de": "Ananassaft, aus der Dose oder Flasche, ungezuckert, ohne Zusatz von Ascorbinsäure",
+"pt": "Suco de abacaxi, enlatado ou engarrafado, sem açúcar, sem ácido ascórbico adicionado"
+},
+"9342": {
+"it": "Succo di ananas, in scatola, non da concentrato, non zuccherato, con aggiunta di vitamine A, C ed E",
+"fr": "Jus d'ananas, en conserve, non à base de concentré, non sucré, avec vitamines A, C et E ajoutées",
+"es": "Zumo de piña, en conserva, no de concentrado, sin azúcar, con vitaminas A, C y E añadidas",
+"de": "Ananassaft, aus der Dose, nicht aus Konzentrat, ungezuckert, mit Zusatz von Vitamin A, C und E",
+"pt": "Suco de abacaxi, enlatado, não concentrado, sem açúcar, com vitaminas A, C e E adicionadas"
+},
+"9343": {
+"it": "Succo di ananas, concentrato surgelato, non zuccherato, diluito con 3 volumi di acqua",
+"fr": "Jus d'ananas, concentré surgelé, non sucré, dilué avec 3 volumes d'eau",
+"es": "Zumo de piña, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua",
+"de": "Ananassaft, Konzentrat, tiefgekühlt, ungezuckert, mit 3 Teilen Wasser verdünnt",
+"pt": "Suco de abacaxi, concentrado congelado, sem açúcar, diluído com 3 volumes de água"
+},
+"9344": {
+"it": "Succo di ananas, concentrato surgelato, non zuccherato, non diluito",
+"fr": "Jus d'ananas, concentré surgelé, non sucré, non dilué",
+"es": "Zumo de piña, concentrado congelado, sin azúcar, sin diluir",
+"de": "Ananassaft, Konzentrat, tiefgekühlt, ungezuckert, unverdünnt",
+"pt": "Suco de abacaxi, concentrado congelado, sem açúcar, não diluído"
+},
+"9345": {
+"it": "Insalata di ananas con condimento",
+"fr": "Salade d'ananas avec sauce",
+"es": "Ensalada de piña con aderezo",
+"de": "Ananassalat mit Dressing",
+"pt": "Salada de abacaxi com molho"
+},
+"9346": {
+"it": "Ananas, in scatola, in sciroppo extra denso, solidi e liquidi",
+"fr": "Ananas, en conserve, au sirop extra épais, solides et liquides",
+"es": "Piña, en conserva, en almíbar extra espeso, sólidos y líquidos",
+"de": "Ananas, aus der Dose, in extra dickem Sirup, feste und flüssige Bestandteile",
+"pt": "Abacaxi, enlatado, em calda extra grossa, sólidos e líquidos"
+},
+"9347": {
+"it": "Ananas, in scatola, in sciroppo denso, solidi e liquidi",
+"fr": "Ananas, en conserve, au sirop épais, solides et liquides",
+"es": "Piña, en conserva, en almíbar espeso, sólidos y líquidos",
+"de": "Ananas, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
+"pt": "Abacaxi, enlatado, em calda grossa, sólidos e líquidos"
+},
+"9348": {
+"it": "Ananas, in scatola, in sciroppo",
+"fr": "Ananas, en conserve, au sirop",
+"es": "Piña, en conserva, en almíbar",
+"de": "Ananas, aus der Dose, in Sirup",
+"pt": "Abacaxi, enlatado, em calda"
+},
+"9349": {
+"it": "Ananas, in scatola, nel proprio succo",
+"fr": "Ananas, en conserve, au jus",
+"es": "Piña, en conserva, en zumo",
+"de": "Ananas, aus der Dose, im eigenen Saft",
+"pt": "Abacaxi, enlatado, em suco"
+},
+"9350": {
+"it": "Ananas, in scatola, nel proprio succo, sgocciolato",
+"fr": "Ananas, en conserve, au jus, égoutté",
+"es": "Piña, en conserva, en zumo, escurrida",
+"de": "Ananas, aus der Dose, im eigenen Saft, abgetropft",
+"pt": "Abacaxi, enlatado, em suco, escorrido"
+},
+"9351": {
+"it": "Ananas, in scatola, nel proprio succo, solidi e liquidi",
+"fr": "Ananas, en conserve, au jus, solides et liquides",
+"es": "Piña, en conserva, en zumo, sólidos y líquidos",
+"de": "Ananas, aus der Dose, im eigenen Saft, feste und flüssige Bestandteile",
+"pt": "Abacaxi, enlatado, em suco, sólidos e líquidos"
+},
+"9352": {
+"it": "Ananas, in scatola, in sciroppo leggero, solidi e liquidi",
+"fr": "Ananas, en conserve, au sirop léger, solides et liquides",
+"es": "Piña, en conserva, en almíbar ligero, sólidos y líquidos",
+"de": "Ananas, aus der Dose, in leichtem Sirup, feste und flüssige Bestandteile",
+"pt": "Abacaxi, enlatado, em calda leve, sólidos e líquidos"
+},
+"9353": {
+"it": "Ananas, in scatola, non specificato",
+"fr": "Ananas, en conserve, non spécifié",
+"es": "Piña, en conserva, no especificada",
+"de": "Ananas, aus der Dose, nicht näher bezeichnet",
+"pt": "Abacaxi, enlatado, não especificado"
+},
+"9354": {
+"it": "Ananas, in scatola, in acqua, solidi e liquidi",
+"fr": "Ananas, en conserve, à l'eau, solides et liquides",
+"es": "Piña, en conserva, en agua, sólidos y líquidos",
+"de": "Ananas, aus der Dose, in Wasser, feste und flüssige Bestandteile",
+"pt": "Abacaxi, enlatado, em água, sólidos e líquidos"
+},
+"9355": {
+"it": "Ananas, secco",
+"fr": "Ananas, séché",
+"es": "Piña, seca",
+"de": "Ananas, getrocknet",
+"pt": "Abacaxi, seco"
+},
+"9356": {
+"it": "Ananas, surgelato",
+"fr": "Ananas, surgelé",
+"es": "Piña, congelada",
+"de": "Ananas, tiefgekühlt",
+"pt": "Abacaxi, congelado"
+},
+"9357": {
+"it": "Ananas, surgelato, a pezzi, zuccherato",
+"fr": "Ananas, surgelé, en morceaux, sucré",
+"es": "Piña, congelada, en trozos, azucarada",
+"de": "Ananas, tiefgekühlt, Stücke, gezuckert",
+"pt": "Abacaxi, congelado, em pedaços, adoçado"
+},
+"9358": {
+"it": "Ananas, crudo",
+"fr": "Ananas, cru",
+"es": "Piña, cruda",
+"de": "Ananas, roh",
+"pt": "Abacaxi, cruo"
+},
+"9359": {
+"it": "Ananas, crudo, tutte le varietà",
+"fr": "Ananas, cru, toutes variétés",
+"es": "Piña, cruda, todas las variedades",
+"de": "Ananas, roh, alle Sorten",
+"pt": "Abacaxi, cruo, todas as variedades"
+},
+"9360": {
+"it": "Ananas, crudo, varietà extra dolce",
+"fr": "Ananas, cru, variété extra sucrée",
+"es": "Piña, cruda, variedad extradulce",
+"de": "Ananas, roh, extra süße Sorte",
+"pt": "Abacaxi, cruo, variedade extradoce"
+},
+"9361": {
+"it": "Ananas, crudo, varietà tradizionali",
+"fr": "Ananas, cru, variétés traditionnelles",
+"es": "Piña, cruda, variedades tradicionales",
+"de": "Ananas, roh, traditionelle Sorten",
+"pt": "Abacaxi, cruo, variedades tradicionais"
+},
+"9362": {
+"it": "Fagioli rosa, cotti",
+"fr": "Haricots roses, cuits",
+"es": "Frijoles rosados, cocidos",
+"de": "Rosa Bohnen, gekocht",
+"pt": "Feijão-rosa, cozido"
+},
+"9363": {
+"it": "Pinoli piñon, tostati (Navajo)",
+"fr": "Pignons piñon, grillés (Navajo)",
+"es": "Piñones, tostados (Navajo)",
+"de": "Piñon-Nüsse, geröstet (Navajo)",
+"pt": "Pinhões, torrados (Navajo)"
+},
+"9364": {
+"it": "Fagioli pinto e riso integrale",
+"fr": "Haricots pinto et riz complet",
+"es": "Frijoles pintos y arroz integral",
+"de": "Pinto-Bohnen und Naturreis",
+"pt": "Feijão-pinto e arroz integral"
+},
+"9365": {
+"it": "Fagioli pinto e riso, da fast food / ristorante",
+"fr": "Haricots pinto et riz, de fast-food / restaurant",
+"es": "Frijoles pintos y arroz, de comida rápida / restaurante",
+"de": "Pinto-Bohnen und Reis, aus Fast Food / Restaurant",
+"pt": "Feijão-pinto e arroz, de fast food / restaurante"
+},
+"9366": {
+"it": "Fagioli pinto e riso bianco",
+"fr": "Haricots pinto et riz blanc",
+"es": "Frijoles pintos y arroz blanco",
+"de": "Pinto-Bohnen und weißer Reis",
+"pt": "Feijão-pinto e arroz branco"
+},
+"9367": {
+"it": "Fagioli pinto con carne",
+"fr": "Haricots pinto avec viande",
+"es": "Frijoles pintos con carne",
+"de": "Pinto-Bohnen mit Fleisch",
+"pt": "Feijão-pinto com carne"
+},
+"9368": {
+"it": "Fagioli pinto, da scatola, con grassi aggiunti",
+"fr": "Haricots pinto, à partir de conserve, avec matière grasse ajoutée",
+"es": "Frijoles pintos, de conserva, con grasa añadida",
+"de": "Pinto-Bohnen, aus der Dose, mit zugesetztem Fett",
+"pt": "Feijão-pinto, de lata, com gordura adicionada"
+},
+"9369": {
+"it": "Fagioli pinto, da scatola, senza grassi aggiunti",
+"fr": "Haricots pinto, à partir de conserve, sans matière grasse ajoutée",
+"es": "Frijoles pintos, de conserva, sin grasa añadida",
+"de": "Pinto-Bohnen, aus der Dose, ohne zugesetztes Fett",
+"pt": "Feijão-pinto, de lata, sem gordura adicionada"
+},
+"9370": {
+"it": "Fagioli pinto, da scatola, a ridotto contenuto di sodio",
+"fr": "Haricots pinto, à partir de conserve, à teneur réduite en sodium",
+"es": "Frijoles pintos, de conserva, reducido en sodio",
+"de": "Pinto-Bohnen, aus der Dose, natriumreduziert",
+"pt": "Feijão-pinto, de lata, com sódio reduzido"
+},
+"9371": {
+"it": "Fagioli pinto, da secchi, con grassi aggiunti",
+"fr": "Haricots pinto, à partir de secs, avec matière grasse ajoutée",
+"es": "Frijoles pintos, de secos, con grasa añadida",
+"de": "Pinto-Bohnen, aus getrockneten, mit zugesetztem Fett",
+"pt": "Feijão-pinto, de secos, com gordura adicionada"
+},
+"9372": {
+"it": "Fagioli pinto, da secchi, senza grassi aggiunti",
+"fr": "Haricots pinto, à partir de secs, sans matière grasse ajoutée",
+"es": "Frijoles pintos, de secos, sin grasa añadida",
+"de": "Pinto-Bohnen, aus getrockneten, ohne zugesetztes Fett",
+"pt": "Feijão-pinto, de secos, sem gordura adicionada"
+},
+"9373": {
+"it": "Fagioli pinto, da fast food / ristorante",
+"fr": "Haricots pinto, de fast-food / restaurant",
+"es": "Frijoles pintos, de comida rápida / restaurante",
+"de": "Pinto-Bohnen, aus Fast Food / Restaurant",
+"pt": "Feijão-pinto, de fast food / restaurante"
+},
+"9374": {
+"it": "Fagioli pinto, non specificati",
+"fr": "Haricots pinto, non spécifiés",
+"es": "Frijoles pintos, no especificados",
+"de": "Pinto-Bohnen, nicht näher bezeichnet",
+"pt": "Feijão-pinto, não especificado"
+},
+"9375": {
+"it": "Pistacchi, leggermente salati",
+"fr": "Pistaches, légèrement salées",
+"es": "Pistachos, ligeramente salados",
+"de": "Pistazien, leicht gesalzen",
+"pt": "Pistaches, levemente salgadas"
+},
+"9376": {
+"it": "Pistacchi, non specificati",
+"fr": "Pistaches, non spécifiées",
+"es": "Pistachos, no especificados",
+"de": "Pistazien, nicht näher bezeichnet",
+"pt": "Pistaches, não especificados"
+},
+"9377": {
+"it": "Pistacchi, salati",
+"fr": "Pistaches, salées",
+"es": "Pistachos, salados",
+"de": "Pistazien, gesalzen",
+"pt": "Pistaches, salgadas"
+},
+"9378": {
+"it": "Pistacchi, non salati",
+"fr": "Pistaches, non salées",
+"es": "Pistachos, sin sal",
+"de": "Pistazien, ungesalzen",
+"pt": "Pistaches, sem sal"
+},
+"9379": {
+"it": "Chips di pita",
+"fr": "Chips de pita",
+"es": "Chips de pan de pita",
+"de": "Pita-Chips",
+"pt": "Chips de pão pita"
+},
+"9380": {
+"it": "Pitanga, (ciliegia del Suriname), cruda",
+"fr": "Pitanga, (cerise de Cayenne), crue",
+"es": "Pitanga, (cereza de Surinam), cruda",
+"de": "Pitanga, (Surinam-Kirsche), roh",
+"pt": "Pitanga, (cereja-do-suriname), crua"
+},
+"9381": {
+"it": "PIZZA HUT 12\" pizza al formaggio, base stesa a mano",
+"fr": "PIZZA HUT 12\" pizza au fromage, pâte étalée à la main",
+"es": "PIZZA HUT 12\" pizza de queso, masa estirada a mano",
+"de": "PIZZA HUT 12\" Käsepizza, handgeformter Boden",
+"pt": "PIZZA HUT 12\" pizza de queijo, massa aberta à mão"
+},
+"9382": {
+"it": "PIZZA HUT 12\" pizza al formaggio, base in teglia (pan)",
+"fr": "PIZZA HUT 12\" pizza au fromage, pâte épaisse en moule (pan)",
+"es": "PIZZA HUT 12\" pizza de queso, masa en molde (pan)",
+"de": "PIZZA HUT 12\" Käsepizza, Pan-Boden",
+"pt": "PIZZA HUT 12\" pizza de queijo, massa pan"
+},
+"9383": {
+"it": "PIZZA HUT 12\" pizza al formaggio, base THIN 'N CRISPY (sottile e croccante)",
+"fr": "PIZZA HUT 12\" pizza au fromage, pâte THIN 'N CRISPY (fine et croustillante)",
+"es": "PIZZA HUT 12\" pizza de queso, masa THIN 'N CRISPY (fina y crujiente)",
+"de": "PIZZA HUT 12\" Käsepizza, THIN 'N CRISPY-Boden (dünn und knusprig)",
+"pt": "PIZZA HUT 12\" pizza de queijo, massa THIN 'N CRISPY (fina e crocante)"
+},
+"9384": {
+"it": "PIZZA HUT 12\" pizza al pepperoni, base stesa a mano",
+"fr": "PIZZA HUT 12\" pizza au pepperoni, pâte étalée à la main",
+"es": "PIZZA HUT 12\" pizza de pepperoni, masa estirada a mano",
+"de": "PIZZA HUT 12\" Pepperoni-Pizza, handgeformter Boden",
+"pt": "PIZZA HUT 12\" pizza de pepperoni, massa aberta à mão"
+},
+"9385": {
+"it": "PIZZA HUT 12\" pizza al pepperoni, base in teglia (pan)",
+"fr": "PIZZA HUT 12\" pizza au pepperoni, pâte épaisse en moule (pan)",
+"es": "PIZZA HUT 12\" pizza de pepperoni, masa en molde (pan)",
+"de": "PIZZA HUT 12\" Pepperoni-Pizza, Pan-Boden",
+"pt": "PIZZA HUT 12\" pizza de pepperoni, massa pan"
+},
+"9386": {
+"it": "PIZZA HUT 12\" pizza Super Supreme, base stesa a mano",
+"fr": "PIZZA HUT 12\" pizza Super Supreme, pâte étalée à la main",
+"es": "PIZZA HUT 12\" pizza Super Supreme, masa estirada a mano",
+"de": "PIZZA HUT 12\" Super-Supreme-Pizza, handgeformter Boden",
+"pt": "PIZZA HUT 12\" pizza Super Supreme, massa aberta à mão"
+},
+"9387": {
+"it": "PIZZA HUT 14\" pizza al formaggio, base stesa a mano",
+"fr": "PIZZA HUT 14\" pizza au fromage, pâte étalée à la main",
+"es": "PIZZA HUT 14\" pizza de queso, masa estirada a mano",
+"de": "PIZZA HUT 14\" Käsepizza, handgeformter Boden",
+"pt": "PIZZA HUT 14\" pizza de queijo, massa aberta à mão"
+},
+"9388": {
+"it": "PIZZA HUT 14\" pizza al formaggio, base in teglia (pan)",
+"fr": "PIZZA HUT 14\" pizza au fromage, pâte épaisse en moule (pan)",
+"es": "PIZZA HUT 14\" pizza de queso, masa en molde (pan)",
+"de": "PIZZA HUT 14\" Käsepizza, Pan-Boden",
+"pt": "PIZZA HUT 14\" pizza de queijo, massa pan"
+},
+"9389": {
+"it": "PIZZA HUT 14\" pizza al formaggio, bordo ripieno",
+"fr": "PIZZA HUT 14\" pizza au fromage, bord farci",
+"es": "PIZZA HUT 14\" pizza de queso, borde relleno",
+"de": "PIZZA HUT 14\" Käsepizza, gefüllter Rand",
+"pt": "PIZZA HUT 14\" pizza de queijo, borda recheada"
+},
+"9390": {
+"it": "PIZZA HUT 14\" pizza al formaggio, base THIN 'N CRISPY (sottile e croccante)",
+"fr": "PIZZA HUT 14\" pizza au fromage, pâte THIN 'N CRISPY (fine et croustillante)",
+"es": "PIZZA HUT 14\" pizza de queso, masa THIN 'N CRISPY (fina y crujiente)",
+"de": "PIZZA HUT 14\" Käsepizza, THIN 'N CRISPY-Boden (dünn und knusprig)",
+"pt": "PIZZA HUT 14\" pizza de queijo, massa THIN 'N CRISPY (fina e crocante)"
+},
+"9391": {
+"it": "PIZZA HUT 14\" pizza al pepperoni, base stesa a mano",
+"fr": "PIZZA HUT 14\" pizza au pepperoni, pâte étalée à la main",
+"es": "PIZZA HUT 14\" pizza de pepperoni, masa estirada a mano",
+"de": "PIZZA HUT 14\" Pepperoni-Pizza, handgeformter Boden",
+"pt": "PIZZA HUT 14\" pizza de pepperoni, massa aberta à mão"
+},
+"9392": {
+"it": "PIZZA HUT 14\" pizza al pepperoni, base in teglia (pan)",
+"fr": "PIZZA HUT 14\" pizza au pepperoni, pâte épaisse en moule (pan)",
+"es": "PIZZA HUT 14\" pizza de pepperoni, masa en molde (pan)",
+"de": "PIZZA HUT 14\" Pepperoni-Pizza, Pan-Boden",
+"pt": "PIZZA HUT 14\" pizza de pepperoni, massa pan"
+},
+"9393": {
+"it": "PIZZA HUT 14\" pizza al pepperoni, base THIN 'N CRISPY (sottile e croccante)",
+"fr": "PIZZA HUT 14\" pizza au pepperoni, pâte THIN 'N CRISPY (fine et croustillante)",
+"es": "PIZZA HUT 14\" pizza de pepperoni, masa THIN 'N CRISPY (fina y crujiente)",
+"de": "PIZZA HUT 14\" Pepperoni-Pizza, THIN 'N CRISPY-Boden (dünn und knusprig)",
+"pt": "PIZZA HUT 14\" pizza de pepperoni, massa THIN 'N CRISPY (fina e crocante)"
+},
+"9394": {
+"it": "PIZZA HUT 14\" pizza con salsiccia, base stesa a mano",
+"fr": "PIZZA HUT 14\" pizza à la saucisse, pâte étalée à la main",
+"es": "PIZZA HUT 14\" pizza de salchicha, masa estirada a mano",
+"de": "PIZZA HUT 14\" Pizza mit Wurst, handgeformter Boden",
+"pt": "PIZZA HUT 14\" pizza de salsicha, massa aberta à mão"
+},
+"9395": {
+"it": "PIZZA HUT 14\" pizza con salsiccia, base in teglia (pan)",
+"fr": "PIZZA HUT 14\" pizza à la saucisse, pâte épaisse en moule (pan)",
+"es": "PIZZA HUT 14\" pizza de salchicha, masa en molde (pan)",
+"de": "PIZZA HUT 14\" Pizza mit Wurst, Pan-Boden",
+"pt": "PIZZA HUT 14\" pizza de salsicha, massa pan"
+},
+"9396": {
+"it": "PIZZA HUT 14\" pizza con salsiccia, base THIN 'N CRISPY (sottile e croccante)",
+"fr": "PIZZA HUT 14\" pizza à la saucisse, pâte THIN 'N CRISPY (fine et croustillante)",
+"es": "PIZZA HUT 14\" pizza de salchicha, masa THIN 'N CRISPY (fina y crujiente)",
+"de": "PIZZA HUT 14\" Pizza mit Wurst, THIN 'N CRISPY-Boden (dünn und knusprig)",
+"pt": "PIZZA HUT 14\" pizza de salsicha, massa THIN 'N CRISPY (fina e crocante)"
+},
+"9397": {
+"it": "PIZZA HUT 14\" pizza Super Supreme, base stesa a mano",
+"fr": "PIZZA HUT 14\" pizza Super Supreme, pâte étalée à la main",
+"es": "PIZZA HUT 14\" pizza Super Supreme, masa estirada a mano",
+"de": "PIZZA HUT 14\" Super-Supreme-Pizza, handgeformter Boden",
+"pt": "PIZZA HUT 14\" pizza Super Supreme, massa aberta à mão"
+},
+"9398": {
+"it": "PIZZA HUT, grissino, parmigiano e aglio",
+"fr": "PIZZA HUT, bâtonnet de pain, parmesan et ail",
+"es": "PIZZA HUT, palito de pan, parmesano y ajo",
+"de": "PIZZA HUT, Brotstange, Parmesan und Knoblauch",
+"pt": "PIZZA HUT, palito de pão, parmesão e alho"
+},
+"9399": {
+"it": "Rotolini di pizza",
+"fr": "Roulés à la pizza",
+"es": "Rollitos de pizza",
+"de": "Pizzarollen",
+"pt": "Rolinhos de pizza"
+},
+"9400": {
+"it": "Rotolini di pizza, surgelati, non preparati",
+"fr": "Roulés à la pizza, surgelés, non préparés",
+"es": "Rollitos de pizza, congelados, sin preparar",
+"de": "Pizzarollen, tiefgekühlt, unzubereitet",
+"pt": "Rolinhos de pizza, congelados, não preparados"
+},
+"9401": {
+"it": "Pizza con fagioli e verdure, base spessa",
+"fr": "Pizza aux haricots et légumes, pâte épaisse",
+"es": "Pizza con frijoles y verduras, masa gruesa",
+"de": "Pizza mit Bohnen und Gemüse, dicker Boden",
+"pt": "Pizza com feijão e legumes, massa grossa"
+},
+"9402": {
+"it": "Pizza con fagioli e verdure, base sottile",
+"fr": "Pizza aux haricots et légumes, pâte fine",
+"es": "Pizza con frijoles y verduras, masa fina",
+"de": "Pizza mit Bohnen und Gemüse, dünner Boden",
+"pt": "Pizza com feijão e legumes, massa fina"
+},
+"9403": {
+"it": "Pizza con formaggio e verdure extra, base media",
+"fr": "Pizza au fromage et légumes en supplément, pâte moyenne",
+"es": "Pizza con queso y verduras extra, masa mediana",
+"de": "Pizza mit Käse und extra Gemüse, mittlerer Boden",
+"pt": "Pizza com queijo e legumes extras, massa média"
+},
+"9404": {
+"it": "Pizza con formaggio e verdure extra, base spessa",
+"fr": "Pizza au fromage et légumes en supplément, pâte épaisse",
+"es": "Pizza con queso y verduras extra, masa gruesa",
+"de": "Pizza mit Käse und extra Gemüse, dicker Boden",
+"pt": "Pizza com queijo e legumes extras, massa grossa"
+},
+"9405": {
+"it": "Pizza con formaggio e verdure extra, base sottile",
+"fr": "Pizza au fromage et légumes en supplément, pâte fine",
+"es": "Pizza con queso y verduras extra, masa fina",
+"de": "Pizza mit Käse und extra Gemüse, dünner Boden",
+"pt": "Pizza com queijo e legumes extras, massa fina"
+},
+"9406": {
+"it": "Pizza con carne extra e verdure extra, base media",
+"fr": "Pizza avec supplément de viande et de légumes, pâte moyenne",
+"es": "Pizza con carne extra y verduras extra, masa mediana",
+"de": "Pizza mit extra Fleisch und extra Gemüse, mittlerer Boden",
+"pt": "Pizza com carne extra e legumes extras, massa média"
+},
+"9407": {
+"it": "Pizza con carne extra e verdure extra, base spessa",
+"fr": "Pizza avec supplément de viande et de légumes, pâte épaisse",
+"es": "Pizza con carne extra y verduras extra, masa gruesa",
+"de": "Pizza mit extra Fleisch und extra Gemüse, dicker Boden",
+"pt": "Pizza com carne extra e legumes extras, massa grossa"
+},
+"9408": {
+"it": "Pizza con carne extra e verdure extra, base sottile",
+"fr": "Pizza avec supplément de viande et de légumes, pâte fine",
+"es": "Pizza con carne extra y verduras extra, masa fina",
+"de": "Pizza mit extra Fleisch und extra Gemüse, dünner Boden",
+"pt": "Pizza com carne extra e legumes extras, massa fina"
+},
+"9409": {
+"it": "Pizza con carne extra, base media",
+"fr": "Pizza avec supplément de viande, pâte moyenne",
+"es": "Pizza con carne extra, masa mediana",
+"de": "Pizza mit extra Fleisch, mittlerer Boden",
+"pt": "Pizza com carne extra, massa média"
+},
+"9410": {
+"it": "Pizza con carne extra, base spessa",
+"fr": "Pizza avec supplément de viande, pâte épaisse",
+"es": "Pizza con carne extra, masa gruesa",
+"de": "Pizza mit extra Fleisch, dicker Boden",
+"pt": "Pizza com carne extra, massa grossa"
+},
+"9411": {
+"it": "Pizza con carne extra, base sottile",
+"fr": "Pizza avec supplément de viande, pâte fine",
+"es": "Pizza con carne extra, masa fina",
+"de": "Pizza mit extra Fleisch, dünner Boden",
+"pt": "Pizza com carne extra, massa fina"
+},
+"9412": {
+"it": "Pizza con carne e frutta, base media",
+"fr": "Pizza avec viande et fruits, pâte moyenne",
+"es": "Pizza con carne y fruta, masa mediana",
+"de": "Pizza mit Fleisch und Obst, mittlerer Boden",
+"pt": "Pizza com carne e frutas, massa média"
+},
+"9413": {
+"it": "Pizza con carne e frutta, base spessa",
+"fr": "Pizza avec viande et fruits, pâte épaisse",
+"es": "Pizza con carne y fruta, masa gruesa",
+"de": "Pizza mit Fleisch und Obst, dicker Boden",
+"pt": "Pizza com carne e frutas, massa grossa"
+},
+"9414": {
+"it": "Pizza con carne e frutta, base sottile",
+"fr": "Pizza avec viande et fruits, pâte fine",
+"es": "Pizza con carne y fruta, masa fina",
+"de": "Pizza mit Fleisch und Obst, dünner Boden",
+"pt": "Pizza com carne e frutas, massa fina"
+},
+"9415": {
+"it": "Pizza con carne e verdure, da surgelato, base media",
+"fr": "Pizza avec viande et légumes, à partir de surgelé, pâte moyenne",
+"es": "Pizza con carne y verduras, de congelado, masa mediana",
+"de": "Pizza mit Fleisch und Gemüse, aus Tiefkühlware, mittlerer Boden",
+"pt": "Pizza com carne e legumes, de congelado, massa média"
+},
+"9416": {
+"it": "Pizza con carne e verdure, da surgelato, base spessa",
+"fr": "Pizza avec viande et légumes, à partir de surgelé, pâte épaisse",
+"es": "Pizza con carne y verduras, de congelado, masa gruesa",
+"de": "Pizza mit Fleisch und Gemüse, aus Tiefkühlware, dicker Boden",
+"pt": "Pizza com carne e legumes, de congelado, massa grossa"
+},
+"9417": {
+"it": "Pizza con carne e verdure, da surgelato, base sottile",
+"fr": "Pizza avec viande et légumes, à partir de surgelé, pâte fine",
+"es": "Pizza con carne y verduras, de congelado, masa fina",
+"de": "Pizza mit Fleisch und Gemüse, aus Tiefkühlware, dünner Boden",
+"pt": "Pizza com carne e legumes, de congelado, massa fina"
+},
+"9418": {
+"it": "Pizza con carne e verdure, da ristorante o fast food, base media",
+"fr": "Pizza avec viande et légumes, de restaurant ou fast-food, pâte moyenne",
+"es": "Pizza con carne y verduras, de restaurante o comida rápida, masa mediana",
+"de": "Pizza mit Fleisch und Gemüse, aus Restaurant oder Fast Food, mittlerer Boden",
+"pt": "Pizza com carne e legumes, de restaurante ou fast food, massa média"
+},
+"9419": {
+"it": "Pizza con carne e verdure, da ristorante o fast food, base spessa",
+"fr": "Pizza avec viande et légumes, de restaurant ou fast-food, pâte épaisse",
+"es": "Pizza con carne y verduras, de restaurante o comida rápida, masa gruesa",
+"de": "Pizza mit Fleisch und Gemüse, aus Restaurant oder Fast Food, dicker Boden",
+"pt": "Pizza com carne e legumes, de restaurante ou fast food, massa grossa"
+},
+"9420": {
+"it": "Pizza con carne e verdure, da ristorante o fast food, base sottile",
+"fr": "Pizza avec viande et légumes, de restaurant ou fast-food, pâte fine",
+"es": "Pizza con carne y verduras, de restaurante o comida rápida, masa fina",
+"de": "Pizza mit Fleisch und Gemüse, aus Restaurant oder Fast Food, dünner Boden",
+"pt": "Pizza com carne e legumes, de restaurante ou fast food, massa fina"
+},
+"9421": {
+"it": "Pizza con carne diversa dal pepperoni, da surgelato, base media",
+"fr": "Pizza avec viande autre que pepperoni, à partir de surgelé, pâte moyenne",
+"es": "Pizza con carne distinta del pepperoni, de congelado, masa mediana",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Tiefkühlware, mittlerer Boden",
+"pt": "Pizza com carne que não pepperoni, de congelado, massa média"
+},
+"9422": {
+"it": "Pizza con carne diversa dal pepperoni, da surgelato, base spessa",
+"fr": "Pizza avec viande autre que pepperoni, à partir de surgelé, pâte épaisse",
+"es": "Pizza con carne distinta del pepperoni, de congelado, masa gruesa",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Tiefkühlware, dicker Boden",
+"pt": "Pizza com carne que não pepperoni, de congelado, massa grossa"
+},
+"9423": {
+"it": "Pizza con carne diversa dal pepperoni, da surgelato, base sottile",
+"fr": "Pizza avec viande autre que pepperoni, à partir de surgelé, pâte fine",
+"es": "Pizza con carne distinta del pepperoni, de congelado, masa fina",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Tiefkühlware, dünner Boden",
+"pt": "Pizza com carne que não pepperoni, de congelado, massa fina"
+},
+"9424": {
+"it": "Pizza con carne diversa dal pepperoni, da ristorante o fast food, base media",
+"fr": "Pizza avec viande autre que pepperoni, de restaurant ou fast-food, pâte moyenne",
+"es": "Pizza con carne distinta del pepperoni, de restaurante o comida rápida, masa mediana",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Restaurant oder Fast Food, mittlerer Boden",
+"pt": "Pizza com carne que não pepperoni, de restaurante ou fast food, massa média"
+},
+"9425": {
+"it": "Pizza con carne diversa dal pepperoni, da ristorante o fast food, tipo di base non specificato",
+"fr": "Pizza avec viande autre que pepperoni, de restaurant ou fast-food, type de pâte non précisé",
+"es": "Pizza con carne distinta del pepperoni, de restaurante o comida rápida, tipo de masa sin especificar",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Restaurant oder Fast Food, Bodenart nicht angegeben",
+"pt": "Pizza com carne que não pepperoni, de restaurante ou fast food, tipo de massa não especificado"
+},
+"9426": {
+"it": "Pizza con carne diversa dal pepperoni, da ristorante o fast food, base spessa",
+"fr": "Pizza avec viande autre que pepperoni, de restaurant ou fast-food, pâte épaisse",
+"es": "Pizza con carne distinta del pepperoni, de restaurante o comida rápida, masa gruesa",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Restaurant oder Fast Food, dicker Boden",
+"pt": "Pizza com carne que não pepperoni, de restaurante ou fast food, massa grossa"
+},
+"9427": {
+"it": "Pizza con carne diversa dal pepperoni, da ristorante o fast food, base sottile",
+"fr": "Pizza avec viande autre que pepperoni, de restaurant ou fast-food, pâte fine",
+"es": "Pizza con carne distinta del pepperoni, de restaurante o comida rápida, masa fina",
+"de": "Pizza mit Fleisch außer Pepperoni, aus Restaurant oder Fast Food, dünner Boden",
+"pt": "Pizza com carne que não pepperoni, de restaurante ou fast food, massa fina"
+},
+"9428": {
+"it": "Pizza con pepperoni, da surgelato, base media",
+"fr": "Pizza au pepperoni, à partir de surgelé, pâte moyenne",
+"es": "Pizza con pepperoni, de congelado, masa mediana",
+"de": "Pizza mit Pepperoni, aus Tiefkühlware, mittlerer Boden",
+"pt": "Pizza com pepperoni, de congelado, massa média"
+},
+"9429": {
+"it": "Pizza con pepperoni, da surgelato, base spessa",
+"fr": "Pizza au pepperoni, à partir de surgelé, pâte épaisse",
+"es": "Pizza con pepperoni, de congelado, masa gruesa",
+"de": "Pizza mit Pepperoni, aus Tiefkühlware, dicker Boden",
+"pt": "Pizza com pepperoni, de congelado, massa grossa"
+},
+"9430": {
+"it": "Pizza con pepperoni, da surgelato, base sottile",
+"fr": "Pizza au pepperoni, à partir de surgelé, pâte fine",
+"es": "Pizza con pepperoni, de congelado, masa fina",
+"de": "Pizza mit Pepperoni, aus Tiefkühlware, dünner Boden",
+"pt": "Pizza com pepperoni, de congelado, massa fina"
+},
+"9431": {
+"it": "Pizza con pepperoni, da ristorante o fast food, base media",
+"fr": "Pizza au pepperoni, de restaurant ou fast-food, pâte moyenne",
+"es": "Pizza con pepperoni, de restaurante o comida rápida, masa mediana",
+"de": "Pizza mit Pepperoni, aus Restaurant oder Fast Food, mittlerer Boden",
+"pt": "Pizza com pepperoni, de restaurante ou fast food, massa média"
+},
+"9432": {
+"it": "Pizza con pepperoni, da ristorante o fast food, tipo di base non specificato",
+"fr": "Pizza au pepperoni, de restaurant ou fast-food, type de pâte non précisé",
+"es": "Pizza con pepperoni, de restaurante o comida rápida, tipo de masa sin especificar",
+"de": "Pizza mit Pepperoni, aus Restaurant oder Fast Food, Bodenart nicht angegeben",
+"pt": "Pizza com pepperoni, de restaurante ou fast food, tipo de massa não especificado"
+},
+"9433": {
+"it": "Pizza con pepperoni, da ristorante o fast food, base spessa",
+"fr": "Pizza au pepperoni, de restaurant ou fast-food, pâte épaisse",
+"es": "Pizza con pepperoni, de restaurante o comida rápida, masa gruesa",
+"de": "Pizza mit Pepperoni, aus Restaurant oder Fast Food, dicker Boden",
+"pt": "Pizza com pepperoni, de restaurante ou fast food, massa grossa"
+},
+"9434": {
+"it": "Pizza con pepperoni, da ristorante o fast food, base sottile",
+"fr": "Pizza au pepperoni, de restaurant ou fast-food, pâte fine",
+"es": "Pizza con pepperoni, de restaurante o comida rápida, masa fina",
+"de": "Pizza mit Pepperoni, aus Restaurant oder Fast Food, dünner Boden",
+"pt": "Pizza com pepperoni, de restaurante ou fast food, massa fina"
+},
+"9435": {
+"it": "Pizza con pepperoni, da mensa scolastica, base spessa",
+"fr": "Pizza au pepperoni, de cantine scolaire, pâte épaisse",
+"es": "Pizza con pepperoni, de comedor escolar, masa gruesa",
+"de": "Pizza mit Pepperoni, aus der Schulverpflegung, dicker Boden",
+"pt": "Pizza com pepperoni, de merenda escolar, massa grossa"
+},
+"9436": {
+"it": "Pizza con pepperoni, da mensa scolastica, base sottile",
+"fr": "Pizza au pepperoni, de cantine scolaire, pâte fine",
+"es": "Pizza con pepperoni, de comedor escolar, masa fina",
+"de": "Pizza mit Pepperoni, aus der Schulverpflegung, dünner Boden",
+"pt": "Pizza com pepperoni, de merenda escolar, massa fina"
+},
+"9437": {
+"it": "Pizza con pepperoni, bordo ripieno",
+"fr": "Pizza au pepperoni, bord farci",
+"es": "Pizza con pepperoni, borde relleno",
+"de": "Pizza mit Pepperoni, gefüllter Rand",
+"pt": "Pizza com pepperoni, borda recheada"
+},
+"9438": {
+"it": "Pizza, formaggio e verdure, base spessa senza glutine",
+"fr": "Pizza, fromage et légumes, pâte épaisse sans gluten",
+"es": "Pizza, queso y verduras, masa gruesa sin gluten",
+"de": "Pizza, Käse und Gemüse, dicker glutenfreier Boden",
+"pt": "Pizza, queijo e legumes, massa grossa sem glúten"
+},
+"9439": {
+"it": "Pizza, formaggio e verdure, base sottile senza glutine",
+"fr": "Pizza, fromage et légumes, pâte fine sans gluten",
+"es": "Pizza, queso y verduras, masa fina sin gluten",
+"de": "Pizza, Käse und Gemüse, dünner glutenfreier Boden",
+"pt": "Pizza, queijo e legumes, massa fina sem glúten"
+},
+"9440": {
+"it": "Pizza, formaggio e verdure, base spessa integrale",
+"fr": "Pizza, fromage et légumes, pâte épaisse complète",
+"es": "Pizza, queso y verduras, masa gruesa integral",
+"de": "Pizza, Käse und Gemüse, dicker Vollkornboden",
+"pt": "Pizza, queijo e legumes, massa grossa integral"
+},
+"9441": {
+"it": "Pizza, formaggio e verdure, base sottile integrale",
+"fr": "Pizza, fromage et légumes, pâte fine complète",
+"es": "Pizza, queso y verduras, masa fina integral",
+"de": "Pizza, Käse und Gemüse, dünner Vollkornboden",
+"pt": "Pizza, queijo e legumes, massa fina integral"
+},
+"9442": {
+"it": "Pizza, topping di formaggio, base normale, surgelata, cotta",
+"fr": "Pizza, garniture de fromage, pâte classique, surgelée, cuite",
+"es": "Pizza, cobertura de queso, masa normal, congelada, cocida",
+"de": "Pizza, Käsebelag, normaler Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de queijo, massa tradicional, congelada, cozida"
+},
+"9443": {
+"it": "Pizza, topping di formaggio, base lievitata, surgelata, cotta",
+"fr": "Pizza, garniture de fromage, pâte à bord gonflant, surgelée, cuite",
+"es": "Pizza, cobertura de queso, masa de borde esponjoso, congelada, cocida",
+"de": "Pizza, Käsebelag, aufgehender Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de queijo, massa crescente, congelada, cozida"
+},
+"9444": {
+"it": "Pizza, topping di formaggio, base sottile, surgelata, cotta",
+"fr": "Pizza, garniture de fromage, pâte fine, surgelée, cuite",
+"es": "Pizza, cobertura de queso, masa fina, congelada, cocida",
+"de": "Pizza, Käsebelag, dünner Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de queijo, massa fina, congelada, cozida"
+},
+"9445": {
+"it": "Pizza, formaggio con verdure, da surgelato, base spessa",
+"fr": "Pizza, fromage avec légumes, à partir de surgelé, pâte épaisse",
+"es": "Pizza, queso con verduras, de congelado, masa gruesa",
+"de": "Pizza, Käse mit Gemüse, aus Tiefkühlware, dicker Boden",
+"pt": "Pizza, queijo com legumes, de congelado, massa grossa"
+},
+"9446": {
+"it": "Pizza, formaggio, da surgelato, base spessa",
+"fr": "Pizza, fromage, à partir de surgelé, pâte épaisse",
+"es": "Pizza, queso, de congelado, masa gruesa",
+"de": "Pizza, Käse, aus Tiefkühlware, dicker Boden",
+"pt": "Pizza, queijo, de congelado, massa grossa"
+},
+"9447": {
+"it": "Pizza, formaggio, da surgelato, base sottile",
+"fr": "Pizza, fromage, à partir de surgelé, pâte fine",
+"es": "Pizza, queso, de congelado, masa fina",
+"de": "Pizza, Käse, aus Tiefkühlware, dünner Boden",
+"pt": "Pizza, queijo, de congelado, massa fina"
+},
+"9448": {
+"it": "Pizza, formaggio, da ristorante o fast food, base media",
+"fr": "Pizza, fromage, de restaurant ou fast-food, pâte moyenne",
+"es": "Pizza, queso, de restaurante o comida rápida, masa mediana",
+"de": "Pizza, Käse, aus Restaurant oder Fast Food, mittlerer Boden",
+"pt": "Pizza, queijo, de restaurante ou fast food, massa média"
+},
+"9449": {
+"it": "Pizza, formaggio, da ristorante o fast food, tipo di base non specificato",
+"fr": "Pizza, fromage, de restaurant ou fast-food, type de pâte non précisé",
+"es": "Pizza, queso, de restaurante o comida rápida, tipo de masa sin especificar",
+"de": "Pizza, Käse, aus Restaurant oder Fast Food, Bodenart nicht angegeben",
+"pt": "Pizza, queijo, de restaurante ou fast food, tipo de massa não especificado"
+},
+"9450": {
+"it": "Pizza, formaggio, da ristorante o fast food, base spessa",
+"fr": "Pizza, fromage, de restaurant ou fast-food, pâte épaisse",
+"es": "Pizza, queso, de restaurante o comida rápida, masa gruesa",
+"de": "Pizza, Käse, aus Restaurant oder Fast Food, dicker Boden",
+"pt": "Pizza, queijo, de restaurante ou fast food, massa grossa"
+},
+"9451": {
+"it": "Pizza, formaggio, da ristorante o fast food, base sottile",
+"fr": "Pizza, fromage, de restaurant ou fast-food, pâte fine",
+"es": "Pizza, queso, de restaurante o comida rápida, masa fina",
+"de": "Pizza, Käse, aus Restaurant oder Fast Food, dünner Boden",
+"pt": "Pizza, queijo, de restaurante ou fast food, massa fina"
+},
+"9452": {
+"it": "Pizza, formaggio, da mensa scolastica, base media",
+"fr": "Pizza, fromage, de cantine scolaire, pâte moyenne",
+"es": "Pizza, queso, de comedor escolar, masa mediana",
+"de": "Pizza, Käse, aus der Schulverpflegung, mittlerer Boden",
+"pt": "Pizza, queijo, de merenda escolar, massa média"
+},
+"9453": {
+"it": "Pizza, formaggio, da mensa scolastica, base spessa",
+"fr": "Pizza, fromage, de cantine scolaire, pâte épaisse",
+"es": "Pizza, queso, de comedor escolar, masa gruesa",
+"de": "Pizza, Käse, aus der Schulverpflegung, dicker Boden",
+"pt": "Pizza, queijo, de merenda escolar, massa grossa"
+},
+"9454": {
+"it": "Pizza, formaggio, da mensa scolastica, base sottile",
+"fr": "Pizza, fromage, de cantine scolaire, pâte fine",
+"es": "Pizza, queso, de comedor escolar, masa fina",
+"de": "Pizza, Käse, aus der Schulverpflegung, dünner Boden",
+"pt": "Pizza, queijo, de merenda escolar, massa fina"
+},
+"9455": {
+"it": "Pizza, formaggio, base spessa senza glutine",
+"fr": "Pizza, fromage, pâte épaisse sans gluten",
+"es": "Pizza, queso, masa gruesa sin gluten",
+"de": "Pizza, Käse, dicker glutenfreier Boden",
+"pt": "Pizza, queijo, massa grossa sem glúten"
+},
+"9456": {
+"it": "Pizza, formaggio, base sottile senza glutine",
+"fr": "Pizza, fromage, pâte fine sans gluten",
+"es": "Pizza, queso, masa fina sin gluten",
+"de": "Pizza, Käse, dünner glutenfreier Boden",
+"pt": "Pizza, queijo, massa fina sem glúten"
+},
+"9457": {
+"it": "Pizza, formaggio, bordo ripieno",
+"fr": "Pizza, fromage, bord farci",
+"es": "Pizza, queso, borde relleno",
+"de": "Pizza, Käse, gefüllter Rand",
+"pt": "Pizza, queijo, borda recheada"
+},
+"9458": {
+"it": "Pizza, formaggio, base spessa integrale",
+"fr": "Pizza, fromage, pâte épaisse complète",
+"es": "Pizza, queso, masa gruesa integral",
+"de": "Pizza, Käse, dicker Vollkornboden",
+"pt": "Pizza, queijo, massa grossa integral"
+},
+"9459": {
+"it": "Pizza, formaggio, base sottile integrale",
+"fr": "Pizza, fromage, pâte fine complète",
+"es": "Pizza, queso, masa fina integral",
+"de": "Pizza, Käse, dünner Vollkornboden",
+"pt": "Pizza, queijo, massa fina integral"
+},
+"9460": {
+"it": "Pizza, formaggio, con frutta, base media",
+"fr": "Pizza, fromage, avec fruits, pâte moyenne",
+"es": "Pizza, queso, con fruta, masa mediana",
+"de": "Pizza, Käse, mit Obst, mittlerer Boden",
+"pt": "Pizza, queijo, com frutas, massa média"
+},
+"9461": {
+"it": "Pizza, formaggio, con frutta, base spessa",
+"fr": "Pizza, fromage, avec fruits, pâte épaisse",
+"es": "Pizza, queso, con fruta, masa gruesa",
+"de": "Pizza, Käse, mit Obst, dicker Boden",
+"pt": "Pizza, queijo, com frutas, massa grossa"
+},
+"9462": {
+"it": "Pizza, formaggio, con frutta, base sottile",
+"fr": "Pizza, fromage, avec fruits, pâte fine",
+"es": "Pizza, queso, con fruta, masa fina",
+"de": "Pizza, Käse, mit Obst, dünner Boden",
+"pt": "Pizza, queijo, com frutas, massa fina"
+},
+"9463": {
+"it": "Pizza, formaggio, con verdure, da surgelato, base sottile",
+"fr": "Pizza, fromage, avec légumes, à partir de surgelé, pâte fine",
+"es": "Pizza, queso, con verduras, de congelado, masa fina",
+"de": "Pizza, Käse, mit Gemüse, aus Tiefkühlware, dünner Boden",
+"pt": "Pizza, queijo, com legumes, de congelado, massa fina"
+},
+"9464": {
+"it": "Pizza, formaggio, con verdure, da ristorante o fast food, base media",
+"fr": "Pizza, fromage, avec légumes, de restaurant ou fast-food, pâte moyenne",
+"es": "Pizza, queso, con verduras, de restaurante o comida rápida, masa mediana",
+"de": "Pizza, Käse, mit Gemüse, aus Restaurant oder Fast Food, mittlerer Boden",
+"pt": "Pizza, queijo, com legumes, de restaurante ou fast food, massa média"
+},
+"9465": {
+"it": "Pizza, formaggio, con verdure, da ristorante o fast food, base spessa",
+"fr": "Pizza, fromage, avec légumes, de restaurant ou fast-food, pâte épaisse",
+"es": "Pizza, queso, con verduras, de restaurante o comida rápida, masa gruesa",
+"de": "Pizza, Käse, mit Gemüse, aus Restaurant oder Fast Food, dicker Boden",
+"pt": "Pizza, queijo, com legumes, de restaurante ou fast food, massa grossa"
+},
+"9466": {
+"it": "Pizza, formaggio, con verdure, da ristorante o fast food, base sottile",
+"fr": "Pizza, fromage, avec légumes, de restaurant ou fast-food, pâte fine",
+"es": "Pizza, queso, con verduras, de restaurante o comida rápida, masa fina",
+"de": "Pizza, Käse, mit Gemüse, aus Restaurant oder Fast Food, dünner Boden",
+"pt": "Pizza, queijo, com legumes, de restaurante ou fast food, massa fina"
+},
+"9467": {
+"it": "Pizza, formaggio extra, base spessa",
+"fr": "Pizza, fromage supplémentaire, pâte épaisse",
+"es": "Pizza, queso extra, masa gruesa",
+"de": "Pizza, extra Käse, dicker Boden",
+"pt": "Pizza, queijo extra, massa grossa"
+},
+"9468": {
+"it": "Pizza, formaggio extra, base sottile",
+"fr": "Pizza, fromage supplémentaire, pâte fine",
+"es": "Pizza, queso extra, masa fina",
+"de": "Pizza, extra Käse, dünner Boden",
+"pt": "Pizza, queijo extra, massa fina"
+},
+"9469": {
+"it": "Pizza, topping di carne e verdure, base normale, surgelata, cotta",
+"fr": "Pizza, garniture de viande et légumes, pâte classique, surgelée, cuite",
+"es": "Pizza, cobertura de carne y verduras, masa normal, congelada, cocida",
+"de": "Pizza, Fleisch- und Gemüsebelag, normaler Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de carne e legumes, massa tradicional, congelada, cozida"
+},
+"9470": {
+"it": "Pizza, topping di carne e verdure, base lievitata, surgelata, cotta",
+"fr": "Pizza, garniture de viande et légumes, pâte à bord gonflant, surgelée, cuite",
+"es": "Pizza, cobertura de carne y verduras, masa de borde esponjoso, congelada, cocida",
+"de": "Pizza, Fleisch- und Gemüsebelag, aufgehender Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de carne e legumes, massa crescente, congelada, cozida"
+},
+"9471": {
+"it": "Pizza, topping di carne, base spessa, surgelata, cotta",
+"fr": "Pizza, garniture de viande, pâte épaisse, surgelée, cuite",
+"es": "Pizza, cobertura de carne, masa gruesa, congelada, cocida",
+"de": "Pizza, Fleischbelag, dicker Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de carne, massa grossa, congelada, cozida"
+},
+"9472": {
+"it": "Pizza, senza formaggio, base spessa",
+"fr": "Pizza, sans fromage, pâte épaisse",
+"es": "Pizza, sin queso, masa gruesa",
+"de": "Pizza, ohne Käse, dicker Boden",
+"pt": "Pizza, sem queijo, massa grossa"
+},
+"9473": {
+"it": "Pizza, senza formaggio, base sottile",
+"fr": "Pizza, sans fromage, pâte fine",
+"es": "Pizza, sin queso, masa fina",
+"de": "Pizza, ohne Käse, dünner Boden",
+"pt": "Pizza, sem queijo, massa fina"
+},
+"9474": {
+"it": "Pizza, topping di pepperoni, base normale, surgelata, cotta",
+"fr": "Pizza, garniture de pepperoni, pâte classique, surgelée, cuite",
+"es": "Pizza, cobertura de pepperoni, masa normal, congelada, cocida",
+"de": "Pizza, Pepperoni-Belag, normaler Boden, tiefgekühlt, gekocht",
+"pt": "Pizza, cobertura de pepperoni, massa tradicional, congelada, cozida"
+},
+"9475": {
+"it": "Pizza, con carne diversa dal pepperoni, da mensa scolastica, base media",
+"fr": "Pizza, avec viande autre que pepperoni, de cantine scolaire, pâte moyenne",
+"es": "Pizza, con carne distinta del pepperoni, de comedor escolar, masa mediana",
+"de": "Pizza, mit Fleisch außer Pepperoni, aus der Schulverpflegung, mittlerer Boden",
+"pt": "Pizza, com carne que não pepperoni, de merenda escolar, massa média"
+},
+"9476": {
+"it": "Pizza, con carne diversa dal pepperoni, da mensa scolastica, base spessa",
+"fr": "Pizza, avec viande autre que pepperoni, de cantine scolaire, pâte épaisse",
+"es": "Pizza, con carne distinta del pepperoni, de comedor escolar, masa gruesa",
+"de": "Pizza, mit Fleisch außer Pepperoni, aus der Schulverpflegung, dicker Boden",
+"pt": "Pizza, com carne que não pepperoni, de merenda escolar, massa grossa"
+},
+"9477": {
+"it": "Pizza, con carne diversa dal pepperoni, da mensa scolastica, base sottile",
+"fr": "Pizza, avec viande autre que pepperoni, de cantine scolaire, pâte fine",
+"es": "Pizza, con carne distinta del pepperoni, de comedor escolar, masa fina",
+"de": "Pizza, mit Fleisch außer Pepperoni, aus der Schulverpflegung, dünner Boden",
+"pt": "Pizza, com carne que não pepperoni, de merenda escolar, massa fina"
+},
+"9478": {
+"it": "Pizza, con carne diversa dal pepperoni, bordo ripieno",
+"fr": "Pizza, avec viande autre que pepperoni, bord farci",
+"es": "Pizza, con carne distinta del pepperoni, borde relleno",
+"de": "Pizza, mit Fleisch außer Pepperoni, gefüllter Rand",
+"pt": "Pizza, com carne que não pepperoni, borda recheada"
+},
+"9479": {
+"it": "Pizza, con carne, base spessa senza glutine",
+"fr": "Pizza, avec viande, pâte épaisse sans gluten",
+"es": "Pizza, con carne, masa gruesa sin gluten",
+"de": "Pizza, mit Fleisch, dicker glutenfreier Boden",
+"pt": "Pizza, com carne, massa grossa sem glúten"
+},
+"9480": {
+"it": "Pizza, con carne, base sottile senza glutine",
+"fr": "Pizza, avec viande, pâte fine sans gluten",
+"es": "Pizza, con carne, masa fina sin gluten",
+"de": "Pizza, mit Fleisch, dünner glutenfreier Boden",
+"pt": "Pizza, com carne, massa fina sem glúten"
+},
+"9481": {
+"it": "Pizza, con carne, base spessa integrale",
+"fr": "Pizza, avec viande, pâte épaisse complète",
+"es": "Pizza, con carne, masa gruesa integral",
+"de": "Pizza, mit Fleisch, dicker Vollkornboden",
+"pt": "Pizza, com carne, massa grossa integral"
+},
+"9482": {
+"it": "Pizza, con carne, base sottile integrale",
+"fr": "Pizza, avec viande, pâte fine complète",
+"es": "Pizza, con carne, masa fina integral",
+"de": "Pizza, mit Fleisch, dünner Vollkornboden",
+"pt": "Pizza, com carne, massa fina integral"
+},
+"9483": {
+"it": "Pizza, con pepperoni, da mensa scolastica, base media",
+"fr": "Pizza, au pepperoni, de cantine scolaire, pâte moyenne",
+"es": "Pizza, con pepperoni, de comedor escolar, masa mediana",
+"de": "Pizza, mit Pepperoni, aus der Schulverpflegung, mittlerer Boden",
+"pt": "Pizza, com pepperoni, de merenda escolar, massa média"
+},
+"9485": {
+"it": "Platano, cotto con burro o margarina",
+"fr": "Banane plantain, cuite avec du beurre ou de la margarine",
+"es": "Plátano macho, cocido con mantequilla o margarina",
+"de": "Kochbanane, mit Butter oder Margarine gekocht",
+"pt": "Banana-da-terra, cozida com manteiga ou margarina"
+},
+"9486": {
+"it": "Platano, cotto con olio",
+"fr": "Banane plantain, cuite avec de l'huile",
+"es": "Plátano macho, cocido con aceite",
+"de": "Kochbanane, mit Öl gekocht",
+"pt": "Banana-da-terra, cozida com óleo"
+},
+"9487": {
+"it": "Platano, cotto, con grassi aggiunti, tipo di grasso non specificato",
+"fr": "Banane plantain, cuite, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Plátano macho, cocido, con grasa añadida, tipo de grasa sin especificar",
+"de": "Kochbanane, gekocht, mit zugesetztem Fett, Fettart nicht angegeben",
+"pt": "Banana-da-terra, cozida, com gordura adicionada, tipo de gordura não especificado"
+},
+"9488": {
+"it": "Platano, cotto, senza grassi aggiunti",
+"fr": "Banane plantain, cuite, sans matière grasse ajoutée",
+"es": "Plátano macho, cocido, sin grasa añadida",
+"de": "Kochbanane, gekocht, ohne zugesetztes Fett",
+"pt": "Banana-da-terra, cozida, sem gordura adicionada"
+},
+"9489": {
+"it": "Platano, crudo",
+"fr": "Banane plantain, crue",
+"es": "Plátano macho, crudo",
+"de": "Kochbanane, roh",
+"pt": "Banana-da-terra, crua"
+},
+"9490": {
+"it": "Platani, verdi, bolliti",
+"fr": "Bananes plantain, vertes, bouillies",
+"es": "Plátanos machos, verdes, hervidos",
+"de": "Kochbananen, grün, gekocht",
+"pt": "Bananas-da-terra, verdes, cozidas em água"
+},
+"9491": {
+"it": "Platani, verdi, fritti",
+"fr": "Bananes plantain, vertes, frites",
+"es": "Plátanos machos, verdes, fritos",
+"de": "Kochbananen, grün, frittiert",
+"pt": "Bananas-da-terra, verdes, fritas"
+},
+"9492": {
+"it": "Platani, verdi, crudi",
+"fr": "Bananes plantain, vertes, crues",
+"es": "Plátanos machos, verdes, crudos",
+"de": "Kochbananen, grün, roh",
+"pt": "Bananas-da-terra, verdes, cruas"
+},
+"9493": {
+"it": "Platani, molto maturi, crudi",
+"fr": "Bananes plantain, trop mûres, crues",
+"es": "Plátanos machos, muy maduros, crudos",
+"de": "Kochbananen, überreif, roh",
+"pt": "Bananas-da-terra, muito maduras, cruas"
+},
+"9494": {
+"it": "Platani, maturi, crudi",
+"fr": "Bananes plantain, mûres, crues",
+"es": "Plátanos machos, maduros, crudos",
+"de": "Kochbananen, reif, roh",
+"pt": "Bananas-da-terra, maduras, cruas"
+},
+"9495": {
+"it": "Platani, poco maturi, crudi",
+"fr": "Bananes plantain, pas assez mûres, crues",
+"es": "Plátanos machos, poco maduros, crudos",
+"de": "Kochbananen, unreif, roh",
+"pt": "Bananas-da-terra, pouco maduras, cruas"
+},
+"9496": {
+"it": "Platani, gialli, al forno",
+"fr": "Bananes plantain, jaunes, cuites au four",
+"es": "Plátanos machos, amarillos, al horno",
+"de": "Kochbananen, gelb, gebacken",
+"pt": "Bananas-da-terra, amarelas, assadas no forno"
+},
+"9497": {
+"it": "Platani, gialli, fritti, da ristorante latino",
+"fr": "Bananes plantain, jaunes, frites, de restaurant latino",
+"es": "Plátanos machos, amarillos, fritos, de restaurante latino",
+"de": "Kochbananen, gelb, frittiert, aus lateinamerikanischem Restaurant",
+"pt": "Bananas-da-terra, amarelas, fritas, de restaurante latino"
+},
+"9498": {
+"it": "Platani, gialli, crudi",
+"fr": "Bananes plantain, jaunes, crues",
+"es": "Plátanos machos, amarillos, crudos",
+"de": "Kochbananen, gelb, roh",
+"pt": "Bananas-da-terra, amarelas, cruas"
+},
+"9499": {
+"it": "Prugna, nera, con buccia, cruda",
+"fr": "Prune, noire, avec peau, crue",
+"es": "Ciruela, negra, con piel, cruda",
+"de": "Pflaume, schwarz, mit Schale, roh",
+"pt": "Ameixa, preta, com casca, crua"
+},
+"9500": {
+"it": "Prugna, in scatola",
+"fr": "Prune, en conserve",
+"es": "Ciruela, en conserva",
+"de": "Pflaume, aus der Dose",
+"pt": "Ameixa, enlatada"
+},
+"9501": {
+"it": "Prugna, cruda",
+"fr": "Prune, crue",
+"es": "Ciruela, cruda",
+"de": "Pflaume, roh",
+"pt": "Ameixa, crua"
+},
+"9502": {
+"it": "Prugne, in scatola, in sciroppo denso, sgocciolate",
+"fr": "Prunes, en conserve, au sirop épais, égouttées",
+"es": "Ciruelas, en conserva, en almíbar espeso, escurridas",
+"de": "Pflaumen, aus der Dose, in dickem Sirup, abgetropft",
+"pt": "Ameixas, enlatadas, em calda grossa, escorridas"
+},
+"9503": {
+"it": "Prugne, in scatola, viola, in sciroppo extra denso, solidi e liquidi",
+"fr": "Prunes, en conserve, violettes, au sirop extra épais, solides et liquides",
+"es": "Ciruelas, en conserva, moradas, en almíbar extra espeso, sólidos y líquidos",
+"de": "Pflaumen, aus der Dose, violett, in extra dickem Sirup, feste und flüssige Bestandteile",
+"pt": "Ameixas, enlatadas, roxas, em calda extra grossa, sólidos e líquidos"
+},
+"9504": {
+"it": "Prugne, in scatola, viola, in sciroppo denso, solidi e liquidi",
+"fr": "Prunes, en conserve, violettes, au sirop épais, solides et liquides",
+"es": "Ciruelas, en conserva, moradas, en almíbar espeso, sólidos y líquidos",
+"de": "Pflaumen, aus der Dose, violett, in dickem Sirup, feste und flüssige Bestandteile",
+"pt": "Ameixas, enlatadas, roxas, em calda grossa, sólidos e líquidos"
+},
+"9505": {
+"it": "Prugne, in scatola, viola, nel proprio succo, solidi e liquidi",
+"fr": "Prunes, en conserve, violettes, au jus, solides et liquides",
+"es": "Ciruelas, en conserva, moradas, en zumo, sólidos y líquidos",
+"de": "Pflaumen, aus der Dose, violett, im eigenen Saft, feste und flüssige Bestandteile",
+"pt": "Ameixas, enlatadas, roxas, em suco, sólidos e líquidos"
+},
+"9506": {
+"it": "Prugne, in scatola, viola, in sciroppo leggero, solidi e liquidi",
+"fr": "Prunes, en conserve, violettes, au sirop léger, solides et liquides",
+"es": "Ciruelas, en conserva, moradas, en almíbar ligero, sólidos y líquidos",
+"de": "Pflaumen, aus der Dose, violett, in leichtem Sirup, feste und flüssige Bestandteile",
+"pt": "Ameixas, enlatadas, roxas, em calda leve, sólidos e líquidos"
+},
+"9507": {
+"it": "Prugne, in scatola, viola, in acqua, solidi e liquidi",
+"fr": "Prunes, en conserve, violettes, à l'eau, solides et liquides",
+"es": "Ciruelas, en conserva, moradas, en agua, sólidos y líquidos",
+"de": "Pflaumen, aus der Dose, violett, in Wasser, feste und flüssige Bestandteile",
+"pt": "Ameixas, enlatadas, roxas, em água, sólidos e líquidos"
+},
+"9508": {
+"it": "Prugne, secche (prugne secche), stufate, con zucchero aggiunto",
+"fr": "Pruneaux (prunes séchées), mijotés, avec sucre ajouté",
+"es": "Ciruelas, secas (ciruelas pasas), estofadas, con azúcar añadido",
+"de": "Pflaumen, getrocknet (Backpflaumen), geschmort, mit Zuckerzusatz",
+"pt": "Ameixas, secas (ameixas-pretas), ensopadas, com açúcar adicionado"
+},
+"9509": {
+"it": "Prugne, secche (prugne secche), stufate, senza zucchero aggiunto",
+"fr": "Pruneaux (prunes séchées), mijotés, sans sucre ajouté",
+"es": "Ciruelas, secas (ciruelas pasas), estofadas, sin azúcar añadido",
+"de": "Pflaumen, getrocknet (Backpflaumen), geschmort, ohne Zuckerzusatz",
+"pt": "Ameixas, secas (ameixas-pretas), ensopadas, sem açúcar adicionado"
+},
+"9510": {
+"it": "Prugne, secche (prugne secche), non cotte",
+"fr": "Pruneaux (prunes séchées), non cuits",
+"es": "Ciruelas, secas (ciruelas pasas), sin cocinar",
+"de": "Pflaumen, getrocknet (Backpflaumen), ungekocht",
+"pt": "Ameixas, secas (ameixas-pretas), não cozidas"
+},
+"9511": {
+"it": "Prugne, crude",
+"fr": "Prunes, crues",
+"es": "Ciruelas, crudas",
+"de": "Pflaumen, roh",
+"pt": "Ameixas, cruas"
+},
+"9512": {
+"it": "Prugne, selvatice (indiani delle Grandi Pianure del Nord)",
+"fr": "Prunes, sauvages (Indiens des Plaines du Nord)",
+"es": "Ciruelas, silvestrees (indígenas de las Grandes Llanuras del Norte)",
+"de": "Pflaumen, wild (nördliche Plains-Indianer)",
+"pt": "Ameixas, silvestrees (indígenas das Planícies do Norte)"
+},
+"9513": {
+"it": "Pocky (bastoncini di biscotto glassati)",
+"fr": "Pocky (bâtonnets biscuités glacés)",
+"es": "Pocky (palitos de galleta bañados)",
+"de": "Pocky (glasierte Keksstäbchen)",
+"pt": "Pocky (palitos de biscoito cobertos)"
+},
+"9514": {
+"it": "Poi (pasta di taro hawaiana)",
+"fr": "Poi (purée de taro hawaïenne)",
+"es": "Poi (puré de taro hawaiano)",
+"de": "Poi (hawaiianischer Taro-Brei)",
+"pt": "Poi (purê de taro havaiano)"
+},
+"9515": {
+"it": "Verdure di fitolacca, cotte",
+"fr": "Feuilles de phytolaque, cuites",
+"es": "Hojas de fitolaca, cocidas",
+"de": "Kermesbeeren-Blätter, gekocht",
+"pt": "Folhas de fitolaca, cozidas"
+},
+"9516": {
+"it": "Germogli di fitolacca, (poke), cotti, bolliti, sgocciolati, con sale",
+"fr": "Pousses de phytolaque, (poke), cuites, bouillies, égouttées, avec sel",
+"es": "Brotes de fitolaca, (poke), cocidos, hervidos, escurridos, con sal",
+"de": "Kermesbeeren-Triebe, (Poke), gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Brotos de fitolaca, (poke), cozidos, cozidos em água, escorridos, com sal"
+},
+"9517": {
+"it": "Germogli di fitolacca, (poke), cotti, bolliti, sgocciolati, senza sale",
+"fr": "Pousses de phytolaque, (poke), cuites, bouillies, égouttées, sans sel",
+"es": "Brotes de fitolaca, (poke), cocidos, hervidos, escurridos, sin sal",
+"de": "Kermesbeeren-Triebe, (Poke), gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Brotos de fitolaca, (poke), cozidos, cozidos em água, escorridos, sem sal"
+},
+"9518": {
+"it": "Germogli di fitolacca, (poke), crudi",
+"fr": "Pousses de phytolaque, (poke), crues",
+"es": "Brotes de fitolaca, (poke), crudos",
+"de": "Kermesbeeren-Triebe, (Poke), roh",
+"pt": "Brotos de fitolaca, (poke), cruos"
+},
+"9519": {
+"it": "Salsiccia polacca",
+"fr": "Saucisse polonaise",
+"es": "Salchicha polaca",
+"de": "Polnische Wurst",
+"pt": "Salsicha polonesa"
+},
+"9520": {
+"it": "Salsiccia polacca, maiale",
+"fr": "Saucisse polonaise, porc",
+"es": "Salchicha polaca, cerdo",
+"de": "Polnische Wurst, Schwein",
+"pt": "Salsicha polonesa, carne suína"
+},
+"9521": {
+"it": "Bevanda al succo di melagrana, 40-50% di succo, light",
+"fr": "Boisson au jus de grenade, 40-50% de jus, allégée",
+"es": "Bebida de zumo de granada, 40-50% de zumo, ligera",
+"de": "Granatapfelsaftgetränk, 40-50% Saft, leicht",
+"pt": "Bebida de suco de romã, 40-50% de suco, light"
+},
+"9522": {
+"it": "Succo di melagrana, 100%",
+"fr": "Jus de grenade, 100%",
+"es": "Zumo de granada, 100%",
+"de": "Granatapfelsaft, 100%",
+"pt": "Suco de romã, 100%"
+},
+"9523": {
+"it": "Succo di melagrana, in bottiglia",
+"fr": "Jus de grenade, en bouteille",
+"es": "Zumo de granada, embotellado",
+"de": "Granatapfelsaft, in Flaschen",
+"pt": "Suco de romã, engarrafado"
+},
+"9524": {
+"it": "Melagrana, cruda",
+"fr": "Grenade, crue",
+"es": "Granada, cruda",
+"de": "Granatapfel, roh",
+"pt": "Romã, crua"
+},
+"9525": {
+"it": "Melagrane, crude",
+"fr": "Grenades, crues",
+"es": "Granadas, crudas",
+"de": "Granatäpfel, roh",
+"pt": "Romãs, cruas"
+},
+"9526": {
+"it": "Galletta di popcorn",
+"fr": "Galette de pop-corn",
+"es": "Tortita de palomitas",
+"de": "Popcorn-Cake",
+"pt": "Bolacha de pipoca"
+},
+"9527": {
+"it": "Chips di popcorn, altri gusti",
+"fr": "Chips de pop-corn, autres saveurs",
+"es": "Chips de palomitas, otros sabores",
+"de": "Popcorn-Chips, andere Geschmacksrichtungen",
+"pt": "Chips de pipoca, outros sabores"
+},
+"9528": {
+"it": "Chips di popcorn, naturali",
+"fr": "Chips de pop-corn, nature",
+"es": "Chips de palomitas, natural",
+"de": "Popcorn-Chips, natur",
+"pt": "Chips de pipoca, natural"
+},
+"9529": {
+"it": "Chips di popcorn, gusti dolci",
+"fr": "Chips de pop-corn, saveurs sucrées",
+"es": "Chips de palomitas, sabores dulces",
+"de": "Popcorn-Chips, süße Geschmacksrichtungen",
+"pt": "Chips de pipoca, sabores doces"
+},
+"9530": {
+"it": "Popcorn, soffiato ad aria, senza burro aggiunto",
+"fr": "Pop-corn, éclaté à l'air chaud, sans beurre ajouté",
+"es": "Palomitas de maíz, hechas con aire caliente, sin mantequilla añadida",
+"de": "Popcorn, mit Heißluft gepoppt, ohne Butterzusatz",
+"pt": "Pipoca, estourada a ar quente, sem manteiga adicionada"
+},
+"9531": {
+"it": "Popcorn, soffiato ad aria, con burro aggiunto",
+"fr": "Pop-corn, éclaté à l'air chaud, avec beurre ajouté",
+"es": "Palomitas de maíz, hechas con aire caliente, con mantequilla añadida",
+"de": "Popcorn, mit Heißluft gepoppt, mit Butterzusatz",
+"pt": "Pipoca, estourada a ar quente, com manteiga adicionada"
+},
+"9532": {
+"it": "Popcorn, ricoperto di caramello",
+"fr": "Pop-corn, enrobé de caramel",
+"es": "Palomitas de maíz, cubiertas de caramelo",
+"de": "Popcorn, mit Karamellüberzug",
+"pt": "Pipoca, coberta de caramelo"
+},
+"9533": {
+"it": "Popcorn, ricoperto di caramello, con noci",
+"fr": "Pop-corn, enrobé de caramel, avec noix",
+"es": "Palomitas de maíz, cubiertas de caramelo, con frutos secos",
+"de": "Popcorn, mit Karamellüberzug, mit Nüssen",
+"pt": "Pipoca, coberta de caramelo, com castanhas"
+},
+"9534": {
+"it": "Popcorn, ricoperto di cioccolato",
+"fr": "Pop-corn, enrobé de chocolat",
+"es": "Palomitas de maíz, cubiertas de chocolate",
+"de": "Popcorn, mit Schokoladenüberzug",
+"pt": "Pipoca, coberta de chocolate"
+},
+"9535": {
+"it": "Popcorn, da microonde, aromatizzato al burro",
+"fr": "Pop-corn, pour micro-ondes, arôme beurre",
+"es": "Palomitas de maíz, para microondas, sabor a mantequilla",
+"de": "Popcorn, Mikrowelle, Buttergeschmack",
+"pt": "Pipoca, para micro-ondas, sabor manteiga"
+}
+}

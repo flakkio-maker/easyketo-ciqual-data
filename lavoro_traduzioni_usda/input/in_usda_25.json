@@ -1,0 +1,1790 @@
+[
+{
+"id": "7152",
+"en": "Jelly sandwich, on wheat bread",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7153",
+"en": "Jelly sandwich, on white bread",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7154",
+"en": "Jellyfish, dried, salted",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7155",
+"en": "Jerusalem-artichokes, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7156",
+"en": "Jew's ear, (pepeao), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7157",
+"en": "Jicama, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7158",
+"en": "JIMMY DEAN, Sausage, Egg, and Cheese Breakfast Biscuit, frozen, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "7159",
+"en": "Johnnycake",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7160",
+"en": "Juice, apple and grape blend, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7161",
+"en": "Juice, apple, grape and pear blend, with added ascorbic acid and calcium",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7162",
+"en": "Jujube, Chinese, fresh, dried",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7163",
+"en": "Jujube, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7164",
+"en": "Jute, potherb, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7165",
+"en": "Jute, potherb, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7166",
+"en": "Jute, potherb, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7167",
+"en": "Kale, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7168",
+"en": "Kale, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7169",
+"en": "Kale, fresh, cooked, fat added",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7170",
+"en": "Kale, fresh, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7171",
+"en": "Kale, frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7172",
+"en": "Kale, frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "7173",
+"en": "Kale, frozen, cooked, fat added",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7174",
+"en": "Kale, frozen, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7175",
+"en": "Kale, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7176",
+"en": "Kale, NS as to form, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7177",
+"en": "Kale, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "7178",
+"en": "Kamikaze",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7179",
+"en": "Kamut, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "7180",
+"en": "Kanpyo, (dried gourd strips)",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7181",
+"en": "Keebler, Keebler Chocolate Graham SELECTS",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7182",
+"en": "Kefir",
+"categoria": "Milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7183",
+"en": "Kefir, lowfat, plain, LIFEWAY",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7184",
+"en": "Kefir, lowfat, strawberry, LIFEWAY",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7185",
+"en": "Keikitos (muffins), Latino bakery item",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7186",
+"en": "Kernza flour, pre-gelatinized",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "7187",
+"en": "Ketchup",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7188",
+"en": "Ketchup, reduced sodium",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7189",
+"en": "Ketchup, restaurant",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "7190",
+"en": "KFC, biscuit",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7191",
+"en": "KFC, Coleslaw",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7192",
+"en": "KFC, Crispy Chicken Strips",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7193",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Breast, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7194",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Breast, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7195",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7196",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7197",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Skin and Breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7198",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7199",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7200",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7201",
+"en": "KFC, Fried Chicken, EXTRA CRISPY, Wing, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7202",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7203",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7204",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7205",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7206",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Skin and Breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7207",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7208",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7209",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat and skin with breading",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7210",
+"en": "KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat only, skin and breading removed",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7211",
+"en": "KFC, Popcorn Chicken",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7212",
+"en": "Khorasan, grain, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "7213",
+"en": "Khorasan, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "7214",
+"en": "Kibby, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7215",
+"en": "Kidney",
+"categoria": "Liver and organ meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7216",
+"en": "Kidney beans and brown rice",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7217",
+"en": "Kidney beans and rice, from fast food / restaurant",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7218",
+"en": "Kidney beans and white rice",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7219",
+"en": "Kidney beans with meat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7220",
+"en": "Kidney beans, from canned, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7221",
+"en": "Kidney beans, from canned, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7222",
+"en": "Kidney beans, from canned, reduced sodium",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7223",
+"en": "Kidney beans, from dried, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7224",
+"en": "Kidney beans, from dried, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7225",
+"en": "Kidney beans, from fast food / restaurant",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7226",
+"en": "Kidney beans, NFS",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7227",
+"en": "Kielbasa, fully cooked, grilled",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "7228",
+"en": "Kielbasa, fully cooked, pan-fried",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "7229",
+"en": "Kielbasa, fully cooked, unheated",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "7230",
+"en": "Kielbasa, Polish, turkey and beef, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "7231",
+"en": "Kimchi",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7232",
+"en": "Kiwi fruit, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7233",
+"en": "Kiwifruit (kiwi), green, peeled, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "7234",
+"en": "Kiwifruit, green, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "7235",
+"en": "Kiwifruit, ZESPRI SunGold, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7236",
+"en": "Knackwurst, knockwurst, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "7237",
+"en": "Knish",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7238",
+"en": "Knockwurst",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7239",
+"en": "Kohlrabi, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7240",
+"en": "Kohlrabi, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7241",
+"en": "Kohlrabi, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7242",
+"en": "Kohlrabi, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7243",
+"en": "Korean dressing or marinade",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7244",
+"en": "KRAFT BREAKSTONE'S FREE Fat Free Sour Cream",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7245",
+"en": "KRAFT BREAKSTONE'S Reduced Fat Sour Cream",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7246",
+"en": "KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7247",
+"en": "KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7248",
+"en": "Kraft Foods, Shake N Bake Original Recipe, Coating for Pork, dry",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7249",
+"en": "KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7250",
+"en": "KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7251",
+"en": "KRAFT VELVEETA Pasteurized Process Cheese Spread",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7252",
+"en": "Kraft, Stove Top Stuffing Mix Chicken Flavor",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7253",
+"en": "Kumquat, raw",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7254",
+"en": "Kumquats, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7255",
+"en": "Kung Pao beef",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7256",
+"en": "Kung pao chicken",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7257",
+"en": "Kung Pao pork",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7258",
+"en": "Kung Pao shrimp",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7259",
+"en": "Ladoo, round ball",
+"categoria": "Candy not containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7260",
+"en": "Lamb or mutton and noodles with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7261",
+"en": "Lamb or mutton and potatoes with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7262",
+"en": "Lamb or mutton and potatoes with tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7263",
+"en": "Lamb or mutton loaf",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7264",
+"en": "Lamb or mutton with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7265",
+"en": "Lamb or mutton, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7266",
+"en": "Lamb or mutton, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7267",
+"en": "Lamb or mutton, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7268",
+"en": "Lamb shish kabob with vegetables, excluding potatoes",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7269",
+"en": "Lamb, Australian, ground, 85% lean / 15% fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7270",
+"en": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7271",
+"en": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7272",
+"en": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7273",
+"en": "Lamb, Australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7274",
+"en": "Lamb, Australian, imported, fresh, external fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7275",
+"en": "Lamb, Australian, imported, fresh, external fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7276",
+"en": "Lamb, Australian, imported, fresh, foreshank, separable lean and fat, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7277",
+"en": "Lamb, Australian, imported, fresh, foreshank, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7278",
+"en": "Lamb, Australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7279",
+"en": "Lamb, Australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7280",
+"en": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7281",
+"en": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7282",
+"en": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7283",
+"en": "Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7284",
+"en": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7285",
+"en": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7286",
+"en": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7287",
+"en": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7288",
+"en": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7289",
+"en": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7290",
+"en": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7291",
+"en": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7292",
+"en": "Lamb, Australian, imported, fresh, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7293",
+"en": "Lamb, Australian, imported, fresh, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7294",
+"en": "Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7295",
+"en": "Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7296",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7297",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7298",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7299",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7300",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7301",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7302",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7303",
+"en": "Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7304",
+"en": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7305",
+"en": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7306",
+"en": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7307",
+"en": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7308",
+"en": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7309",
+"en": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7310",
+"en": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7311",
+"en": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7312",
+"en": "Lamb, Australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7313",
+"en": "Lamb, Australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7314",
+"en": "Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7315",
+"en": "Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7316",
+"en": "Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7317",
+"en": "Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7318",
+"en": "Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean and fat, trimmed to 0\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7319",
+"en": "Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean only, trimmed to 0\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7320",
+"en": "Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, grilled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7321",
+"en": "Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean only, trimmed to 1/8\" fat, cooked, grilled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7322",
+"en": "Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean and fat, trimmed to 0\" fat, cooked, grilled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7323",
+"en": "Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean only, trimmed to 0\" fat, cooked, grilled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7324",
+"en": "Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7325",
+"en": "Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7326",
+"en": "Lamb, Australian, imported, fresh, seam fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7327",
+"en": "Lamb, Australian, imported, fresh, seam fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7328",
+"en": "Lamb, Australian, imported, fresh, separable fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7329",
+"en": "Lamb, Australian, imported, fresh, separable fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7330",
+"en": "Lamb, Australian, imported, fresh, shoulder ,blade, separable lean only, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7331",
+"en": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7332",
+"en": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7333",
+"en": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean only, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7334",
+"en": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7335",
+"en": "Lamb, Australian, imported, fresh, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7336",
+"en": "Lamb, Australian, imported, fresh, shoulder, blade, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7337",
+"en": "Lamb, Australian, imported, fresh, shoulder, blade, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7338",
+"en": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7339",
+"en": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7340",
+"en": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean only, trimmed to 1/8\" fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7341",
+"en": "Lamb, Australian, imported, fresh, shoulder, whole (arm and blade), separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7342",
+"en": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7343",
+"en": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7344",
+"en": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean only, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7345",
+"en": "Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean only, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7346",
+"en": "Lamb, chop",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7347",
+"en": "Lamb, composite of trimmed retail cuts, separable fat, trimmed to 1/4\" fat, choice, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7348",
+"en": "Lamb, composite of trimmed retail cuts, separable fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7349",
+"en": "Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4\" fat, choice, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7350",
+"en": "Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7351",
+"en": "Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7352",
+"en": "Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7353",
+"en": "Lamb, composite of trimmed retail cuts, separable lean only, trimmed to 1/4\" fat, choice, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7354",
+"en": "Lamb, composite of trimmed retail cuts, separable lean only, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7355",
+"en": "Lamb, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7356",
+"en": "Lamb, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7357",
+"en": "Lamb, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7358",
+"en": "Lamb, foreshank, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7359",
+"en": "Lamb, foreshank, separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7360",
+"en": "Lamb, foreshank, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7361",
+"en": "Lamb, foreshank, separable lean and fat, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7362",
+"en": "Lamb, foreshank, separable lean only, trimmed to 1/4\" fat, choice, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7363",
+"en": "Lamb, foreshank, separable lean only, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7364",
+"en": "Lamb, ground",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7365",
+"en": "Lamb, ground, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7366",
+"en": "Lamb, ground, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "Foundation"
+},
+{
+"id": "7367",
+"en": "Lamb, leg, shank half, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7368",
+"en": "Lamb, leg, shank half, separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7369",
+"en": "Lamb, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7370",
+"en": "Lamb, leg, shank half, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7371",
+"en": "Lamb, leg, shank half, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7372",
+"en": "Lamb, leg, shank half, separable lean only, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7373",
+"en": "Lamb, leg, sirloin half, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7374",
+"en": "Lamb, leg, sirloin half, separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7375",
+"en": "Lamb, leg, sirloin half, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7376",
+"en": "Lamb, leg, sirloin half, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7377",
+"en": "Lamb, leg, sirloin half, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7378",
+"en": "Lamb, leg, sirloin half, separable lean only, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7379",
+"en": "Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7380",
+"en": "Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7381",
+"en": "Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7382",
+"en": "Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7383",
+"en": "Lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7384",
+"en": "Lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7385",
+"en": "Lamb, loin, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7386",
+"en": "Lamb, loin, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7387",
+"en": "Lamb, loin, separable lean and fat, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7388",
+"en": "Lamb, loin, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7389",
+"en": "Lamb, loin, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7390",
+"en": "Lamb, loin, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7391",
+"en": "Lamb, loin, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7392",
+"en": "Lamb, loin, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7393",
+"en": "Lamb, loin, separable lean only, trimmed to 1/4\" fat, choice, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7394",
+"en": "Lamb, New Zealand, imported, brains, cooked, soaked and fried",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7395",
+"en": "Lamb, New Zealand, imported, brains, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7396",
+"en": "Lamb, New Zealand, imported, breast, separable lean only, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7397",
+"en": "Lamb, New Zealand, imported, breast, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7398",
+"en": "Lamb, New Zealand, imported, chump, boneless, separable lean only, cooked, fast roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7399",
+"en": "Lamb, New Zealand, imported, chump, boneless, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7400",
+"en": "Lamb, New Zealand, imported, flap, boneless, separable lean and fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7401",
+"en": "Lamb, New Zealand, imported, flap, boneless, separable lean and fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7402",
+"en": "Lamb, New Zealand, imported, flap, boneless, separable lean only, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7403",
+"en": "Lamb, New Zealand, imported, flap, boneless, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7404",
+"en": "Lamb, New Zealand, imported, fore-shank, separable lean and fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7405",
+"en": "Lamb, New Zealand, imported, fore-shank, separable lean and fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7406",
+"en": "Lamb, New Zealand, imported, fore-shank, separable lean only, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7407",
+"en": "Lamb, New Zealand, imported, fore-shank, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7408",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7409",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7410",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7411",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7412",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7413",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7414",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean only, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7415",
+"en": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7416",
+"en": "Lamb, New Zealand, imported, frozen, foreshank, separable lean and fat, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7417",
+"en": "Lamb, New Zealand, imported, frozen, foreshank, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7418",
+"en": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7419",
+"en": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7420",
+"en": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7421",
+"en": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean only, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7422",
+"en": "Lamb, New Zealand, imported, frozen, loin, separable lean and fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7423",
+"en": "Lamb, New Zealand, imported, frozen, loin, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7424",
+"en": "Lamb, New Zealand, imported, frozen, loin, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7425",
+"en": "Lamb, New Zealand, imported, frozen, loin, separable lean only, cooked, broiled",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7426",
+"en": "Lamb, New Zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7427",
+"en": "Lamb, new zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7428",
+"en": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7429",
+"en": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7430",
+"en": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8\" fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7431",
+"en": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean only, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7432",
+"en": "Lamb, New Zealand, imported, ground lamb, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7433",
+"en": "Lamb, New Zealand, imported, ground lamb, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7434",
+"en": "Lamb, New Zealand, imported, heart, cooked, soaked and simmered",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7435",
+"en": "Lamb, New Zealand, imported, heart, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7436",
+"en": "Lamb, New Zealand, imported, hind-shank, separable lean and fat, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7437",
+"en": "Lamb, New Zealand, imported, hind-shank, separable lean and fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7438",
+"en": "Lamb, New Zealand, imported, hind-shank, separable lean only, cooked, braised",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7439",
+"en": "Lamb, New Zealand, imported, hind-shank, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7440",
+"en": "Lamb, New Zealand, imported, Intermuscular fat, cooked",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7441",
+"en": "Lamb, New Zealand, imported, Intermuscular fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7442",
+"en": "Lamb, New Zealand, imported, kidney, cooked, soaked and fried",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7443",
+"en": "Lamb, New Zealand, imported, kidney, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7444",
+"en": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, cooked, fast fried",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7445",
+"en": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7446",
+"en": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only, cooked, fast fried",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7447",
+"en": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7448",
+"en": "Lamb, New Zealand, imported, liver, cooked, soaked and fried",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7449",
+"en": "Lamb, New Zealand, imported, liver, raw",
+"categoria": "Lamb, Veal, and Game Products",
+"tipo": "SR Legacy"
+}
+]

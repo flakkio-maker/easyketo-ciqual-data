@@ -1,0 +1,2088 @@
+{
+"3874": {
+"it": "Pollo o tacchino, pasta e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa alla panna, besciamella o salsa ai funghi",
+"fr": "Poulet ou dinde, nouilles et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à la crème, sauce blanche ou sauce aux champignons",
+"es": "Pollo o pavo, fideos y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de crema, salsa blanca o salsa de champiñones",
+"de": "Huhn oder Pute, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sahnesauce, weiße Sauce oder Champignonsauce",
+"pt": "Frango ou peru, macarrão e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de creme, molho branco ou molho de cogumelos"
+},
+"3875": {
+"it": "Pollo o tacchino, pasta e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, nouilles et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, fideos y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, macarrão e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de carne"
+},
+"3876": {
+"it": "Pollo o tacchino, pasta e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, nouilles et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, fideos y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, macarrão e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+},
+"3877": {
+"it": "Pollo o tacchino, pasta e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Poulet ou dinde, nouilles et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à base de tomate",
+"es": "Pollo o pavo, fideos y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Huhn oder Pute, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Frango ou peru, macarrão e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de tomate"
+},
+"3878": {
+"it": "Pollo o tacchino, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Poulet ou dinde, pommes de terre et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce au fromage",
+"es": "Pollo o pavo, patatas y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de queso",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Käsesauce",
+"pt": "Frango ou peru, batatas e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de queijo"
+},
+"3879": {
+"it": "Pollo o tacchino, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa alla panna, besciamella o salsa ai funghi",
+"fr": "Poulet ou dinde, pommes de terre et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce à la crème, sauce blanche ou sauce aux champignons",
+"es": "Pollo o pavo, patatas y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de crema, salsa blanca o salsa de champiñones",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Sahnesauce, weiße Sauce oder Champignonsauce",
+"pt": "Frango ou peru, batatas e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de creme, molho branco ou molho de cogumelos"
+},
+"3880": {
+"it": "Pollo o tacchino, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, pommes de terre et légumes hors carottes, brocolis et légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, patatas y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, batatas e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de carne"
+},
+"3881": {
+"it": "Pollo o tacchino, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, pommes de terre et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, patatas y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, batatas e legumes excluindo cenouras, brócolis e folhas verde-escuras; sem molho"
+},
+"3882": {
+"it": "Pollo o tacchino, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Poulet ou dinde, pommes de terre et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce à base de tomate",
+"es": "Pollo o pavo, patatas y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Frango ou peru, batatas e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho à base de tomate"
+},
+"3883": {
+"it": "Pollo o tacchino, patate e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Poulet ou dinde, pommes de terre et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce au fromage",
+"es": "Pollo o pavo, patatas y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de queso",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Käsesauce",
+"pt": "Frango ou peru, batatas e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de queijo"
+},
+"3884": {
+"it": "Pollo o tacchino, patate e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa alla panna, besciamella o salsa ai funghi",
+"fr": "Poulet ou dinde, pommes de terre et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à la crème, sauce blanche ou sauce aux champignons",
+"es": "Pollo o pavo, patatas y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de crema, salsa blanca o salsa de champiñones",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sahnesauce, weiße Sauce oder Champignonsauce",
+"pt": "Frango ou peru, batatas e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de creme, molho branco ou molho de cogumelos"
+},
+"3885": {
+"it": "Pollo o tacchino, patate e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, pommes de terre et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, patatas y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, batatas e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de carne"
+},
+"3886": {
+"it": "Pollo o tacchino, patate e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, pommes de terre et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, patatas y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, batatas e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+},
+"3887": {
+"it": "Pollo o tacchino, patate e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Poulet ou dinde, pommes de terre et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à base de tomate",
+"es": "Pollo o pavo, patatas y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Huhn oder Pute, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Frango ou peru, batatas e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de tomate"
+},
+"3888": {
+"it": "Pollo o tacchino, patate, mais e formaggio, con salsa di carne",
+"fr": "Poulet ou dinde, pommes de terre, maïs et fromage, avec jus de viande",
+"es": "Pollo o pavo, patatas, maíz y queso, con salsa de carne",
+"de": "Huhn oder Pute, Kartoffeln, Mais und Käse, mit Bratensauce",
+"pt": "Frango ou peru, batatas, milho e queijo, com molho de carne"
+},
+"3889": {
+"it": "Pollo o tacchino, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Poulet ou dinde, riz et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce au fromage",
+"es": "Pollo o pavo, arroz y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de queso",
+"de": "Huhn oder Pute, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Käsesauce",
+"pt": "Frango ou peru, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de queijo"
+},
+"3890": {
+"it": "Pollo o tacchino, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa alla panna, besciamella o salsa ai funghi",
+"fr": "Poulet ou dinde, riz et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce à la crème, sauce blanche ou sauce aux champignons",
+"es": "Pollo o pavo, arroz y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de crema, salsa blanca o salsa de champiñones",
+"de": "Huhn oder Pute, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Sahnesauce, weiße Sauce oder Champignonsauce",
+"pt": "Frango ou peru, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de creme, molho branco ou molho de cogumelos"
+},
+"3891": {
+"it": "Pollo o tacchino, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, riz et légumes hors carottes, brocolis et légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, arroz y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de carne"
+},
+"3892": {
+"it": "Pollo o tacchino, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, riz et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, arroz y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; sem molho"
+},
+"3893": {
+"it": "Pollo o tacchino, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa a base di soia",
+"fr": "Poulet ou dinde, riz et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce à base de soja",
+"es": "Pollo o pavo, arroz y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa a base de soja",
+"de": "Huhn oder Pute, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Sauce auf Sojabasis",
+"pt": "Frango ou peru, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho à base de soja"
+},
+"3894": {
+"it": "Pollo o tacchino, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Poulet ou dinde, riz et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sauce à base de tomate",
+"es": "Pollo o pavo, arroz y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Huhn oder Pute, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Frango ou peru, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho à base de tomate"
+},
+"3895": {
+"it": "Pollo o tacchino, riso e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Poulet ou dinde, riz et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce au fromage",
+"es": "Pollo o pavo, arroz y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de queso",
+"de": "Huhn oder Pute, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Käsesauce",
+"pt": "Frango ou peru, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de queijo"
+},
+"3896": {
+"it": "Pollo o tacchino, riso e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa alla panna, besciamella o salsa ai funghi",
+"fr": "Poulet ou dinde, riz et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à la crème, sauce blanche ou sauce aux champignons",
+"es": "Pollo o pavo, arroz y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de crema, salsa blanca o salsa de champiñones",
+"de": "Huhn oder Pute, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sahnesauce, weiße Sauce oder Champignonsauce",
+"pt": "Frango ou peru, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de creme, molho branco ou molho de cogumelos"
+},
+"3897": {
+"it": "Pollo o tacchino, riso e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, riz et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, arroz y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de carne"
+},
+"3898": {
+"it": "Pollo o tacchino, riso e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, riz et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, arroz y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+},
+"3899": {
+"it": "Pollo o tacchino, riso e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa a base di soia",
+"fr": "Poulet ou dinde, riz et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à base de soja",
+"es": "Pollo o pavo, arroz y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de soja",
+"de": "Huhn oder Pute, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sauce auf Sojabasis",
+"pt": "Frango ou peru, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de soja"
+},
+"3900": {
+"it": "Pollo o tacchino, riso e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Poulet ou dinde, riz et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce à base de tomate",
+"es": "Pollo o pavo, arroz y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Huhn oder Pute, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Frango ou peru, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de tomate"
+},
+"3901": {
+"it": "Pollo o tacchino, riso, mais e formaggio, con salsa di carne",
+"fr": "Poulet ou dinde, riz, maïs et fromage, avec jus de viande",
+"es": "Pollo o pavo, arroz, maíz y queso, con salsa de carne",
+"de": "Huhn oder Pute, Reis, Mais und Käse, mit Bratensauce",
+"pt": "Frango ou peru, arroz, milho e queijo, com molho de carne"
+},
+"3902": {
+"it": "Pollo o tacchino, ripieno e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, farce et légumes hors carottes, brocolis et légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, relleno y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Füllung und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, recheio e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de carne"
+},
+"3903": {
+"it": "Pollo o tacchino, ripieno e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa di carne",
+"fr": "Poulet ou dinde, farce et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; jus de viande",
+"es": "Pollo o pavo, relleno y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de carne",
+"de": "Huhn oder Pute, Füllung und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Bratensauce",
+"pt": "Frango ou peru, recheio e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de carne"
+},
+"3904": {
+"it": "Pollo o tacchino, ripieno e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, farce et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, relleno y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Füllung und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, recheio e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+},
+"3905": {
+"it": "Pollo o tacchino, ripieno e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+"fr": "Poulet ou dinde, farce et légumes hors carottes, brocolis et légumes à feuilles vert foncé; sans sauce",
+"es": "Pollo o pavo, relleno y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+"de": "Huhn oder Pute, Füllung und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Sauce",
+"pt": "Frango ou peru, recheio e legumes excluindo cenouras, brócolis e folhas verde-escuras; sem molho"
+},
+"3906": {
+"it": "Polpetta di pollo, impanata",
+"fr": "Galette de poulet, panée",
+"es": "Hamburguesa de pollo, empanada",
+"de": "Hähnchen-Patty, paniert",
+"pt": "Hambúrguer de frango, empanado"
+},
+"3907": {
+"it": "Polpetta di pollo, surgelata, cotta",
+"fr": "Galette de poulet, surgelée, cuite",
+"es": "Hamburguesa de pollo, congelada, cocida",
+"de": "Hähnchen-Patty, tiefgekühlt, gekocht",
+"pt": "Hambúrguer de frango, congelado, cozido"
+},
+"3908": {
+"it": "Polpetta di pollo, surgelata, non cotta",
+"fr": "Galette de poulet, surgelée, non cuite",
+"es": "Hamburguesa de pollo, congelada, sin cocinar",
+"de": "Hähnchen-Patty, tiefgekühlt, ungekocht",
+"pt": "Hambúrguer de frango, congelado, não cozido"
+},
+"3909": {
+"it": "Polpetta di pollo, o nugget, disossata, impanata, patate, verdura, piatto pronto surgelato",
+"fr": "Galette de poulet, ou nuggets, désossée, panée, pommes de terre, légumes, plat préparé surgelé",
+"es": "Hamburguesa de pollo, o nuggets, deshuesada, empanada, patatas, verdura, plato preparado congelado",
+"de": "Hähnchen-Patty, oder Nuggets, ohne Knochen, paniert, Kartoffeln, Gemüse, Tiefkühlgericht",
+"pt": "Hambúrguer de frango, ou nuggets, sem osso, empanado, batatas, legumes, refeição congelada"
+},
+"3910": {
+"it": "Pot pie di pollo, piatto principale surgelato, preparato",
+"fr": "Pot pie au poulet, plat principal surgelé, préparée",
+"es": "Pastel de pollo (pot pie), plato principal congelado, preparado",
+"de": "Hähnchen-Pot-Pie, Tiefkühl-Hauptgericht, zubereitet",
+"pt": "Torta de frango (pot pie), prato principal congelado, preparada"
+},
+"3911": {
+"it": "Panino con insalata di pollo su pane di frumento",
+"fr": "Sandwich à la salade de poulet sur pain de blé",
+"es": "Sándwich de ensalada de pollo en pan de trigo",
+"de": "Sandwich mit Hähnchensalat auf Weizenbrot",
+"pt": "Sanduíche de salada de frango no pão de trigo"
+},
+"3912": {
+"it": "Panino con insalata di pollo su pane bianco",
+"fr": "Sandwich à la salade de poulet sur pain blanc",
+"es": "Sándwich de ensalada de pollo en pan blanco",
+"de": "Sandwich mit Hähnchensalat auf Weißbrot",
+"pt": "Sanduíche de salada de frango no pão branco"
+},
+"3913": {
+"it": "Wrap con insalata di pollo",
+"fr": "Wrap à la salade de poulet",
+"es": "Wrap de ensalada de pollo",
+"de": "Wrap mit Hähnchensalat",
+"pt": "Wrap de salada de frango"
+},
+"3914": {
+"it": "Crema spalmabile di insalata di pollo",
+"fr": "Tartinade de salade de poulet",
+"es": "Pasta untable de ensalada de pollo",
+"de": "Hähnchensalat-Aufstrich",
+"pt": "Pasta de salada de frango"
+},
+"3915": {
+"it": "Pelle di pollo",
+"fr": "Peau de poulet",
+"es": "Piel de pollo",
+"de": "Hähnchenhaut",
+"pt": "Pele de frango"
+},
+"3916": {
+"it": "Crema spalmabile di pollo",
+"fr": "Tartinade de poulet",
+"es": "Pasta untable de pollo",
+"de": "Hähnchenaufstrich",
+"pt": "Pasta de frango"
+},
+"3917": {
+"it": "Straccetti o listarelle di pollo, impanati, da fast food",
+"fr": "Aiguillettes ou lanières de poulet, panées, de fast-food",
+"es": "Tiras o tiritas de pollo, empanadas, de comida rápida",
+"de": "Hähnchenstreifen, paniert, aus Fast Food",
+"pt": "Tiras ou iscas de frango, empanadas, de fast food"
+},
+"3918": {
+"it": "Straccetti o listarelle di pollo, impanati, da surgelato",
+"fr": "Aiguillettes ou lanières de poulet, panées, à partir de surgelé",
+"es": "Tiras o tiritas de pollo, empanadas, a partir de congelado",
+"de": "Hähnchenstreifen, paniert, aus Tiefkühlware",
+"pt": "Tiras ou iscas de frango, empanadas, a partir de congelado"
+},
+"3919": {
+"it": "Straccetti o listarelle di pollo, impanati, da altre fonti",
+"fr": "Aiguillettes ou lanières de poulet, panées, d'autres sources",
+"es": "Tiras o tiritas de pollo, empanadas, de otras fuentes",
+"de": "Hähnchenstreifen, paniert, aus anderen Quellen",
+"pt": "Tiras ou iscas de frango, empanadas, de outras fontes"
+},
+"3920": {
+"it": "Straccetti o listarelle di pollo, impanati, da ristorante",
+"fr": "Aiguillettes ou lanières de poulet, panées, de restaurant",
+"es": "Tiras o tiritas de pollo, empanadas, de restaurante",
+"de": "Hähnchenstreifen, paniert, aus dem Restaurant",
+"pt": "Tiras ou iscas de frango, empanadas, de restaurante"
+},
+"3921": {
+"it": "Straccetti o listarelle di pollo, impanati, da mensa scolastica",
+"fr": "Aiguillettes ou lanières de poulet, panées, de cantine scolaire",
+"es": "Tiras o tiritas de pollo, empanadas, de comedor escolar",
+"de": "Hähnchenstreifen, paniert, aus der Schulverpflegung",
+"pt": "Tiras ou iscas de frango, empanadas, de merenda escolar"
+},
+"3922": {
+"it": "Straccetti o listarelle di pollo, non specificato",
+"fr": "Aiguillettes ou lanières de poulet, non spécifié",
+"es": "Tiras o tiritas de pollo, no especificado",
+"de": "Hähnchenstreifen, nicht näher bezeichnet",
+"pt": "Tiras ou iscas de frango, não especificado"
+},
+"3923": {
+"it": "Straccetti di pollo, impanati, surgelati, preparati",
+"fr": "Aiguillettes de poulet, panées, surgelées, préparées",
+"es": "Tiras de pollo, empanadas, congeladas, preparadas",
+"de": "Hähnchenstreifen, paniert, tiefgekühlt, zubereitet",
+"pt": "Tiras de frango, empanadas, congeladas, preparadas"
+},
+"3924": {
+"it": "Sovracoscia di pollo, al forno o alla griglia, pelle consumata, da fast food / ristorante",
+"fr": "Haut de cuisse de poulet, cuit au four ou grillé, peau consommée, de fast-food / de restaurant",
+"es": "Muslo de pollo, al horno o a la parrilla, piel consumida, de comida rápida / restaurante",
+"de": "Hähnchenoberschenkel, gebacken oder gegrillt, Haut mitgegessen, aus Fast Food / Restaurant",
+"pt": "Sobrecoxa de frango, assada no forno ou grelhada, pele consumida, de fast food / restaurante"
+},
+"3925": {
+"it": "Sovracoscia di pollo, al forno o alla griglia, pelle consumata, da precotto",
+"fr": "Haut de cuisse de poulet, cuit au four ou grillé, peau consommée, à partir de produit précuit",
+"es": "Muslo de pollo, al horno o a la parrilla, piel consumida, a partir de precocinado",
+"de": "Hähnchenoberschenkel, gebacken oder gegrillt, Haut mitgegessen, aus vorgegartem Produkt",
+"pt": "Sobrecoxa de frango, assada no forno ou grelhada, pele consumida, a partir de pré-cozido"
+},
+"3926": {
+"it": "Sovracoscia di pollo, al forno o alla griglia, pelle non consumata, da fast food / ristorante",
+"fr": "Haut de cuisse de poulet, cuit au four ou grillé, peau non consommée, de fast-food / de restaurant",
+"es": "Muslo de pollo, al horno o a la parrilla, piel no consumida, de comida rápida / restaurante",
+"de": "Hähnchenoberschenkel, gebacken oder gegrillt, Haut nicht mitgegessen, aus Fast Food / Restaurant",
+"pt": "Sobrecoxa de frango, assada no forno ou grelhada, pele não consumida, de fast food / restaurante"
+},
+"3927": {
+"it": "Sovracoscia di pollo, al forno o alla griglia, pelle non consumata, da precotto",
+"fr": "Haut de cuisse de poulet, cuit au four ou grillé, peau non consommée, à partir de produit précuit",
+"es": "Muslo de pollo, al horno o a la parrilla, piel no consumida, a partir de precocinado",
+"de": "Hähnchenoberschenkel, gebacken oder gegrillt, Haut nicht mitgegessen, aus vorgegartem Produkt",
+"pt": "Sobrecoxa de frango, assada no forno ou grelhada, pele não consumida, a partir de pré-cozido"
+},
+"3928": {
+"it": "Sovracoscia di pollo, al forno, alla griglia o arrosto, pelle consumata, da crudo",
+"fr": "Haut de cuisse de poulet, cuit au four, grillé ou rôti, peau consommée, à partir de cru",
+"es": "Muslo de pollo, al horno, a la parrilla o asado, piel consumida, a partir de crudo",
+"de": "Hähnchenoberschenkel, gebacken, gegrillt oder gebraten, Haut mitgegessen, aus rohem Zustand",
+"pt": "Sobrecoxa de frango, assada no forno, grelhada ou assada, pele consumida, a partir de cru"
+},
+"3929": {
+"it": "Sovracoscia di pollo, al forno, alla griglia o arrosto, pelle non consumata, da crudo",
+"fr": "Haut de cuisse de poulet, cuit au four, grillé ou rôti, peau non consommée, à partir de cru",
+"es": "Muslo de pollo, al horno, a la parrilla o asado, piel no consumida, a partir de crudo",
+"de": "Hähnchenoberschenkel, gebacken, gegrillt oder gebraten, Haut nicht mitgegessen, aus rohem Zustand",
+"pt": "Sobrecoxa de frango, assada no forno, grelhada ou assada, pele não consumida, a partir de cru"
+},
+"3930": {
+"it": "Sovracoscia di pollo, al forno, impanata, pelle / impanatura consumata",
+"fr": "Haut de cuisse de poulet, cuit au four, pané, peau / panure consommée",
+"es": "Muslo de pollo, al horno, rebozado, piel / rebozado consumidos",
+"de": "Hähnchenoberschenkel, gebacken, paniert, Haut / Panade mitgegessen",
+"pt": "Sobrecoxa de frango, assada no forno, empanada, pele / empanado consumidos"
+},
+"3931": {
+"it": "Sovracoscia di pollo, al forno, impanata, pelle / impanatura non consumata",
+"fr": "Haut de cuisse de poulet, cuit au four, pané, peau / panure non consommée",
+"es": "Muslo de pollo, al horno, rebozado, piel / rebozado no consumidos",
+"de": "Hähnchenoberschenkel, gebacken, paniert, Haut / Panade nicht mitgegessen",
+"pt": "Sobrecoxa de frango, assada no forno, empanada, pele / empanado não consumidos"
+},
+"3932": {
+"it": "Sovracoscia di pollo, fritta, impanata, preparata senza pelle, impanatura consumata, da crudo",
+"fr": "Haut de cuisse de poulet, frit, pané, préparé sans peau, panure consommée, à partir de cru",
+"es": "Muslo de pollo, frito, rebozado, preparado sin piel, rebozado consumido, a partir de crudo",
+"de": "Hähnchenoberschenkel, frittiert, paniert, ohne Haut zubereitet, Panade mitgegessen, aus rohem Zustand",
+"pt": "Sobrecoxa de frango, frita, empanada, preparada sem pele, empanado consumido, a partir de cru"
+},
+"3933": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura consumata, da fast food",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure consommée, de fast-food",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado consumidos, de comida rápida",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade mitgegessen, aus Fast Food",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado consumidos, de fast food"
+},
+"3934": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura consumata, da precotto",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure consommée, à partir de produit précuit",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado consumidos, a partir de precocinado",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade mitgegessen, aus vorgegartem Produkt",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado consumidos, a partir de pré-cozido"
+},
+"3935": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura consumata, da crudo",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure consommée, à partir de cru",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado consumidos, a partir de crudo",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade mitgegessen, aus rohem Zustand",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado consumidos, a partir de cru"
+},
+"3936": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura consumata, da ristorante",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure consommée, de restaurant",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado consumidos, de restaurante",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade mitgegessen, aus dem Restaurant",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado consumidos, de restaurante"
+},
+"3937": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura non consumata, da fast food",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure non consommée, de fast-food",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado no consumidos, de comida rápida",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade nicht mitgegessen, aus Fast Food",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado não consumidos, de fast food"
+},
+"3938": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura non consumata, da precotto",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure non consommée, à partir de produit précuit",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado no consumidos, a partir de precocinado",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade nicht mitgegessen, aus vorgegartem Produkt",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado não consumidos, a partir de pré-cozido"
+},
+"3939": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura non consumata, da crudo",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure non consommée, à partir de cru",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado no consumidos, a partir de crudo",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade nicht mitgegessen, aus rohem Zustand",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado não consumidos, a partir de cru"
+},
+"3940": {
+"it": "Sovracoscia di pollo, fritta, impanata, pelle / impanatura non consumata, da ristorante",
+"fr": "Haut de cuisse de poulet, frit, pané, peau / panure non consommée, de restaurant",
+"es": "Muslo de pollo, frito, rebozado, piel / rebozado no consumidos, de restaurante",
+"de": "Hähnchenoberschenkel, frittiert, paniert, Haut / Panade nicht mitgegessen, aus dem Restaurant",
+"pt": "Sobrecoxa de frango, frita, empanada, pele / empanado não consumidos, de restaurante"
+},
+"3941": {
+"it": "Sovracoscia di pollo, alla griglia con salsa, pelle consumata",
+"fr": "Haut de cuisse de poulet, grillé avec sauce, peau consommée",
+"es": "Muslo de pollo, a la parrilla con salsa, piel consumida",
+"de": "Hähnchenoberschenkel, gegrillt mit Sauce, Haut mitgegessen",
+"pt": "Sobrecoxa de frango, grelhada com molho, pele consumida"
+},
+"3942": {
+"it": "Sovracoscia di pollo, alla griglia con salsa, pelle non consumata",
+"fr": "Haut de cuisse de poulet, grillé avec sauce, peau non consommée",
+"es": "Muslo de pollo, a la parrilla con salsa, piel no consumida",
+"de": "Hähnchenoberschenkel, gegrillt mit Sauce, Haut nicht mitgegessen",
+"pt": "Sobrecoxa de frango, grelhada com molho, pele não consumida"
+},
+"3943": {
+"it": "Sovracoscia di pollo, alla griglia senza salsa, pelle consumata",
+"fr": "Haut de cuisse de poulet, grillé sans sauce, peau consommée",
+"es": "Muslo de pollo, a la parrilla sin salsa, piel consumida",
+"de": "Hähnchenoberschenkel, gegrillt ohne Sauce, Haut mitgegessen",
+"pt": "Sobrecoxa de frango, grelhada sem molho, pele consumida"
+},
+"3944": {
+"it": "Sovracoscia di pollo, alla griglia senza salsa, pelle non consumata",
+"fr": "Haut de cuisse de poulet, grillé sans sauce, peau non consommée",
+"es": "Muslo de pollo, a la parrilla sin salsa, piel no consumida",
+"de": "Hähnchenoberschenkel, gegrillt ohne Sauce, Haut nicht mitgegessen",
+"pt": "Sobrecoxa de frango, grelhada sem molho, pele não consumida"
+},
+"3945": {
+"it": "Sovracoscia di pollo, metodo di cottura non specificato, pelle consumata",
+"fr": "Haut de cuisse de poulet, mode de cuisson non précisé, peau consommée",
+"es": "Muslo de pollo, método de cocción sin especificar, piel consumida",
+"de": "Hähnchenoberschenkel, Garmethode nicht angegeben, Haut mitgegessen",
+"pt": "Sobrecoxa de frango, método de cozimento não especificado, pele consumida"
+},
+"3946": {
+"it": "Sovracoscia di pollo, metodo di cottura non specificato, pelle non consumata",
+"fr": "Haut de cuisse de poulet, mode de cuisson non précisé, peau non consommée",
+"es": "Muslo de pollo, método de cocción sin especificar, piel no consumida",
+"de": "Hähnchenoberschenkel, Garmethode nicht angegeben, Haut nicht mitgegessen",
+"pt": "Sobrecoxa de frango, método de cozimento não especificado, pele não consumida"
+},
+"3947": {
+"it": "Sovracoscia di pollo, allo spiedo, pelle consumata",
+"fr": "Haut de cuisse de poulet, à la broche, peau consommée",
+"es": "Muslo de pollo, asado en asador, piel consumida",
+"de": "Hähnchenoberschenkel, am Drehspieß gegart, Haut mitgegessen",
+"pt": "Sobrecoxa de frango, assada no espeto, pele consumida"
+},
+"3948": {
+"it": "Sovracoscia di pollo, allo spiedo, pelle non consumata",
+"fr": "Haut de cuisse de poulet, à la broche, peau non consommée",
+"es": "Muslo de pollo, asado en asador, piel no consumida",
+"de": "Hähnchenoberschenkel, am Drehspieß gegart, Haut nicht mitgegessen",
+"pt": "Sobrecoxa de frango, assada no espeto, pele não consumida"
+},
+"3949": {
+"it": "Sovracoscia di pollo, saltata in padella, pelle consumata",
+"fr": "Haut de cuisse de poulet, sauté, peau consommée",
+"es": "Muslo de pollo, salteado, piel consumida",
+"de": "Hähnchenoberschenkel, sautiert, Haut mitgegessen",
+"pt": "Sobrecoxa de frango, salteada, pele consumida"
+},
+"3950": {
+"it": "Sovracoscia di pollo, saltata in padella, pelle non consumata",
+"fr": "Haut de cuisse de poulet, sauté, peau non consommée",
+"es": "Muslo de pollo, salteado, piel no consumida",
+"de": "Hähnchenoberschenkel, sautiert, Haut nicht mitgegessen",
+"pt": "Sobrecoxa de frango, salteada, pele não consumida"
+},
+"3951": {
+"it": "Sovracoscia di pollo, stufata, pelle consumata",
+"fr": "Haut de cuisse de poulet, mijoté, peau consommée",
+"es": "Muslo de pollo, estofado, piel consumida",
+"de": "Hähnchenoberschenkel, geschmort, Haut mitgegessen",
+"pt": "Sobrecoxa de frango, ensopada, pele consumida"
+},
+"3952": {
+"it": "Sovracoscia di pollo, stufata, pelle non consumata",
+"fr": "Haut de cuisse de poulet, mijoté, peau non consommée",
+"es": "Muslo de pollo, estofado, piel no consumida",
+"de": "Hähnchenoberschenkel, geschmort, Haut nicht mitgegessen",
+"pt": "Sobrecoxa de frango, ensopada, pele não consumida"
+},
+"3953": {
+"it": "Ala di pollo, al forno o alla griglia, da fast food / ristorante",
+"fr": "Aile de poulet, cuite au four ou grillée, de fast-food / de restaurant",
+"es": "Ala de pollo, al horno o a la parrilla, de comida rápida / restaurante",
+"de": "Hähnchenflügel, gebacken oder gegrillt, aus Fast Food / Restaurant",
+"pt": "Asa de frango, assada no forno ou grelhada, de fast food / restaurante"
+},
+"3954": {
+"it": "Ala di pollo, al forno o alla griglia, da precotto",
+"fr": "Aile de poulet, cuite au four ou grillée, à partir de produit précuit",
+"es": "Ala de pollo, al horno o a la parrilla, a partir de precocinado",
+"de": "Hähnchenflügel, gebacken oder gegrillt, aus vorgegartem Produkt",
+"pt": "Asa de frango, assada no forno ou grelhada, a partir de pré-cozido"
+},
+"3955": {
+"it": "Ala di pollo, al forno, alla griglia o arrosto, da crudo",
+"fr": "Aile de poulet, cuite au four, grillée ou rôtie, à partir de cru",
+"es": "Ala de pollo, al horno, a la parrilla o asada, a partir de crudo",
+"de": "Hähnchenflügel, gebacken, gegrillt oder gebraten, aus rohem Zustand",
+"pt": "Asa de frango, assada no forno, grelhada ou assada, a partir de cru"
+},
+"3956": {
+"it": "Ala di pollo, al forno, impanata",
+"fr": "Aile de poulet, cuite au four, panée",
+"es": "Ala de pollo, al horno, rebozada",
+"de": "Hähnchenflügel, gebacken, paniert",
+"pt": "Asa de frango, assada no forno, empanada"
+},
+"3957": {
+"it": "Ala di pollo, fritta, impanata, da fast food",
+"fr": "Aile de poulet, frite, panée, de fast-food",
+"es": "Ala de pollo, frita, rebozada, de comida rápida",
+"de": "Hähnchenflügel, frittiert, paniert, aus Fast Food",
+"pt": "Asa de frango, frita, empanada, de fast food"
+},
+"3958": {
+"it": "Ala di pollo, fritta, impanata, da precotto",
+"fr": "Aile de poulet, frite, panée, à partir de produit précuit",
+"es": "Ala de pollo, frita, rebozada, a partir de precocinado",
+"de": "Hähnchenflügel, frittiert, paniert, aus vorgegartem Produkt",
+"pt": "Asa de frango, frita, empanada, a partir de pré-cozido"
+},
+"3959": {
+"it": "Ala di pollo, fritta, impanata, da crudo",
+"fr": "Aile de poulet, frite, panée, à partir de cru",
+"es": "Ala de pollo, frita, rebozada, a partir de crudo",
+"de": "Hähnchenflügel, frittiert, paniert, aus rohem Zustand",
+"pt": "Asa de frango, frita, empanada, a partir de cru"
+},
+"3960": {
+"it": "Ala di pollo, fritta, impanata, da ristorante",
+"fr": "Aile de poulet, frite, panée, de restaurant",
+"es": "Ala de pollo, frita, rebozada, de restaurante",
+"de": "Hähnchenflügel, frittiert, paniert, aus dem Restaurant",
+"pt": "Asa de frango, frita, empanada, de restaurante"
+},
+"3961": {
+"it": "Ala di pollo, alla griglia con salsa",
+"fr": "Aile de poulet, grillée avec sauce",
+"es": "Ala de pollo, a la parrilla con salsa",
+"de": "Hähnchenflügel, gegrillt mit Sauce",
+"pt": "Asa de frango, grelhada com molho"
+},
+"3962": {
+"it": "Ala di pollo, alla griglia senza salsa",
+"fr": "Aile de poulet, grillée sans sauce",
+"es": "Ala de pollo, a la parrilla sin salsa",
+"de": "Hähnchenflügel, gegrillt ohne Sauce",
+"pt": "Asa de frango, grelhada sem molho"
+},
+"3963": {
+"it": "Ala di pollo, metodo di cottura non specificato",
+"fr": "Aile de poulet, mode de cuisson non précisé",
+"es": "Ala de pollo, método de cocción sin especificar",
+"de": "Hähnchenflügel, Garmethode nicht angegeben",
+"pt": "Asa de frango, método de cozimento não especificado"
+},
+"3964": {
+"it": "Ala di pollo, allo spiedo",
+"fr": "Aile de poulet, à la broche",
+"es": "Ala de pollo, asada en asador",
+"de": "Hähnchenflügel, am Drehspieß gegart",
+"pt": "Asa de frango, assada no espeto"
+},
+"3965": {
+"it": "Ala di pollo, saltata in padella",
+"fr": "Aile de poulet, sautée",
+"es": "Ala de pollo, salteada",
+"de": "Hähnchenflügel, sautiert",
+"pt": "Asa de frango, salteada"
+},
+"3966": {
+"it": "Ala di pollo, stufata",
+"fr": "Aile de poulet, mijotée",
+"es": "Ala de pollo, estofada",
+"de": "Hähnchenflügel, geschmort",
+"pt": "Asa de frango, ensopada"
+},
+"3967": {
+"it": "Pollo con salsa di carne",
+"fr": "Poulet avec jus de viande",
+"es": "Pollo con salsa de carne",
+"de": "Hähnchen mit Bratensauce",
+"pt": "Frango com molho de carne"
+},
+"3968": {
+"it": "Pollo con salsa mole",
+"fr": "Poulet sauce mole",
+"es": "Pollo con salsa mole",
+"de": "Hähnchen mit Mole-Sauce",
+"pt": "Frango com molho mole"
+},
+"3969": {
+"it": "Pollo con pasta e salsa al formaggio, piatto pronto surgelato dietetico",
+"fr": "Poulet aux nouilles et sauce au fromage, plat préparé surgelé diététique",
+"es": "Pollo con fideos y salsa de queso, plato preparado congelado de dieta",
+"de": "Hähnchen mit Nudeln und Käsesauce, Diät-Tiefkühlgericht",
+"pt": "Frango com macarrão e molho de queijo, refeição congelada dietética"
+},
+"3970": {
+"it": "Pollo con riso e verdure, piatto pronto surgelato dietetico",
+"fr": "Poulet au riz et aux légumes, plat préparé surgelé diététique",
+"es": "Pollo con arroz y verduras, plato preparado congelado de dieta",
+"de": "Hähnchen mit Reis und Gemüse, Diät-Tiefkühlgericht",
+"pt": "Frango com arroz e legumes, refeição congelada dietética"
+},
+"3971": {
+"it": "Pollo, dorso",
+"fr": "Poulet, dos",
+"es": "Pollo, espalda",
+"de": "Huhn, Rücken",
+"pt": "Frango, dorso"
+},
+"3972": {
+"it": "Pollo, petto, disossato, senza pelle, crudo",
+"fr": "Poulet, blanc, désossé, sans peau, cru",
+"es": "Pollo, pechuga, deshuesado, sin piel, crudo",
+"de": "Huhn, Brust, ohne Knochen, ohne Haut, roh",
+"pt": "Frango, peito, sem osso, sem pele, cru"
+},
+"3973": {
+"it": "Pollo, petto, carne e pelle, crudo",
+"fr": "Poulet, blanc, viande et peau, cru",
+"es": "Pollo, pechuga, carne y piel, crudo",
+"de": "Huhn, Brust, Fleisch und Haut, roh",
+"pt": "Frango, peito, carne e pele, cru"
+},
+"3974": {
+"it": "Pollo, da carne o da frittura, petto, senza pelle, disossato, solo carne, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, blanc, sans peau, désossé, viande seule, cuit, braisé",
+"es": "Pollo, para asar o freír, pechuga, sin piel, deshuesado, solo carne, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, ohne Haut, ohne Knochen, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, peito, sem pele, sem osso, apenas carne, cozido, refogado"
+},
+"3975": {
+"it": "Pollo, da carne o da frittura, petto, senza pelle, disossato, solo carne, cotto, alla griglia",
+"fr": "Poulet, à griller ou à frire, blanc, sans peau, désossé, viande seule, cuit, grillé",
+"es": "Pollo, para asar o freír, pechuga, sin piel, deshuesado, solo carne, cocido, a la parrilla",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, ohne Haut, ohne Knochen, nur Fleisch, gekocht, gegrillt",
+"pt": "Frango, de corte ou para fritar, peito, sem pele, sem osso, apenas carne, cozido, grelhado"
+},
+"3976": {
+"it": "Pollo, da carne o da frittura, petto, senza pelle, disossato, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, blanc, sans peau, désossé, viande seule, cru",
+"es": "Pollo, para asar o freír, pechuga, sin piel, deshuesado, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, ohne Haut, ohne Knochen, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, peito, sem pele, sem osso, apenas carne, cru"
+},
+"3977": {
+"it": "Pollo, da carne o da frittura, petto, senza pelle, disossato, solo carne, con soluzione aggiunta, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, blanc, sans peau, désossé, viande seule, avec solution ajoutée, cuit, braisé",
+"es": "Pollo, para asar o freír, pechuga, sin piel, deshuesado, solo carne, con solución añadida, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, ohne Haut, ohne Knochen, nur Fleisch, mit zugesetzter Lösung, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, peito, sem pele, sem osso, apenas carne, com solução adicionada, cozido, refogado"
+},
+"3978": {
+"it": "Pollo, da carne o da frittura, petto, senza pelle, disossato, solo carne, con soluzione aggiunta, cotto, alla griglia",
+"fr": "Poulet, à griller ou à frire, blanc, sans peau, désossé, viande seule, avec solution ajoutée, cuit, grillé",
+"es": "Pollo, para asar o freír, pechuga, sin piel, deshuesado, solo carne, con solución añadida, cocido, a la parrilla",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, ohne Haut, ohne Knochen, nur Fleisch, mit zugesetzter Lösung, gekocht, gegrillt",
+"pt": "Frango, de corte ou para fritar, peito, sem pele, sem osso, apenas carne, com solução adicionada, cozido, grelhado"
+},
+"3979": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, dorso, solo carne",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, dos, viande seule",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, espalda, solo carne",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Rücken, nur Fleisch",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, dorso, apenas carne"
+},
+"3980": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, dorso, carne e pelle",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, dos, viande et peau",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, espalda, carne y piel",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Rücken, Fleisch und Haut",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, dorso, carne e pele"
+},
+"3981": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, petto, carne e pelle",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, blanc, viande et peau",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, pechuga, carne y piel",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Brust, Fleisch und Haut",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, peito, carne e pele"
+},
+"3982": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, petto, solo carne",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, blanc, viande seule",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, pechuga, solo carne",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Brust, nur Fleisch",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, peito, apenas carne"
+},
+"3983": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, fuso, carne e pelle",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, pilon, viande et peau",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, contramuslo, carne y piel",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Unterschenkel, Fleisch und Haut",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, coxinha, carne e pele"
+},
+"3984": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, fuso, solo carne",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, pilon, viande seule",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, contramuslo, solo carne",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Unterschenkel, nur Fleisch",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, coxinha, apenas carne"
+},
+"3985": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, pelle",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, peau",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, piel",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Haut",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, pele"
+},
+"3986": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, sovracoscia, carne e pelle",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, haut de cuisse, viande et peau",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, muslo, carne y piel",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Oberschenkel, Fleisch und Haut",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, sobrecoxa, carne e pele"
+},
+"3987": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, sovracoscia, solo carne",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, haut de cuisse, viande seule",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, muslo, solo carne",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Oberschenkel, nur Fleisch",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, sobrecoxa, apenas carne"
+},
+"3988": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, ala, carne e pelle",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, aile, viande et peau",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, ala, carne y piel",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Flügel, Fleisch und Haut",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, asa, carne e pele"
+},
+"3989": {
+"it": "Pollo, da carne (broiler), allo spiedo, BBQ, ala, solo carne",
+"fr": "Poulet, à griller (broiler), à la broche, BBQ, aile, viande seule",
+"es": "Pollo, para asar (broiler), asado en asador, BBQ, ala, solo carne",
+"de": "Huhn, Masthähnchen (Broiler), am Drehspieß gegart, BBQ, Flügel, nur Fleisch",
+"pt": "Frango, de corte (broiler), assado no espeto, BBQ, asa, apenas carne"
+},
+"3990": {
+"it": "Pollo, da carne o da frittura, dorso, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, dos, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, espalda, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, dorso, carne e pele, cozido, frito, com massa de empanar"
+},
+"3991": {
+"it": "Pollo, da carne o da frittura, dorso, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, dos, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, espalda, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, dorso, carne e pele, cozido, frito, passado na farinha"
+},
+"3992": {
+"it": "Pollo, da carne o da frittura, dorso, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, dos, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, espalda, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, dorso, carne e pele, cozido, assado"
+},
+"3993": {
+"it": "Pollo, da carne o da frittura, dorso, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, dos, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, espalda, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, dorso, carne e pele, cozido, ensopado"
+},
+"3994": {
+"it": "Pollo, da carne o da frittura, dorso, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, dos, viande et peau, cru",
+"es": "Pollo, para asar o freír, espalda, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, dorso, carne e pele, cru"
+},
+"3995": {
+"it": "Pollo, da carne o da frittura, dorso, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, dos, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, espalda, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, dorso, apenas carne, cozido, frito"
+},
+"3996": {
+"it": "Pollo, da carne o da frittura, dorso, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, dos, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, espalda, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, dorso, apenas carne, cozido, assado"
+},
+"3997": {
+"it": "Pollo, da carne o da frittura, dorso, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, dos, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, espalda, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, dorso, apenas carne, cozido, ensopado"
+},
+"3998": {
+"it": "Pollo, da carne o da frittura, dorso, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, dos, viande seule, cru",
+"es": "Pollo, para asar o freír, espalda, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Rücken, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, dorso, apenas carne, cru"
+},
+"3999": {
+"it": "Pollo, da carne o da frittura, petto, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, blanc, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, pechuga, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, peito, carne e pele, cozido, frito, com massa de empanar"
+},
+"4000": {
+"it": "Pollo, da carne o da frittura, petto, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, blanc, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, pechuga, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, peito, carne e pele, cozido, frito, passado na farinha"
+},
+"4001": {
+"it": "Pollo, da carne o da frittura, petto, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, blanc, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, pechuga, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, peito, carne e pele, cozido, assado"
+},
+"4002": {
+"it": "Pollo, da carne o da frittura, petto, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, blanc, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, pechuga, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, peito, carne e pele, cozido, ensopado"
+},
+"4003": {
+"it": "Pollo, da carne o da frittura, petto, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, blanc, viande et peau, cru",
+"es": "Pollo, para asar o freír, pechuga, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, peito, carne e pele, cru"
+},
+"4004": {
+"it": "Pollo, da carne o da frittura, petto, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, blanc, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, pechuga, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, peito, apenas carne, cozido, frito"
+},
+"4005": {
+"it": "Pollo, da carne o da frittura, petto, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, blanc, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, pechuga, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, peito, apenas carne, cozido, assado"
+},
+"4006": {
+"it": "Pollo, da carne o da frittura, petto, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, blanc, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, pechuga, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, peito, apenas carne, cozido, ensopado"
+},
+"4007": {
+"it": "Pollo, da carne o da frittura, petto, senza pelle, disossato, solo carne, con soluzione aggiunta, crudo",
+"fr": "Poulet, à griller ou à frire, blanc, sans peau, désossé, viande seule, avec solution ajoutée, cru",
+"es": "Pollo, para asar o freír, pechuga, sin piel, deshuesado, solo carne, con solución añadida, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Brust, ohne Haut, ohne Knochen, nur Fleisch, mit zugesetzter Lösung, roh",
+"pt": "Frango, de corte ou para fritar, peito, sem pele, sem osso, apenas carne, com solução adicionada, cru"
+},
+"4008": {
+"it": "Pollo, da carne o da frittura, carne scura, fuso, carne e pelle, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, viande brune, pilon, viande et peau, cuit, braisé",
+"es": "Pollo, para asar o freír, carne oscura, contramuslo, carne y piel, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Unterschenkel, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne escura, coxinha, carne e pele, cozido, refogado"
+},
+"4009": {
+"it": "Pollo, da carne o da frittura, carne scura, fuso, solo carne, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, viande brune, pilon, viande seule, cuit, braisé",
+"es": "Pollo, para asar o freír, carne oscura, contramuslo, solo carne, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Unterschenkel, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne escura, coxinha, apenas carne, cozido, refogado"
+},
+"4010": {
+"it": "Pollo, da carne o da frittura, carne scura, fuso, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande brune, pilon, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, carne oscura, contramuslo, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Unterschenkel, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne escura, coxinha, apenas carne, cozido, assado"
+},
+"4011": {
+"it": "Pollo, da carne o da frittura, carne scura, fuso, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, viande brune, pilon, viande seule, cru",
+"es": "Pollo, para asar o freír, carne oscura, contramuslo, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Unterschenkel, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, carne escura, coxinha, apenas carne, cru"
+},
+"4012": {
+"it": "Pollo, da carne o da frittura, carne scura, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, viande brune, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, carne oscura, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, carne escura, carne e pele, cozido, frito, com massa de empanar"
+},
+"4013": {
+"it": "Pollo, da carne o da frittura, carne scura, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, viande brune, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, carne oscura, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, carne escura, carne e pele, cozido, frito, passado na farinha"
+},
+"4014": {
+"it": "Pollo, da carne o da frittura, carne scura, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande brune, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, carne oscura, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne escura, carne e pele, cozido, assado"
+},
+"4015": {
+"it": "Pollo, da carne o da frittura, carne scura, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, viande brune, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, carne oscura, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne escura, carne e pele, cozido, ensopado"
+},
+"4016": {
+"it": "Pollo, da carne o da frittura, carne scura, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, viande brune, viande et peau, cru",
+"es": "Pollo, para asar o freír, carne oscura, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, carne escura, carne e pele, cru"
+},
+"4017": {
+"it": "Pollo, da carne o da frittura, carne scura, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, viande brune, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, carne oscura, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, carne escura, apenas carne, cozido, frito"
+},
+"4018": {
+"it": "Pollo, da carne o da frittura, carne scura, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande brune, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, carne oscura, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne escura, apenas carne, cozido, assado"
+},
+"4019": {
+"it": "Pollo, da carne o da frittura, carne scura, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, viande brune, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, carne oscura, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne escura, apenas carne, cozido, ensopado"
+},
+"4020": {
+"it": "Pollo, da carne o da frittura, carne scura, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, viande brune, viande seule, cru",
+"es": "Pollo, para asar o freír, carne oscura, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, carne escura, apenas carne, cru"
+},
+"4021": {
+"it": "Pollo, da carne o da frittura, carne scura, sovracoscia, carne e pelle, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, viande brune, haut de cuisse, viande et peau, cuit, braisé",
+"es": "Pollo, para asar o freír, carne oscura, muslo, carne y piel, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Oberschenkel, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne escura, sobrecoxa, carne e pele, cozido, refogado"
+},
+"4022": {
+"it": "Pollo, da carne o da frittura, carne scura, sovracoscia, solo carne, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, viande brune, haut de cuisse, viande seule, cuit, braisé",
+"es": "Pollo, para asar o freír, carne oscura, muslo, solo carne, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Oberschenkel, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne escura, sobrecoxa, apenas carne, cozido, refogado"
+},
+"4023": {
+"it": "Pollo, da carne o da frittura, carne scura, sovracoscia, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, viande brune, haut de cuisse, viande seule, cru",
+"es": "Pollo, para asar o freír, carne oscura, muslo, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, dunkles Fleisch, Oberschenkel, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, carne escura, sobrecoxa, apenas carne, cru"
+},
+"4024": {
+"it": "Pollo, da carne o da frittura, fuso, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, pilon, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, contramuslo, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, coxinha, carne e pele, cozido, frito, com massa de empanar"
+},
+"4025": {
+"it": "Pollo, da carne o da frittura, fuso, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, pilon, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, contramuslo, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, coxinha, carne e pele, cozido, frito, passado na farinha"
+},
+"4026": {
+"it": "Pollo, da carne o da frittura, fuso, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, pilon, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, contramuslo, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, coxinha, carne e pele, cozido, assado"
+},
+"4027": {
+"it": "Pollo, da carne o da frittura, fuso, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, pilon, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, contramuslo, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, coxinha, carne e pele, cozido, ensopado"
+},
+"4028": {
+"it": "Pollo, da carne o da frittura, fuso, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, pilon, viande et peau, cru",
+"es": "Pollo, para asar o freír, contramuslo, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, coxinha, carne e pele, cru"
+},
+"4029": {
+"it": "Pollo, da carne o da frittura, fuso, solo carne, cotto, brasato",
+"fr": "Poulet, à griller ou à frire, pilon, viande seule, cuit, braisé",
+"es": "Pollo, para asar o freír, contramuslo, solo carne, cocido, braseado",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, coxinha, apenas carne, cozido, refogado"
+},
+"4030": {
+"it": "Pollo, da carne o da frittura, fuso, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, pilon, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, contramuslo, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, coxinha, apenas carne, cozido, frito"
+},
+"4031": {
+"it": "Pollo, da carne o da frittura, fuso, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, pilon, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, contramuslo, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, coxinha, apenas carne, cozido, ensopado"
+},
+"4032": {
+"it": "Pollo, da carne o da frittura, fuso, allo spiedo, condimento originale, solo carne, cotto",
+"fr": "Poulet, à griller ou à frire, pilon, à la broche, assaisonnement original, viande seule, cuit",
+"es": "Pollo, para asar o freír, contramuslo, asado en asador, condimento original, solo carne, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, Unterschenkel, am Drehspieß gegart, Originalgewürz, nur Fleisch, gekocht",
+"pt": "Frango, de corte ou para fritar, coxinha, assado no espeto, tempero original, apenas carne, cozido"
+},
+"4033": {
+"it": "Pollo, da carne o da frittura, frattaglie, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, abats, cuit, frit",
+"es": "Pollo, para asar o freír, menudencias, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Innereien, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, miúdos, cozido, frito"
+},
+"4034": {
+"it": "Pollo, da carne o da frittura, frattaglie, cotto, lessato",
+"fr": "Poulet, à griller ou à frire, abats, cuit, mijoté à feu doux",
+"es": "Pollo, para asar o freír, menudencias, cocido, a fuego lento",
+"de": "Huhn, Mast- oder Brathähnchen, Innereien, gekocht, geköchelt",
+"pt": "Frango, de corte ou para fritar, miúdos, cozido, em fogo baixo"
+},
+"4035": {
+"it": "Pollo, da carne o da frittura, frattaglie, crudo",
+"fr": "Poulet, à griller ou à frire, abats, cru",
+"es": "Pollo, para asar o freír, menudencias, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Innereien, roh",
+"pt": "Frango, de corte ou para fritar, miúdos, cru"
+},
+"4036": {
+"it": "Pollo, da carne o da frittura, coscia, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, cuisse, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, pierna, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, carne e pele, cozido, frito, com massa de empanar"
+},
+"4037": {
+"it": "Pollo, da carne o da frittura, coscia, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, cuisse, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, pierna, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, carne e pele, cozido, frito, passado na farinha"
+},
+"4038": {
+"it": "Pollo, da carne o da frittura, coscia, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, cuisse, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, pierna, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, carne e pele, cozido, assado"
+},
+"4039": {
+"it": "Pollo, da carne o da frittura, coscia, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, cuisse, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, pierna, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, carne e pele, cozido, ensopado"
+},
+"4040": {
+"it": "Pollo, da carne o da frittura, coscia, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, cuisse, viande et peau, cru",
+"es": "Pollo, para asar o freír, pierna, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, carne e pele, cru"
+},
+"4041": {
+"it": "Pollo, da carne o da frittura, coscia, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, cuisse, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, pierna, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, apenas carne, cozido, frito"
+},
+"4042": {
+"it": "Pollo, da carne o da frittura, coscia, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, cuisse, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, pierna, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, apenas carne, cozido, assado"
+},
+"4043": {
+"it": "Pollo, da carne o da frittura, coscia, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, cuisse, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, pierna, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, apenas carne, cozido, ensopado"
+},
+"4044": {
+"it": "Pollo, da carne o da frittura, coscia, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, cuisse, viande seule, cru",
+"es": "Pollo, para asar o freír, pierna, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Keule, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, coxa e sobrecoxa, apenas carne, cru"
+},
+"4045": {
+"it": "Pollo, da carne o da frittura, carne chiara, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, carne blanca, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, carne clara, carne e pele, cozido, frito, com massa de empanar"
+},
+"4046": {
+"it": "Pollo, da carne o da frittura, carne chiara, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, carne blanca, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, carne clara, carne e pele, cozido, frito, passado na farinha"
+},
+"4047": {
+"it": "Pollo, da carne o da frittura, carne chiara, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, carne blanca, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne clara, carne e pele, cozido, assado"
+},
+"4048": {
+"it": "Pollo, da carne o da frittura, carne chiara, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, carne blanca, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne clara, carne e pele, cozido, ensopado"
+},
+"4049": {
+"it": "Pollo, da carne o da frittura, carne chiara, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande et peau, cru",
+"es": "Pollo, para asar o freír, carne blanca, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, carne clara, carne e pele, cru"
+},
+"4050": {
+"it": "Pollo, da carne o da frittura, carne chiara, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, carne blanca, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, carne clara, apenas carne, cozido, frito"
+},
+"4051": {
+"it": "Pollo, da carne o da frittura, carne chiara, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, carne blanca, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne clara, apenas carne, cozido, assado"
+},
+"4052": {
+"it": "Pollo, da carne o da frittura, carne chiara, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, carne blanca, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne clara, apenas carne, cozido, ensopado"
+},
+"4053": {
+"it": "Pollo, da carne o da frittura, carne chiara, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, viande blanche, viande seule, cru",
+"es": "Pollo, para asar o freír, carne blanca, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, helles Fleisch, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, carne clara, apenas carne, cru"
+},
+"4054": {
+"it": "Pollo, da carne o da frittura, carne, pelle, frattaglie e collo, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, viande, peau, abats et cou, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, carne, piel, menudencias y cuello, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch, Haut, Innereien und Hals, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, carne, pele, miúdos e pescoço, cozido, frito, com massa de empanar"
+},
+"4055": {
+"it": "Pollo, da carne o da frittura, carne, pelle, frattaglie e collo, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, viande, peau, abats et cou, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, carne, piel, menudencias y cuello, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch, Haut, Innereien und Hals, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, carne, pele, miúdos e pescoço, cozido, frito, passado na farinha"
+},
+"4056": {
+"it": "Pollo, da carne o da frittura, carne, pelle, frattaglie e collo, crudo",
+"fr": "Poulet, à griller ou à frire, viande, peau, abats et cou, cru",
+"es": "Pollo, para asar o freír, carne, piel, menudencias y cuello, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch, Haut, Innereien und Hals, roh",
+"pt": "Frango, de corte ou para fritar, carne, pele, miúdos e pescoço, cru"
+},
+"4057": {
+"it": "Pollo, da carne o da frittura, carne, pelle, frattaglie e collo, arrosto",
+"fr": "Poulet, à griller ou à frire, viande, peau, abats et cou, rôti",
+"es": "Pollo, para asar o freír, carne, piel, menudencias y cuello, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch, Haut, Innereien und Hals, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne, pele, miúdos e pescoço, assado"
+},
+"4058": {
+"it": "Pollo, da carne o da frittura, carne, pelle, frattaglie e collo, stufato",
+"fr": "Poulet, à griller ou à frire, viande, peau, abats et cou, mijoté",
+"es": "Pollo, para asar o freír, carne, piel, menudencias y cuello, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch, Haut, Innereien und Hals, geschmort",
+"pt": "Frango, de corte ou para fritar, carne, pele, miúdos e pescoço, ensopado"
+},
+"4059": {
+"it": "Pollo, da carne o da frittura, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, carne e pele, cozido, frito, com massa de empanar"
+},
+"4060": {
+"it": "Pollo, da carne o da frittura, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, carne e pele, cozido, frito, passado na farinha"
+},
+"4061": {
+"it": "Pollo, da carne o da frittura, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, carne e pele, cozido, assado"
+},
+"4062": {
+"it": "Pollo, da carne o da frittura, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, carne e pele, cozido, ensopado"
+},
+"4063": {
+"it": "Pollo, da carne o da frittura, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, viande et peau, cru",
+"es": "Pollo, para asar o freír, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, carne e pele, cru"
+},
+"4064": {
+"it": "Pollo, da carne o da frittura, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, apenas carne, cozido, frito"
+},
+"4065": {
+"it": "Pollo, da carne o da frittura, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, apenas carne, cozido, assado"
+},
+"4066": {
+"it": "Pollo, da carne o da frittura, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, apenas carne, cozido, ensopado"
+},
+"4067": {
+"it": "Pollo, da carne o da frittura, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, viande seule, cru",
+"es": "Pollo, para asar o freír, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, apenas carne, cru"
+},
+"4068": {
+"it": "Pollo, da carne o da frittura, collo, carne e pelle, cotto, lessato",
+"fr": "Poulet, à griller ou à frire, cou, viande et peau, cuit, mijoté à feu doux",
+"es": "Pollo, para asar o freír, cuello, carne y piel, cocido, a fuego lento",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, Fleisch und Haut, gekocht, geköchelt",
+"pt": "Frango, de corte ou para fritar, pescoço, carne e pele, cozido, em fogo baixo"
+},
+"4069": {
+"it": "Pollo, da carne o da frittura, collo, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, cou, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, cuello, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, pescoço, carne e pele, cozido, frito, com massa de empanar"
+},
+"4070": {
+"it": "Pollo, da carne o da frittura, collo, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, cou, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, cuello, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, pescoço, carne e pele, cozido, frito, passado na farinha"
+},
+"4071": {
+"it": "Pollo, da carne o da frittura, collo, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, cou, viande et peau, cru",
+"es": "Pollo, para asar o freír, cuello, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, pescoço, carne e pele, cru"
+},
+"4072": {
+"it": "Pollo, da carne o da frittura, collo, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, cou, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, cuello, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, pescoço, apenas carne, cozido, frito"
+},
+"4073": {
+"it": "Pollo, da carne o da frittura, collo, solo carne, cotto, lessato",
+"fr": "Poulet, à griller ou à frire, cou, viande seule, cuit, mijoté à feu doux",
+"es": "Pollo, para asar o freír, cuello, solo carne, cocido, a fuego lento",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, nur Fleisch, gekocht, geköchelt",
+"pt": "Frango, de corte ou para fritar, pescoço, apenas carne, cozido, em fogo baixo"
+},
+"4074": {
+"it": "Pollo, da carne o da frittura, collo, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, cou, viande seule, cru",
+"es": "Pollo, para asar o freír, cuello, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Hals, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, pescoço, apenas carne, cru"
+},
+"4075": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, dorso, carne e pelle, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, dos, viande et peau, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, espalda, carne y piel, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Rücken, Fleisch und Haut, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, dorso, carne e pele, cozido"
+},
+"4076": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, dorso, solo carne, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, dos, viande seule, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, espalda, solo carne, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Rücken, nur Fleisch, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, dorso, apenas carne, cozido"
+},
+"4077": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, petto, carne e pelle, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, blanc, viande et peau, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, pechuga, carne y piel, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Brust, Fleisch und Haut, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, peito, carne e pele, cozido"
+},
+"4078": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, petto, solo carne, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, blanc, viande seule, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, pechuga, solo carne, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Brust, nur Fleisch, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, peito, apenas carne, cozido"
+},
+"4079": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, fuso, carne e pelle, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, pilon, viande et peau, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, contramuslo, carne y piel, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Unterschenkel, Fleisch und Haut, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, coxinha, carne e pele, cozido"
+},
+"4080": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, solo pelle, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, peau seule, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, solo piel, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, nur Haut, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, apenas pele, cozido"
+},
+"4081": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, sovracoscia, carne e pelle, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, haut de cuisse, viande et peau, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, muslo, carne y piel, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Oberschenkel, Fleisch und Haut, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, sobrecoxa, carne e pele, cozido"
+},
+"4082": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, sovracoscia, solo carne, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, haut de cuisse, viande seule, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, muslo, solo carne, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Oberschenkel, nur Fleisch, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, sobrecoxa, apenas carne, cozido"
+},
+"4083": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, ala, carne e pelle, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, aile, viande et peau, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, ala, carne y piel, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Flügel, Fleisch und Haut, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, asa, carne e pele, cozido"
+},
+"4084": {
+"it": "Pollo, da carne o da frittura, allo spiedo, condimento originale, ala, solo carne, cotto",
+"fr": "Poulet, à griller ou à frire, à la broche, assaisonnement original, aile, viande seule, cuit",
+"es": "Pollo, para asar o freír, asado en asador, condimento original, ala, solo carne, cocido",
+"de": "Huhn, Mast- oder Brathähnchen, am Drehspieß gegart, Originalgewürz, Flügel, nur Fleisch, gekocht",
+"pt": "Frango, de corte ou para fritar, assado no espeto, tempero original, asa, apenas carne, cozido"
+},
+"4085": {
+"it": "Pollo, da carne o da frittura, grasso separabile, crudo",
+"fr": "Poulet, à griller ou à frire, gras séparable, cru",
+"es": "Pollo, para asar o freír, grasa separable, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, abtrennbares Fett, roh",
+"pt": "Frango, de corte ou para fritar, gordura separável, cru"
+},
+"4086": {
+"it": "Pollo, da carne o da frittura, solo pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, peau seule, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, solo piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, nur Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, apenas pele, cozido, frito, com massa de empanar"
+},
+"4087": {
+"it": "Pollo, da carne o da frittura, solo pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, peau seule, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, solo piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, nur Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, apenas pele, cozido, frito, passado na farinha"
+},
+"4088": {
+"it": "Pollo, da carne o da frittura, solo pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, peau seule, cuit, rôti",
+"es": "Pollo, para asar o freír, solo piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, nur Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, apenas pele, cozido, assado"
+},
+"4089": {
+"it": "Pollo, da carne o da frittura, solo pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, peau seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, solo piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, nur Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, apenas pele, cozido, ensopado"
+},
+"4090": {
+"it": "Pollo, da carne o da frittura, solo pelle, crudo",
+"fr": "Poulet, à griller ou à frire, peau seule, cru",
+"es": "Pollo, para asar o freír, solo piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, nur Haut, roh",
+"pt": "Frango, de corte ou para fritar, apenas pele, cru"
+},
+"4091": {
+"it": "Pollo, da carne o da frittura, sovracoscia, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, muslo, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, carne e pele, cozido, frito, com massa de empanar"
+},
+"4092": {
+"it": "Pollo, da carne o da frittura, sovracoscia, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, muslo, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, carne e pele, cozido, frito, passado na farinha"
+},
+"4093": {
+"it": "Pollo, da carne o da frittura, sovracoscia, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, muslo, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, carne e pele, cozido, assado"
+},
+"4094": {
+"it": "Pollo, da carne o da frittura, sovracoscia, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, muslo, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, carne e pele, cozido, ensopado"
+},
+"4095": {
+"it": "Pollo, da carne o da frittura, sovracoscia, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande et peau, cru",
+"es": "Pollo, para asar o freír, muslo, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, carne e pele, cru"
+},
+"4096": {
+"it": "Pollo, da carne o da frittura, sovracoscia, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, muslo, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, apenas carne, cozido, frito"
+},
+"4097": {
+"it": "Pollo, da carne o da frittura, sovracoscia, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, muslo, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, apenas carne, cozido, assado"
+},
+"4098": {
+"it": "Pollo, da carne o da frittura, sovracoscia, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, haut de cuisse, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, muslo, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Oberschenkel, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, sobrecoxa, apenas carne, cozido, ensopado"
+},
+"4099": {
+"it": "Pollo, da carne o da frittura, ala, carne e pelle, cotto, fritto, in pastella",
+"fr": "Poulet, à griller ou à frire, aile, viande et peau, cuit, frit, en pâte à frire",
+"es": "Pollo, para asar o freír, ala, carne y piel, cocido, frito, rebozado",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, Fleisch und Haut, gekocht, frittiert, im Backteig",
+"pt": "Frango, de corte ou para fritar, asa, carne e pele, cozido, frito, com massa de empanar"
+},
+"4100": {
+"it": "Pollo, da carne o da frittura, ala, carne e pelle, cotto, fritto, infarinato",
+"fr": "Poulet, à griller ou à frire, aile, viande et peau, cuit, frit, fariné",
+"es": "Pollo, para asar o freír, ala, carne y piel, cocido, frito, enharinado",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, Fleisch und Haut, gekocht, frittiert, in Mehl gewendet",
+"pt": "Frango, de corte ou para fritar, asa, carne e pele, cozido, frito, passado na farinha"
+},
+"4101": {
+"it": "Pollo, da carne o da frittura, ala, carne e pelle, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, aile, viande et peau, cuit, rôti",
+"es": "Pollo, para asar o freír, ala, carne y piel, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, asa, carne e pele, cozido, assado"
+},
+"4102": {
+"it": "Pollo, da carne o da frittura, ala, carne e pelle, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, aile, viande et peau, cuit, mijoté",
+"es": "Pollo, para asar o freír, ala, carne y piel, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, Fleisch und Haut, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, asa, carne e pele, cozido, ensopado"
+},
+"4103": {
+"it": "Pollo, da carne o da frittura, ala, carne e pelle, crudo",
+"fr": "Poulet, à griller ou à frire, aile, viande et peau, cru",
+"es": "Pollo, para asar o freír, ala, carne y piel, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, Fleisch und Haut, roh",
+"pt": "Frango, de corte ou para fritar, asa, carne e pele, cru"
+},
+"4104": {
+"it": "Pollo, da carne o da frittura, ala, solo carne, cotto, fritto",
+"fr": "Poulet, à griller ou à frire, aile, viande seule, cuit, frit",
+"es": "Pollo, para asar o freír, ala, solo carne, cocido, frito",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, nur Fleisch, gekocht, frittiert",
+"pt": "Frango, de corte ou para fritar, asa, apenas carne, cozido, frito"
+},
+"4105": {
+"it": "Pollo, da carne o da frittura, ala, solo carne, cotto, arrosto",
+"fr": "Poulet, à griller ou à frire, aile, viande seule, cuit, rôti",
+"es": "Pollo, para asar o freír, ala, solo carne, cocido, asado",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, de corte ou para fritar, asa, apenas carne, cozido, assado"
+},
+"4106": {
+"it": "Pollo, da carne o da frittura, ala, solo carne, cotto, stufato",
+"fr": "Poulet, à griller ou à frire, aile, viande seule, cuit, mijoté",
+"es": "Pollo, para asar o freír, ala, solo carne, cocido, estofado",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, nur Fleisch, gekocht, geschmort",
+"pt": "Frango, de corte ou para fritar, asa, apenas carne, cozido, ensopado"
+},
+"4107": {
+"it": "Pollo, da carne o da frittura, ala, solo carne, crudo",
+"fr": "Poulet, à griller ou à frire, aile, viande seule, cru",
+"es": "Pollo, para asar o freír, ala, solo carne, crudo",
+"de": "Huhn, Mast- oder Brathähnchen, Flügel, nur Fleisch, roh",
+"pt": "Frango, de corte ou para fritar, asa, apenas carne, cru"
+},
+"4108": {
+"it": "Pollo, in scatola, solo carne",
+"fr": "Poulet, en conserve, viande seule",
+"es": "Pollo, en conserva, solo carne",
+"de": "Huhn, aus der Dose, nur Fleisch",
+"pt": "Frango, enlatado, apenas carne"
+},
+"4109": {
+"it": "Pollo, in scatola, solo carne, con brodo",
+"fr": "Poulet, en conserve, viande seule, avec bouillon",
+"es": "Pollo, en conserva, solo carne, con caldo",
+"de": "Huhn, aus der Dose, nur Fleisch, mit Brühe",
+"pt": "Frango, enlatado, apenas carne, com caldo"
+},
+"4110": {
+"it": "Pollo, in scatola, senza brodo",
+"fr": "Poulet, en conserve, sans bouillon",
+"es": "Pollo, en conserva, sin caldo",
+"de": "Huhn, aus der Dose, ohne Brühe",
+"pt": "Frango, enlatado, sem caldo"
+},
+"4111": {
+"it": "Pollo, capponi, frattaglie, cotti, lessati",
+"fr": "Poulet, chapons, abats, cuits, mijotés à feu doux",
+"es": "Pollo, capones, menudencias, cocidos, a fuego lento",
+"de": "Huhn, Kapaune, Innereien, gekocht, geköchelt",
+"pt": "Frango, capões, miúdos, cozidos, em fogo baixo"
+},
+"4112": {
+"it": "Pollo, capponi, frattaglie, crudi",
+"fr": "Poulet, chapons, abats, crus",
+"es": "Pollo, capones, menudencias, crudos",
+"de": "Huhn, Kapaune, Innereien, roh",
+"pt": "Frango, capões, miúdos, crus"
+},
+"4113": {
+"it": "Pollo, capponi, carne, pelle, frattaglie e collo, cotti, arrosto",
+"fr": "Poulet, chapons, viande, peau, abats et cou, cuits, rôtis",
+"es": "Pollo, capones, carne, piel, menudencias y cuello, cocidos, asados",
+"de": "Huhn, Kapaune, Fleisch, Haut, Innereien und Hals, gekocht, gebraten (im Ofen)",
+"pt": "Frango, capões, carne, pele, miúdos e pescoço, cozidos, assados"
+},
+"4114": {
+"it": "Pollo, capponi, carne, pelle, frattaglie e collo, crudi",
+"fr": "Poulet, chapons, viande, peau, abats et cou, crus",
+"es": "Pollo, capones, carne, piel, menudencias y cuello, crudos",
+"de": "Huhn, Kapaune, Fleisch, Haut, Innereien und Hals, roh",
+"pt": "Frango, capões, carne, pele, miúdos e pescoço, crus"
+},
+"4115": {
+"it": "Pollo, capponi, carne e pelle, cotti, arrosto",
+"fr": "Poulet, chapons, viande et peau, cuits, rôtis",
+"es": "Pollo, capones, carne y piel, cocidos, asados",
+"de": "Huhn, Kapaune, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, capões, carne e pele, cozidos, assados"
+},
+"4116": {
+"it": "Pollo, capponi, carne e pelle, crudi",
+"fr": "Poulet, chapons, viande et peau, crus",
+"es": "Pollo, capones, carne y piel, crudos",
+"de": "Huhn, Kapaune, Fleisch und Haut, roh",
+"pt": "Frango, capões, carne e pele, crus"
+},
+"4117": {
+"it": "Pollo, rotolo di pollo, arrosto",
+"fr": "Poulet, rouleau de poulet, rôti",
+"es": "Pollo, rollo de pollo, asado",
+"de": "Huhn, Hähnchenrolle, gebraten (im Ofen)",
+"pt": "Frango, rolo de frango, assado"
+},
+"4118": {
+"it": "Pollo, galletti Cornish, carne e pelle, cotti, arrosto",
+"fr": "Poulet, coquelets Cornish, viande et peau, cuits, rôtis",
+"es": "Pollo, gallinas Cornish, carne y piel, cocidas, asadas",
+"de": "Huhn, Cornish-Hähnchen, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+"pt": "Frango, galetos Cornish, carne e pele, cozidos, assados"
+},
+"4119": {
+"it": "Pollo, galletti Cornish, carne e pelle, crudi",
+"fr": "Poulet, coquelets Cornish, viande et peau, crus",
+"es": "Pollo, gallinas Cornish, carne y piel, crudas",
+"de": "Huhn, Cornish-Hähnchen, Fleisch und Haut, roh",
+"pt": "Frango, galetos Cornish, carne e pele, crus"
+},
+"4120": {
+"it": "Pollo, galletti Cornish, solo carne, cotti, arrosto",
+"fr": "Poulet, coquelets Cornish, viande seule, cuits, rôtis",
+"es": "Pollo, gallinas Cornish, solo carne, cocidas, asadas",
+"de": "Huhn, Cornish-Hähnchen, nur Fleisch, gekocht, gebraten (im Ofen)",
+"pt": "Frango, galetos Cornish, apenas carne, cozidos, assados"
+},
+"4121": {
+"it": "Pollo, galletti Cornish, solo carne, crudi",
+"fr": "Poulet, coquelets Cornish, viande seule, crus",
+"es": "Pollo, gallinas Cornish, solo carne, crudas",
+"de": "Huhn, Cornish-Hähnchen, nur Fleisch, roh",
+"pt": "Frango, galetos Cornish, apenas carne, crus"
+},
+"4122": {
+"it": "Pollo, carne scura, fuso, carne e pelle, con soluzione aggiunta, cotto, brasato",
+"fr": "Poulet, viande brune, pilon, viande et peau, avec solution ajoutée, cuit, braisé",
+"es": "Pollo, carne oscura, contramuslo, carne y piel, con solución añadida, cocido, braseado",
+"de": "Huhn, dunkles Fleisch, Unterschenkel, Fleisch und Haut, mit zugesetzter Lösung, gekocht, geschmort",
+"pt": "Frango, carne escura, coxinha, carne e pele, com solução adicionada, cozido, refogado"
+},
+"4123": {
+"it": "Pollo, carne scura, fuso, carne e pelle, con soluzione aggiunta, cotto, arrosto",
+"fr": "Poulet, viande brune, pilon, viande et peau, avec solution ajoutée, cuit, rôti",
+"es": "Pollo, carne oscura, contramuslo, carne y piel, con solución añadida, cocido, asado",
+"de": "Huhn, dunkles Fleisch, Unterschenkel, Fleisch und Haut, mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+"pt": "Frango, carne escura, coxinha, carne e pele, com solução adicionada, cozido, assado"
+},
+"4124": {
+"it": "Pollo, carne scura, fuso, carne e pelle, con soluzione aggiunta, crudo",
+"fr": "Poulet, viande brune, pilon, viande et peau, avec solution ajoutée, cru",
+"es": "Pollo, carne oscura, contramuslo, carne y piel, con solución añadida, crudo",
+"de": "Huhn, dunkles Fleisch, Unterschenkel, Fleisch und Haut, mit zugesetzter Lösung, roh",
+"pt": "Frango, carne escura, coxinha, carne e pele, com solução adicionada, cru"
+},
+"4125": {
+"it": "Pollo, carne scura, fuso, solo carne, con soluzione aggiunta, cotto, brasato",
+"fr": "Poulet, viande brune, pilon, viande seule, avec solution ajoutée, cuit, braisé",
+"es": "Pollo, carne oscura, contramuslo, solo carne, con solución añadida, cocido, braseado",
+"de": "Huhn, dunkles Fleisch, Unterschenkel, nur Fleisch, mit zugesetzter Lösung, gekocht, geschmort",
+"pt": "Frango, carne escura, coxinha, apenas carne, com solução adicionada, cozido, refogado"
+},
+"4126": {
+"it": "Pollo, carne scura, fuso, solo carne, con soluzione aggiunta, cotto, arrosto",
+"fr": "Poulet, viande brune, pilon, viande seule, avec solution ajoutée, cuit, rôti",
+"es": "Pollo, carne oscura, contramuslo, solo carne, con solución añadida, cocido, asado",
+"de": "Huhn, dunkles Fleisch, Unterschenkel, nur Fleisch, mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+"pt": "Frango, carne escura, coxinha, apenas carne, com solução adicionada, cozido, assado"
+},
+"4127": {
+"it": "Pollo, carne scura, fuso, solo carne, con soluzione aggiunta, crudo",
+"fr": "Poulet, viande brune, pilon, viande seule, avec solution ajoutée, cru",
+"es": "Pollo, carne oscura, contramuslo, solo carne, con solución añadida, crudo",
+"de": "Huhn, dunkles Fleisch, Unterschenkel, nur Fleisch, mit zugesetzter Lösung, roh",
+"pt": "Frango, carne escura, coxinha, apenas carne, com solução adicionada, cru"
+},
+"4128": {
+"it": "Pollo, carne scura, sovracoscia, carne e pelle, con soluzione aggiunta, cotto, brasato",
+"fr": "Poulet, viande brune, haut de cuisse, viande et peau, avec solution ajoutée, cuit, braisé",
+"es": "Pollo, carne oscura, muslo, carne y piel, con solución añadida, cocido, braseado",
+"de": "Huhn, dunkles Fleisch, Oberschenkel, Fleisch und Haut, mit zugesetzter Lösung, gekocht, geschmort",
+"pt": "Frango, carne escura, sobrecoxa, carne e pele, com solução adicionada, cozido, refogado"
+},
+"4129": {
+"it": "Pollo, carne scura, sovracoscia, carne e pelle, con soluzione aggiunta, cotto, arrosto",
+"fr": "Poulet, viande brune, haut de cuisse, viande et peau, avec solution ajoutée, cuit, rôti",
+"es": "Pollo, carne oscura, muslo, carne y piel, con solución añadida, cocido, asado",
+"de": "Huhn, dunkles Fleisch, Oberschenkel, Fleisch und Haut, mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+"pt": "Frango, carne escura, sobrecoxa, carne e pele, com solução adicionada, cozido, assado"
+},
+"4130": {
+"it": "Pollo, carne scura, sovracoscia, carne e pelle, con soluzione aggiunta, crudo",
+"fr": "Poulet, viande brune, haut de cuisse, viande et peau, avec solution ajoutée, cru",
+"es": "Pollo, carne oscura, muslo, carne y piel, con solución añadida, crudo",
+"de": "Huhn, dunkles Fleisch, Oberschenkel, Fleisch und Haut, mit zugesetzter Lösung, roh",
+"pt": "Frango, carne escura, sobrecoxa, carne e pele, com solução adicionada, cru"
+},
+"4131": {
+"it": "Pollo, carne scura, sovracoscia, solo carne, con soluzione aggiunta, cotto, brasato",
+"fr": "Poulet, viande brune, haut de cuisse, viande seule, avec solution ajoutée, cuit, braisé",
+"es": "Pollo, carne oscura, muslo, solo carne, con solución añadida, cocido, braseado",
+"de": "Huhn, dunkles Fleisch, Oberschenkel, nur Fleisch, mit zugesetzter Lösung, gekocht, geschmort",
+"pt": "Frango, carne escura, sobrecoxa, apenas carne, com solução adicionada, cozido, refogado"
+},
+"4132": {
+"it": "Pollo, carne scura, sovracoscia, solo carne, con soluzione aggiunta, cotto, arrosto",
+"fr": "Poulet, viande brune, haut de cuisse, viande seule, avec solution ajoutée, cuit, rôti",
+"es": "Pollo, carne oscura, muslo, solo carne, con solución añadida, cocido, asado",
+"de": "Huhn, dunkles Fleisch, Oberschenkel, nur Fleisch, mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+"pt": "Frango, carne escura, sobrecoxa, apenas carne, com solução adicionada, cozido, assado"
+},
+"4133": {
+"it": "Pollo, carne scura, sovracoscia, solo carne, con soluzione aggiunta, crudo",
+"fr": "Poulet, viande brune, haut de cuisse, viande seule, avec solution ajoutée, cru",
+"es": "Pollo, carne oscura, muslo, solo carne, con solución añadida, crudo",
+"de": "Huhn, dunkles Fleisch, Oberschenkel, nur Fleisch, mit zugesetzter Lösung, roh",
+"pt": "Frango, carne escura, sobrecoxa, apenas carne, com solução adicionada, cru"
+},
+"4134": {
+"it": "Pollo, fuso, carne e pelle, crudo",
+"fr": "Poulet, pilon, viande et peau, cru",
+"es": "Pollo, contramuslo, carne y piel, crudo",
+"de": "Huhn, Unterschenkel, Fleisch und Haut, roh",
+"pt": "Frango, coxinha, carne e pele, cru"
+},
+"4135": {
+"it": "Pollo, zampe, bollite",
+"fr": "Poulet, pattes, bouillies",
+"es": "Pollo, patas, hervidas",
+"de": "Huhn, Füße, gekocht",
+"pt": "Frango, pés, cozidos em água"
+},
+"4136": {
+"it": "Pollo, da usare con verdure",
+"fr": "Poulet, à utiliser avec des légumes",
+"es": "Pollo, para usar con verduras",
+"de": "Huhn, zur Verwendung mit Gemüse",
+"pt": "Frango, para uso com legumes"
+},
+"4137": {
+"it": "Pollo, fritto, con patate e verdura, dolce, piatto pronto surgelato, porzione abbondante di carne",
+"fr": "Poulet, frit, avec pommes de terre et légumes, dessert, plat préparé surgelé, grosse portion de viande",
+"es": "Pollo, frito, con patatas y verdura, postre, plato preparado congelado, porción grande de carne",
+"de": "Huhn, frittiert, mit Kartoffeln und Gemüse, Dessert, Tiefkühlgericht, große Fleischportion",
+"pt": "Frango, frito, com batatas e legumes, sobremesa, refeição congelada, porção grande de carne"
+},
+"4138": {
+"it": "Pollo, fritto, con patate e verdura, piatto pronto surgelato",
+"fr": "Poulet, frit, avec pommes de terre et légumes, plat préparé surgelé",
+"es": "Pollo, frito, con patatas y verdura, plato preparado congelado",
+"de": "Huhn, frittiert, mit Kartoffeln und Gemüse, Tiefkühlgericht",
+"pt": "Frango, frito, com batatas e legumes, refeição congelada"
+},
+"4139": {
+"it": "Pollo, ventriglio, tutte le classi, cotto, lessato",
+"fr": "Poulet, gésier, toutes catégories, cuit, mijoté à feu doux",
+"es": "Pollo, molleja, todas las clases, cocido, a fuego lento",
+"de": "Huhn, Muskelmagen, alle Klassen, gekocht, geköchelt",
+"pt": "Frango, moela, todas as classes, cozido, em fogo baixo"
+},
+"4140": {
+"it": "Pollo, ventriglio, tutte le classi, crudo",
+"fr": "Poulet, gésier, toutes catégories, cru",
+"es": "Pollo, molleja, todas las clases, crudo",
+"de": "Huhn, Muskelmagen, alle Klassen, roh",
+"pt": "Frango, moela, todas as classes, cru"
+},
+"4141": {
+"it": "Pollo, macinato",
+"fr": "Poulet, haché",
+"es": "Pollo, molido",
+"de": "Huhn, Hack-",
+"pt": "Frango, moído"
+},
+"4142": {
+"it": "Pollo, macinato, sbriciolato, cotto, rosolato in padella",
+"fr": "Poulet, haché, émietté, cuit, doré à la poêle",
+"es": "Pollo, molido, desmenuzado, cocido, dorado en sartén",
+"de": "Huhn, Hack-, Krümel, gekocht, in der Pfanne angebraten",
+"pt": "Frango, moído, em farelos, cozido, dourado na frigideira"
+},
+"4143": {
+"it": "Pollo, macinato, crudo",
+"fr": "Poulet, haché, cru",
+"es": "Pollo, molido, crudo",
+"de": "Huhn, Hack-, roh",
+"pt": "Frango, moído, cru"
+},
+"4144": {
+"it": "Pollo, macinato, con additivi, crudo",
+"fr": "Poulet, haché, avec additifs, cru",
+"es": "Pollo, molido, con aditivos, crudo",
+"de": "Huhn, Hack-, mit Zusatzstoffen, roh",
+"pt": "Frango, moído, com aditivos, cru"
+},
+"4145": {
+"it": "Pollo, cuore, tutte le classi, cotto, lessato",
+"fr": "Poulet, cœur, toutes catégories, cuit, mijoté à feu doux",
+"es": "Pollo, corazón, todas las clases, cocido, a fuego lento",
+"de": "Huhn, Herz, alle Klassen, gekocht, geköchelt",
+"pt": "Frango, coração, todas as classes, cozido, em fogo baixo"
+},
+"4146": {
+"it": "Pollo, cuore, tutte le classi, crudo",
+"fr": "Poulet, cœur, toutes catégories, cru",
+"es": "Pollo, corazón, todas las clases, crudo",
+"de": "Huhn, Herz, alle Klassen, roh",
+"pt": "Frango, coração, todas as classes, cru"
+},
+"4147": {
+"it": "Pollo, fegato, tutte le classi, cotto, fritto in padella",
+"fr": "Poulet, foie, toutes catégories, cuit, poêlé",
+"es": "Pollo, hígado, todas las clases, cocido, frito en sartén",
+"de": "Huhn, Leber, alle Klassen, gekocht, in der Pfanne gebraten",
+"pt": "Frango, fígado, todas as classes, cozido, frito na frigideira"
+},
+"4148": {
+"it": "Pollo, fegato, tutte le classi, cotto, lessato",
+"fr": "Poulet, foie, toutes catégories, cuit, mijoté à feu doux",
+"es": "Pollo, hígado, todas las clases, cocido, a fuego lento",
+"de": "Huhn, Leber, alle Klassen, gekocht, geköchelt",
+"pt": "Frango, fígado, todas as classes, cozido, em fogo baixo"
+},
+"4149": {
+"it": "Pollo, fegato, tutte le classi, crudo",
+"fr": "Poulet, foie, toutes catégories, cru",
+"es": "Pollo, hígado, todas las clases, crudo",
+"de": "Huhn, Leber, alle Klassen, roh",
+"pt": "Frango, fígado, todas as classes, cru"
+},
+"4150": {
+"it": "Pollo vegetale (senza carne)",
+"fr": "Poulet végétal (sans viande)",
+"es": "Pollo vegetal (sin carne)",
+"de": "Vegetarisches Huhn (fleischlos)",
+"pt": "Frango vegetal (sem carne)"
+},
+"4151": {
+"it": "Pollo vegetale (senza carne), impanato, fritto",
+"fr": "Poulet végétal (sans viande), pané, frit",
+"es": "Pollo vegetal (sin carne), empanado, frito",
+"de": "Vegetarisches Huhn (fleischlos), paniert, frittiert",
+"pt": "Frango vegetal (sem carne), empanado, frito"
+},
+"4152": {
+"it": "Pollo vegetale (senza carne), non specificato",
+"fr": "Poulet végétal (sans viande), non spécifié",
+"es": "Pollo vegetal (sin carne), no especificado",
+"de": "Vegetarisches Huhn (fleischlos), nicht näher bezeichnet",
+"pt": "Frango vegetal (sem carne), não especificado"
+},
+"4153": {
+"it": "Pollo, collo o costole",
+"fr": "Poulet, cou ou côtes",
+"es": "Pollo, cuello o costillas",
+"de": "Huhn, Hals oder Rippen",
+"pt": "Frango, pescoço ou costelas"
+},
+"4154": {
+"it": "Pollo, parte e metodo di cottura non specificati, non specificato se la pelle è consumata",
+"fr": "Poulet, morceau et mode de cuisson non précisés, non précisé si la peau est consommée",
+"es": "Pollo, parte y método de cocción sin especificar, sin especificar si se consume la piel",
+"de": "Huhn, Teil und Garmethode nicht angegeben, nicht angegeben ob Haut mitgegessen",
+"pt": "Frango, parte e método de cozimento não especificados, não especificado se a pele é consumida"
+},
+"4155": {
+"it": "Pollo, parte e metodo di cottura non specificati, pelle consumata",
+"fr": "Poulet, morceau et mode de cuisson non précisés, peau consommée",
+"es": "Pollo, parte y método de cocción sin especificar, piel consumida",
+"de": "Huhn, Teil und Garmethode nicht angegeben, Haut mitgegessen",
+"pt": "Frango, parte e método de cozimento não especificados, pele consumida"
+},
+"4156": {
+"it": "Pollo, parte e metodo di cottura non specificati, pelle non consumata",
+"fr": "Poulet, morceau et mode de cuisson non précisés, peau non consommée",
+"es": "Pollo, parte y método de cocción sin especificar, piel no consumida",
+"de": "Huhn, Teil und Garmethode nicht angegeben, Haut nicht mitgegessen",
+"pt": "Frango, parte e método de cozimento não especificados, pele não consumida"
+},
+"4157": {
+"it": "Pollo, parte non specificata, al forno, alla griglia o arrosto, non specificato se la pelle è consumata",
+"fr": "Poulet, morceau non précisé, cuit au four, grillé ou rôti, non précisé si la peau est consommée",
+"es": "Pollo, parte sin especificar, al horno, a la parrilla o asado, sin especificar si se consume la piel",
+"de": "Huhn, Teil nicht angegeben, gebacken, gegrillt oder gebraten, nicht angegeben ob Haut mitgegessen",
+"pt": "Frango, parte não especificada, assado no forno, grelhado ou assado, não especificado se a pele é consumida"
+},
+"4158": {
+"it": "Pollo, parte non specificata, al forno, alla griglia o arrosto, pelle consumata",
+"fr": "Poulet, morceau non précisé, cuit au four, grillé ou rôti, peau consommée",
+"es": "Pollo, parte sin especificar, al horno, a la parrilla o asado, piel consumida",
+"de": "Huhn, Teil nicht angegeben, gebacken, gegrillt oder gebraten, Haut mitgegessen",
+"pt": "Frango, parte não especificada, assado no forno, grelhado ou assado, pele consumida"
+},
+"4159": {
+"it": "Pollo, parte non specificata, al forno, alla griglia o arrosto, pelle non consumata",
+"fr": "Poulet, morceau non précisé, cuit au four, grillé ou rôti, peau non consommée",
+"es": "Pollo, parte sin especificar, al horno, a la parrilla o asado, piel no consumida",
+"de": "Huhn, Teil nicht angegeben, gebacken, gegrillt oder gebraten, Haut nicht mitgegessen",
+"pt": "Frango, parte não especificada, assado no forno, grelhado ou assado, pele não consumida"
+},
+"4160": {
+"it": "Pollo, parte non specificata, al forno, impanato, pelle / impanatura consumata",
+"fr": "Poulet, morceau non précisé, cuit au four, pané, peau / panure consommée",
+"es": "Pollo, parte sin especificar, al horno, rebozado, piel / rebozado consumidos",
+"de": "Huhn, Teil nicht angegeben, gebacken, paniert, Haut / Panade mitgegessen",
+"pt": "Frango, parte não especificada, assado no forno, empanado, pele / empanado consumidos"
+},
+"4161": {
+"it": "Pollo, parte non specificata, al forno, impanato, pelle / impanatura non consumata",
+"fr": "Poulet, morceau non précisé, cuit au four, pané, peau / panure non consommée",
+"es": "Pollo, parte sin especificar, al horno, rebozado, piel / rebozado no consumidos",
+"de": "Huhn, Teil nicht angegeben, gebacken, paniert, Haut / Panade nicht mitgegessen",
+"pt": "Frango, parte não especificada, assado no forno, empanado, pele / empanado não consumidos"
+},
+"4162": {
+"it": "Pollo, parte non specificata, fritto, impanato, pelle / impanatura consumata",
+"fr": "Poulet, morceau non précisé, frit, pané, peau / panure consommée",
+"es": "Pollo, parte sin especificar, frito, rebozado, piel / rebozado consumidos",
+"de": "Huhn, Teil nicht angegeben, frittiert, paniert, Haut / Panade mitgegessen",
+"pt": "Frango, parte não especificada, frito, empanado, pele / empanado consumidos"
+},
+"4163": {
+"it": "Pollo, parte non specificata, fritto, impanato, pelle / impanatura non consumata",
+"fr": "Poulet, morceau non précisé, frit, pané, peau / panure non consommée",
+"es": "Pollo, parte sin especificar, frito, rebozado, piel / rebozado no consumidos",
+"de": "Huhn, Teil nicht angegeben, frittiert, paniert, Haut / Panade nicht mitgegessen",
+"pt": "Frango, parte não especificada, frito, empanado, pele / empanado não consumidos"
+},
+"4164": {
+"it": "Pollo, parte non specificata, alla griglia con salsa, non specificato se la pelle è consumata",
+"fr": "Poulet, morceau non précisé, grillé avec sauce, non précisé si la peau est consommée",
+"es": "Pollo, parte sin especificar, a la parrilla con salsa, sin especificar si se consume la piel",
+"de": "Huhn, Teil nicht angegeben, gegrillt mit Sauce, nicht angegeben ob Haut mitgegessen",
+"pt": "Frango, parte não especificada, grelhado com molho, não especificado se a pele é consumida"
+},
+"4165": {
+"it": "Pollo, parte non specificata, alla griglia con salsa, pelle consumata",
+"fr": "Poulet, morceau non précisé, grillé avec sauce, peau consommée",
+"es": "Pollo, parte sin especificar, a la parrilla con salsa, piel consumida",
+"de": "Huhn, Teil nicht angegeben, gegrillt mit Sauce, Haut mitgegessen",
+"pt": "Frango, parte não especificada, grelhado com molho, pele consumida"
+},
+"4166": {
+"it": "Pollo, parte non specificata, alla griglia con salsa, pelle non consumata",
+"fr": "Poulet, morceau non précisé, grillé avec sauce, peau non consommée",
+"es": "Pollo, parte sin especificar, a la parrilla con salsa, piel no consumida",
+"de": "Huhn, Teil nicht angegeben, gegrillt mit Sauce, Haut nicht mitgegessen",
+"pt": "Frango, parte não especificada, grelhado com molho, pele não consumida"
+},
+"4167": {
+"it": "Pollo, parte non specificata, alla griglia senza salsa, non specificato se la pelle è consumata",
+"fr": "Poulet, morceau non précisé, grillé sans sauce, non précisé si la peau est consommée",
+"es": "Pollo, parte sin especificar, a la parrilla sin salsa, sin especificar si se consume la piel",
+"de": "Huhn, Teil nicht angegeben, gegrillt ohne Sauce, nicht angegeben ob Haut mitgegessen",
+"pt": "Frango, parte não especificada, grelhado sem molho, não especificado se a pele é consumida"
+},
+"4168": {
+"it": "Pollo, parte non specificata, alla griglia senza salsa, pelle consumata",
+"fr": "Poulet, morceau non précisé, grillé sans sauce, peau consommée",
+"es": "Pollo, parte sin especificar, a la parrilla sin salsa, piel consumida",
+"de": "Huhn, Teil nicht angegeben, gegrillt ohne Sauce, Haut mitgegessen",
+"pt": "Frango, parte não especificada, grelhado sem molho, pele consumida"
+},
+"4169": {
+"it": "Pollo, parte non specificata, alla griglia senza salsa, pelle non consumata",
+"fr": "Poulet, morceau non précisé, grillé sans sauce, peau non consommée",
+"es": "Pollo, parte sin especificar, a la parrilla sin salsa, piel no consumida",
+"de": "Huhn, Teil nicht angegeben, gegrillt ohne Sauce, Haut nicht mitgegessen",
+"pt": "Frango, parte não especificada, grelhado sem molho, pele não consumida"
+},
+"4170": {
+"it": "Pollo, parte non specificata, allo spiedo, non specificato se la pelle è consumata",
+"fr": "Poulet, morceau non précisé, à la broche, non précisé si la peau est consommée",
+"es": "Pollo, parte sin especificar, asado en asador, sin especificar si se consume la piel",
+"de": "Huhn, Teil nicht angegeben, am Drehspieß gegart, nicht angegeben ob Haut mitgegessen",
+"pt": "Frango, parte não especificada, assado no espeto, não especificado se a pele é consumida"
+},
+"4171": {
+"it": "Pollo, parte non specificata, allo spiedo, pelle consumata",
+"fr": "Poulet, morceau non précisé, à la broche, peau consommée",
+"es": "Pollo, parte sin especificar, asado en asador, piel consumida",
+"de": "Huhn, Teil nicht angegeben, am Drehspieß gegart, Haut mitgegessen",
+"pt": "Frango, parte não especificada, assado no espeto, pele consumida"
+}
+}

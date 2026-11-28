@@ -1,0 +1,1790 @@
+[
+{
+"id": "6556",
+"en": "Grapefruit, canned",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6557",
+"en": "Grapefruit, raw",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6558",
+"en": "Grapefruit, raw, pink and red and white, all areas",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6559",
+"en": "Grapefruit, raw, pink and red, all areas",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6560",
+"en": "Grapefruit, raw, pink and red, California and Arizona",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6561",
+"en": "Grapefruit, raw, pink and red, Florida",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6562",
+"en": "Grapefruit, raw, white, all areas",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6563",
+"en": "Grapefruit, raw, white, California",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6564",
+"en": "Grapefruit, raw, white, Florida",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6565",
+"en": "Grapefruit, sections, canned, juice pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6566",
+"en": "Grapefruit, sections, canned, light syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6567",
+"en": "Grapefruit, sections, canned, water pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6568",
+"en": "Grapes, american type (slip skin), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6569",
+"en": "Grapes, canned, thompson seedless, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6570",
+"en": "Grapes, canned, thompson seedless, water pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6571",
+"en": "Grapes, green, seedless, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "6572",
+"en": "Grapes, muscadine, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6573",
+"en": "Grapes, raw",
+"categoria": "Grapes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6574",
+"en": "Grapes, red or green (European type, such as Thompson seedless), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6575",
+"en": "Grapes, red, seedless, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "6576",
+"en": "Gravy, au jus, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6577",
+"en": "Gravy, au jus, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6578",
+"en": "Gravy, beef",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6579",
+"en": "Gravy, beef, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6580",
+"en": "Gravy, beef, fat free",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6581",
+"en": "Gravy, brown instant, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6582",
+"en": "Gravy, brown, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6583",
+"en": "Gravy, CAMPBELL'S, chicken",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6584",
+"en": "Gravy, chicken, canned or bottled, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6585",
+"en": "Gravy, chicken, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6586",
+"en": "Gravy, for use with vegetables",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6587",
+"en": "Gravy, HEINZ Home Style, classic chicken",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6588",
+"en": "Gravy, HEINZ Home Style, savory beef",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6589",
+"en": "Gravy, instant beef, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6590",
+"en": "Gravy, instant turkey, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6591",
+"en": "Gravy, made with soy sauce",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6592",
+"en": "Gravy, meat or poultry, low sodium, prepared",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6593",
+"en": "Gravy, mushroom, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6594",
+"en": "Gravy, mushroom, dry, powder",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6595",
+"en": "Gravy, NFS",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6596",
+"en": "Gravy, onion, dry, mix",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6597",
+"en": "Gravy, pork, dry, powder",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6598",
+"en": "Gravy, poultry",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6599",
+"en": "Gravy, poultry, fat free",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6600",
+"en": "Gravy, turkey, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6601",
+"en": "Gravy, turkey, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6602",
+"en": "Gravy, unspecified type, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "6603",
+"en": "Gravy, vegetarian",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6604",
+"en": "Greek Salad, no dressing",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6605",
+"en": "Green bean casserole",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6606",
+"en": "Green beans, canned, cooked with butter or margarine",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6607",
+"en": "Green beans, canned, cooked with oil",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6608",
+"en": "Green beans, canned, cooked, fat added, NS as to fat type",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6609",
+"en": "Green beans, canned, cooked, no added fat",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6610",
+"en": "Green beans, canned, reduced sodium, cooked with butter or margarine",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6611",
+"en": "Green beans, canned, reduced sodium, cooked with oil",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6612",
+"en": "Green beans, canned, reduced sodium, cooked, fat added, NS as to fat type",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6613",
+"en": "Green beans, canned, reduced sodium, cooked, no added fat",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6614",
+"en": "Green beans, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6615",
+"en": "Green beans, cooked, from restaurant",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6616",
+"en": "Green beans, cooked, Szechuan-style",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6617",
+"en": "Green beans, fresh, cooked with butter or margarine",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6618",
+"en": "Green beans, fresh, cooked with oil",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6619",
+"en": "Green beans, fresh, cooked, fat added, NS as to fat type",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6620",
+"en": "Green beans, fresh, cooked, no added fat",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6621",
+"en": "Green beans, frozen, cooked with butter or margarine",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6622",
+"en": "Green beans, frozen, cooked with oil",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6623",
+"en": "Green beans, frozen, cooked, fat added, NS as to fat type",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6624",
+"en": "Green beans, frozen, cooked, no added fat",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6625",
+"en": "Green beans, NS as to form, cooked",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6626",
+"en": "Green beans, pickled",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6627",
+"en": "Green beans, raw",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6628",
+"en": "Green peas, canned, cooked with butter or margarine",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6629",
+"en": "Green peas, canned, cooked with oil",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6630",
+"en": "Green peas, canned, cooked, fat added, NS as to fat type",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6631",
+"en": "Green peas, canned, cooked, no added fat",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6632",
+"en": "Green peas, canned, reduced sodium, cooked with butter or margarine",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6633",
+"en": "Green peas, canned, reduced sodium, cooked with oil",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6634",
+"en": "Green peas, canned, reduced sodium, cooked, fat added, NS as to fat type",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6635",
+"en": "Green peas, canned, reduced sodium, cooked, no added fat",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6636",
+"en": "Green peas, cooked, from restaurant",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6637",
+"en": "Green peas, fresh, cooked with butter or margarine",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6638",
+"en": "Green peas, fresh, cooked with oil",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6639",
+"en": "Green peas, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6640",
+"en": "Green peas, fresh, cooked, no added fat",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6641",
+"en": "Green peas, frozen, cooked with butter or margarine",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6642",
+"en": "Green peas, frozen, cooked with oil",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6643",
+"en": "Green peas, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6644",
+"en": "Green peas, frozen, cooked, no added fat",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6645",
+"en": "Green peas, NS as to form, cooked",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6646",
+"en": "Green peas, raw",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6647",
+"en": "Green pepper, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6648",
+"en": "Green plantain with cracklings, Puerto Rican style",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6649",
+"en": "Greens with ham or pork",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6650",
+"en": "Greens, canned, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6651",
+"en": "Greens, fresh, cooked, fat added",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6652",
+"en": "Greens, fresh, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6653",
+"en": "Greens, frozen, cooked, fat added",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6654",
+"en": "Greens, frozen, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6655",
+"en": "Greens, NS as to form, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6656",
+"en": "Greyhound",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6657",
+"en": "Grilled cheese sandwich, American cheese, on wheat bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6658",
+"en": "Grilled cheese sandwich, American cheese, on white bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6659",
+"en": "Grilled cheese sandwich, cheddar cheese, on wheat bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6660",
+"en": "Grilled cheese sandwich, cheddar cheese, on white bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6661",
+"en": "Grilled cheese sandwich, NFS",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6662",
+"en": "Grilled cheese sandwich, reduced fat cheese, on wheat bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6663",
+"en": "Grilled cheese sandwich, reduced fat cheese, on white bread",
+"categoria": "Cheese sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6664",
+"en": "Grits, instant, made with water, fat added",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6665",
+"en": "Grits, instant, made with water, no added fat",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6666",
+"en": "Grits, instant, made with water, NS as to fat",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6667",
+"en": "Grits, NFS",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6668",
+"en": "Grits, regular or quick, made with water, fat added",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6669",
+"en": "Grits, regular or quick, made with water, no added fat",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6670",
+"en": "Grits, regular or quick, made with water, NS as to fat",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6671",
+"en": "Grits, with cheese, fat added",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6672",
+"en": "Grits, with cheese, no added fat",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6673",
+"en": "Grits, with cheese, NS as to fat",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6674",
+"en": "Groundcherries, (cape-gooseberries or poha), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6675",
+"en": "Groundhog",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6676",
+"en": "Guacamole with tomatoes",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6677",
+"en": "Guacamole, NFS",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6678",
+"en": "Guanabana nectar, canned",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6679",
+"en": "Guava nectar",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6680",
+"en": "Guava nectar, canned, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6681",
+"en": "Guava nectar, with sucralose, canned",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6682",
+"en": "Guava paste",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6683",
+"en": "Guava sauce, cooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6684",
+"en": "Guava, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6685",
+"en": "Guavas, common, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6686",
+"en": "Guavas, strawberry, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6687",
+"en": "Guinea hen, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6688",
+"en": "Guinea hen, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6689",
+"en": "Guisada, beef",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6690",
+"en": "Guisada, pork",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6691",
+"en": "Gumbo with rice",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6692",
+"en": "Gumbo, no rice",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6693",
+"en": "Gums, seed gums (includes locust bean, guar)",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6694",
+"en": "Gyro sandwich",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6695",
+"en": "Halibut, frozen, wild caught",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "6696",
+"en": "Ham",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6697",
+"en": "Ham and cheese loaf or roll",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6698",
+"en": "Ham and cheese spread",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6699",
+"en": "Ham and noodles with cream or white sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6700",
+"en": "Ham and noodles, no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6701",
+"en": "Ham and rice with mushroom sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6702",
+"en": "Ham and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6703",
+"en": "Ham and vegetables including carrots broccoli, and/or dark- green leafy; no potatoes, no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6704",
+"en": "Ham biscuit sandwich",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6705",
+"en": "Ham croquette",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6706",
+"en": "Ham luncheon meat, loaf type",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6707",
+"en": "Ham or pork and potatoes with cheese sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6708",
+"en": "Ham or pork and potatoes with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6709",
+"en": "Ham or pork and rice, no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6710",
+"en": "Ham or pork salad",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6711",
+"en": "Ham or pork with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6712",
+"en": "Ham or pork with mushroom sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6713",
+"en": "Ham or pork with stuffing",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6714",
+"en": "Ham or pork with tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6715",
+"en": "Ham or pork, noodles and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6716",
+"en": "Ham or pork, noodles and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6717",
+"en": "Ham or pork, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6718",
+"en": "Ham or pork, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6719",
+"en": "Ham salad sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6720",
+"en": "Ham salad sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6721",
+"en": "Ham salad spread",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6722",
+"en": "Ham sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6723",
+"en": "Ham sandwich on wheat, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6724",
+"en": "Ham sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6725",
+"en": "Ham sandwich on white, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6726",
+"en": "Ham sandwich or sub, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6727",
+"en": "Ham sandwich or sub, with cheese, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6728",
+"en": "Ham sandwich wrap",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6729",
+"en": "Ham stroganoff",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6730",
+"en": "Ham, canned",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6731",
+"en": "Ham, chopped, canned",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6732",
+"en": "Ham, chopped, not canned",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6733",
+"en": "Ham, for use with vegetables",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6734",
+"en": "Ham, ground",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6735",
+"en": "Ham, honey, smoked, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6736",
+"en": "Ham, minced",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6737",
+"en": "Ham, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6738",
+"en": "Ham, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6739",
+"en": "Ham, prepackaged or deli, luncheon meat",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6740",
+"en": "Ham, prepackaged or deli, luncheon meat, reduced sodium",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6741",
+"en": "Ham, prosciutto",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6742",
+"en": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "Foundation"
+},
+{
+"id": "6743",
+"en": "Ham, sliced, regular (approximately 11% fat)",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6744",
+"en": "Ham, sliced, restaurant",
+"categoria": "Pork Products",
+"tipo": "Foundation"
+},
+{
+"id": "6745",
+"en": "Ham, smoked, extra lean, low sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6746",
+"en": "Ham, turkey, sliced, extra lean, prepackaged or deli",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6747",
+"en": "Hamburger (Burger King)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6748",
+"en": "Hamburger (McDonalds)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6749",
+"en": "Hamburger slider",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6750",
+"en": "Hamburger slider, from fast food",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6751",
+"en": "Hamburger wrap sandwich, from fast food",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6752",
+"en": "Hamburger, from fast food, 1 large patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6753",
+"en": "Hamburger, from fast food, 1 medium patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6754",
+"en": "Hamburger, from fast food, 1 small patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6755",
+"en": "Hamburger, from school cafeteria",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6756",
+"en": "Hamburger, NFS",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6757",
+"en": "Hamburger, on wheat bun, 1 large patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6758",
+"en": "Hamburger, on wheat bun, 1 medium patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6759",
+"en": "Hamburger, on wheat bun, 1 small patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6760",
+"en": "Hamburger, on white bun, 1 large patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6761",
+"en": "Hamburger, on white bun, 1 medium patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6762",
+"en": "Hamburger, on white bun, 1 small patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6763",
+"en": "Hard cider",
+"categoria": "Beer",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6764",
+"en": "Hard seltzer",
+"categoria": "Beer",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6765",
+"en": "Hash, NS as to type of meat",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6766",
+"en": "Haupia",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6767",
+"en": "Hayacas, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6768",
+"en": "Hazelnuts",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6769",
+"en": "Hazelnuts, beaked (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6770",
+"en": "Head cheese",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6771",
+"en": "Headcheese, pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6772",
+"en": "Heart",
+"categoria": "Liver and organ meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6773",
+"en": "Hearts of palm, canned",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6774",
+"en": "Hearts of palm, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6775",
+"en": "Heinz, Weight Watcher, Chocolate Eclair, frozen",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6776",
+"en": "Hog maws",
+"categoria": "Liver and organ meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6777",
+"en": "Hoisin sauce",
+"categoria": "Soy-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6778",
+"en": "Hollandaise sauce",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6779",
+"en": "Hominy, canned, white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "6780",
+"en": "Hominy, canned, yellow",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "6781",
+"en": "Hominy, cooked",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6782",
+"en": "Honey",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6783",
+"en": "Honey butter",
+"categoria": "Butter and animal fats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6784",
+"en": "Honey mustard dip",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6785",
+"en": "Honey mustard dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6786",
+"en": "Honey mustard dressing, fat free",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6787",
+"en": "Honey mustard dressing, light",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6788",
+"en": "Honey roll sausage, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6789",
+"en": "Honeydew melon, raw",
+"categoria": "Melons",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6790",
+"en": "Horchata, made with milk",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6791",
+"en": "Horchata, made with water",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6792",
+"en": "HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6793",
+"en": "HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6794",
+"en": "HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6795",
+"en": "HORMEL ALWAYS TENDER, Pork Tenderloin, Peppercorn-Flavored",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6796",
+"en": "HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6797",
+"en": "HORMEL Canadian Style Bacon",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6798",
+"en": "Hormel Pillow Pak Sliced Turkey Pepperoni",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "6799",
+"en": "HORMEL, Cure 81 Ham",
+"categoria": "Pork Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6800",
+"en": "Horned melon (Kiwano)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "6801",
+"en": "Horseradish",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6802",
+"en": "Horseradish sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6803",
+"en": "Horseradish, prepared",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "6804",
+"en": "Hot chocolate / cocoa, dry mix , made with non-dairy milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6805",
+"en": "Hot chocolate / cocoa, dry mix, made with lowfat (1%) or fat free (skim) milk",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6806",
+"en": "Hot chocolate / cocoa, dry mix, made with water",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6807",
+"en": "Hot chocolate / cocoa, dry mix, made with water, with whipped cream",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6808",
+"en": "Hot chocolate / cocoa, dry mix, made with whole or reduced fat (2%) milk",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6809",
+"en": "Hot chocolate / cocoa, dry mix, reduced sugar, made with lowfat (1%) or fat free (skim) milk",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6810",
+"en": "Hot chocolate / cocoa, dry mix, reduced sugar, made with non-dairy milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6811",
+"en": "Hot chocolate / cocoa, dry mix, reduced sugar, made with water",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6812",
+"en": "Hot chocolate / cocoa, dry mix, reduced sugar, made with whole or reduced fat (2%) milk",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6813",
+"en": "Hot chocolate / cocoa, made with lowfat (1%) or fat free (skim) milk",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6814",
+"en": "Hot chocolate / cocoa, made with non-dairy milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6815",
+"en": "Hot chocolate / cocoa, made with whole or reduced fat (2%) milk",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6816",
+"en": "Hot chocolate / cocoa, NFS",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6817",
+"en": "Hot chocolate / cocoa, reduced sugar, made with lowfat (1%) or fat free (skim) milk",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6818",
+"en": "Hot chocolate / cocoa, reduced sugar, made with non-dairy milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6819",
+"en": "Hot chocolate / cocoa, reduced sugar, made with whole or reduced fat (2%) milk",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6820",
+"en": "Hot chocolate / cocoa, with whipped cream",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6821",
+"en": "Hot dog sandwich, beef, on wheat bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6822",
+"en": "Hot dog sandwich, beef, on wheat bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6823",
+"en": "Hot dog sandwich, beef, on white bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6824",
+"en": "Hot dog sandwich, beef, on white bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6825",
+"en": "Hot dog sandwich, meat and poultry, on wheat bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6826",
+"en": "Hot dog sandwich, meat and poultry, on wheat bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6827",
+"en": "Hot dog sandwich, meat and poultry, on white bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6828",
+"en": "Hot dog sandwich, meat and poultry, on white bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6829",
+"en": "Hot dog sandwich, NFS, on wheat bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6830",
+"en": "Hot dog sandwich, NFS, on wheat bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6831",
+"en": "Hot dog sandwich, NFS, on white bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6832",
+"en": "Hot dog sandwich, NFS, on white bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6833",
+"en": "Hot dog sandwich, reduced fat, on wheat bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6834",
+"en": "Hot dog sandwich, reduced fat, on wheat bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6835",
+"en": "Hot dog sandwich, reduced fat, on white bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6836",
+"en": "Hot dog sandwich, reduced fat, on white bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6837",
+"en": "Hot dog sandwich, turkey, on wheat bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6838",
+"en": "Hot dog sandwich, turkey, on wheat bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6839",
+"en": "Hot dog sandwich, turkey, on white bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6840",
+"en": "Hot dog sandwich, turkey, on white bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6841",
+"en": "Hot dog sandwich, vegetarian, on bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6842",
+"en": "Hot dog sandwich, vegetarian, on bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6843",
+"en": "Hot dog, beef",
+"categoria": "Frankfurters",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6844",
+"en": "Hot dog, meat and poultry",
+"categoria": "Frankfurters",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6845",
+"en": "Hot dog, NFS",
+"categoria": "Frankfurters",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6846",
+"en": "Hot dog, reduced fat",
+"categoria": "Frankfurters",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6847",
+"en": "Hot dog, turkey",
+"categoria": "Frankfurters",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6848",
+"en": "Hot dog, vegetarian",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6849",
+"en": "Hot pepper sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6850",
+"en": "HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "6851",
+"en": "HOT POCKETS, CROISSANT POCKETS Chicken, Broccoli, and Cheddar Stuffed Sandwich, frozen",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "6852",
+"en": "HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "6853",
+"en": "Hot Thai sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+}
+]

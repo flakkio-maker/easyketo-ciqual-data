@@ -1,0 +1,2088 @@
+{
+ "4768": {
+  "it": "Mais dolce, giallo, in scatola, solidi sgocciolati, sciacquato con acqua di rubinetto",
+  "fr": "Maïs doux, jaune, en conserve, solides égouttés, rincé à l'eau du robinet",
+  "es": "Maíz dulce, amarillo, en conserva, sólidos escurridos, enjuagado con agua del grifo",
+  "de": "Zuckermais, gelb, aus der Dose, abgetropfte Bestandteile, mit Leitungswasser abgespült",
+  "pt": "Milho doce, amarelo, enlatado, sólidos escorridos, enxaguado com água da torneira"
+ },
+ "4769": {
+  "it": "Mais dolce, giallo, in scatola, senza sale aggiunto, solidi e liquidi (comprende alimenti del programma di distribuzione alimentare USDA)",
+  "fr": "Maïs doux, jaune, en conserve, sans sel ajouté, solides et liquides (comprend les aliments du programme de distribution alimentaire de l'USDA)",
+  "es": "Maíz dulce, amarillo, en conserva, sin sal añadida, sólidos y líquidos (incluye alimentos del programa de distribución de alimentos del USDA)",
+  "de": "Zuckermais, gelb, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile (enthält Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+  "pt": "Milho doce, amarelo, enlatado, sem sal adicionado, sólidos e líquidos (inclui alimentos do programa de distribuição de alimentos do USDA)"
+ },
+ "4770": {
+  "it": "Mais dolce, giallo, in scatola, confezionato sottovuoto, senza sale aggiunto",
+  "fr": "Maïs doux, jaune, en conserve, emballé sous vide, sans sel ajouté",
+  "es": "Maíz dulce, amarillo, en conserva, envasado al vacío, sin sal añadida",
+  "de": "Zuckermais, gelb, aus der Dose, vakuumverpackt, ohne Salzzusatz",
+  "pt": "Milho doce, amarelo, enlatado, embalado a vácuo, sem sal adicionado"
+ },
+ "4771": {
+  "it": "Mais dolce, giallo, in scatola, confezionato sottovuoto, confezione normale",
+  "fr": "Maïs doux, jaune, en conserve, emballé sous vide, emballage normal",
+  "es": "Maíz dulce, amarillo, en conserva, envasado al vacío, envase normal",
+  "de": "Zuckermais, gelb, aus der Dose, vakuumverpackt, normale Packung",
+  "pt": "Milho doce, amarelo, enlatado, embalado a vácuo, embalagem comum"
+ },
+ "4772": {
+  "it": "Mais dolce, giallo, in scatola, chicchi interi, solidi sgocciolati",
+  "fr": "Maïs doux, jaune, en conserve, grains entiers, solides égouttés",
+  "es": "Maíz dulce, amarillo, en conserva, granos enteros, sólidos escurridos",
+  "de": "Zuckermais, gelb, aus der Dose, ganze Körner, abgetropfte Bestandteile",
+  "pt": "Milho doce, amarelo, enlatado, grãos inteiros, sólidos escorridos"
+ },
+ "4773": {
+  "it": "Mais dolce, giallo, cotto, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux, jaune, cuit, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce, amarillo, cocido, hervido, escurrido, con sal",
+  "de": "Zuckermais, gelb, gekocht, abgetropft, mit Salz",
+  "pt": "Milho doce, amarelo, cozido, cozido em água, escorrido, com sal"
+ },
+ "4774": {
+  "it": "Mais dolce, giallo, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux, jaune, cuit, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce, amarillo, cocido, hervido, escurrido, sin sal",
+  "de": "Zuckermais, gelb, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho doce, amarelo, cozido, cozido em água, escorrido, sem sal"
+ },
+ "4775": {
+  "it": "Mais dolce, giallo, surgelato, chicchi staccati dalla pannocchia, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux, jaune, surgelé, grains détachés de l'épi, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce, amarillo, congelado, granos separados de la mazorca, hervido, escurrido, sin sal",
+  "de": "Zuckermais, gelb, tiefgekühlt, vom Kolben geschnittene Körner, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho doce, amarelo, congelado, grãos cortados da espiga, cozido em água, escorrido, sem sal"
+ },
+ "4776": {
+  "it": "Mais dolce, giallo, surgelato, chicchi staccati dalla pannocchia, non preparato (comprende alimenti del programma di distribuzione alimentare USDA)",
+  "fr": "Maïs doux, jaune, surgelé, grains détachés de l'épi, non préparé (comprend les aliments du programme de distribution alimentaire de l'USDA)",
+  "es": "Maíz dulce, amarillo, congelado, granos separados de la mazorca, sin preparar (incluye alimentos del programa de distribución de alimentos del USDA)",
+  "de": "Zuckermais, gelb, tiefgekühlt, vom Kolben geschnittene Körner, unzubereitet (enthält Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+  "pt": "Milho doce, amarelo, congelado, grãos cortados da espiga, não preparado (inclui alimentos do programa de distribuição de alimentos do USDA)"
+ },
+ "4777": {
+  "it": "Mais dolce, giallo, surgelato, in pannocchia, cotto, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux, jaune, surgelé, en épi, cuit, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce, amarillo, congelado, en mazorca, cocido, hervido, escurrido, con sal",
+  "de": "Zuckermais, gelb, tiefgekühlt, am Kolben, gekocht, abgetropft, mit Salz",
+  "pt": "Milho doce, amarelo, congelado, na espiga, cozido, cozido em água, escorrido, com sal"
+ },
+ "4778": {
+  "it": "Mais dolce, giallo, surgelato, in pannocchia, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux, jaune, surgelé, en épi, cuit, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce, amarillo, congelado, en mazorca, cocido, hervido, escurrido, sin sal",
+  "de": "Zuckermais, gelb, tiefgekühlt, am Kolben, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho doce, amarelo, congelado, na espiga, cozido, cozido em água, escorrido, sem sal"
+ },
+ "4779": {
+  "it": "Mais dolce, giallo, surgelato, in pannocchia, non preparato",
+  "fr": "Maïs doux, jaune, surgelé, en épi, non préparé",
+  "es": "Maíz dulce, amarillo, congelado, en mazorca, sin preparar",
+  "de": "Zuckermais, gelb, tiefgekühlt, am Kolben, unzubereitet",
+  "pt": "Milho doce, amarelo, congelado, na espiga, não preparado"
+ },
+ "4780": {
+  "it": "Mais dolce, giallo, surgelato, chicchi staccati dalla pannocchia, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux, jaune, surgelé, grains détachés de l'épi, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce, amarillo, congelado, granos separados de la mazorca, hervido, escurrido, con sal",
+  "de": "Zuckermais, gelb, tiefgekühlt, vom Kolben geschnittene Körner, gekocht, abgetropft, mit Salz",
+  "pt": "Milho doce, amarelo, congelado, grãos cortados da espiga, cozido em água, escorrido, com sal"
+ },
+ "4781": {
+  "it": "Mais dolce, giallo, crudo",
+  "fr": "Maïs doux, jaune, cru",
+  "es": "Maíz dulce, amarillo, crudo",
+  "de": "Zuckermais, gelb, roh",
+  "pt": "Milho doce, amarelo, cru"
+ },
+ "4782": {
+  "it": "Mais, bianco, al vapore (Navajo)",
+  "fr": "Maïs, blanc, cuit à la vapeur (Navajo)",
+  "es": "Maíz, blanco, al vapor (navajo)",
+  "de": "Mais, weiß, gedämpft (Navajo)",
+  "pt": "Milho, branco, cozido no vapor (navajo)"
+ },
+ "4783": {
+  "it": "Mais, giallo, chicchi interi, surgelato, cotto al microonde",
+  "fr": "Maïs, jaune, grains entiers, surgelé, cuit au micro-ondes",
+  "es": "Maíz, amarillo, granos enteros, congelado, cocido en microondas",
+  "de": "Mais, gelb, ganze Körner, tiefgekühlt, in der Mikrowelle gegart",
+  "pt": "Milho, amarelo, grãos inteiros, congelado, cozido no micro-ondas"
+ },
+ "4784": {
+  "it": "Muffin di pane di mais, a bastoncino, rotondo",
+  "fr": "Muffin au pain de maïs, en bâtonnet, rond",
+  "es": "Muffin de pan de maíz, en barra, redondo",
+  "de": "Maisbrot-Muffin, stangenförmig, rund",
+  "pt": "Muffin de pão de milho, em formato de bastão, redondo"
+ },
+ "4785": {
+  "it": "Muffin di pane di mais, a bastoncino, rotondo, fatto con ricetta casalinga",
+  "fr": "Muffin au pain de maïs, en bâtonnet, rond, fait à partir d'une recette maison",
+  "es": "Muffin de pan de maíz, en barra, redondo, preparado con receta casera",
+  "de": "Maisbrot-Muffin, stangenförmig, rund, nach Hausrezept hergestellt",
+  "pt": "Muffin de pão de milho, em formato de bastão, redondo, feito com receita caseira"
+ },
+ "4786": {
+  "it": "Ripieno di pane di mais",
+  "fr": "Farce au pain de maïs",
+  "es": "Relleno de pan de maíz",
+  "de": "Maisbrot-Füllung",
+  "pt": "Recheio de pão de milho"
+ },
+ "4787": {
+  "it": "Pane di mais, fatto con ricetta casalinga",
+  "fr": "Pain de maïs, fait à partir d'une recette maison",
+  "es": "Pan de maíz, preparado con receta casera",
+  "de": "Maisbrot, nach Hausrezept hergestellt",
+  "pt": "Pão de milho, feito com receita caseira"
+ },
+ "4788": {
+  "it": "Pane di mais, preparato da miscela pronta",
+  "fr": "Pain de maïs, préparé à partir d'un mélange prêt à l'emploi",
+  "es": "Pan de maíz, preparado a partir de mezcla",
+  "de": "Maisbrot, aus Backmischung zubereitet",
+  "pt": "Pão de milho, preparado a partir de mistura pronta"
+ },
+ "4789": {
+  "it": "Manzo in scatola (corned beef) e patate in tortilla (Apache)",
+  "fr": "Corned-beef et pommes de terre dans une tortilla (Apache)",
+  "es": "Carne de res en conserva (corned beef) y patatas en tortilla (apache)",
+  "de": "Corned Beef und Kartoffeln in Tortilla (Apache)",
+  "pt": "Corned beef e batatas em tortilla (apache)"
+ },
+ "4790": {
+  "it": "Corned beef hash (manzo in scatola con patate)",
+  "fr": "Hachis de corned-beef",
+  "es": "Hash de corned beef (carne de res en conserva con patatas)",
+  "de": "Corned-Beef-Hash (Pökelrindfleisch mit Kartoffeln)",
+  "pt": "Corned beef hash (carne bovina em conserva com batatas)"
+ },
+ "4791": {
+  "it": "Corned beef in gelatina, a forma di pane",
+  "fr": "Pain de corned-beef en gelée",
+  "es": "Fiambre de corned beef, en gelatina",
+  "de": "Corned-Beef-Sülzwurst",
+  "pt": "Pão de corned beef, em gelatina"
+ },
+ "4792": {
+  "it": "Hamburger di corned beef",
+  "fr": "Galette de corned-beef",
+  "es": "Hamburguesa de corned beef",
+  "de": "Corned-Beef-Frikadelle",
+  "pt": "Hambúrguer de corned beef"
+ },
+ "4793": {
+  "it": "Panino con corned beef, su pane integrale",
+  "fr": "Sandwich au corned-beef, sur pain complet",
+  "es": "Sándwich de corned beef, en pan integral",
+  "de": "Corned-Beef-Sandwich auf Vollkornbrot",
+  "pt": "Sanduíche de corned beef, no pão integral"
+ },
+ "4794": {
+  "it": "Panino con corned beef, su pane integrale, con formaggio",
+  "fr": "Sandwich au corned-beef, sur pain complet, avec fromage",
+  "es": "Sándwich de corned beef, en pan integral, con queso",
+  "de": "Corned-Beef-Sandwich auf Vollkornbrot, mit Käse",
+  "pt": "Sanduíche de corned beef, no pão integral, com queijo"
+ },
+ "4795": {
+  "it": "Panino con corned beef, su pane bianco",
+  "fr": "Sandwich au corned-beef, sur pain blanc",
+  "es": "Sándwich de corned beef, en pan blanco",
+  "de": "Corned-Beef-Sandwich auf Weißbrot",
+  "pt": "Sanduíche de corned beef, no pão branco"
+ },
+ "4796": {
+  "it": "Panino con corned beef, su pane bianco, con formaggio",
+  "fr": "Sandwich au corned-beef, sur pain blanc, avec fromage",
+  "es": "Sándwich de corned beef, en pan blanco, con queso",
+  "de": "Corned-Beef-Sandwich auf Weißbrot, mit Käse",
+  "pt": "Sanduíche de corned beef, no pão branco, com queijo"
+ },
+ "4797": {
+  "it": "Corned beef, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+  "fr": "Corned-beef, pommes de terre et légumes hors carottes, brocolis et légumes à feuilles vert foncé ; sans sauce",
+  "es": "Corned beef, patatas y verduras excluidas zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+  "de": "Corned Beef, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Sauce",
+  "pt": "Corned beef, batatas e vegetais exceto cenouras, brócolis e folhas verde-escuras; sem molho"
+ },
+ "4798": {
+  "it": "Corned beef, patate e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+  "fr": "Corned-beef, pommes de terre et légumes y compris carottes, brocolis et/ou légumes à feuilles vert foncé ; sans sauce",
+  "es": "Corned beef, patatas y verduras incluidas zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+  "de": "Corned Beef, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+  "pt": "Corned beef, batatas e vegetais incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+ },
+ "4799": {
+  "it": "Galletto americano (Cornish game hen), cotto, pelle consumata",
+  "fr": "Poussin Cornish (Cornish game hen), cuit, peau consommée",
+  "es": "Gallina Cornualles (Cornish game hen), cocida, piel consumida",
+  "de": "Cornish-Hähnchen (Cornish Game Hen), gekocht, Haut mitgegessen",
+  "pt": "Galeto Cornish (Cornish game hen), cozido, pele consumida"
+ },
+ "4800": {
+  "it": "Galletto americano (Cornish game hen), cotto, pelle non consumata",
+  "fr": "Poussin Cornish (Cornish game hen), cuit, peau non consommée",
+  "es": "Gallina Cornualles (Cornish game hen), cocida, piel no consumida",
+  "de": "Cornish-Hähnchen (Cornish Game Hen), gekocht, Haut nicht mitgegessen",
+  "pt": "Galeto Cornish (Cornish game hen), cozido, pele não consumida"
+ },
+ "4801": {
+  "it": "Galletto americano (Cornish game hen), arrosto, pelle consumata",
+  "fr": "Poussin Cornish (Cornish game hen), rôti, peau consommée",
+  "es": "Gallina Cornualles (Cornish game hen), asada, piel consumida",
+  "de": "Cornish-Hähnchen (Cornish Game Hen), gebraten (im Ofen), Haut mitgegessen",
+  "pt": "Galeto Cornish (Cornish game hen), assado, pele consumida"
+ },
+ "4802": {
+  "it": "Galletto americano (Cornish game hen), arrosto, pelle non consumata",
+  "fr": "Poussin Cornish (Cornish game hen), rôti, peau non consommée",
+  "es": "Gallina Cornualles (Cornish game hen), asada, piel no consumida",
+  "de": "Cornish-Hähnchen (Cornish Game Hen), gebraten (im Ofen), Haut nicht mitgegessen",
+  "pt": "Galeto Cornish (Cornish game hen), assado, pele não consumida"
+ },
+ "4803": {
+  "it": "Ripieno di farina di mais con pollo o tacchino e verdure",
+  "fr": "Farce à la semoule de maïs avec poulet ou dinde et légumes",
+  "es": "Relleno de harina de maíz con pollo o pavo y verduras",
+  "de": "Maismehl-Füllung mit Huhn oder Pute und Gemüse",
+  "pt": "Recheio de fubá com frango ou peru e legumes"
+ },
+ "4804": {
+  "it": "Polenta, con grassi aggiunti",
+  "fr": "Polenta, avec matières grasses ajoutées",
+  "es": "Polenta, con grasa añadida",
+  "de": "Maisbrei, mit zugesetztem Fett",
+  "pt": "Angu de fubá, com gordura adicionada"
+ },
+ "4805": {
+  "it": "Polenta, senza grassi aggiunti",
+  "fr": "Polenta, sans matières grasses ajoutées",
+  "es": "Polenta, sin grasa añadida",
+  "de": "Maisbrei, ohne zugesetztes Fett",
+  "pt": "Angu de fubá, sem gordura adicionada"
+ },
+ "4806": {
+  "it": "Polenta, non specificato se con grassi",
+  "fr": "Polenta, non précisé si avec matières grasses",
+  "es": "Polenta, sin especificar si con grasa",
+  "de": "Maisbrei, nicht angegeben ob mit Fett",
+  "pt": "Angu de fubá, não especificado se com gordura"
+ },
+ "4807": {
+  "it": "Bastoncino di farina di mais, stile portoricano",
+  "fr": "Bâtonnet de farine de maïs, style portoricain",
+  "es": "Palito de harina de maíz, estilo puertorriqueño",
+  "de": "Maismehl-Stange, puerto-ricanische Art",
+  "pt": "Bastão de farinha de milho, estilo porto-riquenho"
+ },
+ "4808": {
+  "it": "Farina di mais, blu (Navajo)",
+  "fr": "Farine de maïs, bleu (Navajo)",
+  "es": "Harina de maíz, azul (navajo)",
+  "de": "Maismehl, blau (Navajo)",
+  "pt": "Fubá, azul (navajo)"
+ },
+ "4809": {
+  "it": "Farina di mais, decorticata, arricchita, bianca",
+  "fr": "Farine de maïs, dégermée, enrichie, blanche",
+  "es": "Harina de maíz, desgerminada, enriquecida, blanca",
+  "de": "Maismehl, entkeimt, angereichert, weiß",
+  "pt": "Fubá, desgerminado, enriquecido, branco"
+ },
+ "4810": {
+  "it": "Farina di mais, decorticata, arricchita, gialla",
+  "fr": "Farine de maïs, dégermée, enrichie, jaune",
+  "es": "Harina de maíz, desgerminada, enriquecida, amarilla",
+  "de": "Maismehl, entkeimt, angereichert, gelb",
+  "pt": "Fubá, desgerminado, enriquecido, amarelo"
+ },
+ "4811": {
+  "it": "Farina di mais, decorticata, non arricchita, bianca",
+  "fr": "Farine de maïs, dégermée, non enrichie, blanche",
+  "es": "Harina de maíz, desgerminada, sin enriquecer, blanca",
+  "de": "Maismehl, entkeimt, nicht angereichert, weiß",
+  "pt": "Fubá, desgerminado, não enriquecido, branco"
+ },
+ "4812": {
+  "it": "Farina di mais, decorticata, non arricchita, gialla",
+  "fr": "Farine de maïs, dégermée, non enrichie, jaune",
+  "es": "Harina de maíz, desgerminada, sin enriquecer, amarilla",
+  "de": "Maismehl, entkeimt, nicht angereichert, gelb",
+  "pt": "Fubá, desgerminado, não enriquecido, amarelo"
+ },
+ "4813": {
+  "it": "Farina di mais, bianca (Navajo)",
+  "fr": "Farine de maïs, blanche (Navajo)",
+  "es": "Harina de maíz, blanca (navajo)",
+  "de": "Maismehl, weiß (Navajo)",
+  "pt": "Fubá, branco (navajo)"
+ },
+ "4814": {
+  "it": "Farina di mais, bianca, autolievitante, abburattata, semplice, arricchita",
+  "fr": "Farine de maïs, blanche, autolevante, blutée, nature, enrichie",
+  "es": "Harina de maíz, blanca, leudante, cernida, natural, enriquecida",
+  "de": "Maismehl, weiß, selbstaufgehend, gebeutelt, natur, angereichert",
+  "pt": "Fubá, branco, com fermento, peneirado, simples, enriquecido"
+ },
+ "4815": {
+  "it": "Farina di mais, bianca, autolievitante, abburattata, con aggiunta di farina di frumento, arricchita",
+  "fr": "Farine de maïs, blanche, autolevante, blutée, avec ajout de farine de blé, enrichie",
+  "es": "Harina de maíz, blanca, leudante, cernida, con harina de trigo añadida, enriquecida",
+  "de": "Maismehl, weiß, selbstaufgehend, gebeutelt, mit Weizenmehlzusatz, angereichert",
+  "pt": "Fubá, branco, com fermento, peneirado, com adição de farinha de trigo, enriquecido"
+ },
+ "4816": {
+  "it": "Farina di mais, bianca, autolievitante, decorticata, arricchita",
+  "fr": "Farine de maïs, blanche, autolevante, dégermée, enrichie",
+  "es": "Harina de maíz, blanca, leudante, desgerminada, enriquecida",
+  "de": "Maismehl, weiß, selbstaufgehend, entkeimt, angereichert",
+  "pt": "Fubá, branco, com fermento, desgerminado, enriquecido"
+ },
+ "4817": {
+  "it": "Farina di mais, integrale, bianca",
+  "fr": "Farine de maïs, complète, blanche",
+  "es": "Harina de maíz, integral, blanca",
+  "de": "Maismehl, Vollkorn-, weiß",
+  "pt": "Fubá, integral, branco"
+ },
+ "4818": {
+  "it": "Farina di mais, integrale, gialla",
+  "fr": "Farine de maïs, complète, jaune",
+  "es": "Harina de maíz, integral, amarilla",
+  "de": "Maismehl, Vollkorn-, gelb",
+  "pt": "Fubá, integral, amarelo"
+ },
+ "4819": {
+  "it": "Farina di mais, gialla (Navajo)",
+  "fr": "Farine de maïs, jaune (Navajo)",
+  "es": "Harina de maíz, amarilla (navajo)",
+  "de": "Maismehl, gelb (Navajo)",
+  "pt": "Fubá, amarelo (navajo)"
+ },
+ "4820": {
+  "it": "Farina di mais, gialla, autolievitante, abburattata, semplice, arricchita",
+  "fr": "Farine de maïs, jaune, autolevante, blutée, nature, enrichie",
+  "es": "Harina de maíz, amarilla, leudante, cernida, natural, enriquecida",
+  "de": "Maismehl, gelb, selbstaufgehend, gebeutelt, natur, angereichert",
+  "pt": "Fubá, amarelo, com fermento, peneirado, simples, enriquecido"
+ },
+ "4821": {
+  "it": "Farina di mais, gialla, autolievitante, abburattata, con aggiunta di farina di frumento, arricchita",
+  "fr": "Farine de maïs, jaune, autolevante, blutée, avec ajout de farine de blé, enrichie",
+  "es": "Harina de maíz, amarilla, leudante, cernida, con harina de trigo añadida, enriquecida",
+  "de": "Maismehl, gelb, selbstaufgehend, gebeutelt, mit Weizenmehlzusatz, angereichert",
+  "pt": "Fubá, amarelo, com fermento, peneirado, com adição de farinha de trigo, enriquecido"
+ },
+ "4822": {
+  "it": "Farina di mais, gialla, autolievitante, decorticata, arricchita",
+  "fr": "Farine de maïs, jaune, autolevante, dégermée, enrichie",
+  "es": "Harina de maíz, amarilla, leudante, desgerminada, enriquecida",
+  "de": "Maismehl, gelb, selbstaufgehend, entkeimt, angereichert",
+  "pt": "Fubá, amarelo, com fermento, desgerminado, enriquecido"
+ },
+ "4823": {
+  "it": "Valerianella, cruda",
+  "fr": "Mâche, crue",
+  "es": "Canónigos, crudos",
+  "de": "Feldsalat, roh",
+  "pt": "Alface-de-cordeiro (mâche), crua"
+ },
+ "4824": {
+  "it": "Amido di mais",
+  "fr": "Fécule de maïs",
+  "es": "Almidón de maíz",
+  "de": "Maisstärke",
+  "pt": "Amido de milho"
+ },
+ "4825": {
+  "it": "Formaggio fresco (cottage cheese), farmer's",
+  "fr": "Fromage blanc en grains (cottage cheese), farmer's",
+  "es": "Requesón (cottage cheese), tipo farmer's",
+  "de": "Hüttenkäse, Farmer's",
+  "pt": "Queijo cottage, tipo farmer's"
+ },
+ "4826": {
+  "it": "Formaggio fresco (cottage cheese), con grassi interi, a grana grossa o piccola",
+  "fr": "Fromage blanc en grains (cottage cheese), entier, à grains gros ou petits",
+  "es": "Requesón (cottage cheese), entero, de grano grande o pequeño",
+  "de": "Hüttenkäse, Vollfett, grob- oder feinkörnig",
+  "pt": "Queijo cottage, integral, de grão grande ou pequeno"
+ },
+ "4827": {
+  "it": "Olio di semi di cotone",
+  "fr": "Huile de graines de coton",
+  "es": "Aceite de semilla de algodón",
+  "de": "Baumwollsaatöl",
+  "pt": "Óleo de semente de algodão"
+ },
+ "4828": {
+  "it": "Caramelle per la tosse",
+  "fr": "Pastilles pour la toux",
+  "es": "Caramelos para la tos",
+  "de": "Hustenbonbons",
+  "pt": "Balas para tosse"
+ },
+ "4829": {
+  "it": "Cuscus, cotto",
+  "fr": "Couscous, cuit",
+  "es": "Cuscús, cocido",
+  "de": "Couscous, gekocht",
+  "pt": "Cuscuz marroquino, cozido"
+ },
+ "4830": {
+  "it": "Cuscus, secco",
+  "fr": "Couscous, sec",
+  "es": "Cuscús, seco",
+  "de": "Couscous, trocken",
+  "pt": "Cuscuz marroquino, seco"
+ },
+ "4831": {
+  "it": "Cuscus, semplice, cotto",
+  "fr": "Couscous, nature, cuit",
+  "es": "Cuscús, natural, cocido",
+  "de": "Couscous, natur, gekocht",
+  "pt": "Cuscuz marroquino, simples, cozido"
+ },
+ "4832": {
+  "it": "Fagioli dall'occhio, semi immaturi, cotti, bolliti, sgocciolati, con sale",
+  "fr": "Dolique à œil noir, graines immatures, cuites, bouillies, égouttées, avec sel",
+  "es": "Caupís (frijol de ojo negro), semillas inmaduras, cocidas, hervidas, escurridas, con sal",
+  "de": "Augenbohnen, unreife Samen, gekocht, abgetropft, mit Salz",
+  "pt": "Feijão-fradinho, sementes imaturas, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "4833": {
+  "it": "Fagioli dall'occhio, semi immaturi, cotti, bolliti, sgocciolati, senza sale",
+  "fr": "Dolique à œil noir, graines immatures, cuites, bouillies, égouttées, sans sel",
+  "es": "Caupís (frijol de ojo negro), semillas inmaduras, cocidas, hervidas, escurridas, sin sal",
+  "de": "Augenbohnen, unreife Samen, gekocht, abgetropft, ohne Salz",
+  "pt": "Feijão-fradinho, sementes imaturas, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "4834": {
+  "it": "Fagioli dall'occhio, semi immaturi, surgelati, cotti, bolliti, sgocciolati, con sale",
+  "fr": "Dolique à œil noir, graines immatures, surgelées, cuites, bouillies, égouttées, avec sel",
+  "es": "Caupís (frijol de ojo negro), semillas inmaduras, congeladas, cocidas, hervidas, escurridas, con sal",
+  "de": "Augenbohnen, unreife Samen, tiefgekühlt, gekocht, abgetropft, mit Salz",
+  "pt": "Feijão-fradinho, sementes imaturas, congeladas, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "4835": {
+  "it": "Fagioli dall'occhio, semi immaturi, surgelati, cotti, bolliti, sgocciolati, senza sale",
+  "fr": "Dolique à œil noir, graines immatures, surgelées, cuites, bouillies, égouttées, sans sel",
+  "es": "Caupís (frijol de ojo negro), semillas inmaduras, congeladas, cocidas, hervidas, escurridas, sin sal",
+  "de": "Augenbohnen, unreife Samen, tiefgekühlt, gekocht, abgetropft, ohne Salz",
+  "pt": "Feijão-fradinho, sementes imaturas, congeladas, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "4836": {
+  "it": "Fagioli dall'occhio, semi immaturi, surgelati, non preparati",
+  "fr": "Dolique à œil noir, graines immatures, surgelées, non préparées",
+  "es": "Caupís (frijol de ojo negro), semillas inmaduras, congeladas, sin preparar",
+  "de": "Augenbohnen, unreife Samen, tiefgekühlt, unzubereitet",
+  "pt": "Feijão-fradinho, sementes imaturas, congeladas, não preparadas"
+ },
+ "4837": {
+  "it": "Fagioli dall'occhio, semi immaturi, crudi",
+  "fr": "Dolique à œil noir, graines immatures, crues",
+  "es": "Caupís (frijol de ojo negro), semillas inmaduras, crudas",
+  "de": "Augenbohnen, unreife Samen, roh",
+  "pt": "Feijão-fradinho, sementes imaturas, cruas"
+ },
+ "4838": {
+  "it": "Fagioli dall'occhio catjang, semi maturi, cotti, bolliti, con sale",
+  "fr": "Dolique catjang, graines mûres, cuites, bouillies, avec sel",
+  "es": "Caupís catjang, semillas maduras, cocidas, hervidas, con sal",
+  "de": "Catjang-Bohnen, reife Samen, gekocht, mit Salz",
+  "pt": "Feijão-catjang, sementes maduras, cozidas, cozidas em água, com sal"
+ },
+ "4839": {
+  "it": "Fagioli dall'occhio catjang, semi maturi, cotti, bolliti, senza sale",
+  "fr": "Dolique catjang, graines mûres, cuites, bouillies, sans sel",
+  "es": "Caupís catjang, semillas maduras, cocidas, hervidas, sin sal",
+  "de": "Catjang-Bohnen, reife Samen, gekocht, ohne Salz",
+  "pt": "Feijão-catjang, sementes maduras, cozidas, cozidas em água, sem sal"
+ },
+ "4840": {
+  "it": "Fagioli dall'occhio catjang, semi maturi, crudi",
+  "fr": "Dolique catjang, graines mûres, crues",
+  "es": "Caupís catjang, semillas maduras, crudas",
+  "de": "Catjang-Bohnen, reife Samen, roh",
+  "pt": "Feijão-catjang, sementes maduras, cruas"
+ },
+ "4841": {
+  "it": "Fagioli dall'occhio comuni (occhio nero, crowder, southern), semi maturi, in scatola con maiale",
+  "fr": "Dolique à œil noir commun (blackeyes, crowder, southern), graines mûres, en conserve avec porc",
+  "es": "Caupís comunes (ojo negro, crowder, southern), semillas maduras, en conserva con cerdo",
+  "de": "Gemeine Augenbohnen (Blackeyes, Crowder, Southern), reife Samen, aus der Dose mit Schweinefleisch",
+  "pt": "Feijão-fradinho comum (blackeyes, crowder, southern), sementes maduras, enlatado com carne suína"
+ },
+ "4842": {
+  "it": "Fagioli dall'occhio comuni (occhio nero, crowder, southern), semi maturi, in scatola, al naturale",
+  "fr": "Dolique à œil noir commun (blackeyes, crowder, southern), graines mûres, en conserve, nature",
+  "es": "Caupís comunes (ojo negro, crowder, southern), semillas maduras, en conserva, natural",
+  "de": "Gemeine Augenbohnen (Blackeyes, Crowder, Southern), reife Samen, aus der Dose, natur",
+  "pt": "Feijão-fradinho comum (blackeyes, crowder, southern), sementes maduras, enlatado, simples"
+ },
+ "4843": {
+  "it": "Fagioli dall'occhio comuni (occhio nero, crowder, southern), semi maturi, cotti, bolliti, con sale",
+  "fr": "Dolique à œil noir commun (blackeyes, crowder, southern), graines mûres, cuites, bouillies, avec sel",
+  "es": "Caupís comunes (ojo negro, crowder, southern), semillas maduras, cocidas, hervidas, con sal",
+  "de": "Gemeine Augenbohnen (Blackeyes, Crowder, Southern), reife Samen, gekocht, mit Salz",
+  "pt": "Feijão-fradinho comum (blackeyes, crowder, southern), sementes maduras, cozidas, cozidas em água, com sal"
+ },
+ "4844": {
+  "it": "Fagioli dall'occhio comuni (occhio nero, crowder, southern), semi maturi, cotti, bolliti, senza sale",
+  "fr": "Dolique à œil noir commun (blackeyes, crowder, southern), graines mûres, cuites, bouillies, sans sel",
+  "es": "Caupís comunes (ojo negro, crowder, southern), semillas maduras, cocidas, hervidas, sin sal",
+  "de": "Gemeine Augenbohnen (Blackeyes, Crowder, Southern), reife Samen, gekocht, ohne Salz",
+  "pt": "Feijão-fradinho comum (blackeyes, crowder, southern), sementes maduras, cozidas, cozidas em água, sem sal"
+ },
+ "4845": {
+  "it": "Fagioli dall'occhio comuni (occhio nero, crowder, southern), semi maturi, crudi",
+  "fr": "Dolique à œil noir commun (blackeyes, crowder, southern), graines mûres, crues",
+  "es": "Caupís comunes (ojo negro, crowder, southern), semillas maduras, crudas",
+  "de": "Gemeine Augenbohnen (Blackeyes, Crowder, Southern), reife Samen, roh",
+  "pt": "Feijão-fradinho comum (blackeyes, crowder, southern), sementes maduras, cruas"
+ },
+ "4846": {
+  "it": "Fagioli dall'occhio, cime tenere, cotte, bollite, sgocciolate, con sale",
+  "fr": "Dolique à œil noir, jeunes pousses, cuites, bouillies, égouttées, avec sel",
+  "es": "Caupís, brotes tiernos, cocidos, hervidos, escurridos, con sal",
+  "de": "Augenbohnen, Blattspitzen, gekocht, abgetropft, mit Salz",
+  "pt": "Feijão-fradinho, brotos folhosos, cozidos, cozidos em água, escorridos, com sal"
+ },
+ "4847": {
+  "it": "Fagioli dall'occhio, cime tenere, cotte, bollite, sgocciolate, senza sale",
+  "fr": "Dolique à œil noir, jeunes pousses, cuites, bouillies, égouttées, sans sel",
+  "es": "Caupís, brotes tiernos, cocidos, hervidos, escurridos, sin sal",
+  "de": "Augenbohnen, Blattspitzen, gekocht, abgetropft, ohne Salz",
+  "pt": "Feijão-fradinho, brotos folhosos, cozidos, cozidos em água, escorridos, sem sal"
+ },
+ "4848": {
+  "it": "Fagioli dall'occhio, cime tenere, crude",
+  "fr": "Dolique à œil noir, jeunes pousses, crues",
+  "es": "Caupís, brotes tiernos, crudos",
+  "de": "Augenbohnen, Blattspitzen, roh",
+  "pt": "Feijão-fradinho, brotos folhosos, crus"
+ },
+ "4849": {
+  "it": "Fagioli dall'occhio, baccelli giovani con semi, cotti, bolliti, sgocciolati, con sale",
+  "fr": "Dolique à œil noir, jeunes gousses avec graines, cuites, bouillies, égouttées, avec sel",
+  "es": "Caupís, vainas jóvenes con semillas, cocidas, hervidas, escurridas, con sal",
+  "de": "Augenbohnen, junge Hülsen mit Samen, gekocht, abgetropft, mit Salz",
+  "pt": "Feijão-fradinho, vagens jovens com sementes, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "4850": {
+  "it": "Fagioli dall'occhio, baccelli giovani con semi, cotti, bolliti, sgocciolati, senza sale",
+  "fr": "Dolique à œil noir, jeunes gousses avec graines, cuites, bouillies, égouttées, sans sel",
+  "es": "Caupís, vainas jóvenes con semillas, cocidas, hervidas, escurridas, sin sal",
+  "de": "Augenbohnen, junge Hülsen mit Samen, gekocht, abgetropft, ohne Salz",
+  "pt": "Feijão-fradinho, vagens jovens com sementes, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "4851": {
+  "it": "Fagioli dall'occhio, baccelli giovani con semi, crudi",
+  "fr": "Dolique à œil noir, jeunes gousses avec graines, crues",
+  "es": "Caupís, vainas jóvenes con semillas, crudas",
+  "de": "Augenbohnen, junge Hülsen mit Samen, roh",
+  "pt": "Feijão-fradinho, vagens jovens com sementes, cruas"
+ },
+ "4852": {
+  "it": "Granchio",
+  "fr": "Crabe",
+  "es": "Cangrejo",
+  "de": "Krabbe",
+  "pt": "Caranguejo"
+ },
+ "4853": {
+  "it": "Panino con tortino di granchio",
+  "fr": "Sandwich au beignet de crabe",
+  "es": "Sándwich de pastel de cangrejo",
+  "de": "Sandwich mit Krabbenfrikadelle",
+  "pt": "Sanduíche de bolinho de caranguejo"
+ },
+ "4854": {
+  "it": "Insalata di granchio",
+  "fr": "Salade de crabe",
+  "es": "Ensalada de cangrejo",
+  "de": "Krabbensalat",
+  "pt": "Salada de caranguejo"
+ },
+ "4855": {
+  "it": "Insalata di granchio, preparata con surimi (finto granchio)",
+  "fr": "Salade de crabe, préparée avec du surimi (imitation de crabe)",
+  "es": "Ensalada de cangrejo, preparada con surimi (imitación de cangrejo)",
+  "de": "Krabbensalat, zubereitet mit Surimi (Krabbenfleischimitat)",
+  "pt": "Salada de caranguejo, preparada com kani-kama (imitação de caranguejo)"
+ },
+ "4856": {
+  "it": "Granchio, tortino",
+  "fr": "Crabe, beignet",
+  "es": "Cangrejo, pastel",
+  "de": "Krabbe, Frikadelle",
+  "pt": "Caranguejo, bolinho"
+ },
+ "4857": {
+  "it": "Granchio, in scatola",
+  "fr": "Crabe, en conserve",
+  "es": "Cangrejo, en conserva",
+  "de": "Krabbe, aus der Dose",
+  "pt": "Caranguejo, enlatado"
+ },
+ "4858": {
+  "it": "Granchio, a guscio molle",
+  "fr": "Crabe, à carapace molle",
+  "es": "Cangrejo, de caparazón blando",
+  "de": "Krabbe, Softshell",
+  "pt": "Caranguejo, de casca mole"
+ },
+ "4859": {
+  "it": "Mele selvatiche, crude",
+  "fr": "Pommes sauvages (pommettes), crues",
+  "es": "Manzanas silvestres, crudas",
+  "de": "Holzäpfel, roh",
+  "pt": "Maçãs silvestres, cruas"
+ },
+ "4860": {
+  "it": "Granchi in salsa a base di pomodoro, stile portoricano",
+  "fr": "Crabes en sauce tomate, style portoricain",
+  "es": "Cangrejos en salsa de tomate, estilo puertorriqueño",
+  "de": "Krabben in Tomatensauce, puerto-ricanische Art",
+  "pt": "Caranguejos em molho de tomate, estilo porto-riquenho"
+ },
+ "4861": {
+  "it": "CRACKER BARREL, piatto di straccetti di pollo, fritto",
+  "fr": "CRACKER BARREL, assiette d'aiguillettes de poulet, frit",
+  "es": "CRACKER BARREL, plato de tiras de pollo, frito",
+  "de": "CRACKER BARREL, Platte mit Hähnchenfiletstreifen, frittiert",
+  "pt": "CRACKER BARREL, prato de tirinhas de frango, frito"
+ },
+ "4862": {
+  "it": "CRACKER BARREL, piatto di straccetti di pollo, fritto, dal menu per bambini",
+  "fr": "CRACKER BARREL, assiette d'aiguillettes de poulet, frit, du menu enfant",
+  "es": "CRACKER BARREL, plato de tiras de pollo, frito, del menú infantil",
+  "de": "CRACKER BARREL, Platte mit Hähnchenfiletstreifen, frittiert, vom Kindermenü",
+  "pt": "CRACKER BARREL, prato de tirinhas de frango, frito, do cardápio infantil"
+ },
+ "4863": {
+  "it": "CRACKER BARREL, insalata di cavolo (coleslaw)",
+  "fr": "CRACKER BARREL, salade de chou (coleslaw)",
+  "es": "CRACKER BARREL, ensalada de col (coleslaw)",
+  "de": "CRACKER BARREL, Krautsalat (Coleslaw)",
+  "pt": "CRACKER BARREL, salada de repolho (coleslaw)"
+ },
+ "4864": {
+  "it": "CRACKER BARREL, piatto di gamberi fritti alla campagnola",
+  "fr": "CRACKER BARREL, assiette de crevettes frites à la campagnarde",
+  "es": "CRACKER BARREL, plato de camarones fritos estilo campestre",
+  "de": "CRACKER BARREL, Platte mit frittierten Garnelen nach Landhausart",
+  "pt": "CRACKER BARREL, prato de camarões fritos à moda caipira"
+ },
+ "4865": {
+  "it": "CRACKER BARREL, piatto di pesce gatto d'allevamento",
+  "fr": "CRACKER BARREL, assiette de poisson-chat d'élevage",
+  "es": "CRACKER BARREL, plato de bagre de cría",
+  "de": "CRACKER BARREL, Platte mit Zuchtwels",
+  "pt": "CRACKER BARREL, prato de bagre de cativeiro"
+ },
+ "4866": {
+  "it": "CRACKER BARREL, bistecca di controfiletto alla griglia",
+  "fr": "CRACKER BARREL, steak d'aloyau grillé",
+  "es": "CRACKER BARREL, bistec de solomillo a la parrilla",
+  "de": "CRACKER BARREL, gegrilltes Sirloin-Steak",
+  "pt": "CRACKER BARREL, bife de contrafilé grelhado"
+ },
+ "4867": {
+  "it": "CRACKER BARREL, maccheroni al formaggio (macaroni n' cheese)",
+  "fr": "CRACKER BARREL, macaronis au fromage (macaroni n' cheese)",
+  "es": "CRACKER BARREL, macarrones con queso (macaroni n' cheese)",
+  "de": "CRACKER BARREL, Makkaroni mit Käse (Macaroni n' Cheese)",
+  "pt": "CRACKER BARREL, macarrão com queijo (macaroni n' cheese)"
+ },
+ "4868": {
+  "it": "CRACKER BARREL, piatto di maccheroni al formaggio (macaroni n' cheese), dal menu per bambini",
+  "fr": "CRACKER BARREL, assiette de macaronis au fromage (macaroni n' cheese), du menu enfant",
+  "es": "CRACKER BARREL, plato de macarrones con queso (macaroni n' cheese), del menú infantil",
+  "de": "CRACKER BARREL, Teller mit Makkaroni und Käse (Macaroni n' Cheese), vom Kindermenü",
+  "pt": "CRACKER BARREL, prato de macarrão com queijo (macaroni n' cheese), do cardápio infantil"
+ },
+ "4869": {
+  "it": "CRACKER BARREL, anelli di cipolla, spessi",
+  "fr": "CRACKER BARREL, rondelles d'oignon, épaisses",
+  "es": "CRACKER BARREL, aros de cebolla, gruesos",
+  "de": "CRACKER BARREL, Zwiebelringe, dick geschnitten",
+  "pt": "CRACKER BARREL, anéis de cebola, grossos"
+ },
+ "4870": {
+  "it": "CRACKER BARREL, patatine fritte a spicchi (steak fries)",
+  "fr": "CRACKER BARREL, frites en quartiers (steak fries)",
+  "es": "CRACKER BARREL, patatas fritas en gajos (steak fries)",
+  "de": "CRACKER BARREL, Kartoffelspalten (Steak Fries)",
+  "pt": "CRACKER BARREL, batatas fritas em gomos (steak fries)"
+ },
+ "4871": {
+  "it": "Cracker chips (sfoglie croccanti)",
+  "fr": "Chips de crackers",
+  "es": "Chips de crackers",
+  "de": "Cracker-Chips",
+  "pt": "Chips de crackers"
+ },
+ "4872": {
+  "it": "Cracker, farina",
+  "fr": "Cracker, chapelure",
+  "es": "Cracker, harina",
+  "de": "Cracker, Mehl",
+  "pt": "Cracker, farinha"
+ },
+ "4873": {
+  "it": "Cracker, biscotto da colazione",
+  "fr": "Crackers, biscuit de petit-déjeuner",
+  "es": "Crackers, galleta de desayuno",
+  "de": "Cracker, Frühstückskeks",
+  "pt": "Crackers, biscoito de café da manhã"
+ },
+ "4874": {
+  "it": "Cracker al burro (Ritz)",
+  "fr": "Crackers au beurre (Ritz)",
+  "es": "Crackers de mantequilla (Ritz)",
+  "de": "Butter-Cracker (Ritz)",
+  "pt": "Crackers de manteiga (Ritz)"
+ },
+ "4875": {
+  "it": "Cracker al burro, aromatizzati",
+  "fr": "Crackers au beurre, aromatisés",
+  "es": "Crackers de mantequilla, aromatizados",
+  "de": "Butter-Cracker, aromatisiert",
+  "pt": "Crackers de manteiga, aromatizados"
+ },
+ "4876": {
+  "it": "Cracker al burro, semplici",
+  "fr": "Crackers au beurre, nature",
+  "es": "Crackers de mantequilla, naturales",
+  "de": "Butter-Cracker, natur",
+  "pt": "Crackers de manteiga, simples"
+ },
+ "4877": {
+  "it": "Cracker al burro, a ridotto contenuto di grassi",
+  "fr": "Crackers au beurre, allégés en matières grasses",
+  "es": "Crackers de mantequilla, reducidos en grasa",
+  "de": "Butter-Cracker, fettreduziert",
+  "pt": "Crackers de manteiga, com teor reduzido de gordura"
+ },
+ "4878": {
+  "it": "Cracker al burro, a ridotto contenuto di sodio",
+  "fr": "Crackers au beurre, à teneur réduite en sodium",
+  "es": "Crackers de mantequilla, reducidos en sodio",
+  "de": "Butter-Cracker, natriumreduziert",
+  "pt": "Crackers de manteiga, com teor reduzido de sódio"
+ },
+ "4879": {
+  "it": "Cracker al formaggio",
+  "fr": "Crackers au fromage",
+  "es": "Crackers de queso",
+  "de": "Käse-Cracker",
+  "pt": "Crackers de queijo"
+ },
+ "4880": {
+  "it": "Cracker al formaggio (Cheez-It)",
+  "fr": "Crackers au fromage (Cheez-It)",
+  "es": "Crackers de queso (Cheez-It)",
+  "de": "Käse-Cracker (Cheez-It)",
+  "pt": "Crackers de queijo (Cheez-It)"
+ },
+ "4881": {
+  "it": "Cracker al formaggio (Goldfish)",
+  "fr": "Crackers au fromage (Goldfish)",
+  "es": "Crackers de queso (Goldfish)",
+  "de": "Käse-Cracker (Goldfish)",
+  "pt": "Crackers de queijo (Goldfish)"
+ },
+ "4882": {
+  "it": "Cracker al formaggio, a basso contenuto di sodio",
+  "fr": "Crackers au fromage, pauvres en sodium",
+  "es": "Crackers de queso, bajos en sodio",
+  "de": "Käse-Cracker, natriumarm",
+  "pt": "Crackers de queijo, com baixo teor de sódio"
+ },
+ "4883": {
+  "it": "Cracker al formaggio, a ridotto contenuto di grassi",
+  "fr": "Crackers au fromage, allégés en matières grasses",
+  "es": "Crackers de queso, reducidos en grasa",
+  "de": "Käse-Cracker, fettreduziert",
+  "pt": "Crackers de queijo, com teor reduzido de gordura"
+ },
+ "4884": {
+  "it": "Cracker al formaggio, a ridotto contenuto di sodio",
+  "fr": "Crackers au fromage, à teneur réduite en sodium",
+  "es": "Crackers de queso, reducidos en sodio",
+  "de": "Käse-Cracker, natriumreduziert",
+  "pt": "Crackers de queijo, com teor reduzido de sódio"
+ },
+ "4885": {
+  "it": "Cracker al formaggio, normali",
+  "fr": "Crackers au fromage, classiques",
+  "es": "Crackers de queso, normales",
+  "de": "Käse-Cracker, normal",
+  "pt": "Crackers de queijo, comuns"
+ },
+ "4886": {
+  "it": "Cracker al formaggio, tipo sandwich con ripieno di formaggio",
+  "fr": "Crackers au fromage, type sandwich avec garniture au fromage",
+  "es": "Crackers de queso, tipo sándwich con relleno de queso",
+  "de": "Käse-Cracker, Sandwich-Typ mit Käsefüllung",
+  "pt": "Crackers de queijo, tipo sanduíche com recheio de queijo"
+ },
+ "4887": {
+  "it": "Cracker al formaggio, tipo sandwich con ripieno di burro di arachidi",
+  "fr": "Crackers au fromage, type sandwich avec garniture au beurre de cacahuète",
+  "es": "Crackers de queso, tipo sándwich con relleno de mantequilla de cacahuate",
+  "de": "Käse-Cracker, Sandwich-Typ mit Erdnussbutterfüllung",
+  "pt": "Crackers de queijo, tipo sanduíche com recheio de pasta de amendoim"
+ },
+ "4888": {
+  "it": "Cracker al formaggio, integrali",
+  "fr": "Crackers au fromage, complets",
+  "es": "Crackers de queso, integrales",
+  "de": "Käse-Cracker, Vollkorn-",
+  "pt": "Crackers de queijo, integrais"
+ },
+ "4889": {
+  "it": "Cracker alla panna, Gamesa Sabrosas",
+  "fr": "Crackers à la crème, Gamesa Sabrosas",
+  "es": "Crackers de crema, Gamesa Sabrosas",
+  "de": "Sahne-Cracker, Gamesa Sabrosas",
+  "pt": "Crackers cream cracker, Gamesa Sabrosas"
+ },
+ "4890": {
+  "it": "Cracker alla panna, La Moderna Rikis Cream Crackers",
+  "fr": "Crackers à la crème, La Moderna Rikis Cream Crackers",
+  "es": "Crackers de crema, La Moderna Rikis Cream Crackers",
+  "de": "Sahne-Cracker, La Moderna Rikis Cream Crackers",
+  "pt": "Crackers cream cracker, La Moderna Rikis Cream Crackers"
+ },
+ "4891": {
+  "it": "Cracker, pane croccante (crispbread)",
+  "fr": "Crackers, pain croustillant",
+  "es": "Crackers, pan crujiente",
+  "de": "Cracker, Knäckebrot",
+  "pt": "Crackers, pão crocante"
+ },
+ "4892": {
+  "it": "Cracker, pane croccante, di segale",
+  "fr": "Crackers, pain croustillant, de seigle",
+  "es": "Crackers, pan crujiente, de centeno",
+  "de": "Cracker, Knäckebrot, aus Roggen",
+  "pt": "Crackers, pão crocante, de centeio"
+ },
+ "4893": {
+  "it": "Cracker cubani",
+  "fr": "Crackers cubains",
+  "es": "Crackers cubanos",
+  "de": "Cracker, kubanisch",
+  "pt": "Crackers cubanos"
+ },
+ "4894": {
+  "it": "Cracker, pane azzimo (flatbread)",
+  "fr": "Crackers, pain plat",
+  "es": "Crackers, pan plano",
+  "de": "Cracker, Fladenbrot",
+  "pt": "Crackers, pão sírio"
+ },
+ "4895": {
+  "it": "Cracker aromatizzati, a forma di pesce",
+  "fr": "Crackers aromatisés, en forme de poisson",
+  "es": "Crackers aromatizados, en forma de pez",
+  "de": "Cracker, aromatisiert, fischförmig",
+  "pt": "Crackers aromatizados, em formato de peixe"
+ },
+ "4896": {
+  "it": "Cracker senza glutine, aromatizzati",
+  "fr": "Crackers sans gluten, aromatisés",
+  "es": "Crackers sin gluten, aromatizados",
+  "de": "Cracker, glutenfrei, aromatisiert",
+  "pt": "Crackers sem glúten, aromatizados"
+ },
+ "4897": {
+  "it": "Cracker senza glutine, semplici",
+  "fr": "Crackers sans gluten, nature",
+  "es": "Crackers sin gluten, naturales",
+  "de": "Cracker, glutenfrei, natur",
+  "pt": "Crackers sem glúten, simples"
+ },
+ "4898": {
+  "it": "Cracker senza glutine, ai semi misti e ai cereali misti",
+  "fr": "Crackers sans gluten, aux graines et aux céréales variées",
+  "es": "Crackers sin gluten, de semillas y cereales variados",
+  "de": "Cracker, glutenfrei, mit Saaten und Mehrkorn",
+  "pt": "Crackers sem glúten, com sementes e multigrãos"
+ },
+ "4899": {
+  "it": "Cracker senza glutine, ai cereali misti e verdure, a base di amido di mais e farina di riso bianco",
+  "fr": "Crackers sans gluten, aux céréales variées et aux légumes, à base d'amidon de maïs et de farine de riz blanc",
+  "es": "Crackers sin gluten, de cereales variados y verduras, elaborados con almidón de maíz y harina de arroz blanco",
+  "de": "Cracker, glutenfrei, mit Mehrkorn und Gemüse, aus Maisstärke und weißem Reismehl",
+  "pt": "Crackers sem glúten, multigrãos e vegetais, feitos com amido de milho e farinha de arroz branco"
+ },
+ "4900": {
+  "it": "Cracker azzimi (matzah)",
+  "fr": "Crackers matzo",
+  "es": "Crackers de matzá",
+  "de": "Cracker, Matze",
+  "pt": "Crackers matzá"
+ },
+ "4901": {
+  "it": "Cracker azzimi (matzah), all'uovo",
+  "fr": "Crackers matzo, aux œufs",
+  "es": "Crackers de matzá, de huevo",
+  "de": "Cracker, Matze, mit Ei",
+  "pt": "Crackers matzá, de ovo"
+ },
+ "4902": {
+  "it": "Cracker azzimi (matzah), all'uovo e cipolla",
+  "fr": "Crackers matzo, aux œufs et à l'oignon",
+  "es": "Crackers de matzá, de huevo y cebolla",
+  "de": "Cracker, Matze, mit Ei und Zwiebel",
+  "pt": "Crackers matzá, de ovo e cebola"
+ },
+ "4903": {
+  "it": "Cracker azzimi (matzah), semplici",
+  "fr": "Crackers matzo, nature",
+  "es": "Crackers de matzá, naturales",
+  "de": "Cracker, Matze, natur",
+  "pt": "Crackers matzá, simples"
+ },
+ "4904": {
+  "it": "Cracker azzimi (matzah), a ridotto contenuto di sodio",
+  "fr": "Crackers matzo, à teneur réduite en sodium",
+  "es": "Crackers de matzá, reducidos en sodio",
+  "de": "Cracker, Matze, natriumreduziert",
+  "pt": "Crackers matzá, com teor reduzido de sódio"
+ },
+ "4905": {
+  "it": "Cracker azzimi (matzah), di grano integrale",
+  "fr": "Crackers matzo, de blé complet",
+  "es": "Crackers de matzá, de trigo integral",
+  "de": "Cracker, Matze, aus Vollkornweizen",
+  "pt": "Crackers matzá, de trigo integral"
+ },
+ "4906": {
+  "it": "Cracker, melba toast, semplice",
+  "fr": "Crackers, toast melba, nature",
+  "es": "Crackers, tostada melba, natural",
+  "de": "Cracker, Melba-Toast, natur",
+  "pt": "Crackers, torrada melba, simples"
+ },
+ "4907": {
+  "it": "Cracker, melba toast, semplice, senza sale",
+  "fr": "Crackers, toast melba, nature, sans sel",
+  "es": "Crackers, tostada melba, natural, sin sal",
+  "de": "Cracker, Melba-Toast, natur, ohne Salz",
+  "pt": "Crackers, torrada melba, simples, sem sal"
+ },
+ "4908": {
+  "it": "Cracker, melba toast, di segale (comprende pumpernickel)",
+  "fr": "Crackers, toast melba, de seigle (comprend le pumpernickel)",
+  "es": "Crackers, tostada melba, de centeno (incluye pumpernickel)",
+  "de": "Cracker, Melba-Toast, aus Roggen (enthält Pumpernickel)",
+  "pt": "Crackers, torrada melba, de centeio (inclui pumpernickel)"
+ },
+ "4909": {
+  "it": "Cracker, melba toast, di frumento",
+  "fr": "Crackers, toast melba, de blé",
+  "es": "Crackers, tostada melba, de trigo",
+  "de": "Cracker, Melba-Toast, aus Weizen",
+  "pt": "Crackers, torrada melba, de trigo"
+ },
+ "4910": {
+  "it": "Cracker al latte",
+  "fr": "Crackers au lait",
+  "es": "Crackers de leche",
+  "de": "Milch-Cracker",
+  "pt": "Crackers de leite"
+ },
+ "4911": {
+  "it": "Cracker ai cereali misti",
+  "fr": "Crackers multicéréales",
+  "es": "Crackers multicereales",
+  "de": "Mehrkorn-Cracker",
+  "pt": "Crackers multigrãos"
+ },
+ "4912": {
+  "it": "Cracker, non specificato",
+  "fr": "Crackers, non spécifié",
+  "es": "Crackers, no especificado",
+  "de": "Cracker, nicht näher bezeichnet",
+  "pt": "Crackers, não especificado"
+ },
+ "4913": {
+  "it": "Cracker all'avena",
+  "fr": "Crackers à l'avoine",
+  "es": "Crackers de avena",
+  "de": "Haferflocken-Cracker",
+  "pt": "Crackers de aveia"
+ },
+ "4914": {
+  "it": "Cracker oyster (a forma di piccole conchiglie)",
+  "fr": "Crackers oyster (en forme de petites huîtres)",
+  "es": "Crackers oyster (en forma de pequeñas ostras)",
+  "de": "Oyster-Cracker (kleine Suppencracker)",
+  "pt": "Crackers oyster (em formato de pequenas ostras)"
+ },
+ "4915": {
+  "it": "Cracker di riso",
+  "fr": "Crackers de riz",
+  "es": "Crackers de arroz",
+  "de": "Reis-Cracker",
+  "pt": "Crackers de arroz"
+ },
+ "4916": {
+  "it": "Cracker di riso e frutta secca",
+  "fr": "Crackers de riz et de fruits à coque",
+  "es": "Crackers de arroz y frutos secos",
+  "de": "Reis-Cracker mit Nüssen",
+  "pt": "Crackers de arroz e castanhas"
+ },
+ "4917": {
+  "it": "Cracker, fette biscottate",
+  "fr": "Crackers, biscottes",
+  "es": "Crackers, tostadas (rusk)",
+  "de": "Cracker, Zwieback",
+  "pt": "Crackers, torradas secas"
+ },
+ "4918": {
+  "it": "Cracker di segale, tipo sandwich con ripieno di formaggio",
+  "fr": "Crackers de seigle, type sandwich avec garniture au fromage",
+  "es": "Crackers de centeno, tipo sándwich con relleno de queso",
+  "de": "Roggen-Cracker, Sandwich-Typ mit Käsefüllung",
+  "pt": "Crackers de centeio, tipo sanduíche com recheio de queijo"
+ },
+ "4919": {
+  "it": "Cracker di segale, wafer, semplici",
+  "fr": "Crackers de seigle, gaufrettes, nature",
+  "es": "Crackers de centeno, obleas, naturales",
+  "de": "Roggen-Cracker, Waffeln, natur",
+  "pt": "Crackers de centeio, waffles, simples"
+ },
+ "4920": {
+  "it": "Cracker di segale, wafer, conditi",
+  "fr": "Crackers de seigle, gaufrettes, assaisonnées",
+  "es": "Crackers de centeno, obleas, condimentadas",
+  "de": "Roggen-Cracker, Waffeln, gewürzt",
+  "pt": "Crackers de centeio, waffles, temperados"
+ },
+ "4921": {
+  "it": "Cracker salati (saltine)",
+  "fr": "Crackers salés (saltine)",
+  "es": "Crackers salados (saltine)",
+  "de": "Salzcracker (Saltine)",
+  "pt": "Crackers salgados (saltine)"
+ },
+ "4922": {
+  "it": "Cracker salati (saltine), ai cereali misti",
+  "fr": "Crackers salés (saltine), multicéréales",
+  "es": "Crackers salados (saltine), multicereales",
+  "de": "Salzcracker (Saltine), Mehrkorn",
+  "pt": "Crackers salgados (saltine), multigrãos"
+ },
+ "4923": {
+  "it": "Cracker salati (saltine), a ridotto contenuto di grassi",
+  "fr": "Crackers salés (saltine), allégés en matières grasses",
+  "es": "Crackers salados (saltine), reducidos en grasa",
+  "de": "Salzcracker (Saltine), fettreduziert",
+  "pt": "Crackers salgados (saltine), com teor reduzido de gordura"
+ },
+ "4924": {
+  "it": "Cracker salati (saltine), a ridotto contenuto di sodio",
+  "fr": "Crackers salés (saltine), à teneur réduite en sodium",
+  "es": "Crackers salados (saltine), reducidos en sodio",
+  "de": "Salzcracker (Saltine), natriumreduziert",
+  "pt": "Crackers salgados (saltine), com teor reduzido de sódio"
+ },
+ "4925": {
+  "it": "Cracker salati (saltine) (comprende oyster, soda, zuppa)",
+  "fr": "Crackers salés (saltine) (comprend oyster, soda, soupe)",
+  "es": "Crackers salados (saltine) (incluye oyster, soda, sopa)",
+  "de": "Salzcracker (Saltine) (enthält Oyster-, Soda-, Suppencracker)",
+  "pt": "Crackers salgados (saltine) (inclui oyster, soda, sopa)"
+ },
+ "4926": {
+  "it": "Cracker salati (saltine), senza grassi, a basso contenuto di sodio",
+  "fr": "Crackers salés (saltine), sans matières grasses, pauvres en sodium",
+  "es": "Crackers salados (saltine), sin grasa, bajos en sodio",
+  "de": "Salzcracker (Saltine), fettfrei, natriumarm",
+  "pt": "Crackers salgados (saltine), sem gordura, com baixo teor de sódio"
+ },
+ "4927": {
+  "it": "Cracker salati (saltine), a basso contenuto di sale (comprende oyster, soda, zuppa)",
+  "fr": "Crackers salés (saltine), pauvres en sel (comprend oyster, soda, soupe)",
+  "es": "Crackers salados (saltine), bajos en sal (incluye oyster, soda, sopa)",
+  "de": "Salzcracker (Saltine), salzarm (enthält Oyster-, Soda-, Suppencracker)",
+  "pt": "Crackers salgados (saltine), com baixo teor de sal (inclui oyster, soda, sopa)"
+ },
+ "4928": {
+  "it": "Cracker salati (saltine), con la superficie non salata (comprende oyster, soda, zuppa)",
+  "fr": "Crackers salés (saltine), dessus non salés (comprend oyster, soda, soupe)",
+  "es": "Crackers salados (saltine), con la superficie sin sal (incluye oyster, soda, sopa)",
+  "de": "Salzcracker (Saltine), Oberseite ungesalzen (enthält Oyster-, Soda-, Suppencracker)",
+  "pt": "Crackers salgados (saltine), com o topo sem sal (inclui oyster, soda, sopa)"
+ },
+ "4929": {
+  "it": "Cracker salati (saltine), di grano integrale (comprende ai cereali misti)",
+  "fr": "Crackers salés (saltine), de blé complet (comprend multicéréales)",
+  "es": "Crackers salados (saltine), de trigo integral (incluye multicereales)",
+  "de": "Salzcracker (Saltine), aus Vollkornweizen (enthält Mehrkorn)",
+  "pt": "Crackers salgados (saltine), de trigo integral (inclui multigrãos)"
+ },
+ "4930": {
+  "it": "Cracker, tipo sandwich",
+  "fr": "Crackers, type sandwich",
+  "es": "Crackers, tipo sándwich",
+  "de": "Cracker, Sandwich-Typ",
+  "pt": "Crackers, tipo sanduíche"
+ },
+ "4931": {
+  "it": "Cracker, tipo sandwich, ripieni di formaggio",
+  "fr": "Crackers, type sandwich, garnis de fromage",
+  "es": "Crackers, tipo sándwich, rellenos de queso",
+  "de": "Cracker, Sandwich-Typ, mit Käsefüllung",
+  "pt": "Crackers, tipo sanduíche, recheados com queijo"
+ },
+ "4932": {
+  "it": "Cracker, tipo sandwich, ripieni di formaggio (Ritz)",
+  "fr": "Crackers, type sandwich, garnis de fromage (Ritz)",
+  "es": "Crackers, tipo sándwich, rellenos de queso (Ritz)",
+  "de": "Cracker, Sandwich-Typ, mit Käsefüllung (Ritz)",
+  "pt": "Crackers, tipo sanduíche, recheados com queijo (Ritz)"
+ },
+ "4933": {
+  "it": "Cracker, tipo sandwich, ripieni di burro di arachidi",
+  "fr": "Crackers, type sandwich, garnis de beurre de cacahuète",
+  "es": "Crackers, tipo sándwich, rellenos de mantequilla de cacahuate",
+  "de": "Cracker, Sandwich-Typ, mit Erdnussbutterfüllung",
+  "pt": "Crackers, tipo sanduíche, recheados com pasta de amendoim"
+ },
+ "4934": {
+  "it": "Cracker, tipo sandwich, ripieni di burro di arachidi (Ritz)",
+  "fr": "Crackers, type sandwich, garnis de beurre de cacahuète (Ritz)",
+  "es": "Crackers, tipo sándwich, rellenos de mantequilla de cacahuate (Ritz)",
+  "de": "Cracker, Sandwich-Typ, mit Erdnussbutterfüllung (Ritz)",
+  "pt": "Crackers, tipo sanduíche, recheados com pasta de amendoim (Ritz)"
+ },
+ "4935": {
+  "it": "Cracker, tipo sandwich, a ridotto contenuto di grassi, ripieni di burro di arachidi",
+  "fr": "Crackers, type sandwich, allégés en matières grasses, garnis de beurre de cacahuète",
+  "es": "Crackers, tipo sándwich, reducidos en grasa, rellenos de mantequilla de cacahuate",
+  "de": "Cracker, Sandwich-Typ, fettreduziert, mit Erdnussbutterfüllung",
+  "pt": "Crackers, tipo sanduíche, com teor reduzido de gordura, recheados com pasta de amendoim"
+ },
+ "4936": {
+  "it": "Cracker, tipo sandwich, ripieni di burro di arachidi, a ridotto contenuto di grassi",
+  "fr": "Crackers, type sandwich, garnis de beurre de cacahuète, allégés en matières grasses",
+  "es": "Crackers, tipo sándwich, rellenos de mantequilla de cacahuate, reducidos en grasa",
+  "de": "Cracker, Sandwich-Typ, mit Erdnussbutterfüllung, fettreduziert",
+  "pt": "Crackers, tipo sanduíche, recheados com pasta de amendoim, com teor reduzido de gordura"
+ },
+ "4937": {
+  "it": "Cracker, snack, Goya Crackers",
+  "fr": "Crackers, snack, Goya Crackers",
+  "es": "Crackers, botana, Goya Crackers",
+  "de": "Cracker, Snack, Goya Crackers",
+  "pt": "Crackers, lanche, Goya Crackers"
+ },
+ "4938": {
+  "it": "Cracker tipo snack standard, normali",
+  "fr": "Crackers type snack standard, classiques",
+  "es": "Crackers tipo snack estándar, normales",
+  "de": "Standard-Snack-Cracker, normal",
+  "pt": "Crackers tipo lanche padrão, comuns"
+ },
+ "4939": {
+  "it": "Cracker tipo snack standard, normali, a basso contenuto di sale",
+  "fr": "Crackers type snack standard, classiques, pauvres en sel",
+  "es": "Crackers tipo snack estándar, normales, bajos en sal",
+  "de": "Standard-Snack-Cracker, normal, salzarm",
+  "pt": "Crackers tipo lanche padrão, comuns, com baixo teor de sal"
+ },
+ "4940": {
+  "it": "Cracker tipo snack standard, sandwich, con ripieno di formaggio",
+  "fr": "Crackers type snack standard, sandwich, avec garniture au fromage",
+  "es": "Crackers tipo snack estándar, sándwich, con relleno de queso",
+  "de": "Standard-Snack-Cracker, Sandwich, mit Käsefüllung",
+  "pt": "Crackers tipo lanche padrão, sanduíche, com recheio de queijo"
+ },
+ "4941": {
+  "it": "Cracker tipo snack standard, sandwich, con ripieno di burro di arachidi",
+  "fr": "Crackers type snack standard, sandwich, avec garniture au beurre de cacahuète",
+  "es": "Crackers tipo snack estándar, sándwich, con relleno de mantequilla de cacahuate",
+  "de": "Standard-Snack-Cracker, Sandwich, mit Erdnussbutterfüllung",
+  "pt": "Crackers tipo lanche padrão, sanduíche, com recheio de pasta de amendoim"
+ },
+ "4942": {
+  "it": "Cracker tipo snack standard, con grano integrale",
+  "fr": "Crackers type snack standard, au blé complet",
+  "es": "Crackers tipo snack estándar, con trigo integral",
+  "de": "Standard-Snack-Cracker, mit Vollkornweizen",
+  "pt": "Crackers tipo lanche padrão, com trigo integral"
+ },
+ "4943": {
+  "it": "Cracker, toast thins, a basso contenuto di sodio",
+  "fr": "Crackers, toast thins, pauvres en sodium",
+  "es": "Crackers, toast thins, bajos en sodio",
+  "de": "Cracker, Toast Thins, natriumarm",
+  "pt": "Crackers, toast thins, com baixo teor de sódio"
+ },
+ "4944": {
+  "it": "Cracker, water (all'acqua)",
+  "fr": "Crackers, water (à l'eau)",
+  "es": "Crackers, water (de agua)",
+  "de": "Cracker, Water (mit Wasser)",
+  "pt": "Crackers, water (de água)"
+ },
+ "4945": {
+  "it": "Cracker, water biscuits (biscotti all'acqua)",
+  "fr": "Crackers, water biscuits (biscuits à l'eau)",
+  "es": "Crackers, water biscuits (galletas de agua)",
+  "de": "Cracker, Water Biscuits (Wasserkekse)",
+  "pt": "Crackers, water biscuits (biscoitos de água)"
+ },
+ "4946": {
+  "it": "Cracker di frumento",
+  "fr": "Crackers de blé",
+  "es": "Crackers de trigo",
+  "de": "Weizen-Cracker",
+  "pt": "Crackers de trigo"
+ },
+ "4947": {
+  "it": "Cracker di frumento, aromatizzati (Wheat Thins)",
+  "fr": "Crackers de blé, aromatisés (Wheat Thins)",
+  "es": "Crackers de trigo, aromatizados (Wheat Thins)",
+  "de": "Weizen-Cracker, aromatisiert (Wheat Thins)",
+  "pt": "Crackers de trigo, aromatizados (Wheat Thins)"
+ },
+ "4948": {
+  "it": "Cracker di frumento, a basso contenuto di sale",
+  "fr": "Crackers de blé, pauvres en sel",
+  "es": "Crackers de trigo, bajos en sal",
+  "de": "Weizen-Cracker, salzarm",
+  "pt": "Crackers de trigo, com baixo teor de sal"
+ },
+ "4949": {
+  "it": "Cracker di frumento, semplici (Wheat Thins)",
+  "fr": "Crackers de blé, nature (Wheat Thins)",
+  "es": "Crackers de trigo, naturales (Wheat Thins)",
+  "de": "Weizen-Cracker, natur (Wheat Thins)",
+  "pt": "Crackers de trigo, simples (Wheat Thins)"
+ },
+ "4950": {
+  "it": "Cracker di frumento, a ridotto contenuto di grassi",
+  "fr": "Crackers de blé, allégés en matières grasses",
+  "es": "Crackers de trigo, reducidos en grasa",
+  "de": "Weizen-Cracker, fettreduziert",
+  "pt": "Crackers de trigo, com teor reduzido de gordura"
+ },
+ "4951": {
+  "it": "Cracker di frumento, a ridotto contenuto di sodio",
+  "fr": "Crackers de blé, à teneur réduite en sodium",
+  "es": "Crackers de trigo, reducidos en sodio",
+  "de": "Weizen-Cracker, natriumreduziert",
+  "pt": "Crackers de trigo, com teor reduzido de sódio"
+ },
+ "4952": {
+  "it": "Cracker di frumento, normali",
+  "fr": "Crackers de blé, classiques",
+  "es": "Crackers de trigo, normales",
+  "de": "Weizen-Cracker, normal",
+  "pt": "Crackers de trigo, comuns"
+ },
+ "4953": {
+  "it": "Cracker di frumento, sandwich, con ripieno di formaggio",
+  "fr": "Crackers de blé, sandwich, avec garniture au fromage",
+  "es": "Crackers de trigo, sándwich, con relleno de queso",
+  "de": "Weizen-Cracker, Sandwich, mit Käsefüllung",
+  "pt": "Crackers de trigo, sanduíche, com recheio de queijo"
+ },
+ "4954": {
+  "it": "Cracker di frumento, sandwich, con ripieno di burro di arachidi",
+  "fr": "Crackers de blé, sandwich, avec garniture au beurre de cacahuète",
+  "es": "Crackers de trigo, sándwich, con relleno de mantequilla de cacahuate",
+  "de": "Weizen-Cracker, Sandwich, mit Erdnussbutterfüllung",
+  "pt": "Crackers de trigo, sanduíche, com recheio de pasta de amendoim"
+ },
+ "4955": {
+  "it": "Cracker integrali, sandwich, ripieni di burro di arachidi",
+  "fr": "Crackers complets, sandwich, garnis de beurre de cacahuète",
+  "es": "Crackers integrales, sándwich, rellenos de mantequilla de cacahuate",
+  "de": "Vollkorn-Cracker, Sandwich, mit Erdnussbutterfüllung",
+  "pt": "Crackers integrais, sanduíche, recheados com pasta de amendoim"
+ },
+ "4956": {
+  "it": "Cracker integrali, tipo sandwich, con ripieno di burro di arachidi",
+  "fr": "Crackers complets, type sandwich, avec garniture au beurre de cacahuète",
+  "es": "Crackers integrales, tipo sándwich, con relleno de mantequilla de cacahuate",
+  "de": "Vollkorn-Cracker, Sandwich-Typ, mit Erdnussbutterfüllung",
+  "pt": "Crackers integrais, tipo sanduíche, com recheio de pasta de amendoim"
+ },
+ "4957": {
+  "it": "Cracker di grano integrale",
+  "fr": "Crackers de blé complet",
+  "es": "Crackers de trigo integral",
+  "de": "Vollkornweizen-Cracker",
+  "pt": "Crackers de trigo integral"
+ },
+ "4958": {
+  "it": "Cracker di grano integrale, a basso contenuto di sale",
+  "fr": "Crackers de blé complet, pauvres en sel",
+  "es": "Crackers de trigo integral, bajos en sal",
+  "de": "Vollkornweizen-Cracker, salzarm",
+  "pt": "Crackers de trigo integral, com baixo teor de sal"
+ },
+ "4959": {
+  "it": "Cracker di grano integrale, a ridotto contenuto di grassi",
+  "fr": "Crackers de blé complet, allégés en matières grasses",
+  "es": "Crackers de trigo integral, reducidos en grasa",
+  "de": "Vollkornweizen-Cracker, fettreduziert",
+  "pt": "Crackers de trigo integral, com teor reduzido de gordura"
+ },
+ "4960": {
+  "it": "Cracker wonton",
+  "fr": "Crackers wonton",
+  "es": "Crackers wonton",
+  "de": "Wonton-Cracker",
+  "pt": "Crackers wonton"
+ },
+ "4961": {
+  "it": "Cracker di frumento intrecciati",
+  "fr": "Crackers de blé tressés",
+  "es": "Crackers de trigo entretejidos",
+  "de": "Weizen-Cracker, gewebt",
+  "pt": "Crackers de trigo entrelaçados"
+ },
+ "4962": {
+  "it": "Cracker di frumento intrecciati, aromatizzati (Triscuit)",
+  "fr": "Crackers de blé tressés, aromatisés (Triscuit)",
+  "es": "Crackers de trigo entretejidos, aromatizados (Triscuit)",
+  "de": "Weizen-Cracker, gewebt, aromatisiert (Triscuit)",
+  "pt": "Crackers de trigo entrelaçados, aromatizados (Triscuit)"
+ },
+ "4963": {
+  "it": "Cracker di frumento intrecciati, semplici (Triscuit)",
+  "fr": "Crackers de blé tressés, nature (Triscuit)",
+  "es": "Crackers de trigo entretejidos, naturales (Triscuit)",
+  "de": "Weizen-Cracker, gewebt, natur (Triscuit)",
+  "pt": "Crackers de trigo entrelaçados, simples (Triscuit)"
+ },
+ "4964": {
+  "it": "Cracker di frumento intrecciati, a ridotto contenuto di grassi",
+  "fr": "Crackers de blé tressés, allégés en matières grasses",
+  "es": "Crackers de trigo entretejidos, reducidos en grasa",
+  "de": "Weizen-Cracker, gewebt, fettreduziert",
+  "pt": "Crackers de trigo entrelaçados, com teor reduzido de gordura"
+ },
+ "4965": {
+  "it": "Cracker di frumento intrecciati, a ridotto contenuto di sodio",
+  "fr": "Crackers de blé tressés, à teneur réduite en sodium",
+  "es": "Crackers de trigo entretejidos, reducidos en sodio",
+  "de": "Weizen-Cracker, gewebt, natriumreduziert",
+  "pt": "Crackers de trigo entrelaçados, com teor reduzido de sódio"
+ },
+ "4966": {
+  "it": "Mirtilli rossi (cranberry), secchi",
+  "fr": "Canneberges, séchées",
+  "es": "Arándanos rojos (cranberries), secos",
+  "de": "Cranberrys, getrocknet",
+  "pt": "Cranberries, secas"
+ },
+ "4967": {
+  "it": "Mirtilli rossi (cranberry), secchi, zuccherati (comprende alimenti del programma di distribuzione alimentare USDA)",
+  "fr": "Canneberges, séchées, sucrées (comprend les aliments du programme de distribution alimentaire de l'USDA)",
+  "es": "Arándanos rojos (cranberries), secos, azucarados (incluye alimentos del programa de distribución de alimentos del USDA)",
+  "de": "Cranberrys, getrocknet, gezuckert (enthält Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+  "pt": "Cranberries, secas, adoçadas (inclui alimentos do programa de distribuição de alimentos do USDA)"
+ },
+ "4968": {
+  "it": "Mirtilli rossi (cranberry), crudi",
+  "fr": "Canneberges, crues",
+  "es": "Arándanos rojos (cranberries), crudos",
+  "de": "Cranberrys, roh",
+  "pt": "Cranberries, cruas"
+ },
+ "4969": {
+  "it": "Mirtilli rossi (cranberry), selvatici, di cespuglio, crudi (nativi dell'Alaska)",
+  "fr": "Canneberges, sauvages, d'arbuste, crues (autochtones d'Alaska)",
+  "es": "Arándanos rojos (cranberries), silvestres, de arbusto, crudos (nativos de Alaska)",
+  "de": "Cranberrys, wild, Strauch, roh (Alaska-Ureinwohner)",
+  "pt": "Cranberries, silvestres, de arbusto, cruas (nativos do Alasca)"
+ },
+ "4970": {
+  "it": "Succo misto di mirtillo rosso (cranberry), 100% succo",
+  "fr": "Jus de canneberge en mélange, 100 % jus",
+  "es": "Zumo mixto de arándano rojo (cranberry), 100% zumo",
+  "de": "Cranberry-Saftmischung, 100 % Saft",
+  "pt": "Suco misto de cranberry, 100% suco"
+ },
+ "4971": {
+  "it": "Succo misto di mirtillo rosso (cranberry), 100% succo, in bottiglia, con vitamina C e calcio aggiunti",
+  "fr": "Jus de canneberge en mélange, 100 % jus, en bouteille, avec vitamine C et calcium ajoutés",
+  "es": "Zumo mixto de arándano rojo (cranberry), 100% zumo, embotellado, con vitamina C y calcio añadidos",
+  "de": "Cranberry-Saftmischung, 100 % Saft, in Flaschen, mit Vitamin-C- und Calciumzusatz",
+  "pt": "Suco misto de cranberry, 100% suco, engarrafado, com vitamina C e cálcio adicionados"
+ },
+ "4972": {
+  "it": "Succo misto di mirtillo rosso (cranberry), 100% succo, con calcio aggiunto",
+  "fr": "Jus de canneberge en mélange, 100 % jus, avec calcium ajouté",
+  "es": "Zumo mixto de arándano rojo (cranberry), 100% zumo, con calcio añadido",
+  "de": "Cranberry-Saftmischung, 100 % Saft, mit Calciumzusatz",
+  "pt": "Suco misto de cranberry, 100% suco, com cálcio adicionado"
+ },
+ "4973": {
+  "it": "Cocktail di succo di mirtillo rosso (cranberry), in bottiglia",
+  "fr": "Cocktail de jus de canneberge, en bouteille",
+  "es": "Cóctel de zumo de arándano rojo (cranberry), embotellado",
+  "de": "Cranberry-Saftcocktail, in Flaschen",
+  "pt": "Coquetel de suco de cranberry, engarrafado"
+ },
+ "4974": {
+  "it": "Cocktail di succo di mirtillo rosso (cranberry), in bottiglia, ipocalorico, con calcio, saccarina e dolcificante di mais",
+  "fr": "Cocktail de jus de canneberge, en bouteille, basses calories, avec calcium, saccharine et édulcorant de maïs",
+  "es": "Cóctel de zumo de arándano rojo (cranberry), embotellado, bajo en calorías, con calcio, sacarina y edulcorante de maíz",
+  "de": "Cranberry-Saftcocktail, in Flaschen, kalorienarm, mit Calcium, Saccharin und Maissüßstoff",
+  "pt": "Coquetel de suco de cranberry, engarrafado, baixa caloria, com cálcio, sacarina e adoçante de milho"
+ },
+ "4975": {
+  "it": "Cocktail di succo di mirtillo rosso (cranberry), concentrato surgelato",
+  "fr": "Cocktail de jus de canneberge, concentré surgelé",
+  "es": "Cóctel de zumo de arándano rojo (cranberry), concentrado congelado",
+  "de": "Cranberry-Saftcocktail, tiefgekühltes Konzentrat",
+  "pt": "Coquetel de suco de cranberry, concentrado congelado"
+ },
+ "4976": {
+  "it": "Cocktail di succo di mirtillo rosso (cranberry), concentrato surgelato, preparato con acqua",
+  "fr": "Cocktail de jus de canneberge, concentré surgelé, préparé avec de l'eau",
+  "es": "Cóctel de zumo de arándano rojo (cranberry), concentrado congelado, preparado con agua",
+  "de": "Cranberry-Saftcocktail, tiefgekühltes Konzentrat, mit Wasser zubereitet",
+  "pt": "Coquetel de suco de cranberry, concentrado congelado, preparado com água"
+ },
+ "4977": {
+  "it": "Bevanda al succo di mirtillo rosso (cranberry), ad alto contenuto di vitamina C",
+  "fr": "Boisson au jus de canneberge, riche en vitamine C",
+  "es": "Bebida de zumo de arándano rojo (cranberry), con alto contenido de vitamina C",
+  "de": "Cranberry-Saftgetränk, mit hohem Vitamin-C-Gehalt",
+  "pt": "Bebida de suco de cranberry, com alto teor de vitamina C"
+ },
+ "4978": {
+  "it": "Bevanda al succo di mirtillo rosso (cranberry), ad alto contenuto di vitamina C, light",
+  "fr": "Boisson au jus de canneberge, riche en vitamine C, légère",
+  "es": "Bebida de zumo de arándano rojo (cranberry), con alto contenido de vitamina C, light",
+  "de": "Cranberry-Saftgetränk, mit hohem Vitamin-C-Gehalt, leicht",
+  "pt": "Bebida de suco de cranberry, com alto teor de vitamina C, light"
+ },
+ "4979": {
+  "it": "Succo di mirtillo rosso (cranberry), 100%, non misto",
+  "fr": "Jus de canneberge, 100 %, pur (sans mélange)",
+  "es": "Zumo de arándano rojo (cranberry), 100%, no mixto",
+  "de": "Cranberrysaft, 100 %, keine Mischung",
+  "pt": "Suco de cranberry, 100%, não misto"
+ },
+ "4980": {
+  "it": "Succo di mirtillo rosso (cranberry), non fortificato, da concentrato, a lunga conservazione",
+  "fr": "Jus de canneberge, non fortifié, à base de concentré, longue conservation",
+  "es": "Zumo de arándano rojo (cranberry), no fortificado, de concentrado, de larga duración",
+  "de": "Cranberrysaft, nicht angereichert, aus Konzentrat, haltbar",
+  "pt": "Suco de cranberry, não fortificado, de concentrado, de longa duração"
+ },
+ "4981": {
+  "it": "Succo di mirtillo rosso (cranberry), non zuccherato",
+  "fr": "Jus de canneberge, non sucré",
+  "es": "Zumo de arándano rojo (cranberry), sin azúcar",
+  "de": "Cranberrysaft, ungezuckert",
+  "pt": "Suco de cranberry, sem açúcar"
+ },
+ "4982": {
+  "it": "Salsa di mirtillo rosso (cranberry)",
+  "fr": "Sauce aux canneberges",
+  "es": "Salsa de arándano rojo (cranberry)",
+  "de": "Cranberry-Sauce",
+  "pt": "Molho de cranberry"
+ },
+ "4983": {
+  "it": "Salsa di mirtillo rosso (cranberry), in scatola, zuccherata",
+  "fr": "Sauce aux canneberges, en conserve, sucrée",
+  "es": "Salsa de arándano rojo (cranberry), en conserva, azucarada",
+  "de": "Cranberry-Sauce, aus der Dose, gezuckert",
+  "pt": "Molho de cranberry, enlatado, adoçado"
+ },
+ "4984": {
+  "it": "Salsa di mirtillo rosso (cranberry), gelatinosa, in scatola, OCEAN SPRAY",
+  "fr": "Sauce aux canneberges, en gelée, en conserve, OCEAN SPRAY",
+  "es": "Salsa de arándano rojo (cranberry), gelatinosa, en conserva, OCEAN SPRAY",
+  "de": "Cranberry-Sauce, geliert, aus der Dose, OCEAN SPRAY",
+  "pt": "Molho de cranberry, em gelatina, enlatado, OCEAN SPRAY"
+ },
+ "4985": {
+  "it": "Salsa di mirtillo rosso (cranberry), con frutti interi, in scatola, OCEAN SPRAY",
+  "fr": "Sauce aux canneberges, aux fruits entiers, en conserve, OCEAN SPRAY",
+  "es": "Salsa de arándano rojo (cranberry), con frutos enteros, en conserva, OCEAN SPRAY",
+  "de": "Cranberry-Sauce, mit ganzen Früchten, aus der Dose, OCEAN SPRAY",
+  "pt": "Molho de cranberry, com frutas inteiras, enlatado, OCEAN SPRAY"
+ },
+ "4986": {
+  "it": "Mirtillo rosso di palude (lingonberry), crudo (nativo dell'Alaska)",
+  "fr": "Airelle rouge (lingonberry), crue (autochtone d'Alaska)",
+  "es": "Arándano rojo (lingonberry), crudo (nativo de Alaska)",
+  "de": "Preiselbeere (Lingonberry), roh (Alaska-Ureinwohner)",
+  "pt": "Arando-vermelho (lingonberry), cru (nativo do Alasca)"
+ },
+ "4987": {
+  "it": "Relish di mirtillo rosso (cranberry) e arancia, in scatola",
+  "fr": "Relish de canneberge et d'orange, en conserve",
+  "es": "Relish de arándano rojo (cranberry) y naranja, en conserva",
+  "de": "Cranberry-Orangen-Relish, aus der Dose",
+  "pt": "Relish de cranberry e laranja, enlatado"
+ },
+ "4988": {
+  "it": "Gambero di fiume, cotto",
+  "fr": "Écrevisse, cuite",
+  "es": "Cangrejo de río, cocido",
+  "de": "Flusskrebs, gekocht",
+  "pt": "Lagostim de água doce, cozido"
+ },
+ "4989": {
+  "it": "Gambero di fiume, fritto",
+  "fr": "Écrevisse, frite",
+  "es": "Cangrejo de río, frito",
+  "de": "Flusskrebs, frittiert",
+  "pt": "Lagostim de água doce, frito"
+ },
+ "4990": {
+  "it": "Formaggio cremoso (cream cheese), senza grassi",
+  "fr": "Fromage frais à tartiner (cream cheese), sans matières grasses",
+  "es": "Queso crema, sin grasa",
+  "de": "Frischkäse (Cream Cheese), fettfrei",
+  "pt": "Cream cheese, sem gordura"
+ },
+ "4991": {
+  "it": "Formaggio cremoso (cream cheese), con grassi interi, in panetto",
+  "fr": "Fromage frais à tartiner (cream cheese), entier, en bloc",
+  "es": "Queso crema, entero, en bloque",
+  "de": "Frischkäse (Cream Cheese), Vollfett, im Block",
+  "pt": "Cream cheese, integral, em bloco"
+ },
+ "4992": {
+  "it": "Formaggio cremoso (cream cheese), light",
+  "fr": "Fromage frais à tartiner (cream cheese), léger",
+  "es": "Queso crema, light",
+  "de": "Frischkäse (Cream Cheese), leicht",
+  "pt": "Cream cheese, light"
+ },
+ "4993": {
+  "it": "Formaggio cremoso (cream cheese), normale, aromatizzato",
+  "fr": "Fromage frais à tartiner (cream cheese), classique, aromatisé",
+  "es": "Queso crema, normal, aromatizado",
+  "de": "Frischkäse (Cream Cheese), normal, aromatisiert",
+  "pt": "Cream cheese, comum, aromatizado"
+ },
+ "4994": {
+  "it": "Formaggio cremoso (cream cheese), normale, naturale",
+  "fr": "Fromage frais à tartiner (cream cheese), classique, nature",
+  "es": "Queso crema, normal, natural",
+  "de": "Frischkäse (Cream Cheese), normal, natur",
+  "pt": "Cream cheese, comum, simples"
+ },
+ "4995": {
+  "it": "Crema di riso",
+  "fr": "Crème de riz",
+  "es": "Crema de arroz",
+  "de": "Reiscreme",
+  "pt": "Creme de arroz"
+ },
+ "4996": {
+  "it": "Cream of wheat (crema di semola), istantanea, preparata con acqua, con grassi aggiunti",
+  "fr": "Cream of wheat (crème de semoule), instantanée, préparée avec de l'eau, avec matières grasses ajoutées",
+  "es": "Cream of wheat (crema de sémola), instantánea, preparada con agua, con grasa añadida",
+  "de": "Cream of Wheat (Weizengrießbrei), Instant-, mit Wasser zubereitet, mit zugesetztem Fett",
+  "pt": "Cream of wheat (creme de semolina), instantâneo, preparado com água, com gordura adicionada"
+ },
+ "4997": {
+  "it": "Cream of wheat (crema di semola), istantanea, preparata con acqua, senza grassi aggiunti",
+  "fr": "Cream of wheat (crème de semoule), instantanée, préparée avec de l'eau, sans matières grasses ajoutées",
+  "es": "Cream of wheat (crema de sémola), instantánea, preparada con agua, sin grasa añadida",
+  "de": "Cream of Wheat (Weizengrießbrei), Instant-, mit Wasser zubereitet, ohne zugesetztes Fett",
+  "pt": "Cream of wheat (creme de semolina), instantâneo, preparado com água, sem gordura adicionada"
+ },
+ "4998": {
+  "it": "Cream of wheat (crema di semola), non specificata",
+  "fr": "Cream of wheat (crème de semoule), non spécifiée",
+  "es": "Cream of wheat (crema de sémola), no especificada",
+  "de": "Cream of Wheat (Weizengrießbrei), nicht näher bezeichnet",
+  "pt": "Cream of wheat (creme de semolina), não especificado"
+ },
+ "4999": {
+  "it": "Cream of wheat (crema di semola), normale o rapida, preparata con acqua, con grassi aggiunti",
+  "fr": "Cream of wheat (crème de semoule), classique ou rapide, préparée avec de l'eau, avec matières grasses ajoutées",
+  "es": "Cream of wheat (crema de sémola), normal o rápida, preparada con agua, con grasa añadida",
+  "de": "Cream of Wheat (Weizengrießbrei), normal oder schnell, mit Wasser zubereitet, mit zugesetztem Fett",
+  "pt": "Cream of wheat (creme de semolina), comum ou rápido, preparado com água, com gordura adicionada"
+ },
+ "5000": {
+  "it": "Cream of wheat (crema di semola), normale o rapida, preparata con acqua, senza grassi aggiunti",
+  "fr": "Cream of wheat (crème de semoule), classique ou rapide, préparée avec de l'eau, sans matières grasses ajoutées",
+  "es": "Cream of wheat (crema de sémola), normal o rápida, preparada con agua, sin grasa añadida",
+  "de": "Cream of Wheat (Weizengrießbrei), normal oder schnell, mit Wasser zubereitet, ohne zugesetztes Fett",
+  "pt": "Cream of wheat (creme de semolina), comum ou rápido, preparado com água, sem gordura adicionada"
+ },
+ "5001": {
+  "it": "Guscio di bignè, preparato da ricetta",
+  "fr": "Chou (coque vide), préparé à partir d'une recette",
+  "es": "Cascarón de petisú, preparado con receta",
+  "de": "Brandteigkrapfen-Hülle, nach Rezept zubereitet",
+  "pt": "Casca de bomba (massa de carolina), preparada com receita"
+ },
+ "5002": {
+  "it": "Bignè, éclair, ripieno di crema pasticcera o panna, glassato",
+  "fr": "Chou, éclair, fourré de crème pâtissière ou de crème, glacé",
+  "es": "Petisú, éclair, relleno de crema pastelera o nata, glaseado",
+  "de": "Windbeutel, Eclair, mit Pudding- oder Sahnefüllung, glasiert",
+  "pt": "Bomba, éclair, recheado com creme ou chantilly, glaceado"
+ },
+ "5003": {
+  "it": "Bignè, éclair, ripieno di crema pasticcera o panna, glassato, a ridotto contenuto di grassi",
+  "fr": "Chou, éclair, fourré de crème pâtissière ou de crème, glacé, allégé en matières grasses",
+  "es": "Petisú, éclair, relleno de crema pastelera o nata, glaseado, reducido en grasa",
+  "de": "Windbeutel, Eclair, mit Pudding- oder Sahnefüllung, glasiert, fettreduziert",
+  "pt": "Bomba, éclair, recheado com creme ou chantilly, glaceado, com teor reduzido de gordura"
+ },
+ "5004": {
+  "it": "Bignè, éclair, ripieno di crema pasticcera o panna, non glassato",
+  "fr": "Chou, éclair, fourré de crème pâtissière ou de crème, non glacé",
+  "es": "Petisú, éclair, relleno de crema pastelera o nata, sin glasear",
+  "de": "Windbeutel, Eclair, mit Pudding- oder Sahnefüllung, unglasiert",
+  "pt": "Bomba, éclair, recheado com creme ou chantilly, sem glacê"
+ },
+ "5005": {
+  "it": "Bignè, éclair, ripieno di crema pasticcera o panna, non specificato se glassato",
+  "fr": "Chou, éclair, fourré de crème pâtissière ou de crème, non précisé si glacé",
+  "es": "Petisú, éclair, relleno de crema pastelera o nata, sin especificar si glaseado",
+  "de": "Windbeutel, Eclair, mit Pudding- oder Sahnefüllung, nicht angegeben ob glasiert",
+  "pt": "Bomba, éclair, recheado com creme ou chantilly, não especificado se glaceado"
+ },
+ "5006": {
+  "it": "Bignè, senza ripieno né glassa",
+  "fr": "Chou, sans garniture ni glaçage",
+  "es": "Petisú, sin relleno ni glaseado",
+  "de": "Windbeutel, ohne Füllung und Glasur",
+  "pt": "Bomba, sem recheio nem glacê"
+ },
+ "5007": {
+  "it": "Salsa alla panna, per verdure",
+  "fr": "Sauce à la crème, pour légumes",
+  "es": "Salsa de crema, para verduras",
+  "de": "Sahnesauce, für Gemüse",
+  "pt": "Molho de creme, para legumes"
+ },
+ "5008": {
+  "it": "Sostituto della panna, aromatizzato, liquido",
+  "fr": "Substitut de crème, aromatisé, liquide",
+  "es": "Sustituto de crema, aromatizado, líquido",
+  "de": "Sahneersatz, aromatisiert, flüssig",
+  "pt": "Substituto de creme, aromatizado, líquido"
+ },
+ "5009": {
+  "it": "Sostituto della panna, aromatizzato, in polvere",
+  "fr": "Substitut de crème, aromatisé, en poudre",
+  "es": "Sustituto de crema, aromatizado, en polvo",
+  "de": "Sahneersatz, aromatisiert, pulverförmig",
+  "pt": "Substituto de creme, aromatizado, em pó"
+ },
+ "5010": {
+  "it": "Sostituto della panna, liquido, light",
+  "fr": "Substitut de crème, liquide, léger",
+  "es": "Sustituto de crema, líquido, light",
+  "de": "Sahneersatz, flüssig, leicht",
+  "pt": "Substituto de creme, líquido, light"
+ },
+ "5011": {
+  "it": "Sostituto della panna, liquido, con olio vegetale idrogenato e proteine di soia",
+  "fr": "Substitut de crème, liquide, avec huile végétale hydrogénée et protéines de soja",
+  "es": "Sustituto de crema, líquido, con aceite vegetal hidrogenado y proteína de soja",
+  "de": "Sahneersatz, flüssig, mit gehärtetem Pflanzenöl und Sojaprotein",
+  "pt": "Substituto de creme, líquido, com óleo vegetal hidrogenado e proteína de soja"
+ },
+ "5012": {
+  "it": "Sostituto della panna, liquido, con olio di acido laurico e caseinato di sodio",
+  "fr": "Substitut de crème, liquide, avec huile d'acide laurique et caséinate de sodium",
+  "es": "Sustituto de crema, líquido, con aceite de ácido láurico y caseinato de sodio",
+  "de": "Sahneersatz, flüssig, mit Laurinsäureöl und Natriumcaseinat",
+  "pt": "Substituto de creme, líquido, com óleo de ácido láurico e caseinato de sódio"
+ },
+ "5013": {
+  "it": "Sostituto della panna, in polvere",
+  "fr": "Substitut de crème, en poudre",
+  "es": "Sustituto de crema, en polvo",
+  "de": "Sahneersatz, pulverförmig",
+  "pt": "Substituto de creme, em pó"
+ },
+ "5014": {
+  "it": "Sostituto della panna, in polvere, light",
+  "fr": "Substitut de crème, en poudre, léger",
+  "es": "Sustituto de crema, en polvo, light",
+  "de": "Sahneersatz, pulverförmig, leicht",
+  "pt": "Substituto de creme, em pó, light"
+ },
+ "5015": {
+  "it": "Panna, fluida, metà latte e metà panna (half and half)",
+  "fr": "Crème, fluide, moitié lait moitié crème (half and half)",
+  "es": "Nata, líquida, mitad leche y mitad nata (half and half)",
+  "de": "Sahne, flüssig, halb Milch halb Sahne (Half and Half)",
+  "pt": "Creme de leite, fluido, metade leite e metade creme (half and half)"
+ },
+ "5016": {
+  "it": "Panna, fluida, da montare, ad alto contenuto di grassi",
+  "fr": "Crème, fluide, à fouetter, entière",
+  "es": "Nata, líquida, para montar, con alto contenido de grasa",
+  "de": "Sahne, flüssig, Schlagsahne, fettreich",
+  "pt": "Creme de leite, fluido, para bater, com alto teor de gordura"
+ },
+ "5017": {
+  "it": "Panna, fluida, leggera (panna da caffè o da tavola)",
+  "fr": "Crème, fluide, légère (crème à café ou crème de table)",
+  "es": "Nata, líquida, ligera (nata para café o de mesa)",
+  "de": "Sahne, flüssig, leicht (Kaffeesahne oder Tafelsahne)",
+  "pt": "Creme de leite, fluido, leve (creme para café ou de mesa)"
+ },
+ "5018": {
+  "it": "Panna, fluida, da montare, leggera",
+  "fr": "Crème, fluide, à fouetter, légère",
+  "es": "Nata, líquida, para montar, ligera",
+  "de": "Sahne, flüssig, Schlagsahne, leicht",
+  "pt": "Creme de leite, fluido, para bater, leve"
+ },
+ "5019": {
+  "it": "Panna, metà latte e metà panna (half and half)",
+  "fr": "Crème, moitié lait moitié crème (half and half)",
+  "es": "Nata, mitad leche y mitad nata (half and half)",
+  "de": "Sahne, halb Milch halb Sahne (Half and Half)",
+  "pt": "Creme de leite, metade leite e metade creme (half and half)"
+ },
+ "5020": {
+  "it": "Panna, metà latte e metà panna (half and half), senza grassi",
+  "fr": "Crème, moitié lait moitié crème (half and half), sans matières grasses",
+  "es": "Nata, mitad leche y mitad nata (half and half), sin grasa",
+  "de": "Sahne, halb Milch halb Sahne (Half and Half), fettfrei",
+  "pt": "Creme de leite, metade leite e metade creme (half and half), sem gordura"
+ },
+ "5021": {
+  "it": "Panna, metà latte e metà panna (half and half), aromatizzata",
+  "fr": "Crème, moitié lait moitié crème (half and half), aromatisée",
+  "es": "Nata, mitad leche y mitad nata (half and half), aromatizada",
+  "de": "Sahne, halb Milch halb Sahne (Half and Half), aromatisiert",
+  "pt": "Creme de leite, metade leite e metade creme (half and half), aromatizado"
+ },
+ "5022": {
+  "it": "Panna, metà latte e metà panna (half and half), a basso contenuto di grassi",
+  "fr": "Crème, moitié lait moitié crème (half and half), allégée en matières grasses",
+  "es": "Nata, mitad leche y mitad nata (half and half), baja en grasa",
+  "de": "Sahne, halb Milch halb Sahne (Half and Half), fettarm",
+  "pt": "Creme de leite, metade leite e metade creme (half and half), com baixo teor de gordura"
+ },
+ "5023": {
+  "it": "Panna, ad alto contenuto di grassi",
+  "fr": "Crème, entière",
+  "es": "Nata, con alto contenido de grasa",
+  "de": "Sahne, fettreich",
+  "pt": "Creme de leite, com alto teor de gordura"
+ },
+ "5024": {
+  "it": "Panna, leggera",
+  "fr": "Crème, légère",
+  "es": "Nata, ligera",
+  "de": "Sahne, leicht",
+  "pt": "Creme de leite, leve"
+ },
+ "5025": {
+  "it": "Panna, non specificato se leggera, ad alto contenuto di grassi o metà latte e metà panna",
+  "fr": "Crème, non précisé si légère, entière ou moitié lait moitié crème",
+  "es": "Nata, sin especificar si ligera, con alto contenido de grasa o mitad leche y mitad nata",
+  "de": "Sahne, nicht angegeben ob leicht, fettreich oder halb Milch halb Sahne",
+  "pt": "Creme de leite, não especificado se leve, com alto teor de gordura ou metade leite e metade creme"
+ },
+ "5026": {
+  "it": "Panna acida, fermentata",
+  "fr": "Crème aigre, fermentée",
+  "es": "Nata agria, fermentada",
+  "de": "Saure Sahne, kultiviert",
+  "pt": "Creme azedo, fermentado"
+ },
+ "5027": {
+  "it": "Panna acida, con grassi interi",
+  "fr": "Crème aigre, entière",
+  "es": "Nata agria, entera",
+  "de": "Saure Sahne, Vollfett",
+  "pt": "Creme azedo, integral"
+ },
+ "5028": {
+  "it": "Panna acida, a ridotto contenuto di grassi, fermentata",
+  "fr": "Crème aigre, allégée en matières grasses, fermentée",
+  "es": "Nata agria, reducida en grasa, fermentada",
+  "de": "Saure Sahne, fettreduziert, kultiviert",
+  "pt": "Creme azedo, com teor reduzido de gordura, fermentado"
+ },
+ "5029": {
+  "it": "Panna montata",
+  "fr": "Crème fouettée",
+  "es": "Nata montada",
+  "de": "Schlagsahne",
+  "pt": "Chantilly"
+ },
+ "5030": {
+  "it": "Panna montata, topping di panna, spray sotto pressione",
+  "fr": "Crème fouettée, topping de crème, en bombe sous pression",
+  "es": "Nata montada, cobertura de nata, en aerosol a presión",
+  "de": "Schlagsahne, Sahnetopping, Sprühsahne unter Druck",
+  "pt": "Chantilly, cobertura de creme, em spray pressurizado"
+ },
+ "5031": {
+  "it": "Manzo secco o affettato in crema (creamed chipped beef)",
+  "fr": "Bœuf séché émincé à la crème",
+  "es": "Carne de res seca o en lonchas finas en crema (creamed chipped beef)",
+  "de": "Getrocknetes oder in dünne Scheiben geschnittenes Rindfleisch in Sahnesauce",
+  "pt": "Carne bovina seca ou fatiada em creme (creamed chipped beef)"
+ },
+ "5032": {
+  "it": "Creamsicle (ghiacciolo all'arancia e panna)",
+  "fr": "Creamsicle (glace à l'orange et à la crème)",
+  "es": "Creamsicle (paleta helada de naranja y crema)",
+  "de": "Creamsicle (Eis am Stiel mit Orange und Sahne)",
+  "pt": "Creamsicle (picolé de laranja e creme)"
+ },
+ "5033": {
+  "it": "Condimento cremoso, a base di panna acida e/o latticello e olio, a ridotto contenuto calorico",
+  "fr": "Sauce crémeuse, à base de crème aigre et/ou de babeurre et d'huile, allégée en calories",
+  "es": "Aderezo cremoso, a base de nata agria y/o suero de mantequilla y aceite, reducido en calorías",
+  "de": "Cremiges Dressing, aus saurer Sahne und/oder Buttermilch und Öl, kalorienreduziert",
+  "pt": "Molho cremoso, à base de creme azedo e/ou leitelho e óleo, com teor calórico reduzido"
+ },
+ "5034": {
+  "it": "Condimento cremoso, a base di panna acida e/o latticello e olio, a ridotto contenuto calorico, senza colesterolo",
+  "fr": "Sauce crémeuse, à base de crème aigre et/ou de babeurre et d'huile, allégée en calories, sans cholestérol",
+  "es": "Aderezo cremoso, a base de nata agria y/o suero de mantequilla y aceite, reducido en calorías, sin colesterol",
+  "de": "Cremiges Dressing, aus saurer Sahne und/oder Buttermilch und Öl, kalorienreduziert, cholesterinfrei",
+  "pt": "Molho cremoso, à base de creme azedo e/ou leitelho e óleo, com teor calórico reduzido, sem colesterol"
+ },
+ "5035": {
+  "it": "Condimento cremoso, a base di panna acida e/o latticello e olio, a ridotto contenuto calorico, senza grassi",
+  "fr": "Sauce crémeuse, à base de crème aigre et/ou de babeurre et d'huile, allégée en calories, sans matières grasses",
+  "es": "Aderezo cremoso, a base de nata agria y/o suero de mantequilla y aceite, reducido en calorías, sin grasa",
+  "de": "Cremiges Dressing, aus saurer Sahne und/oder Buttermilch und Öl, kalorienreduziert, fettfrei",
+  "pt": "Molho cremoso, à base de creme azedo e/ou leitelho e óleo, com teor calórico reduzido, sem gordura"
+ },
+ "5036": {
+  "it": "Condimento italiano cremoso",
+  "fr": "Sauce italienne crémeuse",
+  "es": "Aderezo italiano cremoso",
+  "de": "Cremiges Italian Dressing",
+  "pt": "Molho italiano cremoso"
+ },
+ "5037": {
+  "it": "Condimento italiano cremoso, senza grassi",
+  "fr": "Sauce italienne crémeuse, sans matières grasses",
+  "es": "Aderezo italiano cremoso, sin grasa",
+  "de": "Cremiges Italian Dressing, fettfrei",
+  "pt": "Molho italiano cremoso, sem gordura"
+ },
+ "5038": {
+  "it": "Condimento italiano cremoso, light",
+  "fr": "Sauce italienne crémeuse, légère",
+  "es": "Aderezo italiano cremoso, light",
+  "de": "Cremiges Italian Dressing, leicht",
+  "pt": "Molho italiano cremoso, light"
+ },
+ "5039": {
+  "it": "Crème brûlée",
+  "fr": "Crème brûlée",
+  "es": "Crème brûlée",
+  "de": "Crème brûlée",
+  "pt": "Crème brûlée"
+ },
+ "5040": {
+  "it": "Crêpe ripiena di cioccolato",
+  "fr": "Crêpe fourrée au chocolat",
+  "es": "Crepe rellena de chocolate",
+  "de": "Crêpe, mit Schokoladenfüllung",
+  "pt": "Crepe recheada com chocolate"
+ },
+ "5041": {
+  "it": "Crêpe ripiena di frutta",
+  "fr": "Crêpe fourrée aux fruits",
+  "es": "Crepe rellena de fruta",
+  "de": "Crêpe, mit Fruchtfüllung",
+  "pt": "Crepe recheada com frutas"
+ },
+ "5042": {
+  "it": "Crêpe, non specificata",
+  "fr": "Crêpe, non spécifiée",
+  "es": "Crepe, no especificada",
+  "de": "Crêpe, nicht näher bezeichnet",
+  "pt": "Crepe, não especificada"
+ },
+ "5043": {
+  "it": "Crêpe semplice",
+  "fr": "Crêpe nature",
+  "es": "Crepe natural",
+  "de": "Crêpe, natur",
+  "pt": "Crepe simples"
+ },
+ "5044": {
+  "it": "Crêpe con carne",
+  "fr": "Crêpe à la viande",
+  "es": "Crepe con carne",
+  "de": "Crêpe, mit Fleisch",
+  "pt": "Crepe com carne"
+ },
+ "5045": {
+  "it": "Crescione, cotto",
+  "fr": "Cresson, cuit",
+  "es": "Berro, cocido",
+  "de": "Kresse, gekocht",
+  "pt": "Agrião, cozido"
+ },
+ "5046": {
+  "it": "Crescione dei giardini, cotto, bollito, sgocciolato, con sale",
+  "fr": "Cresson alénois, cuit, bouilli, égoutté, avec sel",
+  "es": "Mastuerzo, cocido, hervido, escurrido, con sal",
+  "de": "Gartenkresse, gekocht, abgetropft, mit Salz",
+  "pt": "Agrião-de-jardim, cozido, cozido em água, escorrido, com sal"
+ },
+ "5047": {
+  "it": "Crescione dei giardini, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Cresson alénois, cuit, bouilli, égoutté, sans sel",
+  "es": "Mastuerzo, cocido, hervido, escurrido, sin sal",
+  "de": "Gartenkresse, gekocht, abgetropft, ohne Salz",
+  "pt": "Agrião-de-jardim, cozido, cozido em água, escorrido, sem sal"
+ },
+ "5048": {
+  "it": "Crescione dei giardini, crudo",
+  "fr": "Cresson alénois, cru",
+  "es": "Mastuerzo, crudo",
+  "de": "Gartenkresse, roh",
+  "pt": "Agrião-de-jardim, cru"
+ },
+ "5049": {
+  "it": "Crescione, crudo",
+  "fr": "Cresson, cru",
+  "es": "Berro, crudo",
+  "de": "Kresse, roh",
+  "pt": "Agrião, cru"
+ },
+ "5050": {
+  "it": "Crisp di mele (dolce con crumble)",
+  "fr": "Crisp aux pommes (dessert avec croustillant)",
+  "es": "Crisp de manzana (postre con cobertura crujiente)",
+  "de": "Apfel-Crisp (Dessert mit Streuseln)",
+  "pt": "Crisp de maçã (sobremesa com cobertura crocante)"
+ },
+ "5051": {
+  "it": "Crisp di frutti di bosco (dolce con crumble)",
+  "fr": "Crisp aux fruits rouges (dessert avec croustillant)",
+  "es": "Crisp de frutos rojos (postre con cobertura crujiente)",
+  "de": "Beeren-Crisp (Dessert mit Streuseln)",
+  "pt": "Crisp de frutas vermelhas (sobremesa com cobertura crocante)"
+ },
+ "5052": {
+  "it": "Crisp di ciliegie (dolce con crumble)",
+  "fr": "Crisp aux cerises (dessert avec croustillant)",
+  "es": "Crisp de cereza (postre con cobertura crujiente)",
+  "de": "Kirsch-Crisp (Dessert mit Streuseln)",
+  "pt": "Crisp de cereja (sobremesa com cobertura crocante)"
+ },
+ "5053": {
+  "it": "Crisp di pesche (dolce con crumble)",
+  "fr": "Crisp aux pêches (dessert avec croustillant)",
+  "es": "Crisp de durazno (postre con cobertura crujiente)",
+  "de": "Pfirsich-Crisp (Dessert mit Streuseln)",
+  "pt": "Crisp de pêssego (sobremesa com cobertura crocante)"
+ },
+ "5054": {
+  "it": "Croissant",
+  "fr": "Croissant",
+  "es": "Croissant",
+  "de": "Croissant",
+  "pt": "Croissant"
+ },
+ "5055": {
+  "it": "Croissant al formaggio",
+  "fr": "Croissant au fromage",
+  "es": "Croissant de queso",
+  "de": "Croissant mit Käse",
+  "pt": "Croissant de queijo"
+ },
+ "5056": {
+  "it": "Croissant al cioccolato",
+  "fr": "Croissant au chocolat",
+  "es": "Croissant de chocolate",
+  "de": "Croissant mit Schokolade",
+  "pt": "Croissant de chocolate"
+ },
+ "5057": {
+  "it": "Croissant alla frutta",
+  "fr": "Croissant aux fruits",
+  "es": "Croissant de fruta",
+  "de": "Croissant mit Früchten",
+  "pt": "Croissant de frutas"
+ },
+ "5058": {
+  "it": "Croissant alle mele",
+  "fr": "Croissants aux pommes",
+  "es": "Croissants de manzana",
+  "de": "Croissants mit Äpfeln",
+  "pt": "Croissants de maçã"
+ },
+ "5059": {
+  "it": "Croissant al burro",
+  "fr": "Croissants au beurre",
+  "es": "Croissants de mantequilla",
+  "de": "Buttercroissants",
+  "pt": "Croissants de manteiga"
+ },
+ "5060": {
+  "it": "Croissant al formaggio",
+  "fr": "Croissants au fromage",
+  "es": "Croissants de queso",
+  "de": "Croissants mit Käse",
+  "pt": "Croissants de queijo"
+ },
+ "5061": {
+  "it": "Crostini di pane (croutons)",
+  "fr": "Croûtons",
+  "es": "Picatostes (croutons)",
+  "de": "Croûtons",
+  "pt": "Croutons"
+ },
+ "5062": {
+  "it": "Crostini di pane (croutons), semplici",
+  "fr": "Croûtons, nature",
+  "es": "Picatostes (croutons), naturales",
+  "de": "Croûtons, natur",
+  "pt": "Croutons, simples"
+ },
+ "5063": {
+  "it": "Crostini di pane (croutons), conditi",
+  "fr": "Croûtons, assaisonnés",
+  "es": "Picatostes (croutons), condimentados",
+  "de": "Croûtons, gewürzt",
+  "pt": "Croutons, temperados"
+ },
+ "5064": {
+  "it": "Crunchmaster, Multi-Grain Crisps, Snack Crackers, senza glutine",
+  "fr": "Crunchmaster, Multi-Grain Crisps, Snack Crackers, sans gluten",
+  "es": "Crunchmaster, Multi-Grain Crisps, Snack Crackers, sin gluten",
+  "de": "Crunchmaster, Multi-Grain Crisps, Snack Crackers, glutenfrei",
+  "pt": "Crunchmaster, Multi-Grain Crisps, Snack Crackers, sem glúten"
+ },
+ "5065": {
+  "it": "Crostacei, granchio reale dell'Alaska, cotto, a calore umido",
+  "fr": "Crustacés, crabe royal d'Alaska, cuit, à chaleur humide",
+  "es": "Crustáceos, cangrejo real de Alaska, cocido, con calor húmedo",
+  "de": "Krebstiere, Alaska-Königskrabbe, gekocht, mit feuchter Hitze",
+  "pt": "Crustáceos, caranguejo-real do Alasca, cozido, com calor úmido"
+ }
+}

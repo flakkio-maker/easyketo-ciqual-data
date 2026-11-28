@@ -1,0 +1,2088 @@
+{
+"0": {
+"it": "Abalone",
+"fr": "Ormeau (haliotide)",
+"es": "Abulón",
+"de": "Seeohr (Abalone)",
+"pt": "Abalone"
+},
+"1": {
+"it": "Abiyuch, crudo",
+"fr": "Abiyuch, cru",
+"es": "Abiyuch, crudo",
+"de": "Abiyuch, roh",
+"pt": "Abiyuch, cru"
+},
+"2": {
+"it": "Succo di acerola, crudo",
+"fr": "Jus d'acérola, cru",
+"es": "Zumo de acerola, crudo",
+"de": "Acerola-Saft, roh",
+"pt": "Suco de acerola, cru"
+},
+"3": {
+"it": "Acerola (ciliegia delle Indie occidentali), cruda",
+"fr": "Acérola (cerise des Antilles), crue",
+"es": "Acerola (cereza de las Antillas), cruda",
+"de": "Acerola (Westindische Kirsche), roh",
+"pt": "Acerola (cereja-das-antilhas), crua"
+},
+"4": {
+"it": "Stufato di ghiande (Apache)",
+"fr": "Ragoût de glands (Apache)",
+"es": "Estofado de bellotas (apache)",
+"de": "Eichelragout (Apache)",
+"pt": "Ensopado de bolotas (apache)"
+},
+"5": {
+"it": "Adobo, con noodle",
+"fr": "Adobo, avec nouilles",
+"es": "Adobo, con fideos",
+"de": "Adobo, mit Nudeln",
+"pt": "Adobo, com macarrão"
+},
+"6": {
+"it": "Adobo, con riso",
+"fr": "Adobo, avec riz",
+"es": "Adobo, con arroz",
+"de": "Adobo, mit Reis",
+"pt": "Adobo, com arroz"
+},
+"7": {
+"it": "Dolcificante liquido di agave",
+"fr": "Édulcorant liquide d'agave",
+"es": "Edulcorante líquido de agave",
+"de": "Flüssigsüßstoff aus Agave",
+"pt": "Adoçante líquido de agave"
+},
+"8": {
+"it": "Agave, cotta (Sud-Ovest)",
+"fr": "Agave, cuite (Sud-Ouest)",
+"es": "Agave, cocida (Suroeste)",
+"de": "Agave, gekocht (Südwesten)",
+"pt": "Agave, cozida (Sudoeste)"
+},
+"9": {
+"it": "Agave, secca (Sud-Ovest)",
+"fr": "Agave, séchée (Sud-Ouest)",
+"es": "Agave, seca (Suroeste)",
+"de": "Agave, getrocknet (Südwesten)",
+"pt": "Agave, seca (Sudoeste)"
+},
+"10": {
+"it": "Agave, cruda (Sud-Ovest)",
+"fr": "Agave, crue (Sud-Ouest)",
+"es": "Agave, cruda (Suroeste)",
+"de": "Agave, roh (Südwesten)",
+"pt": "Agave, crua (Sudoeste)"
+},
+"11": {
+"it": "Agutuk, pesce con grasso vegetale (gelato dell'Alaska) (nativi dell'Alaska)",
+"fr": "Agutuk, poisson avec matière grasse végétale (crème glacée d'Alaska) (autochtones d'Alaska)",
+"es": "Agutuk, pescado con grasa vegetal (helado de Alaska) (nativos de Alaska)",
+"de": "Agutuk, Fisch mit Pflanzenfett (Alaska-Eiscreme) (Ureinwohner Alaskas)",
+"pt": "Agutuk, peixe com gordura vegetal (sorvete do Alasca) (nativos do Alasca)"
+},
+"12": {
+"it": "Agutuk, pesce/frutti di bosco con olio di foca (gelato dell'Alaska) (nativi dell'Alaska)",
+"fr": "Agutuk, poisson/baies avec huile de phoque (crème glacée d'Alaska) (autochtones d'Alaska)",
+"es": "Agutuk, pescado/bayas con aceite de foca (helado de Alaska) (nativos de Alaska)",
+"de": "Agutuk, Fisch/Beeren mit Robbenöl (Alaska-Eiscreme) (Ureinwohner Alaskas)",
+"pt": "Agutuk, peixe/frutas vermelhas com óleo de foca (sorvete do Alasca) (nativos do Alasca)"
+},
+"13": {
+"it": "Agutuk, carne di caribù (gelato dell'Alaska) (nativi dell'Alaska)",
+"fr": "Agutuk, viande de caribou (crème glacée d'Alaska) (autochtones d'Alaska)",
+"es": "Agutuk, carne de caribú (helado de Alaska) (nativos de Alaska)",
+"de": "Agutuk, Karibufleisch (Alaska-Eiscreme) (Ureinwohner Alaskas)",
+"pt": "Agutuk, carne de caribu (sorvete do Alasca) (nativos do Alasca)"
+},
+"14": {
+"it": "Merluzzo dell'Alaska, crudo",
+"fr": "Lieu de l'Alaska, cru",
+"es": "Abadejo de Alaska, crudo",
+"de": "Alaska-Seelachs, roh",
+"pt": "Escamudo-do-alasca, cru"
+},
+"15": {
+"it": "Bevanda alcolica, birra, light",
+"fr": "Boisson alcoolisée, bière, light",
+"es": "Bebida alcohólica, cerveza, light",
+"de": "Alkoholisches Getränk, Bier, leicht",
+"pt": "Bebida alcoólica, cerveja, light"
+},
+"16": {
+"it": "Bevanda alcolica, birra, light, BUD LIGHT",
+"fr": "Boisson alcoolisée, bière, light, BUD LIGHT",
+"es": "Bebida alcohólica, cerveza, light, BUD LIGHT",
+"de": "Alkoholisches Getränk, Bier, leicht, BUD LIGHT",
+"pt": "Bebida alcoólica, cerveja, light, BUD LIGHT"
+},
+"17": {
+"it": "Bevanda alcolica, birra, light, BUDWEISER SELECT",
+"fr": "Boisson alcoolisée, bière, light, BUDWEISER SELECT",
+"es": "Bebida alcohólica, cerveza, light, BUDWEISER SELECT",
+"de": "Alkoholisches Getränk, Bier, leicht, BUDWEISER SELECT",
+"pt": "Bebida alcoólica, cerveja, light, BUDWEISER SELECT"
+},
+"18": {
+"it": "Bevanda alcolica, birra, light, a più alta gradazione alcolica",
+"fr": "Boisson alcoolisée, bière, light, à teneur en alcool plus élevée",
+"es": "Bebida alcohólica, cerveza, light, de mayor graduación alcohólica",
+"de": "Alkoholisches Getränk, Bier, leicht, mit höherem Alkoholgehalt",
+"pt": "Bebida alcoólica, cerveja, light, com maior teor alcoólico"
+},
+"19": {
+"it": "Bevanda alcolica, birra, light, a basso contenuto di carboidrati",
+"fr": "Boisson alcoolisée, bière, light, pauvre en glucides",
+"es": "Bebida alcohólica, cerveza, light, baja en carbohidratos",
+"de": "Alkoholisches Getränk, Bier, leicht, kohlenhydratarm",
+"pt": "Bebida alcoólica, cerveja, light, com baixo teor de carboidratos"
+},
+"20": {
+"it": "Bevanda alcolica, birra, normale, tutte",
+"fr": "Boisson alcoolisée, bière, ordinaire, toutes",
+"es": "Bebida alcohólica, cerveza, normal, todas",
+"de": "Alkoholisches Getränk, Bier, normal, alle",
+"pt": "Bebida alcoólica, cerveja, comum, todas"
+},
+"21": {
+"it": "Bevanda alcolica, birra, normale, BUDWEISER",
+"fr": "Boisson alcoolisée, bière, ordinaire, BUDWEISER",
+"es": "Bebida alcohólica, cerveza, normal, BUDWEISER",
+"de": "Alkoholisches Getränk, Bier, normal, BUDWEISER",
+"pt": "Bebida alcoólica, cerveja, comum, BUDWEISER"
+},
+"22": {
+"it": "Bevanda alcolica, crème de menthe, 72 proof",
+"fr": "Boisson alcoolisée, crème de menthe, 72 proof",
+"es": "Bebida alcohólica, crema de menta, 72 proof",
+"de": "Alkoholisches Getränk, Crème de Menthe, 72 Proof",
+"pt": "Bebida alcoólica, creme de menta, 72 proof"
+},
+"23": {
+"it": "Bevanda alcolica, daiquiri, in scatola",
+"fr": "Boisson alcoolisée, daiquiri, en conserve",
+"es": "Bebida alcohólica, daiquiri, en conserva",
+"de": "Alkoholisches Getränk, Daiquiri, aus der Dose",
+"pt": "Bebida alcoólica, daiquiri, enlatado"
+},
+"24": {
+"it": "Bevanda alcolica, daiquiri, preparato da ricetta",
+"fr": "Boisson alcoolisée, daiquiri, préparé à partir d'une recette",
+"es": "Bebida alcohólica, daiquiri, preparado según receta",
+"de": "Alkoholisches Getränk, Daiquiri, nach Rezept zubereitet",
+"pt": "Bebida alcoólica, daiquiri, preparado conforme receita"
+},
+"25": {
+"it": "Bevanda alcolica, distillati, tutti (gin, rum, vodka, whisky) 100 proof",
+"fr": "Boisson alcoolisée, distillés, tous (gin, rhum, vodka, whisky) 100 proof",
+"es": "Bebida alcohólica, destilados, todos (ginebra, ron, vodka, whisky) 100 proof",
+"de": "Alkoholisches Getränk, Destillate, alle (Gin, Rum, Wodka, Whisky) 100 Proof",
+"pt": "Bebida alcoólica, destilados, todos (gin, rum, vodca, uísque) 100 proof"
+},
+"26": {
+"it": "Bevanda alcolica, distillati, tutti (gin, rum, vodka, whisky) 80 proof",
+"fr": "Boisson alcoolisée, distillés, tous (gin, rhum, vodka, whisky) 80 proof",
+"es": "Bebida alcohólica, destilados, todos (ginebra, ron, vodka, whisky) 80 proof",
+"de": "Alkoholisches Getränk, Destillate, alle (Gin, Rum, Wodka, Whisky) 80 Proof",
+"pt": "Bebida alcoólica, destilados, todos (gin, rum, vodca, uísque) 80 proof"
+},
+"27": {
+"it": "Bevanda alcolica, distillati, tutti (gin, rum, vodka, whisky) 86 proof",
+"fr": "Boisson alcoolisée, distillés, tous (gin, rhum, vodka, whisky) 86 proof",
+"es": "Bebida alcohólica, destilados, todos (ginebra, ron, vodka, whisky) 86 proof",
+"de": "Alkoholisches Getränk, Destillate, alle (Gin, Rum, Wodka, Whisky) 86 Proof",
+"pt": "Bebida alcoólica, destilados, todos (gin, rum, vodca, uísque) 86 proof"
+},
+"28": {
+"it": "Bevanda alcolica, distillati, tutti (gin, rum, vodka, whisky) 90 proof",
+"fr": "Boisson alcoolisée, distillés, tous (gin, rhum, vodka, whisky) 90 proof",
+"es": "Bebida alcohólica, destilados, todos (ginebra, ron, vodka, whisky) 90 proof",
+"de": "Alkoholisches Getränk, Destillate, alle (Gin, Rum, Wodka, Whisky) 90 Proof",
+"pt": "Bebida alcoólica, destilados, todos (gin, rum, vodca, uísque) 90 proof"
+},
+"29": {
+"it": "Bevanda alcolica, distillati, tutti (gin, rum, vodka, whisky) 94 proof",
+"fr": "Boisson alcoolisée, distillés, tous (gin, rhum, vodka, whisky) 94 proof",
+"es": "Bebida alcohólica, destilados, todos (ginebra, ron, vodka, whisky) 94 proof",
+"de": "Alkoholisches Getränk, Destillate, alle (Gin, Rum, Wodka, Whisky) 94 Proof",
+"pt": "Bebida alcoólica, destilados, todos (gin, rum, vodca, uísque) 94 proof"
+},
+"30": {
+"it": "Bevanda alcolica, distillati, rum, 80 proof",
+"fr": "Boisson alcoolisée, distillés, rhum, 80 proof",
+"es": "Bebida alcohólica, destilados, ron, 80 proof",
+"de": "Alkoholisches Getränk, Destillate, Rum, 80 Proof",
+"pt": "Bebida alcoólica, destilados, rum, 80 proof"
+},
+"31": {
+"it": "Bevanda alcolica, distillati, vodka, 80 proof",
+"fr": "Boisson alcoolisée, distillés, vodka, 80 proof",
+"es": "Bebida alcohólica, destilados, vodka, 80 proof",
+"de": "Alkoholisches Getränk, Destillate, Wodka, 80 Proof",
+"pt": "Bebida alcoólica, destilados, vodca, 80 proof"
+},
+"32": {
+"it": "Bevanda alcolica, distillati, whisky, 86 proof",
+"fr": "Boisson alcoolisée, distillés, whisky, 86 proof",
+"es": "Bebida alcohólica, destilados, whisky, 86 proof",
+"de": "Alkoholisches Getränk, Destillate, Whisky, 86 Proof",
+"pt": "Bebida alcoólica, destilados, uísque, 86 proof"
+},
+"33": {
+"it": "Bevanda alcolica, liquore, caffè con panna, 34 proof",
+"fr": "Boisson alcoolisée, liqueur, café à la crème, 34 proof",
+"es": "Bebida alcohólica, licor, café con crema, 34 proof",
+"de": "Alkoholisches Getränk, Likör, Kaffee mit Sahne, 34 Proof",
+"pt": "Bebida alcoólica, licor, café com creme, 34 proof"
+},
+"34": {
+"it": "Bevanda alcolica, liquore, caffè, 53 proof",
+"fr": "Boisson alcoolisée, liqueur, café, 53 proof",
+"es": "Bebida alcohólica, licor, café, 53 proof",
+"de": "Alkoholisches Getränk, Likör, Kaffee, 53 Proof",
+"pt": "Bebida alcoólica, licor, café, 53 proof"
+},
+"35": {
+"it": "Bevanda alcolica, liquore, caffè, 63 proof",
+"fr": "Boisson alcoolisée, liqueur, café, 63 proof",
+"es": "Bebida alcohólica, licor, café, 63 proof",
+"de": "Alkoholisches Getränk, Likör, Kaffee, 63 Proof",
+"pt": "Bebida alcoólica, licor, café, 63 proof"
+},
+"36": {
+"it": "Bevanda alcolica, birra di malto, limonata alcolica (hard lemonade)",
+"fr": "Boisson alcoolisée, bière de malt, limonade alcoolisée (hard lemonade)",
+"es": "Bebida alcohólica, cerveza de malta, limonada alcohólica (hard lemonade)",
+"de": "Alkoholisches Getränk, Malzbier, alkoholische Limonade (Hard Lemonade)",
+"pt": "Bebida alcoólica, cerveja de malte, limonada alcoólica (hard lemonade)"
+},
+"37": {
+"it": "Bevanda alcolica, piña colada, in scatola",
+"fr": "Boisson alcoolisée, piña colada, en conserve",
+"es": "Bebida alcohólica, piña colada, en conserva",
+"de": "Alkoholisches Getränk, Piña Colada, aus der Dose",
+"pt": "Bebida alcoólica, piña colada, enlatada"
+},
+"38": {
+"it": "Bevanda alcolica, piña colada, preparata da ricetta",
+"fr": "Boisson alcoolisée, piña colada, préparée à partir d'une recette",
+"es": "Bebida alcohólica, piña colada, preparada según receta",
+"de": "Alkoholisches Getränk, Piña Colada, nach Rezept zubereitet",
+"pt": "Bebida alcoólica, piña colada, preparada conforme receita"
+},
+"39": {
+"it": "Bevanda alcolica, riso (sake)",
+"fr": "Boisson alcoolisée, riz (saké)",
+"es": "Bebida alcohólica, arroz (sake)",
+"de": "Alkoholisches Getränk, Reis (Sake)",
+"pt": "Bebida alcoólica, arroz (saquê)"
+},
+"40": {
+"it": "Bevanda alcolica, tequila sunrise, in scatola",
+"fr": "Boisson alcoolisée, tequila sunrise, en conserve",
+"es": "Bebida alcohólica, tequila sunrise, en conserva",
+"de": "Alkoholisches Getränk, Tequila Sunrise, aus der Dose",
+"pt": "Bebida alcoólica, tequila sunrise, enlatado"
+},
+"41": {
+"it": "Bevanda alcolica, whiskey sour",
+"fr": "Boisson alcoolisée, whiskey sour",
+"es": "Bebida alcohólica, whiskey sour",
+"de": "Alkoholisches Getränk, Whiskey Sour",
+"pt": "Bebida alcoólica, whiskey sour"
+},
+"42": {
+"it": "Bevanda alcolica, whiskey sour, in scatola",
+"fr": "Boisson alcoolisée, whiskey sour, en conserve",
+"es": "Bebida alcohólica, whiskey sour, en conserva",
+"de": "Alkoholisches Getränk, Whiskey Sour, aus der Dose",
+"pt": "Bebida alcoólica, whiskey sour, enlatado"
+},
+"43": {
+"it": "Bevanda alcolica, whiskey sour, preparato dalla voce 14028",
+"fr": "Boisson alcoolisée, whiskey sour, préparé à partir de l'article 14028",
+"es": "Bebida alcohólica, whiskey sour, preparado a partir del artículo 14028",
+"de": "Alkoholisches Getränk, Whiskey Sour, zubereitet aus Eintrag 14028",
+"pt": "Bebida alcoólica, whiskey sour, preparado a partir do item 14028"
+},
+"44": {
+"it": "Bevanda alcolica, whiskey sour, preparato con acqua, whisky e miscela in polvere",
+"fr": "Boisson alcoolisée, whiskey sour, préparé avec de l'eau, du whisky et un mélange en poudre",
+"es": "Bebida alcohólica, whiskey sour, preparado con agua, whisky y mezcla en polvo",
+"de": "Alkoholisches Getränk, Whiskey Sour, mit Wasser, Whisky und Pulvermischung zubereitet",
+"pt": "Bebida alcoólica, whiskey sour, preparado com água, uísque e mistura em pó"
+},
+"45": {
+"it": "Bevanda alcolica, vino, da cucina",
+"fr": "Boisson alcoolisée, vin, de cuisine",
+"es": "Bebida alcohólica, vino, de cocina",
+"de": "Alkoholisches Getränk, Wein, Kochwein",
+"pt": "Bebida alcoólica, vinho, para culinária"
+},
+"46": {
+"it": "Bevanda alcolica, vino, da dessert, secco",
+"fr": "Boisson alcoolisée, vin, de dessert, sec",
+"es": "Bebida alcohólica, vino, de postre, seco",
+"de": "Alkoholisches Getränk, Wein, Dessertwein, trocken",
+"pt": "Bebida alcoólica, vinho, de sobremesa, seco"
+},
+"47": {
+"it": "Bevanda alcolica, vino, da dessert, dolce",
+"fr": "Boisson alcoolisée, vin, de dessert, doux",
+"es": "Bebida alcohólica, vino, de postre, dulce",
+"de": "Alkoholisches Getränk, Wein, Dessertwein, süß",
+"pt": "Bebida alcoólica, vinho, de sobremesa, doce"
+},
+"48": {
+"it": "Bevanda alcolica, vino, leggero",
+"fr": "Boisson alcoolisée, vin, léger",
+"es": "Bebida alcohólica, vino, ligero",
+"de": "Alkoholisches Getränk, Wein, leicht",
+"pt": "Bebida alcoólica, vinho, leve"
+},
+"49": {
+"it": "Bevanda alcolica, vino, da tavola, tutti",
+"fr": "Boisson alcoolisée, vin, de table, tous",
+"es": "Bebida alcohólica, vino, de mesa, todos",
+"de": "Alkoholisches Getränk, Wein, Tischwein, alle",
+"pt": "Bebida alcoólica, vinho, de mesa, todos"
+},
+"50": {
+"it": "Bevanda alcolica, vino, da tavola, rosso",
+"fr": "Boisson alcoolisée, vin, de table, rouge",
+"es": "Bebida alcohólica, vino, de mesa, tinto",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto"
+},
+"51": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Barbera",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Barbera",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Barbera",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Barbera",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Barbera"
+},
+"52": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Burgundy",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Bourgogne",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Borgoña",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Burgunder",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Borgonha"
+},
+"53": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Cabernet Franc",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Cabernet Franc",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Cabernet Franc",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Cabernet Franc",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Cabernet Franc"
+},
+"54": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Cabernet Sauvignon",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Cabernet Sauvignon",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Cabernet Sauvignon",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Cabernet Sauvignon",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Cabernet Sauvignon"
+},
+"55": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Carignane",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Carignan",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Carignan",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Carignan",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Carignan"
+},
+"56": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Claret",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Claret",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Clarete",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Claret",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Claret"
+},
+"57": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Gamay",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Gamay",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Gamay",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Gamay",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Gamay"
+},
+"58": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Lemberger",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Lemberger",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Lemberger",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Lemberger",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Lemberger"
+},
+"59": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Merlot",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Merlot",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Merlot",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Merlot",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Merlot"
+},
+"60": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Mourvèdre",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Mourvèdre",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Mourvèdre",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Mourvèdre",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Mourvèdre"
+},
+"61": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Petite Sirah",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Petite Sirah",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Petite Sirah",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Petite Sirah",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Petite Sirah"
+},
+"62": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Pinot Noir",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Pinot Noir",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Pinot Noir",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Spätburgunder",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Pinot Noir"
+},
+"63": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Sangiovese",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Sangiovese",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Sangiovese",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Sangiovese",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Sangiovese"
+},
+"64": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Syrah",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Syrah",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Syrah",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Syrah",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Syrah"
+},
+"65": {
+"it": "Bevanda alcolica, vino, da tavola, rosso, Zinfandel",
+"fr": "Boisson alcoolisée, vin, de table, rouge, Zinfandel",
+"es": "Bebida alcohólica, vino, de mesa, tinto, Zinfandel",
+"de": "Alkoholisches Getränk, Wein, Tischwein, rot, Zinfandel",
+"pt": "Bebida alcoólica, vinho, de mesa, tinto, Zinfandel"
+},
+"66": {
+"it": "Bevanda alcolica, vino, da tavola, bianco",
+"fr": "Boisson alcoolisée, vin, de table, blanc",
+"es": "Bebida alcohólica, vino, de mesa, blanco",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß",
+"pt": "Bebida alcoólica, vinho, de mesa, branco"
+},
+"67": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Chardonnay",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Chardonnay",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Chardonnay",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Chardonnay",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Chardonnay"
+},
+"68": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Chenin Blanc",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Chenin Blanc",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Chenin Blanc",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Chenin Blanc",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Chenin Blanc"
+},
+"69": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Fumé Blanc",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Fumé Blanc",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Fumé Blanc",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Fumé Blanc",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Fumé Blanc"
+},
+"70": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Gewürztraminer",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Gewurztraminer",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Gewürztraminer",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Gewürztraminer",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Gewürztraminer"
+},
+"71": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, vendemmia tardiva",
+"fr": "Boisson alcoolisée, vin, de table, blanc, vendange tardive",
+"es": "Bebida alcohólica, vino, de mesa, blanco, vendimia tardía",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Spätlese",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, colheita tardia"
+},
+"72": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, vendemmia tardiva, Gewürztraminer",
+"fr": "Boisson alcoolisée, vin, de table, blanc, vendange tardive, Gewurztraminer",
+"es": "Bebida alcohólica, vino, de mesa, blanco, vendimia tardía, Gewürztraminer",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Spätlese, Gewürztraminer",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, colheita tardia, Gewürztraminer"
+},
+"73": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Müller-Thurgau",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Müller-Thurgau",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Müller-Thurgau",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Müller-Thurgau",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Müller-Thurgau"
+},
+"74": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Moscato",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Muscat",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Moscatel",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Muskateller",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Moscatel"
+},
+"75": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Pinot Blanc",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Pinot Blanc",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Pinot Blanc",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Weißburgunder",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Pinot Blanc"
+},
+"76": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Pinot Grigio",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Pinot Gris (Grigio)",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Pinot Gris (Grigio)",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Grauburgunder (Pinot Grigio)",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Pinot Gris (Grigio)"
+},
+"77": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Riesling",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Riesling",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Riesling",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Riesling",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Riesling"
+},
+"78": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Sauvignon Blanc",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Sauvignon Blanc",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Sauvignon Blanc",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Sauvignon Blanc",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Sauvignon Blanc"
+},
+"79": {
+"it": "Bevanda alcolica, vino, da tavola, bianco, Sémillon",
+"fr": "Boisson alcoolisée, vin, de table, blanc, Sémillon",
+"es": "Bebida alcohólica, vino, de mesa, blanco, Sémillon",
+"de": "Alkoholisches Getränk, Wein, Tischwein, weiß, Sémillon",
+"pt": "Bebida alcoólica, vinho, de mesa, branco, Sémillon"
+},
+"80": {
+"it": "Bevande alcoliche, birra, a più alta gradazione alcolica",
+"fr": "Boissons alcoolisées, bière, à teneur en alcool plus élevée",
+"es": "Bebidas alcohólicas, cerveza, de mayor graduación alcohólica",
+"de": "Alkoholische Getränke, Bier, mit höherem Alkoholgehalt",
+"pt": "Bebidas alcoólicas, cerveja, com maior teor alcoólico"
+},
+"81": {
+"it": "Bevande alcoliche, vino, rosato",
+"fr": "Boissons alcoolisées, vin, rosé",
+"es": "Bebidas alcohólicas, vino, rosado",
+"de": "Alkoholische Getränke, Wein, Rosé",
+"pt": "Bebidas alcoólicas, vinho, rosé"
+},
+"82": {
+"it": "Bevanda al caffè alcolica",
+"fr": "Boisson alcoolisée au café",
+"es": "Bebida de café alcohólica",
+"de": "Alkoholisches Kaffeegetränk",
+"pt": "Bebida de café alcoólica"
+},
+"83": {
+"it": "Bevanda alcolica a base di malto",
+"fr": "Boisson alcoolisée à base de malt",
+"es": "Bebida alcohólica de malta",
+"de": "Alkoholisches Malzgetränk",
+"pt": "Bebida alcoólica de malte"
+},
+"84": {
+"it": "Bevanda alcolica a base di malto, zuccherata",
+"fr": "Boisson alcoolisée à base de malt, sucrée",
+"es": "Bebida alcohólica de malta, azucarada",
+"de": "Alkoholisches Malzgetränk, gezuckert",
+"pt": "Bebida alcoólica de malte, adoçada"
+},
+"85": {
+"it": "Semi di erba medica, germogliati, crudi",
+"fr": "Graines de luzerne, germées, crues",
+"es": "Semillas de alfalfa, germinadas, crudas",
+"de": "Luzernesamen, gekeimt, roh",
+"pt": "Sementes de alfafa, germinadas, cruas"
+},
+"86": {
+"it": "Germogli di erba medica, crudi",
+"fr": "Germes de luzerne, crus",
+"es": "Brotes de alfalfa, crudos",
+"de": "Luzernesprossen, roh",
+"pt": "Brotos de alfafa, crus"
+},
+"87": {
+"it": "Salsa Alfredo",
+"fr": "Sauce Alfredo",
+"es": "Salsa Alfredo",
+"de": "Alfredo-Sauce",
+"pt": "Molho Alfredo"
+},
+"88": {
+"it": "Salsa Alfredo con verdure aggiunte",
+"fr": "Sauce Alfredo avec légumes ajoutés",
+"es": "Salsa Alfredo con verduras añadidas",
+"de": "Alfredo-Sauce mit zugesetztem Gemüse",
+"pt": "Molho Alfredo com legumes adicionados"
+},
+"89": {
+"it": "Salsa Alfredo con carne",
+"fr": "Sauce Alfredo avec viande",
+"es": "Salsa Alfredo con carne",
+"de": "Alfredo-Sauce mit Fleisch",
+"pt": "Molho Alfredo com carne"
+},
+"90": {
+"it": "Salsa Alfredo con carne e verdure aggiunte",
+"fr": "Sauce Alfredo avec viande et légumes ajoutés",
+"es": "Salsa Alfredo con carne y verduras añadidas",
+"de": "Alfredo-Sauce mit Fleisch und zugesetztem Gemüse",
+"pt": "Molho Alfredo com carne e legumes adicionados"
+},
+"91": {
+"it": "Salsa Alfredo con pollame",
+"fr": "Sauce Alfredo avec volaille",
+"es": "Salsa Alfredo con aves",
+"de": "Alfredo-Sauce mit Geflügel",
+"pt": "Molho Alfredo com aves"
+},
+"92": {
+"it": "Salsa Alfredo con pollame e verdure aggiunte",
+"fr": "Sauce Alfredo avec volaille et légumes ajoutés",
+"es": "Salsa Alfredo con aves y verduras añadidas",
+"de": "Alfredo-Sauce mit Geflügel und zugesetztem Gemüse",
+"pt": "Molho Alfredo com aves e legumes adicionados"
+},
+"93": {
+"it": "Salsa Alfredo con frutti di mare",
+"fr": "Sauce Alfredo avec fruits de mer",
+"es": "Salsa Alfredo con mariscos",
+"de": "Alfredo-Sauce mit Meeresfrüchten",
+"pt": "Molho Alfredo com frutos do mar"
+},
+"94": {
+"it": "Salsa Alfredo con frutti di mare e verdure aggiunte",
+"fr": "Sauce Alfredo avec fruits de mer et légumes ajoutés",
+"es": "Salsa Alfredo con mariscos y verduras añadidas",
+"de": "Alfredo-Sauce mit Meeresfrüchten und zugesetztem Gemüse",
+"pt": "Molho Alfredo com frutos do mar e legumes adicionados"
+},
+"95": {
+"it": "Burro di mandorle",
+"fr": "Beurre d'amande",
+"es": "Mantequilla de almendras",
+"de": "Mandelbutter",
+"pt": "Manteiga de amêndoa"
+},
+"96": {
+"it": "Panino con burro di mandorle e marmellata, di pane integrale",
+"fr": "Sandwich au beurre d'amande et à la confiture, sur pain complet",
+"es": "Sándwich de mantequilla de almendras y mermelada, en pan integral",
+"de": "Sandwich mit Mandelbutter und Marmelade, auf Vollkornbrot",
+"pt": "Sanduíche de manteiga de amêndoa e geleia, em pão integral"
+},
+"97": {
+"it": "Panino con burro di mandorle e marmellata, di pane bianco",
+"fr": "Sandwich au beurre d'amande et à la confiture, sur pain blanc",
+"es": "Sándwich de mantequilla de almendras y mermelada, en pan blanco",
+"de": "Sandwich mit Mandelbutter und Marmelade, auf Weißbrot",
+"pt": "Sanduíche de manteiga de amêndoa e geleia, em pão branco"
+},
+"98": {
+"it": "Panino con burro di mandorle, di pane integrale",
+"fr": "Sandwich au beurre d'amande, sur pain complet",
+"es": "Sándwich de mantequilla de almendras, en pan integral",
+"de": "Sandwich mit Mandelbutter, auf Vollkornbrot",
+"pt": "Sanduíche de manteiga de amêndoa, em pão integral"
+},
+"99": {
+"it": "Panino con burro di mandorle, di pane bianco",
+"fr": "Sandwich au beurre d'amande, sur pain blanc",
+"es": "Sándwich de mantequilla de almendras, en pan blanco",
+"de": "Sandwich mit Mandelbutter, auf Weißbrot",
+"pt": "Sanduíche de manteiga de amêndoa, em pão branco"
+},
+"100": {
+"it": "Burro di mandorle, cremoso",
+"fr": "Beurre d'amande, crémeux",
+"es": "Mantequilla de almendras, cremosa",
+"de": "Mandelbutter, cremig",
+"pt": "Manteiga de amêndoa, cremosa"
+},
+"101": {
+"it": "Burro di mandorle, a basso contenuto di sodio",
+"fr": "Beurre d'amande, pauvre en sodium",
+"es": "Mantequilla de almendras, baja en sodio",
+"de": "Mandelbutter, natriumarm",
+"pt": "Manteiga de amêndoa, com baixo teor de sódio"
+},
+"102": {
+"it": "Pollo alle mandorle",
+"fr": "Poulet aux amandes",
+"es": "Pollo con almendras",
+"de": "Hähnchen mit Mandeln",
+"pt": "Frango com amêndoas"
+},
+"103": {
+"it": "Latte di mandorla, al cioccolato",
+"fr": "Lait d'amande, au chocolat",
+"es": "Leche de almendras, con chocolate",
+"de": "Mandelmilch, mit Schokolade",
+"pt": "Leite de amêndoa, com chocolate"
+},
+"104": {
+"it": "Latte di mandorla, non specificato",
+"fr": "Lait d'amande, non spécifié",
+"es": "Leche de almendras, no especificada",
+"de": "Mandelmilch, nicht näher bezeichnet",
+"pt": "Leite de amêndoa, não especificado"
+},
+"105": {
+"it": "Latte di mandorla, zuccherato",
+"fr": "Lait d'amande, sucré",
+"es": "Leche de almendras, azucarada",
+"de": "Mandelmilch, gezuckert",
+"pt": "Leite de amêndoa, adoçado"
+},
+"106": {
+"it": "Latte di mandorla, non zuccherato",
+"fr": "Lait d'amande, non sucré",
+"es": "Leche de almendras, sin azúcar",
+"de": "Mandelmilch, ungezuckert",
+"pt": "Leite de amêndoa, sem açúcar"
+},
+"107": {
+"it": "Latte di mandorla, non zuccherato, naturale, refrigerato",
+"fr": "Lait d'amande, non sucré, nature, réfrigéré",
+"es": "Leche de almendras, sin azúcar, natural, refrigerada",
+"de": "Mandelmilch, ungezuckert, natur, gekühlt",
+"pt": "Leite de amêndoa, sem açúcar, natural, refrigerado"
+},
+"108": {
+"it": "Latte di mandorla, non zuccherato, naturale, a lunga conservazione",
+"fr": "Lait d'amande, non sucré, nature, longue conservation",
+"es": "Leche de almendras, sin azúcar, natural, de larga duración",
+"de": "Mandelmilch, ungezuckert, natur, haltbar",
+"pt": "Leite de amêndoa, sem açúcar, natural, longa vida"
+},
+"109": {
+"it": "Olio di mandorle",
+"fr": "Huile d'amande",
+"es": "Aceite de almendras",
+"de": "Mandelöl",
+"pt": "Óleo de amêndoa"
+},
+"110": {
+"it": "Pasta di mandorle",
+"fr": "Pâte d'amande",
+"es": "Pasta de almendras",
+"de": "Marzipanrohmasse",
+"pt": "Pasta de amêndoa"
+},
+"111": {
+"it": "Mandorle, caramelle ricoperte di cioccolato",
+"fr": "Amandes, bonbons enrobés de chocolat",
+"es": "Almendras, caramelos cubiertos de chocolate",
+"de": "Mandeln, mit Schokolade überzogene Süßigkeit",
+"pt": "Amêndoas, bala coberta de chocolate"
+},
+"112": {
+"it": "Mandorle, aromatizzate",
+"fr": "Amandes, aromatisées",
+"es": "Almendras, aromatizadas",
+"de": "Mandeln, aromatisiert",
+"pt": "Amêndoas, aromatizadas"
+},
+"113": {
+"it": "Mandorle, tostate al miele",
+"fr": "Amandes, grillées au miel",
+"es": "Almendras, tostadas con miel",
+"de": "Mandeln, honiggeröstet",
+"pt": "Amêndoas, tostadas com mel"
+},
+"114": {
+"it": "Mandorle, leggermente salate",
+"fr": "Amandes, légèrement salées",
+"es": "Almendras, ligeramente saladas",
+"de": "Mandeln, leicht gesalzen",
+"pt": "Amêndoas, levemente salgadas"
+},
+"115": {
+"it": "Mandorle, non specificato",
+"fr": "Amandes, non spécifié",
+"es": "Almendras, no especificado",
+"de": "Mandeln, nicht näher bezeichnet",
+"pt": "Amêndoas, não especificado"
+},
+"116": {
+"it": "Mandorle, salate",
+"fr": "Amandes, salées",
+"es": "Almendras, saladas",
+"de": "Mandeln, gesalzen",
+"pt": "Amêndoas, salgadas"
+},
+"117": {
+"it": "Mandorle, non tostate",
+"fr": "Amandes, non grillées",
+"es": "Almendras, sin tostar",
+"de": "Mandeln, ungeröstet",
+"pt": "Amêndoas, não tostadas"
+},
+"118": {
+"it": "Mandorle, non salate",
+"fr": "Amandes, non salées",
+"es": "Almendras, sin sal",
+"de": "Mandeln, ungesalzen",
+"pt": "Amêndoas, sem sal"
+},
+"119": {
+"it": "Bevanda all'aloe vera",
+"fr": "Boisson à l'aloe vera",
+"es": "Bebida de aloe vera",
+"de": "Aloe-vera-Getränk",
+"pt": "Bebida de aloe vera"
+},
+"120": {
+"it": "Amaranto, chicchi, cotto",
+"fr": "Amarante, grain, cuit",
+"es": "Amaranto, grano, cocido",
+"de": "Amaranth, Korn, gekocht",
+"pt": "Amaranto, grão, cozido"
+},
+"121": {
+"it": "Amaranto, chicchi, non cotto",
+"fr": "Amarante, grain, non cuit",
+"es": "Amaranto, grano, sin cocinar",
+"de": "Amaranth, Korn, ungekocht",
+"pt": "Amaranto, grão, não cozido"
+},
+"122": {
+"it": "Amaranto, foglie, cotte, bollite, sgocciolate, con sale",
+"fr": "Amarante, feuilles, cuites, bouillies, égouttées, avec sel",
+"es": "Amaranto, hojas, cocidas, hervidas, escurridas, con sal",
+"de": "Amaranth, Blätter, gekocht, abgetropft, mit Salz",
+"pt": "Amaranto, folhas, cozidas, cozidas em água, escorridas, com sal"
+},
+"123": {
+"it": "Amaranto, foglie, cotte, bollite, sgocciolate, senza sale",
+"fr": "Amarante, feuilles, cuites, bouillies, égouttées, sans sel",
+"es": "Amaranto, hojas, cocidas, hervidas, escurridas, sin sal",
+"de": "Amaranth, Blätter, gekocht, abgetropft, ohne Salz",
+"pt": "Amaranto, folhas, cozidas, cozidas em água, escorridas, sem sal"
+},
+"124": {
+"it": "Amaranto, foglie, crude",
+"fr": "Amarante, feuilles, crues",
+"es": "Amaranto, hojas, crudas",
+"de": "Amaranth, Blätter, roh",
+"pt": "Amaranto, folhas, cruas"
+},
+"125": {
+"it": "Amaranto, farina, pregelatinizzata, biologica",
+"fr": "Amarante, farine, prégélatinisée, biologique",
+"es": "Amaranto, harina, pregelatinizada, ecológica",
+"de": "Amaranth, Mehl, vorverkleistert, Bio",
+"pt": "Amaranto, farinha, pré-gelatinizada, orgânica"
+},
+"126": {
+"it": "Amaranto, soffiato, biologico",
+"fr": "Amarante, soufflé, biologique",
+"es": "Amaranto, inflado, ecológico",
+"de": "Amaranth, gepufft, Bio",
+"pt": "Amaranto, expandido, orgânico"
+},
+"127": {
+"it": "Ambrosia",
+"fr": "Ambrosia",
+"es": "Ambrosía",
+"de": "Ambrosia",
+"pt": "Ambrosia"
+},
+"128": {
+"it": "Acciughe, in scatola in olio di oliva, con sale, sgocciolate",
+"fr": "Anchois, en conserve à l'huile d'olive, avec sel, égouttés",
+"es": "Anchoas, en conserva en aceite de oliva, con sal, escurridas",
+"de": "Sardellen, aus der Dose in Olivenöl, mit Salz, abgetropft",
+"pt": "Anchovas, enlatadas em azeite, com sal, escorridas"
+},
+"129": {
+"it": "Andrea's, panino morbido senza glutine",
+"fr": "Andrea's, petit pain moelleux sans gluten",
+"es": "Andrea's, panecillo blando sin gluten",
+"de": "Andrea's, weiches Brötchen, glutenfrei",
+"pt": "Andrea's, pãozinho macio sem glúten"
+},
+"130": {
+"it": "Grasso animale o grasso di cottura",
+"fr": "Graisse animale ou sucs de cuisson",
+"es": "Grasa animal o grasa de cocción",
+"de": "Tierisches Fett oder Bratenfett",
+"pt": "Gordura animal ou gordura de cozimento"
+},
+"131": {
+"it": "Grasso animale, grasso di pancetta",
+"fr": "Graisse animale, graisse de lard (bacon)",
+"es": "Grasa animal, grasa de beicon",
+"de": "Tierisches Fett, Speckfett",
+"pt": "Gordura animal, gordura de bacon"
+},
+"132": {
+"it": "Toast all'anice",
+"fr": "Toast à l'anis",
+"es": "Tostada de anís",
+"de": "Anis-Toast",
+"pt": "Torrada de anis"
+},
+"133": {
+"it": "Antipasto con prosciutto, pesce, formaggio, verdure",
+"fr": "Antipasto avec jambon, poisson, fromage, légumes",
+"es": "Antipasto con jamón, pescado, queso, verduras",
+"de": "Antipasto mit Schinken, Fisch, Käse, Gemüse",
+"pt": "Antepasto com presunto, peixe, queijo, legumes"
+},
+"134": {
+"it": "Sidro di mele",
+"fr": "Cidre de pomme (jus de pomme non filtré)",
+"es": "Sidra de manzana (zumo de manzana sin filtrar)",
+"de": "Apfelwein (naturtrüber Apfelsaft)",
+"pt": "Sidra de maçã (suco de maçã não filtrado)"
+},
+"135": {
+"it": "Bevanda al succo di mela, 40-50% di succo, light",
+"fr": "Boisson au jus de pomme, 40-50% de jus, light",
+"es": "Bebida de zumo de manzana, 40-50% de zumo, light",
+"de": "Apfelsaftgetränk, 40-50% Saftanteil, leicht",
+"pt": "Bebida de suco de maçã, 40-50% de suco, light"
+},
+"136": {
+"it": "Succo di mela, 100%",
+"fr": "Jus de pomme, 100%",
+"es": "Zumo de manzana, 100%",
+"de": "Apfelsaft, 100%",
+"pt": "Suco de maçã, 100%"
+},
+"137": {
+"it": "Succo di mela, 100%, con calcio aggiunto",
+"fr": "Jus de pomme, 100%, avec calcium ajouté",
+"es": "Zumo de manzana, 100%, con calcio añadido",
+"de": "Apfelsaft, 100%, mit Calciumzusatz",
+"pt": "Suco de maçã, 100%, com cálcio adicionado"
+},
+"138": {
+"it": "Succo di mela, in scatola o in bottiglia, non zuccherato, con acido ascorbico aggiunto",
+"fr": "Jus de pomme, en conserve ou en bouteille, non sucré, avec acide ascorbique ajouté",
+"es": "Zumo de manzana, en conserva o embotellado, sin azúcar, con ácido ascórbico añadido",
+"de": "Apfelsaft, aus der Dose oder Flasche, ungezuckert, mit Zusatz von Ascorbinsäure",
+"pt": "Suco de maçã, enlatado ou engarrafado, sem açúcar, com ácido ascórbico adicionado"
+},
+"139": {
+"it": "Succo di mela, in scatola o in bottiglia, non zuccherato, con acido ascorbico, calcio e potassio aggiunti",
+"fr": "Jus de pomme, en conserve ou en bouteille, non sucré, avec acide ascorbique, calcium et potassium ajoutés",
+"es": "Zumo de manzana, en conserva o embotellado, sin azúcar, con ácido ascórbico, calcio y potasio añadidos",
+"de": "Apfelsaft, aus der Dose oder Flasche, ungezuckert, mit Zusatz von Ascorbinsäure, Calcium und Kalium",
+"pt": "Suco de maçã, enlatado ou engarrafado, sem açúcar, com ácido ascórbico, cálcio e potássio adicionados"
+},
+"140": {
+"it": "Succo di mela, in scatola o in bottiglia, non zuccherato, senza acido ascorbico aggiunto",
+"fr": "Jus de pomme, en conserve ou en bouteille, non sucré, sans acide ascorbique ajouté",
+"es": "Zumo de manzana, en conserva o embotellado, sin azúcar, sin ácido ascórbico añadido",
+"de": "Apfelsaft, aus der Dose oder Flasche, ungezuckert, ohne Zusatz von Ascorbinsäure",
+"pt": "Suco de maçã, enlatado ou engarrafado, sem açúcar, sem ácido ascórbico adicionado"
+},
+"141": {
+"it": "Succo di mela, concentrato surgelato, non zuccherato, diluito con 3 volumi di acqua, senza acido ascorbico aggiunto",
+"fr": "Jus de pomme, concentré surgelé, non sucré, dilué avec 3 volumes d'eau, sans acide ascorbique ajouté",
+"es": "Zumo de manzana, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua, sin ácido ascórbico añadido",
+"de": "Apfelsaft, Konzentrat tiefgekühlt, ungezuckert, mit 3 Volumenteilen Wasser verdünnt, ohne Zusatz von Ascorbinsäure",
+"pt": "Suco de maçã, concentrado congelado, sem açúcar, diluído com 3 volumes de água, sem ácido ascórbico adicionado"
+},
+"142": {
+"it": "Succo di mela, concentrato surgelato, non zuccherato, diluito con 3 volumi di acqua, con acido ascorbico aggiunto",
+"fr": "Jus de pomme, concentré surgelé, non sucré, dilué avec 3 volumes d'eau, avec acide ascorbique ajouté",
+"es": "Zumo de manzana, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua, con ácido ascórbico añadido",
+"de": "Apfelsaft, Konzentrat tiefgekühlt, ungezuckert, mit 3 Volumenteilen Wasser verdünnt, mit Zusatz von Ascorbinsäure",
+"pt": "Suco de maçã, concentrado congelado, sem açúcar, diluído com 3 volumes de água, com ácido ascórbico adicionado"
+},
+"143": {
+"it": "Succo di mela, concentrato surgelato, non zuccherato, non diluito, con acido ascorbico aggiunto",
+"fr": "Jus de pomme, concentré surgelé, non sucré, non dilué, avec acide ascorbique ajouté",
+"es": "Zumo de manzana, concentrado congelado, sin azúcar, sin diluir, con ácido ascórbico añadido",
+"de": "Apfelsaft, Konzentrat tiefgekühlt, ungezuckert, unverdünnt, mit Zusatz von Ascorbinsäure",
+"pt": "Suco de maçã, concentrado congelado, sem açúcar, não diluído, com ácido ascórbico adicionado"
+},
+"144": {
+"it": "Succo di mela, concentrato surgelato, non zuccherato, non diluito, senza acido ascorbico aggiunto",
+"fr": "Jus de pomme, concentré surgelé, non sucré, non dilué, sans acide ascorbique ajouté",
+"es": "Zumo de manzana, concentrado congelado, sin azúcar, sin diluir, sin ácido ascórbico añadido",
+"de": "Apfelsaft, Konzentrat tiefgekühlt, ungezuckert, unverdünnt, ohne Zusatz von Ascorbinsäure",
+"pt": "Suco de maçã, concentrado congelado, sem açúcar, não diluído, sem ácido ascórbico adicionado"
+},
+"145": {
+"it": "Succo di mela, con vitamina C aggiunta, da concentrato, a lunga conservazione",
+"fr": "Jus de pomme, avec vitamine C ajoutée, à base de concentré, longue conservation",
+"es": "Zumo de manzana, con vitamina C añadida, de concentrado, de larga duración",
+"de": "Apfelsaft, mit Zusatz von Vitamin C, aus Konzentrat, haltbar",
+"pt": "Suco de maçã, com vitamina C adicionada, de concentrado, longa vida"
+},
+"146": {
+"it": "Ripieno di mele per torte",
+"fr": "Garniture de pomme pour tarte",
+"es": "Relleno de manzana para tartas",
+"de": "Apfelkuchenfüllung",
+"pt": "Recheio de maçã para tortas"
+},
+"147": {
+"it": "Insalata di mele con condimento",
+"fr": "Salade de pommes avec vinaigrette",
+"es": "Ensalada de manzana con aderezo",
+"de": "Apfelsalat mit Dressing",
+"pt": "Salada de maçã com molho"
+},
+"148": {
+"it": "Mela, al forno",
+"fr": "Pomme, cuite au four",
+"es": "Manzana, al horno",
+"de": "Apfel, gebacken",
+"pt": "Maçã, assada no forno"
+},
+"149": {
+"it": "Mela, candita",
+"fr": "Pomme, caramélisée",
+"es": "Manzana, confitada",
+"de": "Apfel, kandiert",
+"pt": "Maçã, caramelizada"
+},
+"150": {
+"it": "Mela, secca",
+"fr": "Pomme, séchée",
+"es": "Manzana, seca",
+"de": "Apfel, getrocknet",
+"pt": "Maçã, seca"
+},
+"151": {
+"it": "Mela, cruda",
+"fr": "Pomme, crue",
+"es": "Manzana, cruda",
+"de": "Apfel, roh",
+"pt": "Maçã, crua"
+},
+"152": {
+"it": "APPLEBEE'S, bistecca di controfiletto della casa da 9 once",
+"fr": "APPLEBEE'S, steak de faux-filet maison de 9 oz",
+"es": "APPLEBEE'S, filete de solomillo de la casa de 9 oz",
+"de": "APPLEBEE'S, 9-oz-Hausrumpsteak",
+"pt": "APPLEBEE'S, bife de contrafilé da casa de 9 oz"
+},
+"153": {
+"it": "APPLEBEE'S, piatto di straccetti di pollo",
+"fr": "APPLEBEE'S, assiette de lanières de poulet",
+"es": "APPLEBEE'S, plato de tiras de pollo",
+"de": "APPLEBEE'S, Hähnchenstreifen-Platte",
+"pt": "APPLEBEE'S, prato de tiras de frango"
+},
+"154": {
+"it": "APPLEBEE'S, straccetti di pollo, dal menu per bambini",
+"fr": "APPLEBEE'S, lanières de poulet, du menu enfant",
+"es": "APPLEBEE'S, tiras de pollo, del menú infantil",
+"de": "APPLEBEE'S, Hähnchenstreifen, vom Kindermenü",
+"pt": "APPLEBEE'S, tiras de frango, do menu infantil"
+},
+"155": {
+"it": "APPLEBEE'S, chili",
+"fr": "APPLEBEE'S, chili",
+"es": "APPLEBEE'S, chili",
+"de": "APPLEBEE'S, Chili",
+"pt": "APPLEBEE'S, chili"
+},
+"156": {
+"it": "APPLEBEE'S, insalata di cavolo (coleslaw)",
+"fr": "APPLEBEE'S, salade de chou (coleslaw)",
+"es": "APPLEBEE'S, ensalada de col (coleslaw)",
+"de": "APPLEBEE'S, Krautsalat (Coleslaw)",
+"pt": "APPLEBEE'S, salada de repolho (coleslaw)"
+},
+"157": {
+"it": "APPLEBEE'S, anelli di cipolla croccanti",
+"fr": "APPLEBEE'S, rondelles d'oignon croustillantes",
+"es": "APPLEBEE'S, aros de cebolla crujientes",
+"de": "APPLEBEE'S, knusprige Zwiebelringe",
+"pt": "APPLEBEE'S, anéis de cebola crocantes"
+},
+"158": {
+"it": "APPLEBEE'S, Double Crunch Shrimp (gamberi doppia panatura croccante)",
+"fr": "APPLEBEE'S, Double Crunch Shrimp (crevettes à la double panure croustillante)",
+"es": "APPLEBEE'S, Double Crunch Shrimp (gambas con doble empanado crujiente)",
+"de": "APPLEBEE'S, Double Crunch Shrimp (Garnelen mit doppelter knuspriger Panade)",
+"pt": "APPLEBEE'S, Double Crunch Shrimp (camarões com dupla empanagem crocante)"
+},
+"159": {
+"it": "APPLEBEE'S, pesce, impanato a mano",
+"fr": "APPLEBEE'S, poisson, pané à la main",
+"es": "APPLEBEE'S, pescado, rebozado a mano",
+"de": "APPLEBEE'S, Fisch, handpaniert",
+"pt": "APPLEBEE'S, peixe, empanado à mão"
+},
+"160": {
+"it": "APPLEBEE'S, patatine fritte",
+"fr": "APPLEBEE'S, frites",
+"es": "APPLEBEE'S, patatas fritas",
+"de": "APPLEBEE'S, Pommes frites",
+"pt": "APPLEBEE'S, batatas fritas"
+},
+"161": {
+"it": "APPLEBEE'S, KRAFT, Macaroni & Cheese, dal menu per bambini",
+"fr": "APPLEBEE'S, KRAFT, Macaroni & Cheese, du menu enfant",
+"es": "APPLEBEE'S, KRAFT, Macaroni & Cheese, del menú infantil",
+"de": "APPLEBEE'S, KRAFT, Macaroni & Cheese, vom Kindermenü",
+"pt": "APPLEBEE'S, KRAFT, Macaroni & Cheese, do menu infantil"
+},
+"162": {
+"it": "APPLEBEE'S, bastoncini di mozzarella",
+"fr": "APPLEBEE'S, bâtonnets de mozzarella",
+"es": "APPLEBEE'S, palitos de mozzarella",
+"de": "APPLEBEE'S, Mozzarella-Sticks",
+"pt": "APPLEBEE'S, palitos de muçarela"
+},
+"163": {
+"it": "Mele, in scatola, zuccherate, a fette, sgocciolate, riscaldate",
+"fr": "Pommes, en conserve, sucrées, tranchées, égouttées, chauffées",
+"es": "Manzanas, en conserva, azucaradas, en rodajas, escurridas, calentadas",
+"de": "Äpfel, aus der Dose, gezuckert, in Scheiben, abgetropft, erhitzt",
+"pt": "Maçãs, enlatadas, adoçadas, fatiadas, escorridas, aquecidas"
+},
+"164": {
+"it": "Mele, disidratate (a basso contenuto di umidità), solforate, stufate",
+"fr": "Pommes, déshydratées (à faible teneur en eau), sulfitées, mijotées",
+"es": "Manzanas, deshidratadas (de baja humedad), sulfuradas, estofadas",
+"de": "Äpfel, dehydriert (feuchtigkeitsarm), geschwefelt, geschmort",
+"pt": "Maçãs, desidratadas (baixa umidade), sulfitadas, ensopadas"
+},
+"165": {
+"it": "Mele, disidratate (a basso contenuto di umidità), solforate, non cotte",
+"fr": "Pommes, déshydratées (à faible teneur en eau), sulfitées, non cuites",
+"es": "Manzanas, deshidratadas (de baja humedad), sulfuradas, sin cocinar",
+"de": "Äpfel, dehydriert (feuchtigkeitsarm), geschwefelt, ungekocht",
+"pt": "Maçãs, desidratadas (baixa umidade), sulfitadas, não cozidas"
+},
+"166": {
+"it": "Mele, secche, solforate, stufate, con zucchero aggiunto",
+"fr": "Pommes, séchées, sulfitées, mijotées, avec sucre ajouté",
+"es": "Manzanas, secas, sulfuradas, estofadas, con azúcar añadido",
+"de": "Äpfel, getrocknet, geschwefelt, geschmort, mit Zuckerzusatz",
+"pt": "Maçãs, secas, sulfitadas, ensopadas, com açúcar adicionado"
+},
+"167": {
+"it": "Mele, secche, solforate, stufate, senza zucchero aggiunto",
+"fr": "Pommes, séchées, sulfitées, mijotées, sans sucre ajouté",
+"es": "Manzanas, secas, sulfuradas, estofadas, sin azúcar añadido",
+"de": "Äpfel, getrocknet, geschwefelt, geschmort, ohne Zuckerzusatz",
+"pt": "Maçãs, secas, sulfitadas, ensopadas, sem açúcar adicionado"
+},
+"168": {
+"it": "Mele, secche, solforate, non cotte",
+"fr": "Pommes, séchées, sulfitées, non cuites",
+"es": "Manzanas, secas, sulfuradas, sin cocinar",
+"de": "Äpfel, getrocknet, geschwefelt, ungekocht",
+"pt": "Maçãs, secas, sulfitadas, não cozidas"
+},
+"169": {
+"it": "Mele, surgelate, non zuccherate, riscaldate (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, surgelées, non sucrées, chauffées (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, congeladas, sin azúcar, calentadas (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, tiefgekühlt, ungezuckert, erhitzt (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, congeladas, sem açúcar, aquecidas (inclui alimentos do Food Distribution Program do USDA)"
+},
+"170": {
+"it": "Mele, surgelate, non zuccherate, non riscaldate (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, surgelées, non sucrées, non chauffées (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, congeladas, sin azúcar, sin calentar (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, tiefgekühlt, ungezuckert, nicht erhitzt (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, congeladas, sem açúcar, não aquecidas (inclui alimentos do Food Distribution Program do USDA)"
+},
+"171": {
+"it": "Mele, Fuji, con buccia, crude",
+"fr": "Pommes, Fuji, avec peau, crues",
+"es": "Manzanas, Fuji, con piel, crudas",
+"de": "Äpfel, Fuji, mit Schale, roh",
+"pt": "Maçãs, Fuji, com casca, cruas"
+},
+"172": {
+"it": "Mele, Gala, con buccia, crude",
+"fr": "Pommes, Gala, avec peau, crues",
+"es": "Manzanas, Gala, con piel, crudas",
+"de": "Äpfel, Gala, mit Schale, roh",
+"pt": "Maçãs, Gala, com casca, cruas"
+},
+"173": {
+"it": "Mele, Granny Smith, con buccia, crude",
+"fr": "Pommes, Granny Smith, avec peau, crues",
+"es": "Manzanas, Granny Smith, con piel, crudas",
+"de": "Äpfel, Granny Smith, mit Schale, roh",
+"pt": "Maçãs, Granny Smith, com casca, cruas"
+},
+"174": {
+"it": "Mele, Honeycrisp, con buccia, crude",
+"fr": "Pommes, Honeycrisp, avec peau, crues",
+"es": "Manzanas, Honeycrisp, con piel, crudas",
+"de": "Äpfel, Honeycrisp, mit Schale, roh",
+"pt": "Maçãs, Honeycrisp, com casca, cruas"
+},
+"175": {
+"it": "Mele, crude, Fuji, con buccia (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, crues, Fuji, avec peau (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, crudas, Fuji, con piel (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, roh, Fuji, mit Schale (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, cruas, Fuji, com casca (inclui alimentos do Food Distribution Program do USDA)"
+},
+"176": {
+"it": "Mele, crude, Gala, con buccia (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, crues, Gala, avec peau (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, crudas, Gala, con piel (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, roh, Gala, mit Schale (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, cruas, Gala, com casca (inclui alimentos do Food Distribution Program do USDA)"
+},
+"177": {
+"it": "Mele, crude, Golden Delicious, con buccia",
+"fr": "Pommes, crues, Golden Delicious, avec peau",
+"es": "Manzanas, crudas, Golden Delicious, con piel",
+"de": "Äpfel, roh, Golden Delicious, mit Schale",
+"pt": "Maçãs, cruas, Golden Delicious, com casca"
+},
+"178": {
+"it": "Mele, crude, Granny Smith, con buccia (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, crues, Granny Smith, avec peau (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, crudas, Granny Smith, con piel (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, roh, Granny Smith, mit Schale (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, cruas, Granny Smith, com casca (inclui alimentos do Food Distribution Program do USDA)"
+},
+"179": {
+"it": "Mele, crude, Red Delicious, con buccia (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, crues, Red Delicious, avec peau (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, crudas, Red Delicious, con piel (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, roh, Red Delicious, mit Schale (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, cruas, Red Delicious, com casca (inclui alimentos do Food Distribution Program do USDA)"
+},
+"180": {
+"it": "Mele, crude, con buccia (include alimenti del Food Distribution Program USDA)",
+"fr": "Pommes, crues, avec peau (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Manzanas, crudas, con piel (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Äpfel, roh, mit Schale (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Maçãs, cruas, com casca (inclui alimentos do Food Distribution Program do USDA)"
+},
+"181": {
+"it": "Mele, crude, senza buccia",
+"fr": "Pommes, crues, sans peau",
+"es": "Manzanas, crudas, sin piel",
+"de": "Äpfel, roh, ohne Schale",
+"pt": "Maçãs, cruas, sem casca"
+},
+"182": {
+"it": "Mele, crude, senza buccia, cotte, bollite",
+"fr": "Pommes, crues, sans peau, cuites, bouillies",
+"es": "Manzanas, crudas, sin piel, cocidas, hervidas",
+"de": "Äpfel, roh, ohne Schale, gekocht, gekocht",
+"pt": "Maçãs, cruas, sem casca, cozidas, cozidas em água"
+},
+"183": {
+"it": "Mele, crude, senza buccia, cotte, al microonde",
+"fr": "Pommes, crues, sans peau, cuites, au micro-ondes",
+"es": "Manzanas, crudas, sin piel, cocidas, al microondas",
+"de": "Äpfel, roh, ohne Schale, gekocht, in der Mikrowelle",
+"pt": "Maçãs, cruas, sem casca, cozidas, no micro-ondas"
+},
+"184": {
+"it": "Mele, Red Delicious, con buccia, crude",
+"fr": "Pommes, Red Delicious, avec peau, crues",
+"es": "Manzanas, Red Delicious, con piel, crudas",
+"de": "Äpfel, Red Delicious, mit Schale, roh",
+"pt": "Maçãs, Red Delicious, com casca, cruas"
+},
+"185": {
+"it": "Composta di mele, in scatola, zuccherata, con sale",
+"fr": "Compote de pommes, en conserve, sucrée, avec sel",
+"es": "Compota de manzana, en conserva, azucarada, con sal",
+"de": "Apfelmus, aus der Dose, gezuckert, mit Salz",
+"pt": "Purê de maçã, enlatado, adoçado, com sal"
+},
+"186": {
+"it": "Composta di mele, in scatola, zuccherata, senza sale",
+"fr": "Compote de pommes, en conserve, sucrée, sans sel",
+"es": "Compota de manzana, en conserva, azucarada, sin sal",
+"de": "Apfelmus, aus der Dose, gezuckert, ohne Salz",
+"pt": "Purê de maçã, enlatado, adoçado, sem sal"
+},
+"187": {
+"it": "Composta di mele, in scatola, non zuccherata, con acido ascorbico aggiunto",
+"fr": "Compote de pommes, en conserve, non sucrée, avec acide ascorbique ajouté",
+"es": "Compota de manzana, en conserva, sin azúcar, con ácido ascórbico añadido",
+"de": "Apfelmus, aus der Dose, ungezuckert, mit Zusatz von Ascorbinsäure",
+"pt": "Purê de maçã, enlatado, sem açúcar, com ácido ascórbico adicionado"
+},
+"188": {
+"it": "Composta di mele, in scatola, non zuccherata, senza acido ascorbico aggiunto (include alimenti del Food Distribution Program USDA)",
+"fr": "Compote de pommes, en conserve, non sucrée, sans acide ascorbique ajouté (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Compota de manzana, en conserva, sin azúcar, sin ácido ascórbico añadido (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Apfelmus, aus der Dose, ungezuckert, ohne Zusatz von Ascorbinsäure (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Purê de maçã, enlatado, sem açúcar, sem ácido ascórbico adicionado (inclui alimentos do Food Distribution Program do USDA)"
+},
+"189": {
+"it": "Composta di mele, aromatizzata",
+"fr": "Compote de pommes, aromatisée",
+"es": "Compota de manzana, aromatizada",
+"de": "Apfelmus, aromatisiert",
+"pt": "Purê de maçã, aromatizado"
+},
+"190": {
+"it": "Composta di mele, normale",
+"fr": "Compote de pommes, ordinaire",
+"es": "Compota de manzana, normal",
+"de": "Apfelmus, normal",
+"pt": "Purê de maçã, comum"
+},
+"191": {
+"it": "Composta di mele, non zuccherata",
+"fr": "Compote de pommes, non sucrée",
+"es": "Compota de manzana, sin azúcar",
+"de": "Apfelmus, ungezuckert",
+"pt": "Purê de maçã, sem açúcar"
+},
+"192": {
+"it": "Composta di mele, non zuccherata, con vitamina C aggiunta",
+"fr": "Compote de pommes, non sucrée, avec vitamine C ajoutée",
+"es": "Compota de manzana, sin azúcar, con vitamina C añadida",
+"de": "Apfelmus, ungezuckert, mit Zusatz von Vitamin C",
+"pt": "Purê de maçã, sem açúcar, com vitamina C adicionada"
+},
+"193": {
+"it": "Nettare di albicocca",
+"fr": "Nectar d'abricot",
+"es": "Néctar de albaricoque",
+"de": "Aprikosennektar",
+"pt": "Néctar de damasco"
+},
+"194": {
+"it": "Nettare di albicocca, in scatola, con acido ascorbico aggiunto",
+"fr": "Nectar d'abricot, en conserve, avec acide ascorbique ajouté",
+"es": "Néctar de albaricoque, en conserva, con ácido ascórbico añadido",
+"de": "Aprikosennektar, aus der Dose, mit Zusatz von Ascorbinsäure",
+"pt": "Néctar de damasco, enlatado, com ácido ascórbico adicionado"
+},
+"195": {
+"it": "Albicocca, in scatola",
+"fr": "Abricot, en conserve",
+"es": "Albaricoque, en conserva",
+"de": "Aprikose, aus der Dose",
+"pt": "Damasco, enlatado"
+},
+"196": {
+"it": "Albicocca, secca",
+"fr": "Abricot, séché",
+"es": "Albaricoque, seco",
+"de": "Aprikose, getrocknet",
+"pt": "Damasco, seco"
+},
+"197": {
+"it": "Albicocca, cruda",
+"fr": "Abricot, cru",
+"es": "Albaricoque, crudo",
+"de": "Aprikose, roh",
+"pt": "Damasco, cru"
+},
+"198": {
+"it": "Albicocca, con buccia, cruda",
+"fr": "Abricot, avec peau, cru",
+"es": "Albaricoque, con piel, crudo",
+"de": "Aprikose, mit Schale, roh",
+"pt": "Damasco, com casca, cru"
+},
+"199": {
+"it": "Albicocche, in scatola, in sciroppo extra denso, senza buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, au sirop extra épais, sans peau, solides et liquides",
+"es": "Albaricoques, en conserva, en almíbar extra denso, sin piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, in extra dickem Sirup, ohne Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, em calda extra densa, sem casca, sólidos e líquidos"
+},
+"200": {
+"it": "Albicocche, in scatola, in sciroppo extra leggero, con buccia, solidi e liquidi (include alimenti del Food Distribution Program USDA)",
+"fr": "Abricots, en conserve, au sirop extra léger, avec peau, solides et liquides (inclut des aliments du Food Distribution Program de l'USDA)",
+"es": "Albaricoques, en conserva, en almíbar extra ligero, con piel, sólidos y líquidos (incluye alimentos del Food Distribution Program del USDA)",
+"de": "Aprikosen, aus der Dose, in extra leichtem Sirup, mit Schale, feste und flüssige Bestandteile (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Damascos, enlatados, em calda extra leve, com casca, sólidos e líquidos (inclui alimentos do Food Distribution Program do USDA)"
+},
+"201": {
+"it": "Albicocche, in scatola, in sciroppo denso, con buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, au sirop épais, avec peau, solides et liquides",
+"es": "Albaricoques, en conserva, en almíbar denso, con piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, in dickem Sirup, mit Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, em calda densa, com casca, sólidos e líquidos"
+},
+"202": {
+"it": "Albicocche, in scatola, in sciroppo denso, senza buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, au sirop épais, sans peau, solides et liquides",
+"es": "Albaricoques, en conserva, en almíbar denso, sin piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, in dickem Sirup, ohne Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, em calda densa, sem casca, sólidos e líquidos"
+},
+"203": {
+"it": "Albicocche, in scatola, in sciroppo denso, sgocciolate",
+"fr": "Abricots, en conserve, au sirop épais, égouttés",
+"es": "Albaricoques, en conserva, en almíbar denso, escurridos",
+"de": "Aprikosen, aus der Dose, in dickem Sirup, abgetropft",
+"pt": "Damascos, enlatados, em calda densa, escorridos"
+},
+"204": {
+"it": "Albicocche, in scatola, al succo, con buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, au jus, avec peau, solides et liquides",
+"es": "Albaricoques, en conserva, en su jugo, con piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, im eigenen Saft, mit Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, no suco, com casca, sólidos e líquidos"
+},
+"205": {
+"it": "Albicocche, in scatola, in sciroppo leggero, con buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, au sirop léger, avec peau, solides et liquides",
+"es": "Albaricoques, en conserva, en almíbar ligero, con piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, in leichtem Sirup, mit Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, em calda leve, com casca, sólidos e líquidos"
+},
+"206": {
+"it": "Albicocche, in scatola, in acqua, con buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, à l'eau, avec peau, solides et liquides",
+"es": "Albaricoques, en conserva, en agua, con piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, in Wasser, mit Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, em água, com casca, sólidos e líquidos"
+},
+"207": {
+"it": "Albicocche, in scatola, in acqua, senza buccia, solidi e liquidi",
+"fr": "Abricots, en conserve, à l'eau, sans peau, solides et liquides",
+"es": "Albaricoques, en conserva, en agua, sin piel, sólidos y líquidos",
+"de": "Aprikosen, aus der Dose, in Wasser, ohne Schale, feste und flüssige Bestandteile",
+"pt": "Damascos, enlatados, em água, sem casca, sólidos e líquidos"
+},
+"208": {
+"it": "Albicocche, disidratate (a basso contenuto di umidità), solforate, stufate",
+"fr": "Abricots, déshydratés (à faible teneur en eau), sulfités, mijotés",
+"es": "Albaricoques, deshidratados (de baja humedad), sulfurados, estofados",
+"de": "Aprikosen, dehydriert (feuchtigkeitsarm), geschwefelt, geschmort",
+"pt": "Damascos, desidratados (baixa umidade), sulfitados, ensopados"
+},
+"209": {
+"it": "Albicocche, disidratate (a basso contenuto di umidità), solforate, non cotte",
+"fr": "Abricots, déshydratés (à faible teneur en eau), sulfités, non cuits",
+"es": "Albaricoques, deshidratados (de baja humedad), sulfurados, sin cocinar",
+"de": "Aprikosen, dehydriert (feuchtigkeitsarm), geschwefelt, ungekocht",
+"pt": "Damascos, desidratados (baixa umidade), sulfitados, não cozidos"
+},
+"210": {
+"it": "Albicocche, secche, solforate, stufate, con zucchero aggiunto",
+"fr": "Abricots, séchés, sulfités, mijotés, avec sucre ajouté",
+"es": "Albaricoques, secos, sulfurados, estofados, con azúcar añadido",
+"de": "Aprikosen, getrocknet, geschwefelt, geschmort, mit Zuckerzusatz",
+"pt": "Damascos, secos, sulfitados, ensopados, com açúcar adicionado"
+},
+"211": {
+"it": "Albicocche, secche, solforate, stufate, senza zucchero aggiunto",
+"fr": "Abricots, séchés, sulfités, mijotés, sans sucre ajouté",
+"es": "Albaricoques, secos, sulfurados, estofados, sin azúcar añadido",
+"de": "Aprikosen, getrocknet, geschwefelt, geschmort, ohne Zuckerzusatz",
+"pt": "Damascos, secos, sulfitados, ensopados, sem açúcar adicionado"
+},
+"212": {
+"it": "Albicocche, secche, solforate, non cotte",
+"fr": "Abricots, séchés, sulfités, non cuits",
+"es": "Albaricoques, secos, sulfurados, sin cocinar",
+"de": "Aprikosen, getrocknet, geschwefelt, ungekocht",
+"pt": "Damascos, secos, sulfitados, não cozidos"
+},
+"213": {
+"it": "Albicocche, surgelate, zuccherate",
+"fr": "Abricots, surgelés, sucrés",
+"es": "Albaricoques, congelados, azucarados",
+"de": "Aprikosen, tiefgekühlt, gezuckert",
+"pt": "Damascos, congelados, adoçados"
+},
+"214": {
+"it": "Albicocche, crude",
+"fr": "Abricots, crus",
+"es": "Albaricoques, crudos",
+"de": "Aprikosen, roh",
+"pt": "Damascos, crus"
+},
+"215": {
+"it": "ARBY'S, panino con roast beef, classico",
+"fr": "ARBY'S, sandwich au roast-beef, classique",
+"es": "ARBY'S, sándwich de roast beef, clásico",
+"de": "ARBY'S, Roastbeef-Sandwich, klassisch",
+"pt": "ARBY'S, sanduíche de rosbife, clássico"
+},
+"216": {
+"it": "Archway Home Style Cookies, con gocce di cioccolato (Ice Box)",
+"fr": "Archway Home Style Cookies, aux pépites de chocolat (Ice Box)",
+"es": "Archway Home Style Cookies, con chispas de chocolate (Ice Box)",
+"de": "Archway Home Style Cookies, mit Schokoladenstückchen (Ice Box)",
+"pt": "Archway Home Style Cookies, com gotas de chocolate (Ice Box)"
+},
+"217": {
+"it": "Archway Home Style Cookies, Coconut Macaroon (amaretto al cocco)",
+"fr": "Archway Home Style Cookies, Coconut Macaroon (rocher à la noix de coco)",
+"es": "Archway Home Style Cookies, Coconut Macaroon (macarrón de coco)",
+"de": "Archway Home Style Cookies, Coconut Macaroon (Kokosmakrone)",
+"pt": "Archway Home Style Cookies, Coconut Macaroon (macaron de coco)"
+},
+"218": {
+"it": "Archway Home Style Cookies, Date Filled Oatmeal (avena ripiena di datteri)",
+"fr": "Archway Home Style Cookies, Date Filled Oatmeal (flocons d'avoine fourrés aux dattes)",
+"es": "Archway Home Style Cookies, Date Filled Oatmeal (avena rellena de dátiles)",
+"de": "Archway Home Style Cookies, Date Filled Oatmeal (Haferflocken mit Dattelfüllung)",
+"pt": "Archway Home Style Cookies, Date Filled Oatmeal (aveia recheada com tâmaras)"
+},
+"219": {
+"it": "Archway Home Style Cookies, Dutch Cocoa (cacao olandese)",
+"fr": "Archway Home Style Cookies, Dutch Cocoa (cacao hollandais)",
+"es": "Archway Home Style Cookies, Dutch Cocoa (cacao holandés)",
+"de": "Archway Home Style Cookies, Dutch Cocoa (holländischer Kakao)",
+"pt": "Archway Home Style Cookies, Dutch Cocoa (cacau holandês)"
+},
+"220": {
+"it": "Archway Home Style Cookies, Frosty Lemon (limone glassato)",
+"fr": "Archway Home Style Cookies, Frosty Lemon (citron glacé)",
+"es": "Archway Home Style Cookies, Frosty Lemon (limón glaseado)",
+"de": "Archway Home Style Cookies, Frosty Lemon (Zitrone mit Zuckerguss)",
+"pt": "Archway Home Style Cookies, Frosty Lemon (limão glaceado)"
+},
+"221": {
+"it": "Archway Home Style Cookies, Iced Molasses (melassa glassata)",
+"fr": "Archway Home Style Cookies, Iced Molasses (mélasse glacée)",
+"es": "Archway Home Style Cookies, Iced Molasses (melaza glaseada)",
+"de": "Archway Home Style Cookies, Iced Molasses (Melasse mit Zuckerguss)",
+"pt": "Archway Home Style Cookies, Iced Molasses (melaço glaceado)"
+},
+"222": {
+"it": "Archway Home Style Cookies, Iced Oatmeal (avena glassata)",
+"fr": "Archway Home Style Cookies, Iced Oatmeal (flocons d'avoine glacés)",
+"es": "Archway Home Style Cookies, Iced Oatmeal (avena glaseada)",
+"de": "Archway Home Style Cookies, Iced Oatmeal (Haferflocken mit Zuckerguss)",
+"pt": "Archway Home Style Cookies, Iced Oatmeal (aveia glaceada)"
+},
+"223": {
+"it": "Archway Home Style Cookies, Molasses (melassa)",
+"fr": "Archway Home Style Cookies, Molasses (mélasse)",
+"es": "Archway Home Style Cookies, Molasses (melaza)",
+"de": "Archway Home Style Cookies, Molasses (Melasse)",
+"pt": "Archway Home Style Cookies, Molasses (melaço)"
+},
+"224": {
+"it": "Archway Home Style Cookies, Oatmeal (avena)",
+"fr": "Archway Home Style Cookies, Oatmeal (flocons d'avoine)",
+"es": "Archway Home Style Cookies, Oatmeal (avena)",
+"de": "Archway Home Style Cookies, Oatmeal (Haferflocken)",
+"pt": "Archway Home Style Cookies, Oatmeal (aveia)"
+},
+"225": {
+"it": "Archway Home Style Cookies, Oatmeal Raisin (avena e uvetta)",
+"fr": "Archway Home Style Cookies, Oatmeal Raisin (flocons d'avoine et raisins secs)",
+"es": "Archway Home Style Cookies, Oatmeal Raisin (avena y pasas)",
+"de": "Archway Home Style Cookies, Oatmeal Raisin (Haferflocken und Rosinen)",
+"pt": "Archway Home Style Cookies, Oatmeal Raisin (aveia e uvas-passas)"
+},
+"226": {
+"it": "Archway Home Style Cookies, Old Fashioned Molasses (melassa all'antica)",
+"fr": "Archway Home Style Cookies, Old Fashioned Molasses (mélasse à l'ancienne)",
+"es": "Archway Home Style Cookies, Old Fashioned Molasses (melaza a la antigua)",
+"de": "Archway Home Style Cookies, Old Fashioned Molasses (Melasse nach alter Art)",
+"pt": "Archway Home Style Cookies, Old Fashioned Molasses (melaço à moda antiga)"
+},
+"227": {
+"it": "Archway Home Style Cookies, Old Fashioned Windmill Cookies (biscotti mulino a vento all'antica)",
+"fr": "Archway Home Style Cookies, Old Fashioned Windmill Cookies (biscuits moulin à vent à l'ancienne)",
+"es": "Archway Home Style Cookies, Old Fashioned Windmill Cookies (galletas molino de viento a la antigua)",
+"de": "Archway Home Style Cookies, Old Fashioned Windmill Cookies (Windmühlenkekse nach alter Art)",
+"pt": "Archway Home Style Cookies, Old Fashioned Windmill Cookies (biscoitos moinho de vento à moda antiga)"
+},
+"228": {
+"it": "Archway Home Style Cookies, Peanut Butter (burro di arachidi)",
+"fr": "Archway Home Style Cookies, Peanut Butter (beurre de cacahuète)",
+"es": "Archway Home Style Cookies, Peanut Butter (mantequilla de cacahuete)",
+"de": "Archway Home Style Cookies, Peanut Butter (Erdnussbutter)",
+"pt": "Archway Home Style Cookies, Peanut Butter (manteiga de amendoim)"
+},
+"229": {
+"it": "Archway Home Style Cookies, Raspberry Filled (ripieni di lampone)",
+"fr": "Archway Home Style Cookies, Raspberry Filled (fourrés à la framboise)",
+"es": "Archway Home Style Cookies, Raspberry Filled (rellenas de frambuesa)",
+"de": "Archway Home Style Cookies, Raspberry Filled (mit Himbeerfüllung)",
+"pt": "Archway Home Style Cookies, Raspberry Filled (recheados de framboesa)"
+},
+"230": {
+"it": "Archway Home Style Cookies, Reduced Fat Ginger Snaps (biscotti allo zenzero a ridotto contenuto di grassi)",
+"fr": "Archway Home Style Cookies, Reduced Fat Ginger Snaps (biscuits au gingembre allégés en matières grasses)",
+"es": "Archway Home Style Cookies, Reduced Fat Ginger Snaps (galletas de jengibre reducidas en grasa)",
+"de": "Archway Home Style Cookies, Reduced Fat Ginger Snaps (Ingwerkekse, fettreduziert)",
+"pt": "Archway Home Style Cookies, Reduced Fat Ginger Snaps (biscoitos de gengibre com teor reduzido de gordura)"
+},
+"231": {
+"it": "Archway Home Style Cookies, Strawberry Filled (ripieni di fragola)",
+"fr": "Archway Home Style Cookies, Strawberry Filled (fourrés à la fraise)",
+"es": "Archway Home Style Cookies, Strawberry Filled (rellenas de fresa)",
+"de": "Archway Home Style Cookies, Strawberry Filled (mit Erdbeerfüllung)",
+"pt": "Archway Home Style Cookies, Strawberry Filled (recheados de morango)"
+},
+"232": {
+"it": "Archway Home Style Cookies, Sugar Free Oatmeal (avena senza zucchero)",
+"fr": "Archway Home Style Cookies, Sugar Free Oatmeal (flocons d'avoine sans sucre)",
+"es": "Archway Home Style Cookies, Sugar Free Oatmeal (avena sin azúcar)",
+"de": "Archway Home Style Cookies, Sugar Free Oatmeal (Haferflocken, zuckerfrei)",
+"pt": "Archway Home Style Cookies, Sugar Free Oatmeal (aveia sem açúcar)"
+},
+"233": {
+"it": "Arepa dominicana",
+"fr": "Arepa dominicaine",
+"es": "Arepa dominicana",
+"de": "Dominikanische Arepa",
+"pt": "Arepa dominicana"
+},
+"234": {
+"it": "Armadillo",
+"fr": "Tatou",
+"es": "Armadillo",
+"de": "Gürteltier",
+"pt": "Tatu"
+},
+"235": {
+"it": "Sagittaria (arrowhead), cotta, bollita, sgocciolata, con sale",
+"fr": "Sagittaire (arrowhead), cuite, bouillie, égouttée, avec sel",
+"es": "Sagitaria (arrowhead), cocida, hervida, escurrida, con sal",
+"de": "Pfeilkraut (Arrowhead), gekocht, abgetropft, mit Salz",
+"pt": "Sagitária (arrowhead), cozida, cozida em água, escorrida, com sal"
+},
+"236": {
+"it": "Sagittaria (arrowhead), cotta, bollita, sgocciolata, senza sale",
+"fr": "Sagittaire (arrowhead), cuite, bouillie, égouttée, sans sel",
+"es": "Sagitaria (arrowhead), cocida, hervida, escurrida, sin sal",
+"de": "Pfeilkraut (Arrowhead), gekocht, abgetropft, ohne Salz",
+"pt": "Sagitária (arrowhead), cozida, cozida em água, escorrida, sem sal"
+},
+"237": {
+"it": "Sagittaria (arrowhead), cruda",
+"fr": "Sagittaire (arrowhead), crue",
+"es": "Sagitaria (arrowhead), cruda",
+"de": "Pfeilkraut (Arrowhead), roh",
+"pt": "Sagitária (arrowhead), crua"
+},
+"238": {
+"it": "Farina di arrowroot",
+"fr": "Farine d'arrow-root",
+"es": "Harina de arrurruz",
+"de": "Pfeilwurzelmehl",
+"pt": "Farinha de araruta"
+},
+"239": {
+"it": "Arrowroot, crudo",
+"fr": "Arrow-root, cru",
+"es": "Arrurruz, crudo",
+"de": "Pfeilwurz, roh",
+"pt": "Araruta, crua"
+},
+"240": {
+"it": "Carciofo",
+"fr": "Artichaut",
+"es": "Alcachofa",
+"de": "Artischocke",
+"pt": "Alcachofra"
+},
+"241": {
+"it": "Salsa di carciofi (dip)",
+"fr": "Dip d'artichaut",
+"es": "Dip de alcachofa",
+"de": "Artischocken-Dip",
+"pt": "Molho cremoso de alcachofra (dip)"
+},
+"242": {
+"it": "Carciofi (globo o francesi), cotti, bolliti, sgocciolati, con sale",
+"fr": "Artichauts (globe ou français), cuits, bouillis, égouttés, avec sel",
+"es": "Alcachofas (globo o francesas), cocidas, hervidas, escurridas, con sal",
+"de": "Artischocken (Globe oder französische), gekocht, abgetropft, mit Salz",
+"pt": "Alcachofras (globo ou francesas), cozidas, cozidas em água, escorridas, com sal"
+},
+"243": {
+"it": "Carciofi (globo o francesi), cotti, bolliti, sgocciolati, senza sale",
+"fr": "Artichauts (globe ou français), cuits, bouillis, égouttés, sans sel",
+"es": "Alcachofas (globo o francesas), cocidas, hervidas, escurridas, sin sal",
+"de": "Artischocken (Globe oder französische), gekocht, abgetropft, ohne Salz",
+"pt": "Alcachofras (globo ou francesas), cozidas, cozidas em água, escorridas, sem sal"
+},
+"244": {
+"it": "Carciofi (globo o francesi), surgelati, cotti, bolliti, sgocciolati, con sale",
+"fr": "Artichauts (globe ou français), surgelés, cuits, bouillis, égouttés, avec sel",
+"es": "Alcachofas (globo o francesas), congeladas, cocidas, hervidas, escurridas, con sal",
+"de": "Artischocken (Globe oder französische), tiefgekühlt, gekocht, abgetropft, mit Salz",
+"pt": "Alcachofras (globo ou francesas), congeladas, cozidas, cozidas em água, escorridas, com sal"
+},
+"245": {
+"it": "Carciofi (globo o francesi), surgelati, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Artichauts (globe ou français), surgelés, cuits, bouillis, égouttés, sans sel",
+"es": "Alcachofas (globo o francesas), congeladas, cocidas, hervidas, escurridas, sin sal",
+"de": "Artischocken (Globe oder französische), tiefgekühlt, gekocht, abgetropft, ohne Salz",
+"pt": "Alcachofras (globo ou francesas), congeladas, cozidas, cozidas em água, escorridas, sem sal"
+},
+"246": {
+"it": "Carciofi (globo o francesi), surgelati, non preparati",
+"fr": "Artichauts (globe ou français), surgelés, non préparés",
+"es": "Alcachofas (globo o francesas), congeladas, sin preparar",
+"de": "Artischocken (Globe oder französische), tiefgekühlt, unzubereitet",
+"pt": "Alcachofras (globo ou francesas), congeladas, não preparadas"
+},
+"247": {
+"it": "Carciofi (globo o francesi), crudi",
+"fr": "Artichauts (globe ou français), crus",
+"es": "Alcachofas (globo o francesas), crudas",
+"de": "Artischocken (Globe oder französische), roh",
+"pt": "Alcachofras (globo ou francesas), cruas"
+},
+"248": {
+"it": "Carciofi, ripieni",
+"fr": "Artichauts, farcis",
+"es": "Alcachofas, rellenas",
+"de": "Artischocken, gefüllt",
+"pt": "Alcachofras, recheadas"
+},
+"249": {
+"it": "Miscela per muffin ai mirtilli artificiale, secca",
+"fr": "Préparation pour muffins aux myrtilles artificielle, sèche",
+"es": "Mezcla para muffins de arándanos artificial, seca",
+"de": "Blaubeermuffin-Backmischung, künstlich, trocken",
+"pt": "Mistura para muffin de mirtilo artificial, seca"
+},
+"250": {
+"it": "Rucola, baby, cruda",
+"fr": "Roquette, jeunes pousses, crue",
+"es": "Rúcula, baby, cruda",
+"de": "Rucola, Baby, roh",
+"pt": "Rúcula, baby, crua"
+},
+"251": {
+"it": "Rucola, cruda",
+"fr": "Roquette, crue",
+"es": "Rúcula, cruda",
+"de": "Rucola, roh",
+"pt": "Rúcula, crua"
+},
+"252": {
+"it": "Ascidie (tunughnak) (nativi dell'Alaska)",
+"fr": "Ascidies (tunughnak) (autochtones d'Alaska)",
+"es": "Ascidias (tunughnak) (nativos de Alaska)",
+"de": "Seescheiden (Tunughnak) (Ureinwohner Alaskas)",
+"pt": "Ascídias (tunughnak) (nativos do Alasca)"
+},
+"253": {
+"it": "Insalata asiatica di pollo o tacchino con noodle croccanti, pollo e/o tacchino, lattuga, frutta, frutta secca a guscio, noodle croccanti, senza condimento",
+"fr": "Salade asiatique de poulet ou de dinde avec nouilles croustillantes, poulet et/ou dinde, laitue, fruits, fruits à coque, nouilles croustillantes, sans vinaigrette",
+"es": "Ensalada asiática de pollo o pavo con fideos crujientes, pollo y/o pavo, lechuga, fruta, frutos secos, fideos crujientes, sin aderezo",
+"de": "Asiatischer Hähnchen- oder Putensalat mit knusprigen Nudeln, Hähnchen und/oder Pute, Kopfsalat, Obst, Nüsse, knusprige Nudeln, ohne Dressing",
+"pt": "Salada asiática de frango ou peru com macarrão crocante, frango e/ou peru, alface, frutas, oleaginosas, macarrão crocante, sem molho"
+},
+"254": {
+"it": "Insalata asiatica di pollo o tacchino, pollo e/o tacchino, lattuga, frutta, frutta secca a guscio, senza condimento",
+"fr": "Salade asiatique de poulet ou de dinde, poulet et/ou dinde, laitue, fruits, fruits à coque, sans vinaigrette",
+"es": "Ensalada asiática de pollo o pavo, pollo y/o pavo, lechuga, fruta, frutos secos, sin aderezo",
+"de": "Asiatischer Hähnchen- oder Putensalat, Hähnchen und/oder Pute, Kopfsalat, Obst, Nüsse, ohne Dressing",
+"pt": "Salada asiática de frango ou peru, frango e/ou peru, alface, frutas, oleaginosas, sem molho"
+},
+"255": {
+"it": "Verdure saltate in stile asiatico, cotte, con grasso aggiunto",
+"fr": "Légumes sautés à l'asiatique, cuits, avec matière grasse ajoutée",
+"es": "Verduras salteadas estilo asiático, cocidas, con grasa añadida",
+"de": "Asiatisches Pfannengemüse, gekocht, mit Fettzusatz",
+"pt": "Legumes salteados estilo asiático, cozidos, com gordura adicionada"
+},
+"256": {
+"it": "Verdure saltate in stile asiatico, cotte, senza grasso aggiunto",
+"fr": "Légumes sautés à l'asiatique, cuits, sans matière grasse ajoutée",
+"es": "Verduras salteadas estilo asiático, cocidas, sin grasa añadida",
+"de": "Asiatisches Pfannengemüse, gekocht, ohne Fettzusatz",
+"pt": "Legumes salteados estilo asiático, cozidos, sem gordura adicionada"
+},
+"257": {
+"it": "Asparagi, in scatola, cotti con burro o margarina",
+"fr": "Asperges, en conserve, cuites avec du beurre ou de la margarine",
+"es": "Espárragos, en conserva, cocidos con mantequilla o margarina",
+"de": "Spargel, aus der Dose, gekocht mit Butter oder Margarine",
+"pt": "Aspargos, enlatados, cozidos com manteiga ou margarina"
+},
+"258": {
+"it": "Asparagi, in scatola, cotti con olio",
+"fr": "Asperges, en conserve, cuites à l'huile",
+"es": "Espárragos, en conserva, cocidos con aceite",
+"de": "Spargel, aus der Dose, gekocht mit Öl",
+"pt": "Aspargos, enlatados, cozidos com óleo"
+},
+"259": {
+"it": "Asparagi, in scatola, cotti, con grasso aggiunto, tipo di grasso non specificato",
+"fr": "Asperges, en conserve, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Espárragos, en conserva, cocidos, con grasa añadida, tipo de grasa sin especificar",
+"de": "Spargel, aus der Dose, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+"pt": "Aspargos, enlatados, cozidos, com gordura adicionada, tipo de gordura não especificado"
+},
+"260": {
+"it": "Asparagi, in scatola, cotti, senza grasso aggiunto",
+"fr": "Asperges, en conserve, cuites, sans matière grasse ajoutée",
+"es": "Espárragos, en conserva, cocidos, sin grasa añadida",
+"de": "Spargel, aus der Dose, gekocht, ohne Fettzusatz",
+"pt": "Aspargos, enlatados, cozidos, sem gordura adicionada"
+},
+"261": {
+"it": "Asparagi, in scatola, solidi sgocciolati",
+"fr": "Asperges, en conserve, solides égouttés",
+"es": "Espárragos, en conserva, sólidos escurridos",
+"de": "Spargel, aus der Dose, abgetropfte feste Bestandteile",
+"pt": "Aspargos, enlatados, sólidos escorridos"
+},
+"262": {
+"it": "Asparagi, in scatola, senza sale aggiunto, solidi e liquidi",
+"fr": "Asperges, en conserve, sans sel ajouté, solides et liquides",
+"es": "Espárragos, en conserva, sin sal añadida, sólidos y líquidos",
+"de": "Spargel, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
+"pt": "Aspargos, enlatados, sem sal adicionado, sólidos e líquidos"
+},
+"263": {
+"it": "Asparagi, in scatola, confezione normale, solidi e liquidi",
+"fr": "Asperges, en conserve, conditionnement ordinaire, solides et liquides",
+"es": "Espárragos, en conserva, envase normal, sólidos y líquidos",
+"de": "Spargel, aus der Dose, normale Packung, feste und flüssige Bestandteile",
+"pt": "Aspargos, enlatados, embalagem comum, sólidos e líquidos"
+},
+"264": {
+"it": "Asparagi, cotti, bolliti, sgocciolati",
+"fr": "Asperges, cuites, bouillies, égouttées",
+"es": "Espárragos, cocidos, hervidos, escurridos",
+"de": "Spargel, gekocht, abgetropft",
+"pt": "Aspargos, cozidos, cozidos em água, escorridos"
+},
+"265": {
+"it": "Asparagi, cotti, bolliti, sgocciolati, con sale",
+"fr": "Asperges, cuites, bouillies, égouttées, avec sel",
+"es": "Espárragos, cocidos, hervidos, escurridos, con sal",
+"de": "Spargel, gekocht, abgetropft, mit Salz",
+"pt": "Aspargos, cozidos, cozidos em água, escorridos, com sal"
+},
+"266": {
+"it": "Asparagi, freschi, cotti con burro o margarina",
+"fr": "Asperges, fraîches, cuites avec du beurre ou de la margarine",
+"es": "Espárragos, frescos, cocidos con mantequilla o margarina",
+"de": "Spargel, frisch, gekocht mit Butter oder Margarine",
+"pt": "Aspargos, frescos, cozidos com manteiga ou margarina"
+},
+"267": {
+"it": "Asparagi, freschi, cotti con olio",
+"fr": "Asperges, fraîches, cuites à l'huile",
+"es": "Espárragos, frescos, cocidos con aceite",
+"de": "Spargel, frisch, gekocht mit Öl",
+"pt": "Aspargos, frescos, cozidos com óleo"
+},
+"268": {
+"it": "Asparagi, freschi, cotti, con grasso aggiunto, tipo di grasso non specificato",
+"fr": "Asperges, fraîches, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Espárragos, frescos, cocidos, con grasa añadida, tipo de grasa sin especificar",
+"de": "Spargel, frisch, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+"pt": "Aspargos, frescos, cozidos, com gordura adicionada, tipo de gordura não especificado"
+},
+"269": {
+"it": "Asparagi, freschi, cotti, senza grasso aggiunto",
+"fr": "Asperges, fraîches, cuites, sans matière grasse ajoutée",
+"es": "Espárragos, frescos, cocidos, sin grasa añadida",
+"de": "Spargel, frisch, gekocht, ohne Fettzusatz",
+"pt": "Aspargos, frescos, cozidos, sem gordura adicionada"
+},
+"270": {
+"it": "Asparagi, surgelati, cotti con burro o margarina",
+"fr": "Asperges, surgelées, cuites avec du beurre ou de la margarine",
+"es": "Espárragos, congelados, cocidos con mantequilla o margarina",
+"de": "Spargel, tiefgekühlt, gekocht mit Butter oder Margarine",
+"pt": "Aspargos, congelados, cozidos com manteiga ou margarina"
+},
+"271": {
+"it": "Asparagi, surgelati, cotti con olio",
+"fr": "Asperges, surgelées, cuites à l'huile",
+"es": "Espárragos, congelados, cocidos con aceite",
+"de": "Spargel, tiefgekühlt, gekocht mit Öl",
+"pt": "Aspargos, congelados, cozidos com óleo"
+},
+"272": {
+"it": "Asparagi, surgelati, cotti, bolliti, sgocciolati, con sale",
+"fr": "Asperges, surgelées, cuites, bouillies, égouttées, avec sel",
+"es": "Espárragos, congelados, cocidos, hervidos, escurridos, con sal",
+"de": "Spargel, tiefgekühlt, gekocht, abgetropft, mit Salz",
+"pt": "Aspargos, congelados, cozidos, cozidos em água, escorridos, com sal"
+},
+"273": {
+"it": "Asparagi, surgelati, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Asperges, surgelées, cuites, bouillies, égouttées, sans sel",
+"es": "Espárragos, congelados, cocidos, hervidos, escurridos, sin sal",
+"de": "Spargel, tiefgekühlt, gekocht, abgetropft, ohne Salz",
+"pt": "Aspargos, congelados, cozidos, cozidos em água, escorridos, sem sal"
+},
+"274": {
+"it": "Asparagi, surgelati, cotti, con grasso aggiunto, tipo di grasso non specificato",
+"fr": "Asperges, surgelées, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Espárragos, congelados, cocidos, con grasa añadida, tipo de grasa sin especificar",
+"de": "Spargel, tiefgekühlt, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+"pt": "Aspargos, congelados, cozidos, com gordura adicionada, tipo de gordura não especificado"
+},
+"275": {
+"it": "Asparagi, surgelati, cotti, senza grasso aggiunto",
+"fr": "Asperges, surgelées, cuites, sans matière grasse ajoutée",
+"es": "Espárragos, congelados, cocidos, sin grasa añadida",
+"de": "Spargel, tiefgekühlt, gekocht, ohne Fettzusatz",
+"pt": "Aspargos, congelados, cozidos, sem gordura adicionada"
+},
+"276": {
+"it": "Asparagi, surgelati, non preparati",
+"fr": "Asperges, surgelées, non préparées",
+"es": "Espárragos, congelados, sin preparar",
+"de": "Spargel, tiefgekühlt, unzubereitet",
+"pt": "Aspargos, congelados, não preparados"
+},
+"277": {
+"it": "Asparagi, verdi, crudi",
+"fr": "Asperges, vertes, crues",
+"es": "Espárragos, verdes, crudos",
+"de": "Spargel, grün, roh",
+"pt": "Aspargos, verdes, crus"
+},
+"278": {
+"it": "Asparagi, forma non specificata, cotti",
+"fr": "Asperges, forme non précisée, cuites",
+"es": "Espárragos, forma sin especificar, cocidos",
+"de": "Spargel, Form nicht angegeben, gekocht",
+"pt": "Aspargos, forma não especificada, cozidos"
+},
+"279": {
+"it": "Asparagi, crudi",
+"fr": "Asperges, crues",
+"es": "Espárragos, crudos",
+"de": "Spargel, roh",
+"pt": "Aspargos, crus"
+},
+"280": {
+"it": "Atole",
+"fr": "Atole",
+"es": "Atole",
+"de": "Atole",
+"pt": "Atole"
+},
+"281": {
+"it": "Atole di avena",
+"fr": "Atole à l'avoine",
+"es": "Atole de avena",
+"de": "Atole mit Haferflocken",
+"pt": "Atole de aveia"
+},
+"282": {
+"it": "Atole al cioccolato",
+"fr": "Atole au chocolat",
+"es": "Atole de chocolate",
+"de": "Atole mit Schokolade",
+"pt": "Atole de chocolate"
+},
+"283": {
+"it": "Condimento all'avocado",
+"fr": "Vinaigrette à l'avocat",
+"es": "Aderezo de aguacate",
+"de": "Avocado-Dressing",
+"pt": "Molho de abacate"
+},
+"284": {
+"it": "Avocado, da usare in un panino",
+"fr": "Avocat, pour utilisation dans un sandwich",
+"es": "Aguacate, para usar en un sándwich",
+"de": "Avocado, für Sandwiches",
+"pt": "Abacate, para uso em sanduíche"
+},
+"285": {
+"it": "Avocado, Hass, sbucciato, crudo",
+"fr": "Avocat, Hass, pelé, cru",
+"es": "Aguacate, Hass, pelado, crudo",
+"de": "Avocado, Hass, geschält, roh",
+"pt": "Abacate, Hass, descascado, cru"
+},
+"286": {
+"it": "Avocado, crudo",
+"fr": "Avocat, cru",
+"es": "Aguacate, crudo",
+"de": "Avocado, roh",
+"pt": "Abacate, cru"
+},
+"287": {
+"it": "Avocado, crudi, tutte le varietà commerciali",
+"fr": "Avocats, crus, toutes variétés commerciales",
+"es": "Aguacates, crudos, todas las variedades comerciales",
+"de": "Avocados, roh, alle handelsüblichen Sorten",
+"pt": "Abacates, crus, todas as variedades comerciais"
+},
+"288": {
+"it": "Avocado, crudi, della California",
+"fr": "Avocats, crus, de Californie",
+"es": "Aguacates, crudos, de California",
+"de": "Avocados, roh, aus Kalifornien",
+"pt": "Abacates, crus, da Califórnia"
+},
+"289": {
+"it": "Avocado, crudi, della Florida",
+"fr": "Avocats, crus, de Floride",
+"es": "Aguacates, crudos, de Florida",
+"de": "Avocados, roh, aus Florida",
+"pt": "Abacates, crus, da Flórida"
+},
+"290": {
+"it": "Baby Toddler mele, fase 1",
+"fr": "Baby Toddler pommes, étape 1",
+"es": "Baby Toddler manzanas, etapa 1",
+"de": "Baby Toddler Äpfel, Stufe 1",
+"pt": "Baby Toddler maçãs, fase 1"
+},
+"291": {
+"it": "Baby Toddler mele, fase 2",
+"fr": "Baby Toddler pommes, étape 2",
+"es": "Baby Toddler manzanas, etapa 2",
+"de": "Baby Toddler Äpfel, Stufe 2",
+"pt": "Baby Toddler maçãs, fase 2"
+},
+"292": {
+"it": "Baby Toddler banane, fase 1",
+"fr": "Baby Toddler bananes, étape 1",
+"es": "Baby Toddler bananas, etapa 1",
+"de": "Baby Toddler Bananen, Stufe 1",
+"pt": "Baby Toddler bananas, fase 1"
+},
+"293": {
+"it": "Baby Toddler banane, fase 2",
+"fr": "Baby Toddler bananes, étape 2",
+"es": "Baby Toddler bananas, etapa 2",
+"de": "Baby Toddler Bananen, Stufe 2",
+"pt": "Baby Toddler bananas, fase 2"
+},
+"294": {
+"it": "Baby Toddler barretta",
+"fr": "Baby Toddler barre",
+"es": "Baby Toddler barrita",
+"de": "Baby Toddler Riegel",
+"pt": "Baby Toddler barrinha"
+},
+"295": {
+"it": "Baby Toddler manzo",
+"fr": "Baby Toddler bœuf",
+"es": "Baby Toddler res",
+"de": "Baby Toddler Rind",
+"pt": "Baby Toddler carne bovina"
+},
+"296": {
+"it": "Baby Toddler barbabietole",
+"fr": "Baby Toddler betteraves",
+"es": "Baby Toddler remolachas",
+"de": "Baby Toddler Rote Bete",
+"pt": "Baby Toddler beterrabas"
+},
+"297": {
+"it": "Baby Toddler biscotto",
+"fr": "Baby Toddler biscuit",
+"es": "Baby Toddler galleta",
+"de": "Baby Toddler Keks",
+"pt": "Baby Toddler biscoito"
+}
+}

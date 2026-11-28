@@ -1,0 +1,2088 @@
+{
+"5662": {
+"it": "Fast food, mini rotolini alla cannella",
+"fr": "Fast-food, mini roulés à la cannelle",
+"es": "Comida rápida, mini rollos de canela",
+"de": "Fast Food, Mini-Zimtschnecken",
+"pt": "Fast food, mini rolinhos de canela"
+},
+"5663": {
+"it": "Fast food, nachos, con formaggio",
+"fr": "Fast-food, nachos, avec fromage",
+"es": "Comida rápida, nachos, con queso",
+"de": "Fast Food, Nachos, mit Käse",
+"pt": "Fast food, nachos, com queijo"
+},
+"5664": {
+"it": "Fast food, nachos, con formaggio, fagioli, carne di manzo macinata e pomodori",
+"fr": "Fast-food, nachos, avec fromage, haricots, bœuf haché et tomates",
+"es": "Comida rápida, nachos, con queso, frijoles, carne de res molida y tomates",
+"de": "Fast Food, Nachos, mit Käse, Bohnen, Rinderhack und Tomaten",
+"pt": "Fast food, nachos, com queijo, feijão, carne bovina moída e tomates"
+},
+"5665": {
+"it": "Fast food, anelli di cipolla, impanati e fritti",
+"fr": "Fast-food, rondelles d'oignon, panées et frites",
+"es": "Comida rápida, aros de cebolla, empanados y fritos",
+"de": "Fast Food, Zwiebelringe, paniert und frittiert",
+"pt": "Fast food, anéis de cebola, empanados e fritos"
+},
+"5666": {
+"it": "Fast food, patate, fritte in olio vegetale",
+"fr": "Fast-food, pommes de terre, frites à l'huile végétale",
+"es": "Comida rápida, patatas, fritas en aceite vegetal",
+"de": "Fast Food, Kartoffeln, in Pflanzenöl frittiert",
+"pt": "Fast food, batatas, fritas em óleo vegetal"
+},
+"5667": {
+"it": "Fast food, patate, purè",
+"fr": "Fast-food, pommes de terre, purée",
+"es": "Comida rápida, patatas, puré",
+"de": "Fast Food, Kartoffeln, Püree",
+"pt": "Fast food, batatas, purê"
+},
+"5668": {
+"it": "Fast food, patate, hash brown, pezzi rotondi o crocchetta",
+"fr": "Fast-food, pommes de terre, galettes de pommes de terre (hash browns), morceaux ronds ou galette",
+"es": "Comida rápida, patatas, hash browns, piezas redondas o tortita",
+"de": "Fast Food, Kartoffeln, Hash Browns, runde Stücke oder Patty",
+"pt": "Fast food, batatas, hash browns, pedaços redondos ou bolinho achatado"
+},
+"5669": {
+"it": "Fast food, quesadilla, con pollo",
+"fr": "Fast-food, quesadilla, au poulet",
+"es": "Comida rápida, quesadilla, con pollo",
+"de": "Fast Food, Quesadilla, mit Hähnchen",
+"pt": "Fast food, quesadilla, com frango"
+},
+"5670": {
+"it": "Fast food, panino con roast beef, semplice",
+"fr": "Fast-food, sandwich au rosbif, nature",
+"es": "Comida rápida, sándwich de rosbif, sencillo",
+"de": "Fast Food, Roastbeef-Sandwich, einfach",
+"pt": "Fast food, sanduíche de rosbife, simples"
+},
+"5671": {
+"it": "Fast food, gamberi, impanati e fritti",
+"fr": "Fast-food, crevettes, panées et frites",
+"es": "Comida rápida, gambas, empanadas y fritas",
+"de": "Fast Food, Garnelen, paniert und frittiert",
+"pt": "Fast food, camarões, empanados e fritos"
+},
+"5672": {
+"it": "Fast food, frullato di fragola e banana preparato con ghiaccio e yogurt a basso contenuto di grassi",
+"fr": "Fast-food, smoothie fraise-banane préparé avec de la glace et du yaourt allégé",
+"es": "Comida rápida, batido de fresa y plátano preparado con hielo y yogur bajo en grasa",
+"de": "Fast Food, Erdbeer-Bananen-Smoothie, mit Eis und fettarmem Joghurt zubereitet",
+"pt": "Fast food, vitamina de morango e banana preparada com gelo e iogurte com baixo teor de gordura"
+},
+"5673": {
+"it": "Fast food, panino submarine, pancetta, lattuga e pomodoro su pane bianco",
+"fr": "Fast-food, sandwich sous-marin, lard (bacon), laitue et tomate sur pain blanc",
+"es": "Comida rápida, sándwich submarino, beicon, lechuga y tomate en pan blanco",
+"de": "Fast Food, Submarine-Sandwich, Speck, Salat und Tomate auf Weißbrot",
+"pt": "Fast food, sanduíche submarino, bacon, alface e tomate no pão branco"
+},
+"5674": {
+"it": "Fast food, panino submarine, salumi misti su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, charcuterie assortie sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, embutidos variados en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Aufschnitt auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, frios variados no pão branco com alface e tomate"
+},
+"5675": {
+"it": "Fast food, panino submarine, prosciutto su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, jambon sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, jamón en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Schinken auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, presunto no pão branco com alface e tomate"
+},
+"5676": {
+"it": "Fast food, panino submarine, polpette alla marinara su pane bianco",
+"fr": "Fast-food, sandwich sous-marin, boulettes de viande marinara sur pain blanc",
+"es": "Comida rápida, sándwich submarino, albóndigas a la marinera en pan blanco",
+"de": "Fast Food, Submarine-Sandwich, Fleischbällchen Marinara auf Weißbrot",
+"pt": "Fast food, sanduíche submarino, almôndegas ao molho marinara no pão branco"
+},
+"5677": {
+"it": "Fast food, panino submarine, pollo arrosto al forno su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, poulet rôti au four sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, pollo asado al horno en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, gebratenes Hähnchen aus dem Ofen auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, frango assado no forno no pão branco com alface e tomate"
+},
+"5678": {
+"it": "Fast food, panino submarine, roast beef su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, rosbif sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, rosbif en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Roastbeef auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, rosbife no pão branco com alface e tomate"
+},
+"5679": {
+"it": "Fast food, panino submarine, bistecca e formaggio su pane bianco con formaggio, lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, steak et fromage sur pain blanc avec fromage, laitue et tomate",
+"es": "Comida rápida, sándwich submarino, filete y queso en pan blanco con queso, lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Steak und Käse auf Weißbrot mit Käse, Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, bife e queijo no pão branco com queijo, alface e tomate"
+},
+"5680": {
+"it": "Fast food, panino submarine, pollo teriyaki con cipolla dolce su pane bianco con lattuga, pomodoro e salsa di cipolla dolce",
+"fr": "Fast-food, sandwich sous-marin, poulet teriyaki à l'oignon doux sur pain blanc avec laitue, tomate et sauce à l'oignon doux",
+"es": "Comida rápida, sándwich submarino, pollo teriyaki con cebolla dulce en pan blanco con lechuga, tomate y salsa de cebolla dulce",
+"de": "Fast Food, Submarine-Sandwich, Hähnchen Teriyaki mit süßer Zwiebel auf Weißbrot mit Salat, Tomate und süßer Zwiebelsauce",
+"pt": "Fast food, sanduíche submarino, frango teriyaki com cebola doce no pão branco com alface, tomate e molho de cebola doce"
+},
+"5681": {
+"it": "Fast food, panino submarine, tonno su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, thon sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, atún en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Thunfisch auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, atum no pão branco com alface e tomate"
+},
+"5682": {
+"it": "Fast food, panino submarine, petto di tacchino su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, blanc de dinde sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, pechuga de pavo en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Putenbrust auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, peito de peru no pão branco com alface e tomate"
+},
+"5683": {
+"it": "Fast food, panino submarine, tacchino, roast beef e prosciutto su pane bianco con lattuga e pomodoro",
+"fr": "Fast-food, sandwich sous-marin, dinde, rosbif et jambon sur pain blanc avec laitue et tomate",
+"es": "Comida rápida, sándwich submarino, pavo, rosbif y jamón en pan blanco con lechuga y tomate",
+"de": "Fast Food, Submarine-Sandwich, Pute, Roastbeef und Schinken auf Weißbrot mit Salat und Tomate",
+"pt": "Fast food, sanduíche submarino, peru, rosbife e presunto no pão branco com alface e tomate"
+},
+"5684": {
+"it": "Fast food, sundae, caramello",
+"fr": "Fast-food, sundae, caramel",
+"es": "Comida rápida, sundae, caramelo",
+"de": "Fast Food, Eisbecher (Sundae), Karamell",
+"pt": "Fast food, sundae, caramelo"
+},
+"5685": {
+"it": "Fast food, sundae, cioccolato caldo (hot fudge)",
+"fr": "Fast-food, sundae, fudge chaud au chocolat",
+"es": "Comida rápida, sundae, fudge de chocolate caliente",
+"de": "Fast Food, Eisbecher (Sundae), heiße Schokoladensauce (Hot Fudge)",
+"pt": "Fast food, sundae, calda quente de chocolate (hot fudge)"
+},
+"5686": {
+"it": "Fast food, sundae, fragola",
+"fr": "Fast-food, sundae, fraise",
+"es": "Comida rápida, sundae, fresa",
+"de": "Fast Food, Eisbecher (Sundae), Erdbeer",
+"pt": "Fast food, sundae, morango"
+},
+"5687": {
+"it": "Fast food, taco con manzo, formaggio e lattuga, guscio croccante",
+"fr": "Fast-food, taco au bœuf, fromage et laitue, coque croustillante",
+"es": "Comida rápida, taco de res con queso y lechuga, tortilla dura",
+"de": "Fast Food, Taco mit Rindfleisch, Käse und Salat, harte Schale",
+"pt": "Fast food, taco com carne bovina, queijo e alface, casca dura"
+},
+"5688": {
+"it": "Fast food, taco con manzo, formaggio e lattuga, morbido",
+"fr": "Fast-food, taco au bœuf, fromage et laitue, souple",
+"es": "Comida rápida, taco de res con queso y lechuga, blando",
+"de": "Fast Food, Taco mit Rindfleisch, Käse und Salat, weich",
+"pt": "Fast food, taco com carne bovina, queijo e alface, macio"
+},
+"5689": {
+"it": "Fast food, taco con pollo, lattuga e formaggio, morbido",
+"fr": "Fast-food, taco au poulet, laitue et fromage, souple",
+"es": "Comida rápida, taco de pollo con lechuga y queso, blando",
+"de": "Fast Food, Taco mit Hähnchen, Salat und Käse, weich",
+"pt": "Fast food, taco com frango, alface e queijo, macio"
+},
+"5690": {
+"it": "Fast food, gelato alla vaniglia soft, light, con cono",
+"fr": "Fast-food, glace à l'italienne à la vanille, allégée, avec cornet",
+"es": "Comida rápida, helado blando de vainilla, light, con cono",
+"de": "Fast Food, Softeis Vanille, leicht, mit Waffel",
+"pt": "Fast food, sorvete de máquina de baunilha, light, com casquinha"
+},
+"5691": {
+"it": "Lardo dorsale (fat back), cotto",
+"fr": "Lard dorsal (fat back), cuit",
+"es": "Tocino de lomo (fat back), cocido",
+"de": "Rückenspeck (Fat Back), gekocht",
+"pt": "Toucinho do lombo (fat back), cozido"
+},
+"5692": {
+"it": "Gelato senza grassi, senza zuccheri aggiunti, gusti diversi dal cioccolato",
+"fr": "Glace sans matières grasses, sans sucre ajouté, parfums autres que chocolat",
+"es": "Helado sin grasa, sin azúcar añadido, sabores distintos del chocolate",
+"de": "Fettfreies Eis, ohne Zuckerzusatz, andere Sorten als Schokolade",
+"pt": "Sorvete sem gordura, sem açúcar adicionado, sabores exceto chocolate"
+},
+"5693": {
+"it": "Grasso, sego di manzo",
+"fr": "Graisse, suif de bœuf",
+"es": "Grasa, sebo de res",
+"de": "Fett, Rindertalg",
+"pt": "Gordura, sebo bovino"
+},
+"5694": {
+"it": "Grasso, pollo",
+"fr": "Graisse, poulet",
+"es": "Grasa, pollo",
+"de": "Fett, Huhn",
+"pt": "Gordura, frango"
+},
+"5695": {
+"it": "Grasso, oca",
+"fr": "Graisse, oie",
+"es": "Grasa, ganso",
+"de": "Fett, Gans",
+"pt": "Gordura, ganso"
+},
+"5696": {
+"it": "Grasso, tacchino",
+"fr": "Graisse, dinde",
+"es": "Grasa, pavo",
+"de": "Fett, Pute",
+"pt": "Gordura, peru"
+},
+"5697": {
+"it": "Fave, cotte",
+"fr": "Fèves, cuites",
+"es": "Habas, cocidas",
+"de": "Dicke Bohnen, gekocht",
+"pt": "Favas, cozidas"
+},
+"5698": {
+"it": "Feijoa, cruda",
+"fr": "Feijoa, crue",
+"es": "Feijoa, cruda",
+"de": "Feijoa, roh",
+"pt": "Feijoa, crua"
+},
+"5699": {
+"it": "Finocchio, bulbo, cotto",
+"fr": "Fenouil, bulbe, cuit",
+"es": "Hinojo, bulbo, cocido",
+"de": "Fenchel, Knolle, gekocht",
+"pt": "Erva-doce, bulbo, cozido"
+},
+"5700": {
+"it": "Finocchio, bulbo, crudo",
+"fr": "Fenouil, bulbe, cru",
+"es": "Hinojo, bulbo, crudo",
+"de": "Fenchel, Knolle, roh",
+"pt": "Erva-doce, bulbo, cru"
+},
+"5701": {
+"it": "Finocchio, bulbo, crudo",
+"fr": "Fenouil, bulbe, cru",
+"es": "Hinojo, bulbo, crudo",
+"de": "Fenchel, Knolle, roh",
+"pt": "Erva-doce, bulbo, cru"
+},
+"5702": {
+"it": "Felci fiddlehead, surgelate, non preparate",
+"fr": "Crosses de fougère (fiddleheads), surgelées, non préparées",
+"es": "Helechos fiddlehead, congelados, sin preparar",
+"de": "Farnspitzen (Fiddleheads), tiefgekühlt, unzubereitet",
+"pt": "Samambaia fiddlehead, congelada, não preparada"
+},
+"5703": {
+"it": "Felci fiddlehead, crude",
+"fr": "Crosses de fougère (fiddleheads), crues",
+"es": "Helechos fiddlehead, crudos",
+"de": "Farnspitzen (Fiddleheads), roh",
+"pt": "Samambaia fiddlehead, crua"
+},
+"5704": {
+"it": "Fico, in scatola",
+"fr": "Figue, en conserve",
+"es": "Higo, en conserva",
+"de": "Feige, aus der Dose",
+"pt": "Figo, enlatado"
+},
+"5705": {
+"it": "Fico, secco",
+"fr": "Figue, séchée",
+"es": "Higo, seco",
+"de": "Feige, getrocknet",
+"pt": "Figo, seco"
+},
+"5706": {
+"it": "Fico, crudo",
+"fr": "Figue, crue",
+"es": "Higo, crudo",
+"de": "Feige, roh",
+"pt": "Figo, cru"
+},
+"5707": {
+"it": "Fichi, in scatola, sciroppo extra denso, solidi e liquidi",
+"fr": "Figues, en conserve, sirop extra épais, solides et liquides",
+"es": "Higos, en conserva, en almíbar extra denso, sólidos y líquidos",
+"de": "Feigen, aus der Dose, extra dicker Sirup, feste und flüssige Bestandteile",
+"pt": "Figos, enlatados, em calda extra grossa, sólidos e líquidos"
+},
+"5708": {
+"it": "Fichi, in scatola, sciroppo denso, solidi e liquidi",
+"fr": "Figues, en conserve, sirop épais, solides et liquides",
+"es": "Higos, en conserva, en almíbar denso, sólidos y líquidos",
+"de": "Feigen, aus der Dose, dicker Sirup, feste und flüssige Bestandteile",
+"pt": "Figos, enlatados, em calda grossa, sólidos e líquidos"
+},
+"5709": {
+"it": "Fichi, in scatola, sciroppo leggero, solidi e liquidi",
+"fr": "Figues, en conserve, sirop léger, solides et liquides",
+"es": "Higos, en conserva, en almíbar ligero, sólidos y líquidos",
+"de": "Feigen, aus der Dose, leichter Sirup, feste und flüssige Bestandteile",
+"pt": "Figos, enlatados, em calda leve, sólidos e líquidos"
+},
+"5710": {
+"it": "Fichi, in scatola, in acqua, solidi e liquidi",
+"fr": "Figues, en conserve, au jus (à l'eau), solides et liquides",
+"es": "Higos, en conserva, en agua, sólidos y líquidos",
+"de": "Feigen, aus der Dose, in Wasser, feste und flüssige Bestandteile",
+"pt": "Figos, enlatados, em água, sólidos e líquidos"
+},
+"5711": {
+"it": "Fichi, secchi, stufati",
+"fr": "Figues, séchées, mijotées",
+"es": "Higos, secos, estofados",
+"de": "Feigen, getrocknet, geschmort",
+"pt": "Figos, secos, ensopados"
+},
+"5712": {
+"it": "Fichi, secchi, non cotti",
+"fr": "Figues, séchées, non cuites",
+"es": "Higos, secos, sin cocinar",
+"de": "Feigen, getrocknet, ungekocht",
+"pt": "Figos, secos, não cozidos"
+},
+"5713": {
+"it": "Fichi, crudi",
+"fr": "Figues, crues",
+"es": "Higos, crudos",
+"de": "Feigen, roh",
+"pt": "Figos, crus"
+},
+"5714": {
+"it": "Epilobio (fireweed), foglie, crude",
+"fr": "Épilobe (fireweed), feuilles, crues",
+"es": "Epilobio (fireweed), hojas, crudas",
+"de": "Schmalblättriges Weidenröschen (Fireweed), Blätter, roh",
+"pt": "Epilóbio (fireweed), folhas, cruas"
+},
+"5715": {
+"it": "Epilobio (fireweed), foglie giovani, crude (nativi dell'Alaska)",
+"fr": "Épilobe (fireweed), jeunes feuilles, crues (autochtones d'Alaska)",
+"es": "Epilobio (fireweed), hojas jóvenes, crudas (nativos de Alaska)",
+"de": "Schmalblättriges Weidenröschen (Fireweed), junge Blätter, roh (Alaska-Ureinwohner)",
+"pt": "Epilóbio (fireweed), folhas jovens, cruas (nativos do Alasca)"
+},
+"5716": {
+"it": "Firni, budino indiano",
+"fr": "Firni, pudding indien",
+"es": "Firni, pudin indio",
+"de": "Firni, indischer Pudding",
+"pt": "Firni, pudim indiano"
+},
+"5717": {
+"it": "Pesce e tagliatelle con salsa ai funghi",
+"fr": "Poisson et nouilles avec sauce aux champignons",
+"es": "Pescado y fideos con salsa de champiñones",
+"de": "Fisch und Nudeln mit Pilzsauce",
+"pt": "Peixe e macarrão com molho de cogumelos"
+},
+"5718": {
+"it": "Pesce e riso con salsa cremosa",
+"fr": "Poisson et riz avec sauce à la crème",
+"es": "Pescado y arroz con salsa cremosa",
+"de": "Fisch und Reis mit Sahnesauce",
+"pt": "Peixe e arroz com molho cremoso"
+},
+"5719": {
+"it": "Pesce e riso con salsa ai funghi",
+"fr": "Poisson et riz avec sauce aux champignons",
+"es": "Pescado y arroz con salsa de champiñones",
+"de": "Fisch und Reis mit Pilzsauce",
+"pt": "Peixe e arroz com molho de cogumelos"
+},
+"5720": {
+"it": "Pesce e riso con salsa a base di pomodoro",
+"fr": "Poisson et riz avec sauce à base de tomate",
+"es": "Pescado y arroz con salsa a base de tomate",
+"de": "Fisch und Reis mit Sauce auf Tomatenbasis",
+"pt": "Peixe e arroz com molho à base de tomate"
+},
+"5721": {
+"it": "Pesce e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza patate, salsa a base di pomodoro",
+"fr": "Poisson et légumes sauf carottes, brocolis et légumes à feuilles vert foncé; sans pommes de terre, sauce à base de tomate",
+"es": "Pescado y verduras excluyendo zanahorias, brócoli y hortalizas de hoja verde oscuro; sin patatas, salsa a base de tomate",
+"de": "Fisch und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Tomatenbasis",
+"pt": "Peixe e legumes exceto cenoura, brócolis e folhas verde-escuras; sem batata, molho à base de tomate"
+},
+"5722": {
+"it": "Pesce e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza patate, salsa a base di soia",
+"fr": "Poisson et légumes sauf carottes, brocolis et légumes à feuilles vert foncé; sans pommes de terre, sauce à base de soja",
+"es": "Pescado y verduras excluyendo zanahorias, brócoli y hortalizas de hoja verde oscuro; sin patatas, salsa a base de soja",
+"de": "Fisch und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Sojabasis",
+"pt": "Peixe e legumes exceto cenoura, brócolis e folhas verde-escuras; sem batata, molho à base de soja"
+},
+"5723": {
+"it": "Pesce e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza patate, salsa a base di soia",
+"fr": "Poisson et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sans pommes de terre, sauce à base de soja",
+"es": "Pescado y verduras incluyendo zanahorias, brócoli y/o hortalizas de hoja verde oscuro; sin patatas, salsa a base de soja",
+"de": "Fisch und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Sojabasis",
+"pt": "Peixe e legumes incluindo cenoura, brócolis e/ou folhas verde-escuras; sem batata, molho à base de soja"
+},
+"5724": {
+"it": "Pesce e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; senza patate, salsa a base di pomodoro",
+"fr": "Poisson et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sans pommes de terre, sauce à base de tomate",
+"es": "Pescado y verduras incluyendo zanahorias, brócoli y/o hortalizas de hoja verde oscuro; sin patatas, salsa a base de tomate",
+"de": "Fisch und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Tomatenbasis",
+"pt": "Peixe e legumes incluindo cenoura, brócolis e/ou folhas verde-escuras; sem batata, molho à base de tomate"
+},
+"5725": {
+"it": "Brodo di pesce",
+"fr": "Bouillon de poisson",
+"es": "Caldo de pescado",
+"de": "Fischbrühe",
+"pt": "Caldo de peixe"
+},
+"5726": {
+"it": "Curry di pesce",
+"fr": "Curry de poisson",
+"es": "Curry de pescado",
+"de": "Fischcurry",
+"pt": "Curry de peixe"
+},
+"5727": {
+"it": "Curry di pesce con riso",
+"fr": "Curry de poisson avec riz",
+"es": "Curry de pescado con arroz",
+"de": "Fischcurry mit Reis",
+"pt": "Curry de peixe com arroz"
+},
+"5728": {
+"it": "Filetto di pesce, fritto, come ingrediente per panini",
+"fr": "Filet de poisson, frit, comme ingrédient de sandwichs",
+"es": "Filete de pescado, frito, como ingrediente de sándwiches",
+"de": "Fischfilet, frittiert, als Zutat für Sandwiches",
+"pt": "Filé de peixe, frito, como ingrediente de sanduíches"
+},
+"5729": {
+"it": "Pesce in salsa al limone e burro con contorno di amidi, verdura, pasto surgelato",
+"fr": "Poisson en sauce citron-beurre avec féculent, légume, plat préparé surgelé",
+"es": "Pescado en salsa de limón y mantequilla con guarnición de almidón, verdura, comida congelada",
+"de": "Fisch in Zitronenbuttersauce mit Stärkebeilage, Gemüse, Tiefkühlgericht",
+"pt": "Peixe ao molho de limão e manteiga com acompanhamento de amido, legume, refeição congelada"
+},
+"5730": {
+"it": "Olio di pesce, fegato di merluzzo",
+"fr": "Huile de poisson, foie de morue",
+"es": "Aceite de pescado, hígado de bacalao",
+"de": "Fischöl, Dorschleber",
+"pt": "Óleo de peixe, fígado de bacalhau"
+},
+"5731": {
+"it": "Olio di pesce, aringa",
+"fr": "Huile de poisson, hareng",
+"es": "Aceite de pescado, arenque",
+"de": "Fischöl, Hering",
+"pt": "Óleo de peixe, arenque"
+},
+"5732": {
+"it": "Olio di pesce, menhaden",
+"fr": "Huile de poisson, menhaden",
+"es": "Aceite de pescado, menhaden",
+"de": "Fischöl, Menhaden",
+"pt": "Óleo de peixe, menhaden"
+},
+"5733": {
+"it": "Olio di pesce, menhaden, completamente idrogenato",
+"fr": "Huile de poisson, menhaden, totalement hydrogénée",
+"es": "Aceite de pescado, menhaden, totalmente hidrogenado",
+"de": "Fischöl, Menhaden, vollständig gehärtet",
+"pt": "Óleo de peixe, menhaden, totalmente hidrogenado"
+},
+"5734": {
+"it": "Olio di pesce, salmone",
+"fr": "Huile de poisson, saumon",
+"es": "Aceite de pescado, salmón",
+"de": "Fischöl, Lachs",
+"pt": "Óleo de peixe, salmão"
+},
+"5735": {
+"it": "Olio di pesce, sardina",
+"fr": "Huile de poisson, sardine",
+"es": "Aceite de pescado, sardina",
+"de": "Fischöl, Sardine",
+"pt": "Óleo de peixe, sardinha"
+},
+"5736": {
+"it": "Panino con pesce, fritto, da fast food",
+"fr": "Sandwich au poisson, frit, de fast-food",
+"es": "Sándwich de pescado, frito, de comida rápida",
+"de": "Fischsandwich, frittiert, aus dem Fast Food",
+"pt": "Sanduíche de peixe, frito, de fast food"
+},
+"5737": {
+"it": "Panino con pesce, fritto, da fast food, con formaggio",
+"fr": "Sandwich au poisson, frit, de fast-food, avec fromage",
+"es": "Sándwich de pescado, frito, de comida rápida, con queso",
+"de": "Fischsandwich, frittiert, aus dem Fast Food, mit Käse",
+"pt": "Sanduíche de peixe, frito, de fast food, com queijo"
+},
+"5738": {
+"it": "Panino con pesce, fritto, su panino integrale",
+"fr": "Sandwich au poisson, frit, sur pain complet",
+"es": "Sándwich de pescado, frito, en pan integral",
+"de": "Fischsandwich, frittiert, auf Vollkornbrötchen",
+"pt": "Sanduíche de peixe, frito, no pão integral"
+},
+"5739": {
+"it": "Panino con pesce, fritto, su panino integrale, con formaggio",
+"fr": "Sandwich au poisson, frit, sur pain complet, avec fromage",
+"es": "Sándwich de pescado, frito, en pan integral, con queso",
+"de": "Fischsandwich, frittiert, auf Vollkornbrötchen, mit Käse",
+"pt": "Sanduíche de peixe, frito, no pão integral, com queijo"
+},
+"5740": {
+"it": "Panino con pesce, fritto, su panino bianco",
+"fr": "Sandwich au poisson, frit, sur pain blanc",
+"es": "Sándwich de pescado, frito, en pan blanco",
+"de": "Fischsandwich, frittiert, auf Weißbrötchen",
+"pt": "Sanduíche de peixe, frito, no pão branco"
+},
+"5741": {
+"it": "Panino con pesce, fritto, su panino bianco, con formaggio",
+"fr": "Sandwich au poisson, frit, sur pain blanc, avec fromage",
+"es": "Sándwich de pescado, frito, en pan blanco, con queso",
+"de": "Fischsandwich, frittiert, auf Weißbrötchen, mit Käse",
+"pt": "Sanduíche de peixe, frito, no pão branco, com queijo"
+},
+"5742": {
+"it": "Panino con pesce, da mensa scolastica",
+"fr": "Sandwich au poisson, de cantine scolaire",
+"es": "Sándwich de pescado, de comedor escolar",
+"de": "Fischsandwich, aus der Schulkantine",
+"pt": "Sanduíche de peixe, de cantina escolar"
+},
+"5743": {
+"it": "Panino con pesce, alla griglia",
+"fr": "Sandwich au poisson, grillé",
+"es": "Sándwich de pescado, a la parrilla",
+"de": "Fischsandwich, gegrillt",
+"pt": "Sanduíche de peixe, grelhado"
+},
+"5744": {
+"it": "Panino con pesce, non specificato",
+"fr": "Sandwich au poisson, non spécifié",
+"es": "Sándwich de pescado, no especificado",
+"de": "Fischsandwich, nicht näher bezeichnet",
+"pt": "Sanduíche de peixe, não especificado"
+},
+"5745": {
+"it": "Salsa di pesce",
+"fr": "Sauce de poisson",
+"es": "Salsa de pescado",
+"de": "Fischsauce",
+"pt": "Molho de peixe"
+},
+"5746": {
+"it": "Spiedino di pesce con verdure, patate escluse",
+"fr": "Brochette de poisson aux légumes, pommes de terre exclues",
+"es": "Brocheta de pescado con verduras, excluyendo patatas",
+"de": "Fischspieß mit Gemüse, ohne Kartoffeln",
+"pt": "Espetinho de peixe com legumes, exceto batata"
+},
+"5747": {
+"it": "Timballo o mousse di pesce",
+"fr": "Timbale ou mousse de poisson",
+"es": "Timbal o mousse de pescado",
+"de": "Fischtimbale oder Fischmousse",
+"pt": "Timbale ou mousse de peixe"
+},
+"5748": {
+"it": "Pesce con salsa cremosa o besciamella, non tonno né aragosta",
+"fr": "Poisson avec sauce à la crème ou béchamel, hors thon ou homard",
+"es": "Pescado con salsa cremosa o bechamel, no atún ni langosta",
+"de": "Fisch mit Sahne- oder Béchamelsauce, nicht Thunfisch oder Hummer",
+"pt": "Peixe com molho cremoso ou molho branco, exceto atum ou lagosta"
+},
+"5749": {
+"it": "Pesce con salsa a base di pomodoro",
+"fr": "Poisson avec sauce à base de tomate",
+"es": "Pescado con salsa a base de tomate",
+"de": "Fisch mit Sauce auf Tomatenbasis",
+"pt": "Peixe com molho à base de tomate"
+},
+"5750": {
+"it": "Wrap con pesce",
+"fr": "Wrap au poisson",
+"es": "Wrap de pescado",
+"de": "Fisch-Wrap",
+"pt": "Wrap de peixe"
+},
+"5751": {
+"it": "Pesce, acciuga",
+"fr": "Poisson, anchois",
+"es": "Pescado, anchoa",
+"de": "Fisch, Sardelle",
+"pt": "Peixe, anchova"
+},
+"5752": {
+"it": "Pesce, acciuga, europea, in scatola sott'olio, solidi sgocciolati",
+"fr": "Poisson, anchois, européen, en conserve à l'huile, solides égouttés",
+"es": "Pescado, anchoa, europea, en conserva en aceite, sólidos escurridos",
+"de": "Fisch, Sardelle, europäisch, aus der Dose in Öl, abgetropfte Feststoffe",
+"pt": "Peixe, anchova, europeia, enlatada em óleo, sólidos escorridos"
+},
+"5753": {
+"it": "Pesce, acciuga, europea, cruda",
+"fr": "Poisson, anchois, européen, cru",
+"es": "Pescado, anchoa, europea, cruda",
+"de": "Fisch, Sardelle, europäisch, roh",
+"pt": "Peixe, anchova, europeia, crua"
+},
+"5754": {
+"it": "Pesce, spigola, al forno o alla griglia",
+"fr": "Poisson, bar, cuit au four ou grillé",
+"es": "Pescado, lubina, al horno o a la parrilla",
+"de": "Fisch, Barsch, gebacken oder gegrillt",
+"pt": "Peixe, robalo, assado no forno ou grelhado"
+},
+"5755": {
+"it": "Pesce, spigola, al forno o alla griglia, impanata",
+"fr": "Poisson, bar, cuit au four ou grillé, pané",
+"es": "Pescado, lubina, al horno o a la parrilla, rebozada",
+"de": "Fisch, Barsch, gebacken oder gegrillt, paniert",
+"pt": "Peixe, robalo, assado no forno ou grelhado, empanado"
+},
+"5756": {
+"it": "Pesce, persico trota, specie miste, crudo",
+"fr": "Poisson, achigan, espèces mélangées, cru",
+"es": "Pescado, perca negra, especies mixtas, cruda",
+"de": "Fisch, Forellenbarsch, gemischte Arten, roh",
+"pt": "Peixe, achigã, espécies mistas, cru"
+},
+"5757": {
+"it": "Pesce, persico trota, specie miste, cotto, a calore secco",
+"fr": "Poisson, achigan, espèces mélangées, cuit, à la chaleur sèche",
+"es": "Pescado, perca negra, especies mixtas, cocida, con calor seco",
+"de": "Fisch, Forellenbarsch, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, achigã, espécies mistas, cozido, com calor seco"
+},
+"5758": {
+"it": "Pesce, spigola, fritta",
+"fr": "Poisson, bar, frit",
+"es": "Pescado, lubina, frita",
+"de": "Fisch, Barsch, frittiert",
+"pt": "Peixe, robalo, frito"
+},
+"5759": {
+"it": "Pesce, spigola, alla griglia",
+"fr": "Poisson, bar, grillé",
+"es": "Pescado, lubina, a la parrilla",
+"de": "Fisch, Barsch, gegrillt",
+"pt": "Peixe, robalo, grelhado"
+},
+"5760": {
+"it": "Pesce, spigola, non specificata",
+"fr": "Poisson, bar, non spécifié",
+"es": "Pescado, lubina, no especificada",
+"de": "Fisch, Barsch, nicht näher bezeichnet",
+"pt": "Peixe, robalo, não especificado"
+},
+"5761": {
+"it": "Pesce, spigola, al vapore",
+"fr": "Poisson, bar, cuit à la vapeur",
+"es": "Pescado, lubina, al vapor",
+"de": "Fisch, Barsch, gedämpft",
+"pt": "Peixe, robalo, cozido no vapor"
+},
+"5762": {
+"it": "Pesce, spigola striata, cotta, a calore secco",
+"fr": "Poisson, bar rayé, cuit, à la chaleur sèche",
+"es": "Pescado, lubina rayada, cocida, con calor seco",
+"de": "Fisch, Streifenbarsch, gekocht, trockene Hitze",
+"pt": "Peixe, robalo-listrado, cozido, com calor seco"
+},
+"5763": {
+"it": "Pesce, spigola striata, cruda",
+"fr": "Poisson, bar rayé, cru",
+"es": "Pescado, lubina rayada, cruda",
+"de": "Fisch, Streifenbarsch, roh",
+"pt": "Peixe, robalo-listrado, cru"
+},
+"5764": {
+"it": "Pesce, blackfish, intero (nativi dell'Alaska)",
+"fr": "Poisson, blackfish, entier (autochtones d'Alaska)",
+"es": "Pescado, blackfish, entero (nativos de Alaska)",
+"de": "Fisch, Blackfish, ganz (Alaska-Ureinwohner)",
+"pt": "Peixe, blackfish, inteiro (nativos do Alasca)"
+},
+"5765": {
+"it": "Pesce, pesce serra, cotto, a calore secco",
+"fr": "Poisson, tassergal, cuit, à la chaleur sèche",
+"es": "Pescado, anchoa de banco, cocida, con calor seco",
+"de": "Fisch, Blaufisch, gekocht, trockene Hitze",
+"pt": "Peixe, enchova, cozida, com calor seco"
+},
+"5766": {
+"it": "Pesce, pesce serra, crudo",
+"fr": "Poisson, tassergal, cru",
+"es": "Pescado, anchoa de banco, cruda",
+"de": "Fisch, Blaufisch, roh",
+"pt": "Peixe, enchova, crua"
+},
+"5767": {
+"it": "Pesce, bottatrice, cotta, a calore secco",
+"fr": "Poisson, lotte de rivière, cuite, à la chaleur sèche",
+"es": "Pescado, lota, cocida, con calor seco",
+"de": "Fisch, Quappe, gekocht, trockene Hitze",
+"pt": "Peixe, lota, cozido, com calor seco"
+},
+"5768": {
+"it": "Pesce, bottatrice, cruda",
+"fr": "Poisson, lotte de rivière, crue",
+"es": "Pescado, lota, cruda",
+"de": "Fisch, Quappe, roh",
+"pt": "Peixe, lota, cru"
+},
+"5769": {
+"it": "Pesce, pesce burro, cotto, a calore secco",
+"fr": "Poisson, stromatée, cuite, à la chaleur sèche",
+"es": "Pescado, pez mantequilla, cocido, con calor seco",
+"de": "Fisch, Butterfisch, gekocht, trockene Hitze",
+"pt": "Peixe, peixe-manteiga, cozido, com calor seco"
+},
+"5770": {
+"it": "Pesce, pesce burro, crudo",
+"fr": "Poisson, stromatée, crue",
+"es": "Pescado, pez mantequilla, crudo",
+"de": "Fisch, Butterfisch, roh",
+"pt": "Peixe, peixe-manteiga, cru"
+},
+"5771": {
+"it": "Pesce, tortino o polpetta",
+"fr": "Poisson, galette ou croquette",
+"es": "Pescado, hamburguesa o croqueta",
+"de": "Fisch, Fischfrikadelle",
+"pt": "Peixe, bolinho ou hambúrguer"
+},
+"5772": {
+"it": "Pesce, in scatola",
+"fr": "Poisson, en conserve",
+"es": "Pescado, en conserva",
+"de": "Fisch, aus der Dose",
+"pt": "Peixe, enlatado"
+},
+"5773": {
+"it": "Pesce, carpa",
+"fr": "Poisson, carpe",
+"es": "Pescado, carpa",
+"de": "Fisch, Karpfen",
+"pt": "Peixe, carpa"
+},
+"5774": {
+"it": "Pesce, carpa, cotta, a calore secco",
+"fr": "Poisson, carpe, cuite, à la chaleur sèche",
+"es": "Pescado, carpa, cocida, con calor seco",
+"de": "Fisch, Karpfen, gekocht, trockene Hitze",
+"pt": "Peixe, carpa, cozido, com calor seco"
+},
+"5775": {
+"it": "Pesce, carpa, cruda",
+"fr": "Poisson, carpe, crue",
+"es": "Pescado, carpa, cruda",
+"de": "Fisch, Karpfen, roh",
+"pt": "Peixe, carpa, cru"
+},
+"5776": {
+"it": "Pesce, pesce gatto, al forno o alla griglia",
+"fr": "Poisson, poisson-chat, cuit au four ou grillé",
+"es": "Pescado, bagre, al horno o a la parrilla",
+"de": "Fisch, Wels, gebacken oder gegrillt",
+"pt": "Peixe, bagre, assado no forno ou grelhado"
+},
+"5777": {
+"it": "Pesce, pesce gatto, al forno o alla griglia, impanato",
+"fr": "Poisson, poisson-chat, cuit au four ou grillé, pané",
+"es": "Pescado, bagre, al horno o a la parrilla, rebozado",
+"de": "Fisch, Wels, gebacken oder gegrillt, paniert",
+"pt": "Peixe, bagre, assado no forno ou grelhado, empanado"
+},
+"5778": {
+"it": "Pesce, pesce gatto, channel, cotto, impanato e fritto",
+"fr": "Poisson, poisson-chat, channel, cuit, pané et frit",
+"es": "Pescado, bagre, channel, cocido, empanado y frito",
+"de": "Fisch, Wels, Channel, gekocht, paniert und frittiert",
+"pt": "Peixe, bagre, channel, cozido, empanado e frito"
+},
+"5779": {
+"it": "Pesce, pesce gatto, channel, d'allevamento, cotto, a calore secco",
+"fr": "Poisson, poisson-chat, channel, d'élevage, cuit, à la chaleur sèche",
+"es": "Pescado, bagre, channel, de cría, cocido, con calor seco",
+"de": "Fisch, Wels, Channel, aus Zucht, gekocht, trockene Hitze",
+"pt": "Peixe, bagre, channel, de criação, cozido, com calor seco"
+},
+"5780": {
+"it": "Pesce, pesce gatto, channel, d'allevamento, crudo",
+"fr": "Poisson, poisson-chat, channel, d'élevage, cru",
+"es": "Pescado, bagre, channel, de cría, crudo",
+"de": "Fisch, Wels, Channel, aus Zucht, roh",
+"pt": "Peixe, bagre, channel, de criação, cru"
+},
+"5781": {
+"it": "Pesce, pesce gatto, channel, selvatico, cotto, a calore secco",
+"fr": "Poisson, poisson-chat, channel, sauvage, cuit, à la chaleur sèche",
+"es": "Pescado, bagre, channel, salvaje, cocido, con calor seco",
+"de": "Fisch, Wels, Channel, Wildfang, gekocht, trockene Hitze",
+"pt": "Peixe, bagre, channel, selvagem, cozido, com calor seco"
+},
+"5782": {
+"it": "Pesce, pesce gatto, channel, selvatico, crudo",
+"fr": "Poisson, poisson-chat, channel, sauvage, cru",
+"es": "Pescado, bagre, channel, salvaje, crudo",
+"de": "Fisch, Wels, Channel, Wildfang, roh",
+"pt": "Peixe, bagre, channel, selvagem, cru"
+},
+"5783": {
+"it": "Pesce, pesce gatto, d'allevamento, crudo",
+"fr": "Poisson, poisson-chat, d'élevage, cru",
+"es": "Pescado, bagre, de cría, crudo",
+"de": "Fisch, Wels, aus Zucht, roh",
+"pt": "Peixe, bagre, de criação, cru"
+},
+"5784": {
+"it": "Pesce, pesce gatto, fritto",
+"fr": "Poisson, poisson-chat, frit",
+"es": "Pescado, bagre, frito",
+"de": "Fisch, Wels, frittiert",
+"pt": "Peixe, bagre, frito"
+},
+"5785": {
+"it": "Pesce, pesce gatto, alla griglia",
+"fr": "Poisson, poisson-chat, grillé",
+"es": "Pescado, bagre, a la parrilla",
+"de": "Fisch, Wels, gegrillt",
+"pt": "Peixe, bagre, grelhado"
+},
+"5786": {
+"it": "Pesce, pesce gatto, non specificato",
+"fr": "Poisson, poisson-chat, non spécifié",
+"es": "Pescado, bagre, no especificado",
+"de": "Fisch, Wels, nicht näher bezeichnet",
+"pt": "Peixe, bagre, não especificado"
+},
+"5787": {
+"it": "Pesce, pesce gatto, al vapore",
+"fr": "Poisson, poisson-chat, cuit à la vapeur",
+"es": "Pescado, bagre, al vapor",
+"de": "Fisch, Wels, gedämpft",
+"pt": "Peixe, bagre, cozido no vapor"
+},
+"5788": {
+"it": "Pesce, caviale, nero e rosso, granulare",
+"fr": "Poisson, caviar, noir et rouge, en grains",
+"es": "Pescado, caviar, negro y rojo, granulado",
+"de": "Fisch, Kaviar, schwarz und rot, körnig",
+"pt": "Peixe, caviar, preto e vermelho, granulado"
+},
+"5789": {
+"it": "Pesce, cisco (coregone), crudo",
+"fr": "Poisson, cisco (corégone), cru",
+"es": "Pescado, cisco (coregono), crudo",
+"de": "Fisch, Cisco (Renke), roh",
+"pt": "Peixe, cisco (coregono), cru"
+},
+"5790": {
+"it": "Pesce, cisco (coregone), affumicato",
+"fr": "Poisson, cisco (corégone), fumé",
+"es": "Pescado, cisco (coregono), ahumado",
+"de": "Fisch, Cisco (Renke), geräuchert",
+"pt": "Peixe, cisco (coregono), defumado"
+},
+"5791": {
+"it": "Pesce, merluzzo atlantico, in scatola, solidi e liquidi",
+"fr": "Poisson, morue de l'Atlantique, en conserve, solides et liquides",
+"es": "Pescado, bacalao del Atlántico, en conserva, sólidos y líquidos",
+"de": "Fisch, Atlantischer Kabeljau, aus der Dose, feste und flüssige Bestandteile",
+"pt": "Peixe, bacalhau do Atlântico, enlatado, sólidos e líquidos"
+},
+"5792": {
+"it": "Pesce, merluzzo atlantico, cotto, a calore secco",
+"fr": "Poisson, morue de l'Atlantique, cuite, à la chaleur sèche",
+"es": "Pescado, bacalao del Atlántico, cocido, con calor seco",
+"de": "Fisch, Atlantischer Kabeljau, gekocht, trockene Hitze",
+"pt": "Peixe, bacalhau do Atlântico, cozido, com calor seco"
+},
+"5793": {
+"it": "Pesce, merluzzo atlantico, secco e salato",
+"fr": "Poisson, morue de l'Atlantique, séchée et salée",
+"es": "Pescado, bacalao del Atlántico, seco y salado",
+"de": "Fisch, Atlantischer Kabeljau, getrocknet und gesalzen",
+"pt": "Peixe, bacalhau do Atlântico, seco e salgado"
+},
+"5794": {
+"it": "Pesce, merluzzo atlantico, crudo",
+"fr": "Poisson, morue de l'Atlantique, crue",
+"es": "Pescado, bacalao del Atlántico, crudo",
+"de": "Fisch, Atlantischer Kabeljau, roh",
+"pt": "Peixe, bacalhau do Atlântico, cru"
+},
+"5795": {
+"it": "Pesce, merluzzo atlantico, pescato in natura, crudo",
+"fr": "Poisson, morue de l'Atlantique, sauvage, crue",
+"es": "Pescado, bacalao del Atlántico, de pesca silvestre, crudo",
+"de": "Fisch, Atlantischer Kabeljau, Wildfang, roh",
+"pt": "Peixe, bacalhau do Atlântico, de captura selvagem, cru"
+},
+"5796": {
+"it": "Pesce, merluzzo, al forno o alla griglia",
+"fr": "Poisson, morue, cuite au four ou grillée",
+"es": "Pescado, bacalao, al horno o a la parrilla",
+"de": "Fisch, Kabeljau, gebacken oder gegrillt",
+"pt": "Peixe, bacalhau, assado no forno ou grelhado"
+},
+"5797": {
+"it": "Pesce, merluzzo, al forno o alla griglia, impanato",
+"fr": "Poisson, morue, cuite au four ou grillée, panée",
+"es": "Pescado, bacalao, al horno o a la parrilla, rebozado",
+"de": "Fisch, Kabeljau, gebacken oder gegrillt, paniert",
+"pt": "Peixe, bacalhau, assado no forno ou grelhado, empanado"
+},
+"5798": {
+"it": "Pesce, merluzzo, fritto",
+"fr": "Poisson, morue, frite",
+"es": "Pescado, bacalao, frito",
+"de": "Fisch, Kabeljau, frittiert",
+"pt": "Peixe, bacalhau, frito"
+},
+"5799": {
+"it": "Pesce, merluzzo, alla griglia",
+"fr": "Poisson, morue, grillée",
+"es": "Pescado, bacalao, a la parrilla",
+"de": "Fisch, Kabeljau, gegrillt",
+"pt": "Peixe, bacalhau, grelhado"
+},
+"5800": {
+"it": "Pesce, merluzzo, non specificato",
+"fr": "Poisson, morue, non spécifiée",
+"es": "Pescado, bacalao, no especificado",
+"de": "Fisch, Kabeljau, nicht näher bezeichnet",
+"pt": "Peixe, bacalhau, não especificado"
+},
+"5801": {
+"it": "Pesce, merluzzo del Pacifico, cotto",
+"fr": "Poisson, morue du Pacifique, cuite",
+"es": "Pescado, bacalao del Pacífico, cocido",
+"de": "Fisch, Pazifischer Kabeljau, gekocht",
+"pt": "Peixe, bacalhau do Pacífico, cozido"
+},
+"5802": {
+"it": "Pesce, merluzzo del Pacifico, cotto, a calore secco (può contenere additivi per trattenere l'umidità)",
+"fr": "Poisson, morue du Pacifique, cuite, à la chaleur sèche (peut contenir des additifs pour retenir l'humidité)",
+"es": "Pescado, bacalao del Pacífico, cocido, con calor seco (puede contener aditivos para retener la humedad)",
+"de": "Fisch, Pazifischer Kabeljau, gekocht, trockene Hitze (kann Zusatzstoffe zur Feuchtigkeitsbindung enthalten)",
+"pt": "Peixe, bacalhau do Pacífico, cozido, com calor seco (pode conter aditivos para reter a umidade)"
+},
+"5803": {
+"it": "Pesce, merluzzo del Pacifico, crudo (può essere stato congelato in precedenza)",
+"fr": "Poisson, morue du Pacifique, crue (peut avoir été préalablement congelé)",
+"es": "Pescado, bacalao del Pacífico, crudo (puede haber sido congelado previamente)",
+"de": "Fisch, Pazifischer Kabeljau, roh (kann zuvor eingefroren worden sein)",
+"pt": "Peixe, bacalhau do Pacífico, cru (pode ter sido congelado anteriormente)"
+},
+"5804": {
+"it": "Pesce, merluzzo, al vapore",
+"fr": "Poisson, morue, cuite à la vapeur",
+"es": "Pescado, bacalao, al vapor",
+"de": "Fisch, Kabeljau, gedämpft",
+"pt": "Peixe, bacalhau, cozido no vapor"
+},
+"5805": {
+"it": "Pesce, cotto, come ingrediente",
+"fr": "Poisson, cuit, comme ingrédient",
+"es": "Pescado, cocido, como ingrediente",
+"de": "Fisch, gekocht, als Zutat",
+"pt": "Peixe, cozido, como ingrediente"
+},
+"5806": {
+"it": "Pesce, corvina",
+"fr": "Poisson, tambour",
+"es": "Pescado, corvina",
+"de": "Fisch, Umberfisch",
+"pt": "Peixe, corvina"
+},
+"5807": {
+"it": "Pesce, corvina atlantica, cotta, impanata e fritta",
+"fr": "Poisson, tambour de l'Atlantique, cuit, pané et frit",
+"es": "Pescado, corvina del Atlántico, cocida, empanada y frita",
+"de": "Fisch, Atlantischer Umberfisch, gekocht, paniert und frittiert",
+"pt": "Peixe, corvina do Atlântico, cozida, empanada e frita"
+},
+"5808": {
+"it": "Pesce, corvina atlantica, cruda",
+"fr": "Poisson, tambour de l'Atlantique, cru",
+"es": "Pescado, corvina del Atlántico, cruda",
+"de": "Fisch, Atlantischer Umberfisch, roh",
+"pt": "Peixe, corvina do Atlântico, crua"
+},
+"5809": {
+"it": "Pesce, brosmio, cotto, a calore secco",
+"fr": "Poisson, brosme, cuite, à la chaleur sèche",
+"es": "Pescado, brosmio, cocido, con calor seco",
+"de": "Fisch, Lumb, gekocht, trockene Hitze",
+"pt": "Peixe, brosmio, cozido, com calor seco"
+},
+"5810": {
+"it": "Pesce, brosmio, crudo",
+"fr": "Poisson, brosme, crue",
+"es": "Pescado, brosmio, crudo",
+"de": "Fisch, Lumb, roh",
+"pt": "Peixe, brosmio, cru"
+},
+"5811": {
+"it": "Pesce, devilfish, carne (nativi dell'Alaska)",
+"fr": "Poisson, devilfish, chair (autochtones d'Alaska)",
+"es": "Pescado, devilfish, carne (nativos de Alaska)",
+"de": "Fisch, Devilfish, Fleisch (Alaska-Ureinwohner)",
+"pt": "Peixe, devilfish, carne (nativos do Alasca)"
+},
+"5812": {
+"it": "Pesce, sciaena, d'acqua dolce, cotta, a calore secco",
+"fr": "Poisson, malachigan, d'eau douce, cuite, à la chaleur sèche",
+"es": "Pescado, roncador, de agua dulce, cocido, con calor seco",
+"de": "Fisch, Trommelfisch, Süßwasser, gekocht, trockene Hitze",
+"pt": "Peixe, corvina, de água doce, cozida, com calor seco"
+},
+"5813": {
+"it": "Pesce, sciaena, d'acqua dolce, cruda",
+"fr": "Poisson, malachigan, d'eau douce, crue",
+"es": "Pescado, roncador, de agua dulce, crudo",
+"de": "Fisch, Trommelfisch, Süßwasser, roh",
+"pt": "Peixe, corvina, de água doce, crua"
+},
+"5814": {
+"it": "Pesce, anguilla",
+"fr": "Poisson, anguille",
+"es": "Pescado, anguila",
+"de": "Fisch, Aal",
+"pt": "Peixe, enguia"
+},
+"5815": {
+"it": "Pesce, anguilla, specie miste, cotta, a calore secco",
+"fr": "Poisson, anguille, espèces mélangées, cuite, à la chaleur sèche",
+"es": "Pescado, anguila, especies mixtas, cocida, con calor seco",
+"de": "Fisch, Aal, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, enguia, espécies mistas, cozido, com calor seco"
+},
+"5816": {
+"it": "Pesce, anguilla, specie miste, cruda",
+"fr": "Poisson, anguille, espèces mélangées, crue",
+"es": "Pescado, anguila, especies mixtas, cruda",
+"de": "Fisch, Aal, gemischte Arten, roh",
+"pt": "Peixe, enguia, espécies mistas, cru"
+},
+"5817": {
+"it": "Pesce, bastoncini di pesce, surgelati, preparati",
+"fr": "Poisson, bâtonnets de poisson, surgelés, préparés",
+"es": "Pescado, palitos de pescado, congelados, preparados",
+"de": "Fisch, Fischstäbchen, tiefgekühlt, zubereitet",
+"pt": "Peixe, palitos de peixe, congelados, preparados"
+},
+"5818": {
+"it": "Pesce, pesce piatto (passera e sogliola), cotto, a calore secco",
+"fr": "Poisson, poisson plat (flet et sole), cuit, à la chaleur sèche",
+"es": "Pescado, pescado plano (platija y lenguado), cocido, con calor seco",
+"de": "Fisch, Plattfisch (Flunder und Seezunge), gekocht, trockene Hitze",
+"pt": "Peixe, peixe chato (linguado e solha), cozido, com calor seco"
+},
+"5819": {
+"it": "Pesce, pesce piatto (passera e sogliola), crudo",
+"fr": "Poisson, poisson plat (flet et sole), cru",
+"es": "Pescado, pescado plano (platija y lenguado), crudo",
+"de": "Fisch, Plattfisch (Flunder und Seezunge), roh",
+"pt": "Peixe, peixe chato (linguado e solha), cru"
+},
+"5820": {
+"it": "Pesce, passera, al forno o alla griglia",
+"fr": "Poisson, flet, cuit au four ou grillé",
+"es": "Pescado, platija, al horno o a la parrilla",
+"de": "Fisch, Flunder, gebacken oder gegrillt",
+"pt": "Peixe, linguado, assado no forno ou grelhado"
+},
+"5821": {
+"it": "Pesce, passera, al forno o alla griglia, impanata",
+"fr": "Poisson, flet, cuit au four ou grillé, pané",
+"es": "Pescado, platija, al horno o a la parrilla, rebozada",
+"de": "Fisch, Flunder, gebacken oder gegrillt, paniert",
+"pt": "Peixe, linguado, assado no forno ou grelhado, empanado"
+},
+"5822": {
+"it": "Pesce, passera, fritta",
+"fr": "Poisson, flet, frit",
+"es": "Pescado, platija, frita",
+"de": "Fisch, Flunder, frittiert",
+"pt": "Peixe, linguado, frito"
+},
+"5823": {
+"it": "Pesce, passera, alla griglia",
+"fr": "Poisson, flet, grillé",
+"es": "Pescado, platija, a la parrilla",
+"de": "Fisch, Flunder, gegrillt",
+"pt": "Peixe, linguado, grelhado"
+},
+"5824": {
+"it": "Pesce, passera, non specificata",
+"fr": "Poisson, flet, non spécifié",
+"es": "Pescado, platija, no especificada",
+"de": "Fisch, Flunder, nicht näher bezeichnet",
+"pt": "Peixe, linguado, não especificado"
+},
+"5825": {
+"it": "Pesce, passera, al vapore",
+"fr": "Poisson, flet, cuit à la vapeur",
+"es": "Pescado, platija, al vapor",
+"de": "Fisch, Flunder, gedämpft",
+"pt": "Peixe, linguado, cozido no vapor"
+},
+"5826": {
+"it": "Pesce, gefilte fish, di produzione industriale, ricetta dolce",
+"fr": "Poisson, gefilte fish, préparé industriellement, recette sucrée",
+"es": "Pescado, gefilte fish, de preparación industrial, receta dulce",
+"de": "Fisch, Gefilte Fisch, handelsüblich, süßes Rezept",
+"pt": "Peixe, gefilte fish, industrializado, receita doce"
+},
+"5827": {
+"it": "Pesce, cernia, specie miste, cotta, a calore secco",
+"fr": "Poisson, mérou, espèces mélangées, cuit, à la chaleur sèche",
+"es": "Pescado, mero, especies mixtas, cocido, con calor seco",
+"de": "Fisch, Zackenbarsch, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, garoupa, espécies mistas, cozida, com calor seco"
+},
+"5828": {
+"it": "Pesce, cernia, specie miste, cruda",
+"fr": "Poisson, mérou, espèces mélangées, cru",
+"es": "Pescado, mero, especies mixtas, crudo",
+"de": "Fisch, Zackenbarsch, gemischte Arten, roh",
+"pt": "Peixe, garoupa, espécies mistas, crua"
+},
+"5829": {
+"it": "Pesce, eglefino, al forno o alla griglia",
+"fr": "Poisson, églefin, cuit au four ou grillé",
+"es": "Pescado, eglefino, al horno o a la parrilla",
+"de": "Fisch, Schellfisch, gebacken oder gegrillt",
+"pt": "Peixe, hadoque, assado no forno ou grelhado"
+},
+"5830": {
+"it": "Pesce, eglefino, al forno o alla griglia, impanato",
+"fr": "Poisson, églefin, cuit au four ou grillé, pané",
+"es": "Pescado, eglefino, al horno o a la parrilla, rebozado",
+"de": "Fisch, Schellfisch, gebacken oder gegrillt, paniert",
+"pt": "Peixe, hadoque, assado no forno ou grelhado, empanado"
+},
+"5831": {
+"it": "Pesce, eglefino, cotto, a calore secco",
+"fr": "Poisson, églefin, cuit, à la chaleur sèche",
+"es": "Pescado, eglefino, cocido, con calor seco",
+"de": "Fisch, Schellfisch, gekocht, trockene Hitze",
+"pt": "Peixe, hadoque, cozido, com calor seco"
+},
+"5832": {
+"it": "Pesce, eglefino, fritto",
+"fr": "Poisson, églefin, frit",
+"es": "Pescado, eglefino, frito",
+"de": "Fisch, Schellfisch, frittiert",
+"pt": "Peixe, hadoque, frito"
+},
+"5833": {
+"it": "Pesce, eglefino, alla griglia",
+"fr": "Poisson, églefin, grillé",
+"es": "Pescado, eglefino, a la parrilla",
+"de": "Fisch, Schellfisch, gegrillt",
+"pt": "Peixe, hadoque, grelhado"
+},
+"5834": {
+"it": "Pesce, eglefino, non specificato",
+"fr": "Poisson, églefin, non spécifié",
+"es": "Pescado, eglefino, no especificado",
+"de": "Fisch, Schellfisch, nicht näher bezeichnet",
+"pt": "Peixe, hadoque, não especificado"
+},
+"5835": {
+"it": "Pesce, eglefino, crudo",
+"fr": "Poisson, églefin, cru",
+"es": "Pescado, eglefino, crudo",
+"de": "Fisch, Schellfisch, roh",
+"pt": "Peixe, hadoque, cru"
+},
+"5836": {
+"it": "Pesce, eglefino, affumicato",
+"fr": "Poisson, églefin, fumé",
+"es": "Pescado, eglefino, ahumado",
+"de": "Fisch, Schellfisch, geräuchert",
+"pt": "Peixe, hadoque, defumado"
+},
+"5837": {
+"it": "Pesce, eglefino, al vapore",
+"fr": "Poisson, églefin, cuit à la vapeur",
+"es": "Pescado, eglefino, al vapor",
+"de": "Fisch, Schellfisch, gedämpft",
+"pt": "Peixe, hadoque, cozido no vapor"
+},
+"5838": {
+"it": "Pesce, ippoglosso",
+"fr": "Poisson, flétan",
+"es": "Pescado, fletán",
+"de": "Fisch, Heilbutt",
+"pt": "Peixe, halibute"
+},
+"5839": {
+"it": "Pesce, ippoglosso, dell'Atlantico e del Pacifico, cotto, a calore secco",
+"fr": "Poisson, flétan, de l'Atlantique et du Pacifique, cuit, à la chaleur sèche",
+"es": "Pescado, fletán, del Atlántico y del Pacífico, cocido, con calor seco",
+"de": "Fisch, Heilbutt, Atlantik und Pazifik, gekocht, trockene Hitze",
+"pt": "Peixe, halibute, do Atlântico e do Pacífico, cozido, com calor seco"
+},
+"5840": {
+"it": "Pesce, ippoglosso, dell'Atlantico e del Pacifico, crudo",
+"fr": "Poisson, flétan, de l'Atlantique et du Pacifique, cru",
+"es": "Pescado, fletán, del Atlántico y del Pacífico, crudo",
+"de": "Fisch, Heilbutt, Atlantik und Pazifik, roh",
+"pt": "Peixe, halibute, do Atlântico e do Pacífico, cru"
+},
+"5841": {
+"it": "Pesce, ippoglosso, cotto, con pelle (nativi dell'Alaska)",
+"fr": "Poisson, flétan, cuit, avec peau (autochtones d'Alaska)",
+"es": "Pescado, fletán, cocido, con piel (nativos de Alaska)",
+"de": "Fisch, Heilbutt, gekocht, mit Haut (Alaska-Ureinwohner)",
+"pt": "Peixe, halibute, cozido, com pele (nativos do Alasca)"
+},
+"5842": {
+"it": "Pesce, ippoglosso della Groenlandia, cotto, a calore secco",
+"fr": "Poisson, flétan du Groenland, cuit, à la chaleur sèche",
+"es": "Pescado, fletán de Groenlandia, cocido, con calor seco",
+"de": "Fisch, Schwarzer Heilbutt (Grönland), gekocht, trockene Hitze",
+"pt": "Peixe, halibute da Groenlândia, cozido, com calor seco"
+},
+"5843": {
+"it": "Pesce, ippoglosso della Groenlandia, crudo",
+"fr": "Poisson, flétan du Groenland, cru",
+"es": "Pescado, fletán de Groenlandia, crudo",
+"de": "Fisch, Schwarzer Heilbutt (Grönland), roh",
+"pt": "Peixe, halibute da Groenlândia, cru"
+},
+"5844": {
+"it": "Pesce, ippoglosso, crudo, con pelle (nativi dell'Alaska)",
+"fr": "Poisson, flétan, cru, avec peau (autochtones d'Alaska)",
+"es": "Pescado, fletán, crudo, con piel (nativos de Alaska)",
+"de": "Fisch, Heilbutt, roh, mit Haut (Alaska-Ureinwohner)",
+"pt": "Peixe, halibute, cru, com pele (nativos do Alasca)"
+},
+"5845": {
+"it": "Pesce, aringa",
+"fr": "Poisson, hareng",
+"es": "Pescado, arenque",
+"de": "Fisch, Hering",
+"pt": "Peixe, arenque"
+},
+"5846": {
+"it": "Pesce, uova di aringa su kelp gigante, del Pacifico (nativi dell'Alaska)",
+"fr": "Poisson, œufs de hareng sur kelp géant, du Pacifique (autochtones d'Alaska)",
+"es": "Pescado, huevas de arenque sobre kelp gigante, del Pacífico (nativos de Alaska)",
+"de": "Fisch, Heringsrogen auf Riesentang, Pazifik (Alaska-Ureinwohner)",
+"pt": "Peixe, ovas de arenque sobre kelp gigante, do Pacífico (nativos do Alasca)"
+},
+"5847": {
+"it": "Pesce, uova di aringa, del Pacifico, secche (nativi dell'Alaska)",
+"fr": "Poisson, œufs de hareng, du Pacifique, séchés (autochtones d'Alaska)",
+"es": "Pescado, huevas de arenque, del Pacífico, secas (nativos de Alaska)",
+"de": "Fisch, Heringsrogen, Pazifik, getrocknet (Alaska-Ureinwohner)",
+"pt": "Peixe, ovas de arenque, do Pacífico, secas (nativos do Alasca)"
+},
+"5848": {
+"it": "Pesce, uova di aringa, del Pacifico, al naturale (nativi dell'Alaska)",
+"fr": "Poisson, œufs de hareng, du Pacifique, nature (autochtones d'Alaska)",
+"es": "Pescado, huevas de arenque, del Pacífico, natural (nativos de Alaska)",
+"de": "Fisch, Heringsrogen, Pazifik, natur (Alaska-Ureinwohner)",
+"pt": "Peixe, ovas de arenque, do Pacífico, natural (nativos do Alasca)"
+},
+"5849": {
+"it": "Pesce, aringa atlantica, cotta, a calore secco",
+"fr": "Poisson, hareng de l'Atlantique, cuit, à la chaleur sèche",
+"es": "Pescado, arenque del Atlántico, cocido, con calor seco",
+"de": "Fisch, Atlantischer Hering, gekocht, trockene Hitze",
+"pt": "Peixe, arenque do Atlântico, cozido, com calor seco"
+},
+"5850": {
+"it": "Pesce, aringa atlantica, affumicata (kippered)",
+"fr": "Poisson, hareng de l'Atlantique, fumé (kippered)",
+"es": "Pescado, arenque del Atlántico, ahumado (kippered)",
+"de": "Fisch, Atlantischer Hering, geräuchert (Kipper)",
+"pt": "Peixe, arenque do Atlântico, defumado (kippered)"
+},
+"5851": {
+"it": "Pesce, aringa atlantica, marinata",
+"fr": "Poisson, hareng de l'Atlantique, mariné",
+"es": "Pescado, arenque del Atlántico, en escabeche",
+"de": "Fisch, Atlantischer Hering, eingelegt",
+"pt": "Peixe, arenque do Atlântico, em escabeche"
+},
+"5852": {
+"it": "Pesce, aringa atlantica, cruda",
+"fr": "Poisson, hareng de l'Atlantique, cru",
+"es": "Pescado, arenque del Atlántico, crudo",
+"de": "Fisch, Atlantischer Hering, roh",
+"pt": "Peixe, arenque do Atlântico, cru"
+},
+"5853": {
+"it": "Pesce, aringa del Pacifico, cotta, a calore secco",
+"fr": "Poisson, hareng du Pacifique, cuit, à la chaleur sèche",
+"es": "Pescado, arenque del Pacífico, cocido, con calor seco",
+"de": "Fisch, Pazifischer Hering, gekocht, trockene Hitze",
+"pt": "Peixe, arenque do Pacífico, cozido, com calor seco"
+},
+"5854": {
+"it": "Pesce, aringa del Pacifico, polpa, essiccata all'aria, confezionata in olio (nativi dell'Alaska)",
+"fr": "Poisson, hareng du Pacifique, chair, séchée à l'air, conditionnée dans l'huile (autochtones d'Alaska)",
+"es": "Pescado, arenque del Pacífico, pulpa, secada al aire, envasada en aceite (nativos de Alaska)",
+"de": "Fisch, Pazifischer Hering, Fleisch, luftgetrocknet, in Öl verpackt (Alaska-Ureinwohner)",
+"pt": "Peixe, arenque do Pacífico, carne, seca ao ar, embalada em óleo (nativos do Alasca)"
+},
+"5855": {
+"it": "Pesce, aringa del Pacifico, cruda",
+"fr": "Poisson, hareng du Pacifique, cru",
+"es": "Pescado, arenque del Pacífico, crudo",
+"de": "Fisch, Pazifischer Hering, roh",
+"pt": "Peixe, arenque do Pacífico, cru"
+},
+"5856": {
+"it": "Pesce, molva, cotta, a calore secco",
+"fr": "Poisson, lingue, cuite, à la chaleur sèche",
+"es": "Pescado, maruca, cocida, con calor seco",
+"de": "Fisch, Leng, gekocht, trockene Hitze",
+"pt": "Peixe, ling, cozida, com calor seco"
+},
+"5857": {
+"it": "Pesce, molva, cruda",
+"fr": "Poisson, lingue, crue",
+"es": "Pescado, maruca, cruda",
+"de": "Fisch, Leng, roh",
+"pt": "Peixe, ling, crua"
+},
+"5858": {
+"it": "Pesce, lingcod, cotto, a calore secco",
+"fr": "Poisson, lingcod, cuit, à la chaleur sèche",
+"es": "Pescado, lingcod, cocido, con calor seco",
+"de": "Fisch, Lingcod, gekocht, trockene Hitze",
+"pt": "Peixe, lingcod, cozido, com calor seco"
+},
+"5859": {
+"it": "Pesce, lingcod, fegato (nativi dell'Alaska)",
+"fr": "Poisson, lingcod, foie (autochtones d'Alaska)",
+"es": "Pescado, lingcod, hígado (nativos de Alaska)",
+"de": "Fisch, Lingcod, Leber (Alaska-Ureinwohner)",
+"pt": "Peixe, lingcod, fígado (nativos do Alasca)"
+},
+"5860": {
+"it": "Pesce, lingcod, carne, crudo (nativi dell'Alaska)",
+"fr": "Poisson, lingcod, chair, cru (autochtones d'Alaska)",
+"es": "Pescado, lingcod, carne, crudo (nativos de Alaska)",
+"de": "Fisch, Lingcod, Fleisch, roh (Alaska-Ureinwohner)",
+"pt": "Peixe, lingcod, carne, cru (nativos do Alasca)"
+},
+"5861": {
+"it": "Pesce, lingcod, crudo",
+"fr": "Poisson, lingcod, cru",
+"es": "Pescado, lingcod, crudo",
+"de": "Fisch, Lingcod, roh",
+"pt": "Peixe, lingcod, cru"
+},
+"5862": {
+"it": "Pesce, sgombro atlantico, cotto, a calore secco",
+"fr": "Poisson, maquereau de l'Atlantique, cuit, à la chaleur sèche",
+"es": "Pescado, caballa del Atlántico, cocida, con calor seco",
+"de": "Fisch, Atlantische Makrele, gekocht, trockene Hitze",
+"pt": "Peixe, cavala do Atlântico, cozida, com calor seco"
+},
+"5863": {
+"it": "Pesce, sgombro atlantico, crudo",
+"fr": "Poisson, maquereau de l'Atlantique, cru",
+"es": "Pescado, caballa del Atlántico, cruda",
+"de": "Fisch, Atlantische Makrele, roh",
+"pt": "Peixe, cavala do Atlântico, crua"
+},
+"5864": {
+"it": "Pesce, sgombro, al forno o alla griglia",
+"fr": "Poisson, maquereau, cuit au four ou grillé",
+"es": "Pescado, caballa, al horno o a la parrilla",
+"de": "Fisch, Makrele, gebacken oder gegrillt",
+"pt": "Peixe, cavala, assada no forno ou grelhada"
+},
+"5865": {
+"it": "Pesce, sgombro, al forno o alla griglia, impanato",
+"fr": "Poisson, maquereau, cuit au four ou grillé, pané",
+"es": "Pescado, caballa, al horno o a la parrilla, rebozada",
+"de": "Fisch, Makrele, gebacken oder gegrillt, paniert",
+"pt": "Peixe, cavala, assada no forno ou grelhada, empanada"
+},
+"5866": {
+"it": "Pesce, sgombro, in scatola",
+"fr": "Poisson, maquereau, en conserve",
+"es": "Pescado, caballa, en conserva",
+"de": "Fisch, Makrele, aus der Dose",
+"pt": "Peixe, cavala, enlatada"
+},
+"5867": {
+"it": "Pesce, sgombro, fritto",
+"fr": "Poisson, maquereau, frit",
+"es": "Pescado, caballa, frita",
+"de": "Fisch, Makrele, frittiert",
+"pt": "Peixe, cavala, frita"
+},
+"5868": {
+"it": "Pesce, sgombro, alla griglia",
+"fr": "Poisson, maquereau, grillé",
+"es": "Pescado, caballa, a la parrilla",
+"de": "Fisch, Makrele, gegrillt",
+"pt": "Peixe, cavala, grelhada"
+},
+"5869": {
+"it": "Pesce, sgombro jack, in scatola, solidi sgocciolati",
+"fr": "Poisson, chinchard, en conserve, solides égouttés",
+"es": "Pescado, jurel, en conserva, sólidos escurridos",
+"de": "Fisch, Bastardmakrele, aus der Dose, abgetropfte Feststoffe",
+"pt": "Peixe, xerelete, enlatado, sólidos escorridos"
+},
+"5870": {
+"it": "Pesce, sgombro reale, cotto, a calore secco",
+"fr": "Poisson, thazard, cuit, à la chaleur sèche",
+"es": "Pescado, carite, cocido, con calor seco",
+"de": "Fisch, Königsmakrele, gekocht, trockene Hitze",
+"pt": "Peixe, cavala-real, cozida, com calor seco"
+},
+"5871": {
+"it": "Pesce, sgombro reale, crudo",
+"fr": "Poisson, thazard, cru",
+"es": "Pescado, carite, crudo",
+"de": "Fisch, Königsmakrele, roh",
+"pt": "Peixe, cavala-real, crua"
+},
+"5872": {
+"it": "Pesce, sgombro, non specificato",
+"fr": "Poisson, maquereau, non spécifié",
+"es": "Pescado, caballa, no especificada",
+"de": "Fisch, Makrele, nicht näher bezeichnet",
+"pt": "Peixe, cavala, não especificada"
+},
+"5873": {
+"it": "Pesce, sgombro del Pacifico e jack, specie miste, cotto, a calore secco",
+"fr": "Poisson, maquereau du Pacifique et chinchard, espèces mélangées, cuit, à la chaleur sèche",
+"es": "Pescado, caballa del Pacífico y jurel, especies mixtas, cocida, con calor seco",
+"de": "Fisch, Pazifische Makrele und Bastardmakrele, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, cavala do Pacífico e xerelete, espécies mistas, cozida, com calor seco"
+},
+"5874": {
+"it": "Pesce, sgombro del Pacifico e jack, specie miste, crudo",
+"fr": "Poisson, maquereau du Pacifique et chinchard, espèces mélangées, cru",
+"es": "Pescado, caballa del Pacífico y jurel, especies mixtas, cruda",
+"de": "Fisch, Pazifische Makrele und Bastardmakrele, gemischte Arten, roh",
+"pt": "Peixe, cavala do Pacífico e xerelete, espécies mistas, crua"
+},
+"5875": {
+"it": "Pesce, sgombro, salato",
+"fr": "Poisson, maquereau, salé",
+"es": "Pescado, caballa, salada",
+"de": "Fisch, Makrele, gesalzen",
+"pt": "Peixe, cavala, salgada"
+},
+"5876": {
+"it": "Pesce, sgombro spagnolo, cotto, a calore secco",
+"fr": "Poisson, maquereau espagnol, cuit, à la chaleur sèche",
+"es": "Pescado, carite atlántico, cocido, con calor seco",
+"de": "Fisch, Spanische Makrele, gekocht, trockene Hitze",
+"pt": "Peixe, serra, cozida, com calor seco"
+},
+"5877": {
+"it": "Pesce, sgombro spagnolo, crudo",
+"fr": "Poisson, maquereau espagnol, cru",
+"es": "Pescado, carite atlántico, crudo",
+"de": "Fisch, Spanische Makrele, roh",
+"pt": "Peixe, serra, crua"
+},
+"5878": {
+"it": "Pesce, corifena (mahi-mahi), cotta, a calore secco",
+"fr": "Poisson, mahi-mahi (coryphène), cuit, à la chaleur sèche",
+"es": "Pescado, mahi-mahi (dorado), cocido, con calor seco",
+"de": "Fisch, Mahi-Mahi, gekocht, trockene Hitze",
+"pt": "Peixe, dourado (mahi-mahi), cozido, com calor seco"
+},
+"5879": {
+"it": "Pesce, corifena (mahi-mahi), cruda",
+"fr": "Poisson, mahi-mahi (coryphène), cru",
+"es": "Pescado, mahi-mahi (dorado), crudo",
+"de": "Fisch, Mahi-Mahi, roh",
+"pt": "Peixe, dourado (mahi-mahi), cru"
+},
+"5880": {
+"it": "Pesce, pesce latte (chano), cotto, a calore secco",
+"fr": "Poisson, chano (poisson-lait), cuit, à la chaleur sèche",
+"es": "Pescado, chano, cocido, con calor seco",
+"de": "Fisch, Milchfisch, gekocht, trockene Hitze",
+"pt": "Peixe, peixe-leite, cozido, com calor seco"
+},
+"5881": {
+"it": "Pesce, pesce latte (chano), crudo",
+"fr": "Poisson, chano (poisson-lait), cru",
+"es": "Pescado, chano, crudo",
+"de": "Fisch, Milchfisch, roh",
+"pt": "Peixe, peixe-leite, cru"
+},
+"5882": {
+"it": "Pesce, rana pescatrice, cotta, a calore secco",
+"fr": "Poisson, lotte, cuite, à la chaleur sèche",
+"es": "Pescado, rape, cocida, con calor seco",
+"de": "Fisch, Seeteufel, gekocht, trockene Hitze",
+"pt": "Peixe, tamboril, cozido, com calor seco"
+},
+"5883": {
+"it": "Pesce, rana pescatrice, cruda",
+"fr": "Poisson, lotte, crue",
+"es": "Pescado, rape, cruda",
+"de": "Fisch, Seeteufel, roh",
+"pt": "Peixe, tamboril, cru"
+},
+"5884": {
+"it": "Pesce, cefalo",
+"fr": "Poisson, mulet",
+"es": "Pescado, mújol",
+"de": "Fisch, Meeräsche",
+"pt": "Peixe, tainha"
+},
+"5885": {
+"it": "Pesce, cefalo, striato, cotto, a calore secco",
+"fr": "Poisson, mulet, rayé, cuit, à la chaleur sèche",
+"es": "Pescado, mújol, rayado, cocido, con calor seco",
+"de": "Fisch, Meeräsche, gestreift, gekocht, trockene Hitze",
+"pt": "Peixe, tainha, listrada, cozida, com calor seco"
+},
+"5886": {
+"it": "Pesce, cefalo, striato, crudo",
+"fr": "Poisson, mulet, rayé, cru",
+"es": "Pescado, mújol, rayado, crudo",
+"de": "Fisch, Meeräsche, gestreift, roh",
+"pt": "Peixe, tainha, listrada, crua"
+},
+"5887": {
+"it": "Pesce, non specificato",
+"fr": "Poisson, non spécifié",
+"es": "Pescado, no especificado",
+"de": "Fisch, nicht näher bezeichnet",
+"pt": "Peixe, não especificado"
+},
+"5888": {
+"it": "Pesce, tagliatelle e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Poisson, nouilles et légumes sauf carottes, brocolis et légumes à feuilles vert foncé; sauce au fromage",
+"es": "Pescado, fideos y verduras excluyendo zanahorias, brócoli y hortalizas de hoja verde oscuro; salsa de queso",
+"de": "Fisch, Nudeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Käsesauce",
+"pt": "Peixe, macarrão e legumes exceto cenoura, brócolis e folhas verde-escuras; molho de queijo"
+},
+"5889": {
+"it": "Pesce, tagliatelle e verdure comprese carote, broccoli e/o verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Poisson, nouilles et légumes dont carottes, brocolis et/ou légumes à feuilles vert foncé; sauce au fromage",
+"es": "Pescado, fideos y verduras incluyendo zanahorias, brócoli y/o hortalizas de hoja verde oscuro; salsa de queso",
+"de": "Fisch, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Käsesauce",
+"pt": "Peixe, macarrão e legumes incluindo cenoura, brócolis e/ou folhas verde-escuras; molho de queijo"
+},
+"5890": {
+"it": "Pesce, tipo non specificato, al forno o alla griglia",
+"fr": "Poisson, type non précisé, cuit au four ou grillé",
+"es": "Pescado, tipo sin especificar, al horno o a la parrilla",
+"de": "Fisch, Art nicht angegeben, gebacken oder gegrillt",
+"pt": "Peixe, tipo não especificado, assado no forno ou grelhado"
+},
+"5891": {
+"it": "Pesce, tipo non specificato, al forno o alla griglia, impanato",
+"fr": "Poisson, type non précisé, cuit au four ou grillé, pané",
+"es": "Pescado, tipo sin especificar, al horno o a la parrilla, rebozado",
+"de": "Fisch, Art nicht angegeben, gebacken oder gegrillt, paniert",
+"pt": "Peixe, tipo não especificado, assado no forno ou grelhado, empanado"
+},
+"5892": {
+"it": "Pesce, tipo non specificato, fritto",
+"fr": "Poisson, type non précisé, frit",
+"es": "Pescado, tipo sin especificar, frito",
+"de": "Fisch, Art nicht angegeben, frittiert",
+"pt": "Peixe, tipo não especificado, frito"
+},
+"5893": {
+"it": "Pesce, tipo non specificato, al vapore",
+"fr": "Poisson, type non précisé, cuit à la vapeur",
+"es": "Pescado, tipo sin especificar, al vapor",
+"de": "Fisch, Art nicht angegeben, gedämpft",
+"pt": "Peixe, tipo não especificado, cozido no vapor"
+},
+"5894": {
+"it": "Pesce, scorfano nordico atlantico, cotto, a calore secco",
+"fr": "Poisson, sébaste de l'Atlantique, cuit, à la chaleur sèche",
+"es": "Pescado, gallineta nórdica del Atlántico, cocida, con calor seco",
+"de": "Fisch, Atlantischer Rotbarsch, gekocht, trockene Hitze",
+"pt": "Peixe, perca-do-oceano do Atlântico, cozida, com calor seco"
+},
+"5895": {
+"it": "Pesce, scorfano nordico atlantico, crudo",
+"fr": "Poisson, sébaste de l'Atlantique, cru",
+"es": "Pescado, gallineta nórdica del Atlántico, cruda",
+"de": "Fisch, Atlantischer Rotbarsch, roh",
+"pt": "Peixe, perca-do-oceano do Atlântico, crua"
+},
+"5896": {
+"it": "Pesce, persico, al forno o alla griglia",
+"fr": "Poisson, perche, cuite au four ou grillée",
+"es": "Pescado, perca, al horno o a la parrilla",
+"de": "Fisch, Barsch, gebacken oder gegrillt",
+"pt": "Peixe, perca, assada no forno ou grelhada"
+},
+"5897": {
+"it": "Pesce, persico, al forno o alla griglia, impanato",
+"fr": "Poisson, perche, cuite au four ou grillée, panée",
+"es": "Pescado, perca, al horno o a la parrilla, rebozada",
+"de": "Fisch, Barsch, gebacken oder gegrillt, paniert",
+"pt": "Peixe, perca, assada no forno ou grelhada, empanada"
+},
+"5898": {
+"it": "Pesce, persico, fritto",
+"fr": "Poisson, perche, frite",
+"es": "Pescado, perca, frita",
+"de": "Fisch, Barsch, frittiert",
+"pt": "Peixe, perca, frita"
+},
+"5899": {
+"it": "Pesce, persico, alla griglia",
+"fr": "Poisson, perche, grillée",
+"es": "Pescado, perca, a la parrilla",
+"de": "Fisch, Barsch, gegrillt",
+"pt": "Peixe, perca, grelhada"
+},
+"5900": {
+"it": "Pesce, persico, specie miste, cotto, a calore secco",
+"fr": "Poisson, perche, espèces mélangées, cuite, à la chaleur sèche",
+"es": "Pescado, perca, especies mixtas, cocida, con calor seco",
+"de": "Fisch, Barsch, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, perca, espécies mistas, cozida, com calor seco"
+},
+"5901": {
+"it": "Pesce, persico, specie miste, crudo",
+"fr": "Poisson, perche, espèces mélangées, crue",
+"es": "Pescado, perca, especies mixtas, cruda",
+"de": "Fisch, Barsch, gemischte Arten, roh",
+"pt": "Peixe, perca, espécies mistas, crua"
+},
+"5902": {
+"it": "Pesce, persico, non specificato",
+"fr": "Poisson, perche, non spécifiée",
+"es": "Pescado, perca, no especificada",
+"de": "Fisch, Barsch, nicht näher bezeichnet",
+"pt": "Peixe, perca, não especificada"
+},
+"5903": {
+"it": "Pesce, persico, al vapore",
+"fr": "Poisson, perche, cuite à la vapeur",
+"es": "Pescado, perca, al vapor",
+"de": "Fisch, Barsch, gedämpft",
+"pt": "Peixe, perca, cozida no vapor"
+},
+"5904": {
+"it": "Pesce, marinato",
+"fr": "Poisson, mariné",
+"es": "Pescado, en escabeche",
+"de": "Fisch, eingelegt",
+"pt": "Peixe, em escabeche"
+},
+"5905": {
+"it": "Pesce, luccio",
+"fr": "Poisson, brochet",
+"es": "Pescado, lucio",
+"de": "Fisch, Hecht",
+"pt": "Peixe, lúcio"
+},
+"5906": {
+"it": "Pesce, luccio del nord, cotto, a calore secco",
+"fr": "Poisson, brochet du Nord, cuit, à la chaleur sèche",
+"es": "Pescado, lucio del norte, cocido, con calor seco",
+"de": "Fisch, Nordhecht, gekocht, trockene Hitze",
+"pt": "Peixe, lúcio do norte, cozido, com calor seco"
+},
+"5907": {
+"it": "Pesce, luccio del nord, fegato (nativi dell'Alaska)",
+"fr": "Poisson, brochet du Nord, foie (autochtones d'Alaska)",
+"es": "Pescado, lucio del norte, hígado (nativos de Alaska)",
+"de": "Fisch, Nordhecht, Leber (Alaska-Ureinwohner)",
+"pt": "Peixe, lúcio do norte, fígado (nativos do Alasca)"
+},
+"5908": {
+"it": "Pesce, luccio del nord, crudo",
+"fr": "Poisson, brochet du Nord, cru",
+"es": "Pescado, lucio del norte, crudo",
+"de": "Fisch, Nordhecht, roh",
+"pt": "Peixe, lúcio do norte, cru"
+},
+"5909": {
+"it": "Pesce, luccioperca (walleye), cotto, a calore secco",
+"fr": "Poisson, doré jaune (walleye), cuit, à la chaleur sèche",
+"es": "Pescado, lucioperca (walleye), cocido, con calor seco",
+"de": "Fisch, Glasaugenbarsch (Walleye), gekocht, trockene Hitze",
+"pt": "Peixe, lúcio-perca (walleye), cozido, com calor seco"
+},
+"5910": {
+"it": "Pesce, luccioperca (walleye), crudo",
+"fr": "Poisson, doré jaune (walleye), cru",
+"es": "Pescado, lucioperca (walleye), crudo",
+"de": "Fisch, Glasaugenbarsch (Walleye), roh",
+"pt": "Peixe, lúcio-perca (walleye), cru"
+},
+"5911": {
+"it": "Pesce, merluzzo giallo dell'Alaska, cotto",
+"fr": "Poisson, lieu de l'Alaska, cuit",
+"es": "Pescado, abadejo de Alaska, cocido",
+"de": "Fisch, Alaska-Seelachs, gekocht",
+"pt": "Peixe, merluza do Alasca, cozida"
+},
+"5912": {
+"it": "Pesce, merluzzo giallo dell'Alaska, cotto, a calore secco (può contenere additivi per trattenere l'umidità)",
+"fr": "Poisson, lieu de l'Alaska, cuit, à la chaleur sèche (peut contenir des additifs pour retenir l'humidité)",
+"es": "Pescado, abadejo de Alaska, cocido, con calor seco (puede contener aditivos para retener la humedad)",
+"de": "Fisch, Alaska-Seelachs, gekocht, trockene Hitze (kann Zusatzstoffe zur Feuchtigkeitsbindung enthalten)",
+"pt": "Peixe, merluza do Alasca, cozida, com calor seco (pode conter aditivos para reter a umidade)"
+},
+"5913": {
+"it": "Pesce, merluzzo giallo dell'Alaska, crudo",
+"fr": "Poisson, lieu de l'Alaska, cru",
+"es": "Pescado, abadejo de Alaska, crudo",
+"de": "Fisch, Alaska-Seelachs, roh",
+"pt": "Peixe, merluza do Alasca, crua"
+},
+"5914": {
+"it": "Pesce, merluzzo giallo dell'Alaska, crudo (può contenere additivi per trattenere l'umidità)",
+"fr": "Poisson, lieu de l'Alaska, cru (peut contenir des additifs pour retenir l'humidité)",
+"es": "Pescado, abadejo de Alaska, crudo (puede contener aditivos para retener la humedad)",
+"de": "Fisch, Alaska-Seelachs, roh (kann Zusatzstoffe zur Feuchtigkeitsbindung enthalten)",
+"pt": "Peixe, merluza do Alasca, crua (pode conter aditivos para reter a umidade)"
+},
+"5915": {
+"it": "Pesce, merluzzo carbonaro, cotto, a calore secco",
+"fr": "Poisson, lieu noir, cuit, à la chaleur sèche",
+"es": "Pescado, carbonero, cocido, con calor seco",
+"de": "Fisch, Köhler, gekocht, trockene Hitze",
+"pt": "Peixe, polaca do Atlântico, cozida, com calor seco"
+},
+"5916": {
+"it": "Pesce, merluzzo carbonaro, crudo",
+"fr": "Poisson, lieu noir, cru",
+"es": "Pescado, carbonero, crudo",
+"de": "Fisch, Köhler, roh",
+"pt": "Peixe, polaca do Atlântico, crua"
+},
+"5917": {
+"it": "Pesce, merluzzo giallo, crudo",
+"fr": "Poisson, lieu, cru",
+"es": "Pescado, abadejo, crudo",
+"de": "Fisch, Pollack, roh",
+"pt": "Peixe, polaca, crua"
+},
+"5918": {
+"it": "Pesce, pompano, al forno o alla griglia",
+"fr": "Poisson, pompaneau, cuit au four ou grillé",
+"es": "Pescado, pámpano, al horno o a la parrilla",
+"de": "Fisch, Pompano, gebacken oder gegrillt",
+"pt": "Peixe, pampo, assado no forno ou grelhado"
+},
+"5919": {
+"it": "Pesce, pompano, al forno o alla griglia, impanato",
+"fr": "Poisson, pompaneau, cuit au four ou grillé, pané",
+"es": "Pescado, pámpano, al horno o a la parrilla, rebozado",
+"de": "Fisch, Pompano, gebacken oder gegrillt, paniert",
+"pt": "Peixe, pampo, assado no forno ou grelhado, empanado"
+},
+"5920": {
+"it": "Pesce, pompano, della Florida, cotto, a calore secco",
+"fr": "Poisson, pompaneau, de Floride, cuit, à la chaleur sèche",
+"es": "Pescado, pámpano, de Florida, cocido, con calor seco",
+"de": "Fisch, Pompano, Florida, gekocht, trockene Hitze",
+"pt": "Peixe, pampo, da Flórida, cozido, com calor seco"
+},
+"5921": {
+"it": "Pesce, pompano, della Florida, crudo",
+"fr": "Poisson, pompaneau, de Floride, cru",
+"es": "Pescado, pámpano, de Florida, crudo",
+"de": "Fisch, Pompano, Florida, roh",
+"pt": "Peixe, pampo, da Flórida, cru"
+},
+"5922": {
+"it": "Pesce, pompano, fritto",
+"fr": "Poisson, pompaneau, frit",
+"es": "Pescado, pámpano, frito",
+"de": "Fisch, Pompano, frittiert",
+"pt": "Peixe, pampo, frito"
+},
+"5923": {
+"it": "Pesce, pompano, alla griglia",
+"fr": "Poisson, pompaneau, grillé",
+"es": "Pescado, pámpano, a la parrilla",
+"de": "Fisch, Pompano, gegrillt",
+"pt": "Peixe, pampo, grelhado"
+},
+"5924": {
+"it": "Pesce, pompano, non specificato",
+"fr": "Poisson, pompaneau, non spécifié",
+"es": "Pescado, pámpano, no especificado",
+"de": "Fisch, Pompano, nicht näher bezeichnet",
+"pt": "Peixe, pampo, não especificado"
+},
+"5925": {
+"it": "Pesce, pompano, al vapore",
+"fr": "Poisson, pompaneau, cuit à la vapeur",
+"es": "Pescado, pámpano, al vapor",
+"de": "Fisch, Pompano, gedämpft",
+"pt": "Peixe, pampo, cozido no vapor"
+},
+"5926": {
+"it": "Pesce, ocean pout (zoarcide), cotto, a calore secco",
+"fr": "Poisson, loquette d'Amérique, cuite, à la chaleur sèche",
+"es": "Pescado, ocean pout, cocido, con calor seco",
+"de": "Fisch, Ozean-Aalmutter, gekocht, trockene Hitze",
+"pt": "Peixe, ocean pout, cozido, com calor seco"
+},
+"5927": {
+"it": "Pesce, ocean pout (zoarcide), crudo",
+"fr": "Poisson, loquette d'Amérique, crue",
+"es": "Pescado, ocean pout, crudo",
+"de": "Fisch, Ozean-Aalmutter, roh",
+"pt": "Peixe, ocean pout, cru"
+},
+"5928": {
+"it": "Pesce, crudo",
+"fr": "Poisson, cru",
+"es": "Pescado, crudo",
+"de": "Fisch, roh",
+"pt": "Peixe, cru"
+},
+"5929": {
+"it": "Pesce, scorfano, del Pacifico, specie miste, cotto, a calore secco",
+"fr": "Poisson, sébaste, du Pacifique, espèces mélangées, cuit, à la chaleur sèche",
+"es": "Pescado, rocote, del Pacífico, especies mixtas, cocido, con calor seco",
+"de": "Fisch, Felsenbarsch, Pazifik, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, rockfish, do Pacífico, espécies mistas, cozido, com calor seco"
+},
+"5930": {
+"it": "Pesce, scorfano, del Pacifico, specie miste, crudo",
+"fr": "Poisson, sébaste, du Pacifique, espèces mélangées, cru",
+"es": "Pescado, rocote, del Pacífico, especies mixtas, crudo",
+"de": "Fisch, Felsenbarsch, Pazifik, gemischte Arten, roh",
+"pt": "Peixe, rockfish, do Pacífico, espécies mistas, cru"
+},
+"5931": {
+"it": "Pesce, uova di pesce, specie miste, cotte, a calore secco",
+"fr": "Poisson, œufs de poisson, espèces mélangées, cuits, à la chaleur sèche",
+"es": "Pescado, huevas de pescado, especies mixtas, cocidas, con calor seco",
+"de": "Fisch, Fischrogen, gemischte Arten, gekocht, trockene Hitze",
+"pt": "Peixe, ovas de peixe, espécies mistas, cozidas, com calor seco"
+},
+"5932": {
+"it": "Pesce, uova di pesce, specie miste, crude",
+"fr": "Poisson, œufs de poisson, espèces mélangées, crus",
+"es": "Pescado, huevas de pescado, especies mixtas, crudas",
+"de": "Fisch, Fischrogen, gemischte Arten, roh",
+"pt": "Peixe, ovas de peixe, espécies mistas, cruas"
+},
+"5933": {
+"it": "Pesce, orange roughy, cotto, a calore secco",
+"fr": "Poisson, hoplostète orange, cuit, à la chaleur sèche",
+"es": "Pescado, reloj anaranjado (orange roughy), cocido, con calor seco",
+"de": "Fisch, Granatbarsch, gekocht, trockene Hitze",
+"pt": "Peixe, orange roughy, cozido, com calor seco"
+},
+"5934": {
+"it": "Pesce, orange roughy, crudo",
+"fr": "Poisson, hoplostète orange, cru",
+"es": "Pescado, reloj anaranjado (orange roughy), crudo",
+"de": "Fisch, Granatbarsch, roh",
+"pt": "Peixe, orange roughy, cru"
+},
+"5935": {
+"it": "Pesce, merluzzo nero (sablefish), cotto, a calore secco",
+"fr": "Poisson, morue charbonnière, cuite, à la chaleur sèche",
+"es": "Pescado, bacalao negro, cocido, con calor seco",
+"de": "Fisch, Köhlerfisch, gekocht, trockene Hitze",
+"pt": "Peixe, bacalhau-negro, cozido, com calor seco"
+},
+"5936": {
+"it": "Pesce, merluzzo nero (sablefish), crudo",
+"fr": "Poisson, morue charbonnière, crue",
+"es": "Pescado, bacalao negro, crudo",
+"de": "Fisch, Köhlerfisch, roh",
+"pt": "Peixe, bacalhau-negro, cru"
+},
+"5937": {
+"it": "Pesce, merluzzo nero (sablefish), affumicato",
+"fr": "Poisson, morue charbonnière, fumée",
+"es": "Pescado, bacalao negro, ahumado",
+"de": "Fisch, Köhlerfisch, geräuchert",
+"pt": "Peixe, bacalhau-negro, defumado"
+},
+"5938": {
+"it": "Pesce, tortino o polpetta di salmone",
+"fr": "Poisson, galette ou croquette de saumon",
+"es": "Pescado, hamburguesa o croqueta de salmón",
+"de": "Fisch, Lachsfrikadelle",
+"pt": "Peixe, bolinho ou hambúrguer de salmão"
+},
+"5939": {
+"it": "Pesce, salmone atlantico, d'allevamento, crudo",
+"fr": "Poisson, saumon de l'Atlantique, d'élevage, cru",
+"es": "Pescado, salmón del Atlántico, de cría, crudo",
+"de": "Fisch, Atlantischer Lachs, aus Zucht, roh",
+"pt": "Peixe, salmão do Atlântico, de criação, cru"
+},
+"5940": {
+"it": "Pesce, salmone atlantico, d'allevamento, cotto, a calore secco",
+"fr": "Poisson, saumon de l'Atlantique, d'élevage, cuit, à la chaleur sèche",
+"es": "Pescado, salmón del Atlántico, de cría, cocido, con calor seco",
+"de": "Fisch, Atlantischer Lachs, aus Zucht, gekocht, trockene Hitze",
+"pt": "Peixe, salmão do Atlântico, de criação, cozido, com calor seco"
+},
+"5941": {
+"it": "Pesce, salmone atlantico, d'allevamento, crudo",
+"fr": "Poisson, saumon de l'Atlantique, d'élevage, cru",
+"es": "Pescado, salmón del Atlántico, de cría, crudo",
+"de": "Fisch, Atlantischer Lachs, aus Zucht, roh",
+"pt": "Peixe, salmão do Atlântico, de criação, cru"
+},
+"5942": {
+"it": "Pesce, salmone atlantico, selvatico, cotto, a calore secco",
+"fr": "Poisson, saumon de l'Atlantique, sauvage, cuit, à la chaleur sèche",
+"es": "Pescado, salmón del Atlántico, salvaje, cocido, con calor seco",
+"de": "Fisch, Atlantischer Lachs, Wildfang, gekocht, trockene Hitze",
+"pt": "Peixe, salmão do Atlântico, selvagem, cozido, com calor seco"
+},
+"5943": {
+"it": "Pesce, salmone atlantico, selvatico, crudo",
+"fr": "Poisson, saumon de l'Atlantique, sauvage, cru",
+"es": "Pescado, salmón del Atlántico, salvaje, crudo",
+"de": "Fisch, Atlantischer Lachs, Wildfang, roh",
+"pt": "Peixe, salmão do Atlântico, selvagem, cru"
+},
+"5944": {
+"it": "Pesce, salmone, al forno o alla griglia",
+"fr": "Poisson, saumon, cuit au four ou grillé",
+"es": "Pescado, salmón, al horno o a la parrilla",
+"de": "Fisch, Lachs, gebacken oder gegrillt",
+"pt": "Peixe, salmão, assado no forno ou grelhado"
+},
+"5945": {
+"it": "Pesce, salmone, al forno o alla griglia, impanato",
+"fr": "Poisson, saumon, cuit au four ou grillé, pané",
+"es": "Pescado, salmón, al horno o a la parrilla, rebozado",
+"de": "Fisch, Lachs, gebacken oder gegrillt, paniert",
+"pt": "Peixe, salmão, assado no forno ou grelhado, empanado"
+},
+"5946": {
+"it": "Pesce, salmone, in scatola",
+"fr": "Poisson, saumon, en conserve",
+"es": "Pescado, salmón, en conserva",
+"de": "Fisch, Lachs, aus der Dose",
+"pt": "Peixe, salmão, enlatado"
+},
+"5947": {
+"it": "Pesce, salmone chinook, cotto, a calore secco",
+"fr": "Poisson, saumon chinook, cuit, à la chaleur sèche",
+"es": "Pescado, salmón chinook, cocido, con calor seco",
+"de": "Fisch, Chinook-Lachs, gekocht, trockene Hitze",
+"pt": "Peixe, salmão chinook, cozido, com calor seco"
+},
+"5948": {
+"it": "Pesce, salmone chinook, crudo",
+"fr": "Poisson, saumon chinook, cru",
+"es": "Pescado, salmón chinook, crudo",
+"de": "Fisch, Chinook-Lachs, roh",
+"pt": "Peixe, salmão chinook, cru"
+},
+"5949": {
+"it": "Pesce, salmone chinook, affumicato",
+"fr": "Poisson, saumon chinook, fumé",
+"es": "Pescado, salmón chinook, ahumado",
+"de": "Fisch, Chinook-Lachs, geräuchert",
+"pt": "Peixe, salmão chinook, defumado"
+},
+"5950": {
+"it": "Pesce, salmone chinook, affumicato (lox), normale",
+"fr": "Poisson, saumon chinook, fumé (lox), classique",
+"es": "Pescado, salmón chinook, ahumado (lox), normal",
+"de": "Fisch, Chinook-Lachs, geräuchert (Lox), normal",
+"pt": "Peixe, salmão chinook, defumado (lox), tradicional"
+},
+"5951": {
+"it": "Pesce, salmone keta (chum), in scatola, solidi sgocciolati con lisca",
+"fr": "Poisson, saumon kéta (chum), en conserve, solides égouttés avec arêtes",
+"es": "Pescado, salmón keta (chum), en conserva, sólidos escurridos con espinas",
+"de": "Fisch, Hundslachs (Chum), aus der Dose, abgetropfte Feststoffe mit Gräten",
+"pt": "Peixe, salmão keta (chum), enlatado, sólidos escorridos com espinhas"
+},
+"5952": {
+"it": "Pesce, salmone keta (chum), in scatola, senza sale, solidi sgocciolati con lisca",
+"fr": "Poisson, saumon kéta (chum), en conserve, sans sel, solides égouttés avec arêtes",
+"es": "Pescado, salmón keta (chum), en conserva, sin sal, sólidos escurridos con espinas",
+"de": "Fisch, Hundslachs (Chum), aus der Dose, ohne Salz, abgetropfte Feststoffe mit Gräten",
+"pt": "Peixe, salmão keta (chum), enlatado, sem sal, sólidos escorridos com espinhas"
+},
+"5953": {
+"it": "Pesce, salmone keta (chum), cotto, a calore secco",
+"fr": "Poisson, saumon kéta (chum), cuit, à la chaleur sèche",
+"es": "Pescado, salmón keta (chum), cocido, con calor seco",
+"de": "Fisch, Hundslachs (Chum), gekocht, trockene Hitze",
+"pt": "Peixe, salmão keta (chum), cozido, com calor seco"
+},
+"5954": {
+"it": "Pesce, salmone keta (chum), secco (nativi dell'Alaska)",
+"fr": "Poisson, saumon kéta (chum), séché (autochtones d'Alaska)",
+"es": "Pescado, salmón keta (chum), seco (nativos de Alaska)",
+"de": "Fisch, Hundslachs (Chum), getrocknet (Alaska-Ureinwohner)",
+"pt": "Peixe, salmão keta (chum), seco (nativos do Alasca)"
+},
+"5955": {
+"it": "Pesce, salmone keta (chum), crudo",
+"fr": "Poisson, saumon kéta (chum), cru",
+"es": "Pescado, salmón keta (chum), crudo",
+"de": "Fisch, Hundslachs (Chum), roh",
+"pt": "Peixe, salmão keta (chum), cru"
+},
+"5956": {
+"it": "Pesce, salmone keta (chum), crudo (nativi dell'Alaska)",
+"fr": "Poisson, saumon kéta (chum), cru (autochtones d'Alaska)",
+"es": "Pescado, salmón keta (chum), crudo (nativos de Alaska)",
+"de": "Fisch, Hundslachs (Chum), roh (Alaska-Ureinwohner)",
+"pt": "Peixe, salmão keta (chum), cru (nativos do Alasca)"
+},
+"5957": {
+"it": "Pesce, salmone coho (argentato), crudo (nativi dell'Alaska)",
+"fr": "Poisson, saumon coho (argenté), cru (autochtones d'Alaska)",
+"es": "Pescado, salmón coho (plateado), crudo (nativos de Alaska)",
+"de": "Fisch, Silberlachs (Coho), roh (Alaska-Ureinwohner)",
+"pt": "Peixe, salmão coho (prateado), cru (nativos do Alasca)"
+},
+"5958": {
+"it": "Pesce, salmone coho, d'allevamento, cotto, a calore secco",
+"fr": "Poisson, saumon coho, d'élevage, cuit, à la chaleur sèche",
+"es": "Pescado, salmón coho, de cría, cocido, con calor seco",
+"de": "Fisch, Cohoe-Lachs, aus Zucht, gekocht, trockene Hitze",
+"pt": "Peixe, salmão coho, de criação, cozido, com calor seco"
+},
+"5959": {
+"it": "Pesce, salmone coho, d'allevamento, crudo",
+"fr": "Poisson, saumon coho, d'élevage, cru",
+"es": "Pescado, salmón coho, de cría, crudo",
+"de": "Fisch, Cohoe-Lachs, aus Zucht, roh",
+"pt": "Peixe, salmão coho, de criação, cru"
+}
+}

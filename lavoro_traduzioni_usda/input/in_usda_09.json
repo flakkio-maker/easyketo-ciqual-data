@@ -1,0 +1,1790 @@
+[
+{
+"id": "2384",
+"en": "Brandy Alexander",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2385",
+"en": "Brandy and cola",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2386",
+"en": "Bratwurst",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2387",
+"en": "Bratwurst, beef and pork, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2388",
+"en": "Bratwurst, chicken, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2389",
+"en": "Bratwurst, pork, beef and turkey, lite, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2390",
+"en": "Bratwurst, pork, beef, link",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2391",
+"en": "Bratwurst, pork, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2392",
+"en": "Bratwurst, veal, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2393",
+"en": "Bratwurst, with cheese",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2394",
+"en": "Braunschweiger (a liver sausage), pork",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "2395",
+"en": "Brazil nuts",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2396",
+"en": "Bread stuffing",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2397",
+"en": "Bread stuffing made with egg",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2398",
+"en": "Bread, 100% whole wheat, commercial",
+"categoria": "Baked Products",
+"tipo": "Foundation"
+},
+{
+"id": "2399",
+"en": "Bread, banana, prepared from recipe, made with margarine",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2400",
+"en": "Bread, barley",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2401",
+"en": "Bread, barley, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2402",
+"en": "Bread, black",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2403",
+"en": "Bread, black, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2404",
+"en": "Bread, blue corn, somiviki (Hopi)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "2405",
+"en": "Bread, Boston Brown",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2406",
+"en": "Bread, boston brown, canned",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2407",
+"en": "Bread, chapati or roti, plain, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2408",
+"en": "Bread, chapati or roti, whole wheat, commercially prepared, frozen",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2409",
+"en": "Bread, chappatti or roti",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2410",
+"en": "Bread, cheese",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2411",
+"en": "Bread, cheese, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2412",
+"en": "Bread, cinnamon",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2413",
+"en": "Bread, cinnamon, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2414",
+"en": "Bread, cornbread, dry mix, enriched (includes corn muffin mix)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2415",
+"en": "Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2416",
+"en": "Bread, cornbread, dry mix, unenriched (includes corn muffin mix)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2417",
+"en": "Bread, cornbread, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2418",
+"en": "Bread, cornmeal and molasses",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2419",
+"en": "Bread, cornmeal and molasses, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2420",
+"en": "Bread, cracked-wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2421",
+"en": "Bread, crumbs, dry, grated, plain",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2422",
+"en": "Bread, crumbs, dry, grated, seasoned",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2423",
+"en": "Bread, Cuban",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2424",
+"en": "Bread, Cuban, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2425",
+"en": "Bread, dough, fried",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2426",
+"en": "Bread, egg",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2427",
+"en": "Bread, egg, Challah",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2428",
+"en": "Bread, egg, Challah, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2429",
+"en": "Bread, egg, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2430",
+"en": "Bread, French or Vienna",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2431",
+"en": "Bread, french or vienna (includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2432",
+"en": "Bread, French or Vienna, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2433",
+"en": "Bread, french or vienna, toasted (includes sourdough)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2434",
+"en": "Bread, french or vienna, whole wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2435",
+"en": "Bread, French or Vienna, whole wheat, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2436",
+"en": "Bread, fruit",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2437",
+"en": "Bread, gluten free",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2438",
+"en": "Bread, gluten free, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2439",
+"en": "Bread, gluten-free, white, made with potato extract, rice starch, and rice flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2440",
+"en": "Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2441",
+"en": "Bread, gluten-free, white, made with tapioca starch and brown rice flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2442",
+"en": "Bread, gluten-free, whole grain, made with tapioca starch and brown rice flour",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2443",
+"en": "Bread, high protein, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2444",
+"en": "Bread, Irish soda",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2445",
+"en": "Bread, irish soda, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2446",
+"en": "Bread, Italian",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2447",
+"en": "Bread, Italian, Grecian, Armenian",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2448",
+"en": "Bread, Italian, Grecian, Armenian, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2449",
+"en": "Bread, kneel down (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "2450",
+"en": "Bread, lard, Puerto Rican style",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2451",
+"en": "Bread, lard, toasted, Puerto Rican style",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2452",
+"en": "Bread, made from home recipe or purchased at a bakery, NS as to major flour",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2453",
+"en": "Bread, made from home recipe or purchased at a bakery, toasted, NS as to major flour",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2454",
+"en": "Bread, marble rye and pumpernickel",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2455",
+"en": "Bread, marble rye and pumpernickel, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2456",
+"en": "Bread, mulitgrain, commercial",
+"categoria": "Baked Products",
+"tipo": "Foundation"
+},
+{
+"id": "2457",
+"en": "Bread, multi-grain (includes whole-grain)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2458",
+"en": "Bread, multi-grain, toasted (includes whole-grain)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2459",
+"en": "Bread, multigrain",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2460",
+"en": "Bread, multigrain, reduced calorie and/or high fiber",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2461",
+"en": "Bread, multigrain, reduced calorie and/or high fiber, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2462",
+"en": "Bread, multigrain, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2463",
+"en": "Bread, multigrain, with raisins",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2464",
+"en": "Bread, multigrain, with raisins, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2465",
+"en": "Bread, naan",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2466",
+"en": "Bread, naan, plain, commercially prepared, refrigerated",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2467",
+"en": "Bread, naan, whole wheat, commercially prepared, refrigerated",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2468",
+"en": "Bread, native, water, Puerto Rican style",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2469",
+"en": "Bread, native, water, toasted, Puerto Rican style",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2470",
+"en": "Bread, NS as to major flour",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2471",
+"en": "Bread, NS as to major flour, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2472",
+"en": "Bread, nut",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2473",
+"en": "Bread, oat bran",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2474",
+"en": "Bread, oat bran, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2475",
+"en": "Bread, oatmeal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2476",
+"en": "Bread, oatmeal, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2477",
+"en": "Bread, onion",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2478",
+"en": "Bread, onion, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2479",
+"en": "Bread, pan dulce, sweet yeast bread",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2480",
+"en": "Bread, paratha",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2481",
+"en": "Bread, paratha, whole wheat, commercially prepared, frozen",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2482",
+"en": "Bread, pita",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2483",
+"en": "Bread, pita with fruit",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2484",
+"en": "Bread, pita, wheat or cracked wheat",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2485",
+"en": "Bread, pita, white, enriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2486",
+"en": "Bread, pita, white, unenriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2487",
+"en": "Bread, pita, whole wheat",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2488",
+"en": "Bread, pita, whole-wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2489",
+"en": "Bread, potato",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2490",
+"en": "Bread, potato, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2491",
+"en": "Bread, pound cake type, pan de torta salvadoran",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2492",
+"en": "Bread, protein (includes gluten)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2493",
+"en": "Bread, protein, (includes gluten), toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2494",
+"en": "Bread, pumpernickel",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2495",
+"en": "Bread, pumpernickel, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2496",
+"en": "Bread, pumpkin",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2497",
+"en": "Bread, puri",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2498",
+"en": "Bread, raisin",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2499",
+"en": "Bread, raisin, enriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2500",
+"en": "Bread, raisin, enriched, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2501",
+"en": "Bread, raisin, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2502",
+"en": "Bread, raisin, unenriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2503",
+"en": "Bread, reduced calorie and/or high fiber, white or NFS",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2504",
+"en": "Bread, reduced calorie and/or high fiber, white or NFS, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2505",
+"en": "Bread, reduced calorie and/or high fiber, white or NFS, with fruit and/or nuts",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2506",
+"en": "Bread, reduced calorie and/or high fiber, white or NFS, with fruit and/or nuts, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2507",
+"en": "Bread, reduced-calorie, oat bran",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2508",
+"en": "Bread, reduced-calorie, oat bran, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2509",
+"en": "Bread, reduced-calorie, oatmeal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2510",
+"en": "Bread, reduced-calorie, rye",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2511",
+"en": "Bread, reduced-calorie, wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2512",
+"en": "Bread, reduced-calorie, white",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2513",
+"en": "Bread, rice",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2514",
+"en": "Bread, rice bran",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2515",
+"en": "Bread, rice bran, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2516",
+"en": "Bread, rice, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2517",
+"en": "Bread, roll, Mexican, bollilo",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2518",
+"en": "Bread, rye",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2519",
+"en": "Bread, rye, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2520",
+"en": "Bread, salvadoran sweet cheese (quesadilla salvadorena)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2521",
+"en": "Bread, sour dough",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2522",
+"en": "Bread, sour dough, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2523",
+"en": "Bread, soy",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2524",
+"en": "Bread, soy, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2525",
+"en": "Bread, Spanish coffee",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2526",
+"en": "Bread, sprouted wheat",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2527",
+"en": "Bread, sprouted wheat, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2528",
+"en": "Bread, sticks, plain",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2529",
+"en": "Bread, stuffing, cornbread, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2530",
+"en": "Bread, stuffing, cornbread, dry mix, prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2531",
+"en": "Bread, stuffing, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2532",
+"en": "Bread, stuffing, dry mix, prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2533",
+"en": "Bread, sunflower meal",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2534",
+"en": "Bread, sunflower meal, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2535",
+"en": "Bread, sweet potato",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2536",
+"en": "Bread, sweet potato, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2537",
+"en": "Bread, vegetable",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2538",
+"en": "Bread, vegetable, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2539",
+"en": "Bread, wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2540",
+"en": "Bread, wheat or cracked wheat",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2541",
+"en": "Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2542",
+"en": "Bread, wheat or cracked wheat, made from home recipe or purchased at bakery, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2543",
+"en": "Bread, wheat or cracked wheat, reduced calorie and/or high fiber",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2544",
+"en": "Bread, wheat or cracked wheat, reduced calorie and/or high fiber, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2545",
+"en": "Bread, wheat or cracked wheat, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2546",
+"en": "Bread, wheat or cracked wheat, with raisins",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2547",
+"en": "Bread, wheat or cracked wheat, with raisins, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2548",
+"en": "Bread, wheat, sprouted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2549",
+"en": "Bread, wheat, sprouted, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2550",
+"en": "Bread, wheat, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2551",
+"en": "Bread, white",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2552",
+"en": "Bread, white wheat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2553",
+"en": "Bread, white with whole wheat swirl",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2554",
+"en": "Bread, white with whole wheat swirl, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2555",
+"en": "Bread, white, commercial",
+"categoria": "Baked Products",
+"tipo": "Foundation"
+},
+{
+"id": "2556",
+"en": "Bread, white, commercially prepared (includes soft bread crumbs)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2557",
+"en": "Bread, white, commercially prepared, low sodium, no salt",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2558",
+"en": "Bread, white, commercially prepared, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2559",
+"en": "Bread, white, commercially prepared, toasted, low sodium no salt",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2560",
+"en": "Bread, white, made from home recipe or purchased at a bakery",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2561",
+"en": "Bread, white, made from home recipe or purchased at a bakery, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2562",
+"en": "Bread, white, prepared from recipe, made with low fat (2%) milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2563",
+"en": "Bread, white, prepared from recipe, made with nonfat dry milk",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2564",
+"en": "Bread, white, special formula, added fiber",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2565",
+"en": "Bread, white, special formula, added fiber, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2566",
+"en": "Bread, white, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2567",
+"en": "Bread, whole grain white",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2568",
+"en": "Bread, whole grain white, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2569",
+"en": "Bread, whole wheat",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2570",
+"en": "Bread, whole wheat, made from home recipe or purchased at bakery",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2571",
+"en": "Bread, whole wheat, made from home recipe or purchased at bakery, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2572",
+"en": "Bread, whole wheat, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2573",
+"en": "Bread, whole wheat, with raisins",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2574",
+"en": "Bread, whole wheat, with raisins, toasted",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2575",
+"en": "Bread, whole-wheat, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2576",
+"en": "Bread, whole-wheat, commercially prepared, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2577",
+"en": "Bread, whole-wheat, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2578",
+"en": "Bread, whole-wheat, prepared from recipe, toasted",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2579",
+"en": "Bread, zucchini",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2580",
+"en": "Breadfruit, cooked",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2581",
+"en": "Breadfruit, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "2582",
+"en": "Breading or batter as ingredient in food",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2583",
+"en": "Breadsticks, hard, gluten free",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2584",
+"en": "Breadsticks, hard, NFS",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2585",
+"en": "Breadsticks, hard, reduced sodium",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2586",
+"en": "Breadsticks, hard, whole wheat",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2587",
+"en": "Breadsticks, NFS",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2588",
+"en": "Breadsticks, soft, fast food / restaurant",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2589",
+"en": "Breadsticks, soft, frozen",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2590",
+"en": "Breadsticks, soft, NFS",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2591",
+"en": "Breadsticks, soft, stuffed or topped with melted cheese",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2592",
+"en": "Breadsticks, soft, with parmesan cheese, fast food / restaurant",
+"categoria": "Rolls and buns",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2593",
+"en": "Breakfast bar, cereal crust with fruit filling, lowfat",
+"categoria": "Cereal bars",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2594",
+"en": "Breakfast bar, corn flake crust with fruit",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "2595",
+"en": "Breakfast bar, date, with yogurt coating",
+"categoria": "Cereal bars",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2596",
+"en": "Breakfast bar, NFS",
+"categoria": "Cereal bars",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2597",
+"en": "Breakfast bars, oats, sugar, raisins, coconut (include granola bar)",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "2598",
+"en": "Breakfast link, pattie, or slice, meatless",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2599",
+"en": "Breakfast meat as ingredient in omelet",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2600",
+"en": "Breakfast pastry, NFS",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2601",
+"en": "Breakfast pizza with egg",
+"categoria": "Egg/breakfast sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2602",
+"en": "Breakfast tart",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2603",
+"en": "Breakfast tart, lowfat",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2604",
+"en": "Brioche",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2605",
+"en": "Broadbeans (fava beans), mature seeds, canned",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2606",
+"en": "Broadbeans (fava beans), mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2607",
+"en": "Broadbeans (fava beans), mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2608",
+"en": "Broadbeans (fava beans), mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2609",
+"en": "Broadbeans, immature seeds, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2610",
+"en": "Broadbeans, immature seeds, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2611",
+"en": "Broadbeans, immature seeds, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2612",
+"en": "Broccoflower, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2613",
+"en": "Broccoflower, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2614",
+"en": "Broccoli and cauliflower, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2615",
+"en": "Broccoli and cauliflower, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2616",
+"en": "Broccoli casserole with noodles",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2617",
+"en": "Broccoli casserole with rice",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2618",
+"en": "Broccoli raab, cooked",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2619",
+"en": "Broccoli raab, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2620",
+"en": "Broccoli salad with cauliflower, cheese, bacon bits, and dressing",
+"categoria": "Coleslaw, non-lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2621",
+"en": "Broccoli slaw salad",
+"categoria": "Coleslaw, non-lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2622",
+"en": "Broccoli, cauliflower and carrots, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2623",
+"en": "Broccoli, cauliflower and carrots, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2624",
+"en": "Broccoli, chinese, cooked",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2625",
+"en": "Broccoli, chinese, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2626",
+"en": "Broccoli, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2627",
+"en": "Broccoli, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2628",
+"en": "Broccoli, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2629",
+"en": "Broccoli, cooked, from restaurant",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2630",
+"en": "Broccoli, flower clusters, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2631",
+"en": "Broccoli, fresh, cooked with butter or margarine",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2632",
+"en": "Broccoli, fresh, cooked with oil",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2633",
+"en": "Broccoli, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2634",
+"en": "Broccoli, fresh, cooked, no added fat",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2635",
+"en": "Broccoli, frozen, chopped, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2636",
+"en": "Broccoli, frozen, chopped, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2637",
+"en": "Broccoli, frozen, chopped, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2638",
+"en": "Broccoli, frozen, cooked with butter or margarine",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2639",
+"en": "Broccoli, frozen, cooked with oil",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2640",
+"en": "Broccoli, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2641",
+"en": "Broccoli, frozen, cooked, no added fat",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2642",
+"en": "Broccoli, frozen, spears, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2643",
+"en": "Broccoli, frozen, spears, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2644",
+"en": "Broccoli, frozen, spears, unprepared (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2645",
+"en": "Broccoli, leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2646",
+"en": "Broccoli, NS as to form, cooked",
+"categoria": "Broccoli",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2647",
+"en": "Broccoli, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "2648",
+"en": "Broccoli, stalks, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2649",
+"en": "Brown rice, flour, coarse ground, pre-gelatinized, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "2650",
+"en": "Brown rice, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "2651",
+"en": "Brown rice, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "2652",
+"en": "Bruschetta",
+"categoria": "Vegetable sandwiches/burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2653",
+"en": "Brussels sprouts, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2654",
+"en": "Brussels sprouts, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2655",
+"en": "Brussels sprouts, fresh, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2656",
+"en": "Brussels sprouts, fresh, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2657",
+"en": "Brussels sprouts, frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2658",
+"en": "Brussels sprouts, frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2659",
+"en": "Brussels sprouts, frozen, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2660",
+"en": "Brussels sprouts, frozen, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2661",
+"en": "Brussels sprouts, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2662",
+"en": "Brussels sprouts, NS as to form, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2663",
+"en": "Brussels sprouts, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "2664",
+"en": "Buckwheat",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "2665",
+"en": "Buckwheat flour, whole-groat",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "2666",
+"en": "Buckwheat groats",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2667",
+"en": "Buckwheat groats, roasted, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "2668",
+"en": "Buckwheat groats, roasted, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "2669",
+"en": "Buckwheat, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "2670",
+"en": "Buckwheat, whole grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "2671",
+"en": "Buffalo sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2672",
+"en": "Buffalo, free range, top round steak, cooked (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "2673",
+"en": "Buffalo, free range, top round steak, raw (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "2674",
+"en": "Bulgur, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "2675",
+"en": "Bulgur, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "2676",
+"en": "Bulgur, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "2677",
+"en": "Bulgur, fat added",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2678",
+"en": "Bulgur, no added fat",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2679",
+"en": "Bulgur, NS as to fat",
+"categoria": "Pasta, noodles, cooked grains",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "2680",
+"en": "Burdock root, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "2681",
+"en": "Burdock root, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+}
+]

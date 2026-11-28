@@ -1,0 +1,2088 @@
+{
+ "2980": {
+  "it": "Caramelle, MARS SNACKFOOD US, barrette di biscotto TWIX al caramello",
+  "fr": "Bonbons, MARS SNACKFOOD US, barres biscuitées TWIX au caramel",
+  "es": "Caramelos, MARS SNACKFOOD US, barritas de galleta TWIX de caramelo",
+  "de": "Süßwaren, MARS SNACKFOOD US, TWIX Karamell-Keksriegel",
+  "pt": "Balas, MARS SNACKFOOD US, barras de biscoito TWIX de caramelo"
+ },
+ "2981": {
+  "it": "Caramelle, MARS SNACKFOOD US, barrette di biscotto TWIX al cioccolato fondente morbido (fudge)",
+  "fr": "Bonbons, MARS SNACKFOOD US, barres biscuitées TWIX au chocolat fudge",
+  "es": "Caramelos, MARS SNACKFOOD US, barritas de galleta TWIX de chocolate fudge",
+  "de": "Süßwaren, MARS SNACKFOOD US, TWIX Schokoladen-Fudge-Keksriegel",
+  "pt": "Balas, MARS SNACKFOOD US, barras de biscoito TWIX de chocolate fudge"
+ },
+ "2982": {
+  "it": "Caramelle, MARS SNACKFOOD US, barrette di biscotto TWIX al burro di arachidi",
+  "fr": "Bonbons, MARS SNACKFOOD US, barres biscuitées TWIX au beurre de cacahuète",
+  "es": "Caramelos, MARS SNACKFOOD US, barritas de galleta TWIX de mantequilla de cacahuete",
+  "de": "Süßwaren, MARS SNACKFOOD US, TWIX Erdnussbutter-Keksriegel",
+  "pt": "Balas, MARS SNACKFOOD US, barras de biscoito TWIX de manteiga de amendoim"
+ },
+ "2983": {
+  "it": "Caramelle, marshmallow",
+  "fr": "Bonbons, guimauves",
+  "es": "Caramelos, malvaviscos (marshmallows)",
+  "de": "Süßwaren, Marshmallows",
+  "pt": "Balas, marshmallows"
+ },
+ "2984": {
+  "it": "Caramelle, cioccolato al latte",
+  "fr": "Bonbons, chocolat au lait",
+  "es": "Caramelos, chocolate con leche",
+  "de": "Süßwaren, Milchschokolade",
+  "pt": "Balas, chocolate ao leite"
+ },
+ "2985": {
+  "it": "Caramelle, chicchi di caffè ricoperti di cioccolato al latte",
+  "fr": "Bonbons, grains de café enrobés de chocolat au lait",
+  "es": "Caramelos, granos de café cubiertos de chocolate con leche",
+  "de": "Süßwaren, mit Milchschokolade überzogene Kaffeebohnen",
+  "pt": "Balas, grãos de café cobertos com chocolate ao leite"
+ },
+ "2986": {
+  "it": "Caramelle, arachidi ricoperte di cioccolato al latte",
+  "fr": "Bonbons, cacahuètes enrobées de chocolat au lait",
+  "es": "Caramelos, cacahuetes cubiertos de chocolate con leche",
+  "de": "Süßwaren, mit Milchschokolade überzogene Erdnüsse",
+  "pt": "Balas, amendoins cobertos com chocolate ao leite"
+ },
+ "2987": {
+  "it": "Caramelle, uvetta ricoperta di cioccolato al latte",
+  "fr": "Bonbons, raisins secs enrobés de chocolat au lait",
+  "es": "Caramelos, pasas cubiertas de chocolate con leche",
+  "de": "Süßwaren, mit Milchschokolade überzogene Rosinen",
+  "pt": "Balas, uvas-passas cobertas com chocolate ao leite"
+ },
+ "2988": {
+  "it": "Caramelle, cioccolato al latte, con mandorle",
+  "fr": "Bonbons, chocolat au lait, aux amandes",
+  "es": "Caramelos, chocolate con leche, con almendras",
+  "de": "Süßwaren, Milchschokolade, mit Mandeln",
+  "pt": "Balas, chocolate ao leite, com amêndoas"
+ },
+ "2989": {
+  "it": "Caramelle, cioccolato al latte, con cereali di riso",
+  "fr": "Bonbons, chocolat au lait, aux céréales de riz",
+  "es": "Caramelos, chocolate con leche, con cereal de arroz",
+  "de": "Süßwaren, Milchschokolade, mit Reisflocken",
+  "pt": "Balas, chocolate ao leite, com cereal de arroz"
+ },
+ "2990": {
+  "it": "Caramelle, barretta MOUNDS",
+  "fr": "Bonbons, barre MOUNDS",
+  "es": "Caramelos, barra MOUNDS",
+  "de": "Süßwaren, MOUNDS Riegel",
+  "pt": "Balas, barra MOUNDS"
+ },
+ "2991": {
+  "it": "Caramelle, barretta di cioccolato MR. GOODBAR",
+  "fr": "Bonbons, barre chocolatée MR. GOODBAR",
+  "es": "Caramelos, barra de chocolate MR. GOODBAR",
+  "de": "Süßwaren, MR. GOODBAR Schokoriegel",
+  "pt": "Balas, barra de chocolate MR. GOODBAR"
+ },
+ "2992": {
+  "it": "Caramelle, NESTLE, barretta 100 GRAND",
+  "fr": "Bonbons, NESTLE, barre 100 GRAND",
+  "es": "Caramelos, NESTLE, barra 100 GRAND",
+  "de": "Süßwaren, NESTLE, 100 GRAND Riegel",
+  "pt": "Balas, NESTLE, barra 100 GRAND"
+ },
+ "2993": {
+  "it": "Caramelle, NESTLE, mentine AFTER EIGHT",
+  "fr": "Bonbons, NESTLE, chocolats à la menthe AFTER EIGHT",
+  "es": "Caramelos, NESTLE, bombones de menta AFTER EIGHT",
+  "de": "Süßwaren, NESTLE, AFTER EIGHT Minzschokolade",
+  "pt": "Balas, NESTLE, chocolates de menta AFTER EIGHT"
+ },
+ "2994": {
+  "it": "Caramelle, NESTLE, barretta BABY RUTH",
+  "fr": "Bonbons, NESTLE, barre BABY RUTH",
+  "es": "Caramelos, NESTLE, barra BABY RUTH",
+  "de": "Süßwaren, NESTLE, BABY RUTH Riegel",
+  "pt": "Balas, NESTLE, barra BABY RUTH"
+ },
+ "2995": {
+  "it": "Caramelle, NESTLE, caramelle gommose BIT-O'-HONEY",
+  "fr": "Bonbons, NESTLE, bonbons mous BIT-O'-HONEY",
+  "es": "Caramelos, NESTLE, caramelos masticables BIT-O'-HONEY",
+  "de": "Süßwaren, NESTLE, BIT-O'-HONEY Kaubonbons",
+  "pt": "Balas, NESTLE, balas mastigáveis BIT-O'-HONEY"
+ },
+ "2996": {
+  "it": "Caramelle, NESTLE, barretta BUTTERFINGER",
+  "fr": "Bonbons, NESTLE, barre BUTTERFINGER",
+  "es": "Caramelos, NESTLE, barra BUTTERFINGER",
+  "de": "Süßwaren, NESTLE, BUTTERFINGER Riegel",
+  "pt": "Balas, NESTLE, barra BUTTERFINGER"
+ },
+ "2997": {
+  "it": "Caramelle, NESTLE, BUTTERFINGER croccante",
+  "fr": "Bonbons, NESTLE, BUTTERFINGER croustillant",
+  "es": "Caramelos, NESTLE, BUTTERFINGER crujiente",
+  "de": "Süßwaren, NESTLE, BUTTERFINGER Crisp",
+  "pt": "Balas, NESTLE, BUTTERFINGER crocante"
+ },
+ "2998": {
+  "it": "Caramelle, NESTLE, barretta CHUNKY",
+  "fr": "Bonbons, NESTLE, barre CHUNKY",
+  "es": "Caramelos, NESTLE, barra CHUNKY",
+  "de": "Süßwaren, NESTLE, CHUNKY Riegel",
+  "pt": "Balas, NESTLE, barra CHUNKY"
+ },
+ "2999": {
+  "it": "Caramelle, NESTLE, barretta CRUNCH e topping per dessert",
+  "fr": "Bonbons, NESTLE, barre CRUNCH et garniture pour dessert",
+  "es": "Caramelos, NESTLE, barra CRUNCH y cobertura para postres",
+  "de": "Süßwaren, NESTLE, CRUNCH Riegel und Dessert-Topping",
+  "pt": "Balas, NESTLE, barra CRUNCH e cobertura para sobremesa"
+ },
+ "3000": {
+  "it": "Caramelle, NESTLE, arachidi ricoperte di cioccolato GOOBERS",
+  "fr": "Bonbons, NESTLE, cacahuètes enrobées de chocolat GOOBERS",
+  "es": "Caramelos, NESTLE, cacahuetes cubiertos de chocolate GOOBERS",
+  "de": "Süßwaren, NESTLE, GOOBERS schokoladenüberzogene Erdnüsse",
+  "pt": "Balas, NESTLE, amendoins cobertos com chocolate GOOBERS"
+ },
+ "3001": {
+  "it": "Caramelle, NESTLE, barretta OH HENRY!",
+  "fr": "Bonbons, NESTLE, barre OH HENRY!",
+  "es": "Caramelos, NESTLE, barra OH HENRY!",
+  "de": "Süßwaren, NESTLE, OH HENRY! Riegel",
+  "pt": "Balas, NESTLE, barra OH HENRY!"
+ },
+ "3002": {
+  "it": "Caramelle, NESTLE, uvetta ricoperta di cioccolato RAISINETS",
+  "fr": "Bonbons, NESTLE, raisins secs enrobés de chocolat RAISINETS",
+  "es": "Caramelos, NESTLE, pasas cubiertas de chocolate RAISINETS",
+  "de": "Süßwaren, NESTLE, RAISINETS schokoladenüberzogene Rosinen",
+  "pt": "Balas, NESTLE, uvas-passas cobertas com chocolate RAISINETS"
+ },
+ "3003": {
+  "it": "Caramelle, torrone, con mandorle",
+  "fr": "Bonbons, nougat, aux amandes",
+  "es": "Caramelos, turrón, con almendras",
+  "de": "Süßwaren, Nougat, mit Mandeln",
+  "pt": "Balas, nugá, com amêndoas"
+ },
+ "3004": {
+  "it": "Caramelle, barretta di arachidi",
+  "fr": "Bonbons, barre aux cacahuètes",
+  "es": "Caramelos, barra de cacahuete",
+  "de": "Süßwaren, Erdnussriegel",
+  "pt": "Balas, barra de amendoim"
+ },
+ "3005": {
+  "it": "Caramelle, croccante di arachidi, preparato da ricetta",
+  "fr": "Bonbons, nougatine de cacahuètes, préparée selon une recette",
+  "es": "Caramelos, crocante de cacahuete, preparado según receta",
+  "de": "Süßwaren, Erdnusskrokant, nach Rezept zubereitet",
+  "pt": "Balas, pé-de-moleque de amendoim, preparado de acordo com a receita"
+ },
+ "3006": {
+  "it": "Caramelle, pralina, preparata da ricetta",
+  "fr": "Bonbons, praline, préparée selon une recette",
+  "es": "Caramelos, praliné, preparado según receta",
+  "de": "Süßwaren, Praline, nach Rezept zubereitet",
+  "pt": "Balas, praliné, preparado de acordo com a receita"
+ },
+ "3007": {
+  "it": "Caramelle, REESE'S BITES",
+  "fr": "Bonbons, REESE'S BITES",
+  "es": "Caramelos, REESE'S BITES",
+  "de": "Süßwaren, REESE'S BITES",
+  "pt": "Balas, REESE'S BITES"
+ },
+ "3008": {
+  "it": "Caramelle, REESE's Fast Break, cioccolato al latte, burro di arachidi, nougat morbido, barretta",
+  "fr": "Bonbons, REESE's Fast Break, chocolat au lait, beurre de cacahuète, nougat tendre, barre",
+  "es": "Caramelos, REESE's Fast Break, chocolate con leche, mantequilla de cacahuete, turrón blando, barra",
+  "de": "Süßwaren, REESE's Fast Break, Milchschokolade, Erdnussbutter, weicher Nougat, Riegel",
+  "pt": "Balas, REESE's Fast Break, chocolate ao leite, manteiga de amendoim, nugá macio, barra"
+ },
+ "3009": {
+  "it": "Caramelle, barretta REESE'S NUTRAGEOUS",
+  "fr": "Bonbons, barre REESE'S NUTRAGEOUS",
+  "es": "Caramelos, barra REESE'S NUTRAGEOUS",
+  "de": "Süßwaren, REESE'S NUTRAGEOUS Riegel",
+  "pt": "Balas, barra REESE'S NUTRAGEOUS"
+ },
+ "3010": {
+  "it": "Caramelle, cioccolatini al burro di arachidi REESE'S",
+  "fr": "Bonbons, coupelles au beurre de cacahuète REESE'S",
+  "es": "Caramelos, copas de mantequilla de cacahuete REESE'S",
+  "de": "Süßwaren, REESE'S Erdnussbutter-Körbchen",
+  "pt": "Balas, copinhos de manteiga de amendoim REESE'S"
+ },
+ "3011": {
+  "it": "Caramelle, confetti REESE'S PIECES",
+  "fr": "Bonbons, dragées REESE'S PIECES",
+  "es": "Caramelos, grageas REESE'S PIECES",
+  "de": "Süßwaren, REESE'S PIECES Dragees",
+  "pt": "Balas, confeitos REESE'S PIECES"
+ },
+ "3012": {
+  "it": "Caramelle, REESE'S, FAST BREAK, cioccolato al latte, burro di arachidi e nougat morbido",
+  "fr": "Bonbons, REESE'S, FAST BREAK, chocolat au lait, beurre de cacahuète et nougat tendre",
+  "es": "Caramelos, REESE'S, FAST BREAK, chocolate con leche, mantequilla de cacahuete y turrón blando",
+  "de": "Süßwaren, REESE'S, FAST BREAK, Milchschokolade, Erdnussbutter und weicher Nougat",
+  "pt": "Balas, REESE'S, FAST BREAK, chocolate ao leite, manteiga de amendoim e nugá macio"
+ },
+ "3013": {
+  "it": "Caramelle, caramelle ROLO ricoperte di cioccolato al latte",
+  "fr": "Bonbons, caramels ROLO enrobés de chocolat au lait",
+  "es": "Caramelos, caramelos ROLO cubiertos de chocolate con leche",
+  "de": "Süßwaren, ROLO Karamell in Milchschokolade",
+  "pt": "Balas, caramelos ROLO cobertos com chocolate ao leite"
+ },
+ "3014": {
+  "it": "Caramelle, cioccolato semidolce",
+  "fr": "Bonbons, chocolat mi-amer",
+  "es": "Caramelos, chocolate semiamargo",
+  "de": "Süßwaren, halbbittere Schokolade",
+  "pt": "Balas, chocolate meio amargo"
+ },
+ "3015": {
+  "it": "Caramelle, cioccolato semidolce, preparato con burro",
+  "fr": "Bonbons, chocolat mi-amer, préparé avec du beurre",
+  "es": "Caramelos, chocolate semiamargo, preparado con mantequilla",
+  "de": "Süßwaren, halbbittere Schokolade, mit Butter hergestellt",
+  "pt": "Balas, chocolate meio amargo, preparado com manteiga"
+ },
+ "3016": {
+  "it": "Caramelle, croccante di sesamo",
+  "fr": "Bonbons, croquant au sésame",
+  "es": "Caramelos, crocante de sésamo",
+  "de": "Süßwaren, Sesamkrokant",
+  "pt": "Balas, crocante de gergelim"
+ },
+ "3017": {
+  "it": "Caramelle, quadretti morbidi di frutta e noci",
+  "fr": "Bonbons, carrés moelleux aux fruits et aux noix",
+  "es": "Caramelos, cuadritos blandos de fruta y frutos secos",
+  "de": "Süßwaren, weiche Frucht-Nuss-Würfel",
+  "pt": "Balas, quadradinhos macios de frutas e castanhas"
+ },
+ "3018": {
+  "it": "Caramelle, barretta di cioccolato fondente SPECIAL DARK",
+  "fr": "Bonbons, barre de chocolat noir SPECIAL DARK",
+  "es": "Caramelos, barra de chocolate negro SPECIAL DARK",
+  "de": "Süßwaren, SPECIAL DARK Schokoriegel",
+  "pt": "Balas, barra de chocolate amargo SPECIAL DARK"
+ },
+ "3019": {
+  "it": "Caramelle, mandorle ricoperte di zucchero",
+  "fr": "Bonbons, amandes dragéifiées",
+  "es": "Caramelos, almendras garrapiñadas",
+  "de": "Süßwaren, zuckerüberzogene Mandeln",
+  "pt": "Balas, amêndoas confeitadas"
+ },
+ "3020": {
+  "it": "Caramelle, cioccolato dolce",
+  "fr": "Bonbons, chocolat sucré",
+  "es": "Caramelos, chocolate dulce",
+  "de": "Süßwaren, Zartbitterschokolade, gesüßt",
+  "pt": "Balas, chocolate doce"
+ },
+ "3021": {
+  "it": "Caramelle, fondant ricoperto di cioccolato dolce",
+  "fr": "Bonbons, fondant enrobé de chocolat sucré",
+  "es": "Caramelos, fondant cubierto de chocolate dulce",
+  "de": "Süßwaren, Fondant mit Schokoladenüberzug (süß)",
+  "pt": "Balas, fondant coberto com chocolate doce"
+ },
+ "3022": {
+  "it": "Caramelle, barretta di cioccolato al latte SYMPHONY",
+  "fr": "Bonbons, barre de chocolat au lait SYMPHONY",
+  "es": "Caramelos, barra de chocolate con leche SYMPHONY",
+  "de": "Süßwaren, SYMPHONY Milchschokoladenriegel",
+  "pt": "Balas, barra de chocolate ao leite SYMPHONY"
+ },
+ "3023": {
+  "it": "Caramelle, taffy, preparato da ricetta",
+  "fr": "Bonbons, taffy, préparé selon une recette",
+  "es": "Caramelos, taffy, preparado según receta",
+  "de": "Süßwaren, Taffy, nach Rezept zubereitet",
+  "pt": "Balas, taffy, preparado de acordo com a receita"
+ },
+ "3024": {
+  "it": "Caramelle, tamarindo",
+  "fr": "Bonbons, tamarin",
+  "es": "Caramelos, tamarindo",
+  "de": "Süßwaren, Tamarinde",
+  "pt": "Balas, tamarindo"
+ },
+ "3025": {
+  "it": "Caramelle, TOBLERONE, cioccolato al latte con torrone al miele e mandorle",
+  "fr": "Bonbons, TOBLERONE, chocolat au lait avec nougat au miel et aux amandes",
+  "es": "Caramelos, TOBLERONE, chocolate con leche con turrón de miel y almendras",
+  "de": "Süßwaren, TOBLERONE, Milchschokolade mit Honig-Mandel-Nougat",
+  "pt": "Balas, TOBLERONE, chocolate ao leite com nugá de mel e amêndoas"
+ },
+ "3026": {
+  "it": "Caramelle, toffee, preparato da ricetta",
+  "fr": "Bonbons, toffee, préparé selon une recette",
+  "es": "Caramelos, toffee, preparado según receta",
+  "de": "Süßwaren, Toffee, nach Rezept zubereitet",
+  "pt": "Balas, toffee, preparado de acordo com a receita"
+ },
+ "3027": {
+  "it": "Caramelle, TOOTSIE ROLL, rotolo al gusto cioccolato",
+  "fr": "Bonbons, TOOTSIE ROLL, rouleau au goût chocolat",
+  "es": "Caramelos, TOOTSIE ROLL, rollo sabor chocolate",
+  "de": "Süßwaren, TOOTSIE ROLL, Rolle mit Schokoladengeschmack",
+  "pt": "Balas, TOOTSIE ROLL, rolinho sabor chocolate"
+ },
+ "3028": {
+  "it": "Caramelle, tartufi, preparati da ricetta",
+  "fr": "Bonbons, truffes, préparées selon une recette",
+  "es": "Caramelos, trufas, preparadas según receta",
+  "de": "Süßwaren, Trüffel, nach Rezept zubereitet",
+  "pt": "Balas, trufas, preparadas de acordo com a receita"
+ },
+ "3029": {
+  "it": "Caramelle, TWIZZLERS CHERRY BITES",
+  "fr": "Bonbons, TWIZZLERS CHERRY BITES",
+  "es": "Caramelos, TWIZZLERS CHERRY BITES",
+  "de": "Süßwaren, TWIZZLERS CHERRY BITES",
+  "pt": "Balas, TWIZZLERS CHERRY BITES"
+ },
+ "3030": {
+  "it": "Caramelle, TWIZZLERS NIBS CHERRY BITS",
+  "fr": "Bonbons, TWIZZLERS NIBS CHERRY BITS",
+  "es": "Caramelos, TWIZZLERS NIBS CHERRY BITS",
+  "de": "Süßwaren, TWIZZLERS NIBS CHERRY BITS",
+  "pt": "Balas, TWIZZLERS NIBS CHERRY BITS"
+ },
+ "3031": {
+  "it": "Caramelle, TWIZZLERS Strawberry Twists, caramelle alla fragola",
+  "fr": "Bonbons, TWIZZLERS Strawberry Twists, bonbons à la fraise",
+  "es": "Caramelos, TWIZZLERS Strawberry Twists, caramelos de fresa",
+  "de": "Süßwaren, TWIZZLERS Strawberry Twists, Erdbeerbonbons",
+  "pt": "Balas, TWIZZLERS Strawberry Twists, balas de morango"
+ },
+ "3032": {
+  "it": "Caramelle, barretta WHATCHAMACALLIT",
+  "fr": "Bonbons, barre WHATCHAMACALLIT",
+  "es": "Caramelos, barra WHATCHAMACALLIT",
+  "de": "Süßwaren, WHATCHAMACALLIT Riegel",
+  "pt": "Balas, barra WHATCHAMACALLIT"
+ },
+ "3033": {
+  "it": "Caramelle, cioccolato bianco",
+  "fr": "Bonbons, chocolat blanc",
+  "es": "Caramelos, chocolate blanco",
+  "de": "Süßwaren, weiße Schokolade",
+  "pt": "Balas, chocolate branco"
+ },
+ "3034": {
+  "it": "Caramelle, YORK BITES",
+  "fr": "Bonbons, YORK BITES",
+  "es": "Caramelos, YORK BITES",
+  "de": "Süßwaren, YORK BITES",
+  "pt": "Balas, YORK BITES"
+ },
+ "3035": {
+  "it": "Caramelle, YORK Peppermint Pattie, dischetto alla menta",
+  "fr": "Bonbons, YORK Peppermint Pattie, palet à la menthe",
+  "es": "Caramelos, YORK Peppermint Pattie, disco de menta",
+  "de": "Süßwaren, YORK Peppermint Pattie, Pfefferminztaler",
+  "pt": "Balas, YORK Peppermint Pattie, disco de hortelã"
+ },
+ "3036": {
+  "it": "Caramella, caramello",
+  "fr": "Bonbon, caramel",
+  "es": "Caramelo, caramelo",
+  "de": "Bonbon, Karamell",
+  "pt": "Bala, caramelo"
+ },
+ "3037": {
+  "it": "Caramella, zucchero filato",
+  "fr": "Bonbon, barbe à papa",
+  "es": "Caramelo, algodón de azúcar",
+  "de": "Bonbon, Zuckerwatte",
+  "pt": "Bala, algodão-doce"
+ },
+ "3038": {
+  "it": "Caramella, pezzi al gusto di frutta",
+  "fr": "Bonbon, morceaux aromatisés aux fruits",
+  "es": "Caramelo, piezas con sabor a frutas",
+  "de": "Bonbon, Stücke mit Fruchtgeschmack",
+  "pt": "Bala, pedaços sabor frutas"
+ },
+ "3039": {
+  "it": "Caramella, fruit leather (sfoglia di frutta)",
+  "fr": "Bonbon, cuir de fruits",
+  "es": "Caramelo, cuero de fruta",
+  "de": "Bonbon, Fruchtleder",
+  "pt": "Bala, folha de fruta (fruit leather)"
+ },
+ "3040": {
+  "it": "Caramella, snack alla frutta",
+  "fr": "Bonbon, snacks aux fruits",
+  "es": "Caramelo, snacks de fruta",
+  "de": "Bonbon, Fruchtsnacks",
+  "pt": "Bala, snacks de frutas"
+ },
+ "3041": {
+  "it": "Caramella, gommosa",
+  "fr": "Bonbon, gommeux",
+  "es": "Caramelo, gomita",
+  "de": "Bonbon, Gummibärchen",
+  "pt": "Bala, goma de mascar (gummy)"
+ },
+ "3042": {
+  "it": "Caramella, dura",
+  "fr": "Bonbon, dur",
+  "es": "Caramelo, duro",
+  "de": "Bonbon, hart",
+  "pt": "Bala, dura"
+ },
+ "3043": {
+  "it": "Caramella, liquirizia",
+  "fr": "Bonbon, réglisse",
+  "es": "Caramelo, regaliz",
+  "de": "Bonbon, Lakritz",
+  "pt": "Bala, alcaçuz"
+ },
+ "3044": {
+  "it": "Caramella, lecca-lecca",
+  "fr": "Bonbon, sucette",
+  "es": "Caramelo, piruleta",
+  "de": "Bonbon, Lutscher",
+  "pt": "Bala, pirulito"
+ },
+ "3045": {
+  "it": "Caramella, marshmallow",
+  "fr": "Bonbon, guimauve",
+  "es": "Caramelo, malvavisco (marshmallow)",
+  "de": "Bonbon, Marshmallow",
+  "pt": "Bala, marshmallow"
+ },
+ "3046": {
+  "it": "Caramella, alla menta",
+  "fr": "Bonbon, à la menthe",
+  "es": "Caramelo, de menta",
+  "de": "Bonbon, Minze",
+  "pt": "Bala, de hortelã"
+ },
+ "3047": {
+  "it": "Caramella, non specificata",
+  "fr": "Bonbon, non spécifié",
+  "es": "Caramelo, no especificado",
+  "de": "Bonbon, nicht näher bezeichnet",
+  "pt": "Bala, não especificada"
+ },
+ "3048": {
+  "it": "Caramella, non al cioccolato, altro, non specificata",
+  "fr": "Bonbon, sans chocolat, autre, non spécifié",
+  "es": "Caramelo, sin chocolate, otro, no especificado",
+  "de": "Bonbon, ohne Schokolade, andere, nicht näher bezeichnet",
+  "pt": "Bala, sem chocolate, outra, não especificada"
+ },
+ "3049": {
+  "it": "Caramella, non al cioccolato, senza zucchero",
+  "fr": "Bonbon, sans chocolat, sans sucre",
+  "es": "Caramelo, sin chocolate, sin azúcar",
+  "de": "Bonbon, ohne Schokolade, zuckerfrei",
+  "pt": "Bala, sem chocolate, sem açúcar"
+ },
+ "3050": {
+  "it": "Caramella, torrone con noci",
+  "fr": "Bonbon, nougat aux noix",
+  "es": "Caramelo, turrón con frutos secos",
+  "de": "Bonbon, Nougat mit Nüssen",
+  "pt": "Bala, nugá com castanhas"
+ },
+ "3051": {
+  "it": "Caramella, croccante di arachidi",
+  "fr": "Bonbon, nougatine de cacahuètes",
+  "es": "Caramelo, crocante de cacahuete",
+  "de": "Bonbon, Erdnusskrokant",
+  "pt": "Bala, pé-de-moleque de amendoim"
+ },
+ "3052": {
+  "it": "Caramella, codette (granelle di zucchero)",
+  "fr": "Bonbon, vermicelles en sucre (décoration)",
+  "es": "Caramelo, grageas decorativas (sprinkles)",
+  "de": "Bonbon, Streusel (Zuckerstreusel)",
+  "pt": "Bala, granulado colorido"
+ },
+ "3053": {
+  "it": "Caramella, taffy",
+  "fr": "Bonbon, taffy",
+  "es": "Caramelo, taffy",
+  "de": "Bonbon, Taffy",
+  "pt": "Bala, taffy"
+ },
+ "3054": {
+  "it": "Cannelloni, ripieni di formaggio e spinaci, senza salsa",
+  "fr": "Cannellonis, farcis au fromage et aux épinards, sans sauce",
+  "es": "Canelones, rellenos de queso y espinacas, sin salsa",
+  "de": "Cannelloni, mit Käse-Spinat-Füllung, ohne Sauce",
+  "pt": "Canelone, recheado com queijo e espinafre, sem molho"
+ },
+ "3055": {
+  "it": "Olio di canola",
+  "fr": "Huile de colza (canola)",
+  "es": "Aceite de canola",
+  "de": "Rapsöl (Canola)",
+  "pt": "Óleo de canola"
+ },
+ "3056": {
+  "it": "Nettare di melone cantalupo",
+  "fr": "Nectar de melon cantaloup",
+  "es": "Néctar de melón cantalupo",
+  "de": "Cantaloupe-Melonennektar",
+  "pt": "Néctar de melão cantalupe"
+ },
+ "3057": {
+  "it": "Melone cantalupo, crudo",
+  "fr": "Melon cantaloup, cru",
+  "es": "Melón cantalupo, crudo",
+  "de": "Cantaloupe-Melone, roh",
+  "pt": "Melão cantalupe, cru"
+ },
+ "3058": {
+  "it": "Cape Cod",
+  "fr": "Cape Cod",
+  "es": "Cape Cod",
+  "de": "Cape Cod",
+  "pt": "Cape Cod"
+ },
+ "3059": {
+  "it": "Capperi, in scatola",
+  "fr": "Câpres, en conserve",
+  "es": "Alcaparras, en conserva",
+  "de": "Kapern, aus der Dose",
+  "pt": "Alcaparras, enlatadas"
+ },
+ "3060": {
+  "it": "Carambola, (frutto stella), cruda",
+  "fr": "Carambole, (étoile), crue",
+  "es": "Carambola, (fruta estrella), cruda",
+  "de": "Karambole, (Sternfrucht), roh",
+  "pt": "Carambola, (fruta-estrela), crua"
+ },
+ "3061": {
+  "it": "Salsa al caramello, light",
+  "fr": "Dip au caramel, allégé",
+  "es": "Dip de caramelo, light",
+  "de": "Karamell-Dip, leicht",
+  "pt": "Molho de caramelo, light"
+ },
+ "3062": {
+  "it": "Salsa al caramello, normale",
+  "fr": "Dip au caramel, classique",
+  "es": "Dip de caramelo, normal",
+  "de": "Karamell-Dip, normal",
+  "pt": "Molho de caramelo, tradicional"
+ },
+ "3063": {
+  "it": "Bevanda gassata, gassosa al cioccolato",
+  "fr": "Boisson gazeuse, soda au chocolat",
+  "es": "Bebida carbonatada, refresco de chocolate",
+  "de": "Kohlensäurehaltiges Getränk, Schokoladenlimonade",
+  "pt": "Bebida gaseificada, refrigerante de chocolate"
+ },
+ "3064": {
+  "it": "Bevanda gassata, cream soda",
+  "fr": "Boisson gazeuse, cream soda",
+  "es": "Bebida carbonatada, cream soda",
+  "de": "Kohlensäurehaltiges Getränk, Cream Soda",
+  "pt": "Bebida gaseificada, cream soda"
+ },
+ "3065": {
+  "it": "Bevanda gassata, a basso contenuto calorico, diversa da cola o pepper, con saccarina sodica, senza caffeina",
+  "fr": "Boisson gazeuse, basses calories, autre que cola ou pepper, avec saccharine sodique, sans caféine",
+  "es": "Bebida carbonatada, baja en calorías, distinta de cola o pepper, con sacarina sódica, sin cafeína",
+  "de": "Kohlensäurehaltiges Getränk, kalorienarm, kein Cola oder Pepper, mit Natriumsaccharin, ohne Koffein",
+  "pt": "Bebida gaseificada, baixa caloria, exceto cola ou pepper, com sacarina sódica, sem cafeína"
+ },
+ "3066": {
+  "it": "Cardo, cotto, bollito, sgocciolato, con sale",
+  "fr": "Cardon, cuit, bouilli, égoutté, avec sel",
+  "es": "Cardo, cocido, hervido, escurrido, con sal",
+  "de": "Kardy, gekocht, abgetropft, mit Salz",
+  "pt": "Cardo, cozido, cozido em água, escorrido, com sal"
+ },
+ "3067": {
+  "it": "Cardo, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Cardon, cuit, bouilli, égoutté, sans sel",
+  "es": "Cardo, cocido, hervido, escurrido, sin sal",
+  "de": "Kardy, gekocht, abgetropft, ohne Salz",
+  "pt": "Cardo, cozido, cozido em água, escorrido, sem sal"
+ },
+ "3068": {
+  "it": "Cardo, crudo",
+  "fr": "Cardon, cru",
+  "es": "Cardo, crudo",
+  "de": "Kardy, roh",
+  "pt": "Cardo, cru"
+ },
+ "3069": {
+  "it": "Caribù",
+  "fr": "Caribou",
+  "es": "Caribú",
+  "de": "Karibu",
+  "pt": "Caribu"
+ },
+ "3070": {
+  "it": "Caribù, midollo osseo, crudo (nativi dell'Alaska)",
+  "fr": "Caribou, moelle osseuse, crue (autochtones d'Alaska)",
+  "es": "Caribú, médula ósea, cruda (nativos de Alaska)",
+  "de": "Karibu, Knochenmark, roh (Ureinwohner Alaskas)",
+  "pt": "Caribu, medula óssea, crua (nativos do Alasca)"
+ },
+ "3071": {
+  "it": "Caribù, occhio, crudo (nativi dell'Alaska)",
+  "fr": "Caribou, œil, cru (autochtones d'Alaska)",
+  "es": "Caribú, ojo, crudo (nativos de Alaska)",
+  "de": "Karibu, Auge, roh (Ureinwohner Alaskas)",
+  "pt": "Caribu, olho, cru (nativos do Alasca)"
+ },
+ "3072": {
+  "it": "Caribù, carne del quarto posteriore, cruda (nativi dell'Alaska)",
+  "fr": "Caribou, viande du quartier arrière, crue (autochtones d'Alaska)",
+  "es": "Caribú, carne del cuarto trasero, cruda (nativos de Alaska)",
+  "de": "Karibu, Fleisch vom Hinterviertel, roh (Ureinwohner Alaskas)",
+  "pt": "Caribu, carne do quarto traseiro, crua (nativos do Alasca)"
+ },
+ "3073": {
+  "it": "Caribù, carne del quarto posteriore, cotta (nativi dell'Alaska)",
+  "fr": "Caribou, viande du quartier arrière, cuite (autochtones d'Alaska)",
+  "es": "Caribú, carne del cuarto trasero, cocida (nativos de Alaska)",
+  "de": "Karibu, Fleisch vom Hinterviertel, gekocht (Ureinwohner Alaskas)",
+  "pt": "Caribu, carne do quarto traseiro, cozida (nativos do Alasca)"
+ },
+ "3074": {
+  "it": "Caribù, fegato, crudo (nativi dell'Alaska)",
+  "fr": "Caribou, foie, cru (autochtones d'Alaska)",
+  "es": "Caribú, hígado, crudo (nativos de Alaska)",
+  "de": "Karibu, Leber, roh (Ureinwohner Alaskas)",
+  "pt": "Caribu, fígado, cru (nativos do Alasca)"
+ },
+ "3075": {
+  "it": "Caribù, carne di codone, semisecca (nativi dell'Alaska)",
+  "fr": "Caribou, viande de croupe, mi-séchée (autochtones d'Alaska)",
+  "es": "Caribú, carne de cuadril, semiseca (nativos de Alaska)",
+  "de": "Karibu, Fleisch vom Schwanzstück, halbgetrocknet (Ureinwohner Alaskas)",
+  "pt": "Caribu, carne da alcatra, semisseca (nativos do Alasca)"
+ },
+ "3076": {
+  "it": "Caribù, carne di spalla, secca (nativi dell'Alaska)",
+  "fr": "Caribou, viande d'épaule, séchée (autochtones d'Alaska)",
+  "es": "Caribú, carne de paleta, seca (nativos de Alaska)",
+  "de": "Karibu, Schulterfleisch, getrocknet (Ureinwohner Alaskas)",
+  "pt": "Caribu, carne do ombro, seca (nativos do Alasca)"
+ },
+ "3077": {
+  "it": "Caribù, lingua, cruda (nativi dell'Alaska)",
+  "fr": "Caribou, langue, crue (autochtones d'Alaska)",
+  "es": "Caribú, lengua, cruda (nativos de Alaska)",
+  "de": "Karibu, Zunge, roh (Ureinwohner Alaskas)",
+  "pt": "Caribu, língua, crua (nativos do Alasca)"
+ },
+ "3078": {
+  "it": "Carissa, (prugna del Natal), cruda",
+  "fr": "Carissa, (prune du Natal), crue",
+  "es": "Carissa, (ciruela de Natal), cruda",
+  "de": "Carissa, (Natal-Pflaume), roh",
+  "pt": "Carissa, (ameixa-de-natal), crua"
+ },
+ "3079": {
+  "it": "Farina di carruba",
+  "fr": "Farine de caroube",
+  "es": "Harina de algarroba",
+  "de": "Johannisbrotmehl",
+  "pt": "Farinha de alfarroba"
+ },
+ "3080": {
+  "it": "CARRABBA'S ITALIAN GRILL, ravioli al formaggio con salsa marinara",
+  "fr": "CARRABBA'S ITALIAN GRILL, raviolis au fromage avec sauce marinara",
+  "es": "CARRABBA'S ITALIAN GRILL, ravioles de queso con salsa marinara",
+  "de": "CARRABBA'S ITALIAN GRILL, Käse-Ravioli mit Marinara-Sauce",
+  "pt": "CARRABBA'S ITALIAN GRILL, ravióli de queijo com molho marinara"
+ },
+ "3081": {
+  "it": "CARRABBA'S ITALIAN GRILL, pollo alla parmigiana senza pasta cavatappi",
+  "fr": "CARRABBA'S ITALIAN GRILL, poulet parmesan sans pâtes cavatappi",
+  "es": "CARRABBA'S ITALIAN GRILL, pollo a la parmesana sin pasta cavatappi",
+  "de": "CARRABBA'S ITALIAN GRILL, Hähnchen Parmigiana ohne Cavatappi-Nudeln",
+  "pt": "CARRABBA'S ITALIAN GRILL, frango à parmegiana sem massa cavatappi"
+ },
+ "3082": {
+  "it": "CARRABBA'S ITALIAN GRILL, lasagne",
+  "fr": "CARRABBA'S ITALIAN GRILL, lasagnes",
+  "es": "CARRABBA'S ITALIAN GRILL, lasaña",
+  "de": "CARRABBA'S ITALIAN GRILL, Lasagne",
+  "pt": "CARRABBA'S ITALIAN GRILL, lasanha"
+ },
+ "3083": {
+  "it": "CARRABBA'S ITALIAN GRILL, spaghetti con ragù di carne",
+  "fr": "CARRABBA'S ITALIAN GRILL, spaghettis avec sauce à la viande",
+  "es": "CARRABBA'S ITALIAN GRILL, espaguetis con salsa de carne",
+  "de": "CARRABBA'S ITALIAN GRILL, Spaghetti mit Fleischsauce",
+  "pt": "CARRABBA'S ITALIAN GRILL, espaguete com molho de carne"
+ },
+ "3084": {
+  "it": "CARRABBA'S ITALIAN GRILL, spaghetti con salsa pomodoro",
+  "fr": "CARRABBA'S ITALIAN GRILL, spaghettis avec sauce pomodoro",
+  "es": "CARRABBA'S ITALIAN GRILL, espaguetis con salsa pomodoro",
+  "de": "CARRABBA'S ITALIAN GRILL, Spaghetti mit Pomodoro-Sauce",
+  "pt": "CARRABBA'S ITALIAN GRILL, espaguete com molho pomodoro"
+ },
+ "3085": {
+  "it": "Succo di carota, 100%",
+  "fr": "Jus de carotte, 100 %",
+  "es": "Zumo de zanahoria, 100%",
+  "de": "Karottensaft, 100%",
+  "pt": "Suco de cenoura, 100%"
+ },
+ "3086": {
+  "it": "Succo di carota, in scatola",
+  "fr": "Jus de carotte, en conserve",
+  "es": "Zumo de zanahoria, en conserva",
+  "de": "Karottensaft, aus der Dose",
+  "pt": "Suco de cenoura, enlatado"
+ },
+ "3087": {
+  "it": "Carota, disidratata",
+  "fr": "Carotte, déshydratée",
+  "es": "Zanahoria, deshidratada",
+  "de": "Karotte, dehydriert",
+  "pt": "Cenoura, desidratada"
+ },
+ "3088": {
+  "it": "Carote, baby, crude",
+  "fr": "Carottes, baby, crues",
+  "es": "Zanahorias, baby, crudas",
+  "de": "Karotten, Baby-, roh",
+  "pt": "Cenouras, baby, cruas"
+ },
+ "3101": {
+  "it": "Carote, cotte, come ingrediente",
+  "fr": "Carottes, cuites, comme ingrédient",
+  "es": "Zanahorias, cocidas, como ingrediente",
+  "de": "Karotten, gekocht, als Zutat",
+  "pt": "Cenouras, cozidas, como ingrediente"
+ },
+ "3102": {
+  "it": "Carote, cotte, bollite, sgocciolate, con sale",
+  "fr": "Carottes, cuites, bouillies, égouttées, avec sel",
+  "es": "Zanahorias, cocidas, hervidas, escurridas, con sal",
+  "de": "Karotten, gekocht, abgetropft, mit Salz",
+  "pt": "Cenouras, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "3103": {
+  "it": "Carote, cotte, bollite, sgocciolate, senza sale",
+  "fr": "Carottes, cuites, bouillies, égouttées, sans sel",
+  "es": "Zanahorias, cocidas, hervidas, escurridas, sin sal",
+  "de": "Karotten, gekocht, abgetropft, ohne Salz",
+  "pt": "Cenouras, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "3104": {
+  "it": "Carote, cotte, da ristorante",
+  "fr": "Carottes, cuites, de restaurant",
+  "es": "Zanahorias, cocidas, de restaurante",
+  "de": "Karotten, gekocht, aus dem Restaurant",
+  "pt": "Cenouras, cozidas, de restaurante"
+ },
+ "3115": {
+  "it": "Carote, surgelate, non preparate",
+  "fr": "Carottes, surgelées, non préparées",
+  "es": "Zanahorias, congeladas, sin preparar",
+  "de": "Karotten, tiefgekühlt, unzubereitet",
+  "pt": "Cenouras, congeladas, não preparadas"
+ },
+ "3116": {
+  "it": "Carote, surgelate, non preparate (include alimenti del Programma di distribuzione alimentare USDA)",
+  "fr": "Carottes, surgelées, non préparées (inclut des aliments du Programme de distribution alimentaire de l'USDA)",
+  "es": "Zanahorias, congeladas, sin preparar (incluye alimentos del Programa de distribución de alimentos del USDA)",
+  "de": "Karotten, tiefgekühlt, unzubereitet (einschließlich Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+  "pt": "Cenouras, congeladas, não preparadas (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+ },
+ "3117": {
+  "it": "Carote, glassate, cotte",
+  "fr": "Carottes, glacées, cuites",
+  "es": "Zanahorias, glaseadas, cocidas",
+  "de": "Karotten, glasiert, gekocht",
+  "pt": "Cenouras, glaceadas, cozidas"
+ },
+ "3118": {
+  "it": "Carote, mature, crude",
+  "fr": "Carottes, matures, crues",
+  "es": "Zanahorias, maduras, crudas",
+  "de": "Karotten, ausgereift, roh",
+  "pt": "Cenouras, maduras, cruas"
+ },
+ "3119": {
+  "it": "Carote, forma non specificata, cotte",
+  "fr": "Carottes, forme non précisée, cuites",
+  "es": "Zanahorias, forma sin especificar, cocidas",
+  "de": "Karotten, Form nicht angegeben, gekocht",
+  "pt": "Cenouras, forma não especificada, cozidas"
+ },
+ "3120": {
+  "it": "Carote, crude",
+  "fr": "Carottes, crues",
+  "es": "Zanahorias, crudas",
+  "de": "Karotten, roh",
+  "pt": "Cenouras, cruas"
+ },
+ "3121": {
+  "it": "Carote, crude, in insalata",
+  "fr": "Carottes, crues, en salade",
+  "es": "Zanahorias, crudas, en ensalada",
+  "de": "Karotten, roh, als Salat",
+  "pt": "Cenouras, cruas, em salada"
+ },
+ "3122": {
+  "it": "Carote, crude, in insalata con mele",
+  "fr": "Carottes, crues, en salade avec des pommes",
+  "es": "Zanahorias, crudas, en ensalada con manzanas",
+  "de": "Karotten, roh, als Salat mit Äpfeln",
+  "pt": "Cenouras, cruas, em salada com maçãs"
+ },
+ "3123": {
+  "it": "Casabe, pane di manioca",
+  "fr": "Cassave, pain de manioc",
+  "es": "Casabe, pan de yuca",
+  "de": "Casabe, Maniokbrot",
+  "pt": "Casabe, pão de mandioca"
+ },
+ "3124": {
+  "it": "Burro di anacardi",
+  "fr": "Beurre de noix de cajou",
+  "es": "Mantequilla de anacardos",
+  "de": "Cashewmus",
+  "pt": "Manteiga de caju"
+ },
+ "3125": {
+  "it": "Anacardi, tostati al miele",
+  "fr": "Noix de cajou, rôties au miel",
+  "es": "Anacardos, tostados con miel",
+  "de": "Cashewkerne, mit Honig geröstet",
+  "pt": "Castanhas-de-caju, torradas com mel"
+ },
+ "3126": {
+  "it": "Anacardi, leggermente salati",
+  "fr": "Noix de cajou, légèrement salées",
+  "es": "Anacardos, ligeramente salados",
+  "de": "Cashewkerne, leicht gesalzen",
+  "pt": "Castanhas-de-caju, levemente salgadas"
+ },
+ "3127": {
+  "it": "Anacardi, non specificati",
+  "fr": "Noix de cajou, non spécifiées",
+  "es": "Anacardos, no especificados",
+  "de": "Cashewkerne, nicht näher bezeichnet",
+  "pt": "Castanhas-de-caju, não especificadas"
+ },
+ "3128": {
+  "it": "Anacardi, salati",
+  "fr": "Noix de cajou, salées",
+  "es": "Anacardos, salados",
+  "de": "Cashewkerne, gesalzen",
+  "pt": "Castanhas-de-caju, salgadas"
+ },
+ "3129": {
+  "it": "Anacardi, non tostati",
+  "fr": "Noix de cajou, non grillées",
+  "es": "Anacardos, sin tostar",
+  "de": "Cashewkerne, ungeröstet",
+  "pt": "Castanhas-de-caju, não torradas"
+ },
+ "3130": {
+  "it": "Anacardi, non salati",
+  "fr": "Noix de cajou, non salées",
+  "es": "Anacardos, sin sal",
+  "de": "Cashewkerne, ungesalzen",
+  "pt": "Castanhas-de-caju, sem sal"
+ },
+ "3131": {
+  "it": "Manioca, cotta",
+  "fr": "Manioc, cuit",
+  "es": "Yuca, cocida",
+  "de": "Maniok, gekocht",
+  "pt": "Mandioca, cozida"
+ },
+ "3132": {
+  "it": "Manioca, cruda",
+  "fr": "Manioc, cru",
+  "es": "Yuca, cruda",
+  "de": "Maniok, roh",
+  "pt": "Mandioca, crua"
+ },
+ "3133": {
+  "it": "Ketchup",
+  "fr": "Ketchup",
+  "es": "Kétchup",
+  "de": "Ketchup",
+  "pt": "Ketchup"
+ },
+ "3134": {
+  "it": "Ketchup, a basso contenuto di sodio",
+  "fr": "Ketchup, à faible teneur en sodium",
+  "es": "Kétchup, bajo en sodio",
+  "de": "Ketchup, natriumarm",
+  "pt": "Ketchup, com baixo teor de sódio"
+ },
+ "3135": {
+  "it": "Tifa (Typha), germogli di foglia stretta (Indiani delle Grandi Pianure del Nord)",
+  "fr": "Massette, pousses à feuilles étroites (Indiens des Plaines du Nord)",
+  "es": "Espadaña, brotes de hoja estrecha (indios de las Grandes Llanuras del Norte)",
+  "de": "Rohrkolben, Sprossen der Schmalblättrigen Art (Indianer der nördlichen Great Plains)",
+  "pt": "Taboa, brotos de folha estreita (índios das Planícies do Norte)"
+ },
+ "3136": {
+  "it": "Cavolfiore, cotto, come ingrediente",
+  "fr": "Chou-fleur, cuit, comme ingrédient",
+  "es": "Coliflor, cocida, como ingrediente",
+  "de": "Blumenkohl, gekocht, als Zutat",
+  "pt": "Couve-flor, cozida, como ingrediente"
+ },
+ "3149": {
+  "it": "Cavolfiore, surgelato, non preparato",
+  "fr": "Chou-fleur, surgelé, non préparé",
+  "es": "Coliflor, congelada, sin preparar",
+  "de": "Blumenkohl, tiefgekühlt, unzubereitet",
+  "pt": "Couve-flor, congelada, não preparada"
+ },
+ "3150": {
+  "it": "Cavolfiore, verde, cotto, senza sale aggiunto",
+  "fr": "Chou-fleur, vert, cuit, sans sel ajouté",
+  "es": "Coliflor, verde, cocida, sin sal añadida",
+  "de": "Blumenkohl, grün, gekocht, ohne Salzzusatz",
+  "pt": "Couve-flor, verde, cozida, sem sal adicionado"
+ },
+ "3151": {
+  "it": "Cavolfiore, verde, cotto, con sale",
+  "fr": "Chou-fleur, vert, cuit, avec sel",
+  "es": "Coliflor, verde, cocida, con sal",
+  "de": "Blumenkohl, grün, gekocht, mit Salz",
+  "pt": "Couve-flor, verde, cozida, com sal"
+ },
+ "3152": {
+  "it": "Cavolfiore, verde, crudo",
+  "fr": "Chou-fleur, vert, cru",
+  "es": "Coliflor, verde, cruda",
+  "de": "Blumenkohl, grün, roh",
+  "pt": "Couve-flor, verde, crua"
+ },
+ "3153": {
+  "it": "Cavolfiore, forma non specificata, cotto",
+  "fr": "Chou-fleur, forme non précisée, cuit",
+  "es": "Coliflor, forma sin especificar, cocida",
+  "de": "Blumenkohl, Form nicht angegeben, gekocht",
+  "pt": "Couve-flor, forma não especificada, cozida"
+ },
+ "3154": {
+  "it": "Cavolfiore, sott'aceto",
+  "fr": "Chou-fleur, au vinaigre",
+  "es": "Coliflor, en vinagre",
+  "de": "Blumenkohl, eingelegt",
+  "pt": "Couve-flor, em conserva de vinagre"
+ },
+ "3155": {
+  "it": "Cavolfiore, crudo",
+  "fr": "Chou-fleur, cru",
+  "es": "Coliflor, cruda",
+  "de": "Blumenkohl, roh",
+  "pt": "Couve-flor, crua"
+ },
+ "3156": {
+  "it": "Caviale",
+  "fr": "Caviar",
+  "es": "Caviar",
+  "de": "Kaviar",
+  "pt": "Caviar"
+ },
+ "3157": {
+  "it": "Sedano rapa, cotto, bollito, sgocciolato, con sale",
+  "fr": "Céleri-rave, cuit, bouilli, égoutté, avec sel",
+  "es": "Apio nabo, cocido, hervido, escurrido, con sal",
+  "de": "Knollensellerie, gekocht, abgetropft, mit Salz",
+  "pt": "Aipo-rábano, cozido, cozido em água, escorrido, com sal"
+ },
+ "3158": {
+  "it": "Sedano rapa, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Céleri-rave, cuit, bouilli, égoutté, sans sel",
+  "es": "Apio nabo, cocido, hervido, escurrido, sin sal",
+  "de": "Knollensellerie, gekocht, abgetropft, ohne Salz",
+  "pt": "Aipo-rábano, cozido, cozido em água, escorrido, sem sal"
+ },
+ "3159": {
+  "it": "Sedano rapa, crudo",
+  "fr": "Céleri-rave, cru",
+  "es": "Apio nabo, crudo",
+  "de": "Knollensellerie, roh",
+  "pt": "Aipo-rábano, cru"
+ },
+ "3160": {
+  "it": "Succo di sedano",
+  "fr": "Jus de céleri",
+  "es": "Zumo de apio",
+  "de": "Selleriesaft",
+  "pt": "Suco de aipo"
+ },
+ "3161": {
+  "it": "Sedano, cotto",
+  "fr": "Céleri, cuit",
+  "es": "Apio, cocido",
+  "de": "Staudensellerie, gekocht",
+  "pt": "Aipo, cozido"
+ },
+ "3162": {
+  "it": "Sedano, cotto, come ingrediente",
+  "fr": "Céleri, cuit, comme ingrédient",
+  "es": "Apio, cocido, como ingrediente",
+  "de": "Staudensellerie, gekocht, als Zutat",
+  "pt": "Aipo, cozido, como ingrediente"
+ },
+ "3163": {
+  "it": "Sedano, cotto, bollito, sgocciolato, con sale",
+  "fr": "Céleri, cuit, bouilli, égoutté, avec sel",
+  "es": "Apio, cocido, hervido, escurrido, con sal",
+  "de": "Staudensellerie, gekocht, abgetropft, mit Salz",
+  "pt": "Aipo, cozido, cozido em água, escorrido, com sal"
+ },
+ "3164": {
+  "it": "Sedano, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Céleri, cuit, bouilli, égoutté, sans sel",
+  "es": "Apio, cocido, hervido, escurrido, sin sal",
+  "de": "Staudensellerie, gekocht, abgetropft, ohne Salz",
+  "pt": "Aipo, cozido, cozido em água, escorrido, sem sal"
+ },
+ "3165": {
+  "it": "Sedano, sott'aceto",
+  "fr": "Céleri, au vinaigre",
+  "es": "Apio, en vinagre",
+  "de": "Staudensellerie, eingelegt",
+  "pt": "Aipo, em conserva de vinagre"
+ },
+ "3166": {
+  "it": "Sedano, crudo",
+  "fr": "Céleri, cru",
+  "es": "Apio, crudo",
+  "de": "Staudensellerie, roh",
+  "pt": "Aipo, cru"
+ },
+ "3167": {
+  "it": "Celtuce (lattuga-asparago), crudo",
+  "fr": "Laitue asperge (celtuce), crue",
+  "es": "Celtuce (lechuga espárrago), crudo",
+  "de": "Spargelsalat (Celtuce), roh",
+  "pt": "Celtuce (alface-aspargo), cru"
+ },
+ "3168": {
+  "it": "Barretta di cereali o granola (General Mills Fiber One Chewy Bar)",
+  "fr": "Barre de céréales ou de granola (General Mills Fiber One Chewy Bar)",
+  "es": "Barrita de cereales o granola (General Mills Fiber One Chewy Bar)",
+  "de": "Müsliriegel oder Granolariegel (General Mills Fiber One Chewy Bar)",
+  "pt": "Barra de cereal ou granola (General Mills Fiber One Chewy Bar)"
+ },
+ "3169": {
+  "it": "Barretta di cereali o granola (General Mills Nature Valley Chewy Trail Mix)",
+  "fr": "Barre de céréales ou de granola (General Mills Nature Valley Chewy Trail Mix)",
+  "es": "Barrita de cereales o granola (General Mills Nature Valley Chewy Trail Mix)",
+  "de": "Müsliriegel oder Granolariegel (General Mills Nature Valley Chewy Trail Mix)",
+  "pt": "Barra de cereal ou granola (General Mills Nature Valley Chewy Trail Mix)"
+ },
+ "3170": {
+  "it": "Barretta di cereali o granola (General Mills Nature Valley Crunchy Granola Bar)",
+  "fr": "Barre de céréales ou de granola (General Mills Nature Valley Crunchy Granola Bar)",
+  "es": "Barrita de cereales o granola (General Mills Nature Valley Crunchy Granola Bar)",
+  "de": "Müsliriegel oder Granolariegel (General Mills Nature Valley Crunchy Granola Bar)",
+  "pt": "Barra de cereal ou granola (General Mills Nature Valley Crunchy Granola Bar)"
+ },
+ "3171": {
+  "it": "Barretta di cereali o granola (General Mills Nature Valley Sweet and Salty Granola Bar)",
+  "fr": "Barre de céréales ou de granola (General Mills Nature Valley Sweet and Salty Granola Bar)",
+  "es": "Barrita de cereales o granola (General Mills Nature Valley Sweet and Salty Granola Bar)",
+  "de": "Müsliriegel oder Granolariegel (General Mills Nature Valley Sweet and Salty Granola Bar)",
+  "pt": "Barra de cereal ou granola (General Mills Nature Valley Sweet and Salty Granola Bar)"
+ },
+ "3172": {
+  "it": "Barretta di cereali o granola (Kashi Chewy)",
+  "fr": "Barre de céréales ou de granola (Kashi Chewy)",
+  "es": "Barrita de cereales o granola (Kashi Chewy)",
+  "de": "Müsliriegel oder Granolariegel (Kashi Chewy)",
+  "pt": "Barra de cereal ou granola (Kashi Chewy)"
+ },
+ "3173": {
+  "it": "Barretta di cereali o granola (Kashi Crunchy)",
+  "fr": "Barre de céréales ou de granola (Kashi Crunchy)",
+  "es": "Barrita de cereales o granola (Kashi Crunchy)",
+  "de": "Müsliriegel oder Granolariegel (Kashi Crunchy)",
+  "pt": "Barra de cereal ou granola (Kashi Crunchy)"
+ },
+ "3174": {
+  "it": "Barretta di cereali o granola (Kellogg's Nutri-Grain Cereal Bar)",
+  "fr": "Barre de céréales ou de granola (Kellogg's Nutri-Grain Cereal Bar)",
+  "es": "Barrita de cereales o granola (Kellogg's Nutri-Grain Cereal Bar)",
+  "de": "Müsliriegel oder Granolariegel (Kellogg's Nutri-Grain Cereal Bar)",
+  "pt": "Barra de cereal ou granola (Kellogg's Nutri-Grain Cereal Bar)"
+ },
+ "3175": {
+  "it": "Barretta di cereali o granola (Kellogg's Nutri-Grain Fruit and Nut Bar)",
+  "fr": "Barre de céréales ou de granola (Kellogg's Nutri-Grain Fruit and Nut Bar)",
+  "es": "Barrita de cereales o granola (Kellogg's Nutri-Grain Fruit and Nut Bar)",
+  "de": "Müsliriegel oder Granolariegel (Kellogg's Nutri-Grain Fruit and Nut Bar)",
+  "pt": "Barra de cereal ou granola (Kellogg's Nutri-Grain Fruit and Nut Bar)"
+ },
+ "3176": {
+  "it": "Barretta di cereali o granola (Kellogg's Nutri-Grain Yogurt Bar)",
+  "fr": "Barre de céréales ou de granola (Kellogg's Nutri-Grain Yogurt Bar)",
+  "es": "Barrita de cereales o granola (Kellogg's Nutri-Grain Yogurt Bar)",
+  "de": "Müsliriegel oder Granolariegel (Kellogg's Nutri-Grain Yogurt Bar)",
+  "pt": "Barra de cereal ou granola (Kellogg's Nutri-Grain Yogurt Bar)"
+ },
+ "3177": {
+  "it": "Barretta di cereali o granola (Kellogg's Special K bar)",
+  "fr": "Barre de céréales ou de granola (Kellogg's Special K bar)",
+  "es": "Barrita de cereales o granola (Kellogg's Special K bar)",
+  "de": "Müsliriegel oder Granolariegel (Kellogg's Special K bar)",
+  "pt": "Barra de cereal ou granola (Kellogg's Special K bar)"
+ },
+ "3178": {
+  "it": "Barretta di cereali o granola (KIND Fruit and Nut Bar)",
+  "fr": "Barre de céréales ou de granola (KIND Fruit and Nut Bar)",
+  "es": "Barrita de cereales o granola (KIND Fruit and Nut Bar)",
+  "de": "Müsliriegel oder Granolariegel (KIND Fruit and Nut Bar)",
+  "pt": "Barra de cereal ou granola (KIND Fruit and Nut Bar)"
+ },
+ "3179": {
+  "it": "Barretta di cereali o granola (Quaker Chewy 25% Less Sugar Granola Bar)",
+  "fr": "Barre de céréales ou de granola (Quaker Chewy 25% Less Sugar Granola Bar)",
+  "es": "Barrita de cereales o granola (Quaker Chewy 25% Less Sugar Granola Bar)",
+  "de": "Müsliriegel oder Granolariegel (Quaker Chewy 25% Less Sugar Granola Bar)",
+  "pt": "Barra de cereal ou granola (Quaker Chewy 25% Less Sugar Granola Bar)"
+ },
+ "3180": {
+  "it": "Barretta di cereali o granola (Quaker Chewy 90 Calorie Granola Bar)",
+  "fr": "Barre de céréales ou de granola (Quaker Chewy 90 Calorie Granola Bar)",
+  "es": "Barrita de cereales o granola (Quaker Chewy 90 Calorie Granola Bar)",
+  "de": "Müsliriegel oder Granolariegel (Quaker Chewy 90 Calorie Granola Bar)",
+  "pt": "Barra de cereal ou granola (Quaker Chewy 90 Calorie Granola Bar)"
+ },
+ "3181": {
+  "it": "Barretta di cereali o granola (Quaker Chewy Dipps Granola Bar)",
+  "fr": "Barre de céréales ou de granola (Quaker Chewy Dipps Granola Bar)",
+  "es": "Barrita de cereales o granola (Quaker Chewy Dipps Granola Bar)",
+  "de": "Müsliriegel oder Granolariegel (Quaker Chewy Dipps Granola Bar)",
+  "pt": "Barra de cereal ou granola (Quaker Chewy Dipps Granola Bar)"
+ },
+ "3182": {
+  "it": "Barretta di cereali o granola (Quaker Chewy Granola Bar)",
+  "fr": "Barre de céréales ou de granola (Quaker Chewy Granola Bar)",
+  "es": "Barrita de cereales o granola (Quaker Chewy Granola Bar)",
+  "de": "Müsliriegel oder Granolariegel (Quaker Chewy Granola Bar)",
+  "pt": "Barra de cereal ou granola (Quaker Chewy Granola Bar)"
+ },
+ "3183": {
+  "it": "Barretta di cereali o granola (Quaker Granola Bites)",
+  "fr": "Barre de céréales ou de granola (Quaker Granola Bites)",
+  "es": "Barrita de cereales o granola (Quaker Granola Bites)",
+  "de": "Müsliriegel oder Granolariegel (Quaker Granola Bites)",
+  "pt": "Barra de cereal ou granola (Quaker Granola Bites)"
+ },
+ "3184": {
+  "it": "Barretta di cereali o granola con noci, ricoperta di cioccolato",
+  "fr": "Barre de céréales ou de granola aux noix, enrobée de chocolat",
+  "es": "Barrita de cereales o granola con frutos secos, cubierta de chocolate",
+  "de": "Müsli- oder Granolariegel mit Nüssen, schokoladenüberzogen",
+  "pt": "Barra de cereal ou granola com castanhas, coberta com chocolate"
+ },
+ "3185": {
+  "it": "Barretta di cereali o granola, ricoperta di cioccolato, non specificata",
+  "fr": "Barre de céréales ou de granola, enrobée de chocolat, non spécifiée",
+  "es": "Barrita de cereales o granola, cubierta de chocolate, no especificada",
+  "de": "Müsli- oder Granolariegel, schokoladenüberzogen, nicht näher bezeichnet",
+  "pt": "Barra de cereal ou granola, coberta com chocolate, não especificada"
+ },
+ "3186": {
+  "it": "Barretta di cereali o granola, con copertura non al cioccolato",
+  "fr": "Barre de céréales ou de granola, avec enrobage autre que chocolat",
+  "es": "Barrita de cereales o granola, con cobertura que no es de chocolate",
+  "de": "Müsli- oder Granolariegel, mit Überzug ohne Schokolade",
+  "pt": "Barra de cereal ou granola, com cobertura que não é de chocolate"
+ },
+ "3187": {
+  "it": "Barretta di cereali o granola, frutta e noci",
+  "fr": "Barre de céréales ou de granola, fruits et noix",
+  "es": "Barrita de cereales o granola, fruta y frutos secos",
+  "de": "Müsli- oder Granolariegel, Frucht und Nuss",
+  "pt": "Barra de cereal ou granola, frutas e castanhas"
+ },
+ "3188": {
+  "it": "Barretta di cereali o granola, ricca di fibre, con copertura allo yogurt non al cioccolato",
+  "fr": "Barre de céréales ou de granola, riche en fibres, avec enrobage au yaourt autre que chocolat",
+  "es": "Barrita de cereales o granola, alta en fibra, con cobertura de yogur que no es de chocolate",
+  "de": "Müsli- oder Granolariegel, ballaststoffreich, mit Joghurtüberzug ohne Schokolade",
+  "pt": "Barra de cereal ou granola, rica em fibras, com cobertura de iogurte que não é de chocolate"
+ },
+ "3189": {
+  "it": "Barretta di cereali o granola, a basso contenuto di grassi, non specificata",
+  "fr": "Barre de céréales ou de granola, allégée en matières grasses, non spécifiée",
+  "es": "Barrita de cereales o granola, baja en grasa, no especificada",
+  "de": "Müsli- oder Granolariegel, fettarm, nicht näher bezeichnet",
+  "pt": "Barra de cereal ou granola, com baixo teor de gordura, não especificada"
+ },
+ "3190": {
+  "it": "Barretta di cereali o granola, non specificata",
+  "fr": "Barre de céréales ou de granola, non spécifiée",
+  "es": "Barrita de cereales o granola, no especificada",
+  "de": "Müsli- oder Granolariegel, nicht näher bezeichnet",
+  "pt": "Barra de cereal ou granola, não especificada"
+ },
+ "3191": {
+  "it": "Barretta di cereali o granola, senza grassi",
+  "fr": "Barre de céréales ou de granola, sans matières grasses",
+  "es": "Barrita de cereales o granola, sin grasa",
+  "de": "Müsli- oder Granolariegel, fettfrei",
+  "pt": "Barra de cereal ou granola, sem gordura"
+ },
+ "3192": {
+  "it": "Barretta di cereali o granola, avena, noci, con copertura non al cioccolato",
+  "fr": "Barre de céréales ou de granola, avoine, noix, avec enrobage autre que chocolat",
+  "es": "Barrita de cereales o granola, avena, frutos secos, con cobertura que no es de chocolate",
+  "de": "Müsli- oder Granolariegel, Hafer, Nüsse, mit Überzug ohne Schokolade",
+  "pt": "Barra de cereal ou granola, aveia, castanhas, com cobertura que não é de chocolate"
+ },
+ "3193": {
+  "it": "Barretta di cereali o granola, arachidi, avena, zucchero, germe di grano",
+  "fr": "Barre de céréales ou de granola, cacahuètes, avoine, sucre, germe de blé",
+  "es": "Barrita de cereales o granola, cacahuetes, avena, azúcar, germen de trigo",
+  "de": "Müsli- oder Granolariegel, Erdnüsse, Hafer, Zucker, Weizenkeime",
+  "pt": "Barra de cereal ou granola, amendoim, aveia, açúcar, gérmen de trigo"
+ },
+ "3194": {
+  "it": "Barretta di cereali o granola, a ridotto contenuto di zuccheri, non specificata",
+  "fr": "Barre de céréales ou de granola, à teneur réduite en sucre, non spécifiée",
+  "es": "Barrita de cereales o granola, reducida en azúcar, no especificada",
+  "de": "Müsli- oder Granolariegel, zuckerreduziert, nicht näher bezeichnet",
+  "pt": "Barra de cereal ou granola, com açúcar reduzido, não especificada"
+ },
+ "3195": {
+  "it": "Barretta di cereali o granola, con cocco, ricoperta di cioccolato",
+  "fr": "Barre de céréales ou de granola, à la noix de coco, enrobée de chocolat",
+  "es": "Barrita de cereales o granola, con coco, cubierta de chocolate",
+  "de": "Müsli- oder Granolariegel, mit Kokosnuss, schokoladenüberzogen",
+  "pt": "Barra de cereal ou granola, com coco, coberta com chocolate"
+ },
+ "3196": {
+  "it": "Barretta di cereali o granola, con cereali di riso",
+  "fr": "Barre de céréales ou de granola, aux céréales de riz",
+  "es": "Barrita de cereales o granola, con cereal de arroz",
+  "de": "Müsli- oder Granolariegel, mit Reisflocken",
+  "pt": "Barra de cereal ou granola, com cereal de arroz"
+ },
+ "3197": {
+  "it": "Barretta di cereali o granola, con copertura allo yogurt (General Mills Nature Valley Chewy Granola Bar)",
+  "fr": "Barre de céréales ou de granola, avec enrobage au yaourt (General Mills Nature Valley Chewy Granola Bar)",
+  "es": "Barrita de cereales o granola, con cobertura de yogur (General Mills Nature Valley Chewy Granola Bar)",
+  "de": "Müsli- oder Granolariegel, mit Joghurtüberzug (General Mills Nature Valley Chewy Granola Bar)",
+  "pt": "Barra de cereal ou granola, com cobertura de iogurte (General Mills Nature Valley Chewy Granola Bar)"
+ },
+ "3198": {
+  "it": "Cereali, fiocchi di crusca, aromatizzati",
+  "fr": "Céréales, flocons de son, aromatisés",
+  "es": "Cereal, hojuelas de salvado, saborizadas",
+  "de": "Cerealien, Kleieflocken, aromatisiert",
+  "pt": "Cereal, flocos de farelo, aromatizados"
+ },
+ "3199": {
+  "it": "Cereali, fiocchi di crusca, naturali",
+  "fr": "Céréales, flocons de son, nature",
+  "es": "Cereal, hojuelas de salvado, naturales",
+  "de": "Cerealien, Kleieflocken, natur",
+  "pt": "Cereal, flocos de farelo, naturais"
+ },
+ "3200": {
+  "it": "Cereali, croccanti al cioccolato",
+  "fr": "Céréales, croustillantes au chocolat",
+  "es": "Cereal, crujiente de chocolate",
+  "de": "Cerealien, knusprig, Schokolade",
+  "pt": "Cereal, crocante de chocolate"
+ },
+ "3201": {
+  "it": "Cereali, soffiati al cioccolato",
+  "fr": "Céréales, soufflées au chocolat",
+  "es": "Cereal, inflado de chocolate",
+  "de": "Cerealien, Schoko-Pops",
+  "pt": "Cereal, inflado de chocolate"
+ },
+ "3202": {
+  "it": "Cereali, pane tostato alla cannella",
+  "fr": "Céréales, toast à la cannelle",
+  "es": "Cereal, tostada de canela",
+  "de": "Cerealien, Zimttoast",
+  "pt": "Cereal, torrada de canela"
+ },
+ "3203": {
+  "it": "Cereali, cotti, non specificati",
+  "fr": "Céréales, cuites, non spécifiées",
+  "es": "Cereal, cocido, no especificado",
+  "de": "Cerealien, gekocht, nicht näher bezeichnet",
+  "pt": "Cereal, cozido, não especificado"
+ },
+ "3204": {
+  "it": "Cereali, corn flakes, aromatizzati",
+  "fr": "Céréales, corn flakes, aromatisés",
+  "es": "Cereal, hojuelas de maíz, saborizadas",
+  "de": "Cerealien, Cornflakes, aromatisiert",
+  "pt": "Cereal, flocos de milho, aromatizados"
+ },
+ "3205": {
+  "it": "Cereali, corn flakes, naturali",
+  "fr": "Céréales, corn flakes, nature",
+  "es": "Cereal, hojuelas de maíz, naturales",
+  "de": "Cerealien, Cornflakes, natur",
+  "pt": "Cereal, flocos de milho, naturais"
+ },
+ "3206": {
+  "it": "Cereali, soffiati di mais",
+  "fr": "Céréales, soufflées au maïs",
+  "es": "Cereal, inflado de maíz",
+  "de": "Cerealien, Maispops",
+  "pt": "Cereal, inflado de milho"
+ },
+ "3207": {
+  "it": "Cereali, quadretti di mais",
+  "fr": "Céréales, carrés de maïs",
+  "es": "Cereal, cuadritos de maíz",
+  "de": "Cerealien, Maisquadrate",
+  "pt": "Cereal, quadradinhos de milho"
+ },
+ "3208": {
+  "it": "Cereali, quadretti di mais, aromatizzati",
+  "fr": "Céréales, carrés de maïs, aromatisés",
+  "es": "Cereal, cuadritos de maíz, saborizados",
+  "de": "Cerealien, Maisquadrate, aromatisiert",
+  "pt": "Cereal, quadradinhos de milho, aromatizados"
+ },
+ "3209": {
+  "it": "Cereali, croccanti (crunch)",
+  "fr": "Céréales, croustillantes (crunch)",
+  "es": "Cereal, crujiente (crunch)",
+  "de": "Cerealien, Crunch",
+  "pt": "Cereal, crocante (crunch)"
+ },
+ "3210": {
+  "it": "Cereali, soffiati aromatizzati",
+  "fr": "Céréales, soufflées aromatisées",
+  "es": "Cereal, inflado saborizado",
+  "de": "Cerealien, Pops, aromatisiert",
+  "pt": "Cereal, inflado aromatizado"
+ },
+ "3211": {
+  "it": "Cereali, avena glassata con marshmallow",
+  "fr": "Céréales, avoine givrée avec guimauves",
+  "es": "Cereal, avena azucarada con malvaviscos",
+  "de": "Cerealien, gezuckerter Hafer mit Marshmallows",
+  "pt": "Cereal, aveia açucarada com marshmallows"
+ },
+ "3212": {
+  "it": "Cereali, croccanti alla frutta",
+  "fr": "Céréales, croustillantes aux fruits",
+  "es": "Cereal, crujiente de frutas",
+  "de": "Cerealien, knusprig, Frucht",
+  "pt": "Cereal, crocante de frutas"
+ },
+ "3213": {
+  "it": "Cereali, anelli alla frutta",
+  "fr": "Céréales, anneaux aux fruits",
+  "es": "Cereal, aros de frutas",
+  "de": "Cerealien, Fruchtringe",
+  "pt": "Cereal, anéis de frutas"
+ },
+ "3214": {
+  "it": "Cereali, granola",
+  "fr": "Céréales, granola",
+  "es": "Cereal, granola",
+  "de": "Cerealien, Granola",
+  "pt": "Cereal, granola"
+ },
+ "3215": {
+  "it": "Cereali, K's, aromatizzati",
+  "fr": "Céréales, K's, aromatisés",
+  "es": "Cereal, K's, saborizado",
+  "de": "Cerealien, K's, aromatisiert",
+  "pt": "Cereal, K's, aromatizado"
+ },
+ "3216": {
+  "it": "Cereali, K's, naturali",
+  "fr": "Céréales, K's, nature",
+  "es": "Cereal, K's, natural",
+  "de": "Cerealien, K's, natur",
+  "pt": "Cereal, K's, natural"
+ },
+ "3217": {
+  "it": "Cereali, multicereali",
+  "fr": "Céréales, multicéréales",
+  "es": "Cereal, multigrano",
+  "de": "Cerealien, Mehrkorn",
+  "pt": "Cereal, multigrãos"
+ },
+ "3218": {
+  "it": "Cereali, O's, aromatizzati",
+  "fr": "Céréales, O's, aromatisés",
+  "es": "Cereal, O's, saborizado",
+  "de": "Cerealien, O's, aromatisiert",
+  "pt": "Cereal, O's, aromatizado"
+ },
+ "3219": {
+  "it": "Cereali, O's, al miele e noci",
+  "fr": "Céréales, O's, au miel et aux noix",
+  "es": "Cereal, O's, de miel y frutos secos",
+  "de": "Cerealien, O's, mit Honig und Nüssen",
+  "pt": "Cereal, O's, com mel e castanhas"
+ },
+ "3220": {
+  "it": "Cereali, O's, multicereali",
+  "fr": "Céréales, O's, multicéréales",
+  "es": "Cereal, O's, multigrano",
+  "de": "Cerealien, O's, Mehrkorn",
+  "pt": "Cereal, O's, multigrãos"
+ },
+ "3221": {
+  "it": "Cereali, O's, non specificati",
+  "fr": "Céréales, O's, non spécifiés",
+  "es": "Cereal, O's, no especificado",
+  "de": "Cerealien, O's, nicht näher bezeichnet",
+  "pt": "Cereal, O's, não especificado"
+ },
+ "3222": {
+  "it": "Cereali, O's, naturali",
+  "fr": "Céréales, O's, nature",
+  "es": "Cereal, O's, natural",
+  "de": "Cerealien, O's, natur",
+  "pt": "Cereal, O's, natural"
+ },
+ "3223": {
+  "it": "Cereali, crusca d'avena, pronti da mangiare",
+  "fr": "Céréales, son d'avoine, prêts à consommer",
+  "es": "Cereal, salvado de avena, listo para comer",
+  "de": "Cerealien, Haferkleie, verzehrfertig",
+  "pt": "Cereal, farelo de aveia, pronto para consumo"
+ },
+ "3224": {
+  "it": "Cereali, grappoli d'avena",
+  "fr": "Céréales, grappes d'avoine",
+  "es": "Cereal, racimos de avena",
+  "de": "Cerealien, Haferclustern",
+  "pt": "Cereal, clusters de aveia"
+ },
+ "3225": {
+  "it": "Cereali, quadretti d'avena",
+  "fr": "Céréales, carrés d'avoine",
+  "es": "Cereal, cuadritos de avena",
+  "de": "Cerealien, Haferquadrate",
+  "pt": "Cereal, quadradinhos de aveia"
+ },
+ "3226": {
+  "it": "Cereali, altri, al cioccolato",
+  "fr": "Céréales, autres, au chocolat",
+  "es": "Cereal, otro, de chocolate",
+  "de": "Cerealien, andere, Schokolade",
+  "pt": "Cereal, outro, de chocolate"
+ },
+ "3227": {
+  "it": "Cereali, altri, aromatizzati alla frutta",
+  "fr": "Céréales, autres, aromatisés aux fruits",
+  "es": "Cereal, otro, con sabor a frutas",
+  "de": "Cerealien, andere, mit Fruchtgeschmack",
+  "pt": "Cereal, outro, sabor frutas"
+ },
+ "3228": {
+  "it": "Cereali, altri, al miele",
+  "fr": "Céréales, autres, au miel",
+  "es": "Cereal, otro, de miel",
+  "de": "Cerealien, andere, Honig",
+  "pt": "Cereal, outro, de mel"
+ },
+ "3229": {
+  "it": "Cereali, altri, non specificati",
+  "fr": "Céréales, autres, non spécifiés",
+  "es": "Cereal, otro, no especificado",
+  "de": "Cerealien, andere, nicht näher bezeichnet",
+  "pt": "Cereal, outro, não especificado"
+ },
+ "3230": {
+  "it": "Cereali, altri, al burro di arachidi",
+  "fr": "Céréales, autres, au beurre de cacahuète",
+  "es": "Cereal, otro, de mantequilla de cacahuete",
+  "de": "Cerealien, andere, Erdnussbutter",
+  "pt": "Cereal, outro, de manteiga de amendoim"
+ },
+ "3231": {
+  "it": "Cereali, altri, naturali",
+  "fr": "Céréales, autres, nature",
+  "es": "Cereal, otro, natural",
+  "de": "Cerealien, andere, natur",
+  "pt": "Cereal, outro, natural"
+ },
+ "3232": {
+  "it": "Cereali, soffiati naturali",
+  "fr": "Céréales, soufflées nature",
+  "es": "Cereal, inflado natural",
+  "de": "Cerealien, Pops, natur",
+  "pt": "Cereal, inflado natural"
+ },
+ "3233": {
+  "it": "Cereali, pronti da mangiare, non specificati",
+  "fr": "Céréales, prêtes à consommer, non spécifiées",
+  "es": "Cereal, listo para comer, no especificado",
+  "de": "Cerealien, verzehrfertig, nicht näher bezeichnet",
+  "pt": "Cereal, pronto para consumo, não especificado"
+ },
+ "3234": {
+  "it": "Cereali, a ridotto contenuto di zuccheri",
+  "fr": "Céréales, à teneur réduite en sucre",
+  "es": "Cereal, reducido en azúcar",
+  "de": "Cerealien, zuckerreduziert",
+  "pt": "Cereal, com açúcar reduzido"
+ },
+ "3235": {
+  "it": "Cereali, riso croccante, aromatizzato",
+  "fr": "Céréales, riz croustillant, aromatisé",
+  "es": "Cereal, arroz crujiente, saborizado",
+  "de": "Cerealien, Knusperreis, aromatisiert",
+  "pt": "Cereal, arroz crocante, aromatizado"
+ },
+ "3236": {
+  "it": "Cereali, riso croccante, naturale",
+  "fr": "Céréales, riz croustillant, nature",
+  "es": "Cereal, arroz crujiente, natural",
+  "de": "Cerealien, Knusperreis, natur",
+  "pt": "Cereal, arroz crocante, natural"
+ },
+ "3237": {
+  "it": "Cereali, quadretti di riso",
+  "fr": "Céréales, carrés de riz",
+  "es": "Cereal, cuadritos de arroz",
+  "de": "Cerealien, Reisquadrate",
+  "pt": "Cereal, quadradinhos de arroz"
+ },
+ "3238": {
+  "it": "Cereali, grano integrale sfilacciato (shredded wheat), aromatizzato",
+  "fr": "Céréales, blé filamenté (shredded wheat), aromatisé",
+  "es": "Cereal, trigo triturado en hebras (shredded wheat), saborizado",
+  "de": "Cerealien, Shredded Wheat (Weizenfäden), aromatisiert",
+  "pt": "Cereal, trigo em tiras (shredded wheat), aromatizado"
+ },
+ "3239": {
+  "it": "Cereali, grano integrale sfilacciato (shredded wheat), naturale",
+  "fr": "Céréales, blé filamenté (shredded wheat), nature",
+  "es": "Cereal, trigo triturado en hebras (shredded wheat), natural",
+  "de": "Cerealien, Shredded Wheat (Weizenfäden), natur",
+  "pt": "Cereal, trigo em tiras (shredded wheat), natural"
+ },
+ "3240": {
+  "it": "Cereali, fiocchi di frumento",
+  "fr": "Céréales, flocons de blé",
+  "es": "Cereal, hojuelas de trigo",
+  "de": "Cerealien, Weizenflocken",
+  "pt": "Cereal, flocos de trigo"
+ },
+ "3241": {
+  "it": "Cereali, quadretti di frumento",
+  "fr": "Céréales, carrés de blé",
+  "es": "Cereal, cuadritos de trigo",
+  "de": "Cerealien, Weizenquadrate",
+  "pt": "Cereal, quadradinhos de trigo"
+ },
+ "3242": {
+  "it": "Cereali pronti da mangiare, ALPEN",
+  "fr": "Céréales prêtes à consommer, ALPEN",
+  "es": "Cereales listos para comer, ALPEN",
+  "de": "Verzehrfertige Cerealien, ALPEN",
+  "pt": "Cereais prontos para consumo, ALPEN"
+ },
+ "3243": {
+  "it": "Cereali pronti da mangiare, BARBARA'S PUFFINS, originali",
+  "fr": "Céréales prêtes à consommer, BARBARA'S PUFFINS, original",
+  "es": "Cereales listos para comer, BARBARA'S PUFFINS, originales",
+  "de": "Verzehrfertige Cerealien, BARBARA'S PUFFINS, Original",
+  "pt": "Cereais prontos para consumo, BARBARA'S PUFFINS, originais"
+ },
+ "3244": {
+  "it": "Cereali pronti da mangiare, mais soffiato glassato al gusto cioccolato",
+  "fr": "Céréales prêtes à consommer, maïs soufflé givré au goût chocolat",
+  "es": "Cereales listos para comer, maíz inflado azucarado sabor chocolate",
+  "de": "Verzehrfertige Cerealien, gezuckerter Puffmais mit Schokoladengeschmack",
+  "pt": "Cereais prontos para consumo, milho inflado açucarado sabor chocolate"
+ },
+ "3245": {
+  "it": "Cereali pronti da mangiare, FAMILIA",
+  "fr": "Céréales prêtes à consommer, FAMILIA",
+  "es": "Cereales listos para comer, FAMILIA",
+  "de": "Verzehrfertige Cerealien, FAMILIA",
+  "pt": "Cereais prontos para consumo, FAMILIA"
+ },
+ "3246": {
+  "it": "Cereali pronti da mangiare, cereali d'avena glassati con marshmallow",
+  "fr": "Céréales prêtes à consommer, céréales d'avoine givrées avec guimauves",
+  "es": "Cereales listos para comer, cereal de avena azucarada con malvaviscos",
+  "de": "Verzehrfertige Cerealien, gezuckerte Haferflocken mit Marshmallows",
+  "pt": "Cereais prontos para consumo, cereal de aveia açucarada com marshmallows"
+ },
+ "3247": {
+  "it": "Cereali pronti da mangiare, GENERAL MILLS, CHEERIOS",
+  "fr": "Céréales prêtes à consommer, GENERAL MILLS, CHEERIOS",
+  "es": "Cereales listos para comer, GENERAL MILLS, CHEERIOS",
+  "de": "Verzehrfertige Cerealien, GENERAL MILLS, CHEERIOS",
+  "pt": "Cereais prontos para consumo, GENERAL MILLS, CHEERIOS"
+ },
+ "3248": {
+  "it": "Cereali pronti da mangiare, granola, fatta in casa",
+  "fr": "Céréales prêtes à consommer, granola, faite maison",
+  "es": "Cereales listos para comer, granola, casera",
+  "de": "Verzehrfertige Cerealien, Granola, hausgemacht",
+  "pt": "Cereais prontos para consumo, granola, caseira"
+ },
+ "3249": {
+  "it": "Cereali pronti da mangiare, HEALTH VALLEY, FIBER 7 Flakes",
+  "fr": "Céréales prêtes à consommer, HEALTH VALLEY, FIBER 7 Flakes",
+  "es": "Cereales listos para comer, HEALTH VALLEY, FIBER 7 Flakes",
+  "de": "Verzehrfertige Cerealien, HEALTH VALLEY, FIBER 7 Flakes",
+  "pt": "Cereais prontos para consumo, HEALTH VALLEY, FIBER 7 Flakes"
+ },
+ "3250": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Apple ZINGS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Apple ZINGS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Apple ZINGS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Apple ZINGS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Apple ZINGS"
+ },
+ "3251": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, BERRY COLOSSAL CRUNCH",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, BERRY COLOSSAL CRUNCH",
+  "es": "Cereales listos para comer, MALT-O-MEAL, BERRY COLOSSAL CRUNCH",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, BERRY COLOSSAL CRUNCH",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, BERRY COLOSSAL CRUNCH"
+ },
+ "3252": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, cereali Blueberry MUFFIN TOPS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, céréales Blueberry MUFFIN TOPS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, cereal Blueberry MUFFIN TOPS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Cerealien Blueberry MUFFIN TOPS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, cereal Blueberry MUFFIN TOPS"
+ },
+ "3253": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS"
+ },
+ "3254": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, CINNAMON TOASTERS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, CINNAMON TOASTERS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, CINNAMON TOASTERS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, CINNAMON TOASTERS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, CINNAMON TOASTERS"
+ },
+ "3255": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, COCO-ROOS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, COCO-ROOS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, COCO-ROOS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, COCO-ROOS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, COCO-ROOS"
+ },
+ "3256": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Cocoa DYNO-BITES",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Cocoa DYNO-BITES",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Cocoa DYNO-BITES",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Cocoa DYNO-BITES",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Cocoa DYNO-BITES"
+ },
+ "3257": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, COLOSSAL CRUNCH",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, COLOSSAL CRUNCH",
+  "es": "Cereales listos para comer, MALT-O-MEAL, COLOSSAL CRUNCH",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, COLOSSAL CRUNCH",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, COLOSSAL CRUNCH"
+ },
+ "3258": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, CORN BURSTS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, CORN BURSTS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, CORN BURSTS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, CORN BURSTS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, CORN BURSTS"
+ },
+ "3259": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Crispy Rice",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Crispy Rice",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Crispy Rice",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Crispy Rice",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Crispy Rice"
+ },
+ "3260": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Frosted Flakes",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Frosted Flakes",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Frosted Flakes",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Frosted Flakes",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Frosted Flakes"
+ },
+ "3261": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Frosted Mini SPOONERS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Frosted Mini SPOONERS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Frosted Mini SPOONERS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Frosted Mini SPOONERS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Frosted Mini SPOONERS"
+ },
+ "3262": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Fruity DYNO-BITES",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Fruity DYNO-BITES",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Fruity DYNO-BITES",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Fruity DYNO-BITES",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Fruity DYNO-BITES"
+ },
+ "3263": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, GOLDEN PUFFS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, GOLDEN PUFFS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, GOLDEN PUFFS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, GOLDEN PUFFS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, GOLDEN PUFFS"
+ },
+ "3264": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Honey BUZZERS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Honey BUZZERS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Honey BUZZERS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Honey BUZZERS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Honey BUZZERS"
+ },
+ "3265": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, HONEY GRAHAM SQUARES",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, HONEY GRAHAM SQUARES",
+  "es": "Cereales listos para comer, MALT-O-MEAL, HONEY GRAHAM SQUARES",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, HONEY GRAHAM SQUARES",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, HONEY GRAHAM SQUARES"
+ },
+ "3266": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, Honey Nut SCOOTERS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, Honey Nut SCOOTERS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, Honey Nut SCOOTERS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Honey Nut SCOOTERS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, Honey Nut SCOOTERS"
+ },
+ "3267": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, MARSHMALLOW MATEYS",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, MARSHMALLOW MATEYS",
+  "es": "Cereales listos para comer, MALT-O-MEAL, MARSHMALLOW MATEYS",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, MARSHMALLOW MATEYS",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, MARSHMALLOW MATEYS"
+ },
+ "3268": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, OAT BLENDERS con miele",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, OAT BLENDERS au miel",
+  "es": "Cereales listos para comer, MALT-O-MEAL, OAT BLENDERS con miel",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, OAT BLENDERS mit Honig",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, OAT BLENDERS com mel"
+ },
+ "3269": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, OAT BLENDERS con miele e mandorle",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, OAT BLENDERS au miel et aux amandes",
+  "es": "Cereales listos para comer, MALT-O-MEAL, OAT BLENDERS con miel y almendras",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, OAT BLENDERS mit Honig und Mandeln",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, OAT BLENDERS com mel e amêndoas"
+ },
+ "3270": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, cereali Raisin Bran",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, céréales Raisin Bran",
+  "es": "Cereales listos para comer, MALT-O-MEAL, cereal Raisin Bran",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, Cerealien Raisin Bran",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, cereal Raisin Bran"
+ },
+ "3271": {
+  "it": "Cereali pronti da mangiare, MALT-O-MEAL, TOOTIE FRUITIES",
+  "fr": "Céréales prêtes à consommer, MALT-O-MEAL, TOOTIE FRUITIES",
+  "es": "Cereales listos para comer, MALT-O-MEAL, TOOTIE FRUITIES",
+  "de": "Verzehrfertige Cerealien, MALT-O-MEAL, TOOTIE FRUITIES",
+  "pt": "Cereais prontos para consumo, MALT-O-MEAL, TOOTIE FRUITIES"
+ },
+ "3272": {
+  "it": "Cereali pronti da mangiare, MOM'S BEST, Honey Nut TOASTY O'S",
+  "fr": "Céréales prêtes à consommer, MOM'S BEST, Honey Nut TOASTY O'S",
+  "es": "Cereales listos para comer, MOM'S BEST, Honey Nut TOASTY O'S",
+  "de": "Verzehrfertige Cerealien, MOM'S BEST, Honey Nut TOASTY O'S",
+  "pt": "Cereais prontos para consumo, MOM'S BEST, Honey Nut TOASTY O'S"
+ },
+ "3273": {
+  "it": "Cereali pronti da mangiare, MOM'S BEST, WHEAT-FULS zuccherati",
+  "fr": "Céréales prêtes à consommer, MOM'S BEST, WHEAT-FULS sucrés",
+  "es": "Cereales listos para comer, MOM'S BEST, WHEAT-FULS azucarados",
+  "de": "Verzehrfertige Cerealien, MOM'S BEST, WHEAT-FULS gezuckert",
+  "pt": "Cereais prontos para consumo, MOM'S BEST, WHEAT-FULS adoçados"
+ },
+ "3274": {
+  "it": "Cereali pronti da mangiare, NATURE'S PATH, fiocchi biologici FLAX PLUS",
+  "fr": "Céréales prêtes à consommer, NATURE'S PATH, flocons biologiques FLAX PLUS",
+  "es": "Cereales listos para comer, NATURE'S PATH, hojuelas orgánicas FLAX PLUS",
+  "de": "Verzehrfertige Cerealien, NATURE'S PATH, Bio-Flocken FLAX PLUS",
+  "pt": "Cereais prontos para consumo, NATURE'S PATH, flocos orgânicos FLAX PLUS"
+ },
+ "3275": {
+  "it": "Cereali pronti da mangiare, NATURE'S PATH, biologico FLAX PLUS, granola alla zucca",
+  "fr": "Céréales prêtes à consommer, NATURE'S PATH, biologique FLAX PLUS, granola à la citrouille",
+  "es": "Cereales listos para comer, NATURE'S PATH, orgánico FLAX PLUS, granola de calabaza",
+  "de": "Verzehrfertige Cerealien, NATURE'S PATH, Bio FLAX PLUS, Kürbis-Granola",
+  "pt": "Cereais prontos para consumo, NATURE'S PATH, orgânico FLAX PLUS, granola de abóbora"
+ },
+ "3276": {
+  "it": "Cereali pronti da mangiare, OAT BRAN FLAKES, HEALTH VALLEY",
+  "fr": "Céréales prêtes à consommer, OAT BRAN FLAKES, HEALTH VALLEY",
+  "es": "Cereales listos para comer, OAT BRAN FLAKES, HEALTH VALLEY",
+  "de": "Verzehrfertige Cerealien, OAT BRAN FLAKES, HEALTH VALLEY",
+  "pt": "Cereais prontos para consumo, OAT BRAN FLAKES, HEALTH VALLEY"
+ },
+ "3277": {
+  "it": "Cereali pronti da mangiare, POST Bran Flakes",
+  "fr": "Céréales prêtes à consommer, POST Bran Flakes",
+  "es": "Cereales listos para comer, POST Bran Flakes",
+  "de": "Verzehrfertige Cerealien, POST Bran Flakes",
+  "pt": "Cereais prontos para consumo, POST Bran Flakes"
+ },
+ "3089": {
+  "it": "Carote, in scatola, cotte con burro o margarina",
+  "fr": "Carottes, en conserve, cuites avec du beurre ou de la margarine",
+  "es": "Zanahorias, en conserva, cocidas con mantequilla o margarina",
+  "de": "Karotten, aus der Dose, gekocht mit Butter oder Margarine",
+  "pt": "Cenouras, enlatadas, cozidas com manteiga ou margarina"
+ },
+ "3090": {
+  "it": "Carote, in scatola, cotte con olio",
+  "fr": "Carottes, en conserve, cuites à l'huile",
+  "es": "Zanahorias, en conserva, cocidas con aceite",
+  "de": "Karotten, aus der Dose, gekocht mit Öl",
+  "pt": "Cenouras, enlatadas, cozidas com óleo"
+ },
+ "3091": {
+  "it": "Carote, in scatola, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Carottes, en conserve, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Zanahorias, en conserva, cocidas, con grasa añadida, tipo de grasa sin especificar",
+  "de": "Karotten, aus der Dose, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+  "pt": "Cenouras, enlatadas, cozidas, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "3092": {
+  "it": "Carote, in scatola, cotte, senza grasso aggiunto",
+  "fr": "Carottes, en conserve, cuites, sans matière grasse ajoutée",
+  "es": "Zanahorias, en conserva, cocidas, sin grasa añadida",
+  "de": "Karotten, aus der Dose, gekocht, ohne Fettzusatz",
+  "pt": "Cenouras, enlatadas, cozidas, sem gordura adicionada"
+ },
+ "3093": {
+  "it": "Carote, in scatola, senza sale aggiunto, solidi sgocciolati",
+  "fr": "Carottes, en conserve, sans sel ajouté, solides égouttés",
+  "es": "Zanahorias, en conserva, sin sal añadida, sólidos escurridos",
+  "de": "Karotten, aus der Dose, ohne Salzzusatz, abgetropfte Bestandteile",
+  "pt": "Cenouras, enlatadas, sem sal adicionado, sólidos escorridos"
+ },
+ "3094": {
+  "it": "Carote, in scatola, senza sale aggiunto, solidi e liquidi",
+  "fr": "Carottes, en conserve, sans sel ajouté, solides et liquides",
+  "es": "Zanahorias, en conserva, sin sal añadida, sólidos y líquidos",
+  "de": "Karotten, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
+  "pt": "Cenouras, enlatadas, sem sal adicionado, sólidos e líquidos"
+ },
+ "3095": {
+  "it": "Carote, in scatola, a ridotto contenuto di sodio, cotte con burro o margarina",
+  "fr": "Carottes, en conserve, à teneur réduite en sodium, cuites avec du beurre ou de la margarine",
+  "es": "Zanahorias, en conserva, reducidas en sodio, cocidas con mantequilla o margarina",
+  "de": "Karotten, aus der Dose, natriumreduziert, gekocht mit Butter oder Margarine",
+  "pt": "Cenouras, enlatadas, com sódio reduzido, cozidas com manteiga ou margarina"
+ },
+ "3096": {
+  "it": "Carote, in scatola, a ridotto contenuto di sodio, cotte con olio",
+  "fr": "Carottes, en conserve, à teneur réduite en sodium, cuites à l'huile",
+  "es": "Zanahorias, en conserva, reducidas en sodio, cocidas con aceite",
+  "de": "Karotten, aus der Dose, natriumreduziert, gekocht mit Öl",
+  "pt": "Cenouras, enlatadas, com sódio reduzido, cozidas com óleo"
+ },
+ "3097": {
+  "it": "Carote, in scatola, a ridotto contenuto di sodio, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Carottes, en conserve, à teneur réduite en sodium, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Zanahorias, en conserva, reducidas en sodio, cocidas, con grasa añadida, tipo de grasa sin especificar",
+  "de": "Karotten, aus der Dose, natriumreduziert, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+  "pt": "Cenouras, enlatadas, com sódio reduzido, cozidas, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "3098": {
+  "it": "Carote, in scatola, a ridotto contenuto di sodio, cotte, senza grasso aggiunto",
+  "fr": "Carottes, en conserve, à teneur réduite en sodium, cuites, sans matière grasse ajoutée",
+  "es": "Zanahorias, en conserva, reducidas en sodio, cocidas, sin grasa añadida",
+  "de": "Karotten, aus der Dose, natriumreduziert, gekocht, ohne Fettzusatz",
+  "pt": "Cenouras, enlatadas, com sódio reduzido, cozidas, sem gordura adicionada"
+ },
+ "3099": {
+  "it": "Carote, in scatola, confezione normale, solidi sgocciolati",
+  "fr": "Carottes, en conserve, conditionnement standard, solides égouttés",
+  "es": "Zanahorias, en conserva, envase normal, sólidos escurridos",
+  "de": "Karotten, aus der Dose, Standardpackung, abgetropfte Bestandteile",
+  "pt": "Cenouras, enlatadas, embalagem comum, sólidos escorridos"
+ },
+ "3100": {
+  "it": "Carote, in scatola, confezione normale, solidi e liquidi",
+  "fr": "Carottes, en conserve, conditionnement standard, solides et liquides",
+  "es": "Zanahorias, en conserva, envase normal, sólidos y líquidos",
+  "de": "Karotten, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
+  "pt": "Cenouras, enlatadas, embalagem comum, sólidos e líquidos"
+ },
+ "3105": {
+  "it": "Carote, fresche, cotte con burro o margarina",
+  "fr": "Carottes, fraîches, cuites avec du beurre ou de la margarine",
+  "es": "Zanahorias, frescas, cocidas con mantequilla o margarina",
+  "de": "Karotten, frisch, gekocht mit Butter oder Margarine",
+  "pt": "Cenouras, frescas, cozidas com manteiga ou margarina"
+ },
+ "3106": {
+  "it": "Carote, fresche, cotte con olio",
+  "fr": "Carottes, fraîches, cuites à l'huile",
+  "es": "Zanahorias, frescas, cocidas con aceite",
+  "de": "Karotten, frisch, gekocht mit Öl",
+  "pt": "Cenouras, frescas, cozidas com óleo"
+ },
+ "3107": {
+  "it": "Carote, fresche, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Carottes, fraîches, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Zanahorias, frescas, cocidas, con grasa añadida, tipo de grasa sin especificar",
+  "de": "Karotten, frisch, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+  "pt": "Cenouras, frescas, cozidas, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "3108": {
+  "it": "Carote, fresche, cotte, senza grasso aggiunto",
+  "fr": "Carottes, fraîches, cuites, sans matière grasse ajoutée",
+  "es": "Zanahorias, frescas, cocidas, sin grasa añadida",
+  "de": "Karotten, frisch, gekocht, ohne Fettzusatz",
+  "pt": "Cenouras, frescas, cozidas, sem gordura adicionada"
+ },
+ "3109": {
+  "it": "Carote, surgelate, cotte con burro o margarina",
+  "fr": "Carottes, surgelées, cuites avec du beurre ou de la margarine",
+  "es": "Zanahorias, congeladas, cocidas con mantequilla o margarina",
+  "de": "Karotten, tiefgekühlt, gekocht mit Butter oder Margarine",
+  "pt": "Cenouras, congeladas, cozidas com manteiga ou margarina"
+ },
+ "3110": {
+  "it": "Carote, surgelate, cotte con olio",
+  "fr": "Carottes, surgelées, cuites à l'huile",
+  "es": "Zanahorias, congeladas, cocidas con aceite",
+  "de": "Karotten, tiefgekühlt, gekocht mit Öl",
+  "pt": "Cenouras, congeladas, cozidas com óleo"
+ },
+ "3111": {
+  "it": "Carote, surgelate, cotte, bollite, sgocciolate, con sale",
+  "fr": "Carottes, surgelées, cuites, bouillies, égouttées, avec sel",
+  "es": "Zanahorias, congeladas, cocidas, hervidas, escurridas, con sal",
+  "de": "Karotten, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Cenouras, congeladas, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "3112": {
+  "it": "Carote, surgelate, cotte, bollite, sgocciolate, senza sale",
+  "fr": "Carottes, surgelées, cuites, bouillies, égouttées, sans sel",
+  "es": "Zanahorias, congeladas, cocidas, hervidas, escurridas, sin sal",
+  "de": "Karotten, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Cenouras, congeladas, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "3113": {
+  "it": "Carote, surgelate, cotte, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Carottes, surgelées, cuites, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Zanahorias, congeladas, cocidas, con grasa añadida, tipo de grasa sin especificar",
+  "de": "Karotten, tiefgekühlt, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+  "pt": "Cenouras, congeladas, cozidas, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "3114": {
+  "it": "Carote, surgelate, cotte, senza grasso aggiunto",
+  "fr": "Carottes, surgelées, cuites, sans matière grasse ajoutée",
+  "es": "Zanahorias, congeladas, cocidas, sin grasa añadida",
+  "de": "Karotten, tiefgekühlt, gekocht, ohne Fettzusatz",
+  "pt": "Cenouras, congeladas, cozidas, sem gordura adicionada"
+ },
+ "3137": {
+  "it": "Cavolfiore, cotto, bollito, sgocciolato, con sale",
+  "fr": "Chou-fleur, cuit, bouilli, égoutté, avec sel",
+  "es": "Coliflor, cocida, hervida, escurrida, con sal",
+  "de": "Blumenkohl, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Couve-flor, cozida, cozida em água, escorrida, com sal"
+ },
+ "3138": {
+  "it": "Cavolfiore, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chou-fleur, cuit, bouilli, égoutté, sans sel",
+  "es": "Coliflor, cocida, hervida, escurrida, sin sal",
+  "de": "Blumenkohl, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Couve-flor, cozida, cozida em água, escorrida, sem sal"
+ },
+ "3139": {
+  "it": "Cavolfiore, fresco, cotto con burro o margarina",
+  "fr": "Chou-fleur, frais, cuit avec du beurre ou de la margarine",
+  "es": "Coliflor, fresca, cocida con mantequilla o margarina",
+  "de": "Blumenkohl, frisch, gekocht mit Butter oder Margarine",
+  "pt": "Couve-flor, fresca, cozida com manteiga ou margarina"
+ },
+ "3140": {
+  "it": "Cavolfiore, fresco, cotto con olio",
+  "fr": "Chou-fleur, frais, cuit à l'huile",
+  "es": "Coliflor, fresca, cocida con aceite",
+  "de": "Blumenkohl, frisch, gekocht mit Öl",
+  "pt": "Couve-flor, fresca, cozida com óleo"
+ },
+ "3141": {
+  "it": "Cavolfiore, fresco, cotto, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Chou-fleur, frais, cuit, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Coliflor, fresca, cocida, con grasa añadida, tipo de grasa sin especificar",
+  "de": "Blumenkohl, frisch, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+  "pt": "Couve-flor, fresca, cozida, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "3142": {
+  "it": "Cavolfiore, fresco, cotto, senza grasso aggiunto",
+  "fr": "Chou-fleur, frais, cuit, sans matière grasse ajoutée",
+  "es": "Coliflor, fresca, cocida, sin grasa añadida",
+  "de": "Blumenkohl, frisch, gekocht, ohne Fettzusatz",
+  "pt": "Couve-flor, fresca, cozida, sem gordura adicionada"
+ },
+ "3143": {
+  "it": "Cavolfiore, surgelato, cotto con burro o margarina",
+  "fr": "Chou-fleur, surgelé, cuit avec du beurre ou de la margarine",
+  "es": "Coliflor, congelada, cocida con mantequilla o margarina",
+  "de": "Blumenkohl, tiefgekühlt, gekocht mit Butter oder Margarine",
+  "pt": "Couve-flor, congelada, cozida com manteiga ou margarina"
+ },
+ "3144": {
+  "it": "Cavolfiore, surgelato, cotto con olio",
+  "fr": "Chou-fleur, surgelé, cuit à l'huile",
+  "es": "Coliflor, congelada, cocida con aceite",
+  "de": "Blumenkohl, tiefgekühlt, gekocht mit Öl",
+  "pt": "Couve-flor, congelada, cozida com óleo"
+ },
+ "3145": {
+  "it": "Cavolfiore, surgelato, cotto, bollito, sgocciolato, con sale",
+  "fr": "Chou-fleur, surgelé, cuit, bouilli, égoutté, avec sel",
+  "es": "Coliflor, congelada, cocida, hervida, escurrida, con sal",
+  "de": "Blumenkohl, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Couve-flor, congelada, cozida, cozida em água, escorrida, com sal"
+ },
+ "3146": {
+  "it": "Cavolfiore, surgelato, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chou-fleur, surgelé, cuit, bouilli, égoutté, sans sel",
+  "es": "Coliflor, congelada, cocida, hervida, escurrida, sin sal",
+  "de": "Blumenkohl, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Couve-flor, congelada, cozida, cozida em água, escorrida, sem sal"
+ },
+ "3147": {
+  "it": "Cavolfiore, surgelato, cotto, con grasso aggiunto, tipo di grasso non specificato",
+  "fr": "Chou-fleur, surgelé, cuit, avec matière grasse ajoutée, type de matière grasse non précisé",
+  "es": "Coliflor, congelada, cocida, con grasa añadida, tipo de grasa sin especificar",
+  "de": "Blumenkohl, tiefgekühlt, gekocht, mit Fettzusatz, Fettart nicht angegeben",
+  "pt": "Couve-flor, congelada, cozida, com gordura adicionada, tipo de gordura não especificado"
+ },
+ "3148": {
+  "it": "Cavolfiore, surgelato, cotto, senza grasso aggiunto",
+  "fr": "Chou-fleur, surgelé, cuit, sans matière grasse ajoutée",
+  "es": "Coliflor, congelada, cocida, sin grasa añadida",
+  "de": "Blumenkohl, tiefgekühlt, gekocht, ohne Fettzusatz",
+  "pt": "Couve-flor, congelada, cozida, sem gordura adicionada"
+ }
+}

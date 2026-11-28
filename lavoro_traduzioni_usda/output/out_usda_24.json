@@ -1,0 +1,2088 @@
+{
+"6854": {
+"it": "HOUSE FOODS Premium tofu compatto",
+"fr": "HOUSE FOODS Premium tofu ferme",
+"es": "HOUSE FOODS Premium tofu firme",
+"de": "HOUSE FOODS Premium Tofu fest",
+"pt": "HOUSE FOODS Premium tofu firme"
+},
+"6855": {
+"it": "HOUSE FOODS Premium tofu morbido",
+"fr": "HOUSE FOODS Premium tofu mou",
+"es": "HOUSE FOODS Premium tofu blando",
+"de": "HOUSE FOODS Premium Tofu weich",
+"pt": "HOUSE FOODS Premium tofu macio"
+},
+"6856": {
+"it": "Huckleberry (mirtilli americani), crudi (nativi dell'Alaska)",
+"fr": "Huckleberries (myrtilles américaines), crues (autochtones de l'Alaska)",
+"es": "Huckleberries (arándanos americanos), crudos (nativos de Alaska)",
+"de": "Huckleberries (Amerikanische Heidelbeeren), roh (Alaska-Ureinwohner)",
+"pt": "Huckleberries (mirtilos americanos), crus (nativos do Alasca)"
+},
+"6857": {
+"it": "Huevos rancheros (uova alla messicana)",
+"fr": "Huevos rancheros (œufs à la mexicaine)",
+"es": "Huevos rancheros",
+"de": "Huevos rancheros (mexikanische Spiegeleier)",
+"pt": "Huevos rancheros (ovos à moda mexicana)"
+},
+"6858": {
+"it": "Hummus, commerciale",
+"fr": "Houmous, du commerce",
+"es": "Hummus, comercial",
+"de": "Hummus, handelsüblich",
+"pt": "Hummus, comercial"
+},
+"6859": {
+"it": "Hummus, aromatizzato",
+"fr": "Houmous, aromatisé",
+"es": "Hummus, con sabor",
+"de": "Hummus, aromatisiert",
+"pt": "Hummus, saborizado"
+},
+"6860": {
+"it": "Hummus, fatto in casa",
+"fr": "Houmous, fait maison",
+"es": "Hummus, casero",
+"de": "Hummus, hausgemacht",
+"pt": "Hummus, caseiro"
+},
+"6861": {
+"it": "Hummus, naturale",
+"fr": "Houmous, nature",
+"es": "Hummus, natural",
+"de": "Hummus, natur",
+"pt": "Hummus, natural"
+},
+"6862": {
+"it": "Manzo alla Hunan",
+"fr": "Bœuf à la Hunan",
+"es": "Vacuno estilo Hunan",
+"de": "Rindfleisch nach Hunan-Art",
+"pt": "Carne bovina estilo Hunan"
+},
+"6863": {
+"it": "HUNGRY MAN, Salisbury steak con salsa di carne, surgelato, non preparato",
+"fr": "HUNGRY MAN, Salisbury steak avec sauce, surgelé, non préparé",
+"es": "HUNGRY MAN, Salisbury steak con salsa, congelado, sin preparar",
+"de": "HUNGRY MAN, Salisbury Steak mit Bratensauce, tiefgekühlt, unzubereitet",
+"pt": "HUNGRY MAN, Salisbury steak com molho, congelado, não preparado"
+},
+"6864": {
+"it": "Hush puppies (frittelle di mais), preparati da ricetta",
+"fr": "Hush puppies (beignets de maïs), préparés selon une recette",
+"es": "Hush puppies (buñuelos de maíz), preparados según receta",
+"de": "Hush Puppies (frittierte Maisbällchen), nach Rezept zubereitet",
+"pt": "Hush puppies (bolinhos fritos de milho), preparados a partir de receita"
+},
+"6865": {
+"it": "Hush puppy (frittella di mais)",
+"fr": "Hush puppy (beignet de maïs)",
+"es": "Hush puppy (buñuelo de maíz)",
+"de": "Hush Puppy (frittiertes Maisbällchen)",
+"pt": "Hush puppy (bolinho frito de milho)"
+},
+"6866": {
+"it": "Fagioli dolico d'Egitto, semi maturi, cotti, bolliti, con sale",
+"fr": "Dolique d'Égypte, graines mûres, cuites, bouillies, avec sel",
+"es": "Frijoles jacinto, semillas maduras, cocidas, hervidas, con sal",
+"de": "Helmbohnen, reife Samen, gekocht, gekocht, mit Salz",
+"pt": "Feijão-jacinto, sementes maduras, cozidas, cozidas em água, com sal"
+},
+"6867": {
+"it": "Fagioli dolico d'Egitto, semi maturi, cotti, bolliti, senza sale",
+"fr": "Dolique d'Égypte, graines mûres, cuites, bouillies, sans sel",
+"es": "Frijoles jacinto, semillas maduras, cocidas, hervidas, sin sal",
+"de": "Helmbohnen, reife Samen, gekocht, gekocht, ohne Salz",
+"pt": "Feijão-jacinto, sementes maduras, cozidas, cozidas em água, sem sal"
+},
+"6868": {
+"it": "Fagioli dolico d'Egitto, semi maturi, crudi",
+"fr": "Dolique d'Égypte, graines mûres, crues",
+"es": "Frijoles jacinto, semillas maduras, crudas",
+"de": "Helmbohnen, reife Samen, roh",
+"pt": "Feijão-jacinto, sementes maduras, cruas"
+},
+"6869": {
+"it": "Fagioli dolico d'Egitto, semi immaturi, cotti, bolliti, sgocciolati, con sale",
+"fr": "Dolique d'Égypte, graines immatures, cuites, bouillies, égouttées, avec sel",
+"es": "Frijoles jacinto, semillas inmaduras, cocidas, hervidas, escurridas, con sal",
+"de": "Helmbohnen, unreife Samen, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Feijão-jacinto, sementes imaturas, cozidas, cozidas em água, escorridas, com sal"
+},
+"6870": {
+"it": "Fagioli dolico d'Egitto, semi immaturi, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Dolique d'Égypte, graines immatures, cuites, bouillies, égouttées, sans sel",
+"es": "Frijoles jacinto, semillas inmaduras, cocidas, hervidas, escurridas, sin sal",
+"de": "Helmbohnen, unreife Samen, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Feijão-jacinto, sementes imaturas, cozidas, cozidas em água, escorridas, sem sal"
+},
+"6871": {
+"it": "Fagioli dolico d'Egitto, semi immaturi, crudi",
+"fr": "Dolique d'Égypte, graines immatures, crues",
+"es": "Frijoles jacinto, semillas inmaduras, crudas",
+"de": "Helmbohnen, unreife Samen, roh",
+"pt": "Feijão-jacinto, sementes imaturas, cruas"
+},
+"6872": {
+"it": "Barretta di gelato, cioccolato",
+"fr": "Barre de crème glacée, chocolat",
+"es": "Barra de helado, chocolate",
+"de": "Eiscremeriegel, Schokolade",
+"pt": "Barra de sorvete, chocolate"
+},
+"6873": {
+"it": "Barretta di gelato, ricoperto di cioccolato e noci",
+"fr": "Barre de crème glacée, enrobé de chocolat et de noix",
+"es": "Barra de helado, cubierto de chocolate y nueces",
+"de": "Eiscremeriegel, mit Schokolade und Nüssen überzogen",
+"pt": "Barra de sorvete, coberto com chocolate e nozes"
+},
+"6874": {
+"it": "Barretta di gelato, a stecco o a pepita, con copertura croccante",
+"fr": "Barre de crème glacée, sur bâtonnet ou en pépite, avec enrobage croustillant",
+"es": "Barra de helado, de palito o bocado, con cobertura crujiente",
+"de": "Eiscremeriegel, am Stiel oder als Nugget, mit Knusperüberzug",
+"pt": "Barra de sorvete, palito ou bolinha, com cobertura crocante"
+},
+"6875": {
+"it": "Barretta di gelato, vaniglia",
+"fr": "Barre de crème glacée, vanille",
+"es": "Barra de helado, vainilla",
+"de": "Eiscremeriegel, Vanille",
+"pt": "Barra de sorvete, baunilha"
+},
+"6876": {
+"it": "Barretta di gelato, vaniglia, ricoperto di cioccolato",
+"fr": "Barre de crème glacée, vanille, enrobé de chocolat",
+"es": "Barra de helado, vainilla, bañado en chocolate",
+"de": "Eiscremeriegel, Vanille, mit Schokoladenüberzug",
+"pt": "Barra de sorvete, baunilha, coberto com chocolate"
+},
+"6877": {
+"it": "Torta gelato",
+"fr": "Gâteau de crème glacée",
+"es": "Pastel de helado",
+"de": "Eiscremetorte",
+"pt": "Bolo de sorvete"
+},
+"6878": {
+"it": "Barretta di gelato tipo snack",
+"fr": "Barre chocolatée glacée",
+"es": "Barra de helado tipo chocolatina",
+"de": "Eiscreme-Schokoriegel",
+"pt": "Barra de sorvete tipo chocolate"
+},
+"6879": {
+"it": "Cono gelato, ricoperto di cioccolato, con noci, gusti diversi dal cioccolato",
+"fr": "Cornet de crème glacée, enrobé de chocolat, avec noix, parfums autres que chocolat",
+"es": "Cono de helado, bañado en chocolate, con nueces, sabores distintos del chocolate",
+"de": "Eistüte, mit Schokoladenüberzug, mit Nüssen, andere Geschmacksrichtungen als Schokolade",
+"pt": "Casquinha de sorvete, coberto com chocolate, com nozes, sabores diferentes de chocolate"
+},
+"6880": {
+"it": "Cono gelato, cioccolato, preconfezionato",
+"fr": "Cornet de crème glacée, chocolat, préemballé",
+"es": "Cono de helado, chocolate, envasado",
+"de": "Eistüte, Schokolade, vorverpackt",
+"pt": "Casquinha de sorvete, chocolate, pré-embalado"
+},
+"6881": {
+"it": "Cono gelato, non specificato",
+"fr": "Cornet de crème glacée, non spécifié",
+"es": "Cono de helado, no especificado",
+"de": "Eistüte, nicht näher bezeichnet",
+"pt": "Casquinha de sorvete, não especificado"
+},
+"6882": {
+"it": "Cono gelato, a palline, cioccolato",
+"fr": "Cornet de crème glacée, en boules, chocolat",
+"es": "Cono de helado, en bolas, chocolate",
+"de": "Eistüte, in Kugeln, Schokolade",
+"pt": "Casquinha de sorvete, em bolas, chocolate"
+},
+"6883": {
+"it": "Cono gelato, a palline, cioccolato, cono waffle",
+"fr": "Cornet de crème glacée, en boules, chocolat, cornet gaufre",
+"es": "Cono de helado, en bolas, chocolate, cono tipo waffle",
+"de": "Eistüte, in Kugeln, Schokolade, Waffeltüte",
+"pt": "Casquinha de sorvete, em bolas, chocolate, casquinha waffle"
+},
+"6884": {
+"it": "Cono gelato, a palline, vaniglia",
+"fr": "Cornet de crème glacée, en boules, vanille",
+"es": "Cono de helado, en bolas, vainilla",
+"de": "Eistüte, in Kugeln, Vanille",
+"pt": "Casquinha de sorvete, em bolas, baunilha"
+},
+"6885": {
+"it": "Cono gelato, a palline, vaniglia, cono waffle",
+"fr": "Cornet de crème glacée, en boules, vanille, cornet gaufre",
+"es": "Cono de helado, en bolas, vainilla, cono tipo waffle",
+"de": "Eistüte, in Kugeln, Vanille, Waffeltüte",
+"pt": "Casquinha de sorvete, em bolas, baunilha, casquinha waffle"
+},
+"6886": {
+"it": "Cono gelato, soft, cioccolato",
+"fr": "Cornet de crème glacée, glace molle (soft), chocolat",
+"es": "Cono de helado, de máquina (soft), chocolate",
+"de": "Eistüte, Softeis, Schokolade",
+"pt": "Casquinha de sorvete, tipo soft, chocolate"
+},
+"6887": {
+"it": "Cono gelato, soft, cioccolato, cono waffle",
+"fr": "Cornet de crème glacée, glace molle (soft), chocolat, cornet gaufre",
+"es": "Cono de helado, de máquina (soft), chocolate, cono tipo waffle",
+"de": "Eistüte, Softeis, Schokolade, Waffeltüte",
+"pt": "Casquinha de sorvete, tipo soft, chocolate, casquinha waffle"
+},
+"6888": {
+"it": "Cono gelato, soft, vaniglia",
+"fr": "Cornet de crème glacée, glace molle (soft), vanille",
+"es": "Cono de helado, de máquina (soft), vainilla",
+"de": "Eistüte, Softeis, Vanille",
+"pt": "Casquinha de sorvete, tipo soft, baunilha"
+},
+"6889": {
+"it": "Cono gelato, soft, vaniglia, cono waffle",
+"fr": "Cornet de crème glacée, glace molle (soft), vanille, cornet gaufre",
+"es": "Cono de helado, de máquina (soft), vainilla, cono tipo waffle",
+"de": "Eistüte, Softeis, Vanille, Waffeltüte",
+"pt": "Casquinha de sorvete, tipo soft, baunilha, casquinha waffle"
+},
+"6890": {
+"it": "Cono gelato, vaniglia, preconfezionato",
+"fr": "Cornet de crème glacée, vanille, préemballé",
+"es": "Cono de helado, vainilla, envasado",
+"de": "Eistüte, Vanille, vorverpackt",
+"pt": "Casquinha de sorvete, baunilha, pré-embalado"
+},
+"6891": {
+"it": "Coni per gelato, tipo cialda o wafer",
+"fr": "Cornets pour crème glacée, de type gaufrette ou gaufre",
+"es": "Conos para helado, tipo barquillo o wafer",
+"de": "Eistüten, Waffel- oder Oblatentyp",
+"pt": "Casquinhas para sorvete, tipo biscoito ou wafer"
+},
+"6892": {
+"it": "Coni per gelato, di zucchero, arrotolati",
+"fr": "Cornets pour crème glacée, en sucre, de type roulé",
+"es": "Conos para helado, de azúcar, tipo enrollado",
+"de": "Eistüten, aus Zucker, gerollte Art",
+"pt": "Casquinhas para sorvete, de açúcar, tipo enrolado"
+},
+"6893": {
+"it": "Sandwich di biscotti con gelato",
+"fr": "Sandwich biscuité à la crème glacée",
+"es": "Sándwich de galletas con helado",
+"de": "Eiscreme-Keks-Sandwich",
+"pt": "Sanduíche de biscoito com sorvete"
+},
+"6894": {
+"it": "Sandwich gelato",
+"fr": "Sandwich glacé",
+"es": "Sándwich de helado",
+"de": "Eiscreme-Sandwich",
+"pt": "Sanduíche de sorvete"
+},
+"6895": {
+"it": "Sandwich gelato, cioccolato",
+"fr": "Sandwich glacé, chocolat",
+"es": "Sándwich de helado, chocolate",
+"de": "Eiscreme-Sandwich, Schokolade",
+"pt": "Sanduíche de sorvete, chocolate"
+},
+"6896": {
+"it": "Sandwich gelato, preparato con gelato light, vaniglia",
+"fr": "Sandwich glacé, préparé avec de la crème glacée légère, vanille",
+"es": "Sándwich de helado, preparado con helado ligero, vainilla",
+"de": "Eiscreme-Sandwich, mit Light-Eiscreme zubereitet, Vanille",
+"pt": "Sanduíche de sorvete, preparado com sorvete light, baunilha"
+},
+"6897": {
+"it": "Sandwich gelato, vaniglia",
+"fr": "Sandwich glacé, vanille",
+"es": "Sándwich de helado, vainilla",
+"de": "Eiscreme-Sandwich, Vanille",
+"pt": "Sanduíche de sorvete, baunilha"
+},
+"6898": {
+"it": "Sandwich gelato, vaniglia, light, senza zuccheri aggiunti",
+"fr": "Sandwich glacé, vanille, léger, sans sucre ajouté",
+"es": "Sándwich de helado, vainilla, ligero, sin azúcar añadido",
+"de": "Eiscreme-Sandwich, Vanille, leicht, ohne Zuckerzusatz",
+"pt": "Sanduíche de sorvete, baunilha, light, sem adição de açúcar"
+},
+"6899": {
+"it": "Soda al gelato (ice cream soda), cioccolato",
+"fr": "Soda à la crème glacée, chocolat",
+"es": "Refresco con helado (ice cream soda), chocolate",
+"de": "Eiscremesoda, Schokolade",
+"pt": "Refrigerante com sorvete, chocolate"
+},
+"6900": {
+"it": "Soda al gelato (ice cream soda), gusti diversi dal cioccolato",
+"fr": "Soda à la crème glacée, parfums autres que chocolat",
+"es": "Refresco con helado (ice cream soda), sabores distintos del chocolate",
+"de": "Eiscremesoda, andere Geschmacksrichtungen als Schokolade",
+"pt": "Refrigerante com sorvete, sabores diferentes de chocolate"
+},
+"6901": {
+"it": "Cono sundae",
+"fr": "Cornet sundae",
+"es": "Cono sundae",
+"de": "Sundae-Tüte",
+"pt": "Casquinha sundae"
+},
+"6902": {
+"it": "Coppa di gelato (sundae), con topping al caramello",
+"fr": "Coupe glacée (sundae), avec nappage au caramel",
+"es": "Copa de helado (sundae), con cobertura de caramelo",
+"de": "Eisbecher (Sundae), mit Karamellsauce",
+"pt": "Sundae de sorvete, com cobertura de caramelo"
+},
+"6903": {
+"it": "Coppa di gelato (sundae), con topping alla frutta",
+"fr": "Coupe glacée (sundae), avec nappage aux fruits",
+"es": "Copa de helado (sundae), con cobertura de fruta",
+"de": "Eisbecher (Sundae), mit Fruchtsauce",
+"pt": "Sundae de sorvete, com cobertura de frutas"
+},
+"6904": {
+"it": "Coppa di gelato (sundae), con topping di hot fudge",
+"fr": "Coupe glacée (sundae), avec nappage hot fudge",
+"es": "Copa de helado (sundae), con cobertura de hot fudge",
+"de": "Eisbecher (Sundae), mit Hot-Fudge-Sauce",
+"pt": "Sundae de sorvete, com cobertura de hot fudge"
+},
+"6905": {
+"it": "Coppa di gelato (sundae), non specificato",
+"fr": "Coupe glacée (sundae), non spécifié",
+"es": "Copa de helado (sundae), no especificado",
+"de": "Eisbecher (Sundae), nicht näher bezeichnet",
+"pt": "Sundae de sorvete, não especificado"
+},
+"6906": {
+"it": "Gelato, a barretta o a stecco, ricoperto di cioccolato",
+"fr": "Crème glacée, en barre ou sur bâtonnet, enrobé de chocolat",
+"es": "Helado, en barra o palito, bañado en chocolate",
+"de": "Eiscreme, Riegel oder am Stiel, mit Schokoladenüberzug",
+"pt": "Sorvete, barra ou palito, coberto com chocolate"
+},
+"6907": {
+"it": "Gelato, cioccolato",
+"fr": "Crème glacée, chocolat",
+"es": "Helado, chocolate",
+"de": "Eiscreme, Schokolade",
+"pt": "Sorvete, chocolate"
+},
+"6908": {
+"it": "Gelato, cioccolato, con ingredienti aggiuntivi",
+"fr": "Crème glacée, chocolat, avec ingrédients supplémentaires",
+"es": "Helado, chocolate, con ingredientes adicionales",
+"de": "Eiscreme, Schokolade, mit zusätzlichen Zutaten",
+"pt": "Sorvete, chocolate, com ingredientes adicionais"
+},
+"6909": {
+"it": "Gelato, fritto",
+"fr": "Crème glacée, frit",
+"es": "Helado, frito",
+"de": "Eiscreme, frittiert",
+"pt": "Sorvete, frito"
+},
+"6910": {
+"it": "Gelato, light, soft, cioccolato",
+"fr": "Crème glacée, léger, glace molle (soft), chocolat",
+"es": "Helado, ligero, de máquina (soft), chocolate",
+"de": "Eiscreme, leicht, Softeis, Schokolade",
+"pt": "Sorvete, light, tipo soft, chocolate"
+},
+"6911": {
+"it": "Gelato, a basso contenuto di grassi, senza zuccheri aggiunti, cono, con arachidi e salsa al cioccolato aggiunti",
+"fr": "Crème glacée, allégé, sans sucre ajouté, cornet, avec cacahuètes et sauce au chocolat ajoutées",
+"es": "Helado, bajo en grasa, sin azúcar añadido, cono, con cacahuetes y salsa de chocolate añadidos",
+"de": "Eiscreme, fettarm, ohne Zuckerzusatz, Tüte, mit Erdnüssen und Schokoladensauce",
+"pt": "Sorvete, com baixo teor de gordura, sem adição de açúcar, casquinha, com amendoim e calda de chocolate adicionados"
+},
+"6912": {
+"it": "Gelato, non specificato",
+"fr": "Crème glacée, non spécifié",
+"es": "Helado, no especificado",
+"de": "Eiscreme, nicht näher bezeichnet",
+"pt": "Sorvete, não especificado"
+},
+"6913": {
+"it": "Gelato, soft, cioccolato",
+"fr": "Crème glacée, glace molle (soft), chocolat",
+"es": "Helado, de máquina (soft), chocolate",
+"de": "Eiscreme, Softeis, Schokolade",
+"pt": "Sorvete, tipo soft, chocolate"
+},
+"6914": {
+"it": "Gelato, soft, vaniglia",
+"fr": "Crème glacée, glace molle (soft), vanille",
+"es": "Helado, de máquina (soft), vainilla",
+"de": "Eiscreme, Softeis, Vanille",
+"pt": "Sorvete, tipo soft, baunilha"
+},
+"6915": {
+"it": "Gelato, vaniglia",
+"fr": "Crème glacée, vanille",
+"es": "Helado, vainilla",
+"de": "Eiscreme, Vanille",
+"pt": "Sorvete, baunilha"
+},
+"6916": {
+"it": "Gelato, vaniglia, con ingredienti aggiuntivi",
+"fr": "Crème glacée, vanille, avec ingrédients supplémentaires",
+"es": "Helado, vainilla, con ingredientes adicionales",
+"de": "Eiscreme, Vanille, mit zusätzlichen Zutaten",
+"pt": "Sorvete, baunilha, com ingredientes adicionais"
+},
+"6917": {
+"it": "Gelato, BREYERS, cioccolato 98% senza grassi",
+"fr": "Crème glacée, BREYERS, chocolat 98% sans matières grasses",
+"es": "Helado, BREYERS, chocolate 98% sin grasa",
+"de": "Eiscreme, BREYERS, Schokolade 98% fettfrei",
+"pt": "Sorvete, BREYERS, chocolate 98% sem gordura"
+},
+"6918": {
+"it": "Gelato, BREYERS, vaniglia 98% senza grassi",
+"fr": "Crème glacée, BREYERS, vanille 98% sans matières grasses",
+"es": "Helado, BREYERS, vainilla 98% sin grasa",
+"de": "Eiscreme, BREYERS, Vanille 98% fettfrei",
+"pt": "Sorvete, BREYERS, baunilha 98% sem gordura"
+},
+"6919": {
+"it": "Gelato, BREYERS, tutto naturale light, cioccolato francese",
+"fr": "Crème glacée, BREYERS, tout naturel léger, chocolat français",
+"es": "Helado, BREYERS, todo natural ligero, chocolate francés",
+"de": "Eiscreme, BREYERS, naturbelassen leicht, französische Schokolade",
+"pt": "Sorvete, BREYERS, totalmente natural light, chocolate francês"
+},
+"6920": {
+"it": "Gelato, BREYERS, tutto naturale light, vaniglia francese",
+"fr": "Crème glacée, BREYERS, tout naturel léger, vanille française",
+"es": "Helado, BREYERS, todo natural ligero, vainilla francesa",
+"de": "Eiscreme, BREYERS, naturbelassen leicht, französische Vanille",
+"pt": "Sorvete, BREYERS, totalmente natural light, baunilha francesa"
+},
+"6921": {
+"it": "Gelato, BREYERS, tutto naturale light, menta e gocce di cioccolato",
+"fr": "Crème glacée, BREYERS, tout naturel léger, menthe et pépites de chocolat",
+"es": "Helado, BREYERS, todo natural ligero, menta con chispas de chocolate",
+"de": "Eiscreme, BREYERS, naturbelassen leicht, Minze mit Schokostückchen",
+"pt": "Sorvete, BREYERS, totalmente natural light, menta com gotas de chocolate"
+},
+"6922": {
+"it": "Gelato, BREYERS, tutto naturale light, vaniglia",
+"fr": "Crème glacée, BREYERS, tout naturel léger, vanille",
+"es": "Helado, BREYERS, todo natural ligero, vainilla",
+"de": "Eiscreme, BREYERS, naturbelassen leicht, Vanille",
+"pt": "Sorvete, BREYERS, totalmente natural light, baunilha"
+},
+"6923": {
+"it": "Gelato, BREYERS, tutto naturale light, vaniglia, cioccolato e fragola",
+"fr": "Crème glacée, BREYERS, tout naturel léger, vanille, chocolat et fraise",
+"es": "Helado, BREYERS, todo natural ligero, vainilla, chocolate y fresa",
+"de": "Eiscreme, BREYERS, naturbelassen leicht, Vanille, Schokolade und Erdbeere",
+"pt": "Sorvete, BREYERS, totalmente natural light, baunilha, chocolate e morango"
+},
+"6924": {
+"it": "Gelato, BREYERS, senza zuccheri aggiunti, burro e noci pecan",
+"fr": "Crème glacée, BREYERS, sans sucre ajouté, beurre et noix de pécan",
+"es": "Helado, BREYERS, sin azúcar añadido, mantequilla y nuez pecana",
+"de": "Eiscreme, BREYERS, ohne Zuckerzusatz, Butter-Pekannuss",
+"pt": "Sorvete, BREYERS, sem adição de açúcar, manteiga e noz-pecã"
+},
+"6925": {
+"it": "Gelato, BREYERS, senza zuccheri aggiunti, cioccolato e caramello",
+"fr": "Crème glacée, BREYERS, sans sucre ajouté, chocolat et caramel",
+"es": "Helado, BREYERS, sin azúcar añadido, chocolate y caramelo",
+"de": "Eiscreme, BREYERS, ohne Zuckerzusatz, Schokolade und Karamell",
+"pt": "Sorvete, BREYERS, sem adição de açúcar, chocolate e caramelo"
+},
+"6926": {
+"it": "Gelato, BREYERS, senza zuccheri aggiunti, vaniglia francese",
+"fr": "Crème glacée, BREYERS, sans sucre ajouté, vanille française",
+"es": "Helado, BREYERS, sin azúcar añadido, vainilla francesa",
+"de": "Eiscreme, BREYERS, ohne Zuckerzusatz, französische Vanille",
+"pt": "Sorvete, BREYERS, sem adição de açúcar, baunilha francesa"
+},
+"6927": {
+"it": "Gelato, BREYERS, senza zuccheri aggiunti, vaniglia",
+"fr": "Crème glacée, BREYERS, sans sucre ajouté, vanille",
+"es": "Helado, BREYERS, sin azúcar añadido, vainilla",
+"de": "Eiscreme, BREYERS, ohne Zuckerzusatz, Vanille",
+"pt": "Sorvete, BREYERS, sem adição de açúcar, baunilha"
+},
+"6928": {
+"it": "Gelato, BREYERS, senza zuccheri aggiunti, vaniglia, cioccolato e fragola",
+"fr": "Crème glacée, BREYERS, sans sucre ajouté, vanille, chocolat et fraise",
+"es": "Helado, BREYERS, sin azúcar añadido, vainilla, chocolate y fresa",
+"de": "Eiscreme, BREYERS, ohne Zuckerzusatz, Vanille, Schokolade und Erdbeere",
+"pt": "Sorvete, BREYERS, sem adição de açúcar, baunilha, chocolate e morango"
+},
+"6929": {
+"it": "Gelato, BREYERS, senza zuccheri aggiunti, vaniglia e fudge a spirale",
+"fr": "Crème glacée, BREYERS, sans sucre ajouté, vanille et fudge en spirale",
+"es": "Helado, BREYERS, sin azúcar añadido, vainilla y fudge en espiral",
+"de": "Eiscreme, BREYERS, ohne Zuckerzusatz, Vanille mit Fudge-Wirbel",
+"pt": "Sorvete, BREYERS, sem adição de açúcar, baunilha com redemoinho de fudge"
+},
+"6930": {
+"it": "Gelato, cioccolato",
+"fr": "Crème glacée, chocolat",
+"es": "Helado, chocolate",
+"de": "Eiscreme, Schokolade",
+"pt": "Sorvete, chocolate"
+},
+"6931": {
+"it": "Gelato, cioccolato, light",
+"fr": "Crème glacée, chocolat, léger",
+"es": "Helado, chocolate, ligero",
+"de": "Eiscreme, Schokolade, leicht",
+"pt": "Sorvete, chocolate, light"
+},
+"6932": {
+"it": "Gelato, cioccolato, light, senza zuccheri aggiunti",
+"fr": "Crème glacée, chocolat, léger, sans sucre ajouté",
+"es": "Helado, chocolate, ligero, sin azúcar añadido",
+"de": "Eiscreme, Schokolade, leicht, ohne Zuckerzusatz",
+"pt": "Sorvete, chocolate, light, sem adição de açúcar"
+},
+"6933": {
+"it": "Gelato, cioccolato, ricco",
+"fr": "Crème glacée, chocolat, riche",
+"es": "Helado, chocolate, rico",
+"de": "Eiscreme, Schokolade, reichhaltig",
+"pt": "Sorvete, chocolate, rico"
+},
+"6934": {
+"it": "Gelato, vaniglia francese, soft",
+"fr": "Crème glacée, vanille française, glace molle (soft)",
+"es": "Helado, vainilla francesa, de máquina (soft)",
+"de": "Eiscreme, französische Vanille, Softeis",
+"pt": "Sorvete, baunilha francesa, tipo soft"
+},
+"6935": {
+"it": "Gelato, normale, a basso contenuto di carboidrati, cioccolato",
+"fr": "Crème glacée, ordinaire, pauvre en glucides, chocolat",
+"es": "Helado, normal, bajo en carbohidratos, chocolate",
+"de": "Eiscreme, normal, kohlenhydratarm, Schokolade",
+"pt": "Sorvete, regular, com baixo teor de carboidratos, chocolate"
+},
+"6936": {
+"it": "Gelato, normale, a basso contenuto di carboidrati, vaniglia",
+"fr": "Crème glacée, ordinaire, pauvre en glucides, vanille",
+"es": "Helado, normal, bajo en carbohidratos, vainilla",
+"de": "Eiscreme, normal, kohlenhydratarm, Vanille",
+"pt": "Sorvete, regular, com baixo teor de carboidratos, baunilha"
+},
+"6937": {
+"it": "Gelato, fragola",
+"fr": "Crème glacée, fraise",
+"es": "Helado, fresa",
+"de": "Eiscreme, Erdbeere",
+"pt": "Sorvete, morango"
+},
+"6938": {
+"it": "Gelato, vaniglia",
+"fr": "Crème glacée, vanille",
+"es": "Helado, vainilla",
+"de": "Eiscreme, Vanille",
+"pt": "Sorvete, baunilha"
+},
+"6939": {
+"it": "Gelato, vaniglia, senza grassi",
+"fr": "Crème glacée, vanille, sans matières grasses",
+"es": "Helado, vainilla, sin grasa",
+"de": "Eiscreme, Vanille, fettfrei",
+"pt": "Sorvete, baunilha, sem gordura"
+},
+"6940": {
+"it": "Gelato, vaniglia, light",
+"fr": "Crème glacée, vanille, léger",
+"es": "Helado, vainilla, ligero",
+"de": "Eiscreme, Vanille, leicht",
+"pt": "Sorvete, baunilha, light"
+},
+"6941": {
+"it": "Gelato, vaniglia, light, senza zuccheri aggiunti",
+"fr": "Crème glacée, vanille, léger, sans sucre ajouté",
+"es": "Helado, vainilla, ligero, sin azúcar añadido",
+"de": "Eiscreme, Vanille, leicht, ohne Zuckerzusatz",
+"pt": "Sorvete, baunilha, light, sem adição de açúcar"
+},
+"6942": {
+"it": "Gelato, vaniglia, light, soft",
+"fr": "Crème glacée, vanille, léger, glace molle (soft)",
+"es": "Helado, vainilla, ligero, de máquina (soft)",
+"de": "Eiscreme, Vanille, leicht, Softeis",
+"pt": "Sorvete, baunilha, light, tipo soft"
+},
+"6943": {
+"it": "Gelato, vaniglia, ricco",
+"fr": "Crème glacée, vanille, riche",
+"es": "Helado, vainilla, rico",
+"de": "Eiscreme, Vanille, reichhaltig",
+"pt": "Sorvete, baunilha, rico"
+},
+"6944": {
+"it": "Caffè freddo, preparato",
+"fr": "Café glacé, infusé",
+"es": "Café helado, preparado",
+"de": "Eiskaffee, aufgebrüht",
+"pt": "Café gelado, preparado"
+},
+"6945": {
+"it": "Caffè freddo, preparato, decaffeinato",
+"fr": "Café glacé, infusé, décaféiné",
+"es": "Café helado, preparado, descafeinado",
+"de": "Eiskaffee, aufgebrüht, entkoffeiniert",
+"pt": "Café gelado, preparado, descafeinado"
+},
+"6946": {
+"it": "Caffè freddo, già schiarito e zuccherato",
+"fr": "Café glacé, déjà éclairci et sucré",
+"es": "Café helado, ya aclarado y azucarado",
+"de": "Eiskaffee, vorgeweißt und vorgesüßt",
+"pt": "Café gelado, já clareado e adoçado"
+},
+"6947": {
+"it": "Tè freddo / limonata, bevanda a base di succo",
+"fr": "Thé glacé / limonade, boisson à base de jus",
+"es": "Té helado / limonada, bebida de zumo",
+"de": "Eistee / Limonade, Saftgetränk",
+"pt": "Chá gelado / limonada, bebida de suco"
+},
+"6948": {
+"it": "Tè freddo / limonata, bevanda a base di succo, dietetica",
+"fr": "Thé glacé / limonade, boisson à base de jus, diet",
+"es": "Té helado / limonada, bebida de zumo, diet",
+"de": "Eistee / Limonade, Saftgetränk, Diät",
+"pt": "Chá gelado / limonada, bebida de suco, diet"
+},
+"6949": {
+"it": "Tè freddo / limonata, bevanda a base di succo, light",
+"fr": "Thé glacé / limonade, boisson à base de jus, léger",
+"es": "Té helado / limonada, bebida de zumo, ligero",
+"de": "Eistee / Limonade, Saftgetränk, leicht",
+"pt": "Chá gelado / limonada, bebida de suco, light"
+},
+"6950": {
+"it": "Glassa, cioccolato",
+"fr": "Glaçage, chocolat",
+"es": "Glaseado, chocolate",
+"de": "Zuckerguss, Schokolade",
+"pt": "Cobertura, chocolate"
+},
+"6951": {
+"it": "Glassa, bianca",
+"fr": "Glaçage, blanc",
+"es": "Glaseado, blanco",
+"de": "Zuckerguss, weiß",
+"pt": "Cobertura, branca"
+},
+"6952": {
+"it": "Idli (tortino indiano al vapore)",
+"fr": "Idli (galette indienne cuite à la vapeur)",
+"es": "Idli (pastelito indio al vapor)",
+"de": "Idli (indisches Dampfküchlein)",
+"pt": "Idli (bolinho indiano no vapor)"
+},
+"6953": {
+"it": "Formaggio di imitazione",
+"fr": "Fromage d'imitation",
+"es": "Queso de imitación",
+"de": "Käseersatz",
+"pt": "Queijo de imitação"
+},
+"6954": {
+"it": "Formaggio di imitazione, tipo americano o cheddar, a basso contenuto di colesterolo",
+"fr": "Fromage d'imitation, de type américain ou cheddar, pauvre en cholestérol",
+"es": "Queso de imitación, tipo americano o cheddar, bajo en colesterol",
+"de": "Käseersatz, Typ American oder Cheddar, cholesterinarm",
+"pt": "Queijo de imitação, tipo americano ou cheddar, com baixo teor de colesterol"
+},
+"6955": {
+"it": "Carne di granchio di imitazione",
+"fr": "Chair de crabe d'imitation",
+"es": "Carne de cangrejo de imitación",
+"de": "Krebsfleischersatz",
+"pt": "Carne de caranguejo de imitação"
+},
+"6956": {
+"it": "Incaparina, miscela secca (farine di mais e soia), non preparata",
+"fr": "Incaparina, mélange sec (farines de maïs et de soja), non préparé",
+"es": "Incaparina, mezcla seca (harinas de maíz y soja), sin preparar",
+"de": "Incaparina, Trockenmischung (Mais- und Sojamehl), unzubereitet",
+"pt": "Incaparina, mistura seca (farinhas de milho e soja), não preparada"
+},
+"6957": {
+"it": "Olio industriale come ingrediente alimentare",
+"fr": "Huile industrielle comme ingrédient alimentaire",
+"es": "Aceite industrial como ingrediente de alimentos",
+"de": "Industrielles Öl als Lebensmittelzutat",
+"pt": "Óleo industrial como ingrediente de alimentos"
+},
+"6958": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, ALIMENTUM ADVANCE, con ferro, in polvere, non ricostituito, con DHA e ARA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, ALIMENTUM ADVANCE, avec fer, en poudre, non reconstitué, avec DHA et ARA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, ALIMENTUM ADVANCE, con hierro, en polvo, sin reconstituir, con DHA y ARA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, ALIMENTUM ADVANCE, mit Eisen, Pulver, nicht rekonstituiert, mit DHA und ARA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, ALIMENTUM ADVANCE, com ferro, em pó, não reconstituído, com DHA e ARA"
+},
+"6959": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, SIMILAC NEOSURE, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, SIMILAC NEOSURE, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, SIMILAC NEOSURE, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, SIMILAC NEOSURE, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, SIMILAC NEOSURE, pronto para uso, com ARA e DHA"
+},
+"6960": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ADVANCE, con ferro, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ADVANCE, avec fer, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ADVANCE, con hierro, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ADVANCE, mit Eisen, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ADVANCE, com ferro, concentrado líquido, não reconstituído"
+},
+"6961": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ADVANCE, con ferro, in polvere, non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ADVANCE, avec fer, en poudre, non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ADVANCE, con hierro, en polvo, sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ADVANCE, mit Eisen, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ADVANCE, com ferro, em pó, não reconstituído"
+},
+"6962": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ADVANCE, con ferro, pronto all'uso",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ADVANCE, avec fer, prêt à l'emploi",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ADVANCE, con hierro, listo para usar",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ADVANCE, mit Eisen, trinkfertig",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ADVANCE, com ferro, pronto para uso"
+},
+"6963": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ALIMENTUM, ADVANCE, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ALIMENTUM, ADVANCE, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ALIMENTUM, ADVANCE, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ALIMENTUM, ADVANCE, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ALIMENTUM, ADVANCE, pronto para uso, com ARA e DHA"
+},
+"6964": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ALIMENTUM, con ferro, pronto all'uso",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ALIMENTUM, avec fer, prêt à l'emploi",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ALIMENTUM, con hierro, listo para usar",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ALIMENTUM, mit Eisen, trinkfertig",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ALIMENTUM, com ferro, pronto para uso"
+},
+"6965": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, Expert Care, diarrea, pronto all'uso con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, Expert Care, diarrhée, prêt à l'emploi avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, Expert Care, diarrea, listo para usar con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, Expert Care, Durchfall, trinkfertig mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, Expert Care, diarreia, pronto para uso com ARA e DHA"
+},
+"6966": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, per il rigurgito, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, pour régurgitations, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, para regurgitación, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, bei Spucken, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, para refluxo, em pó, com ARA e DHA"
+},
+"6967": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, per il rigurgito, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, pour régurgitations, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, para regurgitación, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, bei Spucken, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, para refluxo, pronto para uso, com ARA e DHA"
+},
+"6968": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, GO AND GROW, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, GO AND GROW, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, GO AND GROW, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, GO AND GROW, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, GO AND GROW, em pó, com ARA e DHA"
+},
+"6969": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, GO AND GROW, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, GO AND GROW, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, GO AND GROW, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, GO AND GROW, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, GO AND GROW, pronto para uso, com ARA e DHA"
+},
+"6970": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE con ferro, concentrato liquido",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE avec fer, concentré liquide",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE con hierro, concentrado líquido",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE mit Eisen, Flüssigkonzentrat",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE com ferro, concentrado líquido"
+},
+"6971": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE con ferro, in polvere, non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE avec fer, en poudre, non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE con hierro, en polvo, sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE mit Eisen, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE com ferro, em pó, não reconstituído"
+},
+"6972": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE con ferro, pronto all'uso",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE avec fer, prêt à l'emploi",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE con hierro, listo para usar",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE mit Eisen, trinkfertig",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, ADVANCE com ferro, pronto para uso"
+},
+"6973": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ISOMIL, con ferro, concentrato liquido",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ISOMIL, avec fer, concentré liquide",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, con hierro, concentrado líquido",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ISOMIL, mit Eisen, Flüssigkonzentrat",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, com ferro, concentrado líquido"
+},
+"6974": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ISOMIL, con ferro, in polvere, non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ISOMIL, avec fer, en poudre, non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, con hierro, en polvo, sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ISOMIL, mit Eisen, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, com ferro, em pó, não reconstituído"
+},
+"6975": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, ISOMIL, con ferro, pronto all'uso",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, ISOMIL, avec fer, prêt à l'emploi",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, con hierro, listo para usar",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, ISOMIL, mit Eisen, trinkfertig",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, ISOMIL, com ferro, pronto para uso"
+},
+"6976": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, NEOSURE, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, NEOSURE, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, NEOSURE, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, NEOSURE, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, NEOSURE, em pó, com ARA e DHA"
+},
+"6977": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, PM 60/40, in polvere non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, PM 60/40, en poudre non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, PM 60/40, en polvo sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, PM 60/40, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, PM 60/40, em pó não reconstituído"
+},
+"6978": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, SENSITIVE (senza lattosio) pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, SENSITIVE (sans lactose) prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, SENSITIVE (sin lactosa) listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, SENSITIVE (laktosefrei) trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, SENSITIVE (sem lactose) pronto para uso, com ARA e DHA"
+},
+"6979": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, SENSITIVE, (senza lattosio), concentrato liquido, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, SENSITIVE, (sans lactose), concentré liquide, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, SENSITIVE, (sin lactosa), concentrado líquido, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, SENSITIVE, (laktosefrei), Flüssigkonzentrat, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, SENSITIVE, (sem lactose), concentrado líquido, com ARA e DHA"
+},
+"6980": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, SENSITIVE, (senza lattosio), in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, SENSITIVE, (sans lactose), en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, SENSITIVE, (sin lactosa), en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, SENSITIVE, (laktosefrei), Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, SENSITIVE, (sem lactose), em pó, com ARA e DHA"
+},
+"6981": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, con ferro, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, avec fer, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, con hierro, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, mit Eisen, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, com ferro, concentrado líquido, não reconstituído"
+},
+"6982": {
+"it": "Formula per lattanti, ABBOTT NUTRITION, Similac, con ferro, in polvere, non ricostituito",
+"fr": "Préparation pour nourrissons, ABBOTT NUTRITION, Similac, avec fer, en poudre, non reconstitué",
+"es": "Fórmula infantil, ABBOTT NUTRITION, Similac, con hierro, en polvo, sin reconstituir",
+"de": "Säuglingsnahrung, ABBOTT NUTRITION, Similac, mit Eisen, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, ABBOTT NUTRITION, Similac, com ferro, em pó, não reconstituído"
+},
+"6983": {
+"it": "Formula per lattanti, aminoacidi",
+"fr": "Préparation pour nourrissons, acides aminés",
+"es": "Fórmula infantil, aminoácidos",
+"de": "Säuglingsnahrung, Aminosäuren",
+"pt": "Fórmula infantil, aminoácidos"
+},
+"6984": {
+"it": "Formula per lattanti, Enfamil AR, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, Enfamil AR, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, Enfamil AR, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, Enfamil AR, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, Enfamil AR, em pó, preparado com água"
+},
+"6985": {
+"it": "Formula per lattanti, Enfamil AR, pronto all'uso",
+"fr": "Préparation pour nourrissons, Enfamil AR, prêt à l'emploi",
+"es": "Fórmula infantil, Enfamil AR, listo para usar",
+"de": "Säuglingsnahrung, Enfamil AR, trinkfertig",
+"pt": "Fórmula infantil, Enfamil AR, pronto para uso"
+},
+"6986": {
+"it": "Formula per lattanti, ENFAMIL GENTLEASE, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, ENFAMIL GENTLEASE, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, ENFAMIL GENTLEASE, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, ENFAMIL GENTLEASE, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, ENFAMIL GENTLEASE, em pó, preparado com água para bebês"
+},
+"6987": {
+"it": "Formula per lattanti, ENFAMIL GENTLEASE, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, ENFAMIL GENTLEASE, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, ENFAMIL GENTLEASE, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, ENFAMIL GENTLEASE, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, ENFAMIL GENTLEASE, em pó, preparado com água engarrafada"
+},
+"6988": {
+"it": "Formula per lattanti, ENFAMIL GENTLEASE, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, ENFAMIL GENTLEASE, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, ENFAMIL GENTLEASE, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, ENFAMIL GENTLEASE, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, ENFAMIL GENTLEASE, em pó, preparado com água da torneira"
+},
+"6989": {
+"it": "Formula per lattanti, ENFAMIL GENTLEASE, pronto all'uso",
+"fr": "Préparation pour nourrissons, ENFAMIL GENTLEASE, prêt à l'emploi",
+"es": "Fórmula infantil, ENFAMIL GENTLEASE, listo para usar",
+"de": "Säuglingsnahrung, ENFAMIL GENTLEASE, trinkfertig",
+"pt": "Fórmula infantil, ENFAMIL GENTLEASE, pronto para uso"
+},
+"6990": {
+"it": "Formula per lattanti, Enfamil Infant, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Enfamil Infant, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Enfamil Infant, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Enfamil Infant, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Enfamil Infant, em pó, preparado com água para bebês"
+},
+"6991": {
+"it": "Formula per lattanti, Enfamil Infant, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Enfamil Infant, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Enfamil Infant, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Enfamil Infant, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Enfamil Infant, em pó, preparado com água engarrafada"
+},
+"6992": {
+"it": "Formula per lattanti, Enfamil Infant, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Enfamil Infant, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Enfamil Infant, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Enfamil Infant, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Enfamil Infant, em pó, preparado com água da torneira"
+},
+"6993": {
+"it": "Formula per lattanti, Enfamil Infant, pronto all'uso",
+"fr": "Préparation pour nourrissons, Enfamil Infant, prêt à l'emploi",
+"es": "Fórmula infantil, Enfamil Infant, listo para usar",
+"de": "Säuglingsnahrung, Enfamil Infant, trinkfertig",
+"pt": "Fórmula infantil, Enfamil Infant, pronto para uso"
+},
+"6994": {
+"it": "Formula per lattanti, Enfamil Nutramigen, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, Enfamil Nutramigen, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, Enfamil Nutramigen, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, Enfamil Nutramigen, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, Enfamil Nutramigen, em pó, preparado com água"
+},
+"6995": {
+"it": "Formula per lattanti, Enfamil Nutramigen, pronto all'uso",
+"fr": "Préparation pour nourrissons, Enfamil Nutramigen, prêt à l'emploi",
+"es": "Fórmula infantil, Enfamil Nutramigen, listo para usar",
+"de": "Säuglingsnahrung, Enfamil Nutramigen, trinkfertig",
+"pt": "Fórmula infantil, Enfamil Nutramigen, pronto para uso"
+},
+"6996": {
+"it": "Formula per lattanti, Enfamil Pregestimil, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, Enfamil Pregestimil, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, Enfamil Pregestimil, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, Enfamil Pregestimil, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, Enfamil Pregestimil, em pó, preparado com água"
+},
+"6997": {
+"it": "Formula per lattanti, Enfamil Pregestimil, pronto all'uso",
+"fr": "Préparation pour nourrissons, Enfamil Pregestimil, prêt à l'emploi",
+"es": "Fórmula infantil, Enfamil Pregestimil, listo para usar",
+"de": "Säuglingsnahrung, Enfamil Pregestimil, trinkfertig",
+"pt": "Fórmula infantil, Enfamil Pregestimil, pronto para uso"
+},
+"6998": {
+"it": "Formula per lattanti, Enfamil ProSobee, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Enfamil ProSobee, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Enfamil ProSobee, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Enfamil ProSobee, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Enfamil ProSobee, em pó, preparado com água para bebês"
+},
+"6999": {
+"it": "Formula per lattanti, Enfamil ProSobee, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Enfamil ProSobee, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Enfamil ProSobee, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Enfamil ProSobee, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Enfamil ProSobee, em pó, preparado com água engarrafada"
+},
+"7000": {
+"it": "Formula per lattanti, Enfamil ProSobee, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Enfamil ProSobee, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Enfamil ProSobee, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Enfamil ProSobee, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Enfamil ProSobee, em pó, preparado com água da torneira"
+},
+"7001": {
+"it": "Formula per lattanti, Enfamil ProSobee, pronto all'uso",
+"fr": "Préparation pour nourrissons, Enfamil ProSobee, prêt à l'emploi",
+"es": "Fórmula infantil, Enfamil ProSobee, listo para usar",
+"de": "Säuglingsnahrung, Enfamil ProSobee, trinkfertig",
+"pt": "Fórmula infantil, Enfamil ProSobee, pronto para uso"
+},
+"7002": {
+"it": "Formula per lattanti, Enfamil, non specificato",
+"fr": "Préparation pour nourrissons, Enfamil, non spécifié",
+"es": "Fórmula infantil, Enfamil, no especificado",
+"de": "Säuglingsnahrung, Enfamil, nicht näher bezeichnet",
+"pt": "Fórmula infantil, Enfamil, não especificado"
+},
+"7003": {
+"it": "Formula per lattanti, GERBER GOOD START 2, GENTLE PLUS, in polvere",
+"fr": "Préparation pour nourrissons, GERBER GOOD START 2, GENTLE PLUS, en poudre",
+"es": "Fórmula infantil, GERBER GOOD START 2, GENTLE PLUS, en polvo",
+"de": "Säuglingsnahrung, GERBER GOOD START 2, GENTLE PLUS, Pulver",
+"pt": "Fórmula infantil, GERBER GOOD START 2, GENTLE PLUS, em pó"
+},
+"7004": {
+"it": "Formula per lattanti, GERBER GOOD START 2, GENTLE PLUS, pronto all'uso",
+"fr": "Préparation pour nourrissons, GERBER GOOD START 2, GENTLE PLUS, prêt à l'emploi",
+"es": "Fórmula infantil, GERBER GOOD START 2, GENTLE PLUS, listo para usar",
+"de": "Säuglingsnahrung, GERBER GOOD START 2, GENTLE PLUS, trinkfertig",
+"pt": "Fórmula infantil, GERBER GOOD START 2, GENTLE PLUS, pronto para uso"
+},
+"7005": {
+"it": "Formula per lattanti, Gerber Good Start Gentle, fase 1, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Gerber Good Start Gentle, stade 1, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Gerber Good Start Gentle, etapa 1, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Gerber Good Start Gentle, Stufe 1, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Gerber Good Start Gentle, estágio 1, em pó, preparado com água para bebês"
+},
+"7006": {
+"it": "Formula per lattanti, Gerber Good Start Gentle, fase 1, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Gerber Good Start Gentle, stade 1, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Gerber Good Start Gentle, etapa 1, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Gerber Good Start Gentle, Stufe 1, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Gerber Good Start Gentle, estágio 1, em pó, preparado com água engarrafada"
+},
+"7007": {
+"it": "Formula per lattanti, Gerber Good Start Gentle, fase 1, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Gerber Good Start Gentle, stade 1, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Gerber Good Start Gentle, etapa 1, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Gerber Good Start Gentle, Stufe 1, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Gerber Good Start Gentle, estágio 1, em pó, preparado com água da torneira"
+},
+"7008": {
+"it": "Formula per lattanti, Gerber Good Start Gentle, fase 1, pronto all'uso",
+"fr": "Préparation pour nourrissons, Gerber Good Start Gentle, stade 1, prêt à l'emploi",
+"es": "Fórmula infantil, Gerber Good Start Gentle, etapa 1, listo para usar",
+"de": "Säuglingsnahrung, Gerber Good Start Gentle, Stufe 1, trinkfertig",
+"pt": "Fórmula infantil, Gerber Good Start Gentle, estágio 1, pronto para uso"
+},
+"7009": {
+"it": "Formula per lattanti, Gerber Good Start Gentle, fase 2",
+"fr": "Préparation pour nourrissons, Gerber Good Start Gentle, stade 2",
+"es": "Fórmula infantil, Gerber Good Start Gentle, etapa 2",
+"de": "Säuglingsnahrung, Gerber Good Start Gentle, Stufe 2",
+"pt": "Fórmula infantil, Gerber Good Start Gentle, estágio 2"
+},
+"7010": {
+"it": "Formula per lattanti, Gerber Good Start Soy, fase 1, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Gerber Good Start Soy, stade 1, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Gerber Good Start Soy, etapa 1, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Gerber Good Start Soy, Stufe 1, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Gerber Good Start Soy, estágio 1, em pó, preparado com água para bebês"
+},
+"7011": {
+"it": "Formula per lattanti, Gerber Good Start Soy, fase 1, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Gerber Good Start Soy, stade 1, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Gerber Good Start Soy, etapa 1, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Gerber Good Start Soy, Stufe 1, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Gerber Good Start Soy, estágio 1, em pó, preparado com água engarrafada"
+},
+"7012": {
+"it": "Formula per lattanti, Gerber Good Start Soy, fase 1, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Gerber Good Start Soy, stade 1, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Gerber Good Start Soy, etapa 1, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Gerber Good Start Soy, Stufe 1, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Gerber Good Start Soy, estágio 1, em pó, preparado com água da torneira"
+},
+"7013": {
+"it": "Formula per lattanti, Gerber Good Start Soy, fase 1, pronto all'uso",
+"fr": "Préparation pour nourrissons, Gerber Good Start Soy, stade 1, prêt à l'emploi",
+"es": "Fórmula infantil, Gerber Good Start Soy, etapa 1, listo para usar",
+"de": "Säuglingsnahrung, Gerber Good Start Soy, Stufe 1, trinkfertig",
+"pt": "Fórmula infantil, Gerber Good Start Soy, estágio 1, pronto para uso"
+},
+"7014": {
+"it": "Formula per lattanti, GERBER, GOOD START 2 SOY, con ferro, in polvere",
+"fr": "Préparation pour nourrissons, GERBER, GOOD START 2 SOY, avec fer, en poudre",
+"es": "Fórmula infantil, GERBER, GOOD START 2 SOY, con hierro, en polvo",
+"de": "Säuglingsnahrung, GERBER, GOOD START 2 SOY, mit Eisen, Pulver",
+"pt": "Fórmula infantil, GERBER, GOOD START 2 SOY, com ferro, em pó"
+},
+"7015": {
+"it": "Formula per lattanti, GERBER, GOOD START 2 SOY, con ferro, pronto all'uso",
+"fr": "Préparation pour nourrissons, GERBER, GOOD START 2 SOY, avec fer, prêt à l'emploi",
+"es": "Fórmula infantil, GERBER, GOOD START 2 SOY, con hierro, listo para usar",
+"de": "Säuglingsnahrung, GERBER, GOOD START 2 SOY, mit Eisen, trinkfertig",
+"pt": "Fórmula infantil, GERBER, GOOD START 2 SOY, com ferro, pronto para uso"
+},
+"7016": {
+"it": "Formula per lattanti, GERBER, GOOD START 2, PROTECT PLUS, in polvere",
+"fr": "Préparation pour nourrissons, GERBER, GOOD START 2, PROTECT PLUS, en poudre",
+"es": "Fórmula infantil, GERBER, GOOD START 2, PROTECT PLUS, en polvo",
+"de": "Säuglingsnahrung, GERBER, GOOD START 2, PROTECT PLUS, Pulver",
+"pt": "Fórmula infantil, GERBER, GOOD START 2, PROTECT PLUS, em pó"
+},
+"7017": {
+"it": "Formula per lattanti, GERBER, GOOD START 2, PROTECT PLUS, pronto all'uso",
+"fr": "Préparation pour nourrissons, GERBER, GOOD START 2, PROTECT PLUS, prêt à l'emploi",
+"es": "Fórmula infantil, GERBER, GOOD START 2, PROTECT PLUS, listo para usar",
+"de": "Säuglingsnahrung, GERBER, GOOD START 2, PROTECT PLUS, trinkfertig",
+"pt": "Fórmula infantil, GERBER, GOOD START 2, PROTECT PLUS, pronto para uso"
+},
+"7018": {
+"it": "Formula per lattanti, GERBER, GOOD START, PROTECT PLUS, in polvere",
+"fr": "Préparation pour nourrissons, GERBER, GOOD START, PROTECT PLUS, en poudre",
+"es": "Fórmula infantil, GERBER, GOOD START, PROTECT PLUS, en polvo",
+"de": "Säuglingsnahrung, GERBER, GOOD START, PROTECT PLUS, Pulver",
+"pt": "Fórmula infantil, GERBER, GOOD START, PROTECT PLUS, em pó"
+},
+"7019": {
+"it": "Formula per lattanti, GERBER, GOOD START, PROTECT PLUS, pronto all'uso",
+"fr": "Préparation pour nourrissons, GERBER, GOOD START, PROTECT PLUS, prêt à l'emploi",
+"es": "Fórmula infantil, GERBER, GOOD START, PROTECT PLUS, listo para usar",
+"de": "Säuglingsnahrung, GERBER, GOOD START, PROTECT PLUS, trinkfertig",
+"pt": "Fórmula infantil, GERBER, GOOD START, PROTECT PLUS, pronto para uso"
+},
+"7020": {
+"it": "Formula per lattanti, GERBER, non specificato",
+"fr": "Préparation pour nourrissons, GERBER, non spécifié",
+"es": "Fórmula infantil, GERBER, no especificado",
+"de": "Säuglingsnahrung, GERBER, nicht näher bezeichnet",
+"pt": "Fórmula infantil, GERBER, não especificado"
+},
+"7021": {
+"it": "Formula per lattanti, a basso contenuto di ferro",
+"fr": "Préparation pour nourrissons, pauvre en fer",
+"es": "Fórmula infantil, bajo en hierro",
+"de": "Säuglingsnahrung, eisenarm",
+"pt": "Fórmula infantil, com baixo teor de ferro"
+},
+"7022": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil 24, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil 24, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil 24, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil 24, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil 24, pronto para uso, com ARA e DHA"
+},
+"7023": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil Enspire in polvere, con ARA e DHA, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil Enspire en poudre, avec ARA et DHA, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil Enspire en polvo, con ARA y DHA, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil Enspire Pulver, mit ARA und DHA, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil Enspire em pó, com ARA e DHA, não reconstituído"
+},
+"7024": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil per integrazione, in polvere, con ARA e DHA, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil pour complément, en poudre, avec ARA et DHA, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil para suplementar, en polvo, con ARA y DHA, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil zur Ergänzung, Pulver, mit ARA und DHA, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil para complementação, em pó, com ARA e DHA, não reconstituído"
+},
+"7025": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil per integrazione, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil pour complément, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil para suplementar, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil zur Ergänzung, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil para complementação, pronto para uso, com ARA e DHA"
+},
+"7026": {
+"it": "Formula per lattanti, MEAD JOHNSON, ENFAMIL GENTLEASE, con ferro, preparato da polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, ENFAMIL GENTLEASE, avec fer, préparé à partir de poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, ENFAMIL GENTLEASE, con hierro, preparado a partir de polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, ENFAMIL GENTLEASE, mit Eisen, aus Pulver zubereitet",
+"pt": "Fórmula infantil, MEAD JOHNSON, ENFAMIL GENTLEASE, com ferro, preparado a partir do pó"
+},
+"7027": {
+"it": "Formula per lattanti, MEAD JOHNSON, ENFAMIL LIPIL, con ferro, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, ENFAMIL LIPIL, avec fer, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, ENFAMIL LIPIL, con hierro, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, ENFAMIL LIPIL, mit Eisen, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, ENFAMIL LIPIL, com ferro, pronto para uso, com ARA e DHA"
+},
+"7028": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil per prematuri 30 calorie, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil pour prématurés 30 calories, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil para prematuros 30 calorías, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil für Frühgeborene 30 Kalorien, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil para prematuros 30 calorias, pronto para uso, com ARA e DHA"
+},
+"7029": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil per prematuri ad alto contenuto proteico 24 calorie, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil pour prématurés riche en protéines 24 calories, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil para prematuros alto en proteínas 24 calorías, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil für Frühgeborene eiweißreich 24 Kalorien, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil para prematuros rico em proteínas 24 calorias, pronto para uso, com ARA e DHA"
+},
+"7030": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil Reguline in polvere, con ARA e DHA, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil Reguline en poudre, avec ARA et DHA, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil Reguline en polvo, con ARA y DHA, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil Reguline Pulver, mit ARA und DHA, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil Reguline em pó, com ARA e DHA, não reconstituído"
+},
+"7031": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil Reguline, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil Reguline, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil Reguline, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil Reguline, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil Reguline, pronto para uso, com ARA e DHA"
+},
+"7032": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, AR, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, AR, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, AR, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, AR, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, AR, em pó, com ARA e DHA"
+},
+"7033": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, AR, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, AR, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, AR, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, AR, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, AR, pronto para uso, com ARA e DHA"
+},
+"7034": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, ENFACARE, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, ENFACARE, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, ENFACARE, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, ENFACARE, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, ENFACARE, pronto para uso, com ARA e DHA"
+},
+"7035": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, ENFACARE, con ferro, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, ENFACARE, avec fer, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, ENFACARE, con hierro, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, ENFACARE, mit Eisen, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, ENFACARE, com ferro, em pó, com ARA e DHA"
+},
+"7036": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Enfagrow, GENTLEASE, transizione per bambini piccoli, con ARA e DHA, in polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Enfagrow, GENTLEASE, transition pour tout-petits, avec ARA et DHA, en poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Enfagrow, GENTLEASE, transición para niños pequeños, con ARA y DHA, en polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Enfagrow, GENTLEASE, Übergang für Kleinkinder, mit ARA und DHA, Pulver",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Enfagrow, GENTLEASE, transição para crianças pequenas, com ARA e DHA, em pó"
+},
+"7037": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Enfagrow, soia, per bambini piccoli pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Enfagrow, soja, pour tout-petits prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Enfagrow, soja, para niños pequeños listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Enfagrow, Soja, für Kleinkinder trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Enfagrow, soja, para crianças pequenas pronto para uso"
+},
+"7038": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Enfagrow, soia, transizione per bambini piccoli, con ARA e DHA, in polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Enfagrow, soja, transition pour tout-petits, avec ARA et DHA, en poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Enfagrow, soja, transición para niños pequeños, con ARA y DHA, en polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Enfagrow, Soja, Übergang für Kleinkinder, mit ARA und DHA, Pulver",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Enfagrow, soja, transição para crianças pequenas, com ARA e DHA, em pó"
+},
+"7039": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, GENTLEASE, con ARA e DHA in polvere non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, GENTLEASE, avec ARA et DHA en poudre non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, GENTLEASE, con ARA y DHA en polvo sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, GENTLEASE, mit ARA und DHA, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, GENTLEASE, com ARA e DHA em pó não reconstituído"
+},
+"7040": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per lattanti, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour nourrissons, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para lactantes, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Säuglinge, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para bebês, pronto para uso, com ARA e DHA"
+},
+"7041": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per lattanti, con ferro, concentrato liquido, con ARA e DHA, ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour nourrissons, avec fer, concentré liquide, avec ARA et DHA, reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para lactantes, con hierro, concentrado líquido, con ARA y DHA, reconstituido",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Säuglinge, mit Eisen, Flüssigkonzentrat, mit ARA und DHA, rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para bebês, com ferro, concentrado líquido, com ARA e DHA, reconstituído"
+},
+"7042": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per lattanti, con ferro, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour nourrissons, avec fer, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para lactantes, con hierro, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Säuglinge, mit Eisen, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para bebês, com ferro, em pó, com ARA e DHA"
+},
+"7043": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, LIPIL, a basso contenuto di ferro, concentrato liquido, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, LIPIL, pauvre en fer, concentré liquide, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, LIPIL, bajo en hierro, concentrado líquido, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, LIPIL, eisenarm, Flüssigkonzentrat, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, LIPIL, com baixo teor de ferro, concentrado líquido, com ARA e DHA"
+},
+"7044": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, LIPIL, a basso contenuto di ferro, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, LIPIL, pauvre en fer, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, LIPIL, bajo en hierro, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, LIPIL, eisenarm, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, LIPIL, com baixo teor de ferro, pronto para uso, com ARA e DHA"
+},
+"7045": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, neonati, con ARA e DHA, in polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, nouveau-nés, avec ARA et DHA, en poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, recién nacidos, con ARA y DHA, en polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Neugeborene, mit ARA und DHA, Pulver",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, recém-nascidos, com ARA e DHA, em pó"
+},
+"7046": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, neonati, con DHA e ARA, pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, nouveau-nés, avec DHA et ARA, prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, recién nacidos, con DHA y ARA, listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Neugeborene, mit DHA und ARA, trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, recém-nascidos, com DHA e ARA, pronto para uso"
+},
+"7047": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, NUTRAMIGEN AA, pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, NUTRAMIGEN AA, prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN AA, listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, NUTRAMIGEN AA, trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN AA, pronto para uso"
+},
+"7048": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, NUTRAMIGEN con LGG, con ferro, in polvere, non ricostituito, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, NUTRAMIGEN avec LGG, avec fer, en poudre, non reconstitué, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN con LGG, con hierro, en polvo, sin reconstituir, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, NUTRAMIGEN mit LGG, mit Eisen, Pulver, nicht rekonstituiert, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN com LGG, com ferro, em pó, não reconstituído, com ARA e DHA"
+},
+"7049": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, NUTRAMIGEN, PurAmino, in polvere, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, NUTRAMIGEN, PurAmino, en poudre, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN, PurAmino, en polvo, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, NUTRAMIGEN, PurAmino, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN, PurAmino, em pó, não reconstituído"
+},
+"7050": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, NUTRAMIGEN, con ferro, concentrato liquido non ricostituito, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, NUTRAMIGEN, avec fer, concentré liquide non reconstitué, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN, con hierro, concentrado líquido sin reconstituir, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, NUTRAMIGEN, mit Eisen, Flüssigkonzentrat, nicht rekonstituiert, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN, com ferro, concentrado líquido não reconstituído, com ARA e DHA"
+},
+"7051": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, NUTRAMIGEN, con ferro, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, NUTRAMIGEN, avec fer, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN, con hierro, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, NUTRAMIGEN, mit Eisen, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, NUTRAMIGEN, com ferro, pronto para uso, com ARA e DHA"
+},
+"7052": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per prematuri, 20 calorie pronto all'uso a basso contenuto di ferro",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour prématurés, 20 calories prêt à l'emploi pauvre en fer",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, 20 calorías listo para usar bajo en hierro",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Frühgeborene, 20 Kalorien trinkfertig eisenarm",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, 20 calorias pronto para uso com baixo teor de ferro"
+},
+"7053": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per prematuri, 24 calorie pronto all'uso a basso contenuto di ferro",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour prématurés, 24 calories prêt à l'emploi pauvre en fer",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, 24 calorías listo para usar bajo en hierro",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Frühgeborene, 24 Kalorien trinkfertig eisenarm",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, 24 calorias pronto para uso com baixo teor de ferro"
+},
+"7054": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per prematuri, con ferro, 20 calorie, pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour prématurés, avec fer, 20 calories, prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, con hierro, 20 calorías, listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Frühgeborene, mit Eisen, 20 Kalorien, trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, com ferro, 20 calorias, pronto para uso"
+},
+"7055": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, per prematuri, con ferro, 24 calorie, pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, pour prématurés, avec fer, 24 calories, prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, con hierro, 24 calorías, listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, für Frühgeborene, mit Eisen, 24 Kalorien, trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, para prematuros, com ferro, 24 calorias, pronto para uso"
+},
+"7056": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Premium LIPIL, per lattanti, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Premium LIPIL, pour nourrissons, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium LIPIL, para lactantes, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Premium LIPIL, für Säuglinge, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium LIPIL, para bebês, concentrado líquido, não reconstituído"
+},
+"7057": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Premium LIPIL, per lattanti, in polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Premium LIPIL, pour nourrissons, en poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium LIPIL, para lactantes, en polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Premium LIPIL, für Säuglinge, Pulver",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium LIPIL, para bebês, em pó"
+},
+"7058": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Premium, per lattanti, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Premium, pour nourrissons, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium, para lactantes, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Premium, für Säuglinge, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium, para bebês, concentrado líquido, não reconstituído"
+},
+"7059": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Premium, per lattanti, in polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Premium, pour nourrissons, en poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium, para lactantes, en polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Premium, für Säuglinge, Pulver",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium, para bebês, em pó"
+},
+"7060": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, Premium, per lattanti, pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, Premium, pour nourrissons, prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium, para lactantes, listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, Premium, für Säuglinge, trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, Premium, para bebês, pronto para uso"
+},
+"7061": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, PROSOBEE, concentrato liquido, ricostituito, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, PROSOBEE, concentré liquide, reconstitué, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, PROSOBEE, concentrado líquido, reconstituido, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, PROSOBEE, Flüssigkonzentrat, rekonstituiert, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, PROSOBEE, concentrado líquido, reconstituído, com ARA e DHA"
+},
+"7062": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, PROSOBEE, con ferro, in polvere, non ricostituito, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, PROSOBEE, avec fer, en poudre, non reconstitué, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, PROSOBEE, con hierro, en polvo, sin reconstituir, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, PROSOBEE, mit Eisen, Pulver, nicht rekonstituiert, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, PROSOBEE, com ferro, em pó, não reconstituído, com ARA e DHA"
+},
+"7063": {
+"it": "Formula per lattanti, MEAD JOHNSON, Enfamil, con ferro, in polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Enfamil, avec fer, en poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, Enfamil, con hierro, en polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Enfamil, mit Eisen, Pulver",
+"pt": "Fórmula infantil, MEAD JOHNSON, Enfamil, com ferro, em pó"
+},
+"7064": {
+"it": "Formula per lattanti, MEAD JOHNSON, GENTLEASE, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, GENTLEASE, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, GENTLEASE, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, GENTLEASE, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, GENTLEASE, pronto para uso, com ARA e DHA"
+},
+"7065": {
+"it": "Formula per lattanti, MEAD JOHNSON, NEXT STEP PROSOBEE, in polvere, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, NEXT STEP PROSOBEE, en poudre, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, NEXT STEP PROSOBEE, en polvo, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, NEXT STEP PROSOBEE, Pulver, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, NEXT STEP PROSOBEE, em pó, não reconstituído"
+},
+"7066": {
+"it": "Formula per lattanti, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, in polvere, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, en poudre, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, en polvo, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, Pulver, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, em pó, com ARA e DHA"
+},
+"7067": {
+"it": "Formula per lattanti, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, pronto para uso, com ARA e DHA"
+},
+"7068": {
+"it": "Formula per lattanti, MEAD JOHNSON, Pregestimil 20 calorie, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Pregestimil 20 calories, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Pregestimil 20 calorías, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Pregestimil 20 Kalorien, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Pregestimil 20 calorias, pronto para uso, com ARA e DHA"
+},
+"7069": {
+"it": "Formula per lattanti, MEAD JOHNSON, Pregestimil 24 calorie, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, Pregestimil 24 calories, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, Pregestimil 24 calorías, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, Pregestimil 24 Kalorien, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, Pregestimil 24 calorias, pronto para uso, com ARA e DHA"
+},
+"7070": {
+"it": "Formula per lattanti, MEAD JOHNSON, PREGESTIMIL, con ferro, in polvere, con ARA e DHA, non ricostituito",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, PREGESTIMIL, avec fer, en poudre, avec ARA et DHA, non reconstitué",
+"es": "Fórmula infantil, MEAD JOHNSON, PREGESTIMIL, con hierro, en polvo, con ARA y DHA, sin reconstituir",
+"de": "Säuglingsnahrung, MEAD JOHNSON, PREGESTIMIL, mit Eisen, Pulver, mit ARA und DHA, nicht rekonstituiert",
+"pt": "Fórmula infantil, MEAD JOHNSON, PREGESTIMIL, com ferro, em pó, com ARA e DHA, não reconstituído"
+},
+"7071": {
+"it": "Formula per lattanti, MEAD JOHNSON, PREGESTIMIL, con ferro, con ARA e DHA, preparato da polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, PREGESTIMIL, avec fer, avec ARA et DHA, préparé à partir de poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, PREGESTIMIL, con hierro, con ARA y DHA, preparado a partir de polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, PREGESTIMIL, mit Eisen, mit ARA und DHA, aus Pulver zubereitet",
+"pt": "Fórmula infantil, MEAD JOHNSON, PREGESTIMIL, com ferro, com ARA e DHA, preparado a partir do pó"
+},
+"7072": {
+"it": "Formula per lattanti, MEAD JOHNSON, PROSOBEE, con ferro, pronto all'uso, con ARA e DHA",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, PROSOBEE, avec fer, prêt à l'emploi, avec ARA et DHA",
+"es": "Fórmula infantil, MEAD JOHNSON, PROSOBEE, con hierro, listo para usar, con ARA y DHA",
+"de": "Säuglingsnahrung, MEAD JOHNSON, PROSOBEE, mit Eisen, trinkfertig, mit ARA und DHA",
+"pt": "Fórmula infantil, MEAD JOHNSON, PROSOBEE, com ferro, pronto para uso, com ARA e DHA"
+},
+"7073": {
+"it": "Formula per lattanti, MEAD JOHNSON, PROSOBEE, con ferro, pronto all'uso",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, PROSOBEE, avec fer, prêt à l'emploi",
+"es": "Fórmula infantil, MEAD JOHNSON, PROSOBEE, con hierro, listo para usar",
+"de": "Säuglingsnahrung, MEAD JOHNSON, PROSOBEE, mit Eisen, trinkfertig",
+"pt": "Fórmula infantil, MEAD JOHNSON, PROSOBEE, com ferro, pronto para uso"
+},
+"7074": {
+"it": "Formula per lattanti, MEAD JOHNSON, NEXT STEP PROSOBEE, preparato da polvere",
+"fr": "Préparation pour nourrissons, MEAD JOHNSON, NEXT STEP PROSOBEE, préparé à partir de poudre",
+"es": "Fórmula infantil, MEAD JOHNSON, NEXT STEP PROSOBEE, preparado a partir de polvo",
+"de": "Säuglingsnahrung, MEAD JOHNSON, NEXT STEP PROSOBEE, aus Pulver zubereitet",
+"pt": "Fórmula infantil, MEAD JOHNSON, NEXT STEP PROSOBEE, preparado a partir do pó"
+},
+"7075": {
+"it": "Formula per lattanti, NESTLE, GOOD START ESSENTIALS SOY, con ferro, in polvere",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START ESSENTIALS SOY, avec fer, en poudre",
+"es": "Fórmula infantil, NESTLE, GOOD START ESSENTIALS SOY, con hierro, en polvo",
+"de": "Säuglingsnahrung, NESTLE, GOOD START ESSENTIALS SOY, mit Eisen, Pulver",
+"pt": "Fórmula infantil, NESTLE, GOOD START ESSENTIALS SOY, com ferro, em pó"
+},
+"7076": {
+"it": "Formula per lattanti, NESTLE, GOOD START SOY, con ARA e DHA, in polvere",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SOY, avec ARA et DHA, en poudre",
+"es": "Fórmula infantil, NESTLE, GOOD START SOY, con ARA y DHA, en polvo",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SOY, mit ARA und DHA, Pulver",
+"pt": "Fórmula infantil, NESTLE, GOOD START SOY, com ARA e DHA, em pó"
+},
+"7077": {
+"it": "Formula per lattanti, NESTLE, GOOD START SOY, con DHA e ARA, concentrato liquido",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SOY, avec DHA et ARA, concentré liquide",
+"es": "Fórmula infantil, NESTLE, GOOD START SOY, con DHA y ARA, concentrado líquido",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SOY, mit DHA und ARA, Flüssigkonzentrat",
+"pt": "Fórmula infantil, NESTLE, GOOD START SOY, com DHA e ARA, concentrado líquido"
+},
+"7078": {
+"it": "Formula per lattanti, NESTLE, GOOD START SOY, con DHA e ARA, pronto all'uso",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SOY, avec DHA et ARA, prêt à l'emploi",
+"es": "Fórmula infantil, NESTLE, GOOD START SOY, con DHA y ARA, listo para usar",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SOY, mit DHA und ARA, trinkfertig",
+"pt": "Fórmula infantil, NESTLE, GOOD START SOY, com DHA e ARA, pronto para uso"
+},
+"7079": {
+"it": "Formula per lattanti, NESTLE, GOOD START SUPREME, con ferro, DHA e ARA, preparato da concentrato liquido",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SUPREME, avec fer, DHA et ARA, préparé à partir de concentré liquide",
+"es": "Fórmula infantil, NESTLE, GOOD START SUPREME, con hierro, DHA y ARA, preparado a partir de concentrado líquido",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SUPREME, mit Eisen, DHA und ARA, aus Flüssigkonzentrat zubereitet",
+"pt": "Fórmula infantil, NESTLE, GOOD START SUPREME, com ferro, DHA e ARA, preparado a partir de concentrado líquido"
+},
+"7080": {
+"it": "Formula per lattanti, NESTLE, GOOD START SUPREME, con ferro, DHA e ARA, pronto all'uso",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SUPREME, avec fer, DHA et ARA, prêt à l'emploi",
+"es": "Fórmula infantil, NESTLE, GOOD START SUPREME, con hierro, DHA y ARA, listo para usar",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SUPREME, mit Eisen, DHA und ARA, trinkfertig",
+"pt": "Fórmula infantil, NESTLE, GOOD START SUPREME, com ferro, DHA e ARA, pronto para uso"
+},
+"7081": {
+"it": "Formula per lattanti, NESTLE, GOOD START SUPREME, con ferro, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SUPREME, avec fer, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, NESTLE, GOOD START SUPREME, con hierro, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SUPREME, mit Eisen, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, NESTLE, GOOD START SUPREME, com ferro, concentrado líquido, não reconstituído"
+},
+"7082": {
+"it": "Formula per lattanti, NESTLE, GOOD START SUPREME, con ferro, in polvere",
+"fr": "Préparation pour nourrissons, NESTLE, GOOD START SUPREME, avec fer, en poudre",
+"es": "Fórmula infantil, NESTLE, GOOD START SUPREME, con hierro, en polvo",
+"de": "Säuglingsnahrung, NESTLE, GOOD START SUPREME, mit Eisen, Pulver",
+"pt": "Fórmula infantil, NESTLE, GOOD START SUPREME, com ferro, em pó"
+},
+"7083": {
+"it": "Formula per lattanti, non specificato",
+"fr": "Préparation pour nourrissons, non spécifié",
+"es": "Fórmula infantil, no especificado",
+"de": "Säuglingsnahrung, nicht näher bezeichnet",
+"pt": "Fórmula infantil, não especificado"
+},
+"7084": {
+"it": "Formula per lattanti, biologica, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, biologique, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, orgánica, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, biologisch, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, orgânica, em pó, preparado com água"
+},
+"7085": {
+"it": "Formula per lattanti, biologica, pronto all'uso",
+"fr": "Préparation pour nourrissons, biologique, prêt à l'emploi",
+"es": "Fórmula infantil, orgánica, listo para usar",
+"de": "Säuglingsnahrung, biologisch, trinkfertig",
+"pt": "Fórmula infantil, orgânica, pronto para uso"
+},
+"7086": {
+"it": "Formula per lattanti, PBM PRODUCTS, marca del distributore, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, PBM PRODUCTS, marque de distributeur, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, PBM PRODUCTS, marca blanca, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, PBM PRODUCTS, Handelsmarke, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, PBM PRODUCTS, marca própria, concentrado líquido, não reconstituído"
+},
+"7087": {
+"it": "Formula per lattanti, PBM PRODUCTS, marca del distributore, in polvere",
+"fr": "Préparation pour nourrissons, PBM PRODUCTS, marque de distributeur, en poudre",
+"es": "Fórmula infantil, PBM PRODUCTS, marca blanca, en polvo",
+"de": "Säuglingsnahrung, PBM PRODUCTS, Handelsmarke, Pulver",
+"pt": "Fórmula infantil, PBM PRODUCTS, marca própria, em pó"
+},
+"7088": {
+"it": "Formula per lattanti, PBM PRODUCTS, marca del distributore, pronto all'uso",
+"fr": "Préparation pour nourrissons, PBM PRODUCTS, marque de distributeur, prêt à l'emploi",
+"es": "Fórmula infantil, PBM PRODUCTS, marca blanca, listo para usar",
+"de": "Säuglingsnahrung, PBM PRODUCTS, Handelsmarke, trinkfertig",
+"pt": "Fórmula infantil, PBM PRODUCTS, marca própria, pronto para uso"
+},
+"7089": {
+"it": "Formula per lattanti, PBM PRODUCTS, marca del distributore, soia, concentrato liquido, non ricostituito",
+"fr": "Préparation pour nourrissons, PBM PRODUCTS, marque de distributeur, soja, concentré liquide, non reconstitué",
+"es": "Fórmula infantil, PBM PRODUCTS, marca blanca, soja, concentrado líquido, sin reconstituir",
+"de": "Säuglingsnahrung, PBM PRODUCTS, Handelsmarke, Soja, Flüssigkonzentrat, nicht rekonstituiert",
+"pt": "Fórmula infantil, PBM PRODUCTS, marca própria, soja, concentrado líquido, não reconstituído"
+},
+"7090": {
+"it": "Formula per lattanti, PBM PRODUCTS, marca del distributore, soia, in polvere",
+"fr": "Préparation pour nourrissons, PBM PRODUCTS, marque de distributeur, soja, en poudre",
+"es": "Fórmula infantil, PBM PRODUCTS, marca blanca, soja, en polvo",
+"de": "Säuglingsnahrung, PBM PRODUCTS, Handelsmarke, Soja, Pulver",
+"pt": "Fórmula infantil, PBM PRODUCTS, marca própria, soja, em pó"
+},
+"7091": {
+"it": "Formula per lattanti, PBM PRODUCTS, marca del distributore, soia, pronto all'uso",
+"fr": "Préparation pour nourrissons, PBM PRODUCTS, marque de distributeur, soja, prêt à l'emploi",
+"es": "Fórmula infantil, PBM PRODUCTS, marca blanca, soja, listo para usar",
+"de": "Säuglingsnahrung, PBM PRODUCTS, Handelsmarke, Soja, trinkfertig",
+"pt": "Fórmula infantil, PBM PRODUCTS, marca própria, soja, pronto para uso"
+},
+"7092": {
+"it": "Formula per lattanti, per prematuri, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, pour prématurés, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, para prematuros, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, für Frühgeborene, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, para prematuros, em pó, preparado com água"
+},
+"7093": {
+"it": "Formula per lattanti, per prematuri, pronto all'uso",
+"fr": "Préparation pour nourrissons, pour prématurés, prêt à l'emploi",
+"es": "Fórmula infantil, para prematuros, listo para usar",
+"de": "Säuglingsnahrung, für Frühgeborene, trinkfertig",
+"pt": "Fórmula infantil, para prematuros, pronto para uso"
+},
+"7094": {
+"it": "Formula per lattanti, Similac Advance, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Similac Advance, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Similac Advance, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Similac Advance, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Similac Advance, em pó, preparado com água para bebês"
+},
+"7095": {
+"it": "Formula per lattanti, Similac Advance, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Similac Advance, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Similac Advance, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Similac Advance, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Similac Advance, em pó, preparado com água engarrafada"
+},
+"7096": {
+"it": "Formula per lattanti, Similac Advance, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Similac Advance, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Similac Advance, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Similac Advance, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Similac Advance, em pó, preparado com água da torneira"
+},
+"7097": {
+"it": "Formula per lattanti, Similac Advance, pronto all'uso",
+"fr": "Préparation pour nourrissons, Similac Advance, prêt à l'emploi",
+"es": "Fórmula infantil, Similac Advance, listo para usar",
+"de": "Säuglingsnahrung, Similac Advance, trinkfertig",
+"pt": "Fórmula infantil, Similac Advance, pronto para uso"
+},
+"7098": {
+"it": "Formula per lattanti, Similac Alimentum, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, Similac Alimentum, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, Similac Alimentum, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, Similac Alimentum, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, Similac Alimentum, em pó, preparado com água"
+},
+"7099": {
+"it": "Formula per lattanti, Similac Alimentum, pronto all'uso",
+"fr": "Préparation pour nourrissons, Similac Alimentum, prêt à l'emploi",
+"es": "Fórmula infantil, Similac Alimentum, listo para usar",
+"de": "Säuglingsnahrung, Similac Alimentum, trinkfertig",
+"pt": "Fórmula infantil, Similac Alimentum, pronto para uso"
+},
+"7100": {
+"it": "Formula per lattanti, Similac per la diarrea",
+"fr": "Préparation pour nourrissons, Similac pour la diarrhée",
+"es": "Fórmula infantil, Similac para la diarrea",
+"de": "Säuglingsnahrung, Similac bei Durchfall",
+"pt": "Fórmula infantil, Similac para diarreia"
+},
+"7101": {
+"it": "Formula per lattanti, Similac per il rigurgito, in polvere, preparato con acqua",
+"fr": "Préparation pour nourrissons, Similac pour régurgitations, en poudre, préparé avec de l'eau",
+"es": "Fórmula infantil, Similac para regurgitación, en polvo, preparado con agua",
+"de": "Säuglingsnahrung, Similac bei Spucken, Pulver, mit Wasser zubereitet",
+"pt": "Fórmula infantil, Similac para refluxo, em pó, preparado com água"
+},
+"7102": {
+"it": "Formula per lattanti, Similac per il rigurgito, pronto all'uso",
+"fr": "Préparation pour nourrissons, Similac pour régurgitations, prêt à l'emploi",
+"es": "Fórmula infantil, Similac para regurgitación, listo para usar",
+"de": "Säuglingsnahrung, Similac bei Spucken, trinkfertig",
+"pt": "Fórmula infantil, Similac para refluxo, pronto para uso"
+},
+"7103": {
+"it": "Formula per lattanti, Similac Isomil Soy, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Similac Isomil Soy, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Similac Isomil Soy, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Similac Isomil Soy, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Similac Isomil Soy, em pó, preparado com água para bebês"
+},
+"7104": {
+"it": "Formula per lattanti, Similac Isomil Soy, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Similac Isomil Soy, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Similac Isomil Soy, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Similac Isomil Soy, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Similac Isomil Soy, em pó, preparado com água engarrafada"
+},
+"7105": {
+"it": "Formula per lattanti, Similac Isomil Soy, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Similac Isomil Soy, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Similac Isomil Soy, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Similac Isomil Soy, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Similac Isomil Soy, em pó, preparado com água da torneira"
+},
+"7106": {
+"it": "Formula per lattanti, Similac Isomil Soy, pronto all'uso",
+"fr": "Préparation pour nourrissons, Similac Isomil Soy, prêt à l'emploi",
+"es": "Fórmula infantil, Similac Isomil Soy, listo para usar",
+"de": "Säuglingsnahrung, Similac Isomil Soy, trinkfertig",
+"pt": "Fórmula infantil, Similac Isomil Soy, pronto para uso"
+},
+"7107": {
+"it": "Formula per lattanti, Similac Sensitive, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, Similac Sensitive, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, Similac Sensitive, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Similac Sensitive, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, Similac Sensitive, em pó, preparado com água para bebês"
+},
+"7108": {
+"it": "Formula per lattanti, Similac Sensitive, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, Similac Sensitive, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, Similac Sensitive, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Similac Sensitive, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, Similac Sensitive, em pó, preparado com água engarrafada"
+},
+"7109": {
+"it": "Formula per lattanti, Similac Sensitive, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, Similac Sensitive, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, Similac Sensitive, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Similac Sensitive, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, Similac Sensitive, em pó, preparado com água da torneira"
+},
+"7110": {
+"it": "Formula per lattanti, Similac Sensitive, pronto all'uso",
+"fr": "Préparation pour nourrissons, Similac Sensitive, prêt à l'emploi",
+"es": "Fórmula infantil, Similac Sensitive, listo para usar",
+"de": "Säuglingsnahrung, Similac Sensitive, trinkfertig",
+"pt": "Fórmula infantil, Similac Sensitive, pronto para uso"
+},
+"7111": {
+"it": "Formula per lattanti, Similac, non specificato",
+"fr": "Préparation pour nourrissons, Similac, non spécifié",
+"es": "Fórmula infantil, Similac, no especificado",
+"de": "Säuglingsnahrung, Similac, nicht näher bezeichnet",
+"pt": "Fórmula infantil, Similac, não especificado"
+},
+"7112": {
+"it": "Formula per lattanti, marca del distributore, con riso aggiunto",
+"fr": "Préparation pour nourrissons, marque de distributeur, avec riz ajouté",
+"es": "Fórmula infantil, marca blanca, con arroz añadido",
+"de": "Säuglingsnahrung, Handelsmarke, mit Reiszusatz",
+"pt": "Fórmula infantil, marca própria, com arroz adicionado"
+},
+"7113": {
+"it": "Formula per lattanti, marca del distributore, advantage o tender, in polvere, preparato con acqua per neonati",
+"fr": "Préparation pour nourrissons, marque de distributeur, advantage ou tender, en poudre, préparé avec de l'eau pour bébé",
+"es": "Fórmula infantil, marca blanca, advantage o tender, en polvo, preparado con agua para bebés",
+"de": "Säuglingsnahrung, Handelsmarke, Advantage oder Tender, Pulver, mit Babywasser zubereitet",
+"pt": "Fórmula infantil, marca própria, advantage ou tender, em pó, preparado com água para bebês"
+},
+"7114": {
+"it": "Formula per lattanti, marca del distributore, advantage o tender, in polvere, preparato con acqua in bottiglia",
+"fr": "Préparation pour nourrissons, marque de distributeur, advantage ou tender, en poudre, préparé avec de l'eau en bouteille",
+"es": "Fórmula infantil, marca blanca, advantage o tender, en polvo, preparado con agua embotellada",
+"de": "Säuglingsnahrung, Handelsmarke, Advantage oder Tender, Pulver, mit Flaschenwasser zubereitet",
+"pt": "Fórmula infantil, marca própria, advantage ou tender, em pó, preparado com água engarrafada"
+},
+"7115": {
+"it": "Formula per lattanti, marca del distributore, advantage o tender, in polvere, preparato con acqua del rubinetto",
+"fr": "Préparation pour nourrissons, marque de distributeur, advantage ou tender, en poudre, préparé avec de l'eau du robinet",
+"es": "Fórmula infantil, marca blanca, advantage o tender, en polvo, preparado con agua del grifo",
+"de": "Säuglingsnahrung, Handelsmarke, Advantage oder Tender, Pulver, mit Leitungswasser zubereitet",
+"pt": "Fórmula infantil, marca própria, advantage ou tender, em pó, preparado com água da torneira"
+},
+"7116": {
+"it": "Formula per lattanti, marca del distributore, delicata o per sensibilità",
+"fr": "Préparation pour nourrissons, marque de distributeur, douce ou pour sensibilités",
+"es": "Fórmula infantil, marca blanca, suave o para sensibilidad",
+"de": "Säuglingsnahrung, Handelsmarke, mild oder bei Empfindlichkeit",
+"pt": "Fórmula infantil, marca própria, suave ou para sensibilidade"
+},
+"7117": {
+"it": "Formula per lattanti, marca del distributore, soia",
+"fr": "Préparation pour nourrissons, marque de distributeur, soja",
+"es": "Fórmula infantil, marca blanca, soja",
+"de": "Säuglingsnahrung, Handelsmarke, Soja",
+"pt": "Fórmula infantil, marca própria, soja"
+},
+"7118": {
+"it": "Injera, pane etiope",
+"fr": "Injera, pain éthiopien",
+"es": "Injera, pan etíope",
+"de": "Injera, äthiopisches Brot",
+"pt": "Injera, pão etíope"
+},
+"7119": {
+"it": "Interstate Brands Corp, Wonder panini per hamburger",
+"fr": "Interstate Brands Corp, Wonder petits pains à hamburger",
+"es": "Interstate Brands Corp, Wonder panecillos para hamburguesa",
+"de": "Interstate Brands Corp, Wonder Hamburgerbrötchen",
+"pt": "Interstate Brands Corp, Wonder pãezinhos para hambúrguer"
+},
+"7120": {
+"it": "Dressing italiano, senza grassi",
+"fr": "Vinaigrette italienne, sans matières grasses",
+"es": "Aderezo italiano, sin grasa",
+"de": "Italienisches Dressing, fettfrei",
+"pt": "Molho italiano, sem gordura"
+},
+"7121": {
+"it": "Dressing italiano, light",
+"fr": "Vinaigrette italienne, léger",
+"es": "Aderezo italiano, ligero",
+"de": "Italienisches Dressing, leicht",
+"pt": "Molho italiano, light"
+},
+"7122": {
+"it": "Dressing italiano, preparato con aceto e olio",
+"fr": "Vinaigrette italienne, préparé avec du vinaigre et de l'huile",
+"es": "Aderezo italiano, preparado con vinagre y aceite",
+"de": "Italienisches Dressing, mit Essig und Öl zubereitet",
+"pt": "Molho italiano, preparado com vinagre e óleo"
+},
+"7123": {
+"it": "Granita all'italiana (Italian ice)",
+"fr": "Granité à l'italienne (Italian ice)",
+"es": "Granizado italiano (Italian ice)",
+"de": "Italian Ice (italienisches Wassereis)",
+"pt": "Italian ice (raspadinha italiana)"
+},
+"7124": {
+"it": "Granita all'italiana (Italian ice), senza zuccheri aggiunti",
+"fr": "Granité à l'italienne (Italian ice), sans sucre ajouté",
+"es": "Granizado italiano (Italian ice), sin azúcar añadido",
+"de": "Italian Ice (italienisches Wassereis), ohne Zuckerzusatz",
+"pt": "Italian ice (raspadinha italiana), sem adição de açúcar"
+},
+"7125": {
+"it": "Sandwich italiano su pane di frumento",
+"fr": "Sandwich italien sur pain de blé",
+"es": "Sándwich italiano en pan de trigo",
+"de": "Italienisches Sandwich auf Weizenbrot",
+"pt": "Sanduíche italiano em pão de trigo"
+},
+"7126": {
+"it": "Sandwich italiano su pane bianco",
+"fr": "Sandwich italien sur pain blanc",
+"es": "Sándwich italiano en pan blanco",
+"de": "Italienisches Sandwich auf Weißbrot",
+"pt": "Sanduíche italiano em pão branco"
+},
+"7127": {
+"it": "Sandwich o sub italiano, da ristorante",
+"fr": "Sandwich ou sous-marin italien, de restaurant",
+"es": "Sándwich o submarino italiano, de restaurante",
+"de": "Italienisches Sandwich oder Sub, aus dem Restaurant",
+"pt": "Sanduíche ou sub italiano, de restaurante"
+},
+"7128": {
+"it": "Salsiccia italiana",
+"fr": "Saucisse italienne",
+"es": "Salchicha italiana",
+"de": "Italienische Wurst",
+"pt": "Salsicha italiana"
+},
+"7129": {
+"it": "Sandwich con salsiccia italiana su pane di frumento",
+"fr": "Sandwich à la saucisse italienne sur pain de blé",
+"es": "Sándwich de salchicha italiana en pan de trigo",
+"de": "Sandwich mit italienischer Wurst auf Weizenbrot",
+"pt": "Sanduíche de salsicha italiana em pão de trigo"
+},
+"7130": {
+"it": "Sandwich con salsiccia italiana su pane bianco",
+"fr": "Sandwich à la saucisse italienne sur pain blanc",
+"es": "Sándwich de salchicha italiana en pan blanco",
+"de": "Sandwich mit italienischer Wurst auf Weißbrot",
+"pt": "Sanduíche de salsicha italiana em pão branco"
+},
+"7131": {
+"it": "Jackfruit, in scatola, in sciroppo",
+"fr": "Jaque, en conserve, au sirop",
+"es": "Yaca, en conserva, en almíbar",
+"de": "Jackfrucht, aus der Dose, in Sirup",
+"pt": "Jaca, enlatada, em calda"
+},
+"7132": {
+"it": "Jackfruit, crudi",
+"fr": "Jaque, crues",
+"es": "Yaca, crudas",
+"de": "Jackfrucht, roh",
+"pt": "Jaca, cruas"
+},
+"7133": {
+"it": "Jagerbomb (cocktail di liquore alle erbe ed energy drink)",
+"fr": "Jagerbomb (cocktail de liqueur aux herbes et boisson énergisante)",
+"es": "Jagerbomb (cóctel de licor de hierbas y bebida energética)",
+"de": "Jagerbomb (Cocktail aus Kräuterlikör und Energydrink)",
+"pt": "Jagerbomb (coquetel de licor de ervas e energético)"
+},
+"7134": {
+"it": "Jai, cibo dei monaci",
+"fr": "Jai, plat des moines",
+"es": "Jai, comida de los monjes",
+"de": "Jai, Mönchsspeise",
+"pt": "Jai, comida dos monges"
+},
+"7135": {
+"it": "Marmellata",
+"fr": "Confiture",
+"es": "Mermelada",
+"de": "Konfitüre",
+"pt": "Geleia"
+},
+"7136": {
+"it": "Marmellata o gelatina di frutta, addolcita con succo di frutta",
+"fr": "Confiture ou gelée, sucrée au jus de fruits",
+"es": "Mermelada o jalea, endulzada con zumo de fruta",
+"de": "Konfitüre oder Gelee, mit Fruchtsaft gesüßt",
+"pt": "Geleia ou geleia clara, adoçada com suco de fruta"
+},
+"7137": {
+"it": "Marmellata o gelatina di frutta, non specificato",
+"fr": "Confiture ou gelée, non spécifié",
+"es": "Mermelada o jalea, no especificado",
+"de": "Konfitüre oder Gelee, nicht näher bezeichnet",
+"pt": "Geleia ou geleia clara, não especificado"
+},
+"7138": {
+"it": "Marmellata o gelatina di frutta, a ridotto contenuto di zuccheri",
+"fr": "Confiture ou gelée, à teneur réduite en sucre",
+"es": "Mermelada o jalea, reducido en azúcar",
+"de": "Konfitüre oder Gelee, zuckerreduziert",
+"pt": "Geleia ou geleia clara, com açúcar reduzido"
+},
+"7139": {
+"it": "Marmellata o gelatina di frutta, senza zucchero",
+"fr": "Confiture ou gelée, sans sucre",
+"es": "Mermelada o jalea, sin azúcar",
+"de": "Konfitüre oder Gelee, zuckerfrei",
+"pt": "Geleia ou geleia clara, sem açúcar"
+},
+"7140": {
+"it": "Jambalaya con carne e riso",
+"fr": "Jambalaya à la viande et au riz",
+"es": "Jambalaya con carne y arroz",
+"de": "Jambalaya mit Fleisch und Reis",
+"pt": "Jambalaya com carne e arroz"
+},
+"7141": {
+"it": "Marmellate e confetture",
+"fr": "Confitures et conserves de fruits",
+"es": "Mermeladas y confituras",
+"de": "Konfitüren und Fruchtaufstriche",
+"pt": "Geleias e conservas de frutas"
+},
+"7142": {
+"it": "Marmellate e confetture, albicocca",
+"fr": "Confitures et conserves de fruits, abricot",
+"es": "Mermeladas y confituras, albaricoque",
+"de": "Konfitüren und Fruchtaufstriche, Aprikose",
+"pt": "Geleias e conservas de frutas, damasco"
+},
+"7143": {
+"it": "Marmellate e confetture, senza zucchero (con saccarina sodica), qualsiasi gusto",
+"fr": "Confitures et conserves de fruits, sans sucre (avec saccharine sodique), tout parfum",
+"es": "Mermeladas y confituras, sin azúcar (con sacarina sódica), cualquier sabor",
+"de": "Konfitüren und Fruchtaufstriche, ohne Zucker (mit Natriumsaccharin), beliebiger Geschmack",
+"pt": "Geleias e conservas de frutas, sem açúcar (com sacarina sódica), qualquer sabor"
+},
+"7144": {
+"it": "Marmellate, confetture, marmellata di agrumi, a ridotto contenuto di zuccheri",
+"fr": "Confitures, conserves de fruits, marmelade, à teneur réduite en sucre",
+"es": "Mermeladas, confituras, mermelada de cítricos, reducidas en azúcar",
+"de": "Konfitüren, Fruchtaufstriche, Marmelade, zuckerreduziert",
+"pt": "Geleias, conservas de frutas, marmelada, com açúcar reduzido"
+},
+"7145": {
+"it": "Marmellate, confetture, marmellate di agrumi, addolcite con succo di frutta",
+"fr": "Confitures, conserves de fruits, marmelades, sucrées au jus de fruits",
+"es": "Mermeladas, confituras, mermeladas de cítricos, endulzadas con zumo de fruta",
+"de": "Konfitüren, Fruchtaufstriche, Marmeladen, mit Fruchtsaft gesüßt",
+"pt": "Geleias, conservas de frutas, marmeladas, adoçadas com suco de fruta"
+},
+"7146": {
+"it": "Prugna di Giava (jambolan), cruda",
+"fr": "Jamelongue (jambolan), cru",
+"es": "Yambolán (jambolán), crudo",
+"de": "Jambolanapflaume (Jambolan), roh",
+"pt": "Jambolão, cru"
+},
+"7147": {
+"it": "Gelatine di frutta",
+"fr": "Gelées de fruits",
+"es": "Jaleas",
+"de": "Gelees",
+"pt": "Geleias claras"
+},
+"7148": {
+"it": "Gelatine di frutta, senza zucchero (con saccarina sodica), qualsiasi gusto",
+"fr": "Gelées de fruits, sans sucre (avec saccharine sodique), tous parfums",
+"es": "Jaleas, sin azúcar (con sacarina sódica), cualquier sabor",
+"de": "Gelees, ohne Zucker (mit Natriumsaccharin), beliebige Geschmacksrichtungen",
+"pt": "Geleias claras, sem açúcar (com sacarina sódica), qualquer sabor"
+},
+"7149": {
+"it": "Gelatine di frutta, a ridotto contenuto di zuccheri, conservata in casa",
+"fr": "Gelées de fruits, à teneur réduite en sucre, conservée maison",
+"es": "Jaleas, reducido en azúcar, conservada en casa",
+"de": "Gelees, zuckerreduziert, selbst eingemacht",
+"pt": "Geleias claras, com açúcar reduzido, conservada em casa"
+},
+"7150": {
+"it": "Gelatina di frutta",
+"fr": "Gelée de fruits",
+"es": "Jalea",
+"de": "Gelee",
+"pt": "Geleia clara"
+},
+"7151": {
+"it": "Sandwich con marmellata, non specificato",
+"fr": "Sandwich à la confiture, non spécifié",
+"es": "Sándwich de mermelada, no especificado",
+"de": "Marmeladensandwich, nicht näher bezeichnet",
+"pt": "Sanduíche de geleia, não especificado"
+}
+}

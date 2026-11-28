@@ -1,0 +1,1790 @@
+[
+{
+"id": "3576",
+"en": "Cheese, oaxaca, solid",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3577",
+"en": "Cheese, paneer",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3578",
+"en": "Cheese, Parmesan, dry grated",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3579",
+"en": "Cheese, Parmesan, dry grated, fat free",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3580",
+"en": "Cheese, parmesan, dry grated, reduced fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3581",
+"en": "Cheese, parmesan, grated",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3582",
+"en": "Cheese, parmesan, grated, refrigerated",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3583",
+"en": "Cheese, parmesan, hard",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3584",
+"en": "Cheese, parmesan, low sodium",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3585",
+"en": "Cheese, parmesan, shredded",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3586",
+"en": "Cheese, pasteurized process cheese food or product, American, singles",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3587",
+"en": "Cheese, pasteurized process, American, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3588",
+"en": "Cheese, pasteurized process, American, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3589",
+"en": "Cheese, pasteurized process, American, vitamin D fortified",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3590",
+"en": "Cheese, pasteurized process, American, without added vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3591",
+"en": "Cheese, pasteurized process, cheddar or American, low sodium",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3592",
+"en": "Cheese, pasteurized process, pimento",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3593",
+"en": "Cheese, pasteurized process, swiss",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3594",
+"en": "Cheese, port de salut",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3595",
+"en": "Cheese, Port du Salut",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3596",
+"en": "Cheese, processed cheese food",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3597",
+"en": "Cheese, processed, with vegetables",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3598",
+"en": "Cheese, provolone",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3599",
+"en": "Cheese, provolone, reduced fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3600",
+"en": "Cheese, provolone, sliced",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3601",
+"en": "Cheese, queso fresco, solid",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3602",
+"en": "Cheese, Ricotta",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3603",
+"en": "Cheese, ricotta, part skim milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3604",
+"en": "Cheese, ricotta, whole milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3605",
+"en": "Cheese, romano",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3606",
+"en": "Cheese, roquefort",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3607",
+"en": "Cheese, swiss",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "3608",
+"en": "Cheese, swiss, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3609",
+"en": "Cheese, swiss, low sodium",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3610",
+"en": "Cheese, Swiss, nonfat or fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3611",
+"en": "Cheese, Swiss, reduced fat",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3612",
+"en": "Cheese, Swiss, reduced sodium",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3613",
+"en": "Cheese, tilsit",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3614",
+"en": "Cheese, white, queso blanco",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3615",
+"en": "Cheese, with wine",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3616",
+"en": "Cheeseburger (Burger King)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3617",
+"en": "Cheeseburger (McDonalds)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3618",
+"en": "Cheeseburger slider",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3619",
+"en": "Cheeseburger slider, from fast food",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3620",
+"en": "Cheeseburger, from fast food, 1 large patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3621",
+"en": "Cheeseburger, from fast food, 1 medium patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3622",
+"en": "Cheeseburger, from fast food, 1 small patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3623",
+"en": "Cheeseburger, from school cafeteria",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3624",
+"en": "Cheeseburger, NFS",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3625",
+"en": "Cheeseburger, on wheat bun, 1 large patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3626",
+"en": "Cheeseburger, on wheat bun, 1 medium patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3627",
+"en": "Cheeseburger, on wheat bun, 1 small patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3628",
+"en": "Cheeseburger, on white bun, 1 large patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3629",
+"en": "Cheeseburger, on white bun, 1 medium patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3630",
+"en": "Cheeseburger, on white bun, 1 small patty",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3631",
+"en": "Cheesecake, chocolate",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3632",
+"en": "Cheesecake, fruit",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3633",
+"en": "Cheesecake, plain",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3634",
+"en": "Cheesefurter, cheese smokie, pork, beef",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "3635",
+"en": "Cherimoya, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3636",
+"en": "Cherries, canned",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3637",
+"en": "Cherries, dried",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3638",
+"en": "Cherries, frozen",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3639",
+"en": "Cherries, maraschino",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3640",
+"en": "Cherries, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3641",
+"en": "Cherries, sour, canned, water pack, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3642",
+"en": "Cherries, sour, red, canned, extra heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3643",
+"en": "Cherries, sour, red, canned, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3644",
+"en": "Cherries, sour, red, canned, light syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3645",
+"en": "Cherries, sour, red, canned, water pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3646",
+"en": "Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3647",
+"en": "Cherries, sour, red, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3648",
+"en": "Cherries, sweet, canned, extra heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3649",
+"en": "Cherries, sweet, canned, juice pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3650",
+"en": "Cherries, sweet, canned, light syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3651",
+"en": "Cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3652",
+"en": "Cherries, sweet, canned, pitted, heavy syrup, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3653",
+"en": "Cherries, sweet, canned, water pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3654",
+"en": "Cherries, sweet, dark red, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "3655",
+"en": "Cherries, sweet, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3656",
+"en": "Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3657",
+"en": "Cherry juice, tart",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3658",
+"en": "Cherry pie filling",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3659",
+"en": "Chestnuts",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3660",
+"en": "Chewing gum",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "3661",
+"en": "Chewing gum, sugar free",
+"categoria": "Candy not containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3662",
+"en": "Chewing gum, sugarless",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "3663",
+"en": "Chia seeds",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3664",
+"en": "Chia seeds, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "3665",
+"en": "CHICK-FIL-A, Chick-n-Strips",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "3666",
+"en": "CHICK-FIL-A, chicken sandwich",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "3667",
+"en": "CHICK-FIL-A, hash browns",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "3668",
+"en": "Chicken \"wings\" with hot sauce, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3669",
+"en": "Chicken \"wings\" with hot sauce, from other sources",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3670",
+"en": "Chicken \"wings\" with hot sauce, from precooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3671",
+"en": "Chicken \"wings\" with other sauces or seasoning, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3672",
+"en": "Chicken \"wings\" with other sauces or seasoning, from other sources",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3673",
+"en": "Chicken \"wings\" with other sauces or seasoning, from precooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3674",
+"en": "Chicken \"wings\", boneless, with hot sauce, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3675",
+"en": "Chicken \"wings\", boneless, with hot sauce, from other sources",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3676",
+"en": "Chicken \"wings\", plain, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3677",
+"en": "Chicken \"wings\", plain, from other sources",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3678",
+"en": "Chicken \"wings\", plain, from precooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3679",
+"en": "Chicken and vegetable entree with noodles and cream sauce, frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3680",
+"en": "Chicken and vegetable entree with noodles, diet frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3681",
+"en": "Chicken and vegetable entree with rice, diet frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3682",
+"en": "Chicken and vegetables au gratin with rice, diet frozen entree",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3683",
+"en": "Chicken as ingredient in recipes",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3684",
+"en": "Chicken breast tenders, breaded, cooked, microwaved",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3685",
+"en": "Chicken breast tenders, breaded, uncooked",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "3686",
+"en": "Chicken breast, baked or broiled, skin eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3687",
+"en": "Chicken breast, baked or broiled, skin eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3688",
+"en": "Chicken breast, baked or broiled, skin not eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3689",
+"en": "Chicken breast, baked or broiled, skin not eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3690",
+"en": "Chicken breast, baked, broiled, or roasted with marinade, skin eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3691",
+"en": "Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3692",
+"en": "Chicken breast, baked, broiled, or roasted, skin eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3693",
+"en": "Chicken breast, baked, broiled, or roasted, skin not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3694",
+"en": "Chicken breast, baked, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3695",
+"en": "Chicken breast, baked, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3696",
+"en": "Chicken breast, deli, rotisserie seasoned, sliced, prepackaged",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "3697",
+"en": "Chicken breast, fat-free, mesquite flavor, sliced",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "3698",
+"en": "Chicken breast, fried, coated, prepared skinless, coating eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3699",
+"en": "Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3700",
+"en": "Chicken breast, fried, coated, skin / coating eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3701",
+"en": "Chicken breast, fried, coated, skin / coating eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3702",
+"en": "Chicken breast, fried, coated, skin / coating not eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3703",
+"en": "Chicken breast, fried, coated, skin / coating not eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3704",
+"en": "Chicken breast, fried, coated, skin / coating not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3705",
+"en": "Chicken breast, grilled with sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3706",
+"en": "Chicken breast, grilled with sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3707",
+"en": "Chicken breast, grilled without sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3708",
+"en": "Chicken breast, grilled without sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3709",
+"en": "Chicken breast, NS as to cooking method, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3710",
+"en": "Chicken breast, NS as to cooking method, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3711",
+"en": "Chicken breast, oven-roasted, fat-free, sliced",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "3712",
+"en": "Chicken breast, roll, oven-roasted",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "3713",
+"en": "Chicken breast, rotisserie, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3714",
+"en": "Chicken breast, rotisserie, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3715",
+"en": "Chicken breast, sauteed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3716",
+"en": "Chicken breast, sauteed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3717",
+"en": "Chicken breast, stewed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3718",
+"en": "Chicken breast, stewed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3719",
+"en": "Chicken cornbread",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3720",
+"en": "Chicken curry",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3721",
+"en": "Chicken curry with rice",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3722",
+"en": "Chicken deli sandwich or sub, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3723",
+"en": "Chicken deli sandwich or sub, with cheese, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3724",
+"en": "Chicken dinner, NFS, frozen meal",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3725",
+"en": "Chicken drumstick, baked or broiled, skin eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3726",
+"en": "Chicken drumstick, baked or broiled, skin eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3727",
+"en": "Chicken drumstick, baked or broiled, skin not eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3728",
+"en": "Chicken drumstick, baked or broiled, skin not eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3729",
+"en": "Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3730",
+"en": "Chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3731",
+"en": "Chicken drumstick, baked, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3732",
+"en": "Chicken drumstick, baked, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3733",
+"en": "Chicken drumstick, fried, coated, prepared skinless, coating eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3734",
+"en": "Chicken drumstick, fried, coated, skin / coating eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3735",
+"en": "Chicken drumstick, fried, coated, skin / coating eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3736",
+"en": "Chicken drumstick, fried, coated, skin / coating eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3737",
+"en": "Chicken drumstick, fried, coated, skin / coating not eaten, from fast food / restaurant",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3738",
+"en": "Chicken drumstick, fried, coated, skin / coating not eaten, from pre-cooked",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3739",
+"en": "Chicken drumstick, fried, coated, skin / coating not eaten, from raw",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3740",
+"en": "Chicken drumstick, grilled with sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3741",
+"en": "Chicken drumstick, grilled with sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3742",
+"en": "Chicken drumstick, grilled without sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3743",
+"en": "Chicken drumstick, grilled without sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3744",
+"en": "Chicken drumstick, NS as to cooking method, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3745",
+"en": "Chicken drumstick, NS as to cooking method, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3746",
+"en": "Chicken drumstick, rotisserie, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3747",
+"en": "Chicken drumstick, rotisserie, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3748",
+"en": "Chicken drumstick, sauteed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3749",
+"en": "Chicken drumstick, sauteed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3750",
+"en": "Chicken drumstick, stewed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3751",
+"en": "Chicken drumstick, stewed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3752",
+"en": "Chicken egg foo yung",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3753",
+"en": "Chicken feet",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3754",
+"en": "Chicken fillet biscuit, from fast food",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3755",
+"en": "Chicken fillet sandwich, fried, from fast food",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3756",
+"en": "Chicken fillet sandwich, fried, from fast food, with cheese",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3757",
+"en": "Chicken fillet sandwich, fried, on wheat bun",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3758",
+"en": "Chicken fillet sandwich, fried, on wheat bun, with cheese",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3759",
+"en": "Chicken fillet sandwich, fried, on white bun",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3760",
+"en": "Chicken fillet sandwich, fried, on white bun; with cheese",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3761",
+"en": "Chicken fillet sandwich, from school cafeteria",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3762",
+"en": "Chicken fillet sandwich, grilled, from fast food",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3763",
+"en": "Chicken fillet sandwich, grilled, from fast food, with cheese",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3764",
+"en": "Chicken fillet sandwich, grilled, on wheat bun",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3765",
+"en": "Chicken fillet sandwich, grilled, on wheat bun, with cheese",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3766",
+"en": "Chicken fillet sandwich, grilled, on white bun",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3767",
+"en": "Chicken fillet sandwich, grilled, on white bun, with cheese",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3768",
+"en": "Chicken fillet sandwich, NFS",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3769",
+"en": "Chicken fillet sandwich, NS as to fried or grilled, from fast food",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3770",
+"en": "Chicken fillet wrap sandwich, fried, from fast food",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3771",
+"en": "Chicken fillet wrap sandwich, grilled, from fast food",
+"categoria": "Chicken fillet sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3772",
+"en": "Chicken fillet, breaded",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3773",
+"en": "Chicken fillet, grilled",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3774",
+"en": "Chicken fricassee, Puerto Rican style",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3775",
+"en": "Chicken in soy-based sauce, rice and vegetables, frozen meal",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3776",
+"en": "Chicken kiev",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3777",
+"en": "Chicken leg, drumstick and thigh, baked or broiled, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3778",
+"en": "Chicken leg, drumstick and thigh, baked or broiled, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3779",
+"en": "Chicken leg, drumstick and thigh, baked, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3780",
+"en": "Chicken leg, drumstick and thigh, baked, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3781",
+"en": "Chicken leg, drumstick and thigh, fried, coated, skin / coating eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3782",
+"en": "Chicken leg, drumstick and thigh, fried, coated, skin / coating not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3783",
+"en": "Chicken leg, drumstick and thigh, grilled with sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3784",
+"en": "Chicken leg, drumstick and thigh, grilled with sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3785",
+"en": "Chicken leg, drumstick and thigh, grilled without sauce, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3786",
+"en": "Chicken leg, drumstick and thigh, grilled without sauce, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3787",
+"en": "Chicken leg, drumstick and thigh, NS as to cooking method, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3788",
+"en": "Chicken leg, drumstick and thigh, NS as to cooking method, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3789",
+"en": "Chicken leg, drumstick and thigh, rotisserie, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3790",
+"en": "Chicken leg, drumstick and thigh, rotisserie, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3791",
+"en": "Chicken leg, drumstick and thigh, sauteed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3792",
+"en": "Chicken leg, drumstick and thigh, sauteed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3793",
+"en": "Chicken leg, drumstick and thigh, stewed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3794",
+"en": "Chicken leg, drumstick and thigh, stewed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3795",
+"en": "Chicken nuggets, from fast food",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3796",
+"en": "Chicken nuggets, from frozen",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3797",
+"en": "Chicken nuggets, from other sources",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3798",
+"en": "Chicken nuggets, from restaurant",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3799",
+"en": "Chicken nuggets, from school lunch",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3800",
+"en": "Chicken nuggets, NFS",
+"categoria": "Chicken patties, nuggets and tenders",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3801",
+"en": "Chicken or turkey a la king with vegetables excluding carrorts, broccoli, and dark-green leafy; no potatoes, cream, white, or soup-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3802",
+"en": "Chicken or turkey a la king with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cream, white, or soup-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3803",
+"en": "Chicken or turkey and noodles with cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3804",
+"en": "Chicken or turkey and noodles with cream or white sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3805",
+"en": "Chicken or turkey and noodles with gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3806",
+"en": "Chicken or turkey and noodles with mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3807",
+"en": "Chicken or turkey and noodles with soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3808",
+"en": "Chicken or turkey and noodles with tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3809",
+"en": "Chicken or turkey and noodles, no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3810",
+"en": "Chicken or turkey and potatoes with gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3811",
+"en": "Chicken or turkey and rice with cream sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3812",
+"en": "Chicken or turkey and rice with mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3813",
+"en": "Chicken or turkey and rice with soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3814",
+"en": "Chicken or turkey and rice with tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3815",
+"en": "Chicken or turkey and rice, no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3816",
+"en": "Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3817",
+"en": "Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3818",
+"en": "Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3819",
+"en": "Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3820",
+"en": "Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3821",
+"en": "Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3822",
+"en": "Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3823",
+"en": "Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3824",
+"en": "Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3825",
+"en": "Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3826",
+"en": "Chicken or turkey cacciatore",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3827",
+"en": "Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3828",
+"en": "Chicken or turkey cake, patty, or croquette",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3829",
+"en": "Chicken or turkey chow mein or chop suey with noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3830",
+"en": "Chicken or turkey chow mein or chop suey, no noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3831",
+"en": "Chicken or turkey cordon bleu",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3832",
+"en": "Chicken or turkey creole, without rice",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3833",
+"en": "Chicken or turkey divan",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3834",
+"en": "Chicken or turkey fricassee",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3835",
+"en": "Chicken or turkey fricassee, no sauce, no potatoes, Puerto Rican style",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3836",
+"en": "Chicken or turkey fricassee, with sauce, no potatoes, potatoes reported separately, Puerto Rican style",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3837",
+"en": "Chicken or turkey garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3838",
+"en": "Chicken or turkey garden salad with cheese, chicken and/or turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3839",
+"en": "Chicken or turkey garden salad, chicken and/or turkey, other vegetables excluding tomato and carrots, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3840",
+"en": "Chicken or turkey garden salad, chicken and/or turkey, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3841",
+"en": "Chicken or turkey hash",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3842",
+"en": "Chicken or turkey parmigiana",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3843",
+"en": "Chicken or turkey salad with egg",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3844",
+"en": "Chicken or turkey salad with nuts and/or fruits",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3845",
+"en": "Chicken or turkey salad, made with any type of fat free dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3846",
+"en": "Chicken or turkey salad, made with creamy dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3847",
+"en": "Chicken or turkey salad, made with Italian dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3848",
+"en": "Chicken or turkey salad, made with light creamy dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3849",
+"en": "Chicken or turkey salad, made with light Italian dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3850",
+"en": "Chicken or turkey salad, made with light mayonnaise",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3851",
+"en": "Chicken or turkey salad, made with light mayonnaise-type salad dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3852",
+"en": "Chicken or turkey salad, made with mayonnaise",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3853",
+"en": "Chicken or turkey salad, made with mayonnaise-type salad dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3854",
+"en": "Chicken or turkey shish kabob with vegetables, excluding potatoes",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3855",
+"en": "Chicken or turkey souffle",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3856",
+"en": "Chicken or turkey tetrazzini",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3857",
+"en": "Chicken or turkey with cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3858",
+"en": "Chicken or turkey with cream sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3859",
+"en": "Chicken or turkey with dumplings",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3860",
+"en": "Chicken or turkey with mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3861",
+"en": "Chicken or turkey with stuffing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3862",
+"en": "Chicken or turkey with teriyaki",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3863",
+"en": "Chicken or turkey, breaded, fried, caesar garden salad, chicken and/or turkey, lettuce, tomatoes, cheese, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3864",
+"en": "Chicken or turkey, breaded, fried, garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3865",
+"en": "Chicken or turkey, breaded, fried, garden salad with cheese, chicken and/or turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3866",
+"en": "Chicken or turkey, dumplings, and vegetables excluding carrots, broccoli, and dark green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3867",
+"en": "Chicken or turkey, dumplings, and vegetables including carrots, broccoli, and/or dark green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3868",
+"en": "Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3869",
+"en": "Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3870",
+"en": "Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3871",
+"en": "Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3872",
+"en": "Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "3873",
+"en": "Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+}
+]

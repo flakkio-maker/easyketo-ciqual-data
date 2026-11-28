@@ -1,0 +1,1790 @@
+[
+{
+"id": "298",
+"en": "Baby Toddler carrots, Stage 1",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "299",
+"en": "Baby Toddler carrots, Stage 2",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "300",
+"en": "Baby Toddler cereal, barley, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "301",
+"en": "Baby Toddler cereal, multigrain with fruit, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "302",
+"en": "Baby Toddler cereal, multigrain with fruit, ready-to-eat",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "303",
+"en": "Baby Toddler cereal, multigrain, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "304",
+"en": "Baby Toddler cereal, multigrain, ready-to-eat",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "305",
+"en": "Baby Toddler cereal, NFS",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "306",
+"en": "Baby Toddler cereal, oatmeal with fruit, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "307",
+"en": "Baby Toddler cereal, oatmeal with fruit, ready-to-eat",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "308",
+"en": "Baby Toddler cereal, oatmeal, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "309",
+"en": "Baby Toddler cereal, oatmeal, ready-to-eat",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "310",
+"en": "Baby Toddler cereal, rice with fruit, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "311",
+"en": "Baby Toddler cereal, rice with fruit, ready-to-eat",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "312",
+"en": "Baby Toddler cereal, rice, dry",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "313",
+"en": "Baby Toddler cereal, rice, ready-to-eat",
+"categoria": "Baby food: cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "314",
+"en": "Baby Toddler chicken",
+"categoria": "Baby food: meat and dinners",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "315",
+"en": "Baby Toddler cookie",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "316",
+"en": "Baby Toddler crackers",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "317",
+"en": "Baby Toddler crunchies",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "318",
+"en": "Baby Toddler food, NFS",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "319",
+"en": "Baby Toddler fruit and meat",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "320",
+"en": "Baby Toddler fruit and vegetables, Stage 2",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "321",
+"en": "Baby Toddler fruit and vegetables, Stage 3",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "322",
+"en": "Baby Toddler fruit and vegetables, with grain",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "323",
+"en": "Baby Toddler fruit and vegetables, with yogurt",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "324",
+"en": "Baby Toddler fruit, NFS",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "325",
+"en": "Baby Toddler fruit, vegetables, and meat",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "326",
+"en": "Baby Toddler fruit, with grain",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "327",
+"en": "Baby Toddler fruit, with yogurt",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "328",
+"en": "Baby Toddler green beans, Stage 1",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "329",
+"en": "Baby Toddler green beans, Stage 2",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "330",
+"en": "Baby Toddler ham",
+"categoria": "Baby food: meat and dinners",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "331",
+"en": "Baby Toddler juice, apple",
+"categoria": "Baby juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "332",
+"en": "Baby Toddler juice, fruit and vegetable",
+"categoria": "Baby juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "333",
+"en": "Baby Toddler juice, fruit and yogurt blend",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "334",
+"en": "Baby Toddler juice, grape",
+"categoria": "Baby juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "335",
+"en": "Baby Toddler juice, mixed fruit",
+"categoria": "Baby juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "336",
+"en": "Baby Toddler juice, NFS",
+"categoria": "Baby juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "337",
+"en": "Baby Toddler juice, pear",
+"categoria": "Baby juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "338",
+"en": "Baby Toddler mangoes",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "339",
+"en": "Baby Toddler meat stick",
+"categoria": "Baby food: meat and dinners",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "340",
+"en": "Baby Toddler meat, NFS",
+"categoria": "Baby food: meat and dinners",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "341",
+"en": "Baby Toddler multiple fruit, Stage 2",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "342",
+"en": "Baby Toddler multiple fruit, Stage 3",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "343",
+"en": "Baby Toddler multiple vegetables, Stage 2",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "344",
+"en": "Baby Toddler multiple vegetables, Stage 3",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "345",
+"en": "Baby Toddler peaches, Stage 1",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "346",
+"en": "Baby Toddler peaches, Stage 2",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "347",
+"en": "Baby Toddler pears, Stage 1",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "348",
+"en": "Baby Toddler pears, Stage 2",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "349",
+"en": "Baby Toddler peas, Stage 1",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "350",
+"en": "Baby Toddler peas, Stage 2",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "351",
+"en": "Baby Toddler prunes",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "352",
+"en": "Baby Toddler pudding",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "353",
+"en": "Baby Toddler puffs, fruit",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "354",
+"en": "Baby Toddler puffs, vegetable",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "355",
+"en": "Baby Toddler snack, NFS",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "356",
+"en": "Baby Toddler squash, Stage 1",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "357",
+"en": "Baby Toddler squash, Stage 2",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "358",
+"en": "Baby Toddler sweet potatoes, Stage 1",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "359",
+"en": "Baby Toddler sweet potatoes, Stage 2",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "360",
+"en": "Baby Toddler turkey",
+"categoria": "Baby food: meat and dinners",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "361",
+"en": "Baby Toddler vegetable, NFS",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "362",
+"en": "Baby Toddler vegetables and meat",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "363",
+"en": "Baby Toddler vegetables, with grain",
+"categoria": "Baby food: mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "364",
+"en": "Baby Toddler wheels",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "365",
+"en": "Baby Toddler yogurt melts",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "366",
+"en": "Baby Toddler yogurt, plain",
+"categoria": "Baby food: yogurt",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "367",
+"en": "Baby Toddler yogurt, with fruit",
+"categoria": "Baby food: yogurt",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "368",
+"en": "Babyfood, apple yogurt dessert, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "369",
+"en": "Babyfood, apple-banana juice",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "370",
+"en": "Babyfood, apples with ham, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "371",
+"en": "Babyfood, apples, dices, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "372",
+"en": "Babyfood, Baby MUM MUM Rice Biscuits",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "373",
+"en": "Babyfood, baked product, finger snacks cereal fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "374",
+"en": "Babyfood, banana apple dessert, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "375",
+"en": "Babyfood, banana juice with low fat yogurt",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "376",
+"en": "Babyfood, banana no tapioca, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "377",
+"en": "Babyfood, banana with mixed berries, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "378",
+"en": "Babyfood, beverage, GERBER, GRADUATES, FRUIT SPLASHERS",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "379",
+"en": "Babyfood, carrots and beef, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "380",
+"en": "Babyfood, carrots, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "381",
+"en": "Babyfood, cereal, barley, dry fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "382",
+"en": "Babyfood, cereal, barley, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "383",
+"en": "Babyfood, cereal, brown rice, dry, instant",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "384",
+"en": "Babyfood, cereal, egg yolks and bacon, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "385",
+"en": "Babyfood, cereal, high protein, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "386",
+"en": "Babyfood, cereal, high protein, with apple and orange, dry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "387",
+"en": "Babyfood, cereal, high protein, with apple and orange, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "388",
+"en": "Babyfood, cereal, mixed, dry fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "389",
+"en": "Babyfood, cereal, mixed, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "390",
+"en": "Babyfood, cereal, mixed, with applesauce and bananas, junior, fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "391",
+"en": "Babyfood, cereal, mixed, with applesauce and bananas, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "392",
+"en": "Babyfood, cereal, mixed, with bananas, dry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "393",
+"en": "Babyfood, cereal, mixed, with bananas, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "394",
+"en": "Babyfood, cereal, mixed, with honey, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "395",
+"en": "Babyfood, cereal, oatmeal, dry fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "396",
+"en": "Babyfood, cereal, Oatmeal, dry, GERBER, SINGLE GRAIN, fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "397",
+"en": "Babyfood, cereal, oatmeal, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "398",
+"en": "Babyfood, cereal, oatmeal, with applesauce and bananas, junior, fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "399",
+"en": "Babyfood, cereal, oatmeal, with applesauce and bananas, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "400",
+"en": "Babyfood, cereal, oatmeal, with bananas, dry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "401",
+"en": "Babyfood, cereal, oatmeal, with bananas, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "402",
+"en": "Babyfood, cereal, oatmeal, with honey, dry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "403",
+"en": "Babyfood, cereal, oatmeal, with honey, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "404",
+"en": "Babyfood, cereal, rice with pears and apple, dry, instant fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "405",
+"en": "Babyfood, cereal, rice, dry fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "406",
+"en": "Babyfood, cereal, rice, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "407",
+"en": "Babyfood, cereal, rice, with applesauce and bananas, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "408",
+"en": "Babyfood, cereal, rice, with bananas, dry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "409",
+"en": "Babyfood, cereal, rice, with bananas, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "410",
+"en": "Babyfood, cereal, rice, with honey, prepared with whole milk",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "411",
+"en": "Babyfood, cereal, whole wheat, with apples, dry fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "412",
+"en": "Babyfood, cereal, with egg yolks, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "413",
+"en": "Babyfood, cereal, with egg yolks, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "414",
+"en": "Babyfood, cereal, with eggs, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "415",
+"en": "Babyfood, cherry cobbler, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "416",
+"en": "Babyfood, cookie, baby, fruit",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "417",
+"en": "Babyfood, cookies",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "418",
+"en": "Babyfood, cookies, arrowroot",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "419",
+"en": "Babyfood, corn and sweet potatoes, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "420",
+"en": "Babyfood, crackers, vegetable",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "421",
+"en": "Babyfood, dessert, banana pudding, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "422",
+"en": "Babyfood, dessert, banana yogurt, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "423",
+"en": "Babyfood, dessert, blueberry yogurt, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "424",
+"en": "Babyfood, dessert, cherry vanilla pudding, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "425",
+"en": "Babyfood, dessert, cherry vanilla pudding, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "426",
+"en": "Babyfood, dessert, custard pudding, vanilla, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "427",
+"en": "Babyfood, dessert, custard pudding, vanilla, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "428",
+"en": "Babyfood, dessert, dutch apple, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "429",
+"en": "Babyfood, dessert, dutch apple, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "430",
+"en": "Babyfood, dessert, fruit dessert, without ascorbic acid, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "431",
+"en": "Babyfood, dessert, fruit dessert, without ascorbic acid, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "432",
+"en": "Babyfood, dessert, fruit pudding, orange, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "433",
+"en": "Babyfood, dessert, fruit pudding, pineapple, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "434",
+"en": "Babyfood, dessert, peach cobbler, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "435",
+"en": "Babyfood, dessert, peach cobbler, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "436",
+"en": "Babyfood, dessert, peach melba, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "437",
+"en": "Babyfood, dessert, peach melba, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "438",
+"en": "Babyfood, dessert, peach yogurt",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "439",
+"en": "Babyfood, dessert, tropical fruit, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "440",
+"en": "Babyfood, dinner, apples and chicken, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "441",
+"en": "Babyfood, dinner, beef and rice, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "442",
+"en": "Babyfood, dinner, beef lasagna, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "443",
+"en": "Babyfood, dinner, beef noodle, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "444",
+"en": "Babyfood, dinner, beef noodle, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "445",
+"en": "Babyfood, dinner, beef with vegetables",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "446",
+"en": "Babyfood, dinner, broccoli and chicken, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "447",
+"en": "Babyfood, dinner, chicken and rice",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "448",
+"en": "Babyfood, dinner, chicken noodle, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "449",
+"en": "Babyfood, dinner, chicken noodle, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "450",
+"en": "Babyfood, dinner, chicken soup, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "451",
+"en": "Babyfood, dinner, chicken stew, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "452",
+"en": "Babyfood, dinner, macaroni and cheese, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "453",
+"en": "Babyfood, dinner, macaroni and cheese, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "454",
+"en": "Babyfood, dinner, macaroni and tomato and beef, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "455",
+"en": "Babyfood, dinner, macaroni and tomato and beef, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "456",
+"en": "Babyfood, dinner, macaroni, beef and tomato sauce, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "457",
+"en": "Babyfood, dinner, mixed vegetable, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "458",
+"en": "Babyfood, dinner, mixed vegetable, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "459",
+"en": "Babyfood, dinner, pasta with vegetables",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "460",
+"en": "Babyfood, dinner, spaghetti and tomato and meat, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "461",
+"en": "Babyfood, dinner, spaghetti and tomato and meat, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "462",
+"en": "Babyfood, dinner, sweet potatoes and chicken, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "463",
+"en": "Babyfood, dinner, turkey and rice, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "464",
+"en": "Babyfood, dinner, turkey and rice, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "465",
+"en": "Babyfood, dinner, turkey, rice, and vegetables, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "466",
+"en": "Babyfood, dinner, vegetables and beef, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "467",
+"en": "Babyfood, dinner, vegetables and beef, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "468",
+"en": "Babyfood, dinner, vegetables and chicken, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "469",
+"en": "Babyfood, dinner, vegetables and dumplings and beef, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "470",
+"en": "Babyfood, dinner, vegetables and dumplings and beef, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "471",
+"en": "Babyfood, dinner, vegetables and lamb, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "472",
+"en": "Babyfood, dinner, vegetables and noodles and turkey, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "473",
+"en": "Babyfood, dinner, vegetables and noodles and turkey, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "474",
+"en": "Babyfood, dinner, vegetables and turkey, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "475",
+"en": "Babyfood, dinner, vegetables and turkey, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "476",
+"en": "Babyfood, dinner, vegetables chicken, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "477",
+"en": "Babyfood, dinner, vegetables, noodles and chicken, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "478",
+"en": "Babyfood, dinner, vegetables, noodles and chicken, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "479",
+"en": "Babyfood, finger snacks, GERBER, GRADUATES, PUFFS, apple and cinnamon",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "480",
+"en": "Babyfood, fortified cereal bar, fruit filling",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "481",
+"en": "Babyfood, fruit and vegetable, apple and sweet potato",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "482",
+"en": "Babyfood, fruit dessert, mango with tapioca",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "483",
+"en": "Babyfood, fruit supreme dessert",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "484",
+"en": "Babyfood, fruit, apple and blueberry, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "485",
+"en": "Babyfood, fruit, apple and blueberry, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "486",
+"en": "Babyfood, fruit, apple and raspberry, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "487",
+"en": "Babyfood, fruit, apple and raspberry, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "488",
+"en": "Babyfood, fruit, applesauce and apricots, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "489",
+"en": "Babyfood, fruit, applesauce and apricots, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "490",
+"en": "Babyfood, fruit, applesauce and cherries, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "491",
+"en": "Babyfood, fruit, applesauce and cherries, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "492",
+"en": "Babyfood, fruit, applesauce and pineapple, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "493",
+"en": "Babyfood, fruit, applesauce and pineapple, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "494",
+"en": "Babyfood, fruit, applesauce with banana, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "495",
+"en": "Babyfood, fruit, applesauce, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "496",
+"en": "Babyfood, fruit, applesauce, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "497",
+"en": "Babyfood, fruit, apricot with tapioca, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "498",
+"en": "Babyfood, fruit, apricot with tapioca, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "499",
+"en": "Babyfood, fruit, banana and strawberry, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "500",
+"en": "Babyfood, fruit, bananas and pineapple with tapioca, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "501",
+"en": "Babyfood, fruit, bananas and pineapple with tapioca, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "502",
+"en": "Babyfood, fruit, bananas with apples and pears, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "503",
+"en": "Babyfood, fruit, bananas with tapioca, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "504",
+"en": "Babyfood, fruit, bananas with tapioca, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "505",
+"en": "Babyfood, fruit, guava and papaya with tapioca, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "506",
+"en": "Babyfood, fruit, papaya and applesauce with tapioca, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "507",
+"en": "Babyfood, fruit, peaches, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "508",
+"en": "Babyfood, fruit, peaches, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "509",
+"en": "Babyfood, fruit, pears and pineapple, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "510",
+"en": "Babyfood, fruit, pears and pineapple, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "511",
+"en": "Babyfood, fruit, pears, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "512",
+"en": "Babyfood, fruit, pears, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "513",
+"en": "Babyfood, fruit, plums with tapioca, without ascorbic acid, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "514",
+"en": "Babyfood, fruit, plums with tapioca, without ascorbic acid, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "515",
+"en": "Babyfood, fruit, prunes with tapioca, without ascorbic acid, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "516",
+"en": "Babyfood, fruit, prunes with tapioca, without ascorbic acid, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "517",
+"en": "Babyfood, fruit, tutti frutti, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "518",
+"en": "Babyfood, fruit, tutti frutti, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "519",
+"en": "Babyfood, GERBER, 2nd Foods, apple, carrot and squash, organic",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "520",
+"en": "Babyfood, GERBER, 3rd Foods, apple, mango and kiwi",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "521",
+"en": "Babyfood, GERBER, Banana with orange medley",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "522",
+"en": "Babyfood, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "523",
+"en": "Babyfood, grape juice, no sugar, canned",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "524",
+"en": "Babyfood, green beans and turkey, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "525",
+"en": "Babyfood, green beans, dices, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "526",
+"en": "Babyfood, juice treats, fruit medley, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "527",
+"en": "Babyfood, juice, apple",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "528",
+"en": "Babyfood, juice, apple - cherry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "529",
+"en": "Babyfood, juice, apple and grape",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "530",
+"en": "Babyfood, juice, apple and peach",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "531",
+"en": "Babyfood, juice, apple and prune",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "532",
+"en": "Babyfood, juice, apple, with calcium",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "533",
+"en": "Babyfood, juice, apple-sweet potato",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "534",
+"en": "Babyfood, juice, fruit punch, with calcium",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "535",
+"en": "Babyfood, juice, mixed fruit",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "536",
+"en": "Babyfood, juice, orange",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "537",
+"en": "Babyfood, juice, orange and apple",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "538",
+"en": "Babyfood, juice, orange and apple and banana",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "539",
+"en": "Babyfood, juice, orange and apricot",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "540",
+"en": "Babyfood, juice, orange and banana",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "541",
+"en": "Babyfood, juice, orange and pineapple",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "542",
+"en": "Babyfood, juice, orange-carrot",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "543",
+"en": "Babyfood, juice, pear",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "544",
+"en": "Babyfood, juice, prune and orange",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "545",
+"en": "Babyfood, macaroni and cheese, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "546",
+"en": "Babyfood, mashed cheddar potatoes and broccoli, toddlers",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "547",
+"en": "Babyfood, meat, beef with vegetables, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "548",
+"en": "Babyfood, meat, beef, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "549",
+"en": "Babyfood, meat, beef, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "550",
+"en": "Babyfood, meat, chicken sticks, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "551",
+"en": "Babyfood, meat, chicken, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "552",
+"en": "Babyfood, meat, chicken, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "553",
+"en": "Babyfood, meat, ham, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "554",
+"en": "Babyfood, meat, ham, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "555",
+"en": "Babyfood, meat, lamb, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "556",
+"en": "Babyfood, meat, lamb, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "557",
+"en": "Babyfood, meat, meat sticks, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "558",
+"en": "Babyfood, meat, pork, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "559",
+"en": "Babyfood, meat, turkey sticks, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "560",
+"en": "Babyfood, meat, turkey, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "561",
+"en": "Babyfood, meat, turkey, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "562",
+"en": "Babyfood, meat, veal, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "563",
+"en": "Babyfood, mixed fruit juice with low fat yogurt",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "564",
+"en": "Babyfood, mixed fruit yogurt, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "565",
+"en": "Babyfood, Multigrain whole grain cereal, dry fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "566",
+"en": "Babyfood, oatmeal cereal with fruit, dry, instant, toddler fortified",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "567",
+"en": "Babyfood, peaches, dices, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "568",
+"en": "Babyfood, pears, dices, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "569",
+"en": "Babyfood, peas and brown rice",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "570",
+"en": "Babyfood, peas, dices, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "571",
+"en": "Babyfood, plums, bananas and rice, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "572",
+"en": "Babyfood, potatoes, toddler",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "573",
+"en": "Babyfood, pretzels",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "574",
+"en": "Babyfood, prunes, without vitamin c, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "575",
+"en": "Babyfood, ravioli, cheese filled, with tomato sauce",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "576",
+"en": "Babyfood, rice and apples, dry",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "577",
+"en": "Babyfood, rice cereal, dry, EARTHS BEST ORGANIC WHOLE GRAIN, fortified only with iron",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "578",
+"en": "Babyfood, snack, GERBER GRADUATE FRUIT STRIPS, Real Fruit Bars",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "579",
+"en": "Babyfood, Snack, GERBER, GRADUATES, LIL CRUNCHIES, baked whole grain corn snack",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "580",
+"en": "Babyfood, snack, GERBER, GRADUATES, YOGURT MELTS",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "581",
+"en": "Babyfood, tropical fruit medley",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "582",
+"en": "Babyfood, vegetable and brown rice, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "583",
+"en": "Babyfood, vegetable, butternut squash and corn",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "584",
+"en": "Babyfood, vegetable, green beans and potatoes",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "585",
+"en": "Babyfood, vegetables, beets, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "586",
+"en": "Babyfood, vegetables, carrots, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "587",
+"en": "Babyfood, vegetables, carrots, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "588",
+"en": "Babyfood, vegetables, corn, creamed, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "589",
+"en": "Babyfood, vegetables, corn, creamed, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "590",
+"en": "Babyfood, vegetables, garden vegetable, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "591",
+"en": "Babyfood, vegetables, green beans, junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "592",
+"en": "Babyfood, vegetables, green beans, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "593",
+"en": "Babyfood, vegetables, mix vegetables junior",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "594",
+"en": "Babyfood, vegetables, mix vegetables strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "595",
+"en": "Babyfood, vegetables, peas, strained",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+}
+]

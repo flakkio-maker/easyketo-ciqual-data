@@ -1,0 +1,2088 @@
+{
+"298": {
+"it": "Carote per bambini piccoli, fase 1",
+"fr": "Carottes pour tout-petits, étape 1",
+"es": "Zanahorias para niños pequeños, etapa 1",
+"de": "Karotten für Kleinkinder, Stufe 1",
+"pt": "Cenouras para crianças pequenas, fase 1"
+},
+"299": {
+"it": "Carote per bambini piccoli, fase 2",
+"fr": "Carottes pour tout-petits, étape 2",
+"es": "Zanahorias para niños pequeños, etapa 2",
+"de": "Karotten für Kleinkinder, Stufe 2",
+"pt": "Cenouras para crianças pequenas, fase 2"
+},
+"300": {
+"it": "Cereale per bambini piccoli, orzo, secco",
+"fr": "Céréales pour tout-petits, orge, sèches",
+"es": "Cereal para niños pequeños, cebada, seco",
+"de": "Getreidebrei für Kleinkinder, Gerste, trocken",
+"pt": "Cereal para crianças pequenas, cevada, seco"
+},
+"301": {
+"it": "Cereale per bambini piccoli, multicereali con frutta, secco",
+"fr": "Céréales pour tout-petits, multicéréales avec fruit, sèches",
+"es": "Cereal para niños pequeños, multicereales con fruta, seco",
+"de": "Getreidebrei für Kleinkinder, Mehrkorn mit Obst, trocken",
+"pt": "Cereal para crianças pequenas, multigrãos com fruta, seco"
+},
+"302": {
+"it": "Cereale per bambini piccoli, multicereali con frutta, pronto da mangiare",
+"fr": "Céréales pour tout-petits, multicéréales avec fruit, prêtes à consommer",
+"es": "Cereal para niños pequeños, multicereales con fruta, listo para comer",
+"de": "Getreidebrei für Kleinkinder, Mehrkorn mit Obst, verzehrfertig",
+"pt": "Cereal para crianças pequenas, multigrãos com fruta, pronto para consumo"
+},
+"303": {
+"it": "Cereale per bambini piccoli, multicereali, secco",
+"fr": "Céréales pour tout-petits, multicéréales, sèches",
+"es": "Cereal para niños pequeños, multicereales, seco",
+"de": "Getreidebrei für Kleinkinder, Mehrkorn, trocken",
+"pt": "Cereal para crianças pequenas, multigrãos, seco"
+},
+"304": {
+"it": "Cereale per bambini piccoli, multicereali, pronto da mangiare",
+"fr": "Céréales pour tout-petits, multicéréales, prêtes à consommer",
+"es": "Cereal para niños pequeños, multicereales, listo para comer",
+"de": "Getreidebrei für Kleinkinder, Mehrkorn, verzehrfertig",
+"pt": "Cereal para crianças pequenas, multigrãos, pronto para consumo"
+},
+"305": {
+"it": "Cereale per bambini piccoli, non specificato",
+"fr": "Céréales pour tout-petits, non spécifié",
+"es": "Cereal para niños pequeños, no especificado",
+"de": "Getreidebrei für Kleinkinder, nicht näher bezeichnet",
+"pt": "Cereal para crianças pequenas, não especificado"
+},
+"306": {
+"it": "Cereale per bambini piccoli, farina d'avena con frutta, secco",
+"fr": "Céréales pour tout-petits, flocons d'avoine avec fruit, sèches",
+"es": "Cereal para niños pequeños, avena con fruta, seco",
+"de": "Getreidebrei für Kleinkinder, Haferflocken mit Obst, trocken",
+"pt": "Cereal para crianças pequenas, aveia com fruta, seco"
+},
+"307": {
+"it": "Cereale per bambini piccoli, farina d'avena con frutta, pronto da mangiare",
+"fr": "Céréales pour tout-petits, flocons d'avoine avec fruit, prêt à consommer",
+"es": "Cereal para niños pequeños, avena con fruta, listo para comer",
+"de": "Getreidebrei für Kleinkinder, Haferflocken mit Obst, verzehrfertig",
+"pt": "Cereal para crianças pequenas, aveia com fruta, pronto para consumo"
+},
+"308": {
+"it": "Cereale per bambini piccoli, farina d'avena, secco",
+"fr": "Céréales pour tout-petits, flocons d'avoine, sèches",
+"es": "Cereal para niños pequeños, avena, seco",
+"de": "Getreidebrei für Kleinkinder, Haferflocken, trocken",
+"pt": "Cereal para crianças pequenas, aveia, seco"
+},
+"309": {
+"it": "Cereale per bambini piccoli, farina d'avena, pronto da mangiare",
+"fr": "Céréales pour tout-petits, flocons d'avoine, prêt à consommer",
+"es": "Cereal para niños pequeños, avena, listo para comer",
+"de": "Getreidebrei für Kleinkinder, Haferflocken, verzehrfertig",
+"pt": "Cereal para crianças pequenas, aveia, pronto para consumo"
+},
+"310": {
+"it": "Cereale per bambini piccoli, riso con frutta, secco",
+"fr": "Céréales pour tout-petits, riz avec fruit, sèches",
+"es": "Cereal para niños pequeños, arroz con fruta, seco",
+"de": "Getreidebrei für Kleinkinder, Reis mit Obst, trocken",
+"pt": "Cereal para crianças pequenas, arroz com fruta, seco"
+},
+"311": {
+"it": "Cereale per bambini piccoli, riso con frutta, pronto da mangiare",
+"fr": "Céréales pour tout-petits, riz avec fruit, prêt à consommer",
+"es": "Cereal para niños pequeños, arroz con fruta, listo para comer",
+"de": "Getreidebrei für Kleinkinder, Reis mit Obst, verzehrfertig",
+"pt": "Cereal para crianças pequenas, arroz com fruta, pronto para consumo"
+},
+"312": {
+"it": "Cereale per bambini piccoli, riso, secco",
+"fr": "Céréales pour tout-petits, riz, sèches",
+"es": "Cereal para niños pequeños, arroz, seco",
+"de": "Getreidebrei für Kleinkinder, Reis, trocken",
+"pt": "Cereal para crianças pequenas, arroz, seco"
+},
+"313": {
+"it": "Cereale per bambini piccoli, riso, pronto da mangiare",
+"fr": "Céréales pour tout-petits, riz, prêt à consommer",
+"es": "Cereal para niños pequeños, arroz, listo para comer",
+"de": "Getreidebrei für Kleinkinder, Reis, verzehrfertig",
+"pt": "Cereal para crianças pequenas, arroz, pronto para consumo"
+},
+"314": {
+"it": "Pollo per bambini piccoli",
+"fr": "Poulet pour tout-petits",
+"es": "Pollo para niños pequeños",
+"de": "Huhn für Kleinkinder",
+"pt": "Frango para crianças pequenas"
+},
+"315": {
+"it": "Biscotto per bambini piccoli",
+"fr": "Biscuit pour tout-petits",
+"es": "Galleta para niños pequeños",
+"de": "Keks für Kleinkinder",
+"pt": "Biscoito para crianças pequenas"
+},
+"316": {
+"it": "Cracker per bambini piccoli",
+"fr": "Crackers pour tout-petits",
+"es": "Crackers para niños pequeños",
+"de": "Cracker für Kleinkinder",
+"pt": "Biscoitos salgados tipo cracker para crianças pequenas"
+},
+"317": {
+"it": "Snack croccanti per bambini piccoli",
+"fr": "Croustillants pour tout-petits",
+"es": "Snacks crujientes para niños pequeños",
+"de": "Knusperchips für Kleinkinder",
+"pt": "Snacks crocantes para crianças pequenas"
+},
+"318": {
+"it": "Alimento per bambini piccoli, non specificato",
+"fr": "Aliment pour tout-petits, non spécifié",
+"es": "Alimento para niños pequeños, no especificado",
+"de": "Lebensmittel für Kleinkinder, nicht näher bezeichnet",
+"pt": "Alimento para crianças pequenas, não especificado"
+},
+"319": {
+"it": "Frutta e carne per bambini piccoli",
+"fr": "Fruit et viande pour tout-petits",
+"es": "Fruta y carne para niños pequeños",
+"de": "Obst und Fleisch für Kleinkinder",
+"pt": "Fruta e carne para crianças pequenas"
+},
+"320": {
+"it": "Frutta e verdure per bambini piccoli, fase 2",
+"fr": "Fruit et légumes pour tout-petits, étape 2",
+"es": "Fruta y verduras para niños pequeños, etapa 2",
+"de": "Obst und Gemüse für Kleinkinder, Stufe 2",
+"pt": "Fruta e legumes para crianças pequenas, fase 2"
+},
+"321": {
+"it": "Frutta e verdure per bambini piccoli, fase 3",
+"fr": "Fruit et légumes pour tout-petits, étape 3",
+"es": "Fruta y verduras para niños pequeños, etapa 3",
+"de": "Obst und Gemüse für Kleinkinder, Stufe 3",
+"pt": "Fruta e legumes para crianças pequenas, fase 3"
+},
+"322": {
+"it": "Frutta e verdure per bambini piccoli, con cereali",
+"fr": "Fruit et légumes pour tout-petits, avec céréales",
+"es": "Fruta y verduras para niños pequeños, con cereales",
+"de": "Obst und Gemüse für Kleinkinder, mit Getreide",
+"pt": "Fruta e legumes para crianças pequenas, com cereais"
+},
+"323": {
+"it": "Frutta e verdure per bambini piccoli, con yogurt",
+"fr": "Fruit et légumes pour tout-petits, avec yaourt",
+"es": "Fruta y verduras para niños pequeños, con yogur",
+"de": "Obst und Gemüse für Kleinkinder, mit Joghurt",
+"pt": "Fruta e legumes para crianças pequenas, com iogurte"
+},
+"324": {
+"it": "Frutta per bambini piccoli, non specificato",
+"fr": "Fruit pour tout-petits, non spécifié",
+"es": "Fruta para niños pequeños, no especificado",
+"de": "Obst für Kleinkinder, nicht näher bezeichnet",
+"pt": "Fruta para crianças pequenas, não especificado"
+},
+"325": {
+"it": "Frutta, verdure e carne per bambini piccoli",
+"fr": "Fruits, légumes et viande pour tout-petits",
+"es": "Fruta, verduras y carne para niños pequeños",
+"de": "Obst, Gemüse und Fleisch für Kleinkinder",
+"pt": "Fruta, legumes e carne para crianças pequenas"
+},
+"326": {
+"it": "Frutta per bambini piccoli, con cereali",
+"fr": "Fruit pour tout-petits, avec céréales",
+"es": "Fruta para niños pequeños, con cereales",
+"de": "Obst für Kleinkinder, mit Getreide",
+"pt": "Fruta para crianças pequenas, com cereais"
+},
+"327": {
+"it": "Frutta per bambini piccoli, con yogurt",
+"fr": "Fruit pour tout-petits, avec yaourt",
+"es": "Fruta para niños pequeños, con yogur",
+"de": "Obst für Kleinkinder, mit Joghurt",
+"pt": "Fruta para crianças pequenas, com iogurte"
+},
+"328": {
+"it": "Fagiolini per bambini piccoli, fase 1",
+"fr": "Haricots verts pour tout-petits, étape 1",
+"es": "Judías verdes para niños pequeños, etapa 1",
+"de": "Grüne Bohnen für Kleinkinder, Stufe 1",
+"pt": "Vagem para crianças pequenas, fase 1"
+},
+"329": {
+"it": "Fagiolini per bambini piccoli, fase 2",
+"fr": "Haricots verts pour tout-petits, étape 2",
+"es": "Judías verdes para niños pequeños, etapa 2",
+"de": "Grüne Bohnen für Kleinkinder, Stufe 2",
+"pt": "Vagem para crianças pequenas, fase 2"
+},
+"330": {
+"it": "Prosciutto per bambini piccoli",
+"fr": "Jambon pour tout-petits",
+"es": "Jamón para niños pequeños",
+"de": "Schinken für Kleinkinder",
+"pt": "Presunto para crianças pequenas"
+},
+"331": {
+"it": "Succo per bambini piccoli, mela",
+"fr": "Jus pour tout-petits, pomme",
+"es": "Zumo para niños pequeños, manzana",
+"de": "Saft für Kleinkinder, Apfel",
+"pt": "Suco para crianças pequenas, maçã"
+},
+"332": {
+"it": "Succo per bambini piccoli, frutta e verdura",
+"fr": "Jus pour tout-petits, fruit et légume",
+"es": "Zumo para niños pequeños, fruta y verdura",
+"de": "Saft für Kleinkinder, Obst und Gemüse",
+"pt": "Suco para crianças pequenas, fruta e legume"
+},
+"333": {
+"it": "Succo per bambini piccoli, frutta e miscela di yogurt",
+"fr": "Jus pour tout-petits, fruit et mélange de yaourt",
+"es": "Zumo para niños pequeños, fruta y mezcla de yogur",
+"de": "Saft für Kleinkinder, Obst und Joghurtmischung",
+"pt": "Suco para crianças pequenas, fruta e mistura de iogurte"
+},
+"334": {
+"it": "Succo per bambini piccoli, uva",
+"fr": "Jus pour tout-petits, raisin",
+"es": "Zumo para niños pequeños, uva",
+"de": "Saft für Kleinkinder, Traube",
+"pt": "Suco para crianças pequenas, uva"
+},
+"335": {
+"it": "Succo per bambini piccoli, frutta mista",
+"fr": "Jus pour tout-petits, fruits mélangés",
+"es": "Zumo para niños pequeños, fruta mixta",
+"de": "Saft für Kleinkinder, gemischtes Obst",
+"pt": "Suco para crianças pequenas, frutas mistas"
+},
+"336": {
+"it": "Succo per bambini piccoli, non specificato",
+"fr": "Jus pour tout-petits, non spécifié",
+"es": "Zumo para niños pequeños, no especificado",
+"de": "Saft für Kleinkinder, nicht näher bezeichnet",
+"pt": "Suco para crianças pequenas, não especificado"
+},
+"337": {
+"it": "Succo per bambini piccoli, pera",
+"fr": "Jus pour tout-petits, poire",
+"es": "Zumo para niños pequeños, pera",
+"de": "Saft für Kleinkinder, Birne",
+"pt": "Suco para crianças pequenas, pera"
+},
+"338": {
+"it": "Manghi per bambini piccoli",
+"fr": "Mangues pour tout-petits",
+"es": "Mangos para niños pequeños",
+"de": "Mangos für Kleinkinder",
+"pt": "Mangas para crianças pequenas"
+},
+"339": {
+"it": "Bastoncino di carne per bambini piccoli",
+"fr": "Bâtonnet de viande pour tout-petits",
+"es": "Palito de carne para niños pequeños",
+"de": "Fleischstick für Kleinkinder",
+"pt": "Palito de carne para crianças pequenas"
+},
+"340": {
+"it": "Carne per bambini piccoli, non specificato",
+"fr": "Viande pour tout-petits, non spécifié",
+"es": "Carne para niños pequeños, no especificado",
+"de": "Fleisch für Kleinkinder, nicht näher bezeichnet",
+"pt": "Carne para crianças pequenas, não especificado"
+},
+"341": {
+"it": "Frutti multipli per bambini piccoli, fase 2",
+"fr": "Fruits multiples pour tout-petits, étape 2",
+"es": "Frutas variadas para niños pequeños, etapa 2",
+"de": "Mehrere Früchte für Kleinkinder, Stufe 2",
+"pt": "Várias frutas para crianças pequenas, fase 2"
+},
+"342": {
+"it": "Frutti multipli per bambini piccoli, fase 3",
+"fr": "Fruits multiples pour tout-petits, étape 3",
+"es": "Frutas variadas para niños pequeños, etapa 3",
+"de": "Mehrere Früchte für Kleinkinder, Stufe 3",
+"pt": "Várias frutas para crianças pequenas, fase 3"
+},
+"343": {
+"it": "Verdure multiple per bambini piccoli, fase 2",
+"fr": "Légumes multiples pour tout-petits, étape 2",
+"es": "Verduras variadas para niños pequeños, etapa 2",
+"de": "Mehrere Gemüsesorten für Kleinkinder, Stufe 2",
+"pt": "Vários legumes para crianças pequenas, fase 2"
+},
+"344": {
+"it": "Verdure multiple per bambini piccoli, fase 3",
+"fr": "Légumes multiples pour tout-petits, étape 3",
+"es": "Verduras variadas para niños pequeños, etapa 3",
+"de": "Mehrere Gemüsesorten für Kleinkinder, Stufe 3",
+"pt": "Vários legumes para crianças pequenas, fase 3"
+},
+"345": {
+"it": "Pesche per bambini piccoli, fase 1",
+"fr": "Pêches pour tout-petits, étape 1",
+"es": "Melocotones para niños pequeños, etapa 1",
+"de": "Pfirsiche für Kleinkinder, Stufe 1",
+"pt": "Pêssegos para crianças pequenas, fase 1"
+},
+"346": {
+"it": "Pesche per bambini piccoli, fase 2",
+"fr": "Pêches pour tout-petits, étape 2",
+"es": "Melocotones para niños pequeños, etapa 2",
+"de": "Pfirsiche für Kleinkinder, Stufe 2",
+"pt": "Pêssegos para crianças pequenas, fase 2"
+},
+"347": {
+"it": "Pere per bambini piccoli, fase 1",
+"fr": "Poires pour tout-petits, étape 1",
+"es": "Peras para niños pequeños, etapa 1",
+"de": "Birnen für Kleinkinder, Stufe 1",
+"pt": "Peras para crianças pequenas, fase 1"
+},
+"348": {
+"it": "Pere per bambini piccoli, fase 2",
+"fr": "Poires pour tout-petits, étape 2",
+"es": "Peras para niños pequeños, etapa 2",
+"de": "Birnen für Kleinkinder, Stufe 2",
+"pt": "Peras para crianças pequenas, fase 2"
+},
+"349": {
+"it": "Piselli per bambini piccoli, fase 1",
+"fr": "Petits pois pour tout-petits, étape 1",
+"es": "Guisantes para niños pequeños, etapa 1",
+"de": "Erbsen für Kleinkinder, Stufe 1",
+"pt": "Ervilhas para crianças pequenas, fase 1"
+},
+"350": {
+"it": "Piselli per bambini piccoli, fase 2",
+"fr": "Petits pois pour tout-petits, étape 2",
+"es": "Guisantes para niños pequeños, etapa 2",
+"de": "Erbsen für Kleinkinder, Stufe 2",
+"pt": "Ervilhas para crianças pequenas, fase 2"
+},
+"351": {
+"it": "Prugne secche per bambini piccoli",
+"fr": "Pruneaux pour tout-petits",
+"es": "Ciruelas pasas para niños pequeños",
+"de": "Backpflaumen für Kleinkinder",
+"pt": "Ameixas secas para crianças pequenas"
+},
+"352": {
+"it": "Budino per bambini piccoli",
+"fr": "Pudding pour tout-petits",
+"es": "Pudin para niños pequeños",
+"de": "Pudding für Kleinkinder",
+"pt": "Pudim para crianças pequenas"
+},
+"353": {
+"it": "Soffiati per bambini piccoli, frutta",
+"fr": "Soufflés pour tout-petits, fruit",
+"es": "Snacks inflados para niños pequeños, fruta",
+"de": "Puffs für Kleinkinder, Obst",
+"pt": "Salgadinhos de milho para crianças pequenas, fruta"
+},
+"354": {
+"it": "Soffiati per bambini piccoli, verdura",
+"fr": "Soufflés pour tout-petits, légume",
+"es": "Snacks inflados para niños pequeños, verdura",
+"de": "Puffs für Kleinkinder, Gemüse",
+"pt": "Salgadinhos de milho para crianças pequenas, legume"
+},
+"355": {
+"it": "Snack per bambini piccoli, non specificato",
+"fr": "Snack pour tout-petits, non spécifié",
+"es": "Snack para niños pequeños, no especificado",
+"de": "Snack für Kleinkinder, nicht näher bezeichnet",
+"pt": "Lanche para crianças pequenas, não especificado"
+},
+"356": {
+"it": "Zucca per bambini piccoli, fase 1",
+"fr": "Courge pour tout-petits, étape 1",
+"es": "Calabaza para niños pequeños, etapa 1",
+"de": "Kürbis für Kleinkinder, Stufe 1",
+"pt": "Abóbora para crianças pequenas, fase 1"
+},
+"357": {
+"it": "Zucca per bambini piccoli, fase 2",
+"fr": "Courge pour tout-petits, étape 2",
+"es": "Calabaza para niños pequeños, etapa 2",
+"de": "Kürbis für Kleinkinder, Stufe 2",
+"pt": "Abóbora para crianças pequenas, fase 2"
+},
+"358": {
+"it": "Patate dolci per bambini piccoli, fase 1",
+"fr": "Patates douces pour tout-petits, étape 1",
+"es": "Batatas para niños pequeños, etapa 1",
+"de": "Süßkartoffeln für Kleinkinder, Stufe 1",
+"pt": "Batata-doce para crianças pequenas, fase 1"
+},
+"359": {
+"it": "Patate dolci per bambini piccoli, fase 2",
+"fr": "Patates douces pour tout-petits, étape 2",
+"es": "Batatas para niños pequeños, etapa 2",
+"de": "Süßkartoffeln für Kleinkinder, Stufe 2",
+"pt": "Batata-doce para crianças pequenas, fase 2"
+},
+"360": {
+"it": "Tacchino per bambini piccoli",
+"fr": "Dinde pour tout-petits",
+"es": "Pavo para niños pequeños",
+"de": "Pute für Kleinkinder",
+"pt": "Peru para crianças pequenas"
+},
+"361": {
+"it": "Verdura per bambini piccoli, non specificato",
+"fr": "Légume pour tout-petits, non spécifié",
+"es": "Verdura para niños pequeños, no especificado",
+"de": "Gemüse für Kleinkinder, nicht näher bezeichnet",
+"pt": "Legume para crianças pequenas, não especificado"
+},
+"362": {
+"it": "Verdure e carne per bambini piccoli",
+"fr": "Légumes et viande pour tout-petits",
+"es": "Verduras y carne para niños pequeños",
+"de": "Gemüse und Fleisch für Kleinkinder",
+"pt": "Legumes e carne para crianças pequenas"
+},
+"363": {
+"it": "Verdure per bambini piccoli, con cereali",
+"fr": "Légumes pour tout-petits, avec céréales",
+"es": "Verduras para niños pequeños, con cereales",
+"de": "Gemüse für Kleinkinder, mit Getreide",
+"pt": "Legumes para crianças pequenas, com cereais"
+},
+"364": {
+"it": "Rotelle per bambini piccoli",
+"fr": "Roues pour tout-petits",
+"es": "Ruedas para niños pequeños",
+"de": "Räder für Kleinkinder",
+"pt": "Rodinhas para crianças pequenas"
+},
+"365": {
+"it": "Yogurt liofilizzato (melts) per bambini piccoli",
+"fr": "Yaourt fondant (melts) pour tout-petits",
+"es": "Yogur liofilizado (melts) para niños pequeños",
+"de": "Joghurt-Melts für Kleinkinder",
+"pt": "Iogurte desidratado (melts) para crianças pequenas"
+},
+"366": {
+"it": "Yogurt per bambini piccoli, naturale",
+"fr": "Yaourt pour tout-petits, nature",
+"es": "Yogur para niños pequeños, natural",
+"de": "Joghurt für Kleinkinder, natur",
+"pt": "Iogurte para crianças pequenas, natural"
+},
+"367": {
+"it": "Yogurt per bambini piccoli, con frutta",
+"fr": "Yaourt pour tout-petits, avec fruits",
+"es": "Yogur para niños pequeños, con fruta",
+"de": "Joghurt für Kleinkinder, mit Obst",
+"pt": "Iogurte para crianças pequenas, com frutas"
+},
+"368": {
+"it": "Alimento per l'infanzia, dessert di mele allo yogurt, omogeneizzato",
+"fr": "Aliment pour bébé, dessert pomme-yaourt, mixé",
+"es": "Alimento para bebés, postre de manzana y yogur, colado",
+"de": "Babynahrung, Apfel-Joghurt-Dessert, passiert",
+"pt": "Alimento infantil, sobremesa de maçã com iogurte, coado"
+},
+"369": {
+"it": "Alimento per l'infanzia, succo di mela e banana",
+"fr": "Aliment pour bébé, jus de pomme et banane",
+"es": "Alimento para bebés, zumo de manzana y plátano",
+"de": "Babynahrung, Apfel-Bananen-Saft",
+"pt": "Alimento infantil, suco de maçã e banana"
+},
+"370": {
+"it": "Alimento per l'infanzia, mele con prosciutto, omogeneizzato",
+"fr": "Aliment pour bébé, pommes avec jambon, mixé",
+"es": "Alimento para bebés, manzanas con jamón, colado",
+"de": "Babynahrung, Äpfel mit Schinken, passiert",
+"pt": "Alimento infantil, maçãs com presunto, coado"
+},
+"371": {
+"it": "Alimento per l'infanzia, mele, a cubetti, per bambini piccoli",
+"fr": "Aliment pour bébé, pommes, en dés, pour tout-petits",
+"es": "Alimento para bebés, manzanas, en dados, para niños pequeños",
+"de": "Babynahrung, Äpfel, gewürfelt, für Kleinkinder",
+"pt": "Alimento infantil, maçãs, em cubos, para crianças pequenas"
+},
+"372": {
+"it": "Alimento per l'infanzia, biscotti di riso Baby MUM MUM",
+"fr": "Aliment pour bébé, biscuits de riz Baby MUM MUM",
+"es": "Alimento para bebés, galletas de arroz Baby MUM MUM",
+"de": "Babynahrung, Reiskekse Baby MUM MUM",
+"pt": "Alimento infantil, biscoitos de arroz Baby MUM MUM"
+},
+"373": {
+"it": "Alimento per l'infanzia, prodotto da forno, snack da mangiare con le mani a base di cereali fortificati",
+"fr": "Aliment pour bébé, produit de boulangerie, snacks à manger avec les doigts à base de céréales fortifiées",
+"es": "Alimento para bebés, producto horneado, snacks para comer con la mano de cereales fortificados",
+"de": "Babynahrung, Backware, Fingerfood-Snacks aus Getreide, angereichert",
+"pt": "Alimento infantil, produto assado, snacks para comer com as mãos à base de cereais fortificados"
+},
+"374": {
+"it": "Alimento per l'infanzia, dessert di banana e mela, omogeneizzato",
+"fr": "Aliment pour bébé, dessert banane-pomme, mixé",
+"es": "Alimento para bebés, postre de plátano y manzana, colado",
+"de": "Babynahrung, Bananen-Apfel-Dessert, passiert",
+"pt": "Alimento infantil, sobremesa de banana e maçã, coado"
+},
+"375": {
+"it": "Alimento per l'infanzia, succo di banana con yogurt a basso contenuto di grassi",
+"fr": "Aliment pour bébé, jus de banane avec yaourt allégé",
+"es": "Alimento para bebés, zumo de plátano con yogur bajo en grasa",
+"de": "Babynahrung, Bananensaft mit fettarmem Joghurt",
+"pt": "Alimento infantil, suco de banana com iogurte com baixo teor de gordura"
+},
+"376": {
+"it": "Alimento per l'infanzia, banana senza tapioca, omogeneizzato",
+"fr": "Aliment pour bébé, banane sans tapioca, mixé",
+"es": "Alimento para bebés, plátano sin tapioca, colado",
+"de": "Babynahrung, Banane ohne Tapioka, passiert",
+"pt": "Alimento infantil, banana sem tapioca, coado"
+},
+"377": {
+"it": "Alimento per l'infanzia, banana con frutti di bosco misti, omogeneizzato",
+"fr": "Aliment pour bébé, banane avec baies mélangées, mixé",
+"es": "Alimento para bebés, plátano con bayas mixtas, colado",
+"de": "Babynahrung, Banane mit gemischten Beeren, passiert",
+"pt": "Alimento infantil, banana com frutas vermelhas mistas, coado"
+},
+"378": {
+"it": "Alimento per l'infanzia, bevanda, GERBER, GRADUATES, FRUIT SPLASHERS",
+"fr": "Aliment pour bébé, boisson, GERBER, GRADUATES, FRUIT SPLASHERS",
+"es": "Alimento para bebés, bebida, GERBER, GRADUATES, FRUIT SPLASHERS",
+"de": "Babynahrung, Getränk, GERBER, GRADUATES, FRUIT SPLASHERS",
+"pt": "Alimento infantil, bebida, GERBER, GRADUATES, FRUIT SPLASHERS"
+},
+"379": {
+"it": "Alimento per l'infanzia, carote e manzo, omogeneizzato",
+"fr": "Aliment pour bébé, carottes et bœuf, mixé",
+"es": "Alimento para bebés, zanahorias y vacuno, colado",
+"de": "Babynahrung, Karotten und Rind, passiert",
+"pt": "Alimento infantil, cenouras e carne bovina, coado"
+},
+"380": {
+"it": "Alimento per l'infanzia, carote, per bambini piccoli",
+"fr": "Aliment pour bébé, carottes, pour tout-petits",
+"es": "Alimento para bebés, zanahorias, para niños pequeños",
+"de": "Babynahrung, Karotten, für Kleinkinder",
+"pt": "Alimento infantil, cenouras, para crianças pequenas"
+},
+"381": {
+"it": "Alimento per l'infanzia, cereale, orzo, secco fortificato",
+"fr": "Aliment pour bébé, céréales, orge, sèches fortifiées",
+"es": "Alimento para bebés, cereal, cebada, seco fortificado",
+"de": "Babynahrung, Getreidebrei, Gerste, trocken angereichert",
+"pt": "Alimento infantil, cereal, cevada, seco fortificado"
+},
+"382": {
+"it": "Alimento per l'infanzia, cereale, orzo, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, orge, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, cebada, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Gerste, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, cevada, preparado com leite integral"
+},
+"383": {
+"it": "Alimento per l'infanzia, cereale, riso integrale, secco, istantaneo",
+"fr": "Aliment pour bébé, céréales, riz complet, sèches, instantanées",
+"es": "Alimento para bebés, cereal, arroz integral, seco, instantáneo",
+"de": "Babynahrung, Getreidebrei, Vollkornreis, trocken, Instant-",
+"pt": "Alimento infantil, cereal, arroz integral, seco, instantâneo"
+},
+"384": {
+"it": "Alimento per l'infanzia, cereale, tuorli d'uovo e pancetta, junior",
+"fr": "Aliment pour bébé, céréales, jaunes d'œuf et lard (bacon), junior",
+"es": "Alimento para bebés, cereal, yemas de huevo y beicon, junior",
+"de": "Babynahrung, Getreidebrei, Eigelb und Speck, Junior",
+"pt": "Alimento infantil, cereal, gemas de ovo e bacon, júnior"
+},
+"385": {
+"it": "Alimento per l'infanzia, cereale, ad alto contenuto proteico, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, riche en protéines, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, alto en proteínas, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, eiweißreich, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, rico em proteínas, preparado com leite integral"
+},
+"386": {
+"it": "Alimento per l'infanzia, cereale, ad alto contenuto proteico, con mela e arancia, secco",
+"fr": "Aliment pour bébé, céréales, riche en protéines, avec pomme et orange, sèches",
+"es": "Alimento para bebés, cereal, alto en proteínas, con manzana y naranja, seco",
+"de": "Babynahrung, Getreidebrei, eiweißreich, mit Apfel und Orange, trocken",
+"pt": "Alimento infantil, cereal, rico em proteínas, com maçã e laranja, seco"
+},
+"387": {
+"it": "Alimento per l'infanzia, cereale, ad alto contenuto proteico, con mela e arancia, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, riche en protéines, avec pomme et orange, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, alto en proteínas, con manzana y naranja, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, eiweißreich, mit Apfel und Orange, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, rico em proteínas, com maçã e laranja, preparado com leite integral"
+},
+"388": {
+"it": "Alimento per l'infanzia, cereale, misto, secco fortificato",
+"fr": "Aliment pour bébé, céréales, mélangées, sèches fortifiées",
+"es": "Alimento para bebés, cereal, mixto, seco fortificado",
+"de": "Babynahrung, Getreidebrei, gemischt, trocken angereichert",
+"pt": "Alimento infantil, cereal, misto, seco fortificado"
+},
+"389": {
+"it": "Alimento per l'infanzia, cereale, misto, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, mélangées, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, mixto, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, gemischt, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, misto, preparado com leite integral"
+},
+"390": {
+"it": "Alimento per l'infanzia, cereale, misto, con salsa di mele e banane, junior, fortificato",
+"fr": "Aliment pour bébé, céréales, mélangées, avec compote de pommes et bananes, junior, fortifiées",
+"es": "Alimento para bebés, cereal, mixto, con compota de manzana y plátanos, junior, fortificado",
+"de": "Babynahrung, Getreidebrei, gemischt, mit Apfelmus und Bananen, Junior, angereichert",
+"pt": "Alimento infantil, cereal, misto, com purê de maçã e bananas, júnior, fortificado"
+},
+"391": {
+"it": "Alimento per l'infanzia, cereale, misto, con salsa di mele e banane, omogeneizzato",
+"fr": "Aliment pour bébé, céréales, mélangées, avec compote de pommes et bananes, mixé",
+"es": "Alimento para bebés, cereal, mixto, con compota de manzana y plátanos, colado",
+"de": "Babynahrung, Getreidebrei, gemischt, mit Apfelmus und Bananen, passiert",
+"pt": "Alimento infantil, cereal, misto, com purê de maçã e bananas, coado"
+},
+"392": {
+"it": "Alimento per l'infanzia, cereale, misto, con banane, secco",
+"fr": "Aliment pour bébé, céréales, mélangées, avec bananes, sèches",
+"es": "Alimento para bebés, cereal, mixto, con plátanos, seco",
+"de": "Babynahrung, Getreidebrei, gemischt, mit Bananen, trocken",
+"pt": "Alimento infantil, cereal, misto, com bananas, seco"
+},
+"393": {
+"it": "Alimento per l'infanzia, cereale, misto, con banane, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, mélangées, avec bananes, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, mixto, con plátanos, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, gemischt, mit Bananen, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, misto, com bananas, preparado com leite integral"
+},
+"394": {
+"it": "Alimento per l'infanzia, cereale, misto, con miele, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, mélangées, avec miel, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, mixto, con miel, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, gemischt, mit Honig, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, misto, com mel, preparado com leite integral"
+},
+"395": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, secco fortificato",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, sèches fortifiées",
+"es": "Alimento para bebés, cereal, avena, seco fortificado",
+"de": "Babynahrung, Getreidebrei, Haferflocken, trocken angereichert",
+"pt": "Alimento infantil, cereal, aveia, seco fortificado"
+},
+"396": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, secco, GERBER, SINGLE GRAIN, fortificato",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, sèches, GERBER, SINGLE GRAIN, fortifiées",
+"es": "Alimento para bebés, cereal, avena, seco, GERBER, SINGLE GRAIN, fortificado",
+"de": "Babynahrung, Getreidebrei, Haferflocken, trocken, GERBER, SINGLE GRAIN, angereichert",
+"pt": "Alimento infantil, cereal, aveia, seco, GERBER, SINGLE GRAIN, fortificado"
+},
+"397": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, avena, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, aveia, preparado com leite integral"
+},
+"398": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, con salsa di mele e banane, junior, fortificato",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, avec compote de pommes et bananes, junior, fortifiées",
+"es": "Alimento para bebés, cereal, avena, con compota de manzana y plátanos, junior, fortificado",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Apfelmus und Bananen, Junior, angereichert",
+"pt": "Alimento infantil, cereal, aveia, com purê de maçã e bananas, júnior, fortificado"
+},
+"399": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, con salsa di mele e banane, omogeneizzato",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, avec compote de pommes et bananes, mixé",
+"es": "Alimento para bebés, cereal, avena, con compota de manzana y plátanos, colado",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Apfelmus und Bananen, passiert",
+"pt": "Alimento infantil, cereal, aveia, com purê de maçã e bananas, coado"
+},
+"400": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, con banane, secco",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, avec bananes, sèches",
+"es": "Alimento para bebés, cereal, avena, con plátanos, seco",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Bananen, trocken",
+"pt": "Alimento infantil, cereal, aveia, com bananas, seco"
+},
+"401": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, con banane, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, avec bananes, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, avena, con plátanos, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Bananen, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, aveia, com bananas, preparado com leite integral"
+},
+"402": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, con miele, secco",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, avec miel, sèches",
+"es": "Alimento para bebés, cereal, avena, con miel, seco",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Honig, trocken",
+"pt": "Alimento infantil, cereal, aveia, com mel, seco"
+},
+"403": {
+"it": "Alimento per l'infanzia, cereale, farina d'avena, con miele, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, flocons d'avoine, avec miel, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, avena, con miel, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Haferflocken, mit Honig, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, aveia, com mel, preparado com leite integral"
+},
+"404": {
+"it": "Alimento per l'infanzia, cereale, riso con pere e mela, secco, istantaneo fortificato",
+"fr": "Aliment pour bébé, céréales, riz avec poires et pomme, sèches, instantanées fortifiées",
+"es": "Alimento para bebés, cereal, arroz con peras y manzana, seco, instantáneo fortificado",
+"de": "Babynahrung, Getreidebrei, Reis mit Birnen und Apfel, trocken, Instant- angereichert",
+"pt": "Alimento infantil, cereal, arroz com peras e maçã, seco, instantâneo fortificado"
+},
+"405": {
+"it": "Alimento per l'infanzia, cereale, riso, secco fortificato",
+"fr": "Aliment pour bébé, céréales, riz, sèches fortifiées",
+"es": "Alimento para bebés, cereal, arroz, seco fortificado",
+"de": "Babynahrung, Getreidebrei, Reis, trocken angereichert",
+"pt": "Alimento infantil, cereal, arroz, seco fortificado"
+},
+"406": {
+"it": "Alimento per l'infanzia, cereale, riso, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, riz, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, arroz, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Reis, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, arroz, preparado com leite integral"
+},
+"407": {
+"it": "Alimento per l'infanzia, cereale, riso, con salsa di mele e banane, omogeneizzato",
+"fr": "Aliment pour bébé, céréales, riz, avec compote de pommes et bananes, mixé",
+"es": "Alimento para bebés, cereal, arroz, con compota de manzana y plátanos, colado",
+"de": "Babynahrung, Getreidebrei, Reis, mit Apfelmus und Bananen, passiert",
+"pt": "Alimento infantil, cereal, arroz, com purê de maçã e bananas, coado"
+},
+"408": {
+"it": "Alimento per l'infanzia, cereale, riso, con banane, secco",
+"fr": "Aliment pour bébé, céréales, riz, avec bananes, sèches",
+"es": "Alimento para bebés, cereal, arroz, con plátanos, seco",
+"de": "Babynahrung, Getreidebrei, Reis, mit Bananen, trocken",
+"pt": "Alimento infantil, cereal, arroz, com bananas, seco"
+},
+"409": {
+"it": "Alimento per l'infanzia, cereale, riso, con banane, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, riz, avec bananes, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, arroz, con plátanos, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Reis, mit Bananen, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, arroz, com bananas, preparado com leite integral"
+},
+"410": {
+"it": "Alimento per l'infanzia, cereale, riso, con miele, preparato con latte intero",
+"fr": "Aliment pour bébé, céréales, riz, avec miel, préparées avec du lait entier",
+"es": "Alimento para bebés, cereal, arroz, con miel, preparado con leche entera",
+"de": "Babynahrung, Getreidebrei, Reis, mit Honig, mit Vollmilch zubereitet",
+"pt": "Alimento infantil, cereal, arroz, com mel, preparado com leite integral"
+},
+"411": {
+"it": "Alimento per l'infanzia, cereale, grano integrale, con mele, secco fortificato",
+"fr": "Aliment pour bébé, céréales, blé complet, avec pommes, sèches fortifiées",
+"es": "Alimento para bebés, cereal, trigo integral, con manzanas, seco fortificado",
+"de": "Babynahrung, Getreidebrei, Vollkornweizen, mit Äpfeln, trocken angereichert",
+"pt": "Alimento infantil, cereal, trigo integral, com maçãs, seco fortificado"
+},
+"412": {
+"it": "Alimento per l'infanzia, cereale, con tuorli d'uovo, junior",
+"fr": "Aliment pour bébé, céréales, avec jaunes d'œuf, junior",
+"es": "Alimento para bebés, cereal, con yemas de huevo, junior",
+"de": "Babynahrung, Getreidebrei, mit Eigelb, Junior",
+"pt": "Alimento infantil, cereal, com gemas de ovo, júnior"
+},
+"413": {
+"it": "Alimento per l'infanzia, cereale, con tuorli d'uovo, omogeneizzato",
+"fr": "Aliment pour bébé, céréales, avec jaunes d'œuf, mixé",
+"es": "Alimento para bebés, cereal, con yemas de huevo, colado",
+"de": "Babynahrung, Getreidebrei, mit Eigelb, passiert",
+"pt": "Alimento infantil, cereal, com gemas de ovo, coado"
+},
+"414": {
+"it": "Alimento per l'infanzia, cereale, con uova, omogeneizzato",
+"fr": "Aliment pour bébé, céréales, avec œufs, mixé",
+"es": "Alimento para bebés, cereal, con huevos, colado",
+"de": "Babynahrung, Getreidebrei, mit Eiern, passiert",
+"pt": "Alimento infantil, cereal, com ovos, coado"
+},
+"415": {
+"it": "Alimento per l'infanzia, cobbler di ciliegie, junior",
+"fr": "Aliment pour bébé, cobbler aux cerises, junior",
+"es": "Alimento para bebés, cobbler de cereza, junior",
+"de": "Babynahrung, Kirsch-Cobbler, Junior",
+"pt": "Alimento infantil, cobbler de cereja, júnior"
+},
+"416": {
+"it": "Alimento per l'infanzia, biscotto, per bambini, frutta",
+"fr": "Aliment pour bébé, biscuit, pour bébé, fruit",
+"es": "Alimento para bebés, galleta, para bebés, fruta",
+"de": "Babynahrung, Keks, für Babys, Obst",
+"pt": "Alimento infantil, biscoito, para bebês, fruta"
+},
+"417": {
+"it": "Alimento per l'infanzia, biscotti",
+"fr": "Aliment pour bébé, biscuits",
+"es": "Alimento para bebés, galletas",
+"de": "Babynahrung, Kekse",
+"pt": "Alimento infantil, biscoitos"
+},
+"418": {
+"it": "Alimento per l'infanzia, biscotti, arrow-root",
+"fr": "Aliment pour bébé, biscuits, arrow-root",
+"es": "Alimento para bebés, galletas, arrurruz",
+"de": "Babynahrung, Kekse, Pfeilwurz",
+"pt": "Alimento infantil, biscoitos, araruta"
+},
+"419": {
+"it": "Alimento per l'infanzia, mais e patate dolci, omogeneizzato",
+"fr": "Aliment pour bébé, maïs et patates douces, mixé",
+"es": "Alimento para bebés, maíz y batatas, colado",
+"de": "Babynahrung, Mais und Süßkartoffeln, passiert",
+"pt": "Alimento infantil, milho e batata-doce, coado"
+},
+"420": {
+"it": "Alimento per l'infanzia, cracker, verdura",
+"fr": "Aliment pour bébé, crackers, légume",
+"es": "Alimento para bebés, crackers, verdura",
+"de": "Babynahrung, Cracker, Gemüse",
+"pt": "Alimento infantil, biscoitos salgados tipo cracker, legume"
+},
+"421": {
+"it": "Alimento per l'infanzia, dessert, budino alla banana, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, pudding à la banane, mixé",
+"es": "Alimento para bebés, postre, pudin de plátano, colado",
+"de": "Babynahrung, Dessert, Bananenpudding, passiert",
+"pt": "Alimento infantil, sobremesa, pudim de banana, coado"
+},
+"422": {
+"it": "Alimento per l'infanzia, dessert, yogurt alla banana, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, yaourt à la banane, mixé",
+"es": "Alimento para bebés, postre, yogur de plátano, colado",
+"de": "Babynahrung, Dessert, Bananenjoghurt, passiert",
+"pt": "Alimento infantil, sobremesa, iogurte de banana, coado"
+},
+"423": {
+"it": "Alimento per l'infanzia, dessert, yogurt al mirtillo, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, yaourt à la myrtille, mixé",
+"es": "Alimento para bebés, postre, yogur de arándano, colado",
+"de": "Babynahrung, Dessert, Heidelbeerjoghurt, passiert",
+"pt": "Alimento infantil, sobremesa, iogurte de mirtilo, coado"
+},
+"424": {
+"it": "Alimento per l'infanzia, dessert, budino ciliegia e vaniglia, junior",
+"fr": "Aliment pour bébé, dessert, pudding cerise-vanille, junior",
+"es": "Alimento para bebés, postre, pudin de cereza y vainilla, junior",
+"de": "Babynahrung, Dessert, Kirsch-Vanille-Pudding, Junior",
+"pt": "Alimento infantil, sobremesa, pudim de cereja e baunilha, júnior"
+},
+"425": {
+"it": "Alimento per l'infanzia, dessert, budino ciliegia e vaniglia, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, pudding cerise-vanille, mixé",
+"es": "Alimento para bebés, postre, pudin de cereza y vainilla, colado",
+"de": "Babynahrung, Dessert, Kirsch-Vanille-Pudding, passiert",
+"pt": "Alimento infantil, sobremesa, pudim de cereja e baunilha, coado"
+},
+"426": {
+"it": "Alimento per l'infanzia, dessert, budino alla crema, vaniglia, junior",
+"fr": "Aliment pour bébé, dessert, pudding à la crème anglaise, vanille, junior",
+"es": "Alimento para bebés, postre, pudin de natillas, vainilla, junior",
+"de": "Babynahrung, Dessert, Vanillepudding, Vanille, Junior",
+"pt": "Alimento infantil, sobremesa, pudim de leite, baunilha, júnior"
+},
+"427": {
+"it": "Alimento per l'infanzia, dessert, budino alla crema, vaniglia, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, pudding à la crème anglaise, vanille, mixé",
+"es": "Alimento para bebés, postre, pudin de natillas, vainilla, colado",
+"de": "Babynahrung, Dessert, Vanillepudding, Vanille, passiert",
+"pt": "Alimento infantil, sobremesa, pudim de leite, baunilha, coado"
+},
+"428": {
+"it": "Alimento per l'infanzia, dessert, torta di mele olandese, junior",
+"fr": "Aliment pour bébé, dessert, tarte aux pommes à la hollandaise, junior",
+"es": "Alimento para bebés, postre, tarta de manzana holandesa, junior",
+"de": "Babynahrung, Dessert, holländischer Apfelkuchen, Junior",
+"pt": "Alimento infantil, sobremesa, torta de maçã holandesa, júnior"
+},
+"429": {
+"it": "Alimento per l'infanzia, dessert, torta di mele olandese, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, tarte aux pommes à la hollandaise, mixé",
+"es": "Alimento para bebés, postre, tarta de manzana holandesa, colado",
+"de": "Babynahrung, Dessert, holländischer Apfelkuchen, passiert",
+"pt": "Alimento infantil, sobremesa, torta de maçã holandesa, coado"
+},
+"430": {
+"it": "Alimento per l'infanzia, dessert, dessert di frutta, senza acido ascorbico, junior",
+"fr": "Aliment pour bébé, dessert, dessert de fruits, sans acide ascorbique, junior",
+"es": "Alimento para bebés, postre, postre de fruta, sin ácido ascórbico, junior",
+"de": "Babynahrung, Dessert, Fruchtdessert, ohne Ascorbinsäure, Junior",
+"pt": "Alimento infantil, sobremesa, sobremesa de fruta, sem ácido ascórbico, júnior"
+},
+"431": {
+"it": "Alimento per l'infanzia, dessert, dessert di frutta, senza acido ascorbico, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, dessert de fruits, sans acide ascorbique, mixé",
+"es": "Alimento para bebés, postre, postre de fruta, sin ácido ascórbico, colado",
+"de": "Babynahrung, Dessert, Fruchtdessert, ohne Ascorbinsäure, passiert",
+"pt": "Alimento infantil, sobremesa, sobremesa de fruta, sem ácido ascórbico, coado"
+},
+"432": {
+"it": "Alimento per l'infanzia, dessert, budino di frutta, arancia, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, pudding de fruits, orange, mixé",
+"es": "Alimento para bebés, postre, pudin de fruta, naranja, colado",
+"de": "Babynahrung, Dessert, Fruchtpudding, Orange, passiert",
+"pt": "Alimento infantil, sobremesa, pudim de frutas, laranja, coado"
+},
+"433": {
+"it": "Alimento per l'infanzia, dessert, budino di frutta, ananas, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, pudding de fruits, ananas, mixé",
+"es": "Alimento para bebés, postre, pudin de fruta, piña, colado",
+"de": "Babynahrung, Dessert, Fruchtpudding, Ananas, passiert",
+"pt": "Alimento infantil, sobremesa, pudim de frutas, abacaxi, coado"
+},
+"434": {
+"it": "Alimento per l'infanzia, dessert, cobbler di pesche, junior",
+"fr": "Aliment pour bébé, dessert, cobbler aux pêches, junior",
+"es": "Alimento para bebés, postre, cobbler de melocotón, junior",
+"de": "Babynahrung, Dessert, Pfirsich-Cobbler, Junior",
+"pt": "Alimento infantil, sobremesa, cobbler de pêssego, júnior"
+},
+"435": {
+"it": "Alimento per l'infanzia, dessert, cobbler di pesche, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, cobbler aux pêches, mixé",
+"es": "Alimento para bebés, postre, cobbler de melocotón, colado",
+"de": "Babynahrung, Dessert, Pfirsich-Cobbler, passiert",
+"pt": "Alimento infantil, sobremesa, cobbler de pêssego, coado"
+},
+"436": {
+"it": "Alimento per l'infanzia, dessert, pesca Melba, junior",
+"fr": "Aliment pour bébé, dessert, pêche Melba, junior",
+"es": "Alimento para bebés, postre, melocotón Melba, junior",
+"de": "Babynahrung, Dessert, Pfirsich Melba, Junior",
+"pt": "Alimento infantil, sobremesa, pêssego Melba, júnior"
+},
+"437": {
+"it": "Alimento per l'infanzia, dessert, pesca Melba, omogeneizzato",
+"fr": "Aliment pour bébé, dessert, pêche Melba, mixé",
+"es": "Alimento para bebés, postre, melocotón Melba, colado",
+"de": "Babynahrung, Dessert, Pfirsich Melba, passiert",
+"pt": "Alimento infantil, sobremesa, pêssego Melba, coado"
+},
+"438": {
+"it": "Alimento per l'infanzia, dessert, yogurt alla pesca",
+"fr": "Aliment pour bébé, dessert, yaourt à la pêche",
+"es": "Alimento para bebés, postre, yogur de melocotón",
+"de": "Babynahrung, Dessert, Pfirsichjoghurt",
+"pt": "Alimento infantil, sobremesa, iogurte de pêssego"
+},
+"439": {
+"it": "Alimento per l'infanzia, dessert, frutta tropicale, junior",
+"fr": "Aliment pour bébé, dessert, fruits tropicaux, junior",
+"es": "Alimento para bebés, postre, fruta tropical, junior",
+"de": "Babynahrung, Dessert, tropische Früchte, Junior",
+"pt": "Alimento infantil, sobremesa, frutas tropicais, júnior"
+},
+"440": {
+"it": "Alimento per l'infanzia, cena, mele e pollo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, pommes et poulet, mixé",
+"es": "Alimento para bebés, cena, manzanas y pollo, colado",
+"de": "Babynahrung, Abendessen, Äpfel und Huhn, passiert",
+"pt": "Alimento infantil, jantar, maçãs e frango, coado"
+},
+"441": {
+"it": "Alimento per l'infanzia, cena, manzo e riso, per bambini piccoli",
+"fr": "Aliment pour bébé, dîner, bœuf et riz, pour tout-petits",
+"es": "Alimento para bebés, cena, vacuno y arroz, para niños pequeños",
+"de": "Babynahrung, Abendessen, Rind und Reis, für Kleinkinder",
+"pt": "Alimento infantil, jantar, carne bovina e arroz, para crianças pequenas"
+},
+"442": {
+"it": "Alimento per l'infanzia, cena, lasagne di manzo, per bambini piccoli",
+"fr": "Aliment pour bébé, dîner, lasagnes au bœuf, pour tout-petits",
+"es": "Alimento para bebés, cena, lasaña de vacuno, para niños pequeños",
+"de": "Babynahrung, Abendessen, Rindfleischlasagne, für Kleinkinder",
+"pt": "Alimento infantil, jantar, lasanha de carne bovina, para crianças pequenas"
+},
+"443": {
+"it": "Alimento per l'infanzia, cena, manzo e tagliatelle, junior",
+"fr": "Aliment pour bébé, dîner, bœuf et nouilles, junior",
+"es": "Alimento para bebés, cena, vacuno con fideos, junior",
+"de": "Babynahrung, Abendessen, Rindfleisch mit Nudeln, Junior",
+"pt": "Alimento infantil, jantar, carne bovina com macarrão, júnior"
+},
+"444": {
+"it": "Alimento per l'infanzia, cena, manzo e tagliatelle, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, bœuf et nouilles, mixé",
+"es": "Alimento para bebés, cena, vacuno con fideos, colado",
+"de": "Babynahrung, Abendessen, Rindfleisch mit Nudeln, passiert",
+"pt": "Alimento infantil, jantar, carne bovina com macarrão, coado"
+},
+"445": {
+"it": "Alimento per l'infanzia, cena, manzo con verdure",
+"fr": "Aliment pour bébé, dîner, bœuf avec légumes",
+"es": "Alimento para bebés, cena, vacuno con verduras",
+"de": "Babynahrung, Abendessen, Rind mit Gemüse",
+"pt": "Alimento infantil, jantar, carne bovina com legumes"
+},
+"446": {
+"it": "Alimento per l'infanzia, cena, broccoli e pollo, junior",
+"fr": "Aliment pour bébé, dîner, brocoli et poulet, junior",
+"es": "Alimento para bebés, cena, brócoli y pollo, junior",
+"de": "Babynahrung, Abendessen, Brokkoli und Huhn, Junior",
+"pt": "Alimento infantil, jantar, brócolis e frango, júnior"
+},
+"447": {
+"it": "Alimento per l'infanzia, cena, pollo e riso",
+"fr": "Aliment pour bébé, dîner, poulet et riz",
+"es": "Alimento para bebés, cena, pollo y arroz",
+"de": "Babynahrung, Abendessen, Huhn und Reis",
+"pt": "Alimento infantil, jantar, frango e arroz"
+},
+"448": {
+"it": "Alimento per l'infanzia, cena, pollo e tagliatelle, junior",
+"fr": "Aliment pour bébé, dîner, poulet et nouilles, junior",
+"es": "Alimento para bebés, cena, pollo con fideos, junior",
+"de": "Babynahrung, Abendessen, Huhn mit Nudeln, Junior",
+"pt": "Alimento infantil, jantar, frango com macarrão, júnior"
+},
+"449": {
+"it": "Alimento per l'infanzia, cena, pollo e tagliatelle, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, poulet et nouilles, mixé",
+"es": "Alimento para bebés, cena, pollo con fideos, colado",
+"de": "Babynahrung, Abendessen, Huhn mit Nudeln, passiert",
+"pt": "Alimento infantil, jantar, frango com macarrão, coado"
+},
+"450": {
+"it": "Alimento per l'infanzia, cena, zuppa di pollo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, soupe de poulet, mixé",
+"es": "Alimento para bebés, cena, sopa de pollo, colado",
+"de": "Babynahrung, Abendessen, Hühnersuppe, passiert",
+"pt": "Alimento infantil, jantar, sopa de frango, coado"
+},
+"451": {
+"it": "Alimento per l'infanzia, cena, stufato di pollo, per bambini piccoli",
+"fr": "Aliment pour bébé, dîner, ragoût de poulet, pour tout-petits",
+"es": "Alimento para bebés, cena, estofado de pollo, para niños pequeños",
+"de": "Babynahrung, Abendessen, Hühnereintopf, für Kleinkinder",
+"pt": "Alimento infantil, jantar, ensopado de frango, para crianças pequenas"
+},
+"452": {
+"it": "Alimento per l'infanzia, cena, maccheroni al formaggio, junior",
+"fr": "Aliment pour bébé, dîner, macaronis au fromage, junior",
+"es": "Alimento para bebés, cena, macarrones con queso, junior",
+"de": "Babynahrung, Abendessen, Makkaroni mit Käse, Junior",
+"pt": "Alimento infantil, jantar, macarrão com queijo, júnior"
+},
+"453": {
+"it": "Alimento per l'infanzia, cena, maccheroni al formaggio, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, macaronis au fromage, mixé",
+"es": "Alimento para bebés, cena, macarrones con queso, colado",
+"de": "Babynahrung, Abendessen, Makkaroni mit Käse, passiert",
+"pt": "Alimento infantil, jantar, macarrão com queijo, coado"
+},
+"454": {
+"it": "Alimento per l'infanzia, cena, maccheroni, pomodoro e manzo, junior",
+"fr": "Aliment pour bébé, dîner, macaronis, tomate et bœuf, junior",
+"es": "Alimento para bebés, cena, macarrones con tomate y vacuno, junior",
+"de": "Babynahrung, Abendessen, Makkaroni mit Tomate und Rind, Junior",
+"pt": "Alimento infantil, jantar, macarrão com tomate e carne bovina, júnior"
+},
+"455": {
+"it": "Alimento per l'infanzia, cena, maccheroni, pomodoro e manzo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, macaronis, tomate et bœuf, mixé",
+"es": "Alimento para bebés, cena, macarrones con tomate y vacuno, colado",
+"de": "Babynahrung, Abendessen, Makkaroni mit Tomate und Rind, passiert",
+"pt": "Alimento infantil, jantar, macarrão com tomate e carne bovina, coado"
+},
+"456": {
+"it": "Alimento per l'infanzia, cena, maccheroni, manzo e salsa di pomodoro, per bambini piccoli",
+"fr": "Aliment pour bébé, dîner, macaronis, bœuf et sauce tomate, pour tout-petits",
+"es": "Alimento para bebés, cena, macarrones, vacuno y salsa de tomate, para niños pequeños",
+"de": "Babynahrung, Abendessen, Makkaroni, Rind und Tomatensauce, für Kleinkinder",
+"pt": "Alimento infantil, jantar, macarrão, carne bovina e molho de tomate, para crianças pequenas"
+},
+"457": {
+"it": "Alimento per l'infanzia, cena, verdure miste, junior",
+"fr": "Aliment pour bébé, dîner, légumes mélangés, junior",
+"es": "Alimento para bebés, cena, verduras mixtas, junior",
+"de": "Babynahrung, Abendessen, gemischtes Gemüse, Junior",
+"pt": "Alimento infantil, jantar, legumes mistos, júnior"
+},
+"458": {
+"it": "Alimento per l'infanzia, cena, verdure miste, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes mélangés, mixé",
+"es": "Alimento para bebés, cena, verduras mixtas, colado",
+"de": "Babynahrung, Abendessen, gemischtes Gemüse, passiert",
+"pt": "Alimento infantil, jantar, legumes mistos, coado"
+},
+"459": {
+"it": "Alimento per l'infanzia, cena, pasta con verdure",
+"fr": "Aliment pour bébé, dîner, pâtes aux légumes",
+"es": "Alimento para bebés, cena, pasta con verduras",
+"de": "Babynahrung, Abendessen, Nudeln mit Gemüse",
+"pt": "Alimento infantil, jantar, massa com legumes"
+},
+"460": {
+"it": "Alimento per l'infanzia, cena, spaghetti, pomodoro e carne, junior",
+"fr": "Aliment pour bébé, dîner, spaghetti, tomate et viande, junior",
+"es": "Alimento para bebés, cena, espaguetis con tomate y carne, junior",
+"de": "Babynahrung, Abendessen, Spaghetti mit Tomate und Fleisch, Junior",
+"pt": "Alimento infantil, jantar, espaguete com tomate e carne, júnior"
+},
+"461": {
+"it": "Alimento per l'infanzia, cena, spaghetti, pomodoro e carne, per bambini piccoli",
+"fr": "Aliment pour bébé, dîner, spaghetti, tomate et viande, pour tout-petits",
+"es": "Alimento para bebés, cena, espaguetis con tomate y carne, para niños pequeños",
+"de": "Babynahrung, Abendessen, Spaghetti mit Tomate und Fleisch, für Kleinkinder",
+"pt": "Alimento infantil, jantar, espaguete com tomate e carne, para crianças pequenas"
+},
+"462": {
+"it": "Alimento per l'infanzia, cena, patate dolci e pollo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, patates douces et poulet, mixé",
+"es": "Alimento para bebés, cena, batatas y pollo, colado",
+"de": "Babynahrung, Abendessen, Süßkartoffeln und Huhn, passiert",
+"pt": "Alimento infantil, jantar, batata-doce e frango, coado"
+},
+"463": {
+"it": "Alimento per l'infanzia, cena, tacchino e riso, junior",
+"fr": "Aliment pour bébé, dîner, dinde et riz, junior",
+"es": "Alimento para bebés, cena, pavo y arroz, junior",
+"de": "Babynahrung, Abendessen, Pute und Reis, Junior",
+"pt": "Alimento infantil, jantar, peru e arroz, júnior"
+},
+"464": {
+"it": "Alimento per l'infanzia, cena, tacchino e riso, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, dinde et riz, mixé",
+"es": "Alimento para bebés, cena, pavo y arroz, colado",
+"de": "Babynahrung, Abendessen, Pute und Reis, passiert",
+"pt": "Alimento infantil, jantar, peru e arroz, coado"
+},
+"465": {
+"it": "Alimento per l'infanzia, cena, tacchino, riso, e verdure, per bambini piccoli",
+"fr": "Aliment pour bébé, dîner, dinde, riz, et légumes, pour tout-petits",
+"es": "Alimento para bebés, cena, pavo, arroz, y verduras, para niños pequeños",
+"de": "Babynahrung, Abendessen, Pute, Reis, und Gemüse, für Kleinkinder",
+"pt": "Alimento infantil, jantar, peru, arroz, e legumes, para crianças pequenas"
+},
+"466": {
+"it": "Alimento per l'infanzia, cena, verdure e manzo, junior",
+"fr": "Aliment pour bébé, dîner, légumes et bœuf, junior",
+"es": "Alimento para bebés, cena, verduras y vacuno, junior",
+"de": "Babynahrung, Abendessen, Gemüse und Rind, Junior",
+"pt": "Alimento infantil, jantar, legumes e carne bovina, júnior"
+},
+"467": {
+"it": "Alimento per l'infanzia, cena, verdure e manzo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes et bœuf, mixé",
+"es": "Alimento para bebés, cena, verduras y vacuno, colado",
+"de": "Babynahrung, Abendessen, Gemüse und Rind, passiert",
+"pt": "Alimento infantil, jantar, legumes e carne bovina, coado"
+},
+"468": {
+"it": "Alimento per l'infanzia, cena, verdure e pollo, junior",
+"fr": "Aliment pour bébé, dîner, légumes et poulet, junior",
+"es": "Alimento para bebés, cena, verduras y pollo, junior",
+"de": "Babynahrung, Abendessen, Gemüse und Huhn, Junior",
+"pt": "Alimento infantil, jantar, legumes e frango, júnior"
+},
+"469": {
+"it": "Alimento per l'infanzia, cena, verdure e gnocchetti e manzo, junior",
+"fr": "Aliment pour bébé, dîner, légumes et boulettes et bœuf, junior",
+"es": "Alimento para bebés, cena, verduras y bolitas de masa y vacuno, junior",
+"de": "Babynahrung, Abendessen, Gemüse und Klöße und Rind, Junior",
+"pt": "Alimento infantil, jantar, legumes e bolinhos e carne bovina, júnior"
+},
+"470": {
+"it": "Alimento per l'infanzia, cena, verdure e gnocchetti e manzo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes et boulettes et bœuf, mixé",
+"es": "Alimento para bebés, cena, verduras y bolitas de masa y vacuno, colado",
+"de": "Babynahrung, Abendessen, Gemüse und Klöße und Rind, passiert",
+"pt": "Alimento infantil, jantar, legumes e bolinhos e carne bovina, coado"
+},
+"471": {
+"it": "Alimento per l'infanzia, cena, verdure e agnello, junior",
+"fr": "Aliment pour bébé, dîner, légumes et agneau, junior",
+"es": "Alimento para bebés, cena, verduras y cordero, junior",
+"de": "Babynahrung, Abendessen, Gemüse und Lamm, Junior",
+"pt": "Alimento infantil, jantar, legumes e cordeiro, júnior"
+},
+"472": {
+"it": "Alimento per l'infanzia, cena, verdure e tagliatelle e tacchino, junior",
+"fr": "Aliment pour bébé, dîner, légumes et nouilles et dinde, junior",
+"es": "Alimento para bebés, cena, verduras y fideos y pavo, junior",
+"de": "Babynahrung, Abendessen, Gemüse und Nudeln und Pute, Junior",
+"pt": "Alimento infantil, jantar, legumes e macarrão e peru, júnior"
+},
+"473": {
+"it": "Alimento per l'infanzia, cena, verdure e tagliatelle e tacchino, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes et nouilles et dinde, mixé",
+"es": "Alimento para bebés, cena, verduras y fideos y pavo, colado",
+"de": "Babynahrung, Abendessen, Gemüse und Nudeln und Pute, passiert",
+"pt": "Alimento infantil, jantar, legumes e macarrão e peru, coado"
+},
+"474": {
+"it": "Alimento per l'infanzia, cena, verdure e tacchino, junior",
+"fr": "Aliment pour bébé, dîner, légumes et dinde, junior",
+"es": "Alimento para bebés, cena, verduras y pavo, junior",
+"de": "Babynahrung, Abendessen, Gemüse und Pute, Junior",
+"pt": "Alimento infantil, jantar, legumes e peru, júnior"
+},
+"475": {
+"it": "Alimento per l'infanzia, cena, verdure e tacchino, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes et dinde, mixé",
+"es": "Alimento para bebés, cena, verduras y pavo, colado",
+"de": "Babynahrung, Abendessen, Gemüse und Pute, passiert",
+"pt": "Alimento infantil, jantar, legumes e peru, coado"
+},
+"476": {
+"it": "Alimento per l'infanzia, cena, verdure e pollo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes et poulet, mixé",
+"es": "Alimento para bebés, cena, verduras y pollo, colado",
+"de": "Babynahrung, Abendessen, Gemüse mit Huhn, passiert",
+"pt": "Alimento infantil, jantar, legumes e frango, coado"
+},
+"477": {
+"it": "Alimento per l'infanzia, cena, verdure, tagliatelle e pollo, junior",
+"fr": "Aliment pour bébé, dîner, légumes, nouilles et poulet, junior",
+"es": "Alimento para bebés, cena, verduras, fideos y pollo, junior",
+"de": "Babynahrung, Abendessen, Gemüse, Nudeln und Huhn, Junior",
+"pt": "Alimento infantil, jantar, legumes, macarrão e frango, júnior"
+},
+"478": {
+"it": "Alimento per l'infanzia, cena, verdure, tagliatelle e pollo, omogeneizzato",
+"fr": "Aliment pour bébé, dîner, légumes, nouilles et poulet, mixé",
+"es": "Alimento para bebés, cena, verduras, fideos y pollo, colado",
+"de": "Babynahrung, Abendessen, Gemüse, Nudeln und Huhn, passiert",
+"pt": "Alimento infantil, jantar, legumes, macarrão e frango, coado"
+},
+"479": {
+"it": "Alimento per l'infanzia, snack da mangiare con le mani, GERBER, GRADUATES, PUFFS, mela e cannella",
+"fr": "Aliment pour bébé, snacks à manger avec les doigts, GERBER, GRADUATES, PUFFS, pomme et cannelle",
+"es": "Alimento para bebés, snacks para comer con la mano, GERBER, GRADUATES, PUFFS, manzana y canela",
+"de": "Babynahrung, Fingerfood-Snacks, GERBER, GRADUATES, PUFFS, Apfel und Zimt",
+"pt": "Alimento infantil, snacks para comer com as mãos, GERBER, GRADUATES, PUFFS, maçã e canela"
+},
+"480": {
+"it": "Alimento per l'infanzia, barretta di cereali fortificata, ripieno di frutta",
+"fr": "Aliment pour bébé, barre de céréales fortifiée, fourrage aux fruits",
+"es": "Alimento para bebés, barrita de cereales fortificada, relleno de fruta",
+"de": "Babynahrung, angereicherter Müsliriegel, Fruchtfüllung",
+"pt": "Alimento infantil, barra de cereais fortificada, recheio de frutas"
+},
+"481": {
+"it": "Alimento per l'infanzia, frutta e verdura, mela e patata dolce",
+"fr": "Aliment pour bébé, fruit et légume, pomme et patate douce",
+"es": "Alimento para bebés, fruta y verdura, manzana y batata",
+"de": "Babynahrung, Obst und Gemüse, Apfel und Süßkartoffel",
+"pt": "Alimento infantil, fruta e legume, maçã e batata-doce"
+},
+"482": {
+"it": "Alimento per l'infanzia, dessert di frutta, mango con tapioca",
+"fr": "Aliment pour bébé, dessert de fruits, mangue avec tapioca",
+"es": "Alimento para bebés, postre de fruta, mango con tapioca",
+"de": "Babynahrung, Fruchtdessert, Mango mit Tapioka",
+"pt": "Alimento infantil, sobremesa de fruta, manga com tapioca"
+},
+"483": {
+"it": "Alimento per l'infanzia, dessert supremo di frutta",
+"fr": "Aliment pour bébé, dessert suprême aux fruits",
+"es": "Alimento para bebés, postre supremo de fruta",
+"de": "Babynahrung, Fruchtdessert Supreme",
+"pt": "Alimento infantil, sobremesa suprema de frutas"
+},
+"484": {
+"it": "Alimento per l'infanzia, frutta, mela e mirtillo, junior",
+"fr": "Aliment pour bébé, fruit, pomme et myrtille, junior",
+"es": "Alimento para bebés, fruta, manzana y arándano, junior",
+"de": "Babynahrung, Obst, Apfel und Heidelbeere, Junior",
+"pt": "Alimento infantil, fruta, maçã e mirtilo, júnior"
+},
+"485": {
+"it": "Alimento per l'infanzia, frutta, mela e mirtillo, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, pomme et myrtille, mixé",
+"es": "Alimento para bebés, fruta, manzana y arándano, colado",
+"de": "Babynahrung, Obst, Apfel und Heidelbeere, passiert",
+"pt": "Alimento infantil, fruta, maçã e mirtilo, coado"
+},
+"486": {
+"it": "Alimento per l'infanzia, frutta, mela e lampone, junior",
+"fr": "Aliment pour bébé, fruit, pomme et framboise, junior",
+"es": "Alimento para bebés, fruta, manzana y frambuesa, junior",
+"de": "Babynahrung, Obst, Apfel und Himbeere, Junior",
+"pt": "Alimento infantil, fruta, maçã e framboesa, júnior"
+},
+"487": {
+"it": "Alimento per l'infanzia, frutta, mela e lampone, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, pomme et framboise, mixé",
+"es": "Alimento para bebés, fruta, manzana y frambuesa, colado",
+"de": "Babynahrung, Obst, Apfel und Himbeere, passiert",
+"pt": "Alimento infantil, fruta, maçã e framboesa, coado"
+},
+"488": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele e albicocche, junior",
+"fr": "Aliment pour bébé, fruit, compote de pommes et abricots, junior",
+"es": "Alimento para bebés, fruta, compota de manzana y albaricoques, junior",
+"de": "Babynahrung, Obst, Apfelmus und Aprikosen, Junior",
+"pt": "Alimento infantil, fruta, purê de maçã e damascos, júnior"
+},
+"489": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele e albicocche, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, compote de pommes et abricots, mixé",
+"es": "Alimento para bebés, fruta, compota de manzana y albaricoques, colado",
+"de": "Babynahrung, Obst, Apfelmus und Aprikosen, passiert",
+"pt": "Alimento infantil, fruta, purê de maçã e damascos, coado"
+},
+"490": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele e ciliegie, junior",
+"fr": "Aliment pour bébé, fruit, compote de pommes et cerises, junior",
+"es": "Alimento para bebés, fruta, compota de manzana y cerezas, junior",
+"de": "Babynahrung, Obst, Apfelmus und Kirschen, Junior",
+"pt": "Alimento infantil, fruta, purê de maçã e cerejas, júnior"
+},
+"491": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele e ciliegie, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, compote de pommes et cerises, mixé",
+"es": "Alimento para bebés, fruta, compota de manzana y cerezas, colado",
+"de": "Babynahrung, Obst, Apfelmus und Kirschen, passiert",
+"pt": "Alimento infantil, fruta, purê de maçã e cerejas, coado"
+},
+"492": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele e ananas, junior",
+"fr": "Aliment pour bébé, fruit, compote de pommes et ananas, junior",
+"es": "Alimento para bebés, fruta, compota de manzana y piña, junior",
+"de": "Babynahrung, Obst, Apfelmus und Ananas, Junior",
+"pt": "Alimento infantil, fruta, purê de maçã e abacaxi, júnior"
+},
+"493": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele e ananas, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, compote de pommes et ananas, mixé",
+"es": "Alimento para bebés, fruta, compota de manzana y piña, colado",
+"de": "Babynahrung, Obst, Apfelmus und Ananas, passiert",
+"pt": "Alimento infantil, fruta, purê de maçã e abacaxi, coado"
+},
+"494": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele con banana, junior",
+"fr": "Aliment pour bébé, fruit, compote de pommes avec banane, junior",
+"es": "Alimento para bebés, fruta, compota de manzana con plátano, junior",
+"de": "Babynahrung, Obst, Apfelmus mit Banane, Junior",
+"pt": "Alimento infantil, fruta, purê de maçã com banana, júnior"
+},
+"495": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele, junior",
+"fr": "Aliment pour bébé, fruit, compote de pommes, junior",
+"es": "Alimento para bebés, fruta, compota de manzana, junior",
+"de": "Babynahrung, Obst, Apfelmus, Junior",
+"pt": "Alimento infantil, fruta, purê de maçã, júnior"
+},
+"496": {
+"it": "Alimento per l'infanzia, frutta, salsa di mele, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, compote de pommes, mixé",
+"es": "Alimento para bebés, fruta, compota de manzana, colado",
+"de": "Babynahrung, Obst, Apfelmus, passiert",
+"pt": "Alimento infantil, fruta, purê de maçã, coado"
+},
+"497": {
+"it": "Alimento per l'infanzia, frutta, albicocca con tapioca, junior",
+"fr": "Aliment pour bébé, fruit, abricot avec tapioca, junior",
+"es": "Alimento para bebés, fruta, albaricoque con tapioca, junior",
+"de": "Babynahrung, Obst, Aprikose mit Tapioka, Junior",
+"pt": "Alimento infantil, fruta, damasco com tapioca, júnior"
+},
+"498": {
+"it": "Alimento per l'infanzia, frutta, albicocca con tapioca, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, abricot avec tapioca, mixé",
+"es": "Alimento para bebés, fruta, albaricoque con tapioca, colado",
+"de": "Babynahrung, Obst, Aprikose mit Tapioka, passiert",
+"pt": "Alimento infantil, fruta, damasco com tapioca, coado"
+},
+"499": {
+"it": "Alimento per l'infanzia, frutta, banana e fragola, junior",
+"fr": "Aliment pour bébé, fruit, banane et fraise, junior",
+"es": "Alimento para bebés, fruta, plátano y fresa, junior",
+"de": "Babynahrung, Obst, Banane und Erdbeere, Junior",
+"pt": "Alimento infantil, fruta, banana e morango, júnior"
+},
+"500": {
+"it": "Alimento per l'infanzia, frutta, banane e ananas con tapioca, junior",
+"fr": "Aliment pour bébé, fruit, bananes et ananas avec tapioca, junior",
+"es": "Alimento para bebés, fruta, plátanos y piña con tapioca, junior",
+"de": "Babynahrung, Obst, Bananen und Ananas mit Tapioka, Junior",
+"pt": "Alimento infantil, fruta, bananas e abacaxi com tapioca, júnior"
+},
+"501": {
+"it": "Alimento per l'infanzia, frutta, banane e ananas con tapioca, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, bananes et ananas avec tapioca, mixé",
+"es": "Alimento para bebés, fruta, plátanos y piña con tapioca, colado",
+"de": "Babynahrung, Obst, Bananen und Ananas mit Tapioka, passiert",
+"pt": "Alimento infantil, fruta, bananas e abacaxi com tapioca, coado"
+},
+"502": {
+"it": "Alimento per l'infanzia, frutta, banane con mele e pere, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, bananes avec pommes et poires, mixé",
+"es": "Alimento para bebés, fruta, plátanos con manzanas y peras, colado",
+"de": "Babynahrung, Obst, Bananen mit Äpfeln und Birnen, passiert",
+"pt": "Alimento infantil, fruta, bananas com maçãs e peras, coado"
+},
+"503": {
+"it": "Alimento per l'infanzia, frutta, banane con tapioca, junior",
+"fr": "Aliment pour bébé, fruit, bananes avec tapioca, junior",
+"es": "Alimento para bebés, fruta, plátanos con tapioca, junior",
+"de": "Babynahrung, Obst, Bananen mit Tapioka, Junior",
+"pt": "Alimento infantil, fruta, bananas com tapioca, júnior"
+},
+"504": {
+"it": "Alimento per l'infanzia, frutta, banane con tapioca, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, bananes avec tapioca, mixé",
+"es": "Alimento para bebés, fruta, plátanos con tapioca, colado",
+"de": "Babynahrung, Obst, Bananen mit Tapioka, passiert",
+"pt": "Alimento infantil, fruta, bananas com tapioca, coado"
+},
+"505": {
+"it": "Alimento per l'infanzia, frutta, guava e papaya con tapioca, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, goyave et papaye avec tapioca, mixé",
+"es": "Alimento para bebés, fruta, guayaba y papaya con tapioca, colado",
+"de": "Babynahrung, Obst, Guave und Papaya mit Tapioka, passiert",
+"pt": "Alimento infantil, fruta, goiaba e mamão com tapioca, coado"
+},
+"506": {
+"it": "Alimento per l'infanzia, frutta, papaya e salsa di mele con tapioca, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, papaye et compote de pommes avec tapioca, mixé",
+"es": "Alimento para bebés, fruta, papaya y compota de manzana con tapioca, colado",
+"de": "Babynahrung, Obst, Papaya und Apfelmus mit Tapioka, passiert",
+"pt": "Alimento infantil, fruta, mamão e purê de maçã com tapioca, coado"
+},
+"507": {
+"it": "Alimento per l'infanzia, frutta, pesche, junior",
+"fr": "Aliment pour bébé, fruit, pêches, junior",
+"es": "Alimento para bebés, fruta, melocotones, junior",
+"de": "Babynahrung, Obst, Pfirsiche, Junior",
+"pt": "Alimento infantil, fruta, pêssegos, júnior"
+},
+"508": {
+"it": "Alimento per l'infanzia, frutta, pesche, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, pêches, mixé",
+"es": "Alimento para bebés, fruta, melocotones, colado",
+"de": "Babynahrung, Obst, Pfirsiche, passiert",
+"pt": "Alimento infantil, fruta, pêssegos, coado"
+},
+"509": {
+"it": "Alimento per l'infanzia, frutta, pere e ananas, junior",
+"fr": "Aliment pour bébé, fruit, poires et ananas, junior",
+"es": "Alimento para bebés, fruta, peras y piña, junior",
+"de": "Babynahrung, Obst, Birnen und Ananas, Junior",
+"pt": "Alimento infantil, fruta, peras e abacaxi, júnior"
+},
+"510": {
+"it": "Alimento per l'infanzia, frutta, pere e ananas, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, poires et ananas, mixé",
+"es": "Alimento para bebés, fruta, peras y piña, colado",
+"de": "Babynahrung, Obst, Birnen und Ananas, passiert",
+"pt": "Alimento infantil, fruta, peras e abacaxi, coado"
+},
+"511": {
+"it": "Alimento per l'infanzia, frutta, pere, junior",
+"fr": "Aliment pour bébé, fruit, poires, junior",
+"es": "Alimento para bebés, fruta, peras, junior",
+"de": "Babynahrung, Obst, Birnen, Junior",
+"pt": "Alimento infantil, fruta, peras, júnior"
+},
+"512": {
+"it": "Alimento per l'infanzia, frutta, pere, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, poires, mixé",
+"es": "Alimento para bebés, fruta, peras, colado",
+"de": "Babynahrung, Obst, Birnen, passiert",
+"pt": "Alimento infantil, fruta, peras, coado"
+},
+"513": {
+"it": "Alimento per l'infanzia, frutta, prugne con tapioca, senza acido ascorbico, junior",
+"fr": "Aliment pour bébé, fruit, prunes avec tapioca, sans acide ascorbique, junior",
+"es": "Alimento para bebés, fruta, ciruelas con tapioca, sin ácido ascórbico, junior",
+"de": "Babynahrung, Obst, Pflaumen mit Tapioka, ohne Ascorbinsäure, Junior",
+"pt": "Alimento infantil, fruta, ameixas com tapioca, sem ácido ascórbico, júnior"
+},
+"514": {
+"it": "Alimento per l'infanzia, frutta, prugne con tapioca, senza acido ascorbico, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, prunes avec tapioca, sans acide ascorbique, mixé",
+"es": "Alimento para bebés, fruta, ciruelas con tapioca, sin ácido ascórbico, colado",
+"de": "Babynahrung, Obst, Pflaumen mit Tapioka, ohne Ascorbinsäure, passiert",
+"pt": "Alimento infantil, fruta, ameixas com tapioca, sem ácido ascórbico, coado"
+},
+"515": {
+"it": "Alimento per l'infanzia, frutta, prugne secche con tapioca, senza acido ascorbico, junior",
+"fr": "Aliment pour bébé, fruit, pruneaux avec tapioca, sans acide ascorbique, junior",
+"es": "Alimento para bebés, fruta, ciruelas pasas con tapioca, sin ácido ascórbico, junior",
+"de": "Babynahrung, Obst, Backpflaumen mit Tapioka, ohne Ascorbinsäure, Junior",
+"pt": "Alimento infantil, fruta, ameixas secas com tapioca, sem ácido ascórbico, júnior"
+},
+"516": {
+"it": "Alimento per l'infanzia, frutta, prugne secche con tapioca, senza acido ascorbico, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, pruneaux avec tapioca, sans acide ascorbique, mixé",
+"es": "Alimento para bebés, fruta, ciruelas pasas con tapioca, sin ácido ascórbico, colado",
+"de": "Babynahrung, Obst, Backpflaumen mit Tapioka, ohne Ascorbinsäure, passiert",
+"pt": "Alimento infantil, fruta, ameixas secas com tapioca, sem ácido ascórbico, coado"
+},
+"517": {
+"it": "Alimento per l'infanzia, frutta, tutti frutti, junior",
+"fr": "Aliment pour bébé, fruit, tutti frutti, junior",
+"es": "Alimento para bebés, fruta, tutti frutti, junior",
+"de": "Babynahrung, Obst, Tutti Frutti, Junior",
+"pt": "Alimento infantil, fruta, tutti frutti, júnior"
+},
+"518": {
+"it": "Alimento per l'infanzia, frutta, tutti frutti, omogeneizzato",
+"fr": "Aliment pour bébé, fruit, tutti frutti, mixé",
+"es": "Alimento para bebés, fruta, tutti frutti, colado",
+"de": "Babynahrung, Obst, Tutti Frutti, passiert",
+"pt": "Alimento infantil, fruta, tutti frutti, coado"
+},
+"519": {
+"it": "Alimento per l'infanzia, GERBER, 2nd Foods, mela, carota e zucca, biologico",
+"fr": "Aliment pour bébé, GERBER, 2nd Foods, pomme, carotte et courge, biologique",
+"es": "Alimento para bebés, GERBER, 2nd Foods, manzana, zanahoria y calabaza, ecológico",
+"de": "Babynahrung, GERBER, 2nd Foods, Apfel, Karotte und Kürbis, Bio",
+"pt": "Alimento infantil, GERBER, 2nd Foods, maçã, cenoura e abóbora, orgânico"
+},
+"520": {
+"it": "Alimento per l'infanzia, GERBER, 3rd Foods, mela, mango e kiwi",
+"fr": "Aliment pour bébé, GERBER, 3rd Foods, pomme, mangue et kiwi",
+"es": "Alimento para bebés, GERBER, 3rd Foods, manzana, mango y kiwi",
+"de": "Babynahrung, GERBER, 3rd Foods, Apfel, Mango und Kiwi",
+"pt": "Alimento infantil, GERBER, 3rd Foods, maçã, manga e kiwi"
+},
+"521": {
+"it": "Alimento per l'infanzia, GERBER, banana con misto di arancia",
+"fr": "Aliment pour bébé, GERBER, banane avec assortiment d'orange",
+"es": "Alimento para bebés, GERBER, plátano con mezcla de naranja",
+"de": "Babynahrung, GERBER, Banane mit Orangen-Mix",
+"pt": "Alimento infantil, GERBER, banana com mix de laranja"
+},
+"522": {
+"it": "Alimento per l'infanzia, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",
+"fr": "Aliment pour bébé, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",
+"es": "Alimento para bebés, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",
+"de": "Babynahrung, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",
+"pt": "Alimento infantil, GERBER, GRADUATES Lil Biscuits Vanilla Wheat"
+},
+"523": {
+"it": "Alimento per l'infanzia, succo d'uva, senza zuccheri aggiunti, in scatola",
+"fr": "Aliment pour bébé, jus de raisin, sans sucre ajouté, en conserve",
+"es": "Alimento para bebés, zumo de uva, sin azúcar añadido, en conserva",
+"de": "Babynahrung, Traubensaft, ohne Zuckerzusatz, aus der Dose",
+"pt": "Alimento infantil, suco de uva, sem açúcar adicionado, enlatado"
+},
+"524": {
+"it": "Alimento per l'infanzia, fagiolini e tacchino, omogeneizzato",
+"fr": "Aliment pour bébé, haricots verts et dinde, mixé",
+"es": "Alimento para bebés, judías verdes y pavo, colado",
+"de": "Babynahrung, grüne Bohnen und Pute, passiert",
+"pt": "Alimento infantil, vagem e peru, coado"
+},
+"525": {
+"it": "Alimento per l'infanzia, fagiolini, a cubetti, per bambini piccoli",
+"fr": "Aliment pour bébé, haricots verts, en dés, pour tout-petits",
+"es": "Alimento para bebés, judías verdes, en dados, para niños pequeños",
+"de": "Babynahrung, grüne Bohnen, gewürfelt, für Kleinkinder",
+"pt": "Alimento infantil, vagem, em cubos, para crianças pequenas"
+},
+"526": {
+"it": "Alimento per l'infanzia, bevande a base di succo, misto di frutta, per bambini piccoli",
+"fr": "Aliment pour bébé, boissons gourmandes à base de jus, assortiment de fruits, pour tout-petits",
+"es": "Alimento para bebés, golosinas de zumo, mezcla de frutas, para niños pequeños",
+"de": "Babynahrung, Saftsnacks, Fruchtmix, für Kleinkinder",
+"pt": "Alimento infantil, petiscos de suco, mix de frutas, para crianças pequenas"
+},
+"527": {
+"it": "Alimento per l'infanzia, succo, mela",
+"fr": "Aliment pour bébé, jus, pomme",
+"es": "Alimento para bebés, zumo, manzana",
+"de": "Babynahrung, Saft, Apfel",
+"pt": "Alimento infantil, suco, maçã"
+},
+"528": {
+"it": "Alimento per l'infanzia, succo, mela e ciliegia",
+"fr": "Aliment pour bébé, jus, pomme et cerise",
+"es": "Alimento para bebés, zumo, manzana y cereza",
+"de": "Babynahrung, Saft, Apfel und Kirsche",
+"pt": "Alimento infantil, suco, maçã e cereja"
+},
+"529": {
+"it": "Alimento per l'infanzia, succo, mela e uva",
+"fr": "Aliment pour bébé, jus, pomme et raisin",
+"es": "Alimento para bebés, zumo, manzana y uva",
+"de": "Babynahrung, Saft, Apfel und Traube",
+"pt": "Alimento infantil, suco, maçã e uva"
+},
+"530": {
+"it": "Alimento per l'infanzia, succo, mela e pesca",
+"fr": "Aliment pour bébé, jus, pomme et pêche",
+"es": "Alimento para bebés, zumo, manzana y melocotón",
+"de": "Babynahrung, Saft, Apfel und Pfirsich",
+"pt": "Alimento infantil, suco, maçã e pêssego"
+},
+"531": {
+"it": "Alimento per l'infanzia, succo, mela e prugna secca",
+"fr": "Aliment pour bébé, jus, pomme et pruneau",
+"es": "Alimento para bebés, zumo, manzana y ciruela pasa",
+"de": "Babynahrung, Saft, Apfel und Backpflaume",
+"pt": "Alimento infantil, suco, maçã e ameixa seca"
+},
+"532": {
+"it": "Alimento per l'infanzia, succo, mela, con calcio",
+"fr": "Aliment pour bébé, jus, pomme, avec calcium",
+"es": "Alimento para bebés, zumo, manzana, con calcio",
+"de": "Babynahrung, Saft, Apfel, mit Calcium",
+"pt": "Alimento infantil, suco, maçã, com cálcio"
+},
+"533": {
+"it": "Alimento per l'infanzia, succo, mela e patata dolce",
+"fr": "Aliment pour bébé, jus, pomme et patate douce",
+"es": "Alimento para bebés, zumo, manzana y batata",
+"de": "Babynahrung, Saft, Apfel und Süßkartoffel",
+"pt": "Alimento infantil, suco, maçã e batata-doce"
+},
+"534": {
+"it": "Alimento per l'infanzia, succo, punch alla frutta, con calcio",
+"fr": "Aliment pour bébé, jus, punch aux fruits, avec calcium",
+"es": "Alimento para bebés, zumo, ponche de frutas, con calcio",
+"de": "Babynahrung, Saft, Fruchtpunsch, mit Calcium",
+"pt": "Alimento infantil, suco, ponche de frutas, com cálcio"
+},
+"535": {
+"it": "Alimento per l'infanzia, succo, frutta mista",
+"fr": "Aliment pour bébé, jus, fruits mélangés",
+"es": "Alimento para bebés, zumo, fruta mixta",
+"de": "Babynahrung, Saft, gemischtes Obst",
+"pt": "Alimento infantil, suco, frutas mistas"
+},
+"536": {
+"it": "Alimento per l'infanzia, succo, arancia",
+"fr": "Aliment pour bébé, jus, orange",
+"es": "Alimento para bebés, zumo, naranja",
+"de": "Babynahrung, Saft, Orange",
+"pt": "Alimento infantil, suco, laranja"
+},
+"537": {
+"it": "Alimento per l'infanzia, succo, arancia e mela",
+"fr": "Aliment pour bébé, jus, orange et pomme",
+"es": "Alimento para bebés, zumo, naranja y manzana",
+"de": "Babynahrung, Saft, Orange und Apfel",
+"pt": "Alimento infantil, suco, laranja e maçã"
+},
+"538": {
+"it": "Alimento per l'infanzia, succo, arancia e mela e banana",
+"fr": "Aliment pour bébé, jus, orange et pomme et banane",
+"es": "Alimento para bebés, zumo, naranja y manzana y plátano",
+"de": "Babynahrung, Saft, Orange und Apfel und Banane",
+"pt": "Alimento infantil, suco, laranja e maçã e banana"
+},
+"539": {
+"it": "Alimento per l'infanzia, succo, arancia e albicocca",
+"fr": "Aliment pour bébé, jus, orange et abricot",
+"es": "Alimento para bebés, zumo, naranja y albaricoque",
+"de": "Babynahrung, Saft, Orange und Aprikose",
+"pt": "Alimento infantil, suco, laranja e damasco"
+},
+"540": {
+"it": "Alimento per l'infanzia, succo, arancia e banana",
+"fr": "Aliment pour bébé, jus, orange et banane",
+"es": "Alimento para bebés, zumo, naranja y plátano",
+"de": "Babynahrung, Saft, Orange und Banane",
+"pt": "Alimento infantil, suco, laranja e banana"
+},
+"541": {
+"it": "Alimento per l'infanzia, succo, arancia e ananas",
+"fr": "Aliment pour bébé, jus, orange et ananas",
+"es": "Alimento para bebés, zumo, naranja y piña",
+"de": "Babynahrung, Saft, Orange und Ananas",
+"pt": "Alimento infantil, suco, laranja e abacaxi"
+},
+"542": {
+"it": "Alimento per l'infanzia, succo, arancia e carota",
+"fr": "Aliment pour bébé, jus, orange et carotte",
+"es": "Alimento para bebés, zumo, naranja y zanahoria",
+"de": "Babynahrung, Saft, Orange und Karotte",
+"pt": "Alimento infantil, suco, laranja e cenoura"
+},
+"543": {
+"it": "Alimento per l'infanzia, succo, pera",
+"fr": "Aliment pour bébé, jus, poire",
+"es": "Alimento para bebés, zumo, pera",
+"de": "Babynahrung, Saft, Birne",
+"pt": "Alimento infantil, suco, pera"
+},
+"544": {
+"it": "Alimento per l'infanzia, succo, prugna secca e arancia",
+"fr": "Aliment pour bébé, jus, pruneau et orange",
+"es": "Alimento para bebés, zumo, ciruela pasa y naranja",
+"de": "Babynahrung, Saft, Backpflaume und Orange",
+"pt": "Alimento infantil, suco, ameixa seca e laranja"
+},
+"545": {
+"it": "Alimento per l'infanzia, maccheroni al formaggio, per bambini piccoli",
+"fr": "Aliment pour bébé, macaronis au fromage, pour tout-petits",
+"es": "Alimento para bebés, macarrones con queso, para niños pequeños",
+"de": "Babynahrung, Makkaroni mit Käse, für Kleinkinder",
+"pt": "Alimento infantil, macarrão com queijo, para crianças pequenas"
+},
+"546": {
+"it": "Alimento per l'infanzia, purè di patate al cheddar e broccoli, per bambini piccoli",
+"fr": "Aliment pour bébé, purée de pommes de terre au cheddar et brocoli, pour tout-petits",
+"es": "Alimento para bebés, puré de patatas con cheddar y brócoli, para niños pequeños",
+"de": "Babynahrung, Kartoffelpüree mit Cheddar und Brokkoli, für Kleinkinder",
+"pt": "Alimento infantil, purê de batata com cheddar e brócolis, para crianças pequenas"
+},
+"547": {
+"it": "Alimento per l'infanzia, carne, manzo con verdure, per bambini piccoli",
+"fr": "Aliment pour bébé, viande, bœuf avec légumes, pour tout-petits",
+"es": "Alimento para bebés, carne, vacuno con verduras, para niños pequeños",
+"de": "Babynahrung, Fleisch, Rind mit Gemüse, für Kleinkinder",
+"pt": "Alimento infantil, carne, carne bovina com legumes, para crianças pequenas"
+},
+"548": {
+"it": "Alimento per l'infanzia, carne, manzo, junior",
+"fr": "Aliment pour bébé, viande, bœuf, junior",
+"es": "Alimento para bebés, carne, vacuno, junior",
+"de": "Babynahrung, Fleisch, Rind, Junior",
+"pt": "Alimento infantil, carne, carne bovina, júnior"
+},
+"549": {
+"it": "Alimento per l'infanzia, carne, manzo, omogeneizzato",
+"fr": "Aliment pour bébé, viande, bœuf, mixé",
+"es": "Alimento para bebés, carne, vacuno, colado",
+"de": "Babynahrung, Fleisch, Rind, passiert",
+"pt": "Alimento infantil, carne, carne bovina, coado"
+},
+"550": {
+"it": "Alimento per l'infanzia, carne, bastoncini di pollo, junior",
+"fr": "Aliment pour bébé, viande, bâtonnets de poulet, junior",
+"es": "Alimento para bebés, carne, palitos de pollo, junior",
+"de": "Babynahrung, Fleisch, Hähnchensticks, Junior",
+"pt": "Alimento infantil, carne, palitos de frango, júnior"
+},
+"551": {
+"it": "Alimento per l'infanzia, carne, pollo, junior",
+"fr": "Aliment pour bébé, viande, poulet, junior",
+"es": "Alimento para bebés, carne, pollo, junior",
+"de": "Babynahrung, Fleisch, Huhn, Junior",
+"pt": "Alimento infantil, carne, frango, júnior"
+},
+"552": {
+"it": "Alimento per l'infanzia, carne, pollo, omogeneizzato",
+"fr": "Aliment pour bébé, viande, poulet, mixé",
+"es": "Alimento para bebés, carne, pollo, colado",
+"de": "Babynahrung, Fleisch, Huhn, passiert",
+"pt": "Alimento infantil, carne, frango, coado"
+},
+"553": {
+"it": "Alimento per l'infanzia, carne, prosciutto, junior",
+"fr": "Aliment pour bébé, viande, jambon, junior",
+"es": "Alimento para bebés, carne, jamón, junior",
+"de": "Babynahrung, Fleisch, Schinken, Junior",
+"pt": "Alimento infantil, carne, presunto, júnior"
+},
+"554": {
+"it": "Alimento per l'infanzia, carne, prosciutto, omogeneizzato",
+"fr": "Aliment pour bébé, viande, jambon, mixé",
+"es": "Alimento para bebés, carne, jamón, colado",
+"de": "Babynahrung, Fleisch, Schinken, passiert",
+"pt": "Alimento infantil, carne, presunto, coado"
+},
+"555": {
+"it": "Alimento per l'infanzia, carne, agnello, junior",
+"fr": "Aliment pour bébé, viande, agneau, junior",
+"es": "Alimento para bebés, carne, cordero, junior",
+"de": "Babynahrung, Fleisch, Lamm, Junior",
+"pt": "Alimento infantil, carne, cordeiro, júnior"
+},
+"556": {
+"it": "Alimento per l'infanzia, carne, agnello, omogeneizzato",
+"fr": "Aliment pour bébé, viande, agneau, mixé",
+"es": "Alimento para bebés, carne, cordero, colado",
+"de": "Babynahrung, Fleisch, Lamm, passiert",
+"pt": "Alimento infantil, carne, cordeiro, coado"
+},
+"557": {
+"it": "Alimento per l'infanzia, carne, bastoncini di carne, junior",
+"fr": "Aliment pour bébé, viande, bâtonnets de viande, junior",
+"es": "Alimento para bebés, carne, palitos de carne, junior",
+"de": "Babynahrung, Fleisch, Fleischsticks, Junior",
+"pt": "Alimento infantil, carne, palitos de carne, júnior"
+},
+"558": {
+"it": "Alimento per l'infanzia, carne, maiale, omogeneizzato",
+"fr": "Aliment pour bébé, viande, porc, mixé",
+"es": "Alimento para bebés, carne, cerdo, colado",
+"de": "Babynahrung, Fleisch, Schwein, passiert",
+"pt": "Alimento infantil, carne, carne suína, coado"
+},
+"559": {
+"it": "Alimento per l'infanzia, carne, bastoncini di tacchino, junior",
+"fr": "Aliment pour bébé, viande, bâtonnets de dinde, junior",
+"es": "Alimento para bebés, carne, palitos de pavo, junior",
+"de": "Babynahrung, Fleisch, Putensticks, Junior",
+"pt": "Alimento infantil, carne, palitos de peru, júnior"
+},
+"560": {
+"it": "Alimento per l'infanzia, carne, tacchino, junior",
+"fr": "Aliment pour bébé, viande, dinde, junior",
+"es": "Alimento para bebés, carne, pavo, junior",
+"de": "Babynahrung, Fleisch, Pute, Junior",
+"pt": "Alimento infantil, carne, peru, júnior"
+},
+"561": {
+"it": "Alimento per l'infanzia, carne, tacchino, omogeneizzato",
+"fr": "Aliment pour bébé, viande, dinde, mixé",
+"es": "Alimento para bebés, carne, pavo, colado",
+"de": "Babynahrung, Fleisch, Pute, passiert",
+"pt": "Alimento infantil, carne, peru, coado"
+},
+"562": {
+"it": "Alimento per l'infanzia, carne, vitello, omogeneizzato",
+"fr": "Aliment pour bébé, viande, veau, mixé",
+"es": "Alimento para bebés, carne, ternera, colado",
+"de": "Babynahrung, Fleisch, Kalb, passiert",
+"pt": "Alimento infantil, carne, vitela, coado"
+},
+"563": {
+"it": "Alimento per l'infanzia, succo di frutta mista con yogurt a basso contenuto di grassi",
+"fr": "Aliment pour bébé, jus de fruits mélangés avec yaourt allégé",
+"es": "Alimento para bebés, zumo de fruta mixta con yogur bajo en grasa",
+"de": "Babynahrung, gemischter Obstsaft mit fettarmem Joghurt",
+"pt": "Alimento infantil, suco de frutas mistas com iogurte com baixo teor de gordura"
+},
+"564": {
+"it": "Alimento per l'infanzia, yogurt alla frutta mista, omogeneizzato",
+"fr": "Aliment pour bébé, yaourt aux fruits mélangés, mixé",
+"es": "Alimento para bebés, yogur de fruta mixta, colado",
+"de": "Babynahrung, Joghurt mit gemischtem Obst, passiert",
+"pt": "Alimento infantil, iogurte de frutas mistas, coado"
+},
+"565": {
+"it": "Alimento per l'infanzia, cereale multicereali integrale, secco fortificato",
+"fr": "Aliment pour bébé, céréales multicéréales complètes, sèches fortifiées",
+"es": "Alimento para bebés, cereal multicereales integral, seco fortificado",
+"de": "Babynahrung, Mehrkorn-Vollkorn-Getreidebrei, trocken angereichert",
+"pt": "Alimento infantil, cereal multigrãos integral, seco fortificado"
+},
+"566": {
+"it": "Alimento per l'infanzia, cereale di farina d'avena con frutta, secco, istantaneo, per bambini piccoli fortificato",
+"fr": "Aliment pour bébé, céréales de flocons d'avoine aux fruits, sèches, instantanées, pour tout-petits fortifiées",
+"es": "Alimento para bebés, cereal de avena con fruta, seco, instantáneo, para niños pequeños fortificado",
+"de": "Babynahrung, Haferflockenbrei mit Obst, trocken, Instant-, für Kleinkinder angereichert",
+"pt": "Alimento infantil, cereal de aveia com frutas, seco, instantâneo, para crianças pequenas fortificado"
+},
+"567": {
+"it": "Alimento per l'infanzia, pesche, a cubetti, per bambini piccoli",
+"fr": "Aliment pour bébé, pêches, en dés, pour tout-petits",
+"es": "Alimento para bebés, melocotones, en dados, para niños pequeños",
+"de": "Babynahrung, Pfirsiche, gewürfelt, für Kleinkinder",
+"pt": "Alimento infantil, pêssegos, em cubos, para crianças pequenas"
+},
+"568": {
+"it": "Alimento per l'infanzia, pere, a cubetti, per bambini piccoli",
+"fr": "Aliment pour bébé, poires, en dés, pour tout-petits",
+"es": "Alimento para bebés, peras, en dados, para niños pequeños",
+"de": "Babynahrung, Birnen, gewürfelt, für Kleinkinder",
+"pt": "Alimento infantil, peras, em cubos, para crianças pequenas"
+},
+"569": {
+"it": "Alimento per l'infanzia, piselli e riso integrale",
+"fr": "Aliment pour bébé, petits pois et riz complet",
+"es": "Alimento para bebés, guisantes y arroz integral",
+"de": "Babynahrung, Erbsen und Vollkornreis",
+"pt": "Alimento infantil, ervilhas e arroz integral"
+},
+"570": {
+"it": "Alimento per l'infanzia, piselli, a cubetti, per bambini piccoli",
+"fr": "Aliment pour bébé, petits pois, en dés, pour tout-petits",
+"es": "Alimento para bebés, guisantes, en dados, para niños pequeños",
+"de": "Babynahrung, Erbsen, gewürfelt, für Kleinkinder",
+"pt": "Alimento infantil, ervilhas, em cubos, para crianças pequenas"
+},
+"571": {
+"it": "Alimento per l'infanzia, prugne, banane e riso, omogeneizzato",
+"fr": "Aliment pour bébé, prunes, bananes et riz, mixé",
+"es": "Alimento para bebés, ciruelas, plátanos y arroz, colado",
+"de": "Babynahrung, Pflaumen, Bananen und Reis, passiert",
+"pt": "Alimento infantil, ameixas, bananas e arroz, coado"
+},
+"572": {
+"it": "Alimento per l'infanzia, patate, per bambini piccoli",
+"fr": "Aliment pour bébé, pommes de terre, pour tout-petits",
+"es": "Alimento para bebés, patatas, para niños pequeños",
+"de": "Babynahrung, Kartoffeln, für Kleinkinder",
+"pt": "Alimento infantil, batatas, para crianças pequenas"
+},
+"573": {
+"it": "Alimento per l'infanzia, pretzel",
+"fr": "Aliment pour bébé, bretzels",
+"es": "Alimento para bebés, pretzels",
+"de": "Babynahrung, Brezeln",
+"pt": "Alimento infantil, pretzels"
+},
+"574": {
+"it": "Alimento per l'infanzia, prugne secche, senza vitamina C, omogeneizzato",
+"fr": "Aliment pour bébé, pruneaux, sans vitamine C, mixé",
+"es": "Alimento para bebés, ciruelas pasas, sin vitamina C, colado",
+"de": "Babynahrung, Backpflaumen, ohne Vitamin C, passiert",
+"pt": "Alimento infantil, ameixas secas, sem vitamina C, coado"
+},
+"575": {
+"it": "Alimento per l'infanzia, ravioli, ripieni di formaggio, con salsa di pomodoro",
+"fr": "Aliment pour bébé, raviolis, farcis au fromage, avec sauce tomate",
+"es": "Alimento para bebés, raviolis, rellenos de queso, con salsa de tomate",
+"de": "Babynahrung, Ravioli, mit Käsefüllung, mit Tomatensauce",
+"pt": "Alimento infantil, ravióli, recheados com queijo, com molho de tomate"
+},
+"576": {
+"it": "Alimento per l'infanzia, riso e mele, secco",
+"fr": "Aliment pour bébé, riz et pommes, sèches",
+"es": "Alimento para bebés, arroz y manzanas, seco",
+"de": "Babynahrung, Reis und Äpfel, trocken",
+"pt": "Alimento infantil, arroz e maçãs, seco"
+},
+"577": {
+"it": "Alimento per l'infanzia, cereale di riso, secco, EARTHS BEST ORGANIC WHOLE GRAIN, fortificato solo con ferro",
+"fr": "Aliment pour bébé, céréales de riz, sèches, EARTHS BEST ORGANIC WHOLE GRAIN, fortifiées uniquement en fer",
+"es": "Alimento para bebés, cereal de arroz, seco, EARTHS BEST ORGANIC WHOLE GRAIN, fortificado solo con hierro",
+"de": "Babynahrung, Reisbrei, trocken, EARTHS BEST ORGANIC WHOLE GRAIN, nur mit Eisen angereichert",
+"pt": "Alimento infantil, cereal de arroz, seco, EARTHS BEST ORGANIC WHOLE GRAIN, fortificado apenas com ferro"
+},
+"578": {
+"it": "Alimento per l'infanzia, snack, GERBER GRADUATE FRUIT STRIPS, barrette di frutta vera",
+"fr": "Aliment pour bébé, snack, GERBER GRADUATE FRUIT STRIPS, barres de vrais fruits",
+"es": "Alimento para bebés, snack, GERBER GRADUATE FRUIT STRIPS, barritas de fruta real",
+"de": "Babynahrung, Snack, GERBER GRADUATE FRUIT STRIPS, Riegel aus echtem Obst",
+"pt": "Alimento infantil, lanche, GERBER GRADUATE FRUIT STRIPS, barras de fruta de verdade"
+},
+"579": {
+"it": "Alimento per l'infanzia, snack, GERBER, GRADUATES, LIL CRUNCHIES, snack di mais integrale al forno",
+"fr": "Aliment pour bébé, snack, GERBER, GRADUATES, LIL CRUNCHIES, snack de maïs complet cuit au four",
+"es": "Alimento para bebés, snack, GERBER, GRADUATES, LIL CRUNCHIES, snack de maíz integral horneado",
+"de": "Babynahrung, Snack, GERBER, GRADUATES, LIL CRUNCHIES, gebackener Vollkornmais-Snack",
+"pt": "Alimento infantil, lanche, GERBER, GRADUATES, LIL CRUNCHIES, snack de milho integral assado"
+},
+"580": {
+"it": "Alimento per l'infanzia, snack, GERBER, GRADUATES, YOGURT MELTS",
+"fr": "Aliment pour bébé, snack, GERBER, GRADUATES, YOGURT MELTS",
+"es": "Alimento para bebés, snack, GERBER, GRADUATES, YOGURT MELTS",
+"de": "Babynahrung, Snack, GERBER, GRADUATES, YOGURT MELTS",
+"pt": "Alimento infantil, lanche, GERBER, GRADUATES, YOGURT MELTS"
+},
+"581": {
+"it": "Alimento per l'infanzia, misto di frutta tropicale",
+"fr": "Aliment pour bébé, assortiment de fruits tropicaux",
+"es": "Alimento para bebés, mezcla de frutas tropicales",
+"de": "Babynahrung, tropischer Fruchtmix",
+"pt": "Alimento infantil, mix de frutas tropicais"
+},
+"582": {
+"it": "Alimento per l'infanzia, verdura e riso integrale, omogeneizzato",
+"fr": "Aliment pour bébé, légume et riz complet, mixé",
+"es": "Alimento para bebés, verdura y arroz integral, colado",
+"de": "Babynahrung, Gemüse und Vollkornreis, passiert",
+"pt": "Alimento infantil, legume e arroz integral, coado"
+},
+"583": {
+"it": "Alimento per l'infanzia, verdura, zucca butternut e mais",
+"fr": "Aliment pour bébé, légume, courge butternut et maïs",
+"es": "Alimento para bebés, verdura, calabaza butternut y maíz",
+"de": "Babynahrung, Gemüse, Butternusskürbis und Mais",
+"pt": "Alimento infantil, legume, abóbora cabotiá e milho"
+},
+"584": {
+"it": "Alimento per l'infanzia, verdura, fagiolini e patate",
+"fr": "Aliment pour bébé, légume, haricots verts et pommes de terre",
+"es": "Alimento para bebés, verdura, judías verdes y patatas",
+"de": "Babynahrung, Gemüse, grüne Bohnen und Kartoffeln",
+"pt": "Alimento infantil, legume, vagem e batatas"
+},
+"585": {
+"it": "Alimento per l'infanzia, verdure, barbabietole, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, betteraves, mixé",
+"es": "Alimento para bebés, verduras, remolachas, colado",
+"de": "Babynahrung, Gemüse, Rote Bete, passiert",
+"pt": "Alimento infantil, legumes, beterrabas, coado"
+},
+"586": {
+"it": "Alimento per l'infanzia, verdure, carote, junior",
+"fr": "Aliment pour bébé, légumes, carottes, junior",
+"es": "Alimento para bebés, verduras, zanahorias, junior",
+"de": "Babynahrung, Gemüse, Karotten, Junior",
+"pt": "Alimento infantil, legumes, cenouras, júnior"
+},
+"587": {
+"it": "Alimento per l'infanzia, verdure, carote, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, carottes, mixé",
+"es": "Alimento para bebés, verduras, zanahorias, colado",
+"de": "Babynahrung, Gemüse, Karotten, passiert",
+"pt": "Alimento infantil, legumes, cenouras, coado"
+},
+"588": {
+"it": "Alimento per l'infanzia, verdure, mais, cremoso, junior",
+"fr": "Aliment pour bébé, légumes, maïs, en crème, junior",
+"es": "Alimento para bebés, verduras, maíz, en crema, junior",
+"de": "Babynahrung, Gemüse, Mais, cremig, Junior",
+"pt": "Alimento infantil, legumes, milho, cremoso, júnior"
+},
+"589": {
+"it": "Alimento per l'infanzia, verdure, mais, cremoso, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, maïs, en crème, mixé",
+"es": "Alimento para bebés, verduras, maíz, en crema, colado",
+"de": "Babynahrung, Gemüse, Mais, cremig, passiert",
+"pt": "Alimento infantil, legumes, milho, cremoso, coado"
+},
+"590": {
+"it": "Alimento per l'infanzia, verdure, verdure dell'orto, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, légumes du potager, mixé",
+"es": "Alimento para bebés, verduras, verduras de huerta, colado",
+"de": "Babynahrung, Gemüse, Gartengemüse, passiert",
+"pt": "Alimento infantil, legumes, legumes da horta, coado"
+},
+"591": {
+"it": "Alimento per l'infanzia, verdure, fagiolini, junior",
+"fr": "Aliment pour bébé, légumes, haricots verts, junior",
+"es": "Alimento para bebés, verduras, judías verdes, junior",
+"de": "Babynahrung, Gemüse, grüne Bohnen, Junior",
+"pt": "Alimento infantil, legumes, vagem, júnior"
+},
+"592": {
+"it": "Alimento per l'infanzia, verdure, fagiolini, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, haricots verts, mixé",
+"es": "Alimento para bebés, verduras, judías verdes, colado",
+"de": "Babynahrung, Gemüse, grüne Bohnen, passiert",
+"pt": "Alimento infantil, legumes, vagem, coado"
+},
+"593": {
+"it": "Alimento per l'infanzia, verdure, verdure miste, junior",
+"fr": "Aliment pour bébé, légumes, légumes mélangés, junior",
+"es": "Alimento para bebés, verduras, verduras mixtas, junior",
+"de": "Babynahrung, Gemüse, gemischtes Gemüse, Junior",
+"pt": "Alimento infantil, legumes, legumes mistos, júnior"
+},
+"594": {
+"it": "Alimento per l'infanzia, verdure, verdure miste, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, légumes mélangés, mixé",
+"es": "Alimento para bebés, verduras, verduras mixtas, colado",
+"de": "Babynahrung, Gemüse, gemischtes Gemüse, passiert",
+"pt": "Alimento infantil, legumes, legumes mistos, coado"
+},
+"595": {
+"it": "Alimento per l'infanzia, verdure, piselli, omogeneizzato",
+"fr": "Aliment pour bébé, légumes, petits pois, mixé",
+"es": "Alimento para bebés, verduras, guisantes, colado",
+"de": "Babynahrung, Gemüse, Erbsen, passiert",
+"pt": "Alimento infantil, legumes, ervilhas, coado"
+}
+}
