@@ -1748,5 +1748,341 @@
   "es": "Pan de maíz tipo corn pone, horneado",
   "de": "Maisbrot nach Corn-Pone-Art, gebacken",
   "pt": "Pão de milho tipo corn pone, assado"
+ },
+ "4720": {
+  "it": "Pane di mais tipo corn pone, fritto",
+  "fr": "Pain de maïs type corn pone, frit",
+  "es": "Pan de maíz tipo corn pone, frito",
+  "de": "Maisbrot nach Corn-Pone-Art, frittiert",
+  "pt": "Pão de milho tipo corn pone, frito"
+ },
+ "4721": {
+  "it": "Budino di mais, preparato in casa",
+  "fr": "Pudding de maïs, préparé à la maison",
+  "es": "Pudín de maíz, preparado en casa",
+  "de": "Maispudding, hausgemacht",
+  "pt": "Pudim de milho, preparado em casa"
+ },
+ "4722": {
+  "it": "Sciroppo di mais",
+  "fr": "Sirop de maïs",
+  "es": "Jarabe de maíz",
+  "de": "Maissirup",
+  "pt": "Xarope de milho"
+ },
+ "4723": {
+  "it": "Mais con peperoni rossi e verdi, in scatola, solidi e liquidi",
+  "fr": "Maïs avec poivrons rouges et verts, en conserve, solides et liquides",
+  "es": "Maíz con pimientos rojos y verdes, en conserva, sólidos y líquidos",
+  "de": "Mais mit roten und grünen Paprika, aus der Dose, feste und flüssige Bestandteile",
+  "pt": "Milho com pimentões vermelhos e verdes, enlatado, sólidos e líquidos"
+ },
+ "4724": {
+  "it": "Mais in scatola, cotto con burro o margarina",
+  "fr": "Maïs en conserve, cuit avec du beurre ou de la margarine",
+  "es": "Maíz enlatado, cocido con mantequilla o margarina",
+  "de": "Mais aus der Dose, mit Butter oder Margarine gegart",
+  "pt": "Milho enlatado, cozido com manteiga ou margarina"
+ },
+ "4725": {
+  "it": "Mais in scatola, cotto con olio",
+  "fr": "Maïs en conserve, cuit avec de l'huile",
+  "es": "Maíz enlatado, cocido con aceite",
+  "de": "Mais aus der Dose, mit Öl gegart",
+  "pt": "Milho enlatado, cozido com óleo"
+ },
+ "4726": {
+  "it": "Mais in scatola, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs en conserve, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz enlatado, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Mais aus der Dose, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho enlatado, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4727": {
+  "it": "Mais in scatola, cotto senza grassi aggiunti",
+  "fr": "Maïs en conserve, cuit sans ajout de matières grasses",
+  "es": "Maíz enlatado, cocido sin grasa añadida",
+  "de": "Mais aus der Dose, ohne zusätzliches Fett gegart",
+  "pt": "Milho enlatado, cozido sem gordura adicionada"
+ },
+ "4728": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto con burro o margarina",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit avec du beurre ou de la margarine",
+  "es": "Maíz enlatado reducido en sodio, cocido con mantequilla o margarina",
+  "de": "Natriumreduzierter Mais aus der Dose, mit Butter oder Margarine gegart",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido com manteiga ou margarina"
+ },
+ "4729": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto con olio",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit avec de l'huile",
+  "es": "Maíz enlatado reducido en sodio, cocido con aceite",
+  "de": "Natriumreduzierter Mais aus der Dose, mit Öl gegart",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido com óleo"
+ },
+ "4730": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz enlatado reducido en sodio, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Natriumreduzierter Mais aus der Dose, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4731": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto senza grassi aggiunti",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit sans ajout de matières grasses",
+  "es": "Maíz enlatado reducido en sodio, cocido sin grasa añadida",
+  "de": "Natriumreduzierter Mais aus der Dose, ohne zusätzliches Fett gegart",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido sem gordura adicionada"
+ },
+ "4732": {
+  "it": "Mais cotto, da ristorante",
+  "fr": "Maïs cuit, provenant d'un restaurant",
+  "es": "Maíz cocido, de restaurante",
+  "de": "Mais, gegart, aus dem Restaurant",
+  "pt": "Milho cozido, de restaurante"
+ },
+ "4733": {
+  "it": "Mais cremoso",
+  "fr": "Maïs en crème",
+  "es": "Maíz cremoso",
+  "de": "Cremiger Mais",
+  "pt": "Milho cremoso"
+ },
+ "4734": {
+  "it": "Mais essiccato (Navajo)",
+  "fr": "Maïs séché (Navajo)",
+  "es": "Maíz seco (navajo)",
+  "de": "Getrockneter Mais (Navajo)",
+  "pt": "Milho seco (Navajo)"
+ },
+ "4735": {
+  "it": "Mais giallo essiccato (popoli indigeni delle Northern Plains)",
+  "fr": "Maïs jaune séché (peuples autochtones des Northern Plains)",
+  "es": "Maíz amarillo seco (pueblos indígenas de las Northern Plains)",
+  "de": "Getrockneter gelber Mais (indigene Völker der Northern Plains)",
+  "pt": "Milho amarelo seco (povos indígenas das Northern Plains)"
+ },
+ "4736": {
+  "it": "Mais, farina precotta e pregelatinizzata",
+  "fr": "Maïs, farine précuite et prégélatinisée",
+  "es": "Maíz, harina precocida y pregelatinizada",
+  "de": "Mais, vorgekochtes und vorgelatiniertes Mehl",
+  "pt": "Milho, farinha pré-cozida e pré-gelatinizada"
+ },
+ "4737": {
+  "it": "Mais fresco, cotto con burro o margarina",
+  "fr": "Maïs frais, cuit avec du beurre ou de la margarine",
+  "es": "Maíz fresco, cocido con mantequilla o margarina",
+  "de": "Frischer Mais, mit Butter oder Margarine gegart",
+  "pt": "Milho fresco, cozido com manteiga ou margarina"
+ },
+ "4738": {
+  "it": "Mais fresco, cotto con olio",
+  "fr": "Maïs frais, cuit avec de l'huile",
+  "es": "Maíz fresco, cocido con aceite",
+  "de": "Frischer Mais, mit Öl gegart",
+  "pt": "Milho fresco, cozido com óleo"
+ },
+ "4739": {
+  "it": "Mais fresco, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs frais, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz fresco, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Frischer Mais, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho fresco, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4740": {
+  "it": "Mais fresco, cotto senza grassi aggiunti",
+  "fr": "Maïs frais, cuit sans ajout de matières grasses",
+  "es": "Maíz fresco, cocido sin grasa añadida",
+  "de": "Frischer Mais, ohne zusätzliches Fett gegart",
+  "pt": "Milho fresco, cozido sem gordura adicionada"
+ },
+ "4741": {
+  "it": "Mais surgelato, cotto con burro o margarina",
+  "fr": "Maïs surgelé, cuit avec du beurre ou de la margarine",
+  "es": "Maíz congelado, cocido con mantequilla o margarina",
+  "de": "Tiefgekühlter Mais, mit Butter oder Margarine gegart",
+  "pt": "Milho congelado, cozido com manteiga ou margarina"
+ },
+ "4742": {
+  "it": "Mais surgelato, cotto con olio",
+  "fr": "Maïs surgelé, cuit avec de l'huile",
+  "es": "Maíz congelado, cocido con aceite",
+  "de": "Tiefgekühlter Mais, mit Öl gegart",
+  "pt": "Milho congelado, cozido com óleo"
+ },
+ "4743": {
+  "it": "Mais surgelato, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs surgelé, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz congelado, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Tiefgekühlter Mais, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho congelado, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4744": {
+  "it": "Mais surgelato, cotto senza grassi aggiunti",
+  "fr": "Maïs surgelé, cuit sans ajout de matières grasses",
+  "es": "Maíz congelado, cocido sin grasa añadida",
+  "de": "Tiefgekühlter Mais, ohne zusätzliches Fett gegart",
+  "pt": "Milho congelado, cozido sem gordura adicionada"
+ },
+ "4745": {
+  "it": "Mais, forma non specificata, cotto",
+  "fr": "Maïs, forme non précisée, cuit",
+  "es": "Maíz, forma no especificada, cocido",
+  "de": "Mais, Form nicht angegeben, gegart",
+  "pt": "Milho, forma não especificada, cozido"
+ },
+ "4746": {
+  "it": "Mais, crudo",
+  "fr": "Maïs, cru",
+  "es": "Maíz, crudo",
+  "de": "Mais, roh",
+  "pt": "Milho, cru"
+ },
+ "4747": {
+  "it": "Mais gratinato o budino di mais",
+  "fr": "Maïs gratiné ou pudding de maïs",
+  "es": "Maíz gratinado o pudín de maíz",
+  "de": "Überbackener Mais oder Maispudding",
+  "pt": "Milho gratinado ou pudim de milho"
+ },
+ "4748": {
+  "it": "Mais dolce bianco in scatola, cremoso, senza sale aggiunto",
+  "fr": "Maïs doux blanc en conserve, en crème, sans sel ajouté",
+  "es": "Maíz dulce blanco enlatado, estilo cremoso, sin sal añadida",
+  "de": "Weißer Zuckermais aus der Dose, cremig, ohne Salzzusatz",
+  "pt": "Milho-doce branco enlatado, cremoso, sem adição de sal"
+ },
+ "4749": {
+  "it": "Mais dolce bianco in scatola, cremoso, confezione normale",
+  "fr": "Maïs doux blanc en conserve, en crème, conditionnement classique",
+  "es": "Maíz dulce blanco enlatado, estilo cremoso, envase normal",
+  "de": "Weißer Zuckermais aus der Dose, cremig, normale Packung",
+  "pt": "Milho-doce branco enlatado, cremoso, embalagem comum"
+ },
+ "4750": {
+  "it": "Mais dolce bianco in scatola, confezionato sottovuoto, senza sale aggiunto",
+  "fr": "Maïs doux blanc en conserve, emballé sous vide, sans sel ajouté",
+  "es": "Maíz dulce blanco enlatado, envasado al vacío, sin sal añadida",
+  "de": "Weißer Zuckermais aus der Dose, vakuumverpackt, ohne Salzzusatz",
+  "pt": "Milho-doce branco enlatado, embalado a vácuo, sem adição de sal"
+ },
+ "4751": {
+  "it": "Mais dolce bianco in scatola, confezionato sottovuoto, confezione normale",
+  "fr": "Maïs doux blanc en conserve, emballé sous vide, conditionnement classique",
+  "es": "Maíz dulce blanco enlatado, envasado al vacío, envase normal",
+  "de": "Weißer Zuckermais aus der Dose, vakuumverpackt, normale Packung",
+  "pt": "Milho-doce branco enlatado, embalado a vácuo, embalagem comum"
+ },
+ "4752": {
+  "it": "Mais dolce bianco in scatola, chicchi interi, solidi sgocciolati",
+  "fr": "Maïs doux blanc en conserve, grains entiers, solides égouttés",
+  "es": "Maíz dulce blanco enlatado, granos enteros, sólidos escurridos",
+  "de": "Weißer Zuckermais aus der Dose, ganze Körner, abgetropfte Bestandteile",
+  "pt": "Milho-doce branco enlatado, grãos inteiros, sólidos escorridos"
+ },
+ "4753": {
+  "it": "Mais dolce bianco in scatola, chicchi interi, senza sale aggiunto, solidi e liquidi",
+  "fr": "Maïs doux blanc en conserve, grains entiers, sans sel ajouté, solides et liquides",
+  "es": "Maíz dulce blanco enlatado, granos enteros, sin sal añadida, sólidos y líquidos",
+  "de": "Weißer Zuckermais aus der Dose, ganze Körner, ohne Salzzusatz, feste und flüssige Bestandteile",
+  "pt": "Milho-doce branco enlatado, grãos inteiros, sem adição de sal, sólidos e líquidos"
+ },
+ "4754": {
+  "it": "Mais dolce bianco in scatola, chicchi interi, confezione normale, solidi e liquidi",
+  "fr": "Maïs doux blanc en conserve, grains entiers, conditionnement classique, solides et liquides",
+  "es": "Maíz dulce blanco enlatado, granos enteros, envase normal, sólidos y líquidos",
+  "de": "Weißer Zuckermais aus der Dose, ganze Körner, normale Packung, feste und flüssige Bestandteile",
+  "pt": "Milho-doce branco enlatado, grãos inteiros, embalagem comum, sólidos e líquidos"
+ },
+ "4755": {
+  "it": "Mais dolce bianco, cotto, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux blanc, cuit, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce blanco, cocido, hervido, escurrido, con sal",
+  "de": "Weißer Zuckermais, gekocht, abgekocht, abgetropft, mit Salz",
+  "pt": "Milho-doce branco, cozido, fervido, escorrido, com sal"
+ },
+ "4756": {
+  "it": "Mais dolce bianco, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux blanc, cuit, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce blanco, cocido, hervido, escurrido, sin sal",
+  "de": "Weißer Zuckermais, gekocht, abgekocht, abgetropft, ohne Salz",
+  "pt": "Milho-doce branco, cozido, fervido, escorrido, sem sal"
+ },
+ "4757": {
+  "it": "Mais dolce bianco surgelato, chicchi staccati dalla pannocchia, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux blanc surgelé, grains détachés de l'épi, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce blanco congelado, granos separados de la mazorca, hervido, escurrido, con sal",
+  "de": "Tiefgekühlter weißer Zuckermais, Körner vom Kolben geschnitten, gekocht, abgetropft, mit Salz",
+  "pt": "Milho-doce branco congelado, grãos cortados da espiga, fervidos, escorridos, com sal"
+ },
+ "4758": {
+  "it": "Mais dolce bianco surgelato, chicchi staccati dalla pannocchia, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux blanc surgelé, grains détachés de l'épi, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce blanco congelado, granos separados de la mazorca, hervido, escurrido, sin sal",
+  "de": "Tiefgekühlter weißer Zuckermais, Körner vom Kolben geschnitten, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho-doce branco congelado, grãos cortados da espiga, fervidos, escorridos, sem sal"
+ },
+ "4759": {
+  "it": "Mais dolce bianco surgelato, chicchi staccati dalla pannocchia, non preparato",
+  "fr": "Maïs doux blanc surgelé, grains détachés de l'épi, non préparé",
+  "es": "Maíz dulce blanco congelado, granos separados de la mazorca, sin preparar",
+  "de": "Tiefgekühlter weißer Zuckermais, Körner vom Kolben geschnitten, unzubereitet",
+  "pt": "Milho-doce branco congelado, grãos cortados da espiga, não preparado"
+ },
+ "4760": {
+  "it": "Mais dolce bianco surgelato, in pannocchia, cotto, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux blanc surgelé, en épi, cuit, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce blanco congelado, en mazorca, cocido, hervido, escurrido, con sal",
+  "de": "Tiefgekühlter weißer Zuckermais am Kolben, gekocht, abgetropft, mit Salz",
+  "pt": "Milho-doce branco congelado, na espiga, cozido, fervido, escorrido, com sal"
+ },
+ "4761": {
+  "it": "Mais dolce bianco surgelato, in pannocchia, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux blanc surgelé, en épi, cuit, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce blanco congelado, en mazorca, cocido, hervido, escurrido, sin sal",
+  "de": "Tiefgekühlter weißer Zuckermais am Kolben, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho-doce branco congelado, na espiga, cozido, fervido, escorrido, sem sal"
+ },
+ "4762": {
+  "it": "Mais dolce bianco surgelato, in pannocchia, non preparato",
+  "fr": "Maïs doux blanc surgelé, en épi, non préparé",
+  "es": "Maíz dulce blanco congelado, en mazorca, sin preparar",
+  "de": "Tiefgekühlter weißer Zuckermais am Kolben, unzubereitet",
+  "pt": "Milho-doce branco congelado, na espiga, não preparado"
+ },
+ "4763": {
+  "it": "Mais dolce bianco, crudo",
+  "fr": "Maïs doux blanc, cru",
+  "es": "Maíz dulce blanco, crudo",
+  "de": "Weißer Zuckermais, roh",
+  "pt": "Milho-doce branco, cru"
+ },
+ "4764": {
+  "it": "Mais dolce, chicchi gialli e bianchi, fresco, crudo",
+  "fr": "Maïs doux, grains jaunes et blancs, frais, cru",
+  "es": "Maíz dulce, granos amarillos y blancos, fresco, crudo",
+  "de": "Zuckermais, gelbe und weiße Körner, frisch, roh",
+  "pt": "Milho-doce, grãos amarelos e brancos, fresco, cru"
+ },
+ "4765": {
+  "it": "Mais dolce giallo in scatola, in salamoia, confezione normale, solidi e liquidi",
+  "fr": "Maïs doux jaune en conserve, en saumure, conditionnement classique, solides et liquides",
+  "es": "Maíz dulce amarillo enlatado, en salmuera, envase normal, sólidos y líquidos",
+  "de": "Gelber Zuckermais aus der Dose, in Salzlake, normale Packung, feste und flüssige Bestandteile",
+  "pt": "Milho-doce amarelo enlatado, em salmoura, embalagem comum, sólidos e líquidos"
+ },
+ "4766": {
+  "it": "Mais dolce giallo in scatola, cremoso, senza sale aggiunto",
+  "fr": "Maïs doux jaune en conserve, en crème, sans sel ajouté",
+  "es": "Maíz dulce amarillo enlatado, estilo cremoso, sin sal añadida",
+  "de": "Gelber Zuckermais aus der Dose, cremig, ohne Salzzusatz",
+  "pt": "Milho-doce amarelo enlatado, cremoso, sem adição de sal"
+ },
+ "4767": {
+  "it": "Mais dolce giallo in scatola, cremoso, confezione normale",
+  "fr": "Maïs doux jaune en conserve, en crème, conditionnement classique",
+  "es": "Maíz dulce amarillo enlatado, estilo cremoso, envase normal",
+  "de": "Gelber Zuckermais aus der Dose, cremig, normale Packung",
+  "pt": "Milho-doce amarelo enlatado, cremoso, embalagem comum"
  }
 }
