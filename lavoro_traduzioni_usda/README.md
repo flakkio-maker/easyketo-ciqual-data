@@ -1,14 +1,14 @@
-# Traduzioni nomi USDA (it, fr, es, de, pt-BR): lavoro SOSPESO il 28 novembre 2026
+# Traduzioni nomi USDA (it, fr, es, de, pt-BR): avanzamento aggiornato il 28 novembre 2026
 
 `usda_2026.json` (13.402 voci) ha ancora solo il nome inglese. Gli altri 5 database (CIQUAL, BLS, UK, CREA, TACO) sono gia' in 6 lingue.
 I lotti sono di 298 voci: il lotto NN copre le righe (NN-1)*298 ... NN*298-1 (id = indice riga). L'ultimo (45) e' piu' corto.
 
 ## Stato
-- **output/**: 25 lotti tradotti e validati (0 problemi): 01-15, 17, 18, 20, 21, 24-28, 35.
-- **output_parziali/**: lotti 30, 31, 32, 34, incompleti (mancano 5, 4, 1, 5 voci). Non validi cosi': vanno completati.
-- **Da fare del tutto**: 16, 19, 22, 23, 29, 33, 36-45.
-- Mai rivisti da un madrelingua; controllati solo dal validatore e a campione a vista. Il controllo "per somiglianza" non e' affidabile tra lingue lontane.
-- Il lavoro si e' fermato per il limite d'uso a 5 ore, poi per richiesta del titolare.
+- **output/**: 29 lotti completi sul piano strutturale: 01-15, 17, 18, 20, 21, 24-28, 30-32, 34-35.
+- **output_parziali/**: nessun lotto parziale residuo. I lotti 30, 31, 32 e 34 sono stati completati integrando esclusivamente gli ID mancanti e trasferiti in `output/`.
+- **Da fare del tutto**: 16, 19, 22, 23, 29, 33, 36-45 (16 lotti).
+- I lotti appena completati hanno superato un controllo strutturale di copertura ID e presenza dei cinque campi lingua, coerente con `validate_names.py`. Non sono stati eseguiti localmente gli script Python del repository né una revisione madrelingua: non considerarli validati linguisticamente.
+- Il README precedente riportava conteggi di mancanti non coerenti con gli input effettivi: i mancanti rilevati erano 25 nel lotto 30, 4 nel 31, 1 nel 32 e 9 nel 34.
 
 ## Come proseguire
 1. Per ogni lotto da fare: tradurre `input/in_usda_NN.json` (id, en, categoria, tipo) seguendo `ISTRUZIONI_DB.md` (glossario, regole di stile; pt = portoghese del Brasile). Output `output/out_usda_NN.json`: `{"<id>": {"it":"..","fr":"..","es":"..","de":"..","pt":".."}}` per OGNI id.
