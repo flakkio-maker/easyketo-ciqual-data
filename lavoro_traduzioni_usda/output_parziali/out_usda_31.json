@@ -1,2060 +1,2088 @@
 {
-"8940": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e verdure aggiunte, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate et légumes ajoutés, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate y verduras añadidas, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate e vegetais adicionados, pronto para aquecer"
-},
-"8941": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e verdure aggiunte, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate et légumes ajoutés, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate y verduras añadidas, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate e vegetais adicionados, de restaurante"
-},
-"8942": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e carne, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate et viande, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate y carne, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Fleisch, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate e carne, receita caseira"
-},
-"8943": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e carne, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate et viande, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate y carne, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Fleisch, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate e carne, pronto para aquecer"
-},
-"8944": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e carne, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate et viande, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate y carne, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Fleisch, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate e carne, de restaurante"
-},
-"8945": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e pollame, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate et volaille, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate y aves, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Geflügel, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate e aves, receita caseira"
-},
-"8946": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e pollame, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate et volaille, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate y aves, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Geflügel, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate e aves, pronto para aquecer"
-},
-"8947": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e pollame, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate et volaille, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate y aves, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Geflügel, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate e aves, de restaurante"
-},
-"8948": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e frutti di mare, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate et fruits de mer, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate y mariscos, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Meeresfrüchten, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate e frutos do mar, receita caseira"
-},
-"8949": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e frutti di mare, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate et fruits de mer, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate y mariscos, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Meeresfrüchten, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate e frutos do mar, pronto para aquecer"
-},
-"8950": {
-"it": "Pasta, integrale, con salsa a base di pomodoro e frutti di mare, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate et fruits de mer, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate y mariscos, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Meeresfrüchten, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate e frutos do mar, de restaurante"
-},
-"8951": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate, receita caseira"
-},
-"8952": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, carne e verdure aggiunte, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate, viande et légumes ajoutés, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate, carne y verduras añadidas, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate, carne e vegetais adicionados, receita caseira"
-},
-"8953": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, carne e verdure aggiunte, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate, viande et légumes ajoutés, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate, carne y verduras añadidas, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate, carne e vegetais adicionados, pronto para aquecer"
-},
-"8954": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, carne e verdure aggiunte, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate, viande et légumes ajoutés, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate, carne y verduras añadidas, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate, carne e vegetais adicionados, de restaurante"
-},
-"8955": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, pollame e verdure aggiunte, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate, volaille et légumes ajoutés, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate, aves y verduras añadidas, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate, aves e vegetais adicionados, receita caseira"
-},
-"8956": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, pollame e verdure aggiunte, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate, volaille et légumes ajoutés, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate, aves y verduras añadidas, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate, aves e vegetais adicionados, pronto para aquecer"
-},
-"8957": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, pollame e verdure aggiunte, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate, volaille et légumes ajoutés, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate, aves y verduras añadidas, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate, aves e vegetais adicionados, de restaurante"
-},
-"8958": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate, pronto para aquecer"
-},
-"8959": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate, de restaurante"
-},
-"8960": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, frutti di mare e verdure aggiunte, ricetta casalinga",
-"fr": "Pâtes, completes, avec sauce tomate, fruits de mer et légumes ajoutés, recette maison",
-"es": "Pasta, integral, con salsa a base de tomate, mariscos y verduras añadidas, receta casera",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Meeresfrüchten und zusätzlichem Gemüse, Hausrezept",
-"pt": "Massa, integral, com molho à base de tomate, frutos do mar e vegetais adicionados, receita caseira"
-},
-"8961": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, frutti di mare e verdure aggiunte, pronto da riscaldare",
-"fr": "Pâtes, completes, avec sauce tomate, fruits de mer et légumes ajoutés, prêt à réchauffer",
-"es": "Pasta, integral, con salsa a base de tomate, mariscos y verduras añadidas, listo para calentar",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Meeresfrüchten und zusätzlichem Gemüse, zum Erhitzen fertig",
-"pt": "Massa, integral, com molho à base de tomate, frutos do mar e vegetais adicionados, pronto para aquecer"
-},
-"8962": {
-"it": "Pasta, integrale, con salsa a base di pomodoro, frutti di mare e verdure aggiunte, da ristorante",
-"fr": "Pâtes, completes, avec sauce tomate, fruits de mer et légumes ajoutés, de restaurant",
-"es": "Pasta, integral, con salsa a base de tomate, mariscos y verduras añadidas, de restaurante",
-"de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Meeresfrüchten und zusätzlichem Gemüse, aus dem Restaurant",
-"pt": "Massa, integral, com molho à base de tomate, frutos do mar e vegetais adicionados, de restaurante"
-},
-"8963": {
-"it": "Pasta, di grano integrale, cotta (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Pâtes, de blé complet, cuites (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Pasta, de trigo integral, cocida (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Nudeln, Vollkorn, gekocht (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Massa, de trigo integral, cozida (inclui alimentos do Food Distribution Program do USDA)"
-},
-"8964": {
-"it": "Pasta, di grano integrale, secca (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Pâtes, de blé complet, sèche (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Pasta, de trigo integral, seca (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Nudeln, Vollkorn, trocken (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Massa, de trigo integral, seca (inclui alimentos do Food Distribution Program do USDA)"
-},
-"8965": {
-"it": "Pastrami, manzo, 98e senza grassi",
-"fr": "Pastrami, bœuf, 98  sans matières grasses",
-"es": "Pastrami, vacuno, 98e sin grasa",
-"de": "Pastrami, Rind, 98  fettfrei",
-"pt": "Pastrami, carne bovina, 98e sem gordura"
-},
-"8966": {
-"it": "Pastrami, di qualsiasi tipo di carne, a ridotto contenuto di grassi",
-"fr": "Pastrami, de n'importe quelle viande, à teneur réduite en matières grasses",
-"es": "Pastrami, de cualquier tipo de carne, reducido en grasa",
-"de": "Pastrami, aus beliebigem Fleisch, fettreduziert",
-"pt": "Pastrami, de qualquer tipo de carne, com teor reduzido de gordura"
-},
-"8967": {
-"it": "Pastrami, non specificato",
-"fr": "Pastrami, non spécifié",
-"es": "Pastrami, no especificado",
-"de": "Pastrami, nicht näher bezeichnet",
-"pt": "Pastrami, não especificado"
-},
-"8968": {
-"it": "Pastrami, tacchino",
-"fr": "Pastrami, dinde",
-"es": "Pastrami, pavo",
-"de": "Pastrami, Pute",
-"pt": "Pastrami, peru"
-},
-"8969": {
-"it": "Pasticcino, ripieno di formaggio",
-"fr": "Pâtisserie, fourrée au fromage",
-"es": "Pastelito, relleno de queso",
-"de": "Gebäck, mit Käsefüllung",
-"pt": "Doce de massa, recheado com queijo"
-},
-"8970": {
-"it": "Pasticcino, cinese, a base di farina di riso",
-"fr": "Pâtisserie, chinoise, à base de farine de riz",
-"es": "Pastelito, chino, hecho con harina de arroz",
-"de": "Gebäck, chinesisch, aus Reismehl",
-"pt": "Doce de massa, chinês, feito com farinha de arroz"
-},
-"8971": {
-"it": "Pasticcino, tipo biscotto, fritto",
-"fr": "Pâtisserie, type biscuit, frite",
-"es": "Pastelito, tipo galleta, frito",
-"de": "Gebäck, Keksart, frittiert",
-"pt": "Doce de massa, tipo biscoito, frito"
-},
-"8972": {
-"it": "Pasticcino, ripieno di uovo e formaggio",
-"fr": "Pâtisserie, fourrée aux œufs et au fromage",
-"es": "Pastelito, relleno de huevo y queso",
-"de": "Gebäck, mit Ei-Käse-Füllung",
-"pt": "Doce de massa, recheado com ovo e queijo"
-},
-"8973": {
-"it": "Pasticcino, ripieno di frutta",
-"fr": "Pâtisserie, fourrée aux fruits",
-"es": "Pastelito, relleno de fruta",
-"de": "Gebäck, mit Fruchtfüllung",
-"pt": "Doce de massa, recheado com frutas"
-},
-"8974": {
-"it": "Pasticcino, italiano, con formaggio",
-"fr": "Pâtisserie, italiene, au fromage",
-"es": "Pastelito, italiano, con queso",
-"de": "Gebäck, italienisch, mit Käse",
-"pt": "Doce de massa, italiano, com queijo"
-},
-"8975": {
-"it": "Pasticcino, con ripieno di pasta di fagioli o semi di loto, al forno",
-"fr": "Pâtisserie, avec garniture de pâte de haricots ou de graines de lotus, cuite au four",
-"es": "Pastelito, con relleno de pasta de frijoles o de semillas de loto, al horno",
-"de": "Gebäck, mit Füllung aus Bohnen- oder Lotossamenpaste, gebacken",
-"pt": "Doce de massa, com recheio de pasta de feijão ou de sementes de lótus, assado no forno"
-},
-"8976": {
-"it": "Pasticcino, con ripieno di pasta di fagioli e tuorlo d'uovo salato, al forno",
-"fr": "Pâtisserie, avec garniture de pâte de haricots et de jaune d'œuf salé, cuite au four",
-"es": "Pastelito, con relleno de pasta de frijoles y yema de huevo salada, al horno",
-"de": "Gebäck, mit Füllung aus Bohnenpaste und gesalzenem Eigelb, gebacken",
-"pt": "Doce de massa, com recheio de pasta de feijão e gema de ovo salgada, assado no forno"
-},
-"8977": {
-"it": "Pasticcino, a base soprattutto di farina e acqua, fritto",
-"fr": "Pâtisserie, principalement à base de farine et d'eau, frite",
-"es": "Pastelito, principalmente de harina y agua, frito",
-"de": "Gebäck, hauptsächlich aus Mehl und Wasser, frittiert",
-"pt": "Doce de massa, feito principalmente de farinha e água, frito"
-},
-"8978": {
-"it": "Pasticcino, ripieno di carne / pollame",
-"fr": "Pâtisserie, fourrée à la viande / à la volaille",
-"es": "Pastelito, relleno de carne / aves",
-"de": "Gebäck, mit Fleisch-/Geflügelfüllung",
-"pt": "Doce de massa, recheado com carne / aves"
-},
-"8979": {
-"it": "Pasticcino, Pastelitos de Guava (pasticcini alla guaiava)",
-"fr": "Pâtisserie, Pastelitos de guayaba (pâtisseries à la goyave)",
-"es": "Pastelito, Pastelitos de guayaba",
-"de": "Gebäck, Pastelitos de Guava (Guavengebäck)",
-"pt": "Doce de massa, Pastelitos de Guava (doces de massa com goiaba)"
-},
-"8980": {
-"it": "Pasticcino, sfoglia",
-"fr": "Pâtisserie, feuilletée",
-"es": "Pastelito, de hojaldre",
-"de": "Gebäck, Blätterteig",
-"pt": "Doce de massa, folhado"
-},
-"8981": {
-"it": "Pasticcino, sfoglia, ripieno di crema pasticcera o panna, glassato o non glassato",
-"fr": "Pâtisserie, feuilletée, fourrée de crème pâtissière ou de crème, glacée ou non",
-"es": "Pastelito, de hojaldre, relleno de crema pastelera o nata, glaseado o sin glasear",
-"de": "Gebäck, Blätterteig, mit Pudding- oder Sahnefüllung, glasiert oder unglasiert",
-"pt": "Doce de massa, folhado, recheado com creme de confeiteiro ou chantilly, com ou sem cobertura"
-},
-"8982": {
-"it": "Pâté de foie gras, in scatola (paté di fegato d'oca), affumicato",
-"fr": "Pâté de foie gras, en conserve (pâté de foie d'oie), fumé",
-"es": "Pâté de foie gras, en conserva (paté de hígado de ganso), ahumado",
-"de": "Pâté de foie gras, aus der Dose (Gänseleberpastete), geräuchert",
-"pt": "Pâté de foie gras, enlatado (patê de fígado de ganso), defumado"
-},
-"8983": {
-"it": "Paté, di fegato di pollo, in scatola",
-"fr": "Pâté, de foie de volaille, en conserve",
-"es": "Paté, de hígado de pollo, en conserva",
-"de": "Pastete, aus Hühnerleber, aus der Dose",
-"pt": "Patê, de fígado de frango, enlatado"
-},
-"8984": {
-"it": "Paté, di fegato d'oca, affumicato, in scatola",
-"fr": "Pâté, de foie d'oie, fumé, en conserve",
-"es": "Paté, de hígado de ganso, ahumado, en conserva",
-"de": "Pastete, aus Gänseleber, geräuchert, aus der Dose",
-"pt": "Patê, de fígado de ganso, defumado, enlatado"
-},
-"8985": {
-"it": "Paté, di fegato, non specificato, in scatola",
-"fr": "Pâté, de foie, non précisé, en conserve",
-"es": "Paté, de hígado, sin especificar, en conserva",
-"de": "Pastete, aus Leber, nicht angegeben, aus der Dose",
-"pt": "Patê, de fígado, não especificado, enlatado"
-},
-"8986": {
-"it": "Paté, aroma di tartufo",
-"fr": "Pâté, aromatisé à la truffe",
-"es": "Paté, sabor a trufa",
-"de": "Pastete, mit Trüffelaroma",
-"pt": "Patê, sabor trufa"
-},
-"8987": {
-"it": "Insalata di piselli",
-"fr": "Salade de petits pois",
-"es": "Ensalada de guisantes",
-"de": "Erbsensalat",
-"pt": "Salada de ervilha"
-},
-"8988": {
-"it": "Insalata di piselli con formaggio",
-"fr": "Salade de petits pois au fromage",
-"es": "Ensalada de guisantes con queso",
-"de": "Erbsensalat mit Käse",
-"pt": "Salada de ervilha com queijo"
-},
-"8989": {
-"it": "Nettare di pesca",
-"fr": "Nectar de pêche",
-"es": "Néctar de durazno",
-"de": "Pfirsichnektar",
-"pt": "Néctar de pêssego"
-},
-"8990": {
-"it": "Nettare di pesca, in scatola, con acido ascorbico aggiunto",
-"fr": "Nectar de pêche, en conserve, avec acide ascorbique ajouté",
-"es": "Néctar de durazno, en conserva, con ácido ascórbico añadido",
-"de": "Pfirsichnektar, aus der Dose, mit Zusatz von Ascorbinsäure",
-"pt": "Néctar de pêssego, enlatado, com ácido ascórbico adicionado"
-},
-"8991": {
-"it": "Nettare di pesca, in scatola, con sucralosio, senza acido ascorbico aggiunto",
-"fr": "Nectar de pêche, en conserve, avec sucralose, sans acide ascorbique ajouté",
-"es": "Néctar de durazno, en conserva, con sucralosa, sin ácido ascórbico añadido",
-"de": "Pfirsichnektar, aus der Dose, mit Sucralose, ohne Zusatz von Ascorbinsäure",
-"pt": "Néctar de pêssego, enlatado, com sucralose, sem ácido ascórbico adicionado"
-},
-"8992": {
-"it": "Pesca, in scatola, in sciroppo",
-"fr": "Pêche, en conserve, au sirop",
-"es": "Durazno, en conserva, en almíbar",
-"de": "Pfirsich, aus der Dose, in Sirup",
-"pt": "Pêssego, enlatado, em calda"
-},
-"8993": {
-"it": "Pesca, in scatola, in succo",
-"fr": "Pêche, en conserve, au jus",
-"es": "Durazno, en conserva, en jugo",
-"de": "Pfirsich, aus der Dose, in Saft",
-"pt": "Pêssego, enlatado, em suco"
-},
-"8994": {
-"it": "Pesca, in scatola, non specificato",
-"fr": "Pêche, en conserve, non spécifié",
-"es": "Durazno, en conserva, no especificado",
-"de": "Pfirsich, aus der Dose, nicht näher bezeichnet",
-"pt": "Pêssego, enlatado, não especificado"
-},
-"8995": {
-"it": "Pesca, secca",
-"fr": "Pêche, séchée",
-"es": "Durazno, seco",
-"de": "Pfirsich, getrocknet",
-"pt": "Pêssego, seco"
-},
-"8996": {
-"it": "Pesca, surgelata",
-"fr": "Pêche, surgelée",
-"es": "Durazno, congelado",
-"de": "Pfirsich, tiefgekühlt",
-"pt": "Pêssego, congelado"
-},
-"8997": {
-"it": "Pesca, cruda",
-"fr": "Pêche, crue",
-"es": "Durazno, crudo",
-"de": "Pfirsich, roh",
-"pt": "Pêssego, cruo"
-},
-"8998": {
-"it": "Pesche, in scatola, in sciroppo extra denso, solidi e liquidi",
-"fr": "Pêches, en conserve, au sirop extra épais, solides et liquides",
-"es": "Duraznos, en conserva, en almíbar extra espeso, sólidos y líquidos",
-"de": "Pfirsiche, aus der Dose, in extra dickem Sirup, feste und flüssige Bestandteile",
-"pt": "Pêssegos, enlatados, em calda extra densa, sólidos e líquidos"
-},
-"8999": {
-"it": "Pesche, in scatola, in sciroppo extra leggero, solidi e liquidi (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Pêches, en conserve, au sirop extra léger, solides et liquides (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Duraznos, en conserva, en almíbar extra ligero, sólidos y líquidos (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Pfirsiche, aus der Dose, in extra leichtem Sirup, feste und flüssige Bestandteile (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Pêssegos, enlatados, em calda extra leve, sólidos e líquidos (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9000": {
-"it": "Pesche, in scatola, in sciroppo denso, solidi e liquidi",
-"fr": "Pêches, en conserve, au sirop épais, solides et liquides",
-"es": "Duraznos, en conserva, en almíbar espeso, sólidos y líquidos",
-"de": "Pfirsiche, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
-"pt": "Pêssegos, enlatados, em calda densa, sólidos e líquidos"
-},
-"9001": {
-"it": "Pesche, in scatola, in sciroppo denso, sgocciolate",
-"fr": "Pêches, en conserve, au sirop épais, égouttées",
-"es": "Duraznos, en conserva, en almíbar espeso, escurridos",
-"de": "Pfirsiche, aus der Dose, in dickem Sirup, abgetropft",
-"pt": "Pêssegos, enlatados, em calda densa, escorridos"
-},
-"9002": {
-"it": "Pesche, in scatola, in succo, solidi e liquidi",
-"fr": "Pêches, en conserve, au jus, solides et liquides",
-"es": "Duraznos, en conserva, en jugo, sólidos y líquidos",
-"de": "Pfirsiche, aus der Dose, in Saft, feste und flüssige Bestandteile",
-"pt": "Pêssegos, enlatados, em suco, sólidos e líquidos"
-},
-"9003": {
-"it": "Pesche, in scatola, in sciroppo leggero, solidi e liquidi",
-"fr": "Pêches, en conserve, au sirop léger, solides et liquides",
-"es": "Duraznos, en conserva, en almíbar ligero, sólidos y líquidos",
-"de": "Pfirsiche, aus der Dose, in leichtem Sirup, feste und flüssige Bestandteile",
-"pt": "Pêssegos, enlatados, em calda leve, sólidos e líquidos"
-},
-"9004": {
-"it": "Pesche, in scatola, in acqua, solidi e liquidi",
-"fr": "Pêches, en conserve, à l'eau, solides et liquides",
-"es": "Duraznos, en conserva, en agua, sólidos y líquidos",
-"de": "Pfirsiche, aus der Dose, in Wasser, feste und flüssige Bestandteile",
-"pt": "Pêssegos, enlatados, em água, sólidos e líquidos"
-},
-"9005": {
-"it": "Pesche, disidratate (a basso contenuto di umidità), solforate, stufate",
-"fr": "Pêches, déshydratées (à faible teneur en eau), sulfitées, mijotées",
-"es": "Duraznos, deshidratados (de baja humedad), sulfurados, estofados",
-"de": "Pfirsiche, dehydriert (feuchtigkeitsarm), geschwefelt, geschmort",
-"pt": "Pêssegos, desidratados (baixa umidade), sulfitados, ensopados"
-},
-"9006": {
-"it": "Pesche, disidratate (a basso contenuto di umidità), solforate, non cotte",
-"fr": "Pêches, déshydratées (à faible teneur en eau), sulfitées, non cuites",
-"es": "Duraznos, deshidratados (de baja humedad), sulfurados, sin cocinar",
-"de": "Pfirsiche, dehydriert (feuchtigkeitsarm), geschwefelt, ungekocht",
-"pt": "Pêssegos, desidratados (baixa umidade), sulfitados, não cozidos"
-},
-"9007": {
-"it": "Pesche, secce, solforate, stufate, con zucchero aggiunto",
-"fr": "Pêches, séchées, sulfitées, mijotées, avec sucre ajouté",
-"es": "Duraznos, secos, sulfurados, estofados, con azúcar añadido",
-"de": "Pfirsiche, getrocknet, geschwefelt, geschmort, mit Zuckerzusatz",
-"pt": "Pêssegos, secos, sulfitados, ensopados, com açúcar adicionado"
-},
-"9008": {
-"it": "Pesche, secce, solforate, stufate, senza zucchero aggiunto",
-"fr": "Pêches, séchées, sulfitées, mijotées, sans sucre ajouté",
-"es": "Duraznos, secos, sulfurados, estofados, sin azúcar añadido",
-"de": "Pfirsiche, getrocknet, geschwefelt, geschmort, ohne Zuckerzusatz",
-"pt": "Pêssegos, secos, sulfitados, ensopados, sem açúcar adicionado"
-},
-"9009": {
-"it": "Pesche, secce, solforate, non cotte",
-"fr": "Pêches, séchées, sulfitées, non cuites",
-"es": "Duraznos, secos, sulfurados, sin cocinar",
-"de": "Pfirsiche, getrocknet, geschwefelt, ungekocht",
-"pt": "Pêssegos, secos, sulfitados, não cozidos"
-},
-"9010": {
-"it": "Pesche, surgelate, a fette, zuccherate",
-"fr": "Pêches, surgelées, tranchées, sucrées",
-"es": "Duraznos, congelados, en rodajas, azucarados",
-"de": "Pfirsiche, tiefgekühlt, in Scheiben, gezuckert",
-"pt": "Pêssegos, congelados, fatiados, adoçados"
-},
-"9011": {
-"it": "Pesche, speziate, in scatola, in sciroppo denso, solidi e liquidi",
-"fr": "Pêches, épicées, en conserve, au sirop épais, solides et liquides",
-"es": "Duraznos, con especias, en conserva, en almíbar espeso, sólidos y líquidos",
-"de": "Pfirsiche, gewürzt, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
-"pt": "Pêssegos, temperados, enlatados, em calda densa, sólidos e líquidos"
-},
-"9013": {
-"it": "Burro di arachidi",
-"fr": "Beurre de cacahuète",
-"es": "Mantequilla de maní",
-"de": "Erdnussbutter",
-"pt": "Manteiga de amendoim"
-},
-"9014": {
-"it": "Crema spalmabile di burro di arachidi e cioccolato",
-"fr": "Pâte à tartiner au beurre de cacahuète et au chocolat",
-"es": "Crema para untar de mantequilla de maní y chocolate",
-"de": "Brotaufstrich aus Erdnussbutter und Schokolade",
-"pt": "Pasta de amendoim com chocolate"
-},
-"9015": {
-"it": "Burro di arachidi e marmellata",
-"fr": "Beurre de cacahuète et gelée de fruits",
-"es": "Mantequilla de maní y mermelada",
-"de": "Erdnussbutter und Marmelade",
-"pt": "Manteiga de amendoim e geleia"
-},
-"9016": {
-"it": "Panino con burro di arachidi e marmellata, prodotto commerciale surgelato senza crosta",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, produit commercial surgelé sans croûte",
-"es": "Sándwich de mantequilla de maní y mermelada, producto comercial congelado sin corteza",
-"de": "Sandwich mit Erdnussbutter und Marmelade, handelsübliches Tiefkühlprodukt ohne Rinde",
-"pt": "Sanduíche de manteiga de amendoim e geleia, produto comercial congelado sem casca"
-},
-"9017": {
-"it": "Panino con burro di arachidi e marmellata, non specificato",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, non spécifié",
-"es": "Sándwich de mantequilla de maní y mermelada, no especificado",
-"de": "Sandwich mit Erdnussbutter und Marmelade, nicht näher bezeichnet",
-"pt": "Sanduíche de manteiga de amendoim e geleia, não especificado"
-},
-"9018": {
-"it": "Panino con burro di arachidi e marmellata, con burro di arachidi a ridotto contenuto di grassi, su pane integrale",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète allégé, sur pain complet",
-"es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní reducida en grasa, en pan integral",
-"de": "Sandwich mit Erdnussbutter und Marmelade, mit fettreduzierter Erdnussbutter, auf Vollkornbrot",
-"pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim com teor reduzido de gordura, em pão integral"
-},
-"9019": {
-"it": "Panino con burro di arachidi e marmellata, con burro di arachidi a ridotto contenuto di grassi, su pane bianco",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète allégé, sur pain blanc",
-"es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní reducida en grasa, en pan blanco",
-"de": "Sandwich mit Erdnussbutter und Marmelade, mit fettreduzierter Erdnussbutter, auf Weißbrot",
-"pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim com teor reduzido de gordura, em pão branco"
-},
-"9020": {
-"it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata a ridotto contenuto di zuccheri, su pane integrale",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits allégée en sucre, sur pain complet",
-"es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada reducida en azúcar, en pan integral",
-"de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, zuckerreduzierter Marmelade, auf Vollkornbrot",
-"pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia com teor reduzido de açúcar, em pão integral"
-},
-"9021": {
-"it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata a ridotto contenuto di zuccheri, su pane bianco",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits allégée en sucre, sur pain blanc",
-"es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada reducida en azúcar, en pan blanco",
-"de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, zuckerreduzierter Marmelade, auf Weißbrot",
-"pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia com teor reduzido de açúcar, em pão branco"
-},
-"9022": {
-"it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata normale, su pane integrale",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits ordinaire, sur pain complet",
-"es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada normal, en pan integral",
-"de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, normaler Marmelade, auf Vollkornbrot",
-"pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia comum, em pão integral"
-},
-"9023": {
-"it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata normale, su pane bianco",
-"fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits ordinaire, sur pain blanc",
-"es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada normal, en pan blanco",
-"de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, normaler Marmelade, auf Weißbrot",
-"pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia comum, em pão branco"
-},
-"9024": {
-"it": "Panino con burro di arachidi, non specificato",
-"fr": "Sandwich au beurre de cacahuète, non spécifié",
-"es": "Sándwich de mantequilla de maní, no especificado",
-"de": "Sandwich mit Erdnussbutter, nicht näher bezeichnet",
-"pt": "Sanduíche de manteiga de amendoim, não especificado"
-},
-"9025": {
-"it": "Panino con burro di arachidi, con burro di arachidi a ridotto contenuto di grassi, su pane integrale",
-"fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète allégé, sur pain complet",
-"es": "Sándwich de mantequilla de maní, con mantequilla de maní reducida en grasa, en pan integral",
-"de": "Sandwich mit Erdnussbutter, mit fettreduzierter Erdnussbutter, auf Vollkornbrot",
-"pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim com teor reduzido de gordura, em pão integral"
-},
-"9026": {
-"it": "Panino con burro di arachidi, con burro di arachidi a ridotto contenuto di grassi, su pane bianco",
-"fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète allégé, sur pain blanc",
-"es": "Sándwich de mantequilla de maní, con mantequilla de maní reducida en grasa, en pan blanco",
-"de": "Sandwich mit Erdnussbutter, mit fettreduzierter Erdnussbutter, auf Weißbrot",
-"pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim com teor reduzido de gordura, em pão branco"
-},
-"9027": {
-"it": "Panino con burro di arachidi, con burro di arachidi normale, su pane integrale",
-"fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète ordinaire, sur pain complet",
-"es": "Sándwich de mantequilla de maní, con mantequilla de maní normal, en pan integral",
-"de": "Sandwich mit Erdnussbutter, mit normaler Erdnussbutter, auf Vollkornbrot",
-"pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim comum, em pão integral"
-},
-"9028": {
-"it": "Panino con burro di arachidi, con burro di arachidi normale, su pane bianco",
-"fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète ordinaire, sur pain blanc",
-"es": "Sándwich de mantequilla de maní, con mantequilla de maní normal, en pan blanco",
-"de": "Sandwich mit Erdnussbutter, mit normaler Erdnussbutter, auf Weißbrot",
-"pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim comum, em pão branco"
-},
-"9029": {
-"it": "Burro di arachidi con omega-3, cremoso",
-"fr": "Beurre de cacahuète avec oméga-3, crémeux",
-"es": "Mantequilla de maní con omega-3, cremosa",
-"de": "Erdnussbutter mit Omega-3, cremig",
-"pt": "Manteiga de amendoim com ômega-3, cremosa"
-},
-"9030": {
-"it": "Burro di arachidi, a pezzi, con sale",
-"fr": "Beurre de cacahuète, avec morceaux, avec sel",
-"es": "Mantequilla de maní, con trozos, con sal",
-"de": "Erdnussbutter, mit Stückchen, mit Salz",
-"pt": "Manteiga de amendoim, com pedaços, com sal"
-},
-"9031": {
-"it": "Burro di arachidi, a pezzi, senza sale",
-"fr": "Beurre de cacahuète, avec morceaux, sans sel",
-"es": "Mantequilla de maní, con trozos, sin sal",
-"de": "Erdnussbutter, mit Stückchen, ohne Salz",
-"pt": "Manteiga de amendoim, com pedaços, sem sal"
-},
-"9032": {
-"it": "Burro di arachidi, con pezzi, fortificato con vitamine e minerali",
-"fr": "Beurre de cacahuète, avec morceaux, enrichi en vitamines et minéraux",
-"es": "Mantequilla de maní, con trozos, fortificada con vitaminas y minerales",
-"de": "Erdnussbutter, mit Stückchen, mit Vitaminen und Mineralstoffen angereichert",
-"pt": "Manteiga de amendoim, com pedaços, fortificada com vitaminas e minerais"
-},
-"9033": {
-"it": "Burro di arachidi, cremoso",
-"fr": "Beurre de cacahuète, crémeux",
-"es": "Mantequilla de maní, cremosa",
-"de": "Erdnussbutter, cremig",
-"pt": "Manteiga de amendoim, cremosa"
-},
-"9034": {
-"it": "Burro di arachidi, a basso contenuto di sodio",
-"fr": "Beurre de cacahuète, à teneur réduite en sodium",
-"es": "Mantequilla de maní, bajo en sodio",
-"de": "Erdnussbutter, natriumreduziert",
-"pt": "Manteiga de amendoim, com menos sódio"
-},
-"9035": {
-"it": "Burro di arachidi, a basso contenuto di sodio e zuccheri",
-"fr": "Beurre de cacahuète, à teneur réduite en sodium et en sucre",
-"es": "Mantequilla de maní, bajo en sodio y azúcar",
-"de": "Erdnussbutter, natrium- und zuckerreduziert",
-"pt": "Manteiga de amendoim, com menos sódio e menos açúcar"
-},
-"9036": {
-"it": "Burro di arachidi, a basso contenuto di zuccheri",
-"fr": "Beurre de cacahuète, à teneur réduite en sucre",
-"es": "Mantequilla de maní, bajo en azúcar",
-"de": "Erdnussbutter, zuckerreduziert",
-"pt": "Manteiga de amendoim, com menos açúcar"
-},
-"9037": {
-"it": "Burro di arachidi, a ridotto contenuto di grassi",
-"fr": "Beurre de cacahuète, à teneur réduite en matières grasses",
-"es": "Mantequilla de maní, reducida en grasa",
-"de": "Erdnussbutter, fettreduziert",
-"pt": "Manteiga de amendoim, com teor reduzido de gordura"
-},
-"9038": {
-"it": "Burro di arachidi, a ridotto contenuto di sodio",
-"fr": "Beurre de cacahuète, à teneur réduite en sodium",
-"es": "Mantequilla de maní, reducida en sodio",
-"de": "Erdnussbutter, natriumreduziert",
-"pt": "Manteiga de amendoim, com teor reduzido de sódio"
-},
-"9039": {
-"it": "Burro di arachidi, cremoso (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Beurre de cacahuète, lisse (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Mantequilla de maní, suave (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Erdnussbutter, fein (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Manteiga de amendoim, cremosa (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9040": {
-"it": "Burro di arachidi, cremoso, con sale (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Beurre de cacahuète, lisse, avec sel (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Mantequilla de maní, suave, con sal (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Erdnussbutter, fein, mit Salz (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Manteiga de amendoim, cremosa, com sal (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9041": {
-"it": "Burro di arachidi, cremoso, senza sale",
-"fr": "Beurre de cacahuète, lisse, sans sel",
-"es": "Mantequilla de maní, suave, sin sal",
-"de": "Erdnussbutter, fein, ohne Salz",
-"pt": "Manteiga de amendoim, cremosa, sem sal"
-},
-"9042": {
-"it": "Burro di arachidi, cremoso, a ridotto contenuto di grassi",
-"fr": "Beurre de cacahuète, lisse, à teneur réduite en matières grasses",
-"es": "Mantequilla de maní, suave, reducida en grasa",
-"de": "Erdnussbutter, fein, fettreduziert",
-"pt": "Manteiga de amendoim, cremosa, com teor reduzido de gordura"
-},
-"9043": {
-"it": "Burro di arachidi, cremoso, fortificato con vitamine e minerali",
-"fr": "Beurre de cacahuète, lisse, enrichi en vitamines et minéraux",
-"es": "Mantequilla de maní, suave, fortificada con vitaminas y minerales",
-"de": "Erdnussbutter, fein, mit Vitaminen und Mineralstoffen angereichert",
-"pt": "Manteiga de amendoim, cremosa, fortificada com vitaminas e minerais"
-},
-"9044": {
-"it": "Burro di arachidi, fortificato con vitamine e minerali",
-"fr": "Beurre de cacahuète, enrichi en vitamines et minéraux",
-"es": "Mantequilla de maní, fortificada con vitaminas y minerales",
-"de": "Erdnussbutter, mit Vitaminen und Mineralstoffen angereichert",
-"pt": "Manteiga de amendoim, fortificada com vitaminas e minerais"
-},
-"9045": {
-"it": "Farina di arachidi, sgrassata",
-"fr": "Farine de cacahuète, dégraissée",
-"es": "Harina de maní, desgrasada",
-"de": "Erdnussmehl, entfettet",
-"pt": "Farinha de amendoim, desengordurada"
-},
-"9046": {
-"it": "Farina di arachidi, a basso contenuto di grassi",
-"fr": "Farine de cacahuète, allégée",
-"es": "Harina de maní, baja en grasa",
-"de": "Erdnussmehl, fettarm",
-"pt": "Farinha de amendoim, com baixo teor de gordura"
-},
-"9047": {
-"it": "Olio di arachidi",
-"fr": "Huile d'arachide",
-"es": "Aceite de maní",
-"de": "Erdnussöl",
-"pt": "Óleo de amendoim"
-},
-"9048": {
-"it": "Salsa di arachidi",
-"fr": "Sauce aux cacahuètes",
-"es": "Salsa de maní",
-"de": "Erdnusssauce",
-"pt": "Molho de amendoim"
-},
-"9049": {
-"it": "Crema spalmabile di arachidi, a ridotto contenuto di zuccheri",
-"fr": "Pâte à tartiner de cacahuète, à teneur réduite en sucre",
-"es": "Crema para untar de maní, reducida en azúcar",
-"de": "Erdnussaufstrich, zuckerreduziert",
-"pt": "Pasta de amendoim, com teor reduzido de açúcar"
-},
-"9050": {
-"it": "Arachidi, di tutti i tipi, cotte, bollite, con sale",
-"fr": "Cacahuètes, toutes variétés, cuites, bouillies, avec sel",
-"es": "Maníes, de todos los tipos, cocidos, hervidos, con sal",
-"de": "Erdnüsse, alle Sorten, gekocht, mit Salz",
-"pt": "Amendoins, todos os tipos, cozidos em água, com sal"
-},
-"9051": {
-"it": "Arachidi, di tutti i tipi, tostate a secco, con sale",
-"fr": "Cacahuètes, toutes variétés, grillées à sec, avec sel",
-"es": "Maníes, de todos los tipos, tostados en seco, con sal",
-"de": "Erdnüsse, alle Sorten, trocken geröstet, mit Salz",
-"pt": "Amendoins, todos os tipos, torrados a seco, com sal"
-},
-"9052": {
-"it": "Arachidi, di tutti i tipi, tostate a secco, senza sale",
-"fr": "Cacahuètes, toutes variétés, grillées à sec, sans sel",
-"es": "Maníes, de todos los tipos, tostados en seco, sin sal",
-"de": "Erdnüsse, alle Sorten, trocken geröstet, ohne Salz",
-"pt": "Amendoins, todos os tipos, torrados a seco, sem sal"
-},
-"9053": {
-"it": "Arachidi, di tutti i tipi, tostate in olio, con sale",
-"fr": "Cacahuètes, toutes variétés, grillées à l'huile, avec sel",
-"es": "Maníes, de todos los tipos, tostados en aceite, con sal",
-"de": "Erdnüsse, alle Sorten, in Öl geröstet, mit Salz",
-"pt": "Amendoins, todos os tipos, torrados em óleo, com sal"
-},
-"9054": {
-"it": "Arachidi, di tutti i tipi, tostate in olio, senza sale",
-"fr": "Cacahuètes, toutes variétés, grillées à l'huile, sans sel",
-"es": "Maníes, de todos los tipos, tostados en aceite, sin sal",
-"de": "Erdnüsse, alle Sorten, in Öl geröstet, ohne Salz",
-"pt": "Amendoins, todos os tipos, torrados em óleo, sem sal"
-},
-"9055": {
-"it": "Arachidi, di tutti i tipi, crude",
-"fr": "Cacahuètes, toutes variétés, crues",
-"es": "Maníes, de todos los tipos, crudos",
-"de": "Erdnüsse, alle Sorten, roh",
-"pt": "Amendoins, todos os tipos, cru"
-},
-"9056": {
-"it": "Arachidi, bollite",
-"fr": "Cacahuètes, bouillies",
-"es": "Maníes, hervidos",
-"de": "Erdnüsse, gekocht",
-"pt": "Amendoins, cozidos em água"
-},
-"9057": {
-"it": "Arachidi, caramelle ricoperte di cioccolato",
-"fr": "Cacahuètes, bonbons enrobés de chocolat",
-"es": "Maníes, caramelos cubiertos de chocolate",
-"de": "Erdnüsse, Bonbons mit Schokoladenüberzug",
-"pt": "Amendoins, bala coberta de chocolate"
-},
-"9058": {
-"it": "Arachidi, tostate a secco, leggermente salate",
-"fr": "Cacahuètes, grillées à sec, légèrement salées",
-"es": "Maníes, tostados en seco, ligeramente salados",
-"de": "Erdnüsse, trocken geröstet, leicht gesalzen",
-"pt": "Amendoins, torrados a seco, levemente salgados"
-},
-"9059": {
-"it": "Arachidi, tostate a secco, salate",
-"fr": "Cacahuètes, grillées à sec, salées",
-"es": "Maníes, tostados en seco, salados",
-"de": "Erdnüsse, trocken geröstet, gesalzen",
-"pt": "Amendoins, torrados a seco, salgados"
-},
-"9060": {
-"it": "Arachidi, tostate a secco, non salate",
-"fr": "Cacahuètes, grillées à sec, non salées",
-"es": "Maníes, tostados en seco, sin sal",
-"de": "Erdnüsse, trocken geröstet, ungesalzen",
-"pt": "Amendoins, torrados a seco, sem sal"
-},
-"9061": {
-"it": "Arachidi, tostate al miele",
-"fr": "Cacahuètes, grillées au miel",
-"es": "Maníes, tostados con miel",
-"de": "Erdnüsse, honiggeröstet",
-"pt": "Amendoins, torrados com mel"
-},
-"9062": {
-"it": "Arachidi, non specificato",
-"fr": "Cacahuètes, non spécifié",
-"es": "Maníes, no especificado",
-"de": "Erdnüsse, nicht näher bezeichnet",
-"pt": "Amendoins, não especificado"
-},
-"9063": {
-"it": "Arachidi, crude",
-"fr": "Cacahuètes, crues",
-"es": "Maníes, crudos",
-"de": "Erdnüsse, roh",
-"pt": "Amendoins, cruos"
-},
-"9064": {
-"it": "Arachidi, tostate, salate",
-"fr": "Cacahuètes, grillées, salées",
-"es": "Maníes, tostados, salados",
-"de": "Erdnüsse, geröstet, gesalzen",
-"pt": "Amendoins, torrados, salgados"
-},
-"9065": {
-"it": "Arachidi, tostate, non salate",
-"fr": "Cacahuètes, grillées, non salées",
-"es": "Maníes, tostados, sin sal",
-"de": "Erdnüsse, geröstet, ungesalzen",
-"pt": "Amendoins, torrados, sem sal"
-},
-"9066": {
-"it": "Arachidi, spanish, tostate in olio, con sale",
-"fr": "Cacahuètes, type spanish, grillées à l'huile, avec sel",
-"es": "Maníes, tipo spanish, tostados en aceite, con sal",
-"de": "Erdnüsse, Spanish-Typ, in Öl geröstet, mit Salz",
-"pt": "Amendoins, tipo spanish, torrados em óleo, com sal"
-},
-"9067": {
-"it": "Arachidi, spanish, tostate in olio, senza sale",
-"fr": "Cacahuètes, type spanish, grillées à l'huile, sans sel",
-"es": "Maníes, tipo spanish, tostados en aceite, sin sal",
-"de": "Erdnüsse, Spanish-Typ, in Öl geröstet, ohne Salz",
-"pt": "Amendoins, tipo spanish, torrados em óleo, sem sal"
-},
-"9068": {
-"it": "Arachidi, spanish, crude",
-"fr": "Cacahuètes, type spanish, crues",
-"es": "Maníes, tipo spanish, crudos",
-"de": "Erdnüsse, Spanish-Typ, roh",
-"pt": "Amendoins, tipo spanish, crus"
-},
-"9069": {
-"it": "Arachidi, non tostate",
-"fr": "Cacahuètes, non grillées",
-"es": "Maníes, sin tostar",
-"de": "Erdnüsse, ungeröstet",
-"pt": "Amendoins, não torrados"
-},
-"9070": {
-"it": "Arachidi, valencia, tostate in olio, con sale",
-"fr": "Cacahuètes, type valencia, grillées à l'huile, avec sel",
-"es": "Maníes, tipo valencia, tostados en aceite, con sal",
-"de": "Erdnüsse, Valencia-Typ, in Öl geröstet, mit Salz",
-"pt": "Amendoins, tipo valência, torrados em óleo, com sal"
-},
-"9071": {
-"it": "Arachidi, valencia, tostate in olio, senza sale",
-"fr": "Cacahuètes, type valencia, grillées à l'huile, sans sel",
-"es": "Maníes, tipo valencia, tostados en aceite, sin sal",
-"de": "Erdnüsse, Valencia-Typ, in Öl geröstet, ohne Salz",
-"pt": "Amendoins, tipo valência, torrados em óleo, sem sal"
-},
-"9072": {
-"it": "Arachidi, valencia, crude",
-"fr": "Cacahuètes, type valencia, crues",
-"es": "Maníes, tipo valencia, crudos",
-"de": "Erdnüsse, Valencia-Typ, roh",
-"pt": "Amendoins, tipo valência, crus"
-},
-"9073": {
-"it": "Arachidi, virginia, tostate in olio, con sale",
-"fr": "Cacahuètes, type virginia, grillées à l'huile, avec sel",
-"es": "Maníes, tipo virginia, tostados en aceite, con sal",
-"de": "Erdnüsse, Virginia-Typ, in Öl geröstet, mit Salz",
-"pt": "Amendoins, tipo virgínia, torrados em óleo, com sal"
-},
-"9074": {
-"it": "Arachidi, virginia, tostate in olio, senza sale",
-"fr": "Cacahuètes, type virginia, grillées à l'huile, sans sel",
-"es": "Maníes, tipo virginia, tostados en aceite, sin sal",
-"de": "Erdnüsse, Virginia-Typ, in Öl geröstet, ohne Salz",
-"pt": "Amendoins, tipo virgínia, torrados em óleo, sem sal"
-},
-"9075": {
-"it": "Arachidi, virginia, crude",
-"fr": "Cacahuètes, type virginia, crues",
-"es": "Maníes, tipo virginia, crudos",
-"de": "Erdnüsse, Virginia-Typ, roh",
-"pt": "Amendoins, tipo virgínia, crus"
-},
-"9076": {
-"it": "Nettare di pera",
-"fr": "Nectar de poire",
-"es": "Néctar de pera",
-"de": "Birnennektar",
-"pt": "Néctar de pera"
-},
-"9077": {
-"it": "Nettare di pera, in scatola, con acido ascorbico aggiunto",
-"fr": "Nectar de poire, en conserve, avec acide ascorbique ajouté",
-"es": "Néctar de pera, en conserva, con ácido ascórbico añadido",
-"de": "Birnennektar, aus der Dose, mit Zusatz von Ascorbinsäure",
-"pt": "Néctar de pera, enlatado, com ácido ascórbico adicionado"
-},
-"9078": {
-"it": "Nettare di pera, in scatola, senza acido ascorbico aggiunto",
-"fr": "Nectar de poire, en conserve, sans acide ascorbique ajouté",
-"es": "Néctar de pera, en conserva, sin ácido ascórbico añadido",
-"de": "Birnennektar, aus der Dose, ohne Zusatz von Ascorbinsäure",
-"pt": "Néctar de pera, enlatado, sem ácido ascórbico adicionado"
-},
-"9079": {
-"it": "Pera, Anjou, verde, con buccia, cruda",
-"fr": "Poire, Anjou, verte, avec peau, crue",
-"es": "Pera, Anjou, verde, con piel, cruda",
-"de": "Birne, Anjou, grün, mit Schale, roh",
-"pt": "Pera, Anjou, verde, com casca, crua"
-},
-"9080": {
-"it": "Pera, asiatica, cruda",
-"fr": "Poire, asiatiquee, crue",
-"es": "Pera, asiática, cruda",
-"de": "Birne, asiatisch, roh",
-"pt": "Pera, asiática, crua"
-},
-"9081": {
-"it": "Pera, in scatola, in sciroppo",
-"fr": "Poire, en conserve, au sirop",
-"es": "Pera, en conserva, en almíbar",
-"de": "Birne, aus der Dose, in Sirup",
-"pt": "Pera, enlatada, em calda"
-},
-"9082": {
-"it": "Pera, in scatola, in succo",
-"fr": "Poire, en conserve, au jus",
-"es": "Pera, en conserva, en jugo",
-"de": "Birne, aus der Dose, in Saft",
-"pt": "Pera, enlatada, em suco"
-},
-"9083": {
-"it": "Pera, in scatola, non specificato",
-"fr": "Poire, en conserve, non spécifié",
-"es": "Pera, en conserva, no especificado",
-"de": "Birne, aus der Dose, nicht näher bezeichnet",
-"pt": "Pera, enlatada, não especificado"
-},
-"9084": {
-"it": "Pera, secca",
-"fr": "Poire, séchée",
-"es": "Pera, seca",
-"de": "Birne, getrocknet",
-"pt": "Pera, seca"
-},
-"9085": {
-"it": "Pera, cruda",
-"fr": "Poire, crue",
-"es": "Pera, cruda",
-"de": "Birne, roh",
-"pt": "Pera, crua"
-},
-"9086": {
-"it": "Pere, asiatice, crude",
-"fr": "Poires, asiatiquees, crues",
-"es": "Peras, asiáticas, crudas",
-"de": "Birnen, asiatisch, roh",
-"pt": "Peras, asiáticas, cruas"
-},
-"9087": {
-"it": "Pere, in scatola, in sciroppo extra denso, solidi e liquidi",
-"fr": "Poires, en conserve, au sirop extra épais, solides et liquides",
-"es": "Peras, en conserva, en almíbar extra espeso, sólidos y líquidos",
-"de": "Birnen, aus der Dose, in extra dickem Sirup, feste und flüssige Bestandteile",
-"pt": "Peras, enlatadas, em calda extra densa, sólidos e líquidos"
-},
-"9088": {
-"it": "Pere, in scatola, in sciroppo extra leggero, solidi e liquidi (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Poires, en conserve, au sirop extra léger, solides et liquides (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Peras, en conserva, en almíbar extra ligero, sólidos y líquidos (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Birnen, aus der Dose, in extra leichtem Sirup, feste und flüssige Bestandteile (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Peras, enlatadas, em calda extra leve, sólidos e líquidos (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9089": {
-"it": "Pere, in scatola, in sciroppo denso, solidi e liquidi",
-"fr": "Poires, en conserve, au sirop épais, solides et liquides",
-"es": "Peras, en conserva, en almíbar espeso, sólidos y líquidos",
-"de": "Birnen, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
-"pt": "Peras, enlatadas, em calda densa, sólidos e líquidos"
-},
-"9090": {
-"it": "Pere, in scatola, in sciroppo denso, sgocciolate",
-"fr": "Poires, en conserve, au sirop épais, égouttées",
-"es": "Peras, en conserva, en almíbar espeso, escurridas",
-"de": "Birnen, aus der Dose, in dickem Sirup, abgetropft",
-"pt": "Peras, enlatadas, em calda densa, escorridas"
-},
-"9091": {
-"it": "Pere, in scatola, in succo, solidi e liquidi",
-"fr": "Poires, en conserve, au jus, solides et liquides",
-"es": "Peras, en conserva, en jugo, sólidos y líquidos",
-"de": "Birnen, aus der Dose, in Saft, feste und flüssige Bestandteile",
-"pt": "Peras, enlatadas, em suco, sólidos e líquidos"
-},
-"9092": {
-"it": "Pere, in scatola, in sciroppo leggero, solidi e liquidi",
-"fr": "Poires, en conserve, au sirop léger, solides et liquides",
-"es": "Peras, en conserva, en almíbar ligero, sólidos y líquidos",
-"de": "Birnen, aus der Dose, in leichtem Sirup, feste und flüssige Bestandteile",
-"pt": "Peras, enlatadas, em calda leve, sólidos e líquidos"
-},
-"9093": {
-"it": "Pere, in scatola, in acqua, solidi e liquidi",
-"fr": "Poires, en conserve, à l'eau, solides et liquides",
-"es": "Peras, en conserva, en agua, sólidos y líquidos",
-"de": "Birnen, aus der Dose, in Wasser, feste und flüssige Bestandteile",
-"pt": "Peras, enlatadas, em água, sólidos e líquidos"
-},
-"9094": {
-"it": "Pere, secce, solforate, stufate, con zucchero aggiunto",
-"fr": "Poires, séchées, sulfitées, mijotées, avec sucre ajouté",
-"es": "Peras, secas, sulfuradas, estofadas, con azúcar añadido",
-"de": "Birnen, getrocknet, geschwefelt, geschmort, mit Zuckerzusatz",
-"pt": "Peras, secas, sulfitadas, ensopadas, com açúcar adicionado"
-},
-"9095": {
-"it": "Pere, secce, solforate, stufate, senza zucchero aggiunto",
-"fr": "Poires, séchées, sulfitées, mijotées, sans sucre ajouté",
-"es": "Peras, secas, sulfuradas, estofadas, sin azúcar añadido",
-"de": "Birnen, getrocknet, geschwefelt, geschmort, ohne Zuckerzusatz",
-"pt": "Peras, secas, sulfitadas, ensopadas, sem açúcar adicionado"
-},
-"9096": {
-"it": "Pere, secce, solforate, non cotte",
-"fr": "Poires, séchées, sulfitées, non cuites",
-"es": "Peras, secas, sulfuradas, sin cocinar",
-"de": "Birnen, getrocknet, geschwefelt, ungekocht",
-"pt": "Peras, secas, sulfitadas, não cozidas"
-},
-"9097": {
-"it": "Pere, crude",
-"fr": "Poires, crues",
-"es": "Peras, crudas",
-"de": "Birnen, roh",
-"pt": "Peras, cruas"
-},
-"9098": {
-"it": "Pere, crude, Bartlett",
-"fr": "Poires, crues, Bartlett",
-"es": "Peras, crudas, Bartlett",
-"de": "Birnen, roh, Bartlett",
-"pt": "Peras, cruas, Bartlett"
-},
-"9099": {
-"it": "Pere, crude, Bartlett (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Poires, crues, Bartlett (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Peras, crudas, Bartlett (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Birnen, roh, Bartlett (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Peras, cruas, Bartlett (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9100": {
-"it": "Pere, crude, Bosc (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Poires, crues, Bosc (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Peras, crudas, Bosc (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Birnen, roh, Bosc (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Peras, cruas, Bosc (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9101": {
-"it": "Pere, crude, Anjou verdi (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Poires, crues, Anjou vertes (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Peras, crudas, Anjou verdes (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Birnen, roh, Grüne Anjou (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Peras, cruas, Anjou verdes (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9102": {
-"it": "Pere, crude, Anjou rosse",
-"fr": "Poires, crues, Anjou rougees",
-"es": "Peras, crudas, Anjou rojas",
-"de": "Birnen, roh, Rote Anjou",
-"pt": "Peras, cruas, Anjou vermelhas"
-},
-"9103": {
-"it": "Piselli e carote, in scatola, cotti, con grasso aggiunto",
-"fr": "Petits pois et carottes, en conserve, cuits, avec matière grasse ajoutée",
-"es": "Guisantes y zanahorias, en conserva, cocidos, con grasa añadida",
-"de": "Erbsen und Karotten, aus der Dose, gekocht, mit Fettzusatz",
-"pt": "Ervilhas e cenouras, enlatadas, cozidas, com gordura adicionada"
-},
-"9104": {
-"it": "Piselli e carote, in scatola, cotti, senza grasso aggiunto",
-"fr": "Petits pois et carottes, en conserve, cuits, sans matière grasse ajoutée",
-"es": "Guisantes y zanahorias, en conserva, cocidos, sin grasa añadida",
-"de": "Erbsen und Karotten, aus der Dose, gekocht, ohne Fettzusatz",
-"pt": "Ervilhas e cenouras, enlatadas, cozidas, sem gordura adicionada"
-},
-"9105": {
-"it": "Piselli e carote, in scatola, senza sale aggiunto, solidi e liquidi",
-"fr": "Petits pois et carottes, en conserve, sans sel ajouté, solides et liquides",
-"es": "Guisantes y zanahorias, en conserva, sin sal añadida, sólidos y líquidos",
-"de": "Erbsen und Karotten, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
-"pt": "Ervilhas e cenouras, enlatadas, sem sal adicionado, sólidos e líquidos"
-},
-"9106": {
-"it": "Piselli e carote, in scatola, confezione standard, solidi e liquidi",
-"fr": "Petits pois et carottes, en conserve, conditionnement standard, solides et liquides",
-"es": "Guisantes y zanahorias, en conserva, envase estándar, sólidos y líquidos",
-"de": "Erbsen und Karotten, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
-"pt": "Ervilhas e cenouras, enlatadas, embalagem padrão, sólidos e líquidos"
-},
-"9107": {
-"it": "Piselli e carote, cotti, forma non specificata",
-"fr": "Petits pois et carottes, cuits, forme non précisée",
-"es": "Guisantes y zanahorias, cocidos, forma sin especificar",
-"de": "Erbsen und Karotten, gekocht, Form nicht angegeben",
-"pt": "Ervilhas e cenouras, cozidas, forma não especificada"
-},
-"9108": {
-"it": "Piselli e carote, fresci, cotti, con grasso aggiunto",
-"fr": "Petits pois et carottes, frais, cuits, avec matière grasse ajoutée",
-"es": "Guisantes y zanahorias, frescos, cocidos, con grasa añadida",
-"de": "Erbsen und Karotten, frisch, gekocht, mit Fettzusatz",
-"pt": "Ervilhas e cenouras, frescas, cozidas, com gordura adicionada"
-},
-"9109": {
-"it": "Piselli e carote, fresci, cotti, senza grasso aggiunto",
-"fr": "Petits pois et carottes, frais, cuits, sans matière grasse ajoutée",
-"es": "Guisantes y zanahorias, frescos, cocidos, sin grasa añadida",
-"de": "Erbsen und Karotten, frisch, gekocht, ohne Fettzusatz",
-"pt": "Ervilhas e cenouras, frescas, cozidas, sem gordura adicionada"
-},
-"9110": {
-"it": "Piselli e carote, surgelati, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois et carottes, surgelés, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes y zanahorias, congelados, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen und Karotten, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas e cenouras, congeladas, cozidas, cozidas em água, escorridas, com sal"
-},
-"9111": {
-"it": "Piselli e carote, surgelati, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois et carottes, surgelés, cuits, bouillis, égouttés, sans sel",
-"es": "Guisantes y zanahorias, congelados, cocidos, hervidos, escurridos, sin sal",
-"de": "Erbsen und Karotten, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas e cenouras, congeladas, cozidas, cozidas em água, escorridas, sem sal"
-},
-"9112": {
-"it": "Piselli e carote, surgelati, cotti, con grasso aggiunto",
-"fr": "Petits pois et carottes, surgelés, cuits, avec matière grasse ajoutée",
-"es": "Guisantes y zanahorias, congelados, cocidos, con grasa añadida",
-"de": "Erbsen und Karotten, tiefgekühlt, gekocht, mit Fettzusatz",
-"pt": "Ervilhas e cenouras, congeladas, cozidas, com gordura adicionada"
-},
-"9113": {
-"it": "Piselli e carote, surgelati, cotti, senza grasso aggiunto",
-"fr": "Petits pois et carottes, surgelés, cuits, sans matière grasse ajoutée",
-"es": "Guisantes y zanahorias, congelados, cocidos, sin grasa añadida",
-"de": "Erbsen und Karotten, tiefgekühlt, gekocht, ohne Fettzusatz",
-"pt": "Ervilhas e cenouras, congeladas, cozidas, sem gordura adicionada"
-},
-"9114": {
-"it": "Piselli e carote, surgelati, non preparati",
-"fr": "Petits pois et carottes, surgelés, non préparés",
-"es": "Guisantes y zanahorias, congelados, sin preparar",
-"de": "Erbsen und Karotten, tiefgekühlt, unzubereitet",
-"pt": "Ervilhas e cenouras, congeladas, não preparadas"
-},
-"9115": {
-"it": "Piselli e mais, cotti, con grasso aggiunto",
-"fr": "Petits pois et maïs, cuits, avec matière grasse ajoutée",
-"es": "Guisantes y maíz, cocidos, con grasa añadida",
-"de": "Erbsen und Mais, gekocht, mit Fettzusatz",
-"pt": "Ervilhas e milho, cozidas, com gordura adicionada"
-},
-"9116": {
-"it": "Piselli e mais, cotti, senza grasso aggiunto",
-"fr": "Petits pois et maïs, cuits, sans matière grasse ajoutée",
-"es": "Guisantes y maíz, cocidos, sin grasa añadida",
-"de": "Erbsen und Mais, gekocht, ohne Fettzusatz",
-"pt": "Ervilhas e milho, cozidas, sem gordura adicionada"
-},
-"9117": {
-"it": "Piselli e cipolle, in scatola, solidi e liquidi",
-"fr": "Petits pois et oignons, en conserve, solides et liquides",
-"es": "Guisantes y cebollas, en conserva, sólidos y líquidos",
-"de": "Erbsen und Zwiebeln, aus der Dose, feste und flüssige Bestandteile",
-"pt": "Ervilhas e cebolas, enlatadas, sólidos e líquidos"
-},
-"9118": {
-"it": "Piselli e cipolle, surgelati, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois et oignons, surgelés, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes y cebollas, congelados, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen und Zwiebeln, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas e cebolas, congeladas, cozidas, cozidas em água, escorridas, com sal"
-},
-"9119": {
-"it": "Piselli e cipolle, surgelati, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois et oignons, surgelés, cuits, bouillis, égouttés, sans sel",
-"es": "Guisantes y cebollas, congelados, cocidos, hervidos, escurridos, sin sal",
-"de": "Erbsen und Zwiebeln, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas e cebolas, congeladas, cozidas, cozidas em água, escorridas, sem sal"
-},
-"9120": {
-"it": "Piselli e cipolle, surgelati, non preparati",
-"fr": "Petits pois et oignons, surgelés, non préparés",
-"es": "Guisantes y cebollas, congelados, sin preparar",
-"de": "Erbsen und Zwiebeln, tiefgekühlt, unzubereitet",
-"pt": "Ervilhas e cebolas, congeladas, não preparadas"
-},
-"9121": {
-"it": "Piselli, con baccello commestibile, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois, à cosse comestible, bouillis, égouttés, sans sel",
-"es": "Guisantes, con vaina comestible, hervidos, escurridos, sin sal",
-"de": "Erbsen, mit essbarer Hülse, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas, com vagem comestível, cozidas em água, escorridas, sem sal"
-},
-"9122": {
-"it": "Piselli, con baccello commestibile, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois, à cosse comestible, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes, con vaina comestible, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen, mit essbarer Hülse, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas, com vagem comestível, cozidas, cozidas em água, escorridas, com sal"
-},
-"9123": {
-"it": "Piselli, con baccello commestibile, surgelati, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois, à cosse comestible, surgelés, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes, con vaina comestible, congelados, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen, mit essbarer Hülse, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas, com vagem comestível, congeladas, cozidas, cozidas em água, escorridas, com sal"
-},
-"9124": {
-"it": "Piselli, con baccello commestibile, surgelati, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois, à cosse comestible, surgelés, cuits, bouillis, égouttés, sans sel",
-"es": "Guisantes, con vaina comestible, congelados, cocidos, hervidos, escurridos, sin sal",
-"de": "Erbsen, mit essbarer Hülse, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas, com vagem comestível, congeladas, cozidas, cozidas em água, escorridas, sem sal"
-},
-"9125": {
-"it": "Piselli, con baccello commestibile, surgelati, non preparati",
-"fr": "Petits pois, à cosse comestible, surgelés, non préparés",
-"es": "Guisantes, con vaina comestible, congelados, sin preparar",
-"de": "Erbsen, mit essbarer Hülse, tiefgekühlt, unzubereitet",
-"pt": "Ervilhas, com vagem comestível, congeladas, não preparadas"
-},
-"9126": {
-"it": "Piselli, con baccello commestibile, crudi",
-"fr": "Petits pois, à cosse comestible, crus",
-"es": "Guisantes, con vaina comestible, crudos",
-"de": "Erbsen, mit essbarer Hülse, roh",
-"pt": "Ervilhas, com vagem comestível, cruas"
-},
-"9127": {
-"it": "Piselli, verdi (include i tipi baby e lesuer), in scatola, solidi sgocciolati, non preparati",
-"fr": "Petits pois, verts (comprend les types baby et lesuer), en conserve, solides égouttés, non préparés",
-"es": "Guisantes, verdes (incluye los tipos baby y lesuer), en conserva, sólidos escurridos, sin preparar",
-"de": "Erbsen, grün (einschließlich der Sorten Baby und Lesuer), aus der Dose, abgetropfte Feststoffe, unzubereitet",
-"pt": "Ervilhas, verdes (inclui os tipos baby e lesuer), enlatadas, sólidos escorridos, não preparadas"
-},
-"9128": {
-"it": "Piselli, verdi, in scatola, solidi sgocciolati, sciacquati con acqua di rubinetto",
-"fr": "Petits pois, verts, en conserve, solides égouttés, rincés à l'eau du robinet",
-"es": "Guisantes, verdes, en conserva, sólidos escurridos, enjuagados con agua del grifo",
-"de": "Erbsen, grün, aus der Dose, abgetropfte Feststoffe, mit Leitungswasser abgespült",
-"pt": "Ervilhas, verdes, enlatadas, sólidos escorridos, enxaguadas em água da torneira"
-},
-"9129": {
-"it": "Piselli, verdi, in scatola, senza sale aggiunto, solidi sgocciolati",
-"fr": "Petits pois, verts, en conserve, sans sel ajouté, solides égouttés",
-"es": "Guisantes, verdes, en conserva, sin sal añadida, sólidos escurridos",
-"de": "Erbsen, grün, aus der Dose, ohne Salzzusatz, abgetropfte Feststoffe",
-"pt": "Ervilhas, verdes, enlatadas, sem sal adicionado, sólidos escorridos"
-},
-"9130": {
-"it": "Piselli, verdi, in scatola, senza sale aggiunto, solidi e liquidi",
-"fr": "Petits pois, verts, en conserve, sans sel ajouté, solides et liquides",
-"es": "Guisantes, verdes, en conserva, sin sal añadida, sólidos y líquidos",
-"de": "Erbsen, grün, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
-"pt": "Ervilhas, verdes, enlatadas, sem sal adicionado, sólidos e líquidos"
-},
-"9131": {
-"it": "Piselli, verdi, in scatola, confezione standard, solidi e liquidi",
-"fr": "Petits pois, verts, en conserve, conditionnement standard, solides et liquides",
-"es": "Guisantes, verdes, en conserva, envase estándar, sólidos y líquidos",
-"de": "Erbsen, grün, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
-"pt": "Ervilhas, verdes, enlatadas, embalagem padrão, sólidos e líquidos"
-},
-"9132": {
-"it": "Piselli, verdi, in scatola, conditi, solidi e liquidi",
-"fr": "Petits pois, verts, en conserve, assaisonnés, solides et liquides",
-"es": "Guisantes, verdes, en conserva, sazonados, sólidos y líquidos",
-"de": "Erbsen, grün, aus der Dose, gewürzt, feste und flüssige Bestandteile",
-"pt": "Ervilhas, verdes, enlatadas, temperadas, sólidos e líquidos"
-},
-"9133": {
-"it": "Piselli, verdi, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois, verts, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes, verdes, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen, grün, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas, verdes, cozidas, cozidas em água, escorridas, com sal"
-},
-"9134": {
-"it": "Piselli, verdi, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois, verts, cuits, bouillis, égouttés, sans sel",
-"es": "Guisantes, verdes, cocidos, hervidos, escurridos, sin sal",
-"de": "Erbsen, grün, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas, verdes, cozidas, cozidas em água, escorridas, sem sal"
-},
-"9135": {
-"it": "Piselli, verdi, surgelati, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois, verts, surgelés, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes, verdes, congelados, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen, grün, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas, verdes, congeladas, cozidas, cozidas em água, escorridas, com sal"
-},
-"9136": {
-"it": "Piselli, verdi, surgelati, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois, verts, surgelés, cuits, bouillis, égouttés, sans sel",
-"es": "Guisantes, verdes, congelados, cocidos, hervidos, escurridos, sin sal",
-"de": "Erbsen, grün, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas, verdes, congeladas, cozidas, cozidas em água, escorridas, sem sal"
-},
-"9137": {
-"it": "Piselli, verdi, surgelati, non preparati (include alimenti del Food Distribution Program dell'USDA)",
-"fr": "Petits pois, verts, surgelés, non préparés (comprend des aliments du Food Distribution Program de l'USDA)",
-"es": "Guisantes, verdes, congelados, sin preparar (incluye alimentos del Food Distribution Program del USDA)",
-"de": "Erbsen, grün, tiefgekühlt, unzubereitet (einschließlich Lebensmittel des Food Distribution Program des USDA)",
-"pt": "Ervilhas, verdes, congeladas, não preparadas (inclui alimentos do Food Distribution Program do USDA)"
-},
-"9138": {
-"it": "Piselli, verdi, crudi",
-"fr": "Petits pois, verts, crus",
-"es": "Guisantes, verdes, crudos",
-"de": "Erbsen, grün, roh",
-"pt": "Ervilhas, verdes, cruas"
-},
-"9139": {
-"it": "Piselli, verdi, spezzati, semi maturi, crudi",
-"fr": "Petits pois, verts, cassés, graines mûres, crus",
-"es": "Guisantes, verdes, partidos, semillas maduras, crudos",
-"de": "Erbsen, grün, gespalten, reife Samen, roh",
-"pt": "Ervilhas, verdes, partidas, sementes maduras, cruas"
-},
-"9140": {
-"it": "Piselli, verdi, dolci, in scatola, con sodio aggiunto, con zucchero aggiunto, sgocciolati e sciacquati",
-"fr": "Petits pois, verts, sucrés, en conserve, avec sodium ajouté, avec sucre ajouté, égouttés et rincés",
-"es": "Guisantes, verdes, dulces, en conserva, con sodio añadido, con azúcar añadido, escurridos y enjuagados",
-"de": "Erbsen, grün, süß, aus der Dose, mit Natriumzusatz, mit Zuckerzusatz, abgetropft und abgespült",
-"pt": "Ervilhas, verdes, doces, enlatadas, com sódio adicionado, com açúcar adicionado, escorridas e enxaguadas"
-},
-"9141": {
-"it": "Piselli, semi maturi, germogliati, cotti, bolliti, sgocciolati, con sale",
-"fr": "Petits pois, graines mûres, germés, cuits, bouillis, égouttés, avec sel",
-"es": "Guisantes, semillas maduras, germinados, cocidos, hervidos, escurridos, con sal",
-"de": "Erbsen, reife Samen, gekeimt, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Ervilhas, sementes maduras, germinadas, cozidas, cozidas em água, escorridas, com sal"
-},
-"9142": {
-"it": "Piselli, semi maturi, germogliati, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Petits pois, graines mûres, germés, cuits, bouillis, égouttés, sans sel",
-"es": "Guisantes, semillas maduras, germinados, cocidos, hervidos, escurridos, sin sal",
-"de": "Erbsen, reife Samen, gekeimt, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Ervilhas, sementes maduras, germinadas, cozidas, cozidas em água, escorridas, sem sal"
-},
-"9143": {
-"it": "Piselli, semi maturi, germogliati, crudi",
-"fr": "Petits pois, graines mûres, germés, crus",
-"es": "Guisantes, semillas maduras, germinados, crudos",
-"de": "Erbsen, reife Samen, gekeimt, roh",
-"pt": "Ervilhas, sementes maduras, germinadas, cruas"
-},
-"9144": {
-"it": "Piselli, spezzati, semi maturi, cotti, bolliti, con sale",
-"fr": "Petits pois, cassés, graines mûres, cuits, bouillis, avec sel",
-"es": "Guisantes, partidos, semillas maduras, cocidos, hervidos, con sal",
-"de": "Erbsen, gespalten, reife Samen, gekocht, gekocht, mit Salz",
-"pt": "Ervilhas, partidas, sementes maduras, cozidas, cozidas em água, com sal"
-},
-"9145": {
-"it": "Piselli, spezzati, semi maturi, cotti, bolliti, senza sale",
-"fr": "Petits pois, cassés, graines mûres, cuits, bouillis, sans sel",
-"es": "Guisantes, partidos, semillas maduras, cocidos, hervidos, sin sal",
-"de": "Erbsen, gespalten, reife Samen, gekocht, gekocht, ohne Salz",
-"pt": "Ervilhas, partidas, sementes maduras, cozidas, cozidas em água, sem sal"
-},
-"9146": {
-"it": "Noci pecan, tostate al miele",
-"fr": "Noix de pécan, grillées au miel",
-"es": "Nueces pecanas, tostadas con miel",
-"de": "Pekannüsse, honiggeröstet",
-"pt": "Nozes-pecã, torradas com mel"
-},
-"9147": {
-"it": "Noci pecan, non specificato",
-"fr": "Noix de pécan, non spécifié",
-"es": "Nueces pecanas, no especificado",
-"de": "Pekannüsse, nicht näher bezeichnet",
-"pt": "Nozes-pecã, não especificado"
-},
-"9148": {
-"it": "Noci pecan, salate",
-"fr": "Noix de pécan, salées",
-"es": "Nueces pecanas, saladas",
-"de": "Pekannüsse, gesalzen",
-"pt": "Nozes-pecã, salgadas"
-},
-"9149": {
-"it": "Noci pecan, non tostate",
-"fr": "Noix de pécan, non grillées",
-"es": "Nueces pecanas, sin tostar",
-"de": "Pekannüsse, ungeröstet",
-"pt": "Nozes-pecã, não torradas"
-},
-"9150": {
-"it": "Noci pecan, non salate",
-"fr": "Noix de pécan, non salées",
-"es": "Nueces pecanas, sin sal",
-"de": "Pekannüsse, ungesalzen",
-"pt": "Nozes-pecã, sem sal"
-},
-"9151": {
-"it": "Pectina, liquida",
-"fr": "Pectine, liquide",
-"es": "Pectina, líquida",
-"de": "Pektin, flüssig",
-"pt": "Pectina, líquida"
-},
-"9152": {
-"it": "Pectina, non zuccherata, miscela secca",
-"fr": "Pectine, non sucrée, mélange sec",
-"es": "Pectina, sin azúcar, mezcla seca",
-"de": "Pektin, ungezuckert, Trockenmischung",
-"pt": "Pectina, sem açúcar, mistura seca"
-},
-"9153": {
-"it": "Pepeao (fungo orecchio di Giuda), secco",
-"fr": "Pepeao (oreille de Judas, champignon), séché",
-"es": "Pepeao (hongo oreja de Judas), seco",
-"de": "Pepeao (Judasohr), getrocknet",
-"pt": "Pepeao (cogumelo orelha-de-pau), seco"
-},
-"9154": {
-"it": "Pepper steak (bistecca al pepe)",
-"fr": "Pepper steak (steak au poivre)",
-"es": "Pepper steak (bistec a la pimienta)",
-"de": "Pepper Steak (Pfefferfleisch)",
-"pt": "Pepper steak (bife à pimenta)"
-},
-"9155": {
-"it": "Peperone banana, crudo",
-"fr": "Piment banane, cru",
-"es": "Pimiento banana, crudo",
-"de": "Bananenpaprika, roh",
-"pt": "Pimentão banana, cruo"
-},
-"9156": {
-"it": "Peperone, per l'uso nei panini",
-"fr": "Poivron, pour sandwich",
-"es": "Pimiento, para usar en sándwiches",
-"de": "Paprika, für Sandwiches",
-"pt": "Pimentão, para uso em sanduíches"
-},
-"9157": {
-"it": "Polpettone affettato al pepe, maiale, manzo",
-"fr": "Pain de viande poivré, porc, bœuf",
-"es": "Fiambre de carne con pimienta, cerdo, vacuno",
-"de": "Pfefferwurst im Block, Schwein, Rind",
-"pt": "Frios fatiado com pimenta, carne suína, carne bovina"
-},
-"9158": {
-"it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Cheddar",
-"fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Cheddar",
-"es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Cheddar",
-"de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Cheddar",
-"pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Cheddar"
-},
-"9159": {
-"it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Explosive Pizza",
-"fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Explosive Pizza",
-"es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Explosive Pizza",
-"de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Explosive Pizza",
-"pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Explosive Pizza"
-},
-"9160": {
-"it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Originale",
-"fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Original",
-"es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Original",
-"de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Original",
-"pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Original"
-},
-"9161": {
-"it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Parmigiano",
-"fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Parmesan",
-"es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Parmesano",
-"de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Parmesan",
-"pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Parmesão"
-},
-"9162": {
-"it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Pizza",
-"fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Pizza",
-"es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Pizza",
-"de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Pizza",
-"pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Pizza"
-},
-"9163": {
-"it": "Menta piperita, fresca",
-"fr": "Menthe poivrée, fraîche",
-"es": "Menta piperita, fresca",
-"de": "Pfefferminze, frisch",
-"pt": "Hortelã-pimenta, fresca"
-},
-"9164": {
-"it": "Pepperoni, manzo e maiale, a fette",
-"fr": "Pepperoni, bœuf et porc, tranché",
-"es": "Pepperoni, vacuno y cerdo, en lonchas",
-"de": "Pepperoni, Rind und Schwein, in Scheiben",
-"pt": "Pepperoni, carne bovina e suína, fatiado"
-},
-"9165": {
-"it": "Pepperoni, non specificato",
-"fr": "Pepperoni, non spécifié",
-"es": "Pepperoni, no especificado",
-"de": "Pepperoni, nicht näher bezeichnet",
-"pt": "Pepperoni, não especificado"
-},
-"9166": {
-"it": "Pepperoni, a ridotto contenuto di grassi",
-"fr": "Pepperoni, à teneur réduite en matières grasses",
-"es": "Pepperoni, reducido en grasa",
-"de": "Pepperoni, fettreduziert",
-"pt": "Pepperoni, com teor reduzido de gordura"
-},
-"9167": {
-"it": "Pepperoni, a ridotto contenuto di sodio",
-"fr": "Pepperoni, à teneur réduite en sodium",
-"es": "Pepperoni, reducido en sodio",
-"de": "Pepperoni, natriumreduziert",
-"pt": "Pepperoni, com teor reduzido de sódio"
-},
-"9168": {
-"it": "Peperoni e cipolle, cotti, con grasso aggiunto",
-"fr": "Poivrons et oignons, cuits, avec matière grasse ajoutée",
-"es": "Pimientos y cebollas, cocidos, con grasa añadida",
-"de": "Paprika und Zwiebeln, gekocht, mit Fettzusatz",
-"pt": "Pimentões e cebolas, cozidos, com gordura adicionada"
-},
-"9169": {
-"it": "Peperoni e cipolle, cotti, senza grasso aggiunto",
-"fr": "Poivrons et oignons, cuits, sans matière grasse ajoutée",
-"es": "Pimientos y cebollas, cocidos, sin grasa añadida",
-"de": "Paprika und Zwiebeln, gekocht, ohne Fettzusatz",
-"pt": "Pimentões e cebolas, cozidos, sem gordura adicionada"
-},
-"9170": {
-"it": "Peperoncini ancho, secci",
-"fr": "Piments ancho, séchés",
-"es": "Chiles anchos, secos",
-"de": "Ancho-Chilis, getrocknet",
-"pt": "Pimentas ancho, secos"
-},
-"9171": {
-"it": "Peperoni banana o ungheresi (wax), senza semi, crudi",
-"fr": "Poivrons banane ou hongrois (wax), épépinés, crus",
-"es": "Pimientos banana o húngaros (wax), sin semillas, crudos",
-"de": "Bananen- oder Ungarische Paprika (Wax), entkernt, roh",
-"pt": "Pimentões banana ou húngaros (wax), sem sementes, cruos"
-},
-"9172": {
-"it": "Peperoni banana, crudi",
-"fr": "Poivrons banane, crus",
-"es": "Pimientos banana, crudos",
-"de": "Bananenpaprika, roh",
-"pt": "Pimentões banana, cruos"
-},
-"9173": {
-"it": "Peperoni verdi, crudi",
-"fr": "Poivrons verts, crus",
-"es": "Pimientos morrones verdes, crudos",
-"de": "Grüne Gemüsepaprika, roh",
-"pt": "Pimentões verdes, cruos"
-},
-"9174": {
-"it": "Peperoni arancioni, crudi",
-"fr": "Poivrons orange, crus",
-"es": "Pimientos morrones naranjas, crudos",
-"de": "Orange Gemüsepaprika, roh",
-"pt": "Pimentões laranja, cruos"
-},
-"9175": {
-"it": "Peperoni rossi, crudi",
-"fr": "Poivrons rouges, crus",
-"es": "Pimientos morrones rojos, crudos",
-"de": "Rote Gemüsepaprika, roh",
-"pt": "Pimentões vermelhos, cruos"
-},
-"9176": {
-"it": "Peperoni gialli, crudi",
-"fr": "Poivrons jaunes, crus",
-"es": "Pimientos morrones amarillos, crudos",
-"de": "Gelbe Gemüsepaprika, roh",
-"pt": "Pimentões amarelos, cruos"
-},
-"9177": {
-"it": "Peperoncini, verdi, in scatola",
-"fr": "Piments, verts, en conserve",
-"es": "Chiles, verdes, en conserva",
-"de": "Chilischoten, grün, aus der Dose",
-"pt": "Pimentas, verdes, enlatados"
-},
-"9178": {
-"it": "Peperoni verdi, cotti",
-"fr": "Poivrons verts, cuits",
-"es": "Pimientos verdes, cocidos",
-"de": "Grüne Paprika, gekocht",
-"pt": "Pimentões verdes, cozidos"
-},
-"9179": {
-"it": "Peperoncini piccanti, essiccati al sole",
-"fr": "Piments forts, séchés au soleil",
-"es": "Chiles picantes, secados al sol",
-"de": "Scharfe Chilischoten, sonnengetrocknet",
-"pt": "Pimentas picantes, secados ao sol"
-},
-"9180": {
-"it": "Peperoncini piccanti, verdi, in scatola, baccelli, senza semi, solidi e liquidi",
-"fr": "Piments forts, verts, en conserve, gousses, sans graines, solides et liquides",
-"es": "Chiles picantes, verdes, en conserva, vainas, sin semillas, sólidos y líquidos",
-"de": "Scharfe Chilischoten, grün, aus der Dose, Schoten, ohne Samen, feste und flüssige Bestandteile",
-"pt": "Pimentas picantes, verdes, enlatados, vagens, sem sementes, sólidos e líquidos"
-},
-"9181": {
-"it": "Peperoncini piccanti, verdi, crudi",
-"fr": "Piments forts, verts, crus",
-"es": "Chiles picantes, verdes, crudos",
-"de": "Scharfe Chilischoten, grün, roh",
-"pt": "Pimentas picantes, verdes, cruos"
-},
-"9184": {
-"it": "Peperoncini piccanti sott'aceto, in scatola",
-"fr": "Piments forts au vinaigre, en conserve",
-"es": "Chiles picantes en vinagre, en conserva",
-"de": "Eingelegte scharfe Chilischoten, aus der Dose",
-"pt": "Pimentas picantes em conserva, enlatados"
-},
-"9185": {
-"it": "Peperoncini piccanti, cotti",
-"fr": "Piments forts, cuits",
-"es": "Chiles picantes, cocidos",
-"de": "Scharfe Chilischoten, gekocht",
-"pt": "Pimentas picantes, cozidos"
-},
-"9186": {
-"it": "Peperoncini piccanti, sott'aceto",
-"fr": "Piments forts, au vinaigre",
-"es": "Chiles picantes, en vinagre",
-"de": "Scharfe Chilischoten, eingelegt",
-"pt": "Pimentas picantes, em conserva"
-},
-"9187": {
-"it": "Peperoncini piccanti, crudi",
-"fr": "Piments forts, crus",
-"es": "Chiles picantes, crudos",
-"de": "Scharfe Chilischoten, roh",
-"pt": "Pimentas picantes, cruos"
-},
-"9188": {
-"it": "Peperoni ungheresi, crudi",
-"fr": "Poivrons hongrois, crus",
-"es": "Pimientos húngaros, crudos",
-"de": "Ungarische Paprika, roh",
-"pt": "Pimentões húngaros, cruos"
-},
-"9189": {
-"it": "Peperoncini jalapeño, in scatola, solidi e liquidi",
-"fr": "Piments jalapeño, en conserve, solides et liquides",
-"es": "Chiles jalapeños, en conserva, sólidos y líquidos",
-"de": "Jalapeños, aus der Dose, feste und flüssige Bestandteile",
-"pt": "Pimentas jalapeño, enlatados, sólidos e líquidos"
-},
-"9190": {
-"it": "Peperoncini jalapeño, crudi",
-"fr": "Piments jalapeño, crus",
-"es": "Chiles jalapeños, crudos",
-"de": "Jalapeños, roh",
-"pt": "Pimentas jalapeño, cruos"
-},
-"9191": {
-"it": "Peperoncini jalapeño, senza semi, crudi",
-"fr": "Piments jalapeño, épépinés, crus",
-"es": "Chiles jalapeños, sin semillas, crudos",
-"de": "Jalapeños, entkernt, roh",
-"pt": "Pimentas jalapeño, sem sementes, cruos"
-},
-"9192": {
-"it": "Peperoncini jalapeño",
-"fr": "Piments jalapeño",
-"es": "Chiles jalapeños",
-"de": "Jalapeños",
-"pt": "Pimentas jalapeño"
-},
-"9193": {
-"it": "Peperoncini pasilla, secci",
-"fr": "Piments pasilla, séchés",
-"es": "Chiles pasilla, secos",
-"de": "Pasilla-Chilis, getrocknet",
-"pt": "Pimentas pasilla, secos"
-},
-"9194": {
-"it": "Peperoncini poblano, senza semi, crudi",
-"fr": "Piments poblano, épépinés, crus",
-"es": "Chiles poblanos, sin semillas, crudos",
-"de": "Poblano-Chilis, entkernt, roh",
-"pt": "Pimentas poblano, sem sementes, cruos"
-},
-"9195": {
-"it": "Peperoni, crudi, non specificato",
-"fr": "Poivrons, crus, non spécifié",
-"es": "Pimientos, crudos, no especificado",
-"de": "Paprika, roh, nicht näher bezeichnet",
-"pt": "Pimentões, cruos, não especificado"
-},
-"9196": {
-"it": "Peperoni rossi, cotti",
-"fr": "Poivrons rouges, cuits",
-"es": "Pimientos rojos, cocidos",
-"de": "Rote Paprika, gekocht",
-"pt": "Pimentões vermelhos, cozidos"
-},
-"9197": {
-"it": "Peperoncini serrano, crudi",
-"fr": "Piments serrano, crus",
-"es": "Chiles serranos, crudos",
-"de": "Serrano-Chilis, roh",
-"pt": "Pimentas serrano, cruos"
-},
-"9198": {
-"it": "Peperoncini serrano, senza semi, crudi",
-"fr": "Piments serrano, épépinés, crus",
-"es": "Chiles serranos, sin semillas, crudos",
-"de": "Serrano-Chilis, entkernt, roh",
-"pt": "Pimentas serrano, sem sementes, cruos"
-},
-"9199": {
-"it": "Peperoni dolci verdi, in scatola, solidi e liquidi",
-"fr": "Poivrons doux verts, en conserve, solides et liquides",
-"es": "Pimientos dulces verdes, en conserva, sólidos y líquidos",
-"de": "Grüne Paprika, aus der Dose, feste und flüssige Bestandteile",
-"pt": "Pimentões doces verdes, enlatados, sólidos e líquidos"
-},
-"9200": {
-"it": "Peperoni dolci verdi, cotti, bolliti, sgocciolati, con sale",
-"fr": "Poivrons doux verts, cuits, bouillis, égouttés, avec sel",
-"es": "Pimientos dulces verdes, cocidos, hervidos, escurridos, con sal",
-"de": "Grüne Paprika, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Pimentões doces verdes, cozidos, cozidos em água, escorridos, com sal"
-},
-"9201": {
-"it": "Peperoni dolci verdi, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Poivrons doux verts, cuits, bouillis, égouttés, sans sel",
-"es": "Pimientos dulces verdes, cocidos, hervidos, escurridos, sin sal",
-"de": "Grüne Paprika, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Pimentões doces verdes, cozidos, cozidos em água, escorridos, sem sal"
-},
-"9202": {
-"it": "Peperoni dolci verdi, surgelati, tritati, bolliti, sgocciolati, senza sale",
-"fr": "Poivrons doux verts, surgelés, hachés, bouillis, égouttés, sans sel",
-"es": "Pimientos dulces verdes, congelados, picados, hervidos, escurridos, sin sal",
-"de": "Grüne Paprika, tiefgekühlt, gehackt, gekocht, abgetropft, ohne Salz",
-"pt": "Pimentões doces verdes, congelados, picados, cozidos em água, escorridos, sem sal"
-},
-"9203": {
-"it": "Peperoni dolci verdi, surgelati, tritati, cotti, bolliti, sgocciolati, con sale",
-"fr": "Poivrons doux verts, surgelés, hachés, cuits, bouillis, égouttés, avec sel",
-"es": "Pimientos dulces verdes, congelados, picados, cocidos, hervidos, escurridos, con sal",
-"de": "Grüne Paprika, tiefgekühlt, gehackt, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Pimentões doces verdes, congelados, picados, cozidos, cozidos em água, escorridos, com sal"
-},
-"9204": {
-"it": "Peperoni dolci verdi, surgelati, tritati, non preparati",
-"fr": "Poivrons doux verts, surgelés, hachés, non préparés",
-"es": "Pimientos dulces verdes, congelados, picados, sin preparar",
-"de": "Grüne Paprika, tiefgekühlt, gehackt, unzubereitet",
-"pt": "Pimentões doces verdes, congelados, picados, não preparados"
-},
-"9205": {
-"it": "Peperoni dolci verdi, crudi",
-"fr": "Poivrons doux verts, crus",
-"es": "Pimientos dulces verdes, crudos",
-"de": "Grüne Paprika, roh",
-"pt": "Pimentões doces verdes, cruos"
-},
-"9206": {
-"it": "Peperoni dolci verdi, saltati",
-"fr": "Poivrons doux verts, sautés",
-"es": "Pimientos dulces verdes, salteados",
-"de": "Grüne Paprika, sautiert",
-"pt": "Pimentões doces verdes, refogados"
-},
-"9207": {
-"it": "Peperoni dolci, sott'aceto",
-"fr": "Poivrons doux, au vinaigre",
-"es": "Pimientos dulces, en vinagre",
-"de": "Süße Paprika, eingelegt",
-"pt": "Pimentões doces, em conserva"
-},
-"9208": {
-"it": "Peperoni dolci rossi, in scatola, solidi e liquidi",
-"fr": "Poivrons doux rouges, en conserve, solides et liquides",
-"es": "Pimientos dulces rojos, en conserva, sólidos y líquidos",
-"de": "Rote Paprika, aus der Dose, feste und flüssige Bestandteile",
-"pt": "Pimentões doces vermelhos, enlatados, sólidos e líquidos"
-},
-"9209": {
-"it": "Peperoni dolci rossi, cotti, bolliti, sgocciolati, con sale",
-"fr": "Poivrons doux rouges, cuits, bouillis, égouttés, avec sel",
-"es": "Pimientos dulces rojos, cocidos, hervidos, escurridos, con sal",
-"de": "Rote Paprika, gekocht, gekocht, abgetropft, mit Salz",
-"pt": "Pimentões doces vermelhos, cozidos, cozidos em água, escorridos, com sal"
-},
-"9210": {
-"it": "Peperoni dolci rossi, cotti, bolliti, sgocciolati, senza sale",
-"fr": "Poivrons doux rouges, cuits, bouillis, égouttés, sans sel",
-"es": "Pimientos dulces rojos, cocidos, hervidos, escurridos, sin sal",
-"de": "Rote Paprika, gekocht, gekocht, abgetropft, ohne Salz",
-"pt": "Pimentões doces vermelhos, cozidos, cozidos em água, escorridos, sem sal"
-},
-"9211": {
-"it": "Peperoni dolci rossi, liofilizzati",
-"fr": "Poivrons doux rouges, lyophilisés",
-"es": "Pimientos dulces rojos, liofilizados",
-"de": "Rote Paprika, gefriergetrocknet",
-"pt": "Pimentões doces vermelhos, liofilizados"
-},
-"9212": {
-"it": "Peperoni dolci rossi, surgelati, tritati, bolliti, sgocciolati, con sale",
-"fr": "Poivrons doux rouges, surgelés, hachés, bouillis, égouttés, avec sel",
-"es": "Pimientos dulces rojos, congelados, picados, hervidos, escurridos, con sal",
-"de": "Rote Paprika, tiefgekühlt, gehackt, gekocht, abgetropft, mit Salz",
-"pt": "Pimentões doces vermelhos, congelados, picados, cozidos em água, escorridos, com sal"
-},
-"9213": {
-"it": "Peperoni dolci rossi, surgelati, tritati, bolliti, sgocciolati, senza sale",
-"fr": "Poivrons doux rouges, surgelés, hachés, bouillis, égouttés, sans sel",
-"es": "Pimientos dulces rojos, congelados, picados, hervidos, escurridos, sin sal",
-"de": "Rote Paprika, tiefgekühlt, gehackt, gekocht, abgetropft, ohne Salz",
-"pt": "Pimentões doces vermelhos, congelados, picados, cozidos em água, escorridos, sem sal"
-},
-"9214": {
-"it": "Peperoni dolci rossi, surgelati, tritati, non preparati",
-"fr": "Poivrons doux rouges, surgelés, hachés, non préparés",
-"es": "Pimientos dulces rojos, congelados, picados, sin preparar",
-"de": "Rote Paprika, tiefgekühlt, gehackt, unzubereitet",
-"pt": "Pimentões doces vermelhos, congelados, picados, não preparados"
-},
-"9215": {
-"it": "Peperoni dolci rossi, crudi",
-"fr": "Poivrons doux rouges, crus",
-"es": "Pimientos dulces rojos, crudos",
-"de": "Rote Paprika, roh",
-"pt": "Pimentões doces vermelhos, cruos"
-},
-"9216": {
-"it": "Peperoni dolci rossi, saltati",
-"fr": "Poivrons doux rouges, sautés",
-"es": "Pimientos dulces rojos, salteados",
-"de": "Rote Paprika, sautiert",
-"pt": "Pimentões doces vermelhos, refogados"
-},
-"9217": {
-"it": "Peperoni dolci gialli, crudi",
-"fr": "Poivrons doux jaunes, crus",
-"es": "Pimientos dulces amarillos, crudos",
-"de": "Gelbe Paprika, roh",
-"pt": "Pimentões doces amarelos, cruos"
-},
-"9218": {
-"it": "Cachi, secco",
-"fr": "Kaki, séché",
-"es": "Caqui, seco",
-"de": "Kaki, getrocknet",
-"pt": "Caqui, seco"
-},
-"9219": {
-"it": "Cachi, crudo",
-"fr": "Kaki, cru",
-"es": "Caqui, crudo",
-"de": "Kaki, roh",
-"pt": "Caqui, cruo"
-},
-"9220": {
-"it": "Cachi giapponesi, secci",
-"fr": "Kakis japonais, séchés",
-"es": "Caquis japoneses, secos",
-"de": "Japanische Kakis, getrocknet",
-"pt": "Caquis japoneses, secos"
-},
-"9221": {
-"it": "Cachi giapponesi, crudi",
-"fr": "Kakis japonais, crus",
-"es": "Caquis japoneses, crudos",
-"de": "Japanische Kakis, roh",
-"pt": "Caquis japoneses, cruos"
-},
-"9222": {
-"it": "Cachi nativi americani, crudi",
-"fr": "Kakis d'Amérique, crus",
-"es": "Caquis nativos de América, crudos",
-"de": "Amerikanische Kakis, roh",
-"pt": "Caquis nativos americanos, cruos"
-},
-"9223": {
-"it": "Fagioli peruviani, da fagioli secchi",
-"fr": "Haricots du Pérou, à partir de haricots secs",
-"es": "Frijoles peruanos, a partir de frijoles secos",
-"de": "Peruanische Bohnen, aus getrockneten Bohnen",
-"pt": "Feijão peruano, a partir de feijão seco"
-},
-"9224": {
-"it": "Salsa pesto",
-"fr": "Sauce pesto",
-"es": "Salsa pesto",
-"de": "Pesto-Sauce",
-"pt": "Molho pesto"
-},
-"9225": {
-"it": "Fagiano, petto, solo carne, crudo",
-"fr": "Faisan, poitrine, viande seule, cru",
-"es": "Faisán, pechuga, solo carne, crudo",
-"de": "Fasan, Brust, nur Fleisch, roh",
-"pt": "Faisão, peito, apenas carne, cruo"
-},
-"9226": {
-"it": "Fagiano, cotto",
-"fr": "Faisan, cuit",
-"es": "Faisán, cocido",
-"de": "Fasan, gekocht",
-"pt": "Faisão, cozido"
-},
-"9227": {
-"it": "Fagiano, cotto, parte commestibile totale",
-"fr": "Faisan, cuit, partie comestible totale",
-"es": "Faisán, cocido, parte comestible total",
-"de": "Fasan, gekocht, gesamter essbarer Anteil",
-"pt": "Faisão, cozido, total comestível"
-},
-"9228": {
-"it": "Fagiano, coscia, solo carne, crudo",
-"fr": "Faisan, cuisse, viande seule, cru",
-"es": "Faisán, muslo, solo carne, crudo",
-"de": "Fasan, Keule, nur Fleisch, roh",
-"pt": "Faisão, coxa, apenas carne, cruo"
-},
-"9229": {
-"it": "Fagiano, crudo, carne e pelle",
-"fr": "Faisan, cru, viande et peau",
-"es": "Faisán, crudo, carne y piel",
-"de": "Fasan, roh, Fleisch und Haut",
-"pt": "Faisão, cruo, carne e pele"
-},
-"9230": {
-"it": "Fagiano, crudo, solo carne",
-"fr": "Faisan, cru, viande seule",
-"es": "Faisán, crudo, solo carne",
-"de": "Fasan, roh, nur Fleisch",
-"pt": "Faisão, cruo, apenas carne"
-},
-"9231": {
-"it": "Pasta fillo",
-"fr": "Pâte filo",
-"es": "Masa filo",
-"de": "Filoteig",
-"pt": "Massa filo"
-},
-"9233": {
-"it": "Relish di sottaceti, per hamburger",
-"fr": "Relish de cornichons, pour hamburger",
-"es": "Relish de pepinillos, para hamburguesa",
-"de": "Gurken-Relish, für Hamburger",
-"pt": "Relish de picles, para hambúrguer"
-},
-"9234": {
-"it": "Relish di sottaceti, per hot dog",
-"fr": "Relish de cornichons, pour hot-dog",
-"es": "Relish de pepinillos, para perritos calientes",
-"de": "Gurken-Relish, für Hot Dogs",
-"pt": "Relish de picles, para cachorro-quente"
-},
-"9235": {
-"it": "Relish di sottaceti, dolce",
-"fr": "Relish de cornichons, sucré",
-"es": "Relish de pepinillos, dulce",
-"de": "Gurken-Relish, süß",
-"pt": "Relish de picles, doce"
-},
-"9236": {
-"it": "Salsiccia sott'aceto",
-"fr": "Saucisse marinée au vinaigre",
-"es": "Salchicha en escabeche",
-"de": "Eingelegte Wurst",
-"pt": "Salsicha em conserva"
-},
-"9237": {
-"it": "Sottaceti, chowchow (sottaceti misti), con cavolfiore, cipolla e senape, dolci",
-"fr": "Pickles, chowchow (légumes mixtes au vinaigre), avec chou-fleur, oignon et moutarde, sucrés",
-"es": "Encurtidos, chowchow (encurtido mixto), con coliflor, cebolla y mostaza, dulces",
-"de": "Essiggemüse, Chowchow (gemischtes Essiggemüse), mit Blumenkohl, Zwiebel und Senf, süß",
-"pt": "Picles, chowchow (picles mistos), com couve-flor, cebola e mostarda, doces"
-}
+  "8940": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e verdure aggiunte, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate et légumes ajoutés, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate y verduras añadidas, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate e vegetais adicionados, pronto para aquecer"
+  },
+  "8941": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e verdure aggiunte, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate et légumes ajoutés, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate y verduras añadidas, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate e vegetais adicionados, de restaurante"
+  },
+  "8942": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e carne, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate et viande, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate y carne, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Fleisch, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate e carne, receita caseira"
+  },
+  "8943": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e carne, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate et viande, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate y carne, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Fleisch, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate e carne, pronto para aquecer"
+  },
+  "8944": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e carne, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate et viande, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate y carne, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Fleisch, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate e carne, de restaurante"
+  },
+  "8945": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e pollame, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate et volaille, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate y aves, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Geflügel, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate e aves, receita caseira"
+  },
+  "8946": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e pollame, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate et volaille, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate y aves, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Geflügel, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate e aves, pronto para aquecer"
+  },
+  "8947": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e pollame, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate et volaille, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate y aves, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Geflügel, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate e aves, de restaurante"
+  },
+  "8948": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e frutti di mare, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate et fruits de mer, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate y mariscos, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Meeresfrüchten, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate e frutos do mar, receita caseira"
+  },
+  "8949": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e frutti di mare, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate et fruits de mer, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate y mariscos, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Meeresfrüchten, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate e frutos do mar, pronto para aquecer"
+  },
+  "8950": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e frutti di mare, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate et fruits de mer, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate y mariscos, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis und Meeresfrüchten, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate e frutos do mar, de restaurante"
+  },
+  "8951": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate, receita caseira"
+  },
+  "8952": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, carne e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate, viande et légumes ajoutés, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate, carne y verduras añadidas, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate, carne e vegetais adicionados, receita caseira"
+  },
+  "8953": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, carne e verdure aggiunte, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate, viande et légumes ajoutés, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate, carne y verduras añadidas, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate, carne e vegetais adicionados, pronto para aquecer"
+  },
+  "8954": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, carne e verdure aggiunte, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate, viande et légumes ajoutés, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate, carne y verduras añadidas, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate, carne e vegetais adicionados, de restaurante"
+  },
+  "8955": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, pollame e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate, volaille et légumes ajoutés, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate, aves y verduras añadidas, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate, aves e vegetais adicionados, receita caseira"
+  },
+  "8956": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, pollame e verdure aggiunte, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate, volaille et légumes ajoutés, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate, aves y verduras añadidas, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate, aves e vegetais adicionados, pronto para aquecer"
+  },
+  "8957": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, pollame e verdure aggiunte, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate, volaille et légumes ajoutés, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate, aves y verduras añadidas, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate, aves e vegetais adicionados, de restaurante"
+  },
+  "8958": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate, pronto para aquecer"
+  },
+  "8959": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate, de restaurante"
+  },
+  "8960": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, frutti di mare e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes, completes, avec sauce tomate, fruits de mer et légumes ajoutés, recette maison",
+    "es": "Pasta, integral, con salsa a base de tomate, mariscos y verduras añadidas, receta casera",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Meeresfrüchten und zusätzlichem Gemüse, Hausrezept",
+    "pt": "Massa, integral, com molho à base de tomate, frutos do mar e vegetais adicionados, receita caseira"
+  },
+  "8961": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, frutti di mare e verdure aggiunte, pronto da riscaldare",
+    "fr": "Pâtes, completes, avec sauce tomate, fruits de mer et légumes ajoutés, prêt à réchauffer",
+    "es": "Pasta, integral, con salsa a base de tomate, mariscos y verduras añadidas, listo para calentar",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Meeresfrüchten und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa, integral, com molho à base de tomate, frutos do mar e vegetais adicionados, pronto para aquecer"
+  },
+  "8962": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro, frutti di mare e verdure aggiunte, da ristorante",
+    "fr": "Pâtes, completes, avec sauce tomate, fruits de mer et légumes ajoutés, de restaurant",
+    "es": "Pasta, integral, con salsa a base de tomate, mariscos y verduras añadidas, de restaurante",
+    "de": "Nudeln, Vollkorn-, mit Sauce auf Tomatenbasis, Meeresfrüchten und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa, integral, com molho à base de tomate, frutos do mar e vegetais adicionados, de restaurante"
+  },
+  "8963": {
+    "it": "Pasta, di grano integrale, cotta (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Pâtes, de blé complet, cuites (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Pasta, de trigo integral, cocida (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Nudeln, Vollkorn, gekocht (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Massa, de trigo integral, cozida (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "8964": {
+    "it": "Pasta, di grano integrale, secca (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Pâtes, de blé complet, sèche (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Pasta, de trigo integral, seca (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Nudeln, Vollkorn, trocken (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Massa, de trigo integral, seca (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "8965": {
+    "it": "Pastrami, manzo, 98e senza grassi",
+    "fr": "Pastrami, bœuf, 98  sans matières grasses",
+    "es": "Pastrami, vacuno, 98e sin grasa",
+    "de": "Pastrami, Rind, 98  fettfrei",
+    "pt": "Pastrami, carne bovina, 98e sem gordura"
+  },
+  "8966": {
+    "it": "Pastrami, di qualsiasi tipo di carne, a ridotto contenuto di grassi",
+    "fr": "Pastrami, de n'importe quelle viande, à teneur réduite en matières grasses",
+    "es": "Pastrami, de cualquier tipo de carne, reducido en grasa",
+    "de": "Pastrami, aus beliebigem Fleisch, fettreduziert",
+    "pt": "Pastrami, de qualquer tipo de carne, com teor reduzido de gordura"
+  },
+  "8967": {
+    "it": "Pastrami, non specificato",
+    "fr": "Pastrami, non spécifié",
+    "es": "Pastrami, no especificado",
+    "de": "Pastrami, nicht näher bezeichnet",
+    "pt": "Pastrami, não especificado"
+  },
+  "8968": {
+    "it": "Pastrami, tacchino",
+    "fr": "Pastrami, dinde",
+    "es": "Pastrami, pavo",
+    "de": "Pastrami, Pute",
+    "pt": "Pastrami, peru"
+  },
+  "8969": {
+    "it": "Pasticcino, ripieno di formaggio",
+    "fr": "Pâtisserie, fourrée au fromage",
+    "es": "Pastelito, relleno de queso",
+    "de": "Gebäck, mit Käsefüllung",
+    "pt": "Doce de massa, recheado com queijo"
+  },
+  "8970": {
+    "it": "Pasticcino, cinese, a base di farina di riso",
+    "fr": "Pâtisserie, chinoise, à base de farine de riz",
+    "es": "Pastelito, chino, hecho con harina de arroz",
+    "de": "Gebäck, chinesisch, aus Reismehl",
+    "pt": "Doce de massa, chinês, feito com farinha de arroz"
+  },
+  "8971": {
+    "it": "Pasticcino, tipo biscotto, fritto",
+    "fr": "Pâtisserie, type biscuit, frite",
+    "es": "Pastelito, tipo galleta, frito",
+    "de": "Gebäck, Keksart, frittiert",
+    "pt": "Doce de massa, tipo biscoito, frito"
+  },
+  "8972": {
+    "it": "Pasticcino, ripieno di uovo e formaggio",
+    "fr": "Pâtisserie, fourrée aux œufs et au fromage",
+    "es": "Pastelito, relleno de huevo y queso",
+    "de": "Gebäck, mit Ei-Käse-Füllung",
+    "pt": "Doce de massa, recheado com ovo e queijo"
+  },
+  "8973": {
+    "it": "Pasticcino, ripieno di frutta",
+    "fr": "Pâtisserie, fourrée aux fruits",
+    "es": "Pastelito, relleno de fruta",
+    "de": "Gebäck, mit Fruchtfüllung",
+    "pt": "Doce de massa, recheado com frutas"
+  },
+  "8974": {
+    "it": "Pasticcino, italiano, con formaggio",
+    "fr": "Pâtisserie, italiene, au fromage",
+    "es": "Pastelito, italiano, con queso",
+    "de": "Gebäck, italienisch, mit Käse",
+    "pt": "Doce de massa, italiano, com queijo"
+  },
+  "8975": {
+    "it": "Pasticcino, con ripieno di pasta di fagioli o semi di loto, al forno",
+    "fr": "Pâtisserie, avec garniture de pâte de haricots ou de graines de lotus, cuite au four",
+    "es": "Pastelito, con relleno de pasta de frijoles o de semillas de loto, al horno",
+    "de": "Gebäck, mit Füllung aus Bohnen- oder Lotossamenpaste, gebacken",
+    "pt": "Doce de massa, com recheio de pasta de feijão ou de sementes de lótus, assado no forno"
+  },
+  "8976": {
+    "it": "Pasticcino, con ripieno di pasta di fagioli e tuorlo d'uovo salato, al forno",
+    "fr": "Pâtisserie, avec garniture de pâte de haricots et de jaune d'œuf salé, cuite au four",
+    "es": "Pastelito, con relleno de pasta de frijoles y yema de huevo salada, al horno",
+    "de": "Gebäck, mit Füllung aus Bohnenpaste und gesalzenem Eigelb, gebacken",
+    "pt": "Doce de massa, com recheio de pasta de feijão e gema de ovo salgada, assado no forno"
+  },
+  "8977": {
+    "it": "Pasticcino, a base soprattutto di farina e acqua, fritto",
+    "fr": "Pâtisserie, principalement à base de farine et d'eau, frite",
+    "es": "Pastelito, principalmente de harina y agua, frito",
+    "de": "Gebäck, hauptsächlich aus Mehl und Wasser, frittiert",
+    "pt": "Doce de massa, feito principalmente de farinha e água, frito"
+  },
+  "8978": {
+    "it": "Pasticcino, ripieno di carne / pollame",
+    "fr": "Pâtisserie, fourrée à la viande / à la volaille",
+    "es": "Pastelito, relleno de carne / aves",
+    "de": "Gebäck, mit Fleisch-/Geflügelfüllung",
+    "pt": "Doce de massa, recheado com carne / aves"
+  },
+  "8979": {
+    "it": "Pasticcino, Pastelitos de Guava (pasticcini alla guaiava)",
+    "fr": "Pâtisserie, Pastelitos de guayaba (pâtisseries à la goyave)",
+    "es": "Pastelito, Pastelitos de guayaba",
+    "de": "Gebäck, Pastelitos de Guava (Guavengebäck)",
+    "pt": "Doce de massa, Pastelitos de Guava (doces de massa com goiaba)"
+  },
+  "8980": {
+    "it": "Pasticcino, sfoglia",
+    "fr": "Pâtisserie, feuilletée",
+    "es": "Pastelito, de hojaldre",
+    "de": "Gebäck, Blätterteig",
+    "pt": "Doce de massa, folhado"
+  },
+  "8981": {
+    "it": "Pasticcino, sfoglia, ripieno di crema pasticcera o panna, glassato o non glassato",
+    "fr": "Pâtisserie, feuilletée, fourrée de crème pâtissière ou de crème, glacée ou non",
+    "es": "Pastelito, de hojaldre, relleno de crema pastelera o nata, glaseado o sin glasear",
+    "de": "Gebäck, Blätterteig, mit Pudding- oder Sahnefüllung, glasiert oder unglasiert",
+    "pt": "Doce de massa, folhado, recheado com creme de confeiteiro ou chantilly, com ou sem cobertura"
+  },
+  "8982": {
+    "it": "Pâté de foie gras, in scatola (paté di fegato d'oca), affumicato",
+    "fr": "Pâté de foie gras, en conserve (pâté de foie d'oie), fumé",
+    "es": "Pâté de foie gras, en conserva (paté de hígado de ganso), ahumado",
+    "de": "Pâté de foie gras, aus der Dose (Gänseleberpastete), geräuchert",
+    "pt": "Pâté de foie gras, enlatado (patê de fígado de ganso), defumado"
+  },
+  "8983": {
+    "it": "Paté, di fegato di pollo, in scatola",
+    "fr": "Pâté, de foie de volaille, en conserve",
+    "es": "Paté, de hígado de pollo, en conserva",
+    "de": "Pastete, aus Hühnerleber, aus der Dose",
+    "pt": "Patê, de fígado de frango, enlatado"
+  },
+  "8984": {
+    "it": "Paté, di fegato d'oca, affumicato, in scatola",
+    "fr": "Pâté, de foie d'oie, fumé, en conserve",
+    "es": "Paté, de hígado de ganso, ahumado, en conserva",
+    "de": "Pastete, aus Gänseleber, geräuchert, aus der Dose",
+    "pt": "Patê, de fígado de ganso, defumado, enlatado"
+  },
+  "8985": {
+    "it": "Paté, di fegato, non specificato, in scatola",
+    "fr": "Pâté, de foie, non précisé, en conserve",
+    "es": "Paté, de hígado, sin especificar, en conserva",
+    "de": "Pastete, aus Leber, nicht angegeben, aus der Dose",
+    "pt": "Patê, de fígado, não especificado, enlatado"
+  },
+  "8986": {
+    "it": "Paté, aroma di tartufo",
+    "fr": "Pâté, aromatisé à la truffe",
+    "es": "Paté, sabor a trufa",
+    "de": "Pastete, mit Trüffelaroma",
+    "pt": "Patê, sabor trufa"
+  },
+  "8987": {
+    "it": "Insalata di piselli",
+    "fr": "Salade de petits pois",
+    "es": "Ensalada de guisantes",
+    "de": "Erbsensalat",
+    "pt": "Salada de ervilha"
+  },
+  "8988": {
+    "it": "Insalata di piselli con formaggio",
+    "fr": "Salade de petits pois au fromage",
+    "es": "Ensalada de guisantes con queso",
+    "de": "Erbsensalat mit Käse",
+    "pt": "Salada de ervilha com queijo"
+  },
+  "8989": {
+    "it": "Nettare di pesca",
+    "fr": "Nectar de pêche",
+    "es": "Néctar de durazno",
+    "de": "Pfirsichnektar",
+    "pt": "Néctar de pêssego"
+  },
+  "8990": {
+    "it": "Nettare di pesca, in scatola, con acido ascorbico aggiunto",
+    "fr": "Nectar de pêche, en conserve, avec acide ascorbique ajouté",
+    "es": "Néctar de durazno, en conserva, con ácido ascórbico añadido",
+    "de": "Pfirsichnektar, aus der Dose, mit Zusatz von Ascorbinsäure",
+    "pt": "Néctar de pêssego, enlatado, com ácido ascórbico adicionado"
+  },
+  "8991": {
+    "it": "Nettare di pesca, in scatola, con sucralosio, senza acido ascorbico aggiunto",
+    "fr": "Nectar de pêche, en conserve, avec sucralose, sans acide ascorbique ajouté",
+    "es": "Néctar de durazno, en conserva, con sucralosa, sin ácido ascórbico añadido",
+    "de": "Pfirsichnektar, aus der Dose, mit Sucralose, ohne Zusatz von Ascorbinsäure",
+    "pt": "Néctar de pêssego, enlatado, com sucralose, sem ácido ascórbico adicionado"
+  },
+  "8992": {
+    "it": "Pesca, in scatola, in sciroppo",
+    "fr": "Pêche, en conserve, au sirop",
+    "es": "Durazno, en conserva, en almíbar",
+    "de": "Pfirsich, aus der Dose, in Sirup",
+    "pt": "Pêssego, enlatado, em calda"
+  },
+  "8993": {
+    "it": "Pesca, in scatola, in succo",
+    "fr": "Pêche, en conserve, au jus",
+    "es": "Durazno, en conserva, en jugo",
+    "de": "Pfirsich, aus der Dose, in Saft",
+    "pt": "Pêssego, enlatado, em suco"
+  },
+  "8994": {
+    "it": "Pesca, in scatola, non specificato",
+    "fr": "Pêche, en conserve, non spécifié",
+    "es": "Durazno, en conserva, no especificado",
+    "de": "Pfirsich, aus der Dose, nicht näher bezeichnet",
+    "pt": "Pêssego, enlatado, não especificado"
+  },
+  "8995": {
+    "it": "Pesca, secca",
+    "fr": "Pêche, séchée",
+    "es": "Durazno, seco",
+    "de": "Pfirsich, getrocknet",
+    "pt": "Pêssego, seco"
+  },
+  "8996": {
+    "it": "Pesca, surgelata",
+    "fr": "Pêche, surgelée",
+    "es": "Durazno, congelado",
+    "de": "Pfirsich, tiefgekühlt",
+    "pt": "Pêssego, congelado"
+  },
+  "8997": {
+    "it": "Pesca, cruda",
+    "fr": "Pêche, crue",
+    "es": "Durazno, crudo",
+    "de": "Pfirsich, roh",
+    "pt": "Pêssego, cruo"
+  },
+  "8998": {
+    "it": "Pesche, in scatola, in sciroppo extra denso, solidi e liquidi",
+    "fr": "Pêches, en conserve, au sirop extra épais, solides et liquides",
+    "es": "Duraznos, en conserva, en almíbar extra espeso, sólidos y líquidos",
+    "de": "Pfirsiche, aus der Dose, in extra dickem Sirup, feste und flüssige Bestandteile",
+    "pt": "Pêssegos, enlatados, em calda extra densa, sólidos e líquidos"
+  },
+  "8999": {
+    "it": "Pesche, in scatola, in sciroppo extra leggero, solidi e liquidi (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Pêches, en conserve, au sirop extra léger, solides et liquides (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Duraznos, en conserva, en almíbar extra ligero, sólidos y líquidos (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Pfirsiche, aus der Dose, in extra leichtem Sirup, feste und flüssige Bestandteile (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Pêssegos, enlatados, em calda extra leve, sólidos e líquidos (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9000": {
+    "it": "Pesche, in scatola, in sciroppo denso, solidi e liquidi",
+    "fr": "Pêches, en conserve, au sirop épais, solides et liquides",
+    "es": "Duraznos, en conserva, en almíbar espeso, sólidos y líquidos",
+    "de": "Pfirsiche, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
+    "pt": "Pêssegos, enlatados, em calda densa, sólidos e líquidos"
+  },
+  "9001": {
+    "it": "Pesche, in scatola, in sciroppo denso, sgocciolate",
+    "fr": "Pêches, en conserve, au sirop épais, égouttées",
+    "es": "Duraznos, en conserva, en almíbar espeso, escurridos",
+    "de": "Pfirsiche, aus der Dose, in dickem Sirup, abgetropft",
+    "pt": "Pêssegos, enlatados, em calda densa, escorridos"
+  },
+  "9002": {
+    "it": "Pesche, in scatola, in succo, solidi e liquidi",
+    "fr": "Pêches, en conserve, au jus, solides et liquides",
+    "es": "Duraznos, en conserva, en jugo, sólidos y líquidos",
+    "de": "Pfirsiche, aus der Dose, in Saft, feste und flüssige Bestandteile",
+    "pt": "Pêssegos, enlatados, em suco, sólidos e líquidos"
+  },
+  "9003": {
+    "it": "Pesche, in scatola, in sciroppo leggero, solidi e liquidi",
+    "fr": "Pêches, en conserve, au sirop léger, solides et liquides",
+    "es": "Duraznos, en conserva, en almíbar ligero, sólidos y líquidos",
+    "de": "Pfirsiche, aus der Dose, in leichtem Sirup, feste und flüssige Bestandteile",
+    "pt": "Pêssegos, enlatados, em calda leve, sólidos e líquidos"
+  },
+  "9004": {
+    "it": "Pesche, in scatola, in acqua, solidi e liquidi",
+    "fr": "Pêches, en conserve, à l'eau, solides et liquides",
+    "es": "Duraznos, en conserva, en agua, sólidos y líquidos",
+    "de": "Pfirsiche, aus der Dose, in Wasser, feste und flüssige Bestandteile",
+    "pt": "Pêssegos, enlatados, em água, sólidos e líquidos"
+  },
+  "9005": {
+    "it": "Pesche, disidratate (a basso contenuto di umidità), solforate, stufate",
+    "fr": "Pêches, déshydratées (à faible teneur en eau), sulfitées, mijotées",
+    "es": "Duraznos, deshidratados (de baja humedad), sulfurados, estofados",
+    "de": "Pfirsiche, dehydriert (feuchtigkeitsarm), geschwefelt, geschmort",
+    "pt": "Pêssegos, desidratados (baixa umidade), sulfitados, ensopados"
+  },
+  "9006": {
+    "it": "Pesche, disidratate (a basso contenuto di umidità), solforate, non cotte",
+    "fr": "Pêches, déshydratées (à faible teneur en eau), sulfitées, non cuites",
+    "es": "Duraznos, deshidratados (de baja humedad), sulfurados, sin cocinar",
+    "de": "Pfirsiche, dehydriert (feuchtigkeitsarm), geschwefelt, ungekocht",
+    "pt": "Pêssegos, desidratados (baixa umidade), sulfitados, não cozidos"
+  },
+  "9007": {
+    "it": "Pesche, secce, solforate, stufate, con zucchero aggiunto",
+    "fr": "Pêches, séchées, sulfitées, mijotées, avec sucre ajouté",
+    "es": "Duraznos, secos, sulfurados, estofados, con azúcar añadido",
+    "de": "Pfirsiche, getrocknet, geschwefelt, geschmort, mit Zuckerzusatz",
+    "pt": "Pêssegos, secos, sulfitados, ensopados, com açúcar adicionado"
+  },
+  "9008": {
+    "it": "Pesche, secce, solforate, stufate, senza zucchero aggiunto",
+    "fr": "Pêches, séchées, sulfitées, mijotées, sans sucre ajouté",
+    "es": "Duraznos, secos, sulfurados, estofados, sin azúcar añadido",
+    "de": "Pfirsiche, getrocknet, geschwefelt, geschmort, ohne Zuckerzusatz",
+    "pt": "Pêssegos, secos, sulfitados, ensopados, sem açúcar adicionado"
+  },
+  "9009": {
+    "it": "Pesche, secce, solforate, non cotte",
+    "fr": "Pêches, séchées, sulfitées, non cuites",
+    "es": "Duraznos, secos, sulfurados, sin cocinar",
+    "de": "Pfirsiche, getrocknet, geschwefelt, ungekocht",
+    "pt": "Pêssegos, secos, sulfitados, não cozidos"
+  },
+  "9010": {
+    "it": "Pesche, surgelate, a fette, zuccherate",
+    "fr": "Pêches, surgelées, tranchées, sucrées",
+    "es": "Duraznos, congelados, en rodajas, azucarados",
+    "de": "Pfirsiche, tiefgekühlt, in Scheiben, gezuckert",
+    "pt": "Pêssegos, congelados, fatiados, adoçados"
+  },
+  "9011": {
+    "it": "Pesche, speziate, in scatola, in sciroppo denso, solidi e liquidi",
+    "fr": "Pêches, épicées, en conserve, au sirop épais, solides et liquides",
+    "es": "Duraznos, con especias, en conserva, en almíbar espeso, sólidos y líquidos",
+    "de": "Pfirsiche, gewürzt, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
+    "pt": "Pêssegos, temperados, enlatados, em calda densa, sólidos e líquidos"
+  },
+  "9012": {
+    "it": "Pesche gialle, crude",
+    "fr": "Pêches jaunes, crues",
+    "es": "Melocotones amarillos, crudos",
+    "de": "Gelbe Pfirsiche, roh",
+    "pt": "Pêssegos amarelos, crus"
+  },
+  "9013": {
+    "it": "Burro di arachidi",
+    "fr": "Beurre de cacahuète",
+    "es": "Mantequilla de maní",
+    "de": "Erdnussbutter",
+    "pt": "Manteiga de amendoim"
+  },
+  "9014": {
+    "it": "Crema spalmabile di burro di arachidi e cioccolato",
+    "fr": "Pâte à tartiner au beurre de cacahuète et au chocolat",
+    "es": "Crema para untar de mantequilla de maní y chocolate",
+    "de": "Brotaufstrich aus Erdnussbutter und Schokolade",
+    "pt": "Pasta de amendoim com chocolate"
+  },
+  "9015": {
+    "it": "Burro di arachidi e marmellata",
+    "fr": "Beurre de cacahuète et gelée de fruits",
+    "es": "Mantequilla de maní y mermelada",
+    "de": "Erdnussbutter und Marmelade",
+    "pt": "Manteiga de amendoim e geleia"
+  },
+  "9016": {
+    "it": "Panino con burro di arachidi e marmellata, prodotto commerciale surgelato senza crosta",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, produit commercial surgelé sans croûte",
+    "es": "Sándwich de mantequilla de maní y mermelada, producto comercial congelado sin corteza",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, handelsübliches Tiefkühlprodukt ohne Rinde",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, produto comercial congelado sem casca"
+  },
+  "9017": {
+    "it": "Panino con burro di arachidi e marmellata, non specificato",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, non spécifié",
+    "es": "Sándwich de mantequilla de maní y mermelada, no especificado",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, nicht näher bezeichnet",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, não especificado"
+  },
+  "9018": {
+    "it": "Panino con burro di arachidi e marmellata, con burro di arachidi a ridotto contenuto di grassi, su pane integrale",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète allégé, sur pain complet",
+    "es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní reducida en grasa, en pan integral",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, mit fettreduzierter Erdnussbutter, auf Vollkornbrot",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim com teor reduzido de gordura, em pão integral"
+  },
+  "9019": {
+    "it": "Panino con burro di arachidi e marmellata, con burro di arachidi a ridotto contenuto di grassi, su pane bianco",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète allégé, sur pain blanc",
+    "es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní reducida en grasa, en pan blanco",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, mit fettreduzierter Erdnussbutter, auf Weißbrot",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim com teor reduzido de gordura, em pão branco"
+  },
+  "9020": {
+    "it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata a ridotto contenuto di zuccheri, su pane integrale",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits allégée en sucre, sur pain complet",
+    "es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada reducida en azúcar, en pan integral",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, zuckerreduzierter Marmelade, auf Vollkornbrot",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia com teor reduzido de açúcar, em pão integral"
+  },
+  "9021": {
+    "it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata a ridotto contenuto di zuccheri, su pane bianco",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits allégée en sucre, sur pain blanc",
+    "es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada reducida en azúcar, en pan blanco",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, zuckerreduzierter Marmelade, auf Weißbrot",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia com teor reduzido de açúcar, em pão branco"
+  },
+  "9022": {
+    "it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata normale, su pane integrale",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits ordinaire, sur pain complet",
+    "es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada normal, en pan integral",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, normaler Marmelade, auf Vollkornbrot",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia comum, em pão integral"
+  },
+  "9023": {
+    "it": "Panino con burro di arachidi e marmellata, con burro di arachidi normale, marmellata normale, su pane bianco",
+    "fr": "Sandwich au beurre de cacahuète et à la gelée de fruits, avec beurre de cacahuète ordinaire, gelée de fruits ordinaire, sur pain blanc",
+    "es": "Sándwich de mantequilla de maní y mermelada, con mantequilla de maní normal, mermelada normal, en pan blanco",
+    "de": "Sandwich mit Erdnussbutter und Marmelade, mit normaler Erdnussbutter, normaler Marmelade, auf Weißbrot",
+    "pt": "Sanduíche de manteiga de amendoim e geleia, com manteiga de amendoim comum, geleia comum, em pão branco"
+  },
+  "9024": {
+    "it": "Panino con burro di arachidi, non specificato",
+    "fr": "Sandwich au beurre de cacahuète, non spécifié",
+    "es": "Sándwich de mantequilla de maní, no especificado",
+    "de": "Sandwich mit Erdnussbutter, nicht näher bezeichnet",
+    "pt": "Sanduíche de manteiga de amendoim, não especificado"
+  },
+  "9025": {
+    "it": "Panino con burro di arachidi, con burro di arachidi a ridotto contenuto di grassi, su pane integrale",
+    "fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète allégé, sur pain complet",
+    "es": "Sándwich de mantequilla de maní, con mantequilla de maní reducida en grasa, en pan integral",
+    "de": "Sandwich mit Erdnussbutter, mit fettreduzierter Erdnussbutter, auf Vollkornbrot",
+    "pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim com teor reduzido de gordura, em pão integral"
+  },
+  "9026": {
+    "it": "Panino con burro di arachidi, con burro di arachidi a ridotto contenuto di grassi, su pane bianco",
+    "fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète allégé, sur pain blanc",
+    "es": "Sándwich de mantequilla de maní, con mantequilla de maní reducida en grasa, en pan blanco",
+    "de": "Sandwich mit Erdnussbutter, mit fettreduzierter Erdnussbutter, auf Weißbrot",
+    "pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim com teor reduzido de gordura, em pão branco"
+  },
+  "9027": {
+    "it": "Panino con burro di arachidi, con burro di arachidi normale, su pane integrale",
+    "fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète ordinaire, sur pain complet",
+    "es": "Sándwich de mantequilla de maní, con mantequilla de maní normal, en pan integral",
+    "de": "Sandwich mit Erdnussbutter, mit normaler Erdnussbutter, auf Vollkornbrot",
+    "pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim comum, em pão integral"
+  },
+  "9028": {
+    "it": "Panino con burro di arachidi, con burro di arachidi normale, su pane bianco",
+    "fr": "Sandwich au beurre de cacahuète, avec beurre de cacahuète ordinaire, sur pain blanc",
+    "es": "Sándwich de mantequilla de maní, con mantequilla de maní normal, en pan blanco",
+    "de": "Sandwich mit Erdnussbutter, mit normaler Erdnussbutter, auf Weißbrot",
+    "pt": "Sanduíche de manteiga de amendoim, com manteiga de amendoim comum, em pão branco"
+  },
+  "9029": {
+    "it": "Burro di arachidi con omega-3, cremoso",
+    "fr": "Beurre de cacahuète avec oméga-3, crémeux",
+    "es": "Mantequilla de maní con omega-3, cremosa",
+    "de": "Erdnussbutter mit Omega-3, cremig",
+    "pt": "Manteiga de amendoim com ômega-3, cremosa"
+  },
+  "9030": {
+    "it": "Burro di arachidi, a pezzi, con sale",
+    "fr": "Beurre de cacahuète, avec morceaux, avec sel",
+    "es": "Mantequilla de maní, con trozos, con sal",
+    "de": "Erdnussbutter, mit Stückchen, mit Salz",
+    "pt": "Manteiga de amendoim, com pedaços, com sal"
+  },
+  "9031": {
+    "it": "Burro di arachidi, a pezzi, senza sale",
+    "fr": "Beurre de cacahuète, avec morceaux, sans sel",
+    "es": "Mantequilla de maní, con trozos, sin sal",
+    "de": "Erdnussbutter, mit Stückchen, ohne Salz",
+    "pt": "Manteiga de amendoim, com pedaços, sem sal"
+  },
+  "9032": {
+    "it": "Burro di arachidi, con pezzi, fortificato con vitamine e minerali",
+    "fr": "Beurre de cacahuète, avec morceaux, enrichi en vitamines et minéraux",
+    "es": "Mantequilla de maní, con trozos, fortificada con vitaminas y minerales",
+    "de": "Erdnussbutter, mit Stückchen, mit Vitaminen und Mineralstoffen angereichert",
+    "pt": "Manteiga de amendoim, com pedaços, fortificada com vitaminas e minerais"
+  },
+  "9033": {
+    "it": "Burro di arachidi, cremoso",
+    "fr": "Beurre de cacahuète, crémeux",
+    "es": "Mantequilla de maní, cremosa",
+    "de": "Erdnussbutter, cremig",
+    "pt": "Manteiga de amendoim, cremosa"
+  },
+  "9034": {
+    "it": "Burro di arachidi, a basso contenuto di sodio",
+    "fr": "Beurre de cacahuète, à teneur réduite en sodium",
+    "es": "Mantequilla de maní, bajo en sodio",
+    "de": "Erdnussbutter, natriumreduziert",
+    "pt": "Manteiga de amendoim, com menos sódio"
+  },
+  "9035": {
+    "it": "Burro di arachidi, a basso contenuto di sodio e zuccheri",
+    "fr": "Beurre de cacahuète, à teneur réduite en sodium et en sucre",
+    "es": "Mantequilla de maní, bajo en sodio y azúcar",
+    "de": "Erdnussbutter, natrium- und zuckerreduziert",
+    "pt": "Manteiga de amendoim, com menos sódio e menos açúcar"
+  },
+  "9036": {
+    "it": "Burro di arachidi, a basso contenuto di zuccheri",
+    "fr": "Beurre de cacahuète, à teneur réduite en sucre",
+    "es": "Mantequilla de maní, bajo en azúcar",
+    "de": "Erdnussbutter, zuckerreduziert",
+    "pt": "Manteiga de amendoim, com menos açúcar"
+  },
+  "9037": {
+    "it": "Burro di arachidi, a ridotto contenuto di grassi",
+    "fr": "Beurre de cacahuète, à teneur réduite en matières grasses",
+    "es": "Mantequilla de maní, reducida en grasa",
+    "de": "Erdnussbutter, fettreduziert",
+    "pt": "Manteiga de amendoim, com teor reduzido de gordura"
+  },
+  "9038": {
+    "it": "Burro di arachidi, a ridotto contenuto di sodio",
+    "fr": "Beurre de cacahuète, à teneur réduite en sodium",
+    "es": "Mantequilla de maní, reducida en sodio",
+    "de": "Erdnussbutter, natriumreduziert",
+    "pt": "Manteiga de amendoim, com teor reduzido de sódio"
+  },
+  "9039": {
+    "it": "Burro di arachidi, cremoso (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Beurre de cacahuète, lisse (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Mantequilla de maní, suave (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Erdnussbutter, fein (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Manteiga de amendoim, cremosa (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9040": {
+    "it": "Burro di arachidi, cremoso, con sale (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Beurre de cacahuète, lisse, avec sel (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Mantequilla de maní, suave, con sal (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Erdnussbutter, fein, mit Salz (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Manteiga de amendoim, cremosa, com sal (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9041": {
+    "it": "Burro di arachidi, cremoso, senza sale",
+    "fr": "Beurre de cacahuète, lisse, sans sel",
+    "es": "Mantequilla de maní, suave, sin sal",
+    "de": "Erdnussbutter, fein, ohne Salz",
+    "pt": "Manteiga de amendoim, cremosa, sem sal"
+  },
+  "9042": {
+    "it": "Burro di arachidi, cremoso, a ridotto contenuto di grassi",
+    "fr": "Beurre de cacahuète, lisse, à teneur réduite en matières grasses",
+    "es": "Mantequilla de maní, suave, reducida en grasa",
+    "de": "Erdnussbutter, fein, fettreduziert",
+    "pt": "Manteiga de amendoim, cremosa, com teor reduzido de gordura"
+  },
+  "9043": {
+    "it": "Burro di arachidi, cremoso, fortificato con vitamine e minerali",
+    "fr": "Beurre de cacahuète, lisse, enrichi en vitamines et minéraux",
+    "es": "Mantequilla de maní, suave, fortificada con vitaminas y minerales",
+    "de": "Erdnussbutter, fein, mit Vitaminen und Mineralstoffen angereichert",
+    "pt": "Manteiga de amendoim, cremosa, fortificada com vitaminas e minerais"
+  },
+  "9044": {
+    "it": "Burro di arachidi, fortificato con vitamine e minerali",
+    "fr": "Beurre de cacahuète, enrichi en vitamines et minéraux",
+    "es": "Mantequilla de maní, fortificada con vitaminas y minerales",
+    "de": "Erdnussbutter, mit Vitaminen und Mineralstoffen angereichert",
+    "pt": "Manteiga de amendoim, fortificada com vitaminas e minerais"
+  },
+  "9045": {
+    "it": "Farina di arachidi, sgrassata",
+    "fr": "Farine de cacahuète, dégraissée",
+    "es": "Harina de maní, desgrasada",
+    "de": "Erdnussmehl, entfettet",
+    "pt": "Farinha de amendoim, desengordurada"
+  },
+  "9046": {
+    "it": "Farina di arachidi, a basso contenuto di grassi",
+    "fr": "Farine de cacahuète, allégée",
+    "es": "Harina de maní, baja en grasa",
+    "de": "Erdnussmehl, fettarm",
+    "pt": "Farinha de amendoim, com baixo teor de gordura"
+  },
+  "9047": {
+    "it": "Olio di arachidi",
+    "fr": "Huile d'arachide",
+    "es": "Aceite de maní",
+    "de": "Erdnussöl",
+    "pt": "Óleo de amendoim"
+  },
+  "9048": {
+    "it": "Salsa di arachidi",
+    "fr": "Sauce aux cacahuètes",
+    "es": "Salsa de maní",
+    "de": "Erdnusssauce",
+    "pt": "Molho de amendoim"
+  },
+  "9049": {
+    "it": "Crema spalmabile di arachidi, a ridotto contenuto di zuccheri",
+    "fr": "Pâte à tartiner de cacahuète, à teneur réduite en sucre",
+    "es": "Crema para untar de maní, reducida en azúcar",
+    "de": "Erdnussaufstrich, zuckerreduziert",
+    "pt": "Pasta de amendoim, com teor reduzido de açúcar"
+  },
+  "9050": {
+    "it": "Arachidi, di tutti i tipi, cotte, bollite, con sale",
+    "fr": "Cacahuètes, toutes variétés, cuites, bouillies, avec sel",
+    "es": "Maníes, de todos los tipos, cocidos, hervidos, con sal",
+    "de": "Erdnüsse, alle Sorten, gekocht, mit Salz",
+    "pt": "Amendoins, todos os tipos, cozidos em água, com sal"
+  },
+  "9051": {
+    "it": "Arachidi, di tutti i tipi, tostate a secco, con sale",
+    "fr": "Cacahuètes, toutes variétés, grillées à sec, avec sel",
+    "es": "Maníes, de todos los tipos, tostados en seco, con sal",
+    "de": "Erdnüsse, alle Sorten, trocken geröstet, mit Salz",
+    "pt": "Amendoins, todos os tipos, torrados a seco, com sal"
+  },
+  "9052": {
+    "it": "Arachidi, di tutti i tipi, tostate a secco, senza sale",
+    "fr": "Cacahuètes, toutes variétés, grillées à sec, sans sel",
+    "es": "Maníes, de todos los tipos, tostados en seco, sin sal",
+    "de": "Erdnüsse, alle Sorten, trocken geröstet, ohne Salz",
+    "pt": "Amendoins, todos os tipos, torrados a seco, sem sal"
+  },
+  "9053": {
+    "it": "Arachidi, di tutti i tipi, tostate in olio, con sale",
+    "fr": "Cacahuètes, toutes variétés, grillées à l'huile, avec sel",
+    "es": "Maníes, de todos los tipos, tostados en aceite, con sal",
+    "de": "Erdnüsse, alle Sorten, in Öl geröstet, mit Salz",
+    "pt": "Amendoins, todos os tipos, torrados em óleo, com sal"
+  },
+  "9054": {
+    "it": "Arachidi, di tutti i tipi, tostate in olio, senza sale",
+    "fr": "Cacahuètes, toutes variétés, grillées à l'huile, sans sel",
+    "es": "Maníes, de todos los tipos, tostados en aceite, sin sal",
+    "de": "Erdnüsse, alle Sorten, in Öl geröstet, ohne Salz",
+    "pt": "Amendoins, todos os tipos, torrados em óleo, sem sal"
+  },
+  "9055": {
+    "it": "Arachidi, di tutti i tipi, crude",
+    "fr": "Cacahuètes, toutes variétés, crues",
+    "es": "Maníes, de todos los tipos, crudos",
+    "de": "Erdnüsse, alle Sorten, roh",
+    "pt": "Amendoins, todos os tipos, cru"
+  },
+  "9056": {
+    "it": "Arachidi, bollite",
+    "fr": "Cacahuètes, bouillies",
+    "es": "Maníes, hervidos",
+    "de": "Erdnüsse, gekocht",
+    "pt": "Amendoins, cozidos em água"
+  },
+  "9057": {
+    "it": "Arachidi, caramelle ricoperte di cioccolato",
+    "fr": "Cacahuètes, bonbons enrobés de chocolat",
+    "es": "Maníes, caramelos cubiertos de chocolate",
+    "de": "Erdnüsse, Bonbons mit Schokoladenüberzug",
+    "pt": "Amendoins, bala coberta de chocolate"
+  },
+  "9058": {
+    "it": "Arachidi, tostate a secco, leggermente salate",
+    "fr": "Cacahuètes, grillées à sec, légèrement salées",
+    "es": "Maníes, tostados en seco, ligeramente salados",
+    "de": "Erdnüsse, trocken geröstet, leicht gesalzen",
+    "pt": "Amendoins, torrados a seco, levemente salgados"
+  },
+  "9059": {
+    "it": "Arachidi, tostate a secco, salate",
+    "fr": "Cacahuètes, grillées à sec, salées",
+    "es": "Maníes, tostados en seco, salados",
+    "de": "Erdnüsse, trocken geröstet, gesalzen",
+    "pt": "Amendoins, torrados a seco, salgados"
+  },
+  "9060": {
+    "it": "Arachidi, tostate a secco, non salate",
+    "fr": "Cacahuètes, grillées à sec, non salées",
+    "es": "Maníes, tostados en seco, sin sal",
+    "de": "Erdnüsse, trocken geröstet, ungesalzen",
+    "pt": "Amendoins, torrados a seco, sem sal"
+  },
+  "9061": {
+    "it": "Arachidi, tostate al miele",
+    "fr": "Cacahuètes, grillées au miel",
+    "es": "Maníes, tostados con miel",
+    "de": "Erdnüsse, honiggeröstet",
+    "pt": "Amendoins, torrados com mel"
+  },
+  "9062": {
+    "it": "Arachidi, non specificato",
+    "fr": "Cacahuètes, non spécifié",
+    "es": "Maníes, no especificado",
+    "de": "Erdnüsse, nicht näher bezeichnet",
+    "pt": "Amendoins, não especificado"
+  },
+  "9063": {
+    "it": "Arachidi, crude",
+    "fr": "Cacahuètes, crues",
+    "es": "Maníes, crudos",
+    "de": "Erdnüsse, roh",
+    "pt": "Amendoins, cruos"
+  },
+  "9064": {
+    "it": "Arachidi, tostate, salate",
+    "fr": "Cacahuètes, grillées, salées",
+    "es": "Maníes, tostados, salados",
+    "de": "Erdnüsse, geröstet, gesalzen",
+    "pt": "Amendoins, torrados, salgados"
+  },
+  "9065": {
+    "it": "Arachidi, tostate, non salate",
+    "fr": "Cacahuètes, grillées, non salées",
+    "es": "Maníes, tostados, sin sal",
+    "de": "Erdnüsse, geröstet, ungesalzen",
+    "pt": "Amendoins, torrados, sem sal"
+  },
+  "9066": {
+    "it": "Arachidi, spanish, tostate in olio, con sale",
+    "fr": "Cacahuètes, type spanish, grillées à l'huile, avec sel",
+    "es": "Maníes, tipo spanish, tostados en aceite, con sal",
+    "de": "Erdnüsse, Spanish-Typ, in Öl geröstet, mit Salz",
+    "pt": "Amendoins, tipo spanish, torrados em óleo, com sal"
+  },
+  "9067": {
+    "it": "Arachidi, spanish, tostate in olio, senza sale",
+    "fr": "Cacahuètes, type spanish, grillées à l'huile, sans sel",
+    "es": "Maníes, tipo spanish, tostados en aceite, sin sal",
+    "de": "Erdnüsse, Spanish-Typ, in Öl geröstet, ohne Salz",
+    "pt": "Amendoins, tipo spanish, torrados em óleo, sem sal"
+  },
+  "9068": {
+    "it": "Arachidi, spanish, crude",
+    "fr": "Cacahuètes, type spanish, crues",
+    "es": "Maníes, tipo spanish, crudos",
+    "de": "Erdnüsse, Spanish-Typ, roh",
+    "pt": "Amendoins, tipo spanish, crus"
+  },
+  "9069": {
+    "it": "Arachidi, non tostate",
+    "fr": "Cacahuètes, non grillées",
+    "es": "Maníes, sin tostar",
+    "de": "Erdnüsse, ungeröstet",
+    "pt": "Amendoins, não torrados"
+  },
+  "9070": {
+    "it": "Arachidi, valencia, tostate in olio, con sale",
+    "fr": "Cacahuètes, type valencia, grillées à l'huile, avec sel",
+    "es": "Maníes, tipo valencia, tostados en aceite, con sal",
+    "de": "Erdnüsse, Valencia-Typ, in Öl geröstet, mit Salz",
+    "pt": "Amendoins, tipo valência, torrados em óleo, com sal"
+  },
+  "9071": {
+    "it": "Arachidi, valencia, tostate in olio, senza sale",
+    "fr": "Cacahuètes, type valencia, grillées à l'huile, sans sel",
+    "es": "Maníes, tipo valencia, tostados en aceite, sin sal",
+    "de": "Erdnüsse, Valencia-Typ, in Öl geröstet, ohne Salz",
+    "pt": "Amendoins, tipo valência, torrados em óleo, sem sal"
+  },
+  "9072": {
+    "it": "Arachidi, valencia, crude",
+    "fr": "Cacahuètes, type valencia, crues",
+    "es": "Maníes, tipo valencia, crudos",
+    "de": "Erdnüsse, Valencia-Typ, roh",
+    "pt": "Amendoins, tipo valência, crus"
+  },
+  "9073": {
+    "it": "Arachidi, virginia, tostate in olio, con sale",
+    "fr": "Cacahuètes, type virginia, grillées à l'huile, avec sel",
+    "es": "Maníes, tipo virginia, tostados en aceite, con sal",
+    "de": "Erdnüsse, Virginia-Typ, in Öl geröstet, mit Salz",
+    "pt": "Amendoins, tipo virgínia, torrados em óleo, com sal"
+  },
+  "9074": {
+    "it": "Arachidi, virginia, tostate in olio, senza sale",
+    "fr": "Cacahuètes, type virginia, grillées à l'huile, sans sel",
+    "es": "Maníes, tipo virginia, tostados en aceite, sin sal",
+    "de": "Erdnüsse, Virginia-Typ, in Öl geröstet, ohne Salz",
+    "pt": "Amendoins, tipo virgínia, torrados em óleo, sem sal"
+  },
+  "9075": {
+    "it": "Arachidi, virginia, crude",
+    "fr": "Cacahuètes, type virginia, crues",
+    "es": "Maníes, tipo virginia, crudos",
+    "de": "Erdnüsse, Virginia-Typ, roh",
+    "pt": "Amendoins, tipo virgínia, crus"
+  },
+  "9076": {
+    "it": "Nettare di pera",
+    "fr": "Nectar de poire",
+    "es": "Néctar de pera",
+    "de": "Birnennektar",
+    "pt": "Néctar de pera"
+  },
+  "9077": {
+    "it": "Nettare di pera, in scatola, con acido ascorbico aggiunto",
+    "fr": "Nectar de poire, en conserve, avec acide ascorbique ajouté",
+    "es": "Néctar de pera, en conserva, con ácido ascórbico añadido",
+    "de": "Birnennektar, aus der Dose, mit Zusatz von Ascorbinsäure",
+    "pt": "Néctar de pera, enlatado, com ácido ascórbico adicionado"
+  },
+  "9078": {
+    "it": "Nettare di pera, in scatola, senza acido ascorbico aggiunto",
+    "fr": "Nectar de poire, en conserve, sans acide ascorbique ajouté",
+    "es": "Néctar de pera, en conserva, sin ácido ascórbico añadido",
+    "de": "Birnennektar, aus der Dose, ohne Zusatz von Ascorbinsäure",
+    "pt": "Néctar de pera, enlatado, sem ácido ascórbico adicionado"
+  },
+  "9079": {
+    "it": "Pera, Anjou, verde, con buccia, cruda",
+    "fr": "Poire, Anjou, verte, avec peau, crue",
+    "es": "Pera, Anjou, verde, con piel, cruda",
+    "de": "Birne, Anjou, grün, mit Schale, roh",
+    "pt": "Pera, Anjou, verde, com casca, crua"
+  },
+  "9080": {
+    "it": "Pera, asiatica, cruda",
+    "fr": "Poire, asiatiquee, crue",
+    "es": "Pera, asiática, cruda",
+    "de": "Birne, asiatisch, roh",
+    "pt": "Pera, asiática, crua"
+  },
+  "9081": {
+    "it": "Pera, in scatola, in sciroppo",
+    "fr": "Poire, en conserve, au sirop",
+    "es": "Pera, en conserva, en almíbar",
+    "de": "Birne, aus der Dose, in Sirup",
+    "pt": "Pera, enlatada, em calda"
+  },
+  "9082": {
+    "it": "Pera, in scatola, in succo",
+    "fr": "Poire, en conserve, au jus",
+    "es": "Pera, en conserva, en jugo",
+    "de": "Birne, aus der Dose, in Saft",
+    "pt": "Pera, enlatada, em suco"
+  },
+  "9083": {
+    "it": "Pera, in scatola, non specificato",
+    "fr": "Poire, en conserve, non spécifié",
+    "es": "Pera, en conserva, no especificado",
+    "de": "Birne, aus der Dose, nicht näher bezeichnet",
+    "pt": "Pera, enlatada, não especificado"
+  },
+  "9084": {
+    "it": "Pera, secca",
+    "fr": "Poire, séchée",
+    "es": "Pera, seca",
+    "de": "Birne, getrocknet",
+    "pt": "Pera, seca"
+  },
+  "9085": {
+    "it": "Pera, cruda",
+    "fr": "Poire, crue",
+    "es": "Pera, cruda",
+    "de": "Birne, roh",
+    "pt": "Pera, crua"
+  },
+  "9086": {
+    "it": "Pere, asiatice, crude",
+    "fr": "Poires, asiatiquees, crues",
+    "es": "Peras, asiáticas, crudas",
+    "de": "Birnen, asiatisch, roh",
+    "pt": "Peras, asiáticas, cruas"
+  },
+  "9087": {
+    "it": "Pere, in scatola, in sciroppo extra denso, solidi e liquidi",
+    "fr": "Poires, en conserve, au sirop extra épais, solides et liquides",
+    "es": "Peras, en conserva, en almíbar extra espeso, sólidos y líquidos",
+    "de": "Birnen, aus der Dose, in extra dickem Sirup, feste und flüssige Bestandteile",
+    "pt": "Peras, enlatadas, em calda extra densa, sólidos e líquidos"
+  },
+  "9088": {
+    "it": "Pere, in scatola, in sciroppo extra leggero, solidi e liquidi (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Poires, en conserve, au sirop extra léger, solides et liquides (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Peras, en conserva, en almíbar extra ligero, sólidos y líquidos (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Birnen, aus der Dose, in extra leichtem Sirup, feste und flüssige Bestandteile (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Peras, enlatadas, em calda extra leve, sólidos e líquidos (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9089": {
+    "it": "Pere, in scatola, in sciroppo denso, solidi e liquidi",
+    "fr": "Poires, en conserve, au sirop épais, solides et liquides",
+    "es": "Peras, en conserva, en almíbar espeso, sólidos y líquidos",
+    "de": "Birnen, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
+    "pt": "Peras, enlatadas, em calda densa, sólidos e líquidos"
+  },
+  "9090": {
+    "it": "Pere, in scatola, in sciroppo denso, sgocciolate",
+    "fr": "Poires, en conserve, au sirop épais, égouttées",
+    "es": "Peras, en conserva, en almíbar espeso, escurridas",
+    "de": "Birnen, aus der Dose, in dickem Sirup, abgetropft",
+    "pt": "Peras, enlatadas, em calda densa, escorridas"
+  },
+  "9091": {
+    "it": "Pere, in scatola, in succo, solidi e liquidi",
+    "fr": "Poires, en conserve, au jus, solides et liquides",
+    "es": "Peras, en conserva, en jugo, sólidos y líquidos",
+    "de": "Birnen, aus der Dose, in Saft, feste und flüssige Bestandteile",
+    "pt": "Peras, enlatadas, em suco, sólidos e líquidos"
+  },
+  "9092": {
+    "it": "Pere, in scatola, in sciroppo leggero, solidi e liquidi",
+    "fr": "Poires, en conserve, au sirop léger, solides et liquides",
+    "es": "Peras, en conserva, en almíbar ligero, sólidos y líquidos",
+    "de": "Birnen, aus der Dose, in leichtem Sirup, feste und flüssige Bestandteile",
+    "pt": "Peras, enlatadas, em calda leve, sólidos e líquidos"
+  },
+  "9093": {
+    "it": "Pere, in scatola, in acqua, solidi e liquidi",
+    "fr": "Poires, en conserve, à l'eau, solides et liquides",
+    "es": "Peras, en conserva, en agua, sólidos y líquidos",
+    "de": "Birnen, aus der Dose, in Wasser, feste und flüssige Bestandteile",
+    "pt": "Peras, enlatadas, em água, sólidos e líquidos"
+  },
+  "9094": {
+    "it": "Pere, secce, solforate, stufate, con zucchero aggiunto",
+    "fr": "Poires, séchées, sulfitées, mijotées, avec sucre ajouté",
+    "es": "Peras, secas, sulfuradas, estofadas, con azúcar añadido",
+    "de": "Birnen, getrocknet, geschwefelt, geschmort, mit Zuckerzusatz",
+    "pt": "Peras, secas, sulfitadas, ensopadas, com açúcar adicionado"
+  },
+  "9095": {
+    "it": "Pere, secce, solforate, stufate, senza zucchero aggiunto",
+    "fr": "Poires, séchées, sulfitées, mijotées, sans sucre ajouté",
+    "es": "Peras, secas, sulfuradas, estofadas, sin azúcar añadido",
+    "de": "Birnen, getrocknet, geschwefelt, geschmort, ohne Zuckerzusatz",
+    "pt": "Peras, secas, sulfitadas, ensopadas, sem açúcar adicionado"
+  },
+  "9096": {
+    "it": "Pere, secce, solforate, non cotte",
+    "fr": "Poires, séchées, sulfitées, non cuites",
+    "es": "Peras, secas, sulfuradas, sin cocinar",
+    "de": "Birnen, getrocknet, geschwefelt, ungekocht",
+    "pt": "Peras, secas, sulfitadas, não cozidas"
+  },
+  "9097": {
+    "it": "Pere, crude",
+    "fr": "Poires, crues",
+    "es": "Peras, crudas",
+    "de": "Birnen, roh",
+    "pt": "Peras, cruas"
+  },
+  "9098": {
+    "it": "Pere, crude, Bartlett",
+    "fr": "Poires, crues, Bartlett",
+    "es": "Peras, crudas, Bartlett",
+    "de": "Birnen, roh, Bartlett",
+    "pt": "Peras, cruas, Bartlett"
+  },
+  "9099": {
+    "it": "Pere, crude, Bartlett (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Poires, crues, Bartlett (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Peras, crudas, Bartlett (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Birnen, roh, Bartlett (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Peras, cruas, Bartlett (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9100": {
+    "it": "Pere, crude, Bosc (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Poires, crues, Bosc (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Peras, crudas, Bosc (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Birnen, roh, Bosc (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Peras, cruas, Bosc (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9101": {
+    "it": "Pere, crude, Anjou verdi (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Poires, crues, Anjou vertes (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Peras, crudas, Anjou verdes (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Birnen, roh, Grüne Anjou (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Peras, cruas, Anjou verdes (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9102": {
+    "it": "Pere, crude, Anjou rosse",
+    "fr": "Poires, crues, Anjou rougees",
+    "es": "Peras, crudas, Anjou rojas",
+    "de": "Birnen, roh, Rote Anjou",
+    "pt": "Peras, cruas, Anjou vermelhas"
+  },
+  "9103": {
+    "it": "Piselli e carote, in scatola, cotti, con grasso aggiunto",
+    "fr": "Petits pois et carottes, en conserve, cuits, avec matière grasse ajoutée",
+    "es": "Guisantes y zanahorias, en conserva, cocidos, con grasa añadida",
+    "de": "Erbsen und Karotten, aus der Dose, gekocht, mit Fettzusatz",
+    "pt": "Ervilhas e cenouras, enlatadas, cozidas, com gordura adicionada"
+  },
+  "9104": {
+    "it": "Piselli e carote, in scatola, cotti, senza grasso aggiunto",
+    "fr": "Petits pois et carottes, en conserve, cuits, sans matière grasse ajoutée",
+    "es": "Guisantes y zanahorias, en conserva, cocidos, sin grasa añadida",
+    "de": "Erbsen und Karotten, aus der Dose, gekocht, ohne Fettzusatz",
+    "pt": "Ervilhas e cenouras, enlatadas, cozidas, sem gordura adicionada"
+  },
+  "9105": {
+    "it": "Piselli e carote, in scatola, senza sale aggiunto, solidi e liquidi",
+    "fr": "Petits pois et carottes, en conserve, sans sel ajouté, solides et liquides",
+    "es": "Guisantes y zanahorias, en conserva, sin sal añadida, sólidos y líquidos",
+    "de": "Erbsen und Karotten, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
+    "pt": "Ervilhas e cenouras, enlatadas, sem sal adicionado, sólidos e líquidos"
+  },
+  "9106": {
+    "it": "Piselli e carote, in scatola, confezione standard, solidi e liquidi",
+    "fr": "Petits pois et carottes, en conserve, conditionnement standard, solides et liquides",
+    "es": "Guisantes y zanahorias, en conserva, envase estándar, sólidos y líquidos",
+    "de": "Erbsen und Karotten, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
+    "pt": "Ervilhas e cenouras, enlatadas, embalagem padrão, sólidos e líquidos"
+  },
+  "9107": {
+    "it": "Piselli e carote, cotti, forma non specificata",
+    "fr": "Petits pois et carottes, cuits, forme non précisée",
+    "es": "Guisantes y zanahorias, cocidos, forma sin especificar",
+    "de": "Erbsen und Karotten, gekocht, Form nicht angegeben",
+    "pt": "Ervilhas e cenouras, cozidas, forma não especificada"
+  },
+  "9108": {
+    "it": "Piselli e carote, fresci, cotti, con grasso aggiunto",
+    "fr": "Petits pois et carottes, frais, cuits, avec matière grasse ajoutée",
+    "es": "Guisantes y zanahorias, frescos, cocidos, con grasa añadida",
+    "de": "Erbsen und Karotten, frisch, gekocht, mit Fettzusatz",
+    "pt": "Ervilhas e cenouras, frescas, cozidas, com gordura adicionada"
+  },
+  "9109": {
+    "it": "Piselli e carote, fresci, cotti, senza grasso aggiunto",
+    "fr": "Petits pois et carottes, frais, cuits, sans matière grasse ajoutée",
+    "es": "Guisantes y zanahorias, frescos, cocidos, sin grasa añadida",
+    "de": "Erbsen und Karotten, frisch, gekocht, ohne Fettzusatz",
+    "pt": "Ervilhas e cenouras, frescas, cozidas, sem gordura adicionada"
+  },
+  "9110": {
+    "it": "Piselli e carote, surgelati, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois et carottes, surgelés, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes y zanahorias, congelados, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen und Karotten, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas e cenouras, congeladas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9111": {
+    "it": "Piselli e carote, surgelati, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois et carottes, surgelés, cuits, bouillis, égouttés, sans sel",
+    "es": "Guisantes y zanahorias, congelados, cocidos, hervidos, escurridos, sin sal",
+    "de": "Erbsen und Karotten, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas e cenouras, congeladas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "9112": {
+    "it": "Piselli e carote, surgelati, cotti, con grasso aggiunto",
+    "fr": "Petits pois et carottes, surgelés, cuits, avec matière grasse ajoutée",
+    "es": "Guisantes y zanahorias, congelados, cocidos, con grasa añadida",
+    "de": "Erbsen und Karotten, tiefgekühlt, gekocht, mit Fettzusatz",
+    "pt": "Ervilhas e cenouras, congeladas, cozidas, com gordura adicionada"
+  },
+  "9113": {
+    "it": "Piselli e carote, surgelati, cotti, senza grasso aggiunto",
+    "fr": "Petits pois et carottes, surgelés, cuits, sans matière grasse ajoutée",
+    "es": "Guisantes y zanahorias, congelados, cocidos, sin grasa añadida",
+    "de": "Erbsen und Karotten, tiefgekühlt, gekocht, ohne Fettzusatz",
+    "pt": "Ervilhas e cenouras, congeladas, cozidas, sem gordura adicionada"
+  },
+  "9114": {
+    "it": "Piselli e carote, surgelati, non preparati",
+    "fr": "Petits pois et carottes, surgelés, non préparés",
+    "es": "Guisantes y zanahorias, congelados, sin preparar",
+    "de": "Erbsen und Karotten, tiefgekühlt, unzubereitet",
+    "pt": "Ervilhas e cenouras, congeladas, não preparadas"
+  },
+  "9115": {
+    "it": "Piselli e mais, cotti, con grasso aggiunto",
+    "fr": "Petits pois et maïs, cuits, avec matière grasse ajoutée",
+    "es": "Guisantes y maíz, cocidos, con grasa añadida",
+    "de": "Erbsen und Mais, gekocht, mit Fettzusatz",
+    "pt": "Ervilhas e milho, cozidas, com gordura adicionada"
+  },
+  "9116": {
+    "it": "Piselli e mais, cotti, senza grasso aggiunto",
+    "fr": "Petits pois et maïs, cuits, sans matière grasse ajoutée",
+    "es": "Guisantes y maíz, cocidos, sin grasa añadida",
+    "de": "Erbsen und Mais, gekocht, ohne Fettzusatz",
+    "pt": "Ervilhas e milho, cozidas, sem gordura adicionada"
+  },
+  "9117": {
+    "it": "Piselli e cipolle, in scatola, solidi e liquidi",
+    "fr": "Petits pois et oignons, en conserve, solides et liquides",
+    "es": "Guisantes y cebollas, en conserva, sólidos y líquidos",
+    "de": "Erbsen und Zwiebeln, aus der Dose, feste und flüssige Bestandteile",
+    "pt": "Ervilhas e cebolas, enlatadas, sólidos e líquidos"
+  },
+  "9118": {
+    "it": "Piselli e cipolle, surgelati, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois et oignons, surgelés, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes y cebollas, congelados, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen und Zwiebeln, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas e cebolas, congeladas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9119": {
+    "it": "Piselli e cipolle, surgelati, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois et oignons, surgelés, cuits, bouillis, égouttés, sans sel",
+    "es": "Guisantes y cebollas, congelados, cocidos, hervidos, escurridos, sin sal",
+    "de": "Erbsen und Zwiebeln, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas e cebolas, congeladas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "9120": {
+    "it": "Piselli e cipolle, surgelati, non preparati",
+    "fr": "Petits pois et oignons, surgelés, non préparés",
+    "es": "Guisantes y cebollas, congelados, sin preparar",
+    "de": "Erbsen und Zwiebeln, tiefgekühlt, unzubereitet",
+    "pt": "Ervilhas e cebolas, congeladas, não preparadas"
+  },
+  "9121": {
+    "it": "Piselli, con baccello commestibile, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois, à cosse comestible, bouillis, égouttés, sans sel",
+    "es": "Guisantes, con vaina comestible, hervidos, escurridos, sin sal",
+    "de": "Erbsen, mit essbarer Hülse, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas, com vagem comestível, cozidas em água, escorridas, sem sal"
+  },
+  "9122": {
+    "it": "Piselli, con baccello commestibile, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois, à cosse comestible, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes, con vaina comestible, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen, mit essbarer Hülse, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas, com vagem comestível, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9123": {
+    "it": "Piselli, con baccello commestibile, surgelati, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois, à cosse comestible, surgelés, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes, con vaina comestible, congelados, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen, mit essbarer Hülse, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas, com vagem comestível, congeladas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9124": {
+    "it": "Piselli, con baccello commestibile, surgelati, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois, à cosse comestible, surgelés, cuits, bouillis, égouttés, sans sel",
+    "es": "Guisantes, con vaina comestible, congelados, cocidos, hervidos, escurridos, sin sal",
+    "de": "Erbsen, mit essbarer Hülse, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas, com vagem comestível, congeladas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "9125": {
+    "it": "Piselli, con baccello commestibile, surgelati, non preparati",
+    "fr": "Petits pois, à cosse comestible, surgelés, non préparés",
+    "es": "Guisantes, con vaina comestible, congelados, sin preparar",
+    "de": "Erbsen, mit essbarer Hülse, tiefgekühlt, unzubereitet",
+    "pt": "Ervilhas, com vagem comestível, congeladas, não preparadas"
+  },
+  "9126": {
+    "it": "Piselli, con baccello commestibile, crudi",
+    "fr": "Petits pois, à cosse comestible, crus",
+    "es": "Guisantes, con vaina comestible, crudos",
+    "de": "Erbsen, mit essbarer Hülse, roh",
+    "pt": "Ervilhas, com vagem comestível, cruas"
+  },
+  "9127": {
+    "it": "Piselli, verdi (include i tipi baby e lesuer), in scatola, solidi sgocciolati, non preparati",
+    "fr": "Petits pois, verts (comprend les types baby et lesuer), en conserve, solides égouttés, non préparés",
+    "es": "Guisantes, verdes (incluye los tipos baby y lesuer), en conserva, sólidos escurridos, sin preparar",
+    "de": "Erbsen, grün (einschließlich der Sorten Baby und Lesuer), aus der Dose, abgetropfte Feststoffe, unzubereitet",
+    "pt": "Ervilhas, verdes (inclui os tipos baby e lesuer), enlatadas, sólidos escorridos, não preparadas"
+  },
+  "9128": {
+    "it": "Piselli, verdi, in scatola, solidi sgocciolati, sciacquati con acqua di rubinetto",
+    "fr": "Petits pois, verts, en conserve, solides égouttés, rincés à l'eau du robinet",
+    "es": "Guisantes, verdes, en conserva, sólidos escurridos, enjuagados con agua del grifo",
+    "de": "Erbsen, grün, aus der Dose, abgetropfte Feststoffe, mit Leitungswasser abgespült",
+    "pt": "Ervilhas, verdes, enlatadas, sólidos escorridos, enxaguadas em água da torneira"
+  },
+  "9129": {
+    "it": "Piselli, verdi, in scatola, senza sale aggiunto, solidi sgocciolati",
+    "fr": "Petits pois, verts, en conserve, sans sel ajouté, solides égouttés",
+    "es": "Guisantes, verdes, en conserva, sin sal añadida, sólidos escurridos",
+    "de": "Erbsen, grün, aus der Dose, ohne Salzzusatz, abgetropfte Feststoffe",
+    "pt": "Ervilhas, verdes, enlatadas, sem sal adicionado, sólidos escorridos"
+  },
+  "9130": {
+    "it": "Piselli, verdi, in scatola, senza sale aggiunto, solidi e liquidi",
+    "fr": "Petits pois, verts, en conserve, sans sel ajouté, solides et liquides",
+    "es": "Guisantes, verdes, en conserva, sin sal añadida, sólidos y líquidos",
+    "de": "Erbsen, grün, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
+    "pt": "Ervilhas, verdes, enlatadas, sem sal adicionado, sólidos e líquidos"
+  },
+  "9131": {
+    "it": "Piselli, verdi, in scatola, confezione standard, solidi e liquidi",
+    "fr": "Petits pois, verts, en conserve, conditionnement standard, solides et liquides",
+    "es": "Guisantes, verdes, en conserva, envase estándar, sólidos y líquidos",
+    "de": "Erbsen, grün, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
+    "pt": "Ervilhas, verdes, enlatadas, embalagem padrão, sólidos e líquidos"
+  },
+  "9132": {
+    "it": "Piselli, verdi, in scatola, conditi, solidi e liquidi",
+    "fr": "Petits pois, verts, en conserve, assaisonnés, solides et liquides",
+    "es": "Guisantes, verdes, en conserva, sazonados, sólidos y líquidos",
+    "de": "Erbsen, grün, aus der Dose, gewürzt, feste und flüssige Bestandteile",
+    "pt": "Ervilhas, verdes, enlatadas, temperadas, sólidos e líquidos"
+  },
+  "9133": {
+    "it": "Piselli, verdi, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois, verts, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes, verdes, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen, grün, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas, verdes, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9134": {
+    "it": "Piselli, verdi, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois, verts, cuits, bouillis, égouttés, sans sel",
+    "es": "Guisantes, verdes, cocidos, hervidos, escurridos, sin sal",
+    "de": "Erbsen, grün, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas, verdes, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "9135": {
+    "it": "Piselli, verdi, surgelati, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois, verts, surgelés, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes, verdes, congelados, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen, grün, tiefgekühlt, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas, verdes, congeladas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9136": {
+    "it": "Piselli, verdi, surgelati, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois, verts, surgelés, cuits, bouillis, égouttés, sans sel",
+    "es": "Guisantes, verdes, congelados, cocidos, hervidos, escurridos, sin sal",
+    "de": "Erbsen, grün, tiefgekühlt, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas, verdes, congeladas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "9137": {
+    "it": "Piselli, verdi, surgelati, non preparati (include alimenti del Food Distribution Program dell'USDA)",
+    "fr": "Petits pois, verts, surgelés, non préparés (comprend des aliments du Food Distribution Program de l'USDA)",
+    "es": "Guisantes, verdes, congelados, sin preparar (incluye alimentos del Food Distribution Program del USDA)",
+    "de": "Erbsen, grün, tiefgekühlt, unzubereitet (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+    "pt": "Ervilhas, verdes, congeladas, não preparadas (inclui alimentos do Food Distribution Program do USDA)"
+  },
+  "9138": {
+    "it": "Piselli, verdi, crudi",
+    "fr": "Petits pois, verts, crus",
+    "es": "Guisantes, verdes, crudos",
+    "de": "Erbsen, grün, roh",
+    "pt": "Ervilhas, verdes, cruas"
+  },
+  "9139": {
+    "it": "Piselli, verdi, spezzati, semi maturi, crudi",
+    "fr": "Petits pois, verts, cassés, graines mûres, crus",
+    "es": "Guisantes, verdes, partidos, semillas maduras, crudos",
+    "de": "Erbsen, grün, gespalten, reife Samen, roh",
+    "pt": "Ervilhas, verdes, partidas, sementes maduras, cruas"
+  },
+  "9140": {
+    "it": "Piselli, verdi, dolci, in scatola, con sodio aggiunto, con zucchero aggiunto, sgocciolati e sciacquati",
+    "fr": "Petits pois, verts, sucrés, en conserve, avec sodium ajouté, avec sucre ajouté, égouttés et rincés",
+    "es": "Guisantes, verdes, dulces, en conserva, con sodio añadido, con azúcar añadido, escurridos y enjuagados",
+    "de": "Erbsen, grün, süß, aus der Dose, mit Natriumzusatz, mit Zuckerzusatz, abgetropft und abgespült",
+    "pt": "Ervilhas, verdes, doces, enlatadas, com sódio adicionado, com açúcar adicionado, escorridas e enxaguadas"
+  },
+  "9141": {
+    "it": "Piselli, semi maturi, germogliati, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Petits pois, graines mûres, germés, cuits, bouillis, égouttés, avec sel",
+    "es": "Guisantes, semillas maduras, germinados, cocidos, hervidos, escurridos, con sal",
+    "de": "Erbsen, reife Samen, gekeimt, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Ervilhas, sementes maduras, germinadas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "9142": {
+    "it": "Piselli, semi maturi, germogliati, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Petits pois, graines mûres, germés, cuits, bouillis, égouttés, sans sel",
+    "es": "Guisantes, semillas maduras, germinados, cocidos, hervidos, escurridos, sin sal",
+    "de": "Erbsen, reife Samen, gekeimt, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Ervilhas, sementes maduras, germinadas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "9143": {
+    "it": "Piselli, semi maturi, germogliati, crudi",
+    "fr": "Petits pois, graines mûres, germés, crus",
+    "es": "Guisantes, semillas maduras, germinados, crudos",
+    "de": "Erbsen, reife Samen, gekeimt, roh",
+    "pt": "Ervilhas, sementes maduras, germinadas, cruas"
+  },
+  "9144": {
+    "it": "Piselli, spezzati, semi maturi, cotti, bolliti, con sale",
+    "fr": "Petits pois, cassés, graines mûres, cuits, bouillis, avec sel",
+    "es": "Guisantes, partidos, semillas maduras, cocidos, hervidos, con sal",
+    "de": "Erbsen, gespalten, reife Samen, gekocht, gekocht, mit Salz",
+    "pt": "Ervilhas, partidas, sementes maduras, cozidas, cozidas em água, com sal"
+  },
+  "9145": {
+    "it": "Piselli, spezzati, semi maturi, cotti, bolliti, senza sale",
+    "fr": "Petits pois, cassés, graines mûres, cuits, bouillis, sans sel",
+    "es": "Guisantes, partidos, semillas maduras, cocidos, hervidos, sin sal",
+    "de": "Erbsen, gespalten, reife Samen, gekocht, gekocht, ohne Salz",
+    "pt": "Ervilhas, partidas, sementes maduras, cozidas, cozidas em água, sem sal"
+  },
+  "9146": {
+    "it": "Noci pecan, tostate al miele",
+    "fr": "Noix de pécan, grillées au miel",
+    "es": "Nueces pecanas, tostadas con miel",
+    "de": "Pekannüsse, honiggeröstet",
+    "pt": "Nozes-pecã, torradas com mel"
+  },
+  "9147": {
+    "it": "Noci pecan, non specificato",
+    "fr": "Noix de pécan, non spécifié",
+    "es": "Nueces pecanas, no especificado",
+    "de": "Pekannüsse, nicht näher bezeichnet",
+    "pt": "Nozes-pecã, não especificado"
+  },
+  "9148": {
+    "it": "Noci pecan, salate",
+    "fr": "Noix de pécan, salées",
+    "es": "Nueces pecanas, saladas",
+    "de": "Pekannüsse, gesalzen",
+    "pt": "Nozes-pecã, salgadas"
+  },
+  "9149": {
+    "it": "Noci pecan, non tostate",
+    "fr": "Noix de pécan, non grillées",
+    "es": "Nueces pecanas, sin tostar",
+    "de": "Pekannüsse, ungeröstet",
+    "pt": "Nozes-pecã, não torradas"
+  },
+  "9150": {
+    "it": "Noci pecan, non salate",
+    "fr": "Noix de pécan, non salées",
+    "es": "Nueces pecanas, sin sal",
+    "de": "Pekannüsse, ungesalzen",
+    "pt": "Nozes-pecã, sem sal"
+  },
+  "9151": {
+    "it": "Pectina, liquida",
+    "fr": "Pectine, liquide",
+    "es": "Pectina, líquida",
+    "de": "Pektin, flüssig",
+    "pt": "Pectina, líquida"
+  },
+  "9152": {
+    "it": "Pectina, non zuccherata, miscela secca",
+    "fr": "Pectine, non sucrée, mélange sec",
+    "es": "Pectina, sin azúcar, mezcla seca",
+    "de": "Pektin, ungezuckert, Trockenmischung",
+    "pt": "Pectina, sem açúcar, mistura seca"
+  },
+  "9153": {
+    "it": "Pepeao (fungo orecchio di Giuda), secco",
+    "fr": "Pepeao (oreille de Judas, champignon), séché",
+    "es": "Pepeao (hongo oreja de Judas), seco",
+    "de": "Pepeao (Judasohr), getrocknet",
+    "pt": "Pepeao (cogumelo orelha-de-pau), seco"
+  },
+  "9154": {
+    "it": "Pepper steak (bistecca al pepe)",
+    "fr": "Pepper steak (steak au poivre)",
+    "es": "Pepper steak (bistec a la pimienta)",
+    "de": "Pepper Steak (Pfefferfleisch)",
+    "pt": "Pepper steak (bife à pimenta)"
+  },
+  "9155": {
+    "it": "Peperone banana, crudo",
+    "fr": "Piment banane, cru",
+    "es": "Pimiento banana, crudo",
+    "de": "Bananenpaprika, roh",
+    "pt": "Pimentão banana, cruo"
+  },
+  "9156": {
+    "it": "Peperone, per l'uso nei panini",
+    "fr": "Poivron, pour sandwich",
+    "es": "Pimiento, para usar en sándwiches",
+    "de": "Paprika, für Sandwiches",
+    "pt": "Pimentão, para uso em sanduíches"
+  },
+  "9157": {
+    "it": "Polpettone affettato al pepe, maiale, manzo",
+    "fr": "Pain de viande poivré, porc, bœuf",
+    "es": "Fiambre de carne con pimienta, cerdo, vacuno",
+    "de": "Pfefferwurst im Block, Schwein, Rind",
+    "pt": "Frios fatiado com pimenta, carne suína, carne bovina"
+  },
+  "9158": {
+    "it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Cheddar",
+    "fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Cheddar",
+    "es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Cheddar",
+    "de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Cheddar",
+    "pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Cheddar"
+  },
+  "9159": {
+    "it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Explosive Pizza",
+    "fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Explosive Pizza",
+    "es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Explosive Pizza",
+    "de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Explosive Pizza",
+    "pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Explosive Pizza"
+  },
+  "9160": {
+    "it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Originale",
+    "fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Original",
+    "es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Original",
+    "de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Original",
+    "pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Original"
+  },
+  "9161": {
+    "it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Parmigiano",
+    "fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Parmesan",
+    "es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Parmesano",
+    "de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Parmesan",
+    "pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Parmesão"
+  },
+  "9162": {
+    "it": "Pepperidge Farm, Goldfish, cracker da snack al forno, Pizza",
+    "fr": "Pepperidge Farm, Goldfish, crackers apéritifs cuits au four, Pizza",
+    "es": "Pepperidge Farm, Goldfish, crackers de aperitivo horneados, Pizza",
+    "de": "Pepperidge Farm, Goldfish, gebackene Snack-Cracker, Pizza",
+    "pt": "Pepperidge Farm, Goldfish, crackers assados para lanche, Pizza"
+  },
+  "9163": {
+    "it": "Menta piperita, fresca",
+    "fr": "Menthe poivrée, fraîche",
+    "es": "Menta piperita, fresca",
+    "de": "Pfefferminze, frisch",
+    "pt": "Hortelã-pimenta, fresca"
+  },
+  "9164": {
+    "it": "Pepperoni, manzo e maiale, a fette",
+    "fr": "Pepperoni, bœuf et porc, tranché",
+    "es": "Pepperoni, vacuno y cerdo, en lonchas",
+    "de": "Pepperoni, Rind und Schwein, in Scheiben",
+    "pt": "Pepperoni, carne bovina e suína, fatiado"
+  },
+  "9165": {
+    "it": "Pepperoni, non specificato",
+    "fr": "Pepperoni, non spécifié",
+    "es": "Pepperoni, no especificado",
+    "de": "Pepperoni, nicht näher bezeichnet",
+    "pt": "Pepperoni, não especificado"
+  },
+  "9166": {
+    "it": "Pepperoni, a ridotto contenuto di grassi",
+    "fr": "Pepperoni, à teneur réduite en matières grasses",
+    "es": "Pepperoni, reducido en grasa",
+    "de": "Pepperoni, fettreduziert",
+    "pt": "Pepperoni, com teor reduzido de gordura"
+  },
+  "9167": {
+    "it": "Pepperoni, a ridotto contenuto di sodio",
+    "fr": "Pepperoni, à teneur réduite en sodium",
+    "es": "Pepperoni, reducido en sodio",
+    "de": "Pepperoni, natriumreduziert",
+    "pt": "Pepperoni, com teor reduzido de sódio"
+  },
+  "9168": {
+    "it": "Peperoni e cipolle, cotti, con grasso aggiunto",
+    "fr": "Poivrons et oignons, cuits, avec matière grasse ajoutée",
+    "es": "Pimientos y cebollas, cocidos, con grasa añadida",
+    "de": "Paprika und Zwiebeln, gekocht, mit Fettzusatz",
+    "pt": "Pimentões e cebolas, cozidos, com gordura adicionada"
+  },
+  "9169": {
+    "it": "Peperoni e cipolle, cotti, senza grasso aggiunto",
+    "fr": "Poivrons et oignons, cuits, sans matière grasse ajoutée",
+    "es": "Pimientos y cebollas, cocidos, sin grasa añadida",
+    "de": "Paprika und Zwiebeln, gekocht, ohne Fettzusatz",
+    "pt": "Pimentões e cebolas, cozidos, sem gordura adicionada"
+  },
+  "9170": {
+    "it": "Peperoncini ancho, secci",
+    "fr": "Piments ancho, séchés",
+    "es": "Chiles anchos, secos",
+    "de": "Ancho-Chilis, getrocknet",
+    "pt": "Pimentas ancho, secos"
+  },
+  "9171": {
+    "it": "Peperoni banana o ungheresi (wax), senza semi, crudi",
+    "fr": "Poivrons banane ou hongrois (wax), épépinés, crus",
+    "es": "Pimientos banana o húngaros (wax), sin semillas, crudos",
+    "de": "Bananen- oder Ungarische Paprika (Wax), entkernt, roh",
+    "pt": "Pimentões banana ou húngaros (wax), sem sementes, cruos"
+  },
+  "9172": {
+    "it": "Peperoni banana, crudi",
+    "fr": "Poivrons banane, crus",
+    "es": "Pimientos banana, crudos",
+    "de": "Bananenpaprika, roh",
+    "pt": "Pimentões banana, cruos"
+  },
+  "9173": {
+    "it": "Peperoni verdi, crudi",
+    "fr": "Poivrons verts, crus",
+    "es": "Pimientos morrones verdes, crudos",
+    "de": "Grüne Gemüsepaprika, roh",
+    "pt": "Pimentões verdes, cruos"
+  },
+  "9174": {
+    "it": "Peperoni arancioni, crudi",
+    "fr": "Poivrons orange, crus",
+    "es": "Pimientos morrones naranjas, crudos",
+    "de": "Orange Gemüsepaprika, roh",
+    "pt": "Pimentões laranja, cruos"
+  },
+  "9175": {
+    "it": "Peperoni rossi, crudi",
+    "fr": "Poivrons rouges, crus",
+    "es": "Pimientos morrones rojos, crudos",
+    "de": "Rote Gemüsepaprika, roh",
+    "pt": "Pimentões vermelhos, cruos"
+  },
+  "9176": {
+    "it": "Peperoni gialli, crudi",
+    "fr": "Poivrons jaunes, crus",
+    "es": "Pimientos morrones amarillos, crudos",
+    "de": "Gelbe Gemüsepaprika, roh",
+    "pt": "Pimentões amarelos, cruos"
+  },
+  "9177": {
+    "it": "Peperoncini, verdi, in scatola",
+    "fr": "Piments, verts, en conserve",
+    "es": "Chiles, verdes, en conserva",
+    "de": "Chilischoten, grün, aus der Dose",
+    "pt": "Pimentas, verdes, enlatados"
+  },
+  "9178": {
+    "it": "Peperoni verdi, cotti",
+    "fr": "Poivrons verts, cuits",
+    "es": "Pimientos verdes, cocidos",
+    "de": "Grüne Paprika, gekocht",
+    "pt": "Pimentões verdes, cozidos"
+  },
+  "9179": {
+    "it": "Peperoncini piccanti, essiccati al sole",
+    "fr": "Piments forts, séchés au soleil",
+    "es": "Chiles picantes, secados al sol",
+    "de": "Scharfe Chilischoten, sonnengetrocknet",
+    "pt": "Pimentas picantes, secados ao sol"
+  },
+  "9180": {
+    "it": "Peperoncini piccanti, verdi, in scatola, baccelli, senza semi, solidi e liquidi",
+    "fr": "Piments forts, verts, en conserve, gousses, sans graines, solides et liquides",
+    "es": "Chiles picantes, verdes, en conserva, vainas, sin semillas, sólidos y líquidos",
+    "de": "Scharfe Chilischoten, grün, aus der Dose, Schoten, ohne Samen, feste und flüssige Bestandteile",
+    "pt": "Pimentas picantes, verdes, enlatados, vagens, sem sementes, sólidos e líquidos"
+  },
+  "9181": {
+    "it": "Peperoncini piccanti, verdi, crudi",
+    "fr": "Piments forts, verts, crus",
+    "es": "Chiles picantes, verdes, crudos",
+    "de": "Scharfe Chilischoten, grün, roh",
+    "pt": "Pimentas picantes, verdes, cruos"
+  },
+  "9182": {
+    "it": "Peperoncini rossi piccanti, in scatola, senza semi, solidi e liquidi esclusi",
+    "fr": "Piments rouges forts, en conserve, sans les graines, solides et liquides exclus",
+    "es": "Chiles rojos picantes, en conserva, sin semillas, excluidos sólidos y líquidos",
+    "de": "Rote Chilischoten, scharf, aus der Dose, ohne Kerne, feste Bestandteile und Flüssigkeit",
+    "pt": "Pimentas vermelhas picantes, em conserva, sem sementes, excluindo sólidos e líquidos"
+  },
+  "9183": {
+    "it": "Peperoncini rossi piccanti, crudi",
+    "fr": "Piments rouges forts, crus",
+    "es": "Chiles rojos picantes, crudos",
+    "de": "Rote Chilischoten, scharf, roh",
+    "pt": "Pimentas vermelhas picantes, cruas"
+  },
+  "9184": {
+    "it": "Peperoncini piccanti sott'aceto, in scatola",
+    "fr": "Piments forts au vinaigre, en conserve",
+    "es": "Chiles picantes en vinagre, en conserva",
+    "de": "Eingelegte scharfe Chilischoten, aus der Dose",
+    "pt": "Pimentas picantes em conserva, enlatados"
+  },
+  "9185": {
+    "it": "Peperoncini piccanti, cotti",
+    "fr": "Piments forts, cuits",
+    "es": "Chiles picantes, cocidos",
+    "de": "Scharfe Chilischoten, gekocht",
+    "pt": "Pimentas picantes, cozidos"
+  },
+  "9186": {
+    "it": "Peperoncini piccanti, sott'aceto",
+    "fr": "Piments forts, au vinaigre",
+    "es": "Chiles picantes, en vinagre",
+    "de": "Scharfe Chilischoten, eingelegt",
+    "pt": "Pimentas picantes, em conserva"
+  },
+  "9187": {
+    "it": "Peperoncini piccanti, crudi",
+    "fr": "Piments forts, crus",
+    "es": "Chiles picantes, crudos",
+    "de": "Scharfe Chilischoten, roh",
+    "pt": "Pimentas picantes, cruos"
+  },
+  "9188": {
+    "it": "Peperoni ungheresi, crudi",
+    "fr": "Poivrons hongrois, crus",
+    "es": "Pimientos húngaros, crudos",
+    "de": "Ungarische Paprika, roh",
+    "pt": "Pimentões húngaros, cruos"
+  },
+  "9189": {
+    "it": "Peperoncini jalapeño, in scatola, solidi e liquidi",
+    "fr": "Piments jalapeño, en conserve, solides et liquides",
+    "es": "Chiles jalapeños, en conserva, sólidos y líquidos",
+    "de": "Jalapeños, aus der Dose, feste und flüssige Bestandteile",
+    "pt": "Pimentas jalapeño, enlatados, sólidos e líquidos"
+  },
+  "9190": {
+    "it": "Peperoncini jalapeño, crudi",
+    "fr": "Piments jalapeño, crus",
+    "es": "Chiles jalapeños, crudos",
+    "de": "Jalapeños, roh",
+    "pt": "Pimentas jalapeño, cruos"
+  },
+  "9191": {
+    "it": "Peperoncini jalapeño, senza semi, crudi",
+    "fr": "Piments jalapeño, épépinés, crus",
+    "es": "Chiles jalapeños, sin semillas, crudos",
+    "de": "Jalapeños, entkernt, roh",
+    "pt": "Pimentas jalapeño, sem sementes, cruos"
+  },
+  "9192": {
+    "it": "Peperoncini jalapeño",
+    "fr": "Piments jalapeño",
+    "es": "Chiles jalapeños",
+    "de": "Jalapeños",
+    "pt": "Pimentas jalapeño"
+  },
+  "9193": {
+    "it": "Peperoncini pasilla, secci",
+    "fr": "Piments pasilla, séchés",
+    "es": "Chiles pasilla, secos",
+    "de": "Pasilla-Chilis, getrocknet",
+    "pt": "Pimentas pasilla, secos"
+  },
+  "9194": {
+    "it": "Peperoncini poblano, senza semi, crudi",
+    "fr": "Piments poblano, épépinés, crus",
+    "es": "Chiles poblanos, sin semillas, crudos",
+    "de": "Poblano-Chilis, entkernt, roh",
+    "pt": "Pimentas poblano, sem sementes, cruos"
+  },
+  "9195": {
+    "it": "Peperoni, crudi, non specificato",
+    "fr": "Poivrons, crus, non spécifié",
+    "es": "Pimientos, crudos, no especificado",
+    "de": "Paprika, roh, nicht näher bezeichnet",
+    "pt": "Pimentões, cruos, não especificado"
+  },
+  "9196": {
+    "it": "Peperoni rossi, cotti",
+    "fr": "Poivrons rouges, cuits",
+    "es": "Pimientos rojos, cocidos",
+    "de": "Rote Paprika, gekocht",
+    "pt": "Pimentões vermelhos, cozidos"
+  },
+  "9197": {
+    "it": "Peperoncini serrano, crudi",
+    "fr": "Piments serrano, crus",
+    "es": "Chiles serranos, crudos",
+    "de": "Serrano-Chilis, roh",
+    "pt": "Pimentas serrano, cruos"
+  },
+  "9198": {
+    "it": "Peperoncini serrano, senza semi, crudi",
+    "fr": "Piments serrano, épépinés, crus",
+    "es": "Chiles serranos, sin semillas, crudos",
+    "de": "Serrano-Chilis, entkernt, roh",
+    "pt": "Pimentas serrano, sem sementes, cruos"
+  },
+  "9199": {
+    "it": "Peperoni dolci verdi, in scatola, solidi e liquidi",
+    "fr": "Poivrons doux verts, en conserve, solides et liquides",
+    "es": "Pimientos dulces verdes, en conserva, sólidos y líquidos",
+    "de": "Grüne Paprika, aus der Dose, feste und flüssige Bestandteile",
+    "pt": "Pimentões doces verdes, enlatados, sólidos e líquidos"
+  },
+  "9200": {
+    "it": "Peperoni dolci verdi, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Poivrons doux verts, cuits, bouillis, égouttés, avec sel",
+    "es": "Pimientos dulces verdes, cocidos, hervidos, escurridos, con sal",
+    "de": "Grüne Paprika, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Pimentões doces verdes, cozidos, cozidos em água, escorridos, com sal"
+  },
+  "9201": {
+    "it": "Peperoni dolci verdi, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Poivrons doux verts, cuits, bouillis, égouttés, sans sel",
+    "es": "Pimientos dulces verdes, cocidos, hervidos, escurridos, sin sal",
+    "de": "Grüne Paprika, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Pimentões doces verdes, cozidos, cozidos em água, escorridos, sem sal"
+  },
+  "9202": {
+    "it": "Peperoni dolci verdi, surgelati, tritati, bolliti, sgocciolati, senza sale",
+    "fr": "Poivrons doux verts, surgelés, hachés, bouillis, égouttés, sans sel",
+    "es": "Pimientos dulces verdes, congelados, picados, hervidos, escurridos, sin sal",
+    "de": "Grüne Paprika, tiefgekühlt, gehackt, gekocht, abgetropft, ohne Salz",
+    "pt": "Pimentões doces verdes, congelados, picados, cozidos em água, escorridos, sem sal"
+  },
+  "9203": {
+    "it": "Peperoni dolci verdi, surgelati, tritati, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Poivrons doux verts, surgelés, hachés, cuits, bouillis, égouttés, avec sel",
+    "es": "Pimientos dulces verdes, congelados, picados, cocidos, hervidos, escurridos, con sal",
+    "de": "Grüne Paprika, tiefgekühlt, gehackt, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Pimentões doces verdes, congelados, picados, cozidos, cozidos em água, escorridos, com sal"
+  },
+  "9204": {
+    "it": "Peperoni dolci verdi, surgelati, tritati, non preparati",
+    "fr": "Poivrons doux verts, surgelés, hachés, non préparés",
+    "es": "Pimientos dulces verdes, congelados, picados, sin preparar",
+    "de": "Grüne Paprika, tiefgekühlt, gehackt, unzubereitet",
+    "pt": "Pimentões doces verdes, congelados, picados, não preparados"
+  },
+  "9205": {
+    "it": "Peperoni dolci verdi, crudi",
+    "fr": "Poivrons doux verts, crus",
+    "es": "Pimientos dulces verdes, crudos",
+    "de": "Grüne Paprika, roh",
+    "pt": "Pimentões doces verdes, cruos"
+  },
+  "9206": {
+    "it": "Peperoni dolci verdi, saltati",
+    "fr": "Poivrons doux verts, sautés",
+    "es": "Pimientos dulces verdes, salteados",
+    "de": "Grüne Paprika, sautiert",
+    "pt": "Pimentões doces verdes, refogados"
+  },
+  "9207": {
+    "it": "Peperoni dolci, sott'aceto",
+    "fr": "Poivrons doux, au vinaigre",
+    "es": "Pimientos dulces, en vinagre",
+    "de": "Süße Paprika, eingelegt",
+    "pt": "Pimentões doces, em conserva"
+  },
+  "9208": {
+    "it": "Peperoni dolci rossi, in scatola, solidi e liquidi",
+    "fr": "Poivrons doux rouges, en conserve, solides et liquides",
+    "es": "Pimientos dulces rojos, en conserva, sólidos y líquidos",
+    "de": "Rote Paprika, aus der Dose, feste und flüssige Bestandteile",
+    "pt": "Pimentões doces vermelhos, enlatados, sólidos e líquidos"
+  },
+  "9209": {
+    "it": "Peperoni dolci rossi, cotti, bolliti, sgocciolati, con sale",
+    "fr": "Poivrons doux rouges, cuits, bouillis, égouttés, avec sel",
+    "es": "Pimientos dulces rojos, cocidos, hervidos, escurridos, con sal",
+    "de": "Rote Paprika, gekocht, gekocht, abgetropft, mit Salz",
+    "pt": "Pimentões doces vermelhos, cozidos, cozidos em água, escorridos, com sal"
+  },
+  "9210": {
+    "it": "Peperoni dolci rossi, cotti, bolliti, sgocciolati, senza sale",
+    "fr": "Poivrons doux rouges, cuits, bouillis, égouttés, sans sel",
+    "es": "Pimientos dulces rojos, cocidos, hervidos, escurridos, sin sal",
+    "de": "Rote Paprika, gekocht, gekocht, abgetropft, ohne Salz",
+    "pt": "Pimentões doces vermelhos, cozidos, cozidos em água, escorridos, sem sal"
+  },
+  "9211": {
+    "it": "Peperoni dolci rossi, liofilizzati",
+    "fr": "Poivrons doux rouges, lyophilisés",
+    "es": "Pimientos dulces rojos, liofilizados",
+    "de": "Rote Paprika, gefriergetrocknet",
+    "pt": "Pimentões doces vermelhos, liofilizados"
+  },
+  "9212": {
+    "it": "Peperoni dolci rossi, surgelati, tritati, bolliti, sgocciolati, con sale",
+    "fr": "Poivrons doux rouges, surgelés, hachés, bouillis, égouttés, avec sel",
+    "es": "Pimientos dulces rojos, congelados, picados, hervidos, escurridos, con sal",
+    "de": "Rote Paprika, tiefgekühlt, gehackt, gekocht, abgetropft, mit Salz",
+    "pt": "Pimentões doces vermelhos, congelados, picados, cozidos em água, escorridos, com sal"
+  },
+  "9213": {
+    "it": "Peperoni dolci rossi, surgelati, tritati, bolliti, sgocciolati, senza sale",
+    "fr": "Poivrons doux rouges, surgelés, hachés, bouillis, égouttés, sans sel",
+    "es": "Pimientos dulces rojos, congelados, picados, hervidos, escurridos, sin sal",
+    "de": "Rote Paprika, tiefgekühlt, gehackt, gekocht, abgetropft, ohne Salz",
+    "pt": "Pimentões doces vermelhos, congelados, picados, cozidos em água, escorridos, sem sal"
+  },
+  "9214": {
+    "it": "Peperoni dolci rossi, surgelati, tritati, non preparati",
+    "fr": "Poivrons doux rouges, surgelés, hachés, non préparés",
+    "es": "Pimientos dulces rojos, congelados, picados, sin preparar",
+    "de": "Rote Paprika, tiefgekühlt, gehackt, unzubereitet",
+    "pt": "Pimentões doces vermelhos, congelados, picados, não preparados"
+  },
+  "9215": {
+    "it": "Peperoni dolci rossi, crudi",
+    "fr": "Poivrons doux rouges, crus",
+    "es": "Pimientos dulces rojos, crudos",
+    "de": "Rote Paprika, roh",
+    "pt": "Pimentões doces vermelhos, cruos"
+  },
+  "9216": {
+    "it": "Peperoni dolci rossi, saltati",
+    "fr": "Poivrons doux rouges, sautés",
+    "es": "Pimientos dulces rojos, salteados",
+    "de": "Rote Paprika, sautiert",
+    "pt": "Pimentões doces vermelhos, refogados"
+  },
+  "9217": {
+    "it": "Peperoni dolci gialli, crudi",
+    "fr": "Poivrons doux jaunes, crus",
+    "es": "Pimientos dulces amarillos, crudos",
+    "de": "Gelbe Paprika, roh",
+    "pt": "Pimentões doces amarelos, cruos"
+  },
+  "9218": {
+    "it": "Cachi, secco",
+    "fr": "Kaki, séché",
+    "es": "Caqui, seco",
+    "de": "Kaki, getrocknet",
+    "pt": "Caqui, seco"
+  },
+  "9219": {
+    "it": "Cachi, crudo",
+    "fr": "Kaki, cru",
+    "es": "Caqui, crudo",
+    "de": "Kaki, roh",
+    "pt": "Caqui, cruo"
+  },
+  "9220": {
+    "it": "Cachi giapponesi, secci",
+    "fr": "Kakis japonais, séchés",
+    "es": "Caquis japoneses, secos",
+    "de": "Japanische Kakis, getrocknet",
+    "pt": "Caquis japoneses, secos"
+  },
+  "9221": {
+    "it": "Cachi giapponesi, crudi",
+    "fr": "Kakis japonais, crus",
+    "es": "Caquis japoneses, crudos",
+    "de": "Japanische Kakis, roh",
+    "pt": "Caquis japoneses, cruos"
+  },
+  "9222": {
+    "it": "Cachi nativi americani, crudi",
+    "fr": "Kakis d'Amérique, crus",
+    "es": "Caquis nativos de América, crudos",
+    "de": "Amerikanische Kakis, roh",
+    "pt": "Caquis nativos americanos, cruos"
+  },
+  "9223": {
+    "it": "Fagioli peruviani, da fagioli secchi",
+    "fr": "Haricots du Pérou, à partir de haricots secs",
+    "es": "Frijoles peruanos, a partir de frijoles secos",
+    "de": "Peruanische Bohnen, aus getrockneten Bohnen",
+    "pt": "Feijão peruano, a partir de feijão seco"
+  },
+  "9224": {
+    "it": "Salsa pesto",
+    "fr": "Sauce pesto",
+    "es": "Salsa pesto",
+    "de": "Pesto-Sauce",
+    "pt": "Molho pesto"
+  },
+  "9225": {
+    "it": "Fagiano, petto, solo carne, crudo",
+    "fr": "Faisan, poitrine, viande seule, cru",
+    "es": "Faisán, pechuga, solo carne, crudo",
+    "de": "Fasan, Brust, nur Fleisch, roh",
+    "pt": "Faisão, peito, apenas carne, cruo"
+  },
+  "9226": {
+    "it": "Fagiano, cotto",
+    "fr": "Faisan, cuit",
+    "es": "Faisán, cocido",
+    "de": "Fasan, gekocht",
+    "pt": "Faisão, cozido"
+  },
+  "9227": {
+    "it": "Fagiano, cotto, parte commestibile totale",
+    "fr": "Faisan, cuit, partie comestible totale",
+    "es": "Faisán, cocido, parte comestible total",
+    "de": "Fasan, gekocht, gesamter essbarer Anteil",
+    "pt": "Faisão, cozido, total comestível"
+  },
+  "9228": {
+    "it": "Fagiano, coscia, solo carne, crudo",
+    "fr": "Faisan, cuisse, viande seule, cru",
+    "es": "Faisán, muslo, solo carne, crudo",
+    "de": "Fasan, Keule, nur Fleisch, roh",
+    "pt": "Faisão, coxa, apenas carne, cruo"
+  },
+  "9229": {
+    "it": "Fagiano, crudo, carne e pelle",
+    "fr": "Faisan, cru, viande et peau",
+    "es": "Faisán, crudo, carne y piel",
+    "de": "Fasan, roh, Fleisch und Haut",
+    "pt": "Faisão, cruo, carne e pele"
+  },
+  "9230": {
+    "it": "Fagiano, crudo, solo carne",
+    "fr": "Faisan, cru, viande seule",
+    "es": "Faisán, crudo, solo carne",
+    "de": "Fasan, roh, nur Fleisch",
+    "pt": "Faisão, cruo, apenas carne"
+  },
+  "9231": {
+    "it": "Pasta fillo",
+    "fr": "Pâte filo",
+    "es": "Masa filo",
+    "de": "Filoteig",
+    "pt": "Massa filo"
+  },
+  "9232": {
+    "it": "Salume pressato di maiale con sottaceti e pimiento",
+    "fr": "Pain de viande de porc avec cornichons et piment doux",
+    "es": "Fiambre de cerdo con pepinillos y pimiento",
+    "de": "Schweinefleisch-Aufschnitt mit Gewürzgurken und Pimiento",
+    "pt": "Embutido prensado de carne suína com picles e pimentão"
+  },
+  "9233": {
+    "it": "Relish di sottaceti, per hamburger",
+    "fr": "Relish de cornichons, pour hamburger",
+    "es": "Relish de pepinillos, para hamburguesa",
+    "de": "Gurken-Relish, für Hamburger",
+    "pt": "Relish de picles, para hambúrguer"
+  },
+  "9234": {
+    "it": "Relish di sottaceti, per hot dog",
+    "fr": "Relish de cornichons, pour hot-dog",
+    "es": "Relish de pepinillos, para perritos calientes",
+    "de": "Gurken-Relish, für Hot Dogs",
+    "pt": "Relish de picles, para cachorro-quente"
+  },
+  "9235": {
+    "it": "Relish di sottaceti, dolce",
+    "fr": "Relish de cornichons, sucré",
+    "es": "Relish de pepinillos, dulce",
+    "de": "Gurken-Relish, süß",
+    "pt": "Relish de picles, doce"
+  },
+  "9236": {
+    "it": "Salsiccia sott'aceto",
+    "fr": "Saucisse marinée au vinaigre",
+    "es": "Salchicha en escabeche",
+    "de": "Eingelegte Wurst",
+    "pt": "Salsicha em conserva"
+  },
+  "9237": {
+    "it": "Sottaceti, chowchow (sottaceti misti), con cavolfiore, cipolla e senape, dolci",
+    "fr": "Pickles, chowchow (légumes mixtes au vinaigre), avec chou-fleur, oignon et moutarde, sucrés",
+    "es": "Encurtidos, chowchow (encurtido mixto), con coliflor, cebolla y mostaza, dulces",
+    "de": "Essiggemüse, Chowchow (gemischtes Essiggemüse), mit Blumenkohl, Zwiebel und Senf, süß",
+    "pt": "Picles, chowchow (picles mistos), com couve-flor, cebola e mostarda, doces"
+  }
 }
