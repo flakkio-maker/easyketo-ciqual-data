@@ -698,5 +698,705 @@
   "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, en jugo, sólidos y líquidos",
   "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, in Saft, feste und flüssige Bestandteile",
   "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, em suco, sólidos e líquidos"
+ },
+ "6358": {
+  "it": "Insalata di frutta (pesca, pera, albicocca, ananas e ciliegia), in scatola, sciroppo leggero, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, poire, abricot, ananas et cerise), en conserve, sirop léger, solides et liquides",
+  "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, almíbar ligero, sólidos y líquidos",
+  "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, leichter Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, calda leve, sólidos e líquidos"
+ },
+ "6359": {
+  "it": "Insalata di frutta (pesca, pera, albicocca, ananas e ciliegia), in scatola, in acqua, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, poire, abricot, ananas et cerise), en conserve, au naturel, solides et liquides",
+  "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, en agua, sólidos y líquidos",
+  "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, in Wasser, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, em água, sólidos e líquidos"
+ },
+ "6360": {
+  "it": "Insalata di frutta tropicale (ananas, papaya, banana e guava), in scatola, sciroppo denso, solidi e liquidi",
+  "fr": "Salade de fruits tropicaux (ananas, papaye, banane et goyave), en conserve, sirop épais, solides et liquides",
+  "es": "Ensalada de frutas tropicales (piña, papaya, plátano y guayaba), en conserva, almíbar espeso, sólidos y líquidos",
+  "de": "Tropischer Obstsalat (Ananas, Papaya, Banane und Guave), aus der Dose, schwerer Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas tropicais (abacaxi, mamão, banana e goiaba), enlatada, calda espessa, sólidos e líquidos"
+ },
+ "6361": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con marshmallow",
+  "fr": "Salade de fruits, hors agrumes, avec marshmallows",
+  "es": "Ensalada de frutas, sin cítricos, con malvaviscos",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Marshmallows",
+  "pt": "Salada de frutas, sem frutas cítricas, com marshmallows"
+ },
+ "6362": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con copertura montata non lattiero-casearia",
+  "fr": "Salade de fruits, hors agrumes, avec garniture fouettée non laitière",
+  "es": "Ensalada de frutas, sin cítricos, con cobertura batida no láctea",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit pflanzlichem Schlagsahneersatz",
+  "pt": "Salada de frutas, sem frutas cítricas, com cobertura batida não láctea"
+ },
+ "6363": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con budino",
+  "fr": "Salade de fruits, hors agrumes, avec pudding",
+  "es": "Ensalada de frutas, sin cítricos, con pudín",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Pudding",
+  "pt": "Salada de frutas, sem frutas cítricas, com pudim"
+ },
+ "6364": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con condimento per insalata o maionese",
+  "fr": "Salade de fruits, hors agrumes, avec sauce à salade ou mayonnaise",
+  "es": "Ensalada de frutas, sin cítricos, con aderezo para ensalada o mayonesa",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Salatdressing oder Mayonnaise",
+  "pt": "Salada de frutas, sem frutas cítricas, com molho para salada ou maionese"
+ },
+ "6365": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con panna montata",
+  "fr": "Salade de fruits, hors agrumes, avec crème fouettée",
+  "es": "Ensalada de frutas, sin cítricos, con crema batida",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Schlagsahne",
+  "pt": "Salada de frutas, sem frutas cítricas, com chantilly"
+ },
+ "6366": {
+  "it": "Insalata di frutta fresca o cruda, esclusi gli agrumi, senza condimento",
+  "fr": "Salade de fruits frais ou crus, hors agrumes, sans sauce",
+  "es": "Ensalada de frutas frescas o crudas, sin cítricos, sin aderezo",
+  "de": "Frischer oder roher Obstsalat ohne Zitrusfrüchte, ohne Dressing",
+  "pt": "Salada de frutas frescas ou cruas, sem frutas cítricas, sem molho"
+ },
+ "6367": {
+  "it": "Insalata di frutta fresca o cruda, inclusi gli agrumi, senza condimento",
+  "fr": "Salade de fruits frais ou crus, y compris les agrumes, sans sauce",
+  "es": "Ensalada de frutas frescas o crudas, incluidos los cítricos, sin aderezo",
+  "de": "Frischer oder roher Obstsalat einschließlich Zitrusfrüchten, ohne Dressing",
+  "pt": "Salada de frutas frescas ou cruas, incluindo frutas cítricas, sem molho"
+ },
+ "6368": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con panna montata",
+  "fr": "Salade de fruits, y compris les agrumes, avec crème fouettée",
+  "es": "Ensalada de frutas, incluidos los cítricos, con crema batida",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Schlagsahne",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com chantilly"
+ },
+ "6369": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con marshmallow",
+  "fr": "Salade de fruits, y compris les agrumes, avec marshmallows",
+  "es": "Ensalada de frutas, incluidos los cítricos, con malvaviscos",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Marshmallows",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com marshmallows"
+ },
+ "6370": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con copertura montata non lattiero-casearia",
+  "fr": "Salade de fruits, y compris les agrumes, avec garniture fouettée non laitière",
+  "es": "Ensalada de frutas, incluidos los cítricos, con cobertura batida no láctea",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit pflanzlichem Schlagsahneersatz",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com cobertura batida não láctea"
+ },
+ "6371": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con budino",
+  "fr": "Salade de fruits, y compris les agrumes, avec pudding",
+  "es": "Ensalada de frutas, incluidos los cítricos, con pudín",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Pudding",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com pudim"
+ },
+ "6372": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con condimento per insalata o maionese",
+  "fr": "Salade de fruits, y compris les agrumes, avec sauce à salade ou mayonnaise",
+  "es": "Ensalada de frutas, incluidos los cítricos, con aderezo para ensalada o mayonesa",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Salatdressing oder Mayonnaise",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com molho para salada ou maionese"
+ },
+ "6373": {
+  "it": "Bevanda frullata di succo di frutta, senza latticini",
+  "fr": "Boisson smoothie au jus de fruits, sans produits laitiers",
+  "es": "Bebida tipo batido de jugo de frutas, sin lácteos",
+  "de": "Fruchtsaft-Smoothiegetränk, ohne Milchprodukte",
+  "pt": "Bebida tipo vitamina de suco de frutas, sem laticínios"
+ },
+ "6374": {
+  "it": "Bevanda frullata di succo di frutta, con latticini",
+  "fr": "Boisson smoothie au jus de fruits, avec produits laitiers",
+  "es": "Bebida tipo batido de jugo de frutas, con lácteos",
+  "de": "Fruchtsaft-Smoothiegetränk mit Milchprodukten",
+  "pt": "Bebida tipo vitamina de suco de frutas, com laticínios"
+ },
+ "6375": {
+  "it": "Frullato di frutta, in bottiglia",
+  "fr": "Smoothie aux fruits, en bouteille",
+  "es": "Batido de frutas, embotellado",
+  "de": "Frucht-Smoothie, abgefüllt",
+  "pt": "Vitamina de frutas, engarrafada"
+ },
+ "6376": {
+  "it": "Frullato di frutta, leggero",
+  "fr": "Smoothie aux fruits, léger",
+  "es": "Batido de frutas, ligero",
+  "de": "Leichter Frucht-Smoothie",
+  "pt": "Vitamina de frutas, light"
+ },
+ "6377": {
+  "it": "Frullato di frutta, non specificato",
+  "fr": "Smoothie aux fruits, non précisé",
+  "es": "Batido de frutas, no especificado",
+  "de": "Frucht-Smoothie, nicht näher bezeichnet",
+  "pt": "Vitamina de frutas, não especificada"
+ },
+ "6378": {
+  "it": "Frullato di frutta intera e latticini",
+  "fr": "Smoothie aux fruits entiers et produits laitiers",
+  "es": "Batido de fruta entera y lácteos",
+  "de": "Smoothie aus ganzen Früchten und Milchprodukten",
+  "pt": "Vitamina de frutas inteiras e laticínios"
+ },
+ "6379": {
+  "it": "Frullato di frutta intera e latticini, con proteine aggiunte",
+  "fr": "Smoothie aux fruits entiers et produits laitiers, avec protéines ajoutées",
+  "es": "Batido de fruta entera y lácteos, con proteína añadida",
+  "de": "Smoothie aus ganzen Früchten und Milchprodukten, mit zugesetztem Protein",
+  "pt": "Vitamina de frutas inteiras e laticínios, com proteína adicionada"
+ },
+ "6380": {
+  "it": "Frullato di frutta intera, senza latticini",
+  "fr": "Smoothie aux fruits entiers, sans produits laitiers",
+  "es": "Batido de fruta entera, sin lácteos",
+  "de": "Smoothie aus ganzen Früchten, ohne Milchprodukte",
+  "pt": "Vitamina de frutas inteiras, sem laticínios"
+ },
+ "6381": {
+  "it": "Frullato di frutta intera, senza latticini, con proteine aggiunte",
+  "fr": "Smoothie aux fruits entiers, sans produits laitiers, avec protéines ajoutées",
+  "es": "Batido de fruta entera, sin lácteos, con proteína añadida",
+  "de": "Smoothie aus ganzen Früchten, ohne Milchprodukte, mit zugesetztem Protein",
+  "pt": "Vitamina de frutas inteiras, sem laticínios, com proteína adicionada"
+ },
+ "6382": {
+  "it": "Frullato di frutta intera, non lattiero-caseario",
+  "fr": "Smoothie aux fruits entiers, non laitier",
+  "es": "Batido de fruta entera, no lácteo",
+  "de": "Smoothie aus ganzen Früchten, nicht milchbasiert",
+  "pt": "Vitamina de frutas inteiras, sem base láctea"
+ },
+ "6383": {
+  "it": "Sciroppo di frutta",
+  "fr": "Sirop de fruits",
+  "es": "Jarabe de frutas",
+  "de": "Fruchtsirup",
+  "pt": "Xarope de frutas"
+ },
+ "6384": {
+  "it": "Frutta ricoperta di cioccolato",
+  "fr": "Fruits enrobés de chocolat",
+  "es": "Fruta cubierta de chocolate",
+  "de": "Mit Schokolade überzogene Früchte",
+  "pt": "Frutas cobertas com chocolate"
+ },
+ "6385": {
+  "it": "Frutta, non specificata",
+  "fr": "Fruits, non précisés",
+  "es": "Fruta, no especificada",
+  "de": "Früchte, nicht näher bezeichnet",
+  "pt": "Frutas, não especificadas"
+ },
+ "6386": {
+  "it": "Frutta, in salamoia",
+  "fr": "Fruits, marinés",
+  "es": "Fruta, encurtida",
+  "de": "Früchte, eingelegt",
+  "pt": "Frutas, em conserva"
+ },
+ "6387": {
+  "it": "Salsa per patatine fritte",
+  "fr": "Sauce pour frites",
+  "es": "Salsa para papas fritas",
+  "de": "Pommes-frites-Sauce",
+  "pt": "Molho para batata frita"
+ },
+ "6388": {
+  "it": "Pane fritto, preparato con strutto (Apache)",
+  "fr": "Pain frit, préparé avec du saindoux (Apache)",
+  "es": "Pan frito, preparado con manteca de cerdo (Apache)",
+  "de": "Frittiertes Brot, mit Schmalz zubereitet (Apache)",
+  "pt": "Pão frito, preparado com banha de porco (Apache)"
+ },
+ "6389": {
+  "it": "Pane fritto, preparato con strutto (Navajo)",
+  "fr": "Pain frit, préparé avec du saindoux (Navajo)",
+  "es": "Pan frito, preparado con manteca de cerdo (Navajo)",
+  "de": "Frittiertes Brot, mit Schmalz zubereitet (Navajo)",
+  "pt": "Pão frito, preparado com banha de porco (Navajo)"
+ },
+ "6390": {
+  "it": "Ghiacciolo al cioccolato",
+  "fr": "Bâtonnet glacé au chocolat",
+  "es": "Paleta helada de chocolate",
+  "de": "Schokoladen-Eis am Stiel",
+  "pt": "Picolé de chocolate"
+ },
+ "6391": {
+  "it": "Ghiacciolo al cioccolato, leggero",
+  "fr": "Bâtonnet glacé au chocolat, léger",
+  "es": "Paleta helada de chocolate, ligera",
+  "de": "Leichtes Schokoladen-Eis am Stiel",
+  "pt": "Picolé de chocolate, light"
+ },
+ "6392": {
+  "it": "Fufu",
+  "fr": "Fufu",
+  "es": "Fufú",
+  "de": "Fufu",
+  "pt": "Fufu"
+ },
+ "6393": {
+  "it": "Funghi, orecchie di Giuda, secchi",
+  "fr": "Champignons, oreilles de Judas, séchés",
+  "es": "Hongos oreja de Judas, secos",
+  "de": "Pilze, Judasohr, getrocknet",
+  "pt": "Cogumelos, orelha-de-pau, secos"
+ },
+ "6394": {
+  "it": "Frittella funnel cake con zucchero",
+  "fr": "Gâteau funnel cake frit avec sucre",
+  "es": "Pastel funnel cake con azúcar",
+  "de": "Funnel Cake mit Zucker",
+  "pt": "Funnel cake com açúcar"
+ },
+ "6395": {
+  "it": "Frittella funnel cake con zucchero e frutta",
+  "fr": "Gâteau funnel cake frit avec sucre et fruits",
+  "es": "Pastel funnel cake con azúcar y fruta",
+  "de": "Funnel Cake mit Zucker und Früchten",
+  "pt": "Funnel cake com açúcar e frutas"
+ },
+ "6396": {
+  "it": "Cocktail Fuzzy Navel",
+  "fr": "Cocktail Fuzzy Navel",
+  "es": "Cóctel Fuzzy Navel",
+  "de": "Cocktail Fuzzy Navel",
+  "pt": "Coquetel Fuzzy Navel"
+ },
+ "6397": {
+  "it": "Carne di selvaggina, bisonte, macinata, cruda",
+  "fr": "Viande de gibier, bison, hachée, crue",
+  "es": "Carne de caza, bisonte, molida, cruda",
+  "de": "Wildfleisch, Bison, Hackfleisch, roh",
+  "pt": "Carne de caça, bisão, moída, crua"
+ },
+ "6398": {
+  "it": "Carne di selvaggina, bisonte, controfiletto superiore, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, bison, haut de surlonge, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, bisonte, lomo alto, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Bison, obere Lende, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, bisão, contrafilé superior, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6399": {
+  "it": "Carne di selvaggina, antilope, cotta, arrosto",
+  "fr": "Viande de gibier, antilope, cuite, rôtie",
+  "es": "Carne de caza, antílope, cocida, asada",
+  "de": "Wildfleisch, Antilope, gegart, gebraten",
+  "pt": "Carne de caça, antílope, cozida, assada"
+ },
+ "6400": {
+  "it": "Carne di selvaggina, antilope, cruda",
+  "fr": "Viande de gibier, antilope, crue",
+  "es": "Carne de caza, antílope, cruda",
+  "de": "Wildfleisch, Antilope, roh",
+  "pt": "Carne de caça, antílope, crua"
+ },
+ "6401": {
+  "it": "Carne di selvaggina, orso, cotta, stufata",
+  "fr": "Viande de gibier, ours, cuite, mijotée",
+  "es": "Carne de caza, oso, cocida, estofada",
+  "de": "Wildfleisch, Bär, gegart, geschmort",
+  "pt": "Carne de caça, urso, cozida, ensopada"
+ },
+ "6402": {
+  "it": "Carne di selvaggina, orso, cruda",
+  "fr": "Viande de gibier, ours, crue",
+  "es": "Carne de caza, oso, cruda",
+  "de": "Wildfleisch, Bär, roh",
+  "pt": "Carne de caça, urso, crua"
+ },
+ "6403": {
+  "it": "Carne di selvaggina, castoro, cotta, arrosto",
+  "fr": "Viande de gibier, castor, cuite, rôtie",
+  "es": "Carne de caza, castor, cocida, asada",
+  "de": "Wildfleisch, Biber, gegart, gebraten",
+  "pt": "Carne de caça, castor, cozida, assada"
+ },
+ "6404": {
+  "it": "Carne di selvaggina, castoro, cruda",
+  "fr": "Viande de gibier, castor, crue",
+  "es": "Carne de caza, castor, cruda",
+  "de": "Wildfleisch, Biber, roh",
+  "pt": "Carne de caça, castor, crua"
+ },
+ "6405": {
+  "it": "Carne di selvaggina, beefalo, tagli misti, cotta, arrosto",
+  "fr": "Viande de gibier, beefalo, assortiment de morceaux, cuite, rôtie",
+  "es": "Carne de caza, beefalo, mezcla de cortes, cocida, asada",
+  "de": "Wildfleisch, Beefalo, verschiedene Teilstücke, gegart, gebraten",
+  "pt": "Carne de caça, beefalo, mistura de cortes, cozida, assada"
+ },
+ "6406": {
+  "it": "Carne di selvaggina, beefalo, tagli misti, cruda",
+  "fr": "Viande de gibier, beefalo, assortiment de morceaux, crue",
+  "es": "Carne de caza, beefalo, mezcla de cortes, cruda",
+  "de": "Wildfleisch, Beefalo, verschiedene Teilstücke, roh",
+  "pt": "Carne de caça, beefalo, mistura de cortes, crua"
+ },
+ "6407": {
+  "it": "Carne di selvaggina, bisonte, spalla, copertina, solo parte magra separabile, cotta, brasata",
+  "fr": "Viande de gibier, bison, paleron, dessus d'épaule, partie maigre séparable seulement, cuit, braisé",
+  "es": "Carne de caza, bisonte, aguja, centro de paleta, solo parte magra separable, cocida, estofada",
+  "de": "Wildfleisch, Bison, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, gegart, geschmort",
+  "pt": "Carne de caça, bisão, acém, miolo da paleta, apenas parte magra separável, cozida, ensopada"
+ },
+ "6408": {
+  "it": "Carne di selvaggina, bisonte, spalla, copertina, solo parte magra separabile, cruda",
+  "fr": "Viande de gibier, bison, paleron, dessus d'épaule, partie maigre séparable seulement, cru",
+  "es": "Carne de caza, bisonte, aguja, centro de paleta, solo parte magra separable, cruda",
+  "de": "Wildfleisch, Bison, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, roh",
+  "pt": "Carne de caça, bisão, acém, miolo da paleta, apenas parte magra separável, crua"
+ },
+ "6409": {
+  "it": "Carne di selvaggina, bisonte, macinata, cotta, alla piastra",
+  "fr": "Viande de gibier, bison, hachée, cuite, grillée à la poêle",
+  "es": "Carne de caza, bisonte, molida, cocida, a la plancha",
+  "de": "Wildfleisch, Bison, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Carne de caça, bisão, moída, cozida, grelhada na frigideira"
+ },
+ "6410": {
+  "it": "Carne di selvaggina, bisonte, costata, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, bison, faux-filet, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, bisonte, ribeye, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Bison, Ribeye, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, bisão, ribeye, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6411": {
+  "it": "Carne di selvaggina, bisonte, costata, solo parte magra separabile, grasso rifilato a 0\", cruda",
+  "fr": "Viande de gibier, bison, faux-filet, partie maigre séparable seulement, gras paré à 0 pouce, cru",
+  "es": "Carne de caza, bisonte, ribeye, solo parte magra separable, grasa recortada a 0\", cruda",
+  "de": "Wildfleisch, Bison, Ribeye, nur abtrennbarer Mageranteil, Fett auf 0 Zoll getrimmt, roh",
+  "pt": "Carne de caça, bisão, ribeye, apenas parte magra separável, gordura aparada a 0\", crua"
+ },
+ "6412": {
+  "it": "Carne di selvaggina, bisonte, solo parte magra separabile, cotta, arrosto",
+  "fr": "Viande de gibier, bison, partie maigre séparable seulement, cuite, rôtie",
+  "es": "Carne de caza, bisonte, solo parte magra separable, cocida, asada",
+  "de": "Wildfleisch, Bison, nur abtrennbarer Mageranteil, gegart, gebraten",
+  "pt": "Carne de caça, bisão, apenas parte magra separável, cozida, assada"
+ },
+ "6413": {
+  "it": "Carne di selvaggina, bisonte, solo parte magra separabile, cruda",
+  "fr": "Viande de gibier, bison, partie maigre séparable seulement, crue",
+  "es": "Carne de caza, bisonte, solo parte magra separable, cruda",
+  "de": "Wildfleisch, Bison, nur abtrennbarer Mageranteil, roh",
+  "pt": "Carne de caça, bisão, apenas parte magra separável, crua"
+ },
+ "6414": {
+  "it": "Carne di selvaggina, bisonte, spalla, copertina, solo parte magra separabile, grasso rifilato a 0\", cruda",
+  "fr": "Viande de gibier, bison, paleron, dessus d'épaule, partie maigre séparable seulement, gras paré à 0 pouce, cru",
+  "es": "Carne de caza, bisonte, aguja, centro de paleta, solo parte magra separable, grasa recortada a 0\", cruda",
+  "de": "Wildfleisch, Bison, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, Fett auf 0 Zoll getrimmt, roh",
+  "pt": "Carne de caça, bisão, acém, miolo da paleta, apenas parte magra separável, gordura aparada a 0\", crua"
+ },
+ "6415": {
+  "it": "Carne di selvaggina, bisonte, fesa, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, bison, tende de tranche, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, bisonte, tapa, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Bison, Oberschale, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, bisão, coxão mole, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6416": {
+  "it": "Carne di selvaggina, bisonte, fesa, solo parte magra separabile, bistecca da 1\", cruda",
+  "fr": "Viande de gibier, bison, tende de tranche, partie maigre séparable seulement, steak de 1 pouce, cru",
+  "es": "Carne de caza, bisonte, tapa, solo parte magra separable, bistec de 1\", crudo",
+  "de": "Wildfleisch, Bison, Oberschale, nur abtrennbarer Mageranteil, 1-Zoll-Steak, roh",
+  "pt": "Carne de caça, bisão, coxão mole, apenas parte magra separável, bife de 1\", cru"
+ },
+ "6417": {
+  "it": "Carne di selvaggina, bisonte, controfiletto superiore, solo parte magra separabile, grasso rifilato a 0\", cruda",
+  "fr": "Viande de gibier, bison, haut de surlonge, partie maigre séparable seulement, gras paré à 0 pouce, cru",
+  "es": "Carne de caza, bisonte, lomo alto, solo parte magra separable, grasa recortada a 0\", cruda",
+  "de": "Wildfleisch, Bison, obere Lende, nur abtrennbarer Mageranteil, Fett auf 0 Zoll getrimmt, roh",
+  "pt": "Carne de caça, bisão, contrafilé superior, apenas parte magra separável, gordura aparada a 0\", crua"
+ },
+ "6418": {
+  "it": "Carne di selvaggina, cinghiale, selvatico, cotta, arrosto",
+  "fr": "Viande de gibier, sanglier, sauvage, cuite, rôtie",
+  "es": "Carne de caza, jabalí, silvestre, cocida, asada",
+  "de": "Wildfleisch, Wildschwein, gegart, gebraten",
+  "pt": "Carne de caça, javali, selvagem, cozida, assada"
+ },
+ "6419": {
+  "it": "Carne di selvaggina, cinghiale, selvatico, cruda",
+  "fr": "Viande de gibier, sanglier, sauvage, crue",
+  "es": "Carne de caza, jabalí, silvestre, cruda",
+  "de": "Wildfleisch, Wildschwein, roh",
+  "pt": "Carne de caça, javali, selvagem, crua"
+ },
+ "6420": {
+  "it": "Carne di selvaggina, bufalo d'acqua, cotta, arrosto",
+  "fr": "Viande de gibier, buffle d'eau, cuite, rôtie",
+  "es": "Carne de caza, búfalo de agua, cocida, asada",
+  "de": "Wildfleisch, Wasserbüffel, gegart, gebraten",
+  "pt": "Carne de caça, búfalo-d'água, cozida, assada"
+ },
+ "6421": {
+  "it": "Carne di selvaggina, bufalo d'acqua, cruda",
+  "fr": "Viande de gibier, buffle d'eau, crue",
+  "es": "Carne de caza, búfalo de agua, cruda",
+  "de": "Wildfleisch, Wasserbüffel, roh",
+  "pt": "Carne de caça, búfalo-d'água, crua"
+ },
+ "6422": {
+  "it": "Carne di selvaggina, caribù, cotta, arrosto",
+  "fr": "Viande de gibier, caribou, cuite, rôtie",
+  "es": "Carne de caza, caribú, cocida, asada",
+  "de": "Wildfleisch, Karibu, gegart, gebraten",
+  "pt": "Carne de caça, caribu, cozida, assada"
+ },
+ "6423": {
+  "it": "Carne di selvaggina, caribù, cruda",
+  "fr": "Viande de gibier, caribou, crue",
+  "es": "Carne de caza, caribú, cruda",
+  "de": "Wildfleisch, Karibu, roh",
+  "pt": "Carne de caça, caribu, crua"
+ },
+ "6424": {
+  "it": "Carne di selvaggina, cervo, cotta, arrosto",
+  "fr": "Viande de gibier, cerf, cuite, rôtie",
+  "es": "Carne de caza, venado, cocida, asada",
+  "de": "Wildfleisch, Hirsch, gegart, gebraten",
+  "pt": "Carne de caça, cervo, cozida, assada"
+ },
+ "6425": {
+  "it": "Carne di selvaggina, cervo, macinata, cotta, alla piastra",
+  "fr": "Viande de gibier, cerf, hachée, cuite, grillée à la poêle",
+  "es": "Carne de caza, venado, molida, cocida, a la plancha",
+  "de": "Wildfleisch, Hirsch, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Carne de caça, cervo, moída, cozida, grelhada na frigideira"
+ },
+ "6426": {
+  "it": "Carne di selvaggina, cervo, macinata, cruda",
+  "fr": "Viande de gibier, cerf, hachée, crue",
+  "es": "Carne de caza, venado, molida, cruda",
+  "de": "Wildfleisch, Hirsch, Hackfleisch, roh",
+  "pt": "Carne de caça, cervo, moída, crua"
+ },
+ "6427": {
+  "it": "Carne di selvaggina, cervo, lombata, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, cerf, longe, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, venado, lomo, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Hirsch, Lende, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, cervo, lombo, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6428": {
+  "it": "Carne di selvaggina, cervo, cruda",
+  "fr": "Viande de gibier, cerf, crue",
+  "es": "Carne de caza, venado, cruda",
+  "de": "Wildfleisch, Hirsch, roh",
+  "pt": "Carne de caça, cervo, crua"
+ },
+ "6429": {
+  "it": "Carne di selvaggina, cervo, spalla, copertina, solo parte magra separabile, cotta, brasata",
+  "fr": "Viande de gibier, cerf, paleron, dessus d'épaule, partie maigre séparable seulement, cuit, braisé",
+  "es": "Carne de caza, venado, aguja, centro de paleta, solo parte magra separable, cocida, estofada",
+  "de": "Wildfleisch, Hirsch, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, gegart, geschmort",
+  "pt": "Carne de caça, cervo, acém, miolo da paleta, apenas parte magra separável, cozida, ensopada"
+ },
+ "6430": {
+  "it": "Carne di selvaggina, cervo, filetto, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, cerf, filet, partie maigre séparable seulement, cuit, grillé",
+  "es": "Carne de caza, venado, solomillo, solo parte magra separable, cocido, a la parrilla",
+  "de": "Wildfleisch, Hirsch, Filet, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, cervo, filé mignon, apenas parte magra separável, cozido, grelhado"
+ },
+ "6431": {
+  "it": "Carne di selvaggina, cervo, fesa, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, cerf, tende de tranche, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, venado, tapa, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Hirsch, Oberschale, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, cervo, coxão mole, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6432": {
+  "it": "Carne di selvaggina, alce, cotta, arrosto",
+  "fr": "Viande de gibier, wapiti, cuite, rôtie",
+  "es": "Carne de caza, uapití, cocida, asada",
+  "de": "Wildfleisch, Wapiti, gegart, gebraten",
+  "pt": "Carne de caça, uapiti, cozida, assada"
+ },
+ "6433": {
+  "it": "Carne di selvaggina, alce, macinata, cotta, alla piastra",
+  "fr": "Viande de gibier, wapiti, hachée, cuite, grillée à la poêle",
+  "es": "Carne de caza, uapití, molida, cocida, a la plancha",
+  "de": "Wildfleisch, Wapiti, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Carne de caça, uapiti, moída, cozida, grelhada na frigideira"
+ },
+ "6434": {
+  "it": "Carne di selvaggina, alce, macinata, cruda",
+  "fr": "Viande de gibier, wapiti, hachée, crue",
+  "es": "Carne de caza, uapití, molida, cruda",
+  "de": "Wildfleisch, Wapiti, Hackfleisch, roh",
+  "pt": "Carne de caça, uapiti, moída, crua"
+ },
+ "6435": {
+  "it": "Carne di selvaggina, alce, lombata, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, wapiti, longe, partie maigre séparable seulement, cuite, grillée",
+  "es": "Carne de caza, uapití, lomo, solo parte magra separable, cocida, a la parrilla",
+  "de": "Wildfleisch, Wapiti, Lende, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, uapiti, lombo, apenas parte magra separável, cozida, grelhada"
+ },
+ "6436": {
+  "it": "Carne di selvaggina, alce, cruda",
+  "fr": "Viande de gibier, wapiti, crue",
+  "es": "Carne de caza, uapití, cruda",
+  "de": "Wildfleisch, Wapiti, roh",
+  "pt": "Carne de caça, uapiti, crua"
+ },
+ "6437": {
+  "it": "Carne di selvaggina, alce, noce, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, wapiti, rond, partie maigre séparable seulement, cuit, grillé",
+  "es": "Carne de caza, uapití, redondo, solo parte magra separable, cocido, a la parrilla",
+  "de": "Wildfleisch, Wapiti, Nussstück, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, uapiti, lagarto, apenas parte magra separável, cozido, grelhado"
+ },
+ "6438": {
+  "it": "Carne di selvaggina, alce, filetto, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, wapiti, filet, partie maigre séparable seulement, cuit, grillé",
+  "es": "Carne de caza, uapití, solomillo, solo parte magra separable, cocido, a la parrilla",
+  "de": "Wildfleisch, Wapiti, Filet, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, uapiti, filé mignon, apenas parte magra separável, cozido, grelhado"
+ },
+ "6439": {
+  "it": "Carne di selvaggina, capra, cotta, arrosto",
+  "fr": "Viande de gibier, chèvre, cuite, rôtie",
+  "es": "Carne de caza, cabra, cocida, asada",
+  "de": "Wildfleisch, Ziege, gegart, gebraten",
+  "pt": "Carne de caça, cabra, cozida, assada"
+ },
+ "6440": {
+  "it": "Carne di selvaggina, capra, cruda",
+  "fr": "Viande de gibier, chèvre, crue",
+  "es": "Carne de caza, cabra, cruda",
+  "de": "Wildfleisch, Ziege, roh",
+  "pt": "Carne de caça, cabra, crua"
+ },
+ "6441": {
+  "it": "Carne di selvaggina, cavallo, cotta, arrosto",
+  "fr": "Viande de gibier, cheval, cuite, rôtie",
+  "es": "Carne de caza, caballo, cocida, asada",
+  "de": "Wildfleisch, Pferd, gegart, gebraten",
+  "pt": "Carne de caça, cavalo, cozida, assada"
+ },
+ "6442": {
+  "it": "Carne di selvaggina, cavallo, cruda",
+  "fr": "Viande de gibier, cheval, crue",
+  "es": "Carne de caza, caballo, cruda",
+  "de": "Wildfleisch, Pferd, roh",
+  "pt": "Carne de caça, cavalo, crua"
+ },
+ "6443": {
+  "it": "Carne di selvaggina, alce canadese, cotta, arrosto",
+  "fr": "Viande de gibier, orignal, cuite, rôtie",
+  "es": "Carne de caza, alce, cocida, asada",
+  "de": "Wildfleisch, Elch, gegart, gebraten",
+  "pt": "Carne de caça, alce, cozida, assada"
+ },
+ "6444": {
+  "it": "Carne di selvaggina, alce canadese, cruda",
+  "fr": "Viande de gibier, orignal, crue",
+  "es": "Carne de caza, alce, cruda",
+  "de": "Wildfleisch, Elch, roh",
+  "pt": "Carne de caça, alce, crua"
+ },
+ "6445": {
+  "it": "Carne di selvaggina, topo muschiato, cotta, arrosto",
+  "fr": "Viande de gibier, rat musqué, cuite, rôtie",
+  "es": "Carne de caza, rata almizclera, cocida, asada",
+  "de": "Wildfleisch, Bisamratte, gegart, gebraten",
+  "pt": "Carne de caça, rato-almiscarado, cozida, assada"
+ },
+ "6446": {
+  "it": "Carne di selvaggina, topo muschiato, cruda",
+  "fr": "Viande de gibier, rat musqué, crue",
+  "es": "Carne de caza, rata almizclera, cruda",
+  "de": "Wildfleisch, Bisamratte, roh",
+  "pt": "Carne de caça, rato-almiscarado, crua"
+ },
+ "6447": {
+  "it": "Carne di selvaggina, opossum, cotta, arrosto",
+  "fr": "Viande de gibier, opossum, cuite, rôtie",
+  "es": "Carne de caza, zarigüeya, cocida, asada",
+  "de": "Wildfleisch, Opossum, gegart, gebraten",
+  "pt": "Carne de caça, gambá, cozida, assada"
+ },
+ "6448": {
+  "it": "Carne di selvaggina, coniglio domestico, tagli misti, cotta, arrosto",
+  "fr": "Viande de gibier, lapin domestique, assortiment de morceaux, cuit, rôti",
+  "es": "Carne de caza, conejo doméstico, mezcla de cortes, cocida, asada",
+  "de": "Wildfleisch, Hauskaninchen, verschiedene Teilstücke, gegart, gebraten",
+  "pt": "Carne de caça, coelho doméstico, mistura de cortes, cozida, assada"
+ },
+ "6449": {
+  "it": "Carne di selvaggina, coniglio domestico, tagli misti, cotta, stufata",
+  "fr": "Viande de gibier, lapin domestique, assortiment de morceaux, cuit, mijoté",
+  "es": "Carne de caza, conejo doméstico, mezcla de cortes, cocida, estofada",
+  "de": "Wildfleisch, Hauskaninchen, verschiedene Teilstücke, gegart, geschmort",
+  "pt": "Carne de caça, coelho doméstico, mistura de cortes, cozida, ensopada"
+ },
+ "6450": {
+  "it": "Carne di selvaggina, coniglio domestico, tagli misti, cruda",
+  "fr": "Viande de gibier, lapin domestique, assortiment de morceaux, cru",
+  "es": "Carne de caza, conejo doméstico, mezcla de cortes, cruda",
+  "de": "Wildfleisch, Hauskaninchen, verschiedene Teilstücke, roh",
+  "pt": "Carne de caça, coelho doméstico, mistura de cortes, crua"
+ },
+ "6451": {
+  "it": "Carne di selvaggina, coniglio selvatico, cotta, stufata",
+  "fr": "Viande de gibier, lapin sauvage, cuit, mijoté",
+  "es": "Carne de caza, conejo silvestre, cocido, estofado",
+  "de": "Wildfleisch, Wildkaninchen, gegart, geschmort",
+  "pt": "Carne de caça, coelho selvagem, cozido, ensopado"
+ },
+ "6452": {
+  "it": "Carne di selvaggina, coniglio selvatico, cruda",
+  "fr": "Viande de gibier, lapin sauvage, cru",
+  "es": "Carne de caza, conejo silvestre, crudo",
+  "de": "Wildfleisch, Wildkaninchen, roh",
+  "pt": "Carne de caça, coelho selvagem, cru"
+ },
+ "6453": {
+  "it": "Carne di selvaggina, procione, cotta, arrosto",
+  "fr": "Viande de gibier, raton laveur, cuite, rôtie",
+  "es": "Carne de caza, mapache, cocida, asada",
+  "de": "Wildfleisch, Waschbär, gegart, gebraten",
+  "pt": "Carne de caça, guaxinim, cozida, assada"
+ },
+ "6454": {
+  "it": "Carne di selvaggina, scoiattolo, cotta, arrosto",
+  "fr": "Viande de gibier, écureuil, cuite, rôtie",
+  "es": "Carne de caza, ardilla, cocida, asada",
+  "de": "Wildfleisch, Eichhörnchen, gegart, gebraten",
+  "pt": "Carne de caça, esquilo, cozida, assada"
+ },
+ "6455": {
+  "it": "Carne di selvaggina, scoiattolo, cruda",
+  "fr": "Viande de gibier, écureuil, crue",
+  "es": "Carne de caza, ardilla, cruda",
+  "de": "Wildfleisch, Eichhörnchen, roh",
+  "pt": "Carne de caça, esquilo, crua"
+ },
+ "6456": {
+  "it": "Pane all'aglio, da fast food o ristorante",
+  "fr": "Pain à l'ail, de restauration rapide ou de restaurant",
+  "es": "Pan de ajo, de comida rápida o restaurante",
+  "de": "Knoblauchbrot, aus Fast Food oder Restaurant",
+  "pt": "Pão de alho, de fast food ou restaurante"
+ },
+ "6457": {
+  "it": "Pane all'aglio, surgelato",
+  "fr": "Pain à l'ail, surgelé",
+  "es": "Pan de ajo, congelado",
+  "de": "Knoblauchbrot, tiefgekühlt",
+  "pt": "Pão de alho, congelado"
  }
 }
