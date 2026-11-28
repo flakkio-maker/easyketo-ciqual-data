@@ -58,8 +58,8 @@ Regole (stesse delle altre fonti):
   legge come 0.0 di default): dimezza il file (8,5 MB invece di 10,7 MB);
 - duplicati per nome (case-insensitive): si tiene la fonte piu' affidabile,
   Foundation > SR Legacy > Survey (196 voci);
-- nomi **in inglese** (lingua nativa della fonte): niente `nome_it/fr/es/de`
-  per ora. L'app ripiega sul nome inglese quando la traduzione manca.
+- `usda_2026.json` mantiene per ora i nomi inglesi. Le traduzioni IT/FR/ES/DE/PT-BR sono preparate separatamente in `lavoro_traduzioni_usda/` e non vanno considerate integrate finché tutti i lotti non sono completi e uniti al JSON finale.
+- Il branch contiene 25 lotti completi su 45; quattro sono parziali e venti non sono ancora completati. Vedi `lavoro_traduzioni_usda/README.md`.
 
 ## Aggiornamento
 
@@ -68,3 +68,10 @@ in tre cartelle separate e lanciare
 `python3 -I converti_usda.py CART_FOUNDATION CART_SR CART_SURVEY usda_2026.json`.
 Foundation e Survey vengono ripubblicati da USDA (due volte l'anno circa);
 SR Legacy e' fermo al 2018.
+
+
+## Stato traduzioni (28 novembre 2026)
+
+Il lavoro di traduzione dei nomi è iniziato in cinque lingue: IT, FR, ES, DE e PT-BR. Lo stato dettagliato è in `lavoro_traduzioni_usda/README.md`.
+
+**Importante per l'integrazione:** nel branch `main` dell'app Ketorbit, il DTO/entity USDA gestisce IT/FR/ES/DE ma non ancora `nome_pt`. Il supporto PT-BR richiede una modifica separata del codice applicativo (DTO, entity, DAO/mapping e selezione lingua). La sola aggiunta di `nome_pt` al JSON non lo rende visibile all'utente.
