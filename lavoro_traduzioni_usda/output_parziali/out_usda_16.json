@@ -698,5 +698,355 @@
   "es": "Pastelito de galleta con malvavisco cubierto de chocolate",
   "de": "Mit Schokolade überzogener Marshmallow-Keks-Kuchen",
   "pt": "Bolinho de biscoito com marshmallow coberto de chocolate"
+ },
+ "4570": {
+  "it": "Biscotto al marshmallow ricoperto di cioccolato",
+  "fr": "Biscuit à la guimauve enrobé de chocolat",
+  "es": "Galleta de malvavisco cubierta de chocolate",
+  "de": "Mit Schokolade überzogener Marshmallow-Keks",
+  "pt": "Biscoito de marshmallow coberto de chocolate"
+ },
+ "4571": {
+  "it": "Biscotto al marshmallow con cocco",
+  "fr": "Biscuit à la guimauve avec noix de coco",
+  "es": "Galleta de malvavisco con coco",
+  "de": "Marshmallow-Keks mit Kokos",
+  "pt": "Biscoito de marshmallow com coco"
+ },
+ "4572": {
+  "it": "Biscotto al marshmallow con cereali di riso e gocce di cioccolato",
+  "fr": "Biscuit à la guimauve avec céréales de riz et pépites de chocolat",
+  "es": "Galleta de malvavisco con cereal de arroz y chispas de chocolate",
+  "de": "Marshmallow-Keks mit Reiscrispies und Schokoladenstückchen",
+  "pt": "Biscoito de marshmallow com cereal de arroz e gotas de chocolate"
+ },
+ "4573": {
+  "it": "Biscotto al marshmallow con cereali di riso, senza cottura",
+  "fr": "Biscuit à la guimauve avec céréales de riz, sans cuisson",
+  "es": "Galleta de malvavisco con cereal de arroz, sin hornear",
+  "de": "Marshmallow-Keks mit Reiscrispies, ohne Backen",
+  "pt": "Biscoito de marshmallow com cereal de arroz, sem assar"
+ },
+ "4574": {
+  "it": "Meringa",
+  "fr": "Meringue",
+  "es": "Merengue",
+  "de": "Baiser",
+  "pt": "Merengue"
+ },
+ "4575": {
+  "it": "Biscotto alla melassa",
+  "fr": "Biscuit à la mélasse",
+  "es": "Galleta de melaza",
+  "de": "Melassekeks",
+  "pt": "Biscoito de melaço"
+ },
+ "4576": {
+  "it": "Biscotto multicereali, ad alto contenuto di fibre",
+  "fr": "Biscuit multicéréales, riche en fibres",
+  "es": "Galleta multicereales, rica en fibra",
+  "de": "Mehrkornkeks, ballaststoffreich",
+  "pt": "Biscoito multigrãos, rico em fibras"
+ },
+ "4577": {
+  "it": "Biscotto, tipo non specificato",
+  "fr": "Biscuit, type non précisé",
+  "es": "Galleta, tipo no especificado",
+  "de": "Keks, Art nicht angegeben",
+  "pt": "Biscoito, tipo não especificado"
+ },
+ "4578": {
+  "it": "Biscotto all'avena",
+  "fr": "Biscuit à l'avoine",
+  "es": "Galleta de avena",
+  "de": "Haferkeks",
+  "pt": "Biscoito de aveia"
+ },
+ "4579": {
+  "it": "Biscotto sandwich all'avena, con ripieno alla crema",
+  "fr": "Biscuit sandwich à l'avoine, fourré à la crème",
+  "es": "Galleta tipo sándwich de avena, rellena de crema",
+  "de": "Hafer-Sandwichkeks mit Cremefüllung",
+  "pt": "Biscoito tipo sanduíche de aveia, com recheio de creme"
+ },
+ "4580": {
+  "it": "Biscotto sandwich all'avena, con ripieno di burro di arachidi e confettura",
+  "fr": "Biscuit sandwich à l'avoine, fourré au beurre d'arachide et à la confiture",
+  "es": "Galleta tipo sándwich de avena, rellena de mantequilla de cacahuete y mermelada",
+  "de": "Hafer-Sandwichkeks mit Erdnussbutter- und Konfitürenfüllung",
+  "pt": "Biscoito tipo sanduíche de aveia, com recheio de pasta de amendoim e geleia"
+ },
+ "4581": {
+  "it": "Biscotto all'avena, a ridotto contenuto di grassi, presenza di uvetta non specificata",
+  "fr": "Biscuit à l'avoine, à teneur réduite en matières grasses, présence de raisins secs non précisée",
+  "es": "Galleta de avena, reducida en grasa, presencia de pasas no especificada",
+  "de": "Haferkeks, fettarm, Rosinenanteil nicht angegeben",
+  "pt": "Biscoito de aveia, com teor reduzido de gordura, presença de uvas-passas não especificada"
+ },
+ "4582": {
+  "it": "Biscotto all'avena, a ridotto contenuto di zuccheri",
+  "fr": "Biscuit à l'avoine, à teneur réduite en sucres",
+  "es": "Galleta de avena, con menos azúcar",
+  "de": "Haferkeks, zuckerreduziert",
+  "pt": "Biscoito de aveia, com teor reduzido de açúcar"
+ },
+ "4583": {
+  "it": "Biscotto all'avena con cioccolato e burro di arachidi, senza cottura",
+  "fr": "Biscuit à l'avoine avec chocolat et beurre d'arachide, sans cuisson",
+  "es": "Galleta de avena con chocolate y mantequilla de cacahuete, sin hornear",
+  "de": "Haferkeks mit Schokolade und Erdnussbutter, ohne Backen",
+  "pt": "Biscoito de aveia com chocolate e pasta de amendoim, sem assar"
+ },
+ "4584": {
+  "it": "Biscotto all'avena con gocce di cioccolato",
+  "fr": "Biscuit à l'avoine avec pépites de chocolat",
+  "es": "Galleta de avena con chispas de chocolate",
+  "de": "Haferkeks mit Schokoladenstückchen",
+  "pt": "Biscoito de aveia com gotas de chocolate"
+ },
+ "4585": {
+  "it": "Biscotto all'avena con uvetta",
+  "fr": "Biscuit à l'avoine avec raisins secs",
+  "es": "Galleta de avena con pasas",
+  "de": "Haferkeks mit Rosinen",
+  "pt": "Biscoito de aveia com uvas-passas"
+ },
+ "4586": {
+  "it": "Biscotto al burro di arachidi",
+  "fr": "Biscuit au beurre d'arachide",
+  "es": "Galleta de mantequilla de cacahuete",
+  "de": "Erdnussbutterkeks",
+  "pt": "Biscoito de pasta de amendoim"
+ },
+ "4587": {
+  "it": "Biscotto sandwich al burro di arachidi",
+  "fr": "Biscuit sandwich au beurre d'arachide",
+  "es": "Galleta tipo sándwich de mantequilla de cacahuete",
+  "de": "Erdnussbutter-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de pasta de amendoim"
+ },
+ "4588": {
+  "it": "Biscotto al burro di arachidi con cereali di riso, senza cottura",
+  "fr": "Biscuit au beurre d'arachide avec céréales de riz, sans cuisson",
+  "es": "Galleta de mantequilla de cacahuete con cereal de arroz, sin hornear",
+  "de": "Erdnussbutterkeks mit Reiscrispies, ohne Backen",
+  "pt": "Biscoito de pasta de amendoim com cereal de arroz, sem assar"
+ },
+ "4589": {
+  "it": "Biscotto al burro di arachidi, senza zucchero",
+  "fr": "Biscuit au beurre d'arachide, sans sucre",
+  "es": "Galleta de mantequilla de cacahuete, sin azúcar",
+  "de": "Erdnussbutterkeks, zuckerfrei",
+  "pt": "Biscoito de pasta de amendoim, sem açúcar"
+ },
+ "4590": {
+  "it": "Biscotto al burro di arachidi, con cioccolato",
+  "fr": "Biscuit au beurre d'arachide, avec chocolat",
+  "es": "Galleta de mantequilla de cacahuete, con chocolate",
+  "de": "Erdnussbutterkeks mit Schokolade",
+  "pt": "Biscoito de pasta de amendoim, com chocolate"
+ },
+ "4591": {
+  "it": "Biscotto Pfeffernüsse",
+  "fr": "Biscuit Pfeffernüsse",
+  "es": "Galleta Pfeffernüsse",
+  "de": "Pfeffernüsse-Keks",
+  "pt": "Biscoito Pfeffernüsse"
+ },
+ "4592": {
+  "it": "Cialda pizzelle",
+  "fr": "Gaufrette pizzelle",
+  "es": "Galleta pizzelle",
+  "de": "Pizzelle-Waffel",
+  "pt": "Biscoito pizzelle"
+ },
+ "4593": {
+  "it": "Biscotto alla zucca",
+  "fr": "Biscuit à la citrouille",
+  "es": "Galleta de calabaza",
+  "de": "Kürbiskeks",
+  "pt": "Biscoito de abóbora"
+ },
+ "4594": {
+  "it": "Biscotto all'uvetta",
+  "fr": "Biscuit aux raisins secs",
+  "es": "Galleta de pasas",
+  "de": "Rosinenkeks",
+  "pt": "Biscoito de uvas-passas"
+ },
+ "4595": {
+  "it": "Biscotto sandwich all'uvetta, con ripieno alla crema",
+  "fr": "Biscuit sandwich aux raisins secs, fourré à la crème",
+  "es": "Galleta tipo sándwich de pasas, rellena de crema",
+  "de": "Rosinen-Sandwichkeks mit Cremefüllung",
+  "pt": "Biscoito tipo sanduíche de uvas-passas, com recheio de creme"
+ },
+ "4596": {
+  "it": "Biscotto rugelach",
+  "fr": "Biscuit rugelach",
+  "es": "Galleta rugelach",
+  "de": "Rugelach-Gebäck",
+  "pt": "Biscoito rugelach"
+ },
+ "4597": {
+  "it": "Pallina al rum senza cottura",
+  "fr": "Boule au rhum sans cuisson",
+  "es": "Bolita de ron sin hornear",
+  "de": "Rumkugel, ohne Backen",
+  "pt": "Bolinha de rum, sem assar"
+ },
+ "4598": {
+  "it": "Biscotto sandwich, a ridotto contenuto di zuccheri",
+  "fr": "Biscuit sandwich, à teneur réduite en sucres",
+  "es": "Galleta tipo sándwich, con menos azúcar",
+  "de": "Sandwichkeks, zuckerreduziert",
+  "pt": "Biscoito tipo sanduíche, com teor reduzido de açúcar"
+ },
+ "4599": {
+  "it": "Biscotto tipo sandwich, non al cioccolato né alla vaniglia",
+  "fr": "Biscuit de type sandwich, ni au chocolat ni à la vanille",
+  "es": "Galleta tipo sándwich, que no es de chocolate ni vainilla",
+  "de": "Sandwichkeks, weder Schokolade noch Vanille",
+  "pt": "Biscoito tipo sanduíche, que não é de chocolate nem de baunilha"
+ },
+ "4600": {
+  "it": "Biscotto di pasta frolla (shortbread)",
+  "fr": "Sablé (shortbread)",
+  "es": "Galleta de mantequilla tipo shortbread",
+  "de": "Shortbread-Keks",
+  "pt": "Biscoito amanteigado tipo shortbread"
+ },
+ "4601": {
+  "it": "Biscotto di pasta frolla, a ridotto contenuto di grassi",
+  "fr": "Sablé, à teneur réduite en matières grasses",
+  "es": "Galleta tipo shortbread, reducida en grasa",
+  "de": "Shortbread-Keks, fettarm",
+  "pt": "Biscoito amanteigado tipo shortbread, com teor reduzido de gordura"
+ },
+ "4602": {
+  "it": "Biscotto di pasta frolla, con glassa o ripieno",
+  "fr": "Sablé, avec glaçage ou fourrage",
+  "es": "Galleta tipo shortbread, con glaseado o relleno",
+  "de": "Shortbread-Keks mit Glasur oder Füllung",
+  "pt": "Biscoito amanteigado tipo shortbread, com cobertura ou recheio"
+ },
+ "4603": {
+  "it": "Biscotto semplice o allo zucchero, senza zucchero",
+  "fr": "Biscuit nature ou au sucre, sans sucre",
+  "es": "Galleta simple o de azúcar, sin azúcar",
+  "de": "Einfacher oder Zuckerkeks, zuckerfrei",
+  "pt": "Biscoito simples ou de açúcar, sem açúcar"
+ },
+ "4604": {
+  "it": "Wafer allo zucchero",
+  "fr": "Gaufrette au sucre",
+  "es": "Barquillo de azúcar",
+  "de": "Zuckerwaffel",
+  "pt": "Wafer de açúcar"
+ },
+ "4605": {
+  "it": "Wafer allo zucchero ricoperto di cioccolato",
+  "fr": "Gaufrette au sucre enrobée de chocolat",
+  "es": "Barquillo de azúcar cubierto de chocolate",
+  "de": "Mit Schokolade überzogene Zuckerwaffel",
+  "pt": "Wafer de açúcar coberto de chocolate"
+ },
+ "4606": {
+  "it": "Wafer allo zucchero, senza zucchero",
+  "fr": "Gaufrette au sucre, sans sucre",
+  "es": "Barquillo de azúcar, sin azúcar",
+  "de": "Zuckerwaffel, zuckerfrei",
+  "pt": "Wafer de açúcar, sem açúcar"
+ },
+ "4607": {
+  "it": "Biscotto giapponese da tè",
+  "fr": "Biscuit japonais pour le thé",
+  "es": "Galleta japonesa para té",
+  "de": "Japanischer Teekeks",
+  "pt": "Biscoito japonês para chá"
+ },
+ "4608": {
+  "it": "Biscotto toffee bar",
+  "fr": "Biscuit barre au caramel toffee",
+  "es": "Galleta tipo barra de toffee",
+  "de": "Toffee-Keksriegel",
+  "pt": "Biscoito em barra tipo toffee"
+ },
+ "4609": {
+  "it": "Biscotto sandwich alla vaniglia",
+  "fr": "Biscuit sandwich à la vanille",
+  "es": "Galleta tipo sándwich de vainilla",
+  "de": "Vanille-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de baunilha"
+ },
+ "4610": {
+  "it": "Biscotto sandwich alla vaniglia, con ripieno extra",
+  "fr": "Biscuit sandwich à la vanille, avec garniture supplémentaire",
+  "es": "Galleta tipo sándwich de vainilla, con relleno adicional",
+  "de": "Vanille-Sandwichkeks mit extra Füllung",
+  "pt": "Biscoito tipo sanduíche de baunilha, com recheio extra"
+ },
+ "4611": {
+  "it": "Biscotto sandwich alla vaniglia, a ridotto contenuto di grassi",
+  "fr": "Biscuit sandwich à la vanille, à teneur réduite en matières grasses",
+  "es": "Galleta tipo sándwich de vainilla, reducida en grasa",
+  "de": "Vanille-Sandwichkeks, fettarm",
+  "pt": "Biscoito tipo sanduíche de baunilha, com teor reduzido de gordura"
+ },
+ "4612": {
+  "it": "Wafer alla vaniglia",
+  "fr": "Gaufrette à la vanille",
+  "es": "Barquillo de vainilla",
+  "de": "Vanillewaffel",
+  "pt": "Wafer de baunilha"
+ },
+ "4613": {
+  "it": "Wafer alla vaniglia, a ridotto contenuto di grassi",
+  "fr": "Gaufrette à la vanille, à teneur réduite en matières grasses",
+  "es": "Barquillo de vainilla, reducido en grasa",
+  "de": "Vanillewaffel, fettarm",
+  "pt": "Wafer de baunilha, com teor reduzido de gordura"
+ },
+ "4614": {
+  "it": "Biscotto alla vaniglia con caramello, cocco e copertura al cioccolato",
+  "fr": "Biscuit à la vanille avec caramel, noix de coco et enrobage au chocolat",
+  "es": "Galleta de vainilla con caramelo, coco y cobertura de chocolate",
+  "de": "Vanillekeks mit Karamell, Kokos und Schokoladenüberzug",
+  "pt": "Biscoito de baunilha com caramelo, coco e cobertura de chocolate"
+ },
+ "4615": {
+  "it": "Biscotto con ripieno al burro di arachidi, ricoperto di cioccolato",
+  "fr": "Biscuit fourré au beurre d'arachide, enrobé de chocolat",
+  "es": "Galleta rellena de mantequilla de cacahuete, cubierta de chocolate",
+  "de": "Keks mit Erdnussbutterfüllung und Schokoladenüberzug",
+  "pt": "Biscoito recheado com pasta de amendoim, coberto de chocolate"
+ },
+ "4616": {
+  "it": "Biscotti a forma di animaletto (inclusi biscotti all'arrowroot e biscotti da tè)",
+  "fr": "Biscuits en forme d'animaux (y compris biscuits à l'arrow-root et biscuits pour le thé)",
+  "es": "Galletas con forma de animal (incluye galletas de arrurruz y galletas de té)",
+  "de": "Tierkekse (einschließlich Arrowroot- und Teekekse)",
+  "pt": "Biscoitos em formato de animais (inclui biscoitos de araruta e biscoitos para chá)"
+ },
+ "4617": {
+  "it": "Biscotti a forma di animaletto, con glassa",
+  "fr": "Biscuits en forme d'animaux, avec glaçage",
+  "es": "Galletas con forma de animal, con glaseado",
+  "de": "Tierkekse mit Zuckerguss",
+  "pt": "Biscoitos em formato de animais, com cobertura"
+ },
+ "4618": {
+  "it": "Brownies confezionati",
+  "fr": "Brownies du commerce",
+  "es": "Brownies comerciales",
+  "de": "Gewerblich hergestellte Brownies",
+  "pt": "Brownies industrializados"
+ },
+ "4619": {
+  "it": "Brownies confezionati, a ridotto contenuto di grassi, con fibre aggiunte",
+  "fr": "Brownies du commerce, à teneur réduite en matières grasses, avec fibres ajoutées",
+  "es": "Brownies comerciales, reducidos en grasa, con fibra añadida",
+  "de": "Gewerblich hergestellte Brownies, fettarm, mit zugesetzten Ballaststoffen",
+  "pt": "Brownies industrializados, com teor reduzido de gordura e fibras adicionadas"
  }
 }
