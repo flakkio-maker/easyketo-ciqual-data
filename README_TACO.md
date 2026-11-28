@@ -31,10 +31,7 @@ l'allineamento: per le righe con meno valori del previsto l'assegnazione alle
 colonne e' fatta **per posizione** rispetto all'intestazione di ogni pagina,
 non per ordine (19 righe del blocco macro, nessuna ambigua).
 
-**Verifica fatta:** 597 voci lette (tutte quelle della TACO); su 590 tenute il
-confronto tra le calorie dichiarate e `4*(proteine+carboidrati)+9*grassi`
-torna entro il 25% (o 40 kcal) per 589; l'unica fuori e' il lievito chimico,
-dove l'incoerenza e' gia' nei dati della fonte.
+**Verifica fatta:** 597 voci lette (tutte quelle della TACO); su 590 tenute il controllo semplificato tra le calorie dichiarate e `4*(proteine+carboidrati_totali)+9*grassi` torna entro il 25% (o 40 kcal) per 589; l'unica fuori e' il lievito chimico, dove l'incoerenza e' gia' nei dati della fonte. Nel JSON `carboidrati_disponibili` e' invece gia' al netto della fibra: per ricostruire i carboidrati totali usati nel controllo bisogna sommare `carboidrati_disponibili + fibre`. La TACO usa coefficienti Atwater specifici, quindi il 4-4-9 e' solo un controllo di plausibilita', non il ricalcolo esatto delle kcal.
 
 ## Conversione
 
@@ -99,3 +96,10 @@ carne e alcuni pesci sono equivalenze orientative. Il portoghese e' `nome`.
 `python3 -I converti_taco.py taco.txt taco_2011.json` e poi
 `python3 -I unisci_traduzioni_taco.py taco_2011.json taco_traduzioni.json`. Se il NEPA pubblicasse
 una nuova edizione o un file di dati, rifare la verifica sopra.
+
+
+## Stato integrazione applicativa (28 novembre 2026)
+
+`taco_2011.json` e le relative traduzioni sono presenti nel branch dati, ma il branch `main` dell'app Ketorbit non contiene ancora la fonte TACO: mancano enum/fonte, worker di download, entity/DAO, repository, priorità di ricerca e migrazione Room. Il nome canonico `nome` è portoghese brasiliano; l'app dovrà riconoscerlo come lingua dei contenuti senza introdurre una nuova lingua dell'interfaccia.
+
+Il dataset è quindi una base dati preparata, non una funzione già disponibile agli utenti. L'integrazione deve restare su branch applicativo separato e non essere rilasciata prima della verifica dei diritti d'uso descritti sopra.
