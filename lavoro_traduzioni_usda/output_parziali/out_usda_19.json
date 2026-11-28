@@ -348,5 +348,355 @@
   "es": "Sustituto de huevo, líquido o congelado, sin grasa",
   "de": "Eiersatz, flüssig oder tiefgekühlt, fettfrei",
   "pt": "Substituto de ovo, líquido ou congelado, sem gordura"
+ },
+ "5414": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con grassi aggiunti",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec matières grasses ajoutées",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con grasa añadida",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit zugesetztem Fett",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com gordura adicionada"
+ },
+ "5415": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, senza grassi aggiunti",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, sans matières grasses ajoutées",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, sin grasa añadida",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, ohne zugesetztes Fett",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, sem gordura adicionada"
+ },
+ "5416": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con formaggio",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec fromage",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con queso",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Käse",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com queijo"
+ },
+ "5417": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con formaggio e carne",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec fromage et viande",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con queso y carne",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Käse und Fleisch",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com queijo e carne"
+ },
+ "5418": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con formaggio e verdure",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec fromage et légumes",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con queso y verduras",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Käse und Gemüse",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com queijo e vegetais"
+ },
+ "5419": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con formaggio, carne e verdure",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec fromage, viande et légumes",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con queso, carne y verduras",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Käse, Fleisch und Gemüse",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com queijo, carne e vegetais"
+ },
+ "5420": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con carne",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec viande",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con carne",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Fleisch",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com carne"
+ },
+ "5421": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con carne e verdure",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec viande et légumes",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con carne y verduras",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Fleisch und Gemüse",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com carne e vegetais"
+ },
+ "5422": {
+  "it": "Sostituto dell'uovo, omelette, strapazzato o fritto, con verdure",
+  "fr": "Substitut d'œuf, en omelette, brouillé ou frit, avec légumes",
+  "es": "Sustituto de huevo, en tortilla, revuelto o frito, con verduras",
+  "de": "Eiersatz, als Omelett, Rührei oder Spiegelei, mit Gemüse",
+  "pt": "Substituto de ovo, em omelete, mexido ou frito, com vegetais"
+ },
+ "5423": {
+  "it": "Sostituto dell'uovo, in polvere",
+  "fr": "Substitut d'œuf, en poudre",
+  "es": "Sustituto de huevo, en polvo",
+  "de": "Eiersatz, Pulver",
+  "pt": "Substituto de ovo, em pó"
+ },
+ "5424": {
+  "it": "Omelette di albumi, strapazzata o fritta, preparata con burro",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, préparée avec du beurre",
+  "es": "Tortilla de claras, revuelta o frita, preparada con mantequilla",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, mit Butter zubereitet",
+  "pt": "Omelete de claras, mexida ou frita, preparada com manteiga"
+ },
+ "5425": {
+  "it": "Omelette di albumi, strapazzata o fritta, preparata con spray da cucina",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, préparée avec un aérosol de cuisson",
+  "es": "Tortilla de claras, revuelta o frita, preparada con aceite en aerosol",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, mit Kochspray zubereitet",
+  "pt": "Omelete de claras, mexida ou frita, preparada com spray culinário"
+ },
+ "5426": {
+  "it": "Omelette di albumi, strapazzata o fritta, preparata con margarina",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, préparée avec de la margarine",
+  "es": "Tortilla de claras, revuelta o frita, preparada con margarina",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, mit Margarine zubereitet",
+  "pt": "Omelete de claras, mexida ou frita, preparada com margarina"
+ },
+ "5427": {
+  "it": "Omelette di albumi, strapazzata o fritta, preparata con olio",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, préparée avec de l'huile",
+  "es": "Tortilla de claras, revuelta o frita, preparada con aceite",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, mit Öl zubereitet",
+  "pt": "Omelete de claras, mexida ou frita, preparada com óleo"
+ },
+ "5428": {
+  "it": "Omelette di albumi, strapazzata o fritta, senza grassi aggiunti",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, sans matières grasses ajoutées",
+  "es": "Tortilla de claras, revuelta o frita, sin grasa añadida",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, ohne zugesetztes Fett",
+  "pt": "Omelete de claras, mexida ou frita, sem gordura adicionada"
+ },
+ "5429": {
+  "it": "Omelette di albumi, strapazzata o fritta, grassi non specificati",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, matières grasses non précisées",
+  "es": "Tortilla de claras, revuelta o frita, grasa no especificada",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, Fett nicht angegeben",
+  "pt": "Omelete de claras, mexida ou frita, gordura não especificada"
+ },
+ "5430": {
+  "it": "Omelette di albumi, strapazzata o fritta, tipo di grasso non specificato",
+  "fr": "Omelette de blancs d'œufs, brouillée ou frite, type de matière grasse non précisé",
+  "es": "Tortilla de claras, revuelta o frita, tipo de grasa no especificado",
+  "de": "Eiweißomelett, als Rührei oder Spiegelei, Fettart nicht angegeben",
+  "pt": "Omelete de claras, mexida ou frita, tipo de gordura não especificado"
+ },
+ "5431": {
+  "it": "Panino di albumi",
+  "fr": "Sandwich aux blancs d'œufs",
+  "es": "Sándwich de claras de huevo",
+  "de": "Eiweiß-Sandwich",
+  "pt": "Sanduíche de claras de ovo"
+ },
+ "5432": {
+  "it": "Panino di albumi, con formaggio",
+  "fr": "Sandwich aux blancs d'œufs, avec fromage",
+  "es": "Sándwich de claras de huevo, con queso",
+  "de": "Eiweiß-Sandwich mit Käse",
+  "pt": "Sanduíche de claras de ovo, com queijo"
+ },
+ "5433": {
+  "it": "Panino di albumi, con carne",
+  "fr": "Sandwich aux blancs d'œufs, avec viande",
+  "es": "Sándwich de claras de huevo, con carne",
+  "de": "Eiweiß-Sandwich mit Fleisch",
+  "pt": "Sanduíche de claras de ovo, com carne"
+ },
+ "5434": {
+  "it": "Albumi, omelette, strapazzati o fritti, con formaggio",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec fromage",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con queso",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Käse",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com queijo"
+ },
+ "5435": {
+  "it": "Albumi, omelette, strapazzati o fritti, con formaggio e carne",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec fromage et viande",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con queso y carne",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Käse und Fleisch",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com queijo e carne"
+ },
+ "5436": {
+  "it": "Albumi, omelette, strapazzati o fritti, con formaggio e verdure",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec fromage et légumes",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con queso y verduras",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Käse und Gemüse",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com queijo e vegetais"
+ },
+ "5437": {
+  "it": "Albumi, omelette, strapazzati o fritti, con formaggio, carne e verdure",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec fromage, viande et légumes",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con queso, carne y verduras",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Käse, Fleisch und Gemüse",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com queijo, carne e vegetais"
+ },
+ "5438": {
+  "it": "Albumi, omelette, strapazzati o fritti, con carne",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec viande",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con carne",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Fleisch",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com carne"
+ },
+ "5439": {
+  "it": "Albumi, omelette, strapazzati o fritti, con carne e verdure",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec viande et légumes",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con carne y verduras",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Fleisch und Gemüse",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com carne e vegetais"
+ },
+ "5440": {
+  "it": "Albumi, omelette, strapazzati o fritti, con verdure",
+  "fr": "Blancs d'œufs, en omelette, brouillés ou frits, avec légumes",
+  "es": "Claras de huevo, en tortilla, revueltas o fritas, con verduras",
+  "de": "Eiweiß, als Omelett, Rührei oder Spiegelei, mit Gemüse",
+  "pt": "Claras de ovo, em omelete, mexidas ou fritas, com vegetais"
+ },
+ "5441": {
+  "it": "Uova alla Benedict",
+  "fr": "Œufs bénédicte",
+  "es": "Huevos Benedict",
+  "de": "Eier Benedikt",
+  "pt": "Ovos Benedict"
+ },
+ "5442": {
+  "it": "Uova alla crema",
+  "fr": "Œufs à la crème",
+  "es": "Huevos a la crema",
+  "de": "Eier in Sahnesauce",
+  "pt": "Ovos com creme"
+ },
+ "5443": {
+  "it": "Uova alla diavola",
+  "fr": "Œufs mimosa",
+  "es": "Huevos rellenos",
+  "de": "Gefüllte Eier",
+  "pt": "Ovos recheados"
+ },
+ "5444": {
+  "it": "Uovo d'anatra, intero, fresco, crudo",
+  "fr": "Œuf de canard, entier, frais, cru",
+  "es": "Huevo de pato, entero, fresco, crudo",
+  "de": "Entenei, ganz, frisch, roh",
+  "pt": "Ovo de pato, inteiro, fresco, cru"
+ },
+ "5445": {
+  "it": "Uovo d'oca, intero, fresco, crudo",
+  "fr": "Œuf d'oie, entier, frais, cru",
+  "es": "Huevo de oca, entero, fresco, crudo",
+  "de": "Gänseei, ganz, frisch, roh",
+  "pt": "Ovo de gansa, inteiro, fresco, cru"
+ },
+ "5446": {
+  "it": "Uovo di quaglia, intero, fresco, crudo",
+  "fr": "Œuf de caille, entier, frais, cru",
+  "es": "Huevo de codorniz, entero, fresco, crudo",
+  "de": "Wachtelei, ganz, frisch, roh",
+  "pt": "Ovo de codorna, inteiro, fresco, cru"
+ },
+ "5447": {
+  "it": "Uovo di tacchino, intero, fresco, crudo",
+  "fr": "Œuf de dinde, entier, frais, cru",
+  "es": "Huevo de pavo, entero, fresco, crudo",
+  "de": "Putenei, ganz, frisch, roh",
+  "pt": "Ovo de peru, inteiro, fresco, cru"
+ },
+ "5448": {
+  "it": "Uovo, solo albume, crudo",
+  "fr": "Œuf, blanc seulement, cru",
+  "es": "Huevo, solo clara, crudo",
+  "de": "Ei, nur Eiweiß, roh",
+  "pt": "Ovo, apenas clara, cru"
+ },
+ "5449": {
+  "it": "Uovo, albume, cotto, con grassi aggiunti",
+  "fr": "Œuf, blanc, cuit, avec matières grasses ajoutées",
+  "es": "Huevo, clara, cocida, con grasa añadida",
+  "de": "Ei, Eiweiß, gegart, mit zugesetztem Fett",
+  "pt": "Ovo, clara, cozida, com gordura adicionada"
+ },
+ "5450": {
+  "it": "Uovo, albume, cotto, senza grassi aggiunti",
+  "fr": "Œuf, blanc, cuit, sans matières grasses ajoutées",
+  "es": "Huevo, clara, cocida, sin grasa añadida",
+  "de": "Ei, Eiweiß, gegart, ohne zugesetztes Fett",
+  "pt": "Ovo, clara, cozida, sem gordura adicionada"
+ },
+ "5451": {
+  "it": "Uovo, albume, cotto, grassi non specificati",
+  "fr": "Œuf, blanc, cuit, matières grasses non précisées",
+  "es": "Huevo, clara, cocida, grasa no especificada",
+  "de": "Ei, Eiweiß, gegart, Fett nicht angegeben",
+  "pt": "Ovo, clara, cozida, gordura não especificada"
+ },
+ "5452": {
+  "it": "Uovo, albume, secco",
+  "fr": "Œuf, blanc, séché",
+  "es": "Huevo, clara, seco",
+  "de": "Ei, Eiweiß, getrocknet",
+  "pt": "Ovo, clara, seco"
+ },
+ "5453": {
+  "it": "Uovo, albume, secco, in fiocchi, stabilizzato, glucosio ridotto",
+  "fr": "Œuf, blanc, séché, en flocons, stabilisé, à teneur réduite en glucose",
+  "es": "Huevo, clara, seco, en copos, estabilizado, con glucosa reducida",
+  "de": "Ei, Eiweiß, getrocknet, Flocken, stabilisiert, glucosearm",
+  "pt": "Ovo, clara, seco, em flocos, estabilizado, com teor reduzido de glicose"
+ },
+ "5454": {
+  "it": "Uovo, albume, secco, in polvere, stabilizzato, glucosio ridotto",
+  "fr": "Œuf, blanc, séché, en poudre, stabilisé, à teneur réduite en glucose",
+  "es": "Huevo, clara, seco, en polvo, estabilizado, con glucosa reducida",
+  "de": "Ei, Eiweiß, getrocknet, Pulver, stabilisiert, glucosearm",
+  "pt": "Ovo, clara, seco, em pó, estabilizado, com teor reduzido de glicose"
+ },
+ "5455": {
+  "it": "Uovo, albume, secco, stabilizzato, glucosio ridotto",
+  "fr": "Œuf, blanc, séché, stabilisé, à teneur réduite en glucose",
+  "es": "Huevo, clara, seco, estabilizado, con glucosa reducida",
+  "de": "Ei, Eiweiß, getrocknet, stabilisiert, glucosearm",
+  "pt": "Ovo, clara, seco, estabilizado, com teor reduzido de glicose"
+ },
+ "5456": {
+  "it": "Uovo, albume, crudo, fresco",
+  "fr": "Œuf, blanc, cru, frais",
+  "es": "Huevo, clara, cruda, fresca",
+  "de": "Ei, Eiweiß, roh, frisch",
+  "pt": "Ovo, clara, cru, fresco"
+ },
+ "5457": {
+  "it": "Uovo, albume, crudo, surgelato, pastorizzato",
+  "fr": "Œuf, blanc, cru, surgelé, pasteurisé",
+  "es": "Huevo, clara, cruda, congelada, pasteurizada",
+  "de": "Ei, Eiweiß, roh, tiefgekühlt, pasteurisiert",
+  "pt": "Ovo, clara, cru, congelada, pasteurizada"
+ },
+ "5458": {
+  "it": "Uovo, intero, al forno, con grassi aggiunti",
+  "fr": "Œuf, entier, cuit au four, avec matières grasses ajoutées",
+  "es": "Huevo, entero, al horno, con grasa añadida",
+  "de": "Ei, ganz, gebacken, mit zugesetztem Fett",
+  "pt": "Ovo, inteiro, assado no forno, com gordura adicionada"
+ },
+ "5459": {
+  "it": "Uovo, intero, al forno, senza grassi aggiunti",
+  "fr": "Œuf, entier, cuit au four, sans matières grasses ajoutées",
+  "es": "Huevo, entero, al horno, sin grasa añadida",
+  "de": "Ei, ganz, gebacken, ohne zugesetztes Fett",
+  "pt": "Ovo, inteiro, assado no forno, sem gordura adicionada"
+ },
+ "5460": {
+  "it": "Uovo, intero, al forno, grassi non specificati",
+  "fr": "Œuf, entier, cuit au four, matières grasses non précisées",
+  "es": "Huevo, entero, al horno, grasa no especificada",
+  "de": "Ei, ganz, gebacken, Fett nicht angegeben",
+  "pt": "Ovo, inteiro, assado no forno, gordura não especificada"
+ },
+ "5461": {
+  "it": "Uovo, intero, bollito o in camicia",
+  "fr": "Œuf, entier, bouilli ou poché",
+  "es": "Huevo, entero, hervido o escalfado",
+  "de": "Ei, ganz, gekocht oder pochiert",
+  "pt": "Ovo, inteiro, cozido em água ou pochê"
+ },
+ "5462": {
+  "it": "Uovo, intero, cotto, fritto",
+  "fr": "Œuf, entier, cuit, frit",
+  "es": "Huevo, entero, cocido, frito",
+  "de": "Ei, ganz, gegart, frittiert",
+  "pt": "Ovo, inteiro, cozido, frito"
+ },
+ "5463": {
+  "it": "Uovo, intero, cotto, sodo",
+  "fr": "Œuf, entier, cuit, dur",
+  "es": "Huevo, entero, cocido, duro",
+  "de": "Ei, ganz, hartgekocht",
+  "pt": "Ovo, inteiro, cozido, duro"
  }
 }
