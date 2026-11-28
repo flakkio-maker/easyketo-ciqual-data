@@ -1398,5 +1398,691 @@
   "es": "Bebida energética sin azúcar (Rockstar)",
   "de": "Zuckerfreier Energy-Drink (Rockstar)",
   "pt": "Bebida energética sem açúcar (Rockstar)"
+ },
+ "5564": {
+  "it": "Bevanda energetica senza zucchero (Vault)",
+  "fr": "Boisson énergisante sans sucre (Vault)",
+  "es": "Bebida energética sin azúcar (Vault)",
+  "de": "Zuckerfreier Energy-Drink (Vault)",
+  "pt": "Bebida energética sem açúcar (Vault)"
+ },
+ "5565": {
+  "it": "Bevanda energetica senza zucchero (NOS)",
+  "fr": "Boisson énergisante sans sucre (NOS)",
+  "es": "Bebida energética sin azúcar (NOS)",
+  "de": "Zuckerfreier Energy-Drink (NOS)",
+  "pt": "Bebida energética sem açúcar (NOS)"
+ },
+ "5566": {
+  "it": "Bevanda energetica senza zucchero (Red Bull)",
+  "fr": "Boisson énergisante sans sucre (Red Bull)",
+  "es": "Bebida energética sin azúcar (Red Bull)",
+  "de": "Zuckerfreier Energy-Drink (Red Bull)",
+  "pt": "Bebida energética sem açúcar (Red Bull)"
+ },
+ "5567": {
+  "it": "English muffin, semplice, arricchito, senza propionato di calcio (include lievito madre)",
+  "fr": "Muffin anglais, nature, enrichi, sans propionate de calcium (y compris au levain)",
+  "es": "Muffin inglés, simple, enriquecido, sin propionato de calcio (incluye masa madre)",
+  "de": "English Muffin, natur, angereichert, ohne Calciumpropionat (einschließlich Sauerteig)",
+  "pt": "Muffin inglês, simples, enriquecido, sem propionato de cálcio (inclui fermentação natural)"
+ },
+ "5568": {
+  "it": "English muffin, semplice, non arricchito, con propionato di calcio (include lievito madre)",
+  "fr": "Muffin anglais, nature, non enrichi, avec propionate de calcium (y compris au levain)",
+  "es": "Muffin inglés, simple, no enriquecido, con propionato de calcio (incluye masa madre)",
+  "de": "English Muffin, natur, nicht angereichert, mit Calciumpropionat (einschließlich Sauerteig)",
+  "pt": "Muffin inglês, simples, não enriquecido, com propionato de cálcio (inclui fermentação natural)"
+ },
+ "5569": {
+  "it": "English muffin, semplice, non arricchito, senza propionato di calcio (include lievito madre)",
+  "fr": "Muffin anglais, nature, non enrichi, sans propionate de calcium (y compris au levain)",
+  "es": "Muffin inglés, simple, no enriquecido, sin propionato de calcio (incluye masa madre)",
+  "de": "English Muffin, natur, nicht angereichert, ohne Calciumpropionat (einschließlich Sauerteig)",
+  "pt": "Muffin inglês, simples, não enriquecido, sem propionato de cálcio (inclui fermentação natural)"
+ },
+ "5570": {
+  "it": "English muffin, bianco integrale",
+  "fr": "Muffin anglais, blanc complet",
+  "es": "Muffin inglés, blanco integral",
+  "de": "English Muffin, weißes Vollkorn",
+  "pt": "Muffin inglês, branco integral"
+ },
+ "5571": {
+  "it": "Epazote, crudo",
+  "fr": "Épazote, cru",
+  "es": "Epazote, crudo",
+  "de": "Epazote, roh",
+  "pt": "Epazote, cru"
+ },
+ "5572": {
+  "it": "Eppaw, crudo",
+  "fr": "Eppaw, cru",
+  "es": "Eppaw, crudo",
+  "de": "Eppaw, roh",
+  "pt": "Eppaw, cru"
+ },
+ "5573": {
+  "it": "Escargot",
+  "fr": "Escargot",
+  "es": "Caracol",
+  "de": "Weinbergschnecke",
+  "pt": "Escargot"
+ },
+ "5574": {
+  "it": "Scarola, cotta",
+  "fr": "Scarole, cuite",
+  "es": "Escarola, cocida",
+  "de": "Eskariol, gegart",
+  "pt": "Escarola, cozida"
+ },
+ "5575": {
+  "it": "Scarola, cotta, bollita, sgocciolata, senza sale aggiunto",
+  "fr": "Scarole, cuite, bouillie, égouttée, sans sel ajouté",
+  "es": "Escarola, cocida, hervida, escurrida, sin sal añadida",
+  "de": "Eskariol, gegart, gekocht, abgetropft, ohne Salzzusatz",
+  "pt": "Escarola, cozida em água, escorrida, sem adição de sal"
+ },
+ "5576": {
+  "it": "Fajita, manzo o maiale",
+  "fr": "Fajita, bœuf ou porc",
+  "es": "Fajita, carne de res o cerdo",
+  "de": "Fajita, Rind- oder Schweinefleisch",
+  "pt": "Fajita, carne bovina ou suína"
+ },
+ "5577": {
+  "it": "Fajita, pollo",
+  "fr": "Fajita, poulet",
+  "es": "Fajita, pollo",
+  "de": "Fajita, Hähnchen",
+  "pt": "Fajita, frango"
+ },
+ "5578": {
+  "it": "Fajita, non specificata",
+  "fr": "Fajita, non précisée",
+  "es": "Fajita, no especificada",
+  "de": "Fajita, nicht näher bezeichnet",
+  "pt": "Fajita, não especificada"
+ },
+ "5579": {
+  "it": "Fajita, gamberi",
+  "fr": "Fajita, crevettes",
+  "es": "Fajita, camarones",
+  "de": "Fajita, Garnelen",
+  "pt": "Fajita, camarão"
+ },
+ "5580": {
+  "it": "Fajita, verdure",
+  "fr": "Fajita, légumes",
+  "es": "Fajita, verduras",
+  "de": "Fajita, Gemüse",
+  "pt": "Fajita, vegetais"
+ },
+ "5581": {
+  "it": "Falafel",
+  "fr": "Falafel",
+  "es": "Falafel",
+  "de": "Falafel",
+  "pt": "Falafel"
+ },
+ "5582": {
+  "it": "Panino con falafel",
+  "fr": "Sandwich au falafel",
+  "es": "Sándwich de falafel",
+  "de": "Falafel-Sandwich",
+  "pt": "Sanduíche de falafel"
+ },
+ "5583": {
+  "it": "Falafel, fatto in casa",
+  "fr": "Falafel, fait maison",
+  "es": "Falafel, casero",
+  "de": "Falafel, hausgemacht",
+  "pt": "Falafel, caseiro"
+ },
+ "5584": {
+  "it": "Farro, perlato, secco, crudo",
+  "fr": "Épeautre amidonnier, perlé, sec, cru",
+  "es": "Farro perlado, seco, crudo",
+  "de": "Emmer, geschält, trocken, roh",
+  "pt": "Farro, perlado, seco, cru"
+ },
+ "5585": {
+  "it": "Fast food, biscotto salato tipo biscuit",
+  "fr": "Fast-food, biscuit américain",
+  "es": "Comida rápida, panecillo tipo biscuit",
+  "de": "Fast Food, amerikanisches Biscuit-Brötchen",
+  "pt": "Fast food, pão tipo biscuit americano"
+ },
+ "5586": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con formaggio, impasto normale",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au fromage, pâte classique",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con queso, masa normal",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Käsebelag, normaler Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de queijo, massa comum"
+ },
+ "5587": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con formaggio, impasto ripieno",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au fromage, pâte fourrée",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con queso, masa rellena",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Käsebelag, gefüllter Rand",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de queijo, borda recheada"
+ },
+ "5588": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con formaggio, impasto spesso",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au fromage, pâte épaisse",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con queso, masa gruesa",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Käsebelag, dicker Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de queijo, massa grossa"
+ },
+ "5589": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con formaggio, impasto sottile",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au fromage, pâte fine",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con queso, masa fina",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Käsebelag, dünner Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de queijo, massa fina"
+ },
+ "5590": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con carne e verdure, impasto normale",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture à la viande et aux légumes, pâte classique",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con carne y verduras, masa normal",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Fleisch- und Gemüsebelag, normaler Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de carne e vegetais, massa comum"
+ },
+ "5591": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con salame piccante, impasto normale",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au pepperoni, pâte classique",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con pepperoni, masa normal",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Peperoni-Belag, normaler Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de pepperoni, massa comum"
+ },
+ "5592": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con salame piccante, impasto spesso",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au pepperoni, pâte épaisse",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con pepperoni, masa gruesa",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Peperoni-Belag, dicker Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de pepperoni, massa grossa"
+ },
+ "5593": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con salame piccante, impasto sottile",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture au pepperoni, pâte fine",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con pepperoni, masa fina",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Peperoni-Belag, dünner Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de pepperoni, massa fina"
+ },
+ "5594": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con salsiccia, impasto normale",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture à la saucisse, pâte classique",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con salchicha, masa normal",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Wurstbelag, normaler Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de linguiça, massa comum"
+ },
+ "5595": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con salsiccia, impasto spesso",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture à la saucisse, pâte épaisse",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con salchicha, masa gruesa",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Wurstbelag, dicker Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de linguiça, massa grossa"
+ },
+ "5596": {
+  "it": "Fast food, catena di pizzerie, pizza da 14\", con salsiccia, impasto sottile",
+  "fr": "Fast-food, chaîne de pizzerias, pizza de 14 pouces, garniture à la saucisse, pâte fine",
+  "es": "Comida rápida, cadena de pizzerías, pizza de 14\", con salchicha, masa fina",
+  "de": "Fast Food, Pizzakette, 14-Zoll-Pizza mit Wurstbelag, dünner Boden",
+  "pt": "Fast food, rede de pizzarias, pizza de 14\", cobertura de linguiça, massa fina"
+ },
+ "5597": {
+  "it": "Fast food, bagel con bistecca da colazione, uovo, formaggio e condimenti",
+  "fr": "Fast-food, bagel avec steak du petit-déjeuner, œuf, fromage et condiments",
+  "es": "Comida rápida, bagel con bistec de desayuno, huevo, queso y condimentos",
+  "de": "Fast Food, Bagel mit Frühstückssteak, Ei, Käse und Würzsaucen",
+  "pt": "Fast food, bagel com bife de café da manhã, ovo, queijo e condimentos"
+ },
+ "5598": {
+  "it": "Fast food, bagel con uovo, salsiccia, formaggio e condimenti",
+  "fr": "Fast-food, bagel avec œuf, galette de saucisse, fromage et condiments",
+  "es": "Comida rápida, bagel con huevo, hamburguesa de salchicha, queso y condimentos",
+  "de": "Fast Food, Bagel mit Ei, Wurstbratling, Käse und Würzsaucen",
+  "pt": "Fast food, bagel com ovo, hambúrguer de linguiça, queijo e condimentos"
+ },
+ "5599": {
+  "it": "Fast food, biscotto salato tipo biscuit con filetto di pollo croccante",
+  "fr": "Fast-food, biscuit américain avec filet de poulet croustillant",
+  "es": "Comida rápida, panecillo tipo biscuit con filete de pollo crujiente",
+  "de": "Fast Food, Biscuit-Brötchen mit knusprigem Hähnchenfilet",
+  "pt": "Fast food, pão tipo biscuit americano com filé de frango crocante"
+ },
+ "5600": {
+  "it": "Fast food, biscotto salato tipo biscuit con uovo e pancetta",
+  "fr": "Fast-food, biscuit américain avec œuf et bacon",
+  "es": "Comida rápida, panecillo tipo biscuit con huevo y beicon",
+  "de": "Fast Food, Biscuit-Brötchen mit Ei und Speck",
+  "pt": "Fast food, pão tipo biscuit americano com ovo e bacon"
+ },
+ "5601": {
+  "it": "Fast food, biscotto salato tipo biscuit con uovo e prosciutto",
+  "fr": "Fast-food, biscuit américain avec œuf et jambon",
+  "es": "Comida rápida, panecillo tipo biscuit con huevo y jamón",
+  "de": "Fast Food, Biscuit-Brötchen mit Ei und Schinken",
+  "pt": "Fast food, pão tipo biscuit americano com ovo e presunto"
+ },
+ "5602": {
+  "it": "Fast food, biscotto salato tipo biscuit con uovo e salsiccia",
+  "fr": "Fast-food, biscuit américain avec œuf et saucisse",
+  "es": "Comida rápida, panecillo tipo biscuit con huevo y salchicha",
+  "de": "Fast Food, Biscuit-Brötchen mit Ei und Wurst",
+  "pt": "Fast food, pão tipo biscuit americano com ovo e linguiça"
+ },
+ "5603": {
+  "it": "Fast food, biscotto salato tipo biscuit con uovo, formaggio e pancetta",
+  "fr": "Fast-food, biscuit américain avec œuf, fromage et bacon",
+  "es": "Comida rápida, panecillo tipo biscuit con huevo, queso y beicon",
+  "de": "Fast Food, Biscuit-Brötchen mit Ei, Käse und Speck",
+  "pt": "Fast food, pão tipo biscuit americano com ovo, queijo e bacon"
+ },
+ "5604": {
+  "it": "Fast food, biscotto salato tipo biscuit con prosciutto",
+  "fr": "Fast-food, biscuit américain avec jambon",
+  "es": "Comida rápida, panecillo tipo biscuit con jamón",
+  "de": "Fast Food, Biscuit-Brötchen mit Schinken",
+  "pt": "Fast food, pão tipo biscuit americano com presunto"
+ },
+ "5605": {
+  "it": "Fast food, biscotto salato tipo biscuit con salsiccia",
+  "fr": "Fast-food, biscuit américain avec saucisse",
+  "es": "Comida rápida, panecillo tipo biscuit con salchicha",
+  "de": "Fast Food, Biscuit-Brötchen mit Wurst",
+  "pt": "Fast food, pão tipo biscuit americano com linguiça"
+ },
+ "5606": {
+  "it": "Fast food, grissino morbido preparato con aglio e formaggio parmigiano",
+  "fr": "Fast-food, gressin moelleux préparé avec ail et parmesan",
+  "es": "Comida rápida, palito de pan blando preparado con ajo y queso parmesano",
+  "de": "Fast Food, weiche Brotstange mit Knoblauch und Parmesankäse",
+  "pt": "Fast food, palito de pão macio preparado com alho e queijo parmesão"
+ },
+ "5607": {
+  "it": "Fast food, burrito da colazione con uovo, formaggio e salsiccia",
+  "fr": "Fast-food, burrito du petit-déjeuner avec œuf, fromage et saucisse",
+  "es": "Comida rápida, burrito de desayuno con huevo, queso y salchicha",
+  "de": "Fast Food, Frühstücks-Burrito mit Ei, Käse und Wurst",
+  "pt": "Fast food, burrito de café da manhã com ovo, queijo e linguiça"
+ },
+ "5608": {
+  "it": "Fast food, burrito con fagioli",
+  "fr": "Fast-food, burrito aux haricots",
+  "es": "Comida rápida, burrito con frijoles",
+  "de": "Fast Food, Burrito mit Bohnen",
+  "pt": "Fast food, burrito com feijão"
+ },
+ "5609": {
+  "it": "Fast food, burrito con fagioli e manzo",
+  "fr": "Fast-food, burrito aux haricots et au bœuf",
+  "es": "Comida rápida, burrito con frijoles y carne de res",
+  "de": "Fast Food, Burrito mit Bohnen und Rindfleisch",
+  "pt": "Fast food, burrito com feijão e carne bovina"
+ },
+ "5610": {
+  "it": "Fast food, burrito con fagioli e formaggio",
+  "fr": "Fast-food, burrito aux haricots et au fromage",
+  "es": "Comida rápida, burrito con frijoles y queso",
+  "de": "Fast Food, Burrito mit Bohnen und Käse",
+  "pt": "Fast food, burrito com feijão e queijo"
+ },
+ "5611": {
+  "it": "Fast food, burrito con fagioli, formaggio e manzo",
+  "fr": "Fast-food, burrito aux haricots, au fromage et au bœuf",
+  "es": "Comida rápida, burrito con frijoles, queso y carne de res",
+  "de": "Fast Food, Burrito mit Bohnen, Käse und Rindfleisch",
+  "pt": "Fast food, burrito com feijão, queijo e carne bovina"
+ },
+ "5612": {
+  "it": "Fast food, cheeseburger doppio, hamburger normale e panino, con condimenti",
+  "fr": "Fast-food, cheeseburger double, steak haché classique et pain, avec condiments",
+  "es": "Comida rápida, hamburguesa con queso doble, carne y pan normales, con condimentos",
+  "de": "Fast Food, doppelter Cheeseburger, normales Patty und Brötchen, mit Würzsaucen",
+  "pt": "Fast food, cheesebúrguer duplo, hambúrguer e pão comuns, com condimentos"
+ },
+ "5613": {
+  "it": "Fast food, cheeseburger doppio, hamburger grande, con condimenti",
+  "fr": "Fast-food, cheeseburger double, gros steak haché, avec condiments",
+  "es": "Comida rápida, hamburguesa con queso doble, carne grande, con condimentos",
+  "de": "Fast Food, doppelter Cheeseburger mit großem Patty und Würzsaucen",
+  "pt": "Fast food, cheesebúrguer duplo, hambúrguer grande, com condimentos"
+ },
+ "5614": {
+  "it": "Fast food, cheeseburger doppio, hamburger grande, con condimenti, verdure e maionese",
+  "fr": "Fast-food, cheeseburger double, gros steak haché, avec condiments, légumes et mayonnaise",
+  "es": "Comida rápida, hamburguesa con queso doble, carne grande, con condimentos, verduras y mayonesa",
+  "de": "Fast Food, doppelter Cheeseburger mit großem Patty, Würzsaucen, Gemüse und Mayonnaise",
+  "pt": "Fast food, cheesebúrguer duplo, hambúrguer grande, com condimentos, vegetais e maionese"
+ },
+ "5615": {
+  "it": "Fast food, cheeseburger doppio, hamburger normale, panino a doppio strato, con condimenti e salsa speciale",
+  "fr": "Fast-food, cheeseburger double, steak haché classique, pain à deux étages, avec condiments et sauce spéciale",
+  "es": "Comida rápida, hamburguesa con queso doble, carne normal, pan de doble piso, con condimentos y salsa especial",
+  "de": "Fast Food, doppelter Cheeseburger mit normalem Patty, Doppeldecker-Brötchen, Würzsaucen und Spezialsauce",
+  "pt": "Fast food, cheesebúrguer duplo, hambúrguer comum, pão de dois andares, com condimentos e molho especial"
+ },
+ "5616": {
+  "it": "Fast food, cheeseburger doppio, hamburger normale, con condimenti",
+  "fr": "Fast-food, cheeseburger double, steak haché classique, avec condiments",
+  "es": "Comida rápida, hamburguesa con queso doble, carne normal, con condimentos",
+  "de": "Fast Food, doppelter Cheeseburger mit normalem Patty und Würzsaucen",
+  "pt": "Fast food, cheesebúrguer duplo, hambúrguer comum, com condimentos"
+ },
+ "5617": {
+  "it": "Fast food, cheeseburger singolo, hamburger grande, semplice",
+  "fr": "Fast-food, cheeseburger simple, gros steak haché, nature",
+  "es": "Comida rápida, hamburguesa con queso sencilla, carne grande, sin condimentos",
+  "de": "Fast Food, einfacher Cheeseburger mit großem Patty, pur",
+  "pt": "Fast food, cheesebúrguer simples, hambúrguer grande, simples"
+ },
+ "5618": {
+  "it": "Fast food, cheeseburger singolo, hamburger grande, con condimenti",
+  "fr": "Fast-food, cheeseburger simple, gros steak haché, avec condiments",
+  "es": "Comida rápida, hamburguesa con queso sencilla, carne grande, con condimentos",
+  "de": "Fast Food, einfacher Cheeseburger mit großem Patty und Würzsaucen",
+  "pt": "Fast food, cheesebúrguer simples, hambúrguer grande, com condimentos"
+ },
+ "5619": {
+  "it": "Fast food, cheeseburger singolo, hamburger grande, con condimenti, verdure e maionese",
+  "fr": "Fast-food, cheeseburger simple, gros steak haché, avec condiments, légumes et mayonnaise",
+  "es": "Comida rápida, hamburguesa con queso sencilla, carne grande, con condimentos, verduras y mayonesa",
+  "de": "Fast Food, einfacher Cheeseburger mit großem Patty, Würzsaucen, Gemüse und Mayonnaise",
+  "pt": "Fast food, cheesebúrguer simples, hambúrguer grande, com condimentos, vegetais e maionese"
+ },
+ "5620": {
+  "it": "Fast food, cheeseburger singolo, hamburger normale, con condimenti",
+  "fr": "Fast-food, cheeseburger simple, steak haché classique, avec condiments",
+  "es": "Comida rápida, hamburguesa con queso sencilla, carne normal, con condimentos",
+  "de": "Fast Food, einfacher Cheeseburger mit normalem Patty und Würzsaucen",
+  "pt": "Fast food, cheesebúrguer simples, hambúrguer comum, com condimentos"
+ },
+ "5621": {
+  "it": "Fast food, cheeseburger singolo, hamburger normale, con condimenti e verdure",
+  "fr": "Fast-food, cheeseburger simple, steak haché classique, avec condiments et légumes",
+  "es": "Comida rápida, hamburguesa con queso sencilla, carne normal, con condimentos y verduras",
+  "de": "Fast Food, einfacher Cheeseburger mit normalem Patty, Würzsaucen und Gemüse",
+  "pt": "Fast food, cheesebúrguer simples, hambúrguer comum, com condimentos e vegetais"
+ },
+ "5622": {
+  "it": "Fast food, cheeseburger singolo, hamburger normale, semplice",
+  "fr": "Fast-food, cheeseburger simple, steak haché classique, nature",
+  "es": "Comida rápida, hamburguesa con queso sencilla, carne normal, simple",
+  "de": "Fast Food, einfacher Cheeseburger mit normalem Patty, pur",
+  "pt": "Fast food, cheesebúrguer simples, hambúrguer comum, simples"
+ },
+ "5623": {
+  "it": "Fast food, panino con filetto di pollo, semplice, con cetriolini sottaceto",
+  "fr": "Fast-food, sandwich au filet de poulet, nature, avec cornichons",
+  "es": "Comida rápida, sándwich de filete de pollo, simple, con pepinillos",
+  "de": "Fast Food, Hähnchenfilet-Sandwich, pur, mit Gewürzgurken",
+  "pt": "Fast food, sanduíche de filé de frango, simples, com picles"
+ },
+ "5624": {
+  "it": "Fast food, straccetti di pollo",
+  "fr": "Fast-food, aiguillettes de poulet",
+  "es": "Comida rápida, tiras de pollo",
+  "de": "Fast Food, Hähnchenstreifen",
+  "pt": "Fast food, tiras de frango"
+ },
+ "5625": {
+  "it": "Fast food, pollo, impanato e fritto, pezzi disossati, semplice",
+  "fr": "Fast-food, poulet, pané et frit, morceaux désossés, nature",
+  "es": "Comida rápida, pollo, empanizado y frito, trozos sin hueso, simple",
+  "de": "Fast Food, Hähnchen, paniert und frittiert, Stücke ohne Knochen, pur",
+  "pt": "Fast food, frango, empanado e frito, pedaços sem osso, simples"
+ },
+ "5626": {
+  "it": "Fast food, insalata di cavolo (coleslaw)",
+  "fr": "Fast-food, salade de chou (coleslaw)",
+  "es": "Comida rápida, ensalada de col (coleslaw)",
+  "de": "Fast Food, Krautsalat (Coleslaw)",
+  "pt": "Fast food, salada de repolho (coleslaw)"
+ },
+ "5627": {
+  "it": "Fast food, panino con filetto di pollo croccante, con lattuga e maionese",
+  "fr": "Fast-food, sandwich au filet de poulet croustillant, avec laitue et mayonnaise",
+  "es": "Comida rápida, sándwich de filete de pollo crujiente, con lechuga y mayonesa",
+  "de": "Fast Food, Sandwich mit knusprigem Hähnchenfilet, Salat und Mayonnaise",
+  "pt": "Fast food, sanduíche de filé de frango crocante, com alface e maionese"
+ },
+ "5628": {
+  "it": "Fast food, pollo croccante in tortilla, con lattuga, formaggio e salsa ranch",
+  "fr": "Fast-food, poulet croustillant dans une tortilla, avec laitue, fromage et sauce ranch",
+  "es": "Comida rápida, pollo crujiente en tortilla, con lechuga, queso y salsa ranch",
+  "de": "Fast Food, knuspriges Hähnchen in Tortilla mit Salat, Käse und Ranch-Sauce",
+  "pt": "Fast food, frango crocante na tortilla, com alface, queijo e molho ranch"
+ },
+ "5629": {
+  "it": "Fast food, sandwich club con pollo croccante, pancetta e pomodoro, con formaggio, lattuga e maionese",
+  "fr": "Fast-food, club sandwich au poulet croustillant, bacon et tomate, avec fromage, laitue et mayonnaise",
+  "es": "Comida rápida, sándwich club de pollo crujiente, beicon y tomate, con queso, lechuga y mayonesa",
+  "de": "Fast Food, Club-Sandwich mit knusprigem Hähnchen, Speck und Tomate, Käse, Salat und Mayonnaise",
+  "pt": "Fast food, sanduíche club de frango crocante, bacon e tomate, com queijo, alface e maionese"
+ },
+ "5630": {
+  "it": "Fast food, croissant con uovo, formaggio e pancetta",
+  "fr": "Fast-food, croissant avec œuf, fromage et bacon",
+  "es": "Comida rápida, croissant con huevo, queso y beicon",
+  "de": "Fast Food, Croissant mit Ei, Käse und Speck",
+  "pt": "Fast food, croissant com ovo, queijo e bacon"
+ },
+ "5631": {
+  "it": "Fast food, croissant con uovo, formaggio e prosciutto",
+  "fr": "Fast-food, croissant avec œuf, fromage et jambon",
+  "es": "Comida rápida, croissant con huevo, queso y jamón",
+  "de": "Fast Food, Croissant mit Ei, Käse und Schinken",
+  "pt": "Fast food, croissant com ovo, queijo e presunto"
+ },
+ "5632": {
+  "it": "Fast food, croissant con uovo, formaggio e salsiccia",
+  "fr": "Fast-food, croissant avec œuf, fromage et saucisse",
+  "es": "Comida rápida, croissant con huevo, queso y salchicha",
+  "de": "Fast Food, Croissant mit Ei, Käse und Wurst",
+  "pt": "Fast food, croissant com ovo, queijo e linguiça"
+ },
+ "5633": {
+  "it": "Fast food, uova strapazzate",
+  "fr": "Fast-food, œufs brouillés",
+  "es": "Comida rápida, huevos revueltos",
+  "de": "Fast Food, Rührei",
+  "pt": "Fast food, ovos mexidos"
+ },
+ "5634": {
+  "it": "Fast food, muffin inglese con formaggio e salsiccia",
+  "fr": "Fast-food, muffin anglais avec fromage et saucisse",
+  "es": "Comida rápida, muffin inglés con queso y salchicha",
+  "de": "Fast Food, English Muffin mit Käse und Wurst",
+  "pt": "Fast food, muffin inglês com queijo e linguiça"
+ },
+ "5635": {
+  "it": "Fast food, muffin inglese con uovo, formaggio e pancetta canadese",
+  "fr": "Fast-food, muffin anglais avec œuf, fromage et bacon canadien",
+  "es": "Comida rápida, muffin inglés con huevo, queso y tocino canadiense",
+  "de": "Fast Food, English Muffin mit Ei, Käse und kanadischem Speck",
+  "pt": "Fast food, muffin inglês com ovo, queijo e bacon canadense"
+ },
+ "5636": {
+  "it": "Fast food, muffin inglese con uovo, formaggio e salsiccia",
+  "fr": "Fast-food, muffin anglais avec œuf, fromage et saucisse",
+  "es": "Comida rápida, muffin inglés con huevo, queso y salchicha",
+  "de": "Fast Food, English Muffin mit Ei, Käse und Wurst",
+  "pt": "Fast food, muffin inglês com ovo, queijo e linguiça"
+ },
+ "5637": {
+  "it": "Fast food, panino con pesce e salsa tartara",
+  "fr": "Fast-food, sandwich au poisson avec sauce tartare",
+  "es": "Comida rápida, sándwich de pescado con salsa tártara",
+  "de": "Fast Food, Fisch-Sandwich mit Remoulade",
+  "pt": "Fast food, sanduíche de peixe com molho tártaro"
+ },
+ "5638": {
+  "it": "Fast food, panino con pesce, salsa tartara e formaggio",
+  "fr": "Fast-food, sandwich au poisson, sauce tartare et fromage",
+  "es": "Comida rápida, sándwich de pescado, salsa tártara y queso",
+  "de": "Fast Food, Fisch-Sandwich mit Remoulade und Käse",
+  "pt": "Fast food, sanduíche de peixe, molho tártaro e queijo"
+ },
+ "5639": {
+  "it": "Fast food, bastoncini di french toast",
+  "fr": "Fast-food, bâtonnets de pain perdu",
+  "es": "Comida rápida, palitos de tostada francesa",
+  "de": "Fast Food, French-Toast-Sticks",
+  "pt": "Fast food, palitos de rabanada"
+ },
+ "5640": {
+  "it": "Fast food, pollo fritto, petto, carne e pelle e impanatura",
+  "fr": "Fast-food, poulet frit, poitrine, viande et peau et panure",
+  "es": "Comida rápida, pollo frito, pechuga, carne y piel y empanizado",
+  "de": "Fast Food, Brathähnchen, Brust, Fleisch und Haut mit Panade",
+  "pt": "Fast food, frango frito, peito, carne e pele com empanado"
+ },
+ "5641": {
+  "it": "Fast food, pollo fritto, petto, solo carne, pelle e impanatura rimosse",
+  "fr": "Fast-food, poulet frit, poitrine, viande seule, peau et panure retirées",
+  "es": "Comida rápida, pollo frito, pechuga, solo carne, sin piel ni empanizado",
+  "de": "Fast Food, Brathähnchen, Brust, nur Fleisch, ohne Haut und Panade",
+  "pt": "Fast food, frango frito, peito, apenas carne, sem pele nem empanado"
+ },
+ "5642": {
+  "it": "Fast food, pollo fritto, coscia, carne e pelle con impanatura",
+  "fr": "Fast-food, poulet frit, pilon, viande et peau avec panure",
+  "es": "Comida rápida, pollo frito, muslo, carne y piel con empanizado",
+  "de": "Fast Food, Brathähnchen, Unterkeule, Fleisch und Haut mit Panade",
+  "pt": "Fast food, frango frito, coxa, carne e pele com empanado"
+ },
+ "5643": {
+  "it": "Fast food, pollo fritto, coscia, solo carne, pelle e impanatura rimosse",
+  "fr": "Fast-food, poulet frit, pilon, viande seule, peau et panure retirées",
+  "es": "Comida rápida, pollo frito, muslo, solo carne, sin piel ni empanizado",
+  "de": "Fast Food, Brathähnchen, Unterkeule, nur Fleisch, ohne Haut und Panade",
+  "pt": "Fast food, frango frito, coxa, apenas carne, sem pele nem empanado"
+ },
+ "5644": {
+  "it": "Fast food, pollo fritto, pelle e impanatura di tutti i pezzi",
+  "fr": "Fast-food, poulet frit, peau et panure de tous les morceaux",
+  "es": "Comida rápida, pollo frito, piel y empanizado de todas las piezas",
+  "de": "Fast Food, Brathähnchen, Haut und Panade aller Stücke",
+  "pt": "Fast food, frango frito, pele e empanado de todas as partes"
+ },
+ "5645": {
+  "it": "Fast food, pollo fritto, sovracoscia, carne e pelle e impanatura",
+  "fr": "Fast-food, poulet frit, haut de cuisse, viande et peau et panure",
+  "es": "Comida rápida, pollo frito, contramuslo, carne y piel y empanizado",
+  "de": "Fast Food, Brathähnchen, Oberkeule, Fleisch und Haut mit Panade",
+  "pt": "Fast food, frango frito, sobrecoxa, carne e pele com empanado"
+ },
+ "5646": {
+  "it": "Fast food, pollo fritto, sovracoscia, solo carne, pelle e impanatura rimosse",
+  "fr": "Fast-food, poulet frit, haut de cuisse, viande seule, peau et panure retirées",
+  "es": "Comida rápida, pollo frito, contramuslo, solo carne, sin piel ni empanizado",
+  "de": "Fast Food, Brathähnchen, Oberkeule, nur Fleisch, ohne Haut und Panade",
+  "pt": "Fast food, frango frito, sobrecoxa, apenas carne, sem pele nem empanado"
+ },
+ "5647": {
+  "it": "Fast food, pollo fritto, ala, carne e pelle e impanatura",
+  "fr": "Fast-food, poulet frit, aile, viande et peau et panure",
+  "es": "Comida rápida, pollo frito, ala, carne y piel y empanizado",
+  "de": "Fast Food, Brathähnchen, Flügel, Fleisch und Haut mit Panade",
+  "pt": "Fast food, frango frito, asa, carne e pele com empanado"
+ },
+ "5648": {
+  "it": "Fast food, pollo fritto, ala, solo carne, pelle e impanatura rimosse",
+  "fr": "Fast-food, poulet frit, aile, viande seule, peau et panure retirées",
+  "es": "Comida rápida, pollo frito, ala, solo carne, sin piel ni empanizado",
+  "de": "Fast Food, Brathähnchen, Flügel, nur Fleisch, ohne Haut und Panade",
+  "pt": "Fast food, frango frito, asa, apenas carne, sem pele nem empanado"
+ },
+ "5649": {
+  "it": "Fast food, sandwich di pancake con uovo, formaggio e pancetta",
+  "fr": "Fast-food, sandwich de pancakes avec œuf, fromage et bacon",
+  "es": "Comida rápida, sándwich de tortitas con huevo, queso y beicon",
+  "de": "Fast Food, Pancake-Sandwich mit Ei, Käse und Speck",
+  "pt": "Fast food, sanduíche de panquecas com ovo, queijo e bacon"
+ },
+ "5650": {
+  "it": "Fast food, sandwich di pancake con uovo, formaggio e salsiccia",
+  "fr": "Fast-food, sandwich de pancakes avec œuf, fromage et saucisse",
+  "es": "Comida rápida, sándwich de tortitas con huevo, queso y salchicha",
+  "de": "Fast Food, Pancake-Sandwich mit Ei, Käse und Wurst",
+  "pt": "Fast food, sanduíche de panquecas com ovo, queijo e linguiça"
+ },
+ "5651": {
+  "it": "Fast food, sandwich di pancake con salsiccia",
+  "fr": "Fast-food, sandwich de pancakes avec saucisse",
+  "es": "Comida rápida, sándwich de tortitas con salchicha",
+  "de": "Fast Food, Pancake-Sandwich mit Wurst",
+  "pt": "Fast food, sanduíche de panquecas com linguiça"
+ },
+ "5652": {
+  "it": "Fast food, panino con filetto di pollo alla griglia, con lattuga, pomodoro e salsa spalmabile",
+  "fr": "Fast-food, sandwich au filet de poulet grillé, avec laitue, tomate et tartinade",
+  "es": "Comida rápida, sándwich de filete de pollo a la parrilla, con lechuga, tomate y aderezo",
+  "de": "Fast Food, Sandwich mit gegrilltem Hähnchenfilet, Salat, Tomate und Aufstrich",
+  "pt": "Fast food, sanduíche de filé de frango grelhado, com alface, tomate e pasta"
+ },
+ "5653": {
+  "it": "Fast food, pollo alla griglia in tortilla, con lattuga, formaggio e salsa ranch",
+  "fr": "Fast-food, poulet grillé dans une tortilla, avec laitue, fromage et sauce ranch",
+  "es": "Comida rápida, pollo a la parrilla en tortilla, con lechuga, queso y salsa ranch",
+  "de": "Fast Food, gegrilltes Hähnchen in Tortilla mit Salat, Käse und Ranch-Sauce",
+  "pt": "Fast food, frango grelhado na tortilla, com alface, queijo e molho ranch"
+ },
+ "5654": {
+  "it": "Fast food, sandwich club con pollo alla griglia, pancetta e pomodoro, con formaggio, lattuga e maionese",
+  "fr": "Fast-food, club sandwich au poulet grillé, bacon et tomate, avec fromage, laitue et mayonnaise",
+  "es": "Comida rápida, sándwich club de pollo a la parrilla, beicon y tomate, con queso, lechuga y mayonesa",
+  "de": "Fast Food, Club-Sandwich mit gegrilltem Hähnchen, Speck und Tomate, Käse, Salat und Mayonnaise",
+  "pt": "Fast food, sanduíche club de frango grelhado, bacon e tomate, com queijo, alface e maionese"
+ },
+ "5655": {
+  "it": "Fast food, hamburger grande, singolo, con condimenti",
+  "fr": "Fast-food, hamburger grand, simple, avec condiments",
+  "es": "Comida rápida, hamburguesa grande, sencilla, con condimentos",
+  "de": "Fast Food, großer Hamburger, einfach, mit Würzsaucen",
+  "pt": "Fast food, hambúrguer grande, simples, com condimentos"
+ },
+ "5656": {
+  "it": "Fast food, hamburger doppio, hamburger grande, con condimenti, verdure e maionese",
+  "fr": "Fast-food, hamburger double, gros steak haché, avec condiments, légumes et mayonnaise",
+  "es": "Comida rápida, hamburguesa doble, carne grande, con condimentos, verduras y mayonesa",
+  "de": "Fast Food, doppelter Hamburger mit großem Patty, Würzsaucen, Gemüse und Mayonnaise",
+  "pt": "Fast food, hambúrguer duplo, hambúrguer grande, com condimentos, vegetais e maionese"
+ },
+ "5657": {
+  "it": "Fast food, hamburger singolo, hamburger grande, con condimenti, verdure e maionese",
+  "fr": "Fast-food, hamburger simple, gros steak haché, avec condiments, légumes et mayonnaise",
+  "es": "Comida rápida, hamburguesa sencilla, carne grande, con condimentos, verduras y mayonesa",
+  "de": "Fast Food, einfacher Hamburger mit großem Patty, Würzsaucen, Gemüse und Mayonnaise",
+  "pt": "Fast food, hambúrguer simples, hambúrguer grande, com condimentos, vegetais e maionese"
+ },
+ "5658": {
+  "it": "Fast food, hamburger singolo, hamburger normale, panino a doppio strato, con condimenti e salsa speciale",
+  "fr": "Fast-food, hamburger simple, steak haché classique, pain à deux étages, avec condiments et sauce spéciale",
+  "es": "Comida rápida, hamburguesa sencilla, carne normal, pan de doble piso, con condimentos y salsa especial",
+  "de": "Fast Food, einfacher Hamburger mit normalem Patty, Doppeldecker-Brötchen, Würzsaucen und Spezialsauce",
+  "pt": "Fast food, hambúrguer simples, hambúrguer comum, pão de dois andares, com condimentos e molho especial"
+ },
+ "5659": {
+  "it": "Fast food, hamburger singolo, hamburger normale, semplice",
+  "fr": "Fast-food, hamburger simple, steak haché classique, nature",
+  "es": "Comida rápida, hamburguesa sencilla, carne normal, simple",
+  "de": "Fast Food, einfacher Hamburger mit normalem Patty, pur",
+  "pt": "Fast food, hambúrguer simples, hambúrguer comum, simples"
+ },
+ "5660": {
+  "it": "Fast food, hamburger singolo, hamburger normale, con condimenti",
+  "fr": "Fast-food, hamburger simple, steak haché classique, avec condiments",
+  "es": "Comida rápida, hamburguesa sencilla, carne normal, con condimentos",
+  "de": "Fast Food, einfacher Hamburger mit normalem Patty und Würzsaucen",
+  "pt": "Fast food, hambúrguer simples, hambúrguer comum, com condimentos"
+ },
+ "5661": {
+  "it": "Fast food, frittelle di farina di mais",
+  "fr": "Fast-food, beignets de maïs",
+  "es": "Comida rápida, tortitas de maíz fritas",
+  "de": "Fast Food, Maisküchlein",
+  "pt": "Fast food, bolinhos de milho fritos"
  }
 }
