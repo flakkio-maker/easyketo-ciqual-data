@@ -1,0 +1,2088 @@
+{
+  "8642": {
+    "it": "Salsa dip alla cipolla, normale",
+    "fr": "Dip à l'oignon, classique",
+    "es": "Dip de cebolla, normal",
+    "de": "Zwiebel-Dip, normal",
+    "pt": "Molho dip de cebola, tradicional"
+  },
+  "8643": {
+    "it": "Salsa dip alla cipolla, a base di yogurt",
+    "fr": "Dip à l'oignon, à base de yaourt",
+    "es": "Dip de cebolla, a base de yogur",
+    "de": "Zwiebel-Dip, auf Joghurtbasis",
+    "pt": "Molho dip de cebola, à base de iogurte"
+  },
+  "8644": {
+    "it": "Anelli aromatizzati alla cipolla",
+    "fr": "Anneaux aromatisés à l'oignon",
+    "es": "Aros con sabor a cebolla",
+    "de": "Ringe mit Zwiebelgeschmack",
+    "pt": "Anéis sabor cebola"
+  },
+  "8645": {
+    "it": "Anelli di cipolla, impanati, parzialmente fritti, surgelati, preparati, riscaldati in forno",
+    "fr": "Rondelles d'oignon, panées, pré-frites, surgelées, préparées, réchauffées au four",
+    "es": "Aros de cebolla, empanados, prefritos, congelados, preparados, calentados en el horno",
+    "de": "Zwiebelringe, paniert, vorfrittiert, tiefgekühlt, zubereitet, im Ofen erhitzt",
+    "pt": "Anéis de cebola, empanados, pré-fritos, congelados, preparados, aquecidos no forno"
+  },
+  "8646": {
+    "it": "Anelli di cipolla, impanati, parzialmente fritti, surgelati, non preparati",
+    "fr": "Rondelles d'oignon, panées, pré-frites, surgelées, non préparées",
+    "es": "Aros de cebolla, empanados, prefritos, congelados, sin preparar",
+    "de": "Zwiebelringe, paniert, vorfrittiert, tiefgekühlt, unzubereitet",
+    "pt": "Anéis de cebola, empanados, pré-fritos, congelados, não preparados"
+  },
+  "8647": {
+    "it": "Cipolle, in scatola, solidi e liquidi",
+    "fr": "Oignons, en conserve, solides et liquides",
+    "es": "Cebollas, en conserva, sólidos y líquidos",
+    "de": "Zwiebeln, aus der Dose, feste und flüssige Bestandteile",
+    "pt": "Cebolas, enlatadas, sólidos e líquidos"
+  },
+  "8648": {
+    "it": "Cipolle, cotte, come ingrediente",
+    "fr": "Oignons, cuits, comme ingrédient",
+    "es": "Cebollas, cocidas, como ingrediente",
+    "de": "Zwiebeln, gekocht, als Zutat",
+    "pt": "Cebolas, cozidas, como ingrediente"
+  },
+  "8649": {
+    "it": "Cipolle, cotte, bollite, sgocciolate, con sale",
+    "fr": "Oignons, cuits, bouillis, égouttés, avec sel",
+    "es": "Cebollas, cocidas, hervidas, escurridas, con sal",
+    "de": "Zwiebeln, gekocht, abgetropft, mit Salz",
+    "pt": "Cebolas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "8650": {
+    "it": "Cipolle, cotte, bollite, sgocciolate, senza sale",
+    "fr": "Oignons, cuits, bouillis, égouttés, sans sel",
+    "es": "Cebollas, cocidas, hervidas, escurridas, sin sal",
+    "de": "Zwiebeln, gekocht, abgetropft, ohne Salz",
+    "pt": "Cebolas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "8651": {
+    "it": "Cipolle, cotte, con aggiunta di grassi",
+    "fr": "Oignons, cuits, avec matière grasse ajoutée",
+    "es": "Cebollas, cocidas, con grasa añadida",
+    "de": "Zwiebeln, gekocht, mit Fettzusatz",
+    "pt": "Cebolas, cozidas, com gordura adicionada"
+  },
+  "8652": {
+    "it": "Cipolle, cotte, senza grassi aggiunti",
+    "fr": "Oignons, cuits, sans matière grasse ajoutée",
+    "es": "Cebollas, cocidas, sin grasa añadida",
+    "de": "Zwiebeln, gekocht, ohne Fettzusatz",
+    "pt": "Cebolas, cozidas, sem gordura adicionada"
+  },
+  "8653": {
+    "it": "Cipolle, disidratate, in fiocchi",
+    "fr": "Oignons, déshydratés, en flocons",
+    "es": "Cebollas, deshidratadas, en copos",
+    "de": "Zwiebeln, dehydriert, Flocken",
+    "pt": "Cebolas, desidratadas, em flocos"
+  },
+  "8654": {
+    "it": "Cipolle, per uso nei panini",
+    "fr": "Oignons, pour sandwich",
+    "es": "Cebollas, para usar en sándwiches",
+    "de": "Zwiebeln, als Sandwichbelag",
+    "pt": "Cebolas, para uso em sanduíches"
+  },
+  "8655": {
+    "it": "Cipolle, surgelate, tritate, cotte, bollite, sgocciolate, con sale",
+    "fr": "Oignons, surgelés, hachés, cuits, bouillis, égouttés, avec sel",
+    "es": "Cebollas, congeladas, picadas, cocidas, hervidas, escurridas, con sal",
+    "de": "Zwiebeln, tiefgekühlt, gehackt, gekocht, abgetropft, mit Salz",
+    "pt": "Cebolas, congeladas, picadas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "8656": {
+    "it": "Cipolle, surgelate, tritate, cotte, bollite, sgocciolate, senza sale",
+    "fr": "Oignons, surgelés, hachés, cuits, bouillis, égouttés, sans sel",
+    "es": "Cebollas, congeladas, picadas, cocidas, hervidas, escurridas, sin sal",
+    "de": "Zwiebeln, tiefgekühlt, gehackt, gekocht, abgetropft, ohne Salz",
+    "pt": "Cebolas, congeladas, picadas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "8657": {
+    "it": "Cipolle, surgelate, tritate, non preparate",
+    "fr": "Oignons, surgelés, hachés, non préparés",
+    "es": "Cebollas, congeladas, picadas, sin preparar",
+    "de": "Zwiebeln, tiefgekühlt, gehackt, unzubereitet",
+    "pt": "Cebolas, congeladas, picadas, não preparadas"
+  },
+  "8658": {
+    "it": "Cipolle, surgelate, intere, cotte, bollite, sgocciolate, con sale",
+    "fr": "Oignons, surgelés, entiers, cuits, bouillis, égouttés, avec sel",
+    "es": "Cebollas, congeladas, enteras, cocidas, hervidas, escurridas, con sal",
+    "de": "Zwiebeln, tiefgekühlt, ganz, gekocht, abgetropft, mit Salz",
+    "pt": "Cebolas, congeladas, inteiras, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "8659": {
+    "it": "Cipolle, surgelate, intere, cotte, bollite, sgocciolate, senza sale",
+    "fr": "Oignons, surgelés, entiers, cuits, bouillis, égouttés, sans sel",
+    "es": "Cebollas, congeladas, enteras, cocidas, hervidas, escurridas, sin sal",
+    "de": "Zwiebeln, tiefgekühlt, ganz, gekocht, abgetropft, ohne Salz",
+    "pt": "Cebolas, congeladas, inteiras, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "8660": {
+    "it": "Cipolle, surgelate, intere, non preparate",
+    "fr": "Oignons, surgelés, entiers, non préparés",
+    "es": "Cebollas, congeladas, enteras, sin preparar",
+    "de": "Zwiebeln, tiefgekühlt, ganz, unzubereitet",
+    "pt": "Cebolas, congeladas, inteiras, não preparadas"
+  },
+  "8661": {
+    "it": "Cipollotti, cotti",
+    "fr": "Oignons verts, cuits",
+    "es": "Cebollas verdes, cocidas",
+    "de": "Frühlingszwiebeln, gekocht",
+    "pt": "Cebolinhas, cozidas"
+  },
+  "8662": {
+    "it": "Cipollotti, crudi",
+    "fr": "Oignons verts, crus",
+    "es": "Cebollas verdes, crudas",
+    "de": "Frühlingszwiebeln, roh",
+    "pt": "Cebolinhas, cruas"
+  },
+  "8663": {
+    "it": "Cipolline, cotte",
+    "fr": "Oignons grelots, cuits",
+    "es": "Cebollitas perla, cocidas",
+    "de": "Perlzwiebeln, gekocht",
+    "pt": "Cebolas pérola, cozidas"
+  },
+  "8664": {
+    "it": "Cipolle, crude",
+    "fr": "Oignons, crus",
+    "es": "Cebollas, crudas",
+    "de": "Zwiebeln, roh",
+    "pt": "Cebolas, cruas"
+  },
+  "8665": {
+    "it": "Cipolle, rosse, crude",
+    "fr": "Oignons, rouges, crus",
+    "es": "Cebollas, rojas, crudas",
+    "de": "Zwiebeln, rote, roh",
+    "pt": "Cebolas, roxas, cruas"
+  },
+  "8666": {
+    "it": "Cipollotti o cipolle novelle (con parte verde e bulbo), crudi",
+    "fr": "Oignons nouveaux ou ciboules (avec tiges et bulbe), crus",
+    "es": "Cebollas tiernas o cebolletas (con hojas y bulbo), crudas",
+    "de": "Frühlingszwiebeln (mit Grün und Zwiebel), roh",
+    "pt": "Cebolinhas (com folhas e bulbo), cruas"
+  },
+  "8667": {
+    "it": "Cipolle, dolci, crude",
+    "fr": "Oignons, doux, crus",
+    "es": "Cebollas, dulces, crudas",
+    "de": "Zwiebeln, süße, roh",
+    "pt": "Cebolas, doces, cruas"
+  },
+  "8668": {
+    "it": "Cipolle di Galles (cipollotti giapponesi), crude",
+    "fr": "Oignons gallois (ciboule), crus",
+    "es": "Cebollas galesas (cebolla de rama), crudas",
+    "de": "Winterzwiebeln (Welsh Onion), roh",
+    "pt": "Cebolas galesas (cebolinha japonesa), cruas"
+  },
+  "8669": {
+    "it": "Cipolle, bianche, crude",
+    "fr": "Oignons, blancs, crus",
+    "es": "Cebollas, blancas, crudas",
+    "de": "Zwiebeln, weiße, roh",
+    "pt": "Cebolas, brancas, cruas"
+  },
+  "8670": {
+    "it": "Cipolle, gialle, crude",
+    "fr": "Oignons, jaunes, crus",
+    "es": "Cebollas, amarillas, crudas",
+    "de": "Zwiebeln, gelbe, roh",
+    "pt": "Cebolas, amarelas, cruas"
+  },
+  "8671": {
+    "it": "Cipolle, gialle, saltate in padella",
+    "fr": "Oignons, jaunes, sautés",
+    "es": "Cebollas, amarillas, salteadas",
+    "de": "Zwiebeln, gelbe, sautiert",
+    "pt": "Cebolas, amarelas, refogadas"
+  },
+  "8672": {
+    "it": "Cipollotti giovani, solo parti verdi",
+    "fr": "Jeunes oignons verts, tiges seulement",
+    "es": "Cebollas verdes tiernas, solo hojas",
+    "de": "Junge Frühlingszwiebeln, nur Grün",
+    "pt": "Cebolinhas jovens, apenas folhas"
+  },
+  "8673": {
+    "it": "Oopah (tunicato), animale intero (nativi dell'Alaska)",
+    "fr": "Oopah (tunicier), animal entier (autochtones d'Alaska)",
+    "es": "Oopah (tunicado), animal entero (nativos de Alaska)",
+    "de": "Oopah (Manteltier), ganzes Tier (Ureinwohner Alaskas)",
+    "pt": "Oopah (tunicado), animal inteiro (nativos do Alasca)"
+  },
+  "8674": {
+    "it": "Opossum",
+    "fr": "Opossum",
+    "es": "Zarigüeya",
+    "de": "Opossum",
+    "pt": "Gambá"
+  },
+  "8675": {
+    "it": "Orange Blossom (cocktail)",
+    "fr": "Orange Blossom (cocktail)",
+    "es": "Orange Blossom (cóctel)",
+    "de": "Orange Blossom (Cocktail)",
+    "pt": "Orange Blossom (coquetel)"
+  },
+  "8676": {
+    "it": "Pollo all'arancia",
+    "fr": "Poulet à l'orange",
+    "es": "Pollo a la naranja",
+    "de": "Orangenhähnchen",
+    "pt": "Frango à laranja"
+  },
+  "8677": {
+    "it": "Bevanda all'arancia, 40-50% di succo, light",
+    "fr": "Boisson à l'orange, 40-50% de jus, allégée",
+    "es": "Bebida de naranja, 40-50% de zumo, light",
+    "de": "Orangensaftgetränk, 40-50% Saftanteil, leicht",
+    "pt": "Bebida de suco de laranja, 40-50% de suco, light"
+  },
+  "8678": {
+    "it": "Succo d'arancia, 100%, in scatola, in bottiglia o in cartone",
+    "fr": "Jus d'orange, 100%, en conserve, en bouteille ou en carton",
+    "es": "Zumo de naranja, 100%, en conserva, embotellado o en cartón",
+    "de": "Orangensaft, 100%, aus der Dose, in der Flasche oder im Karton",
+    "pt": "Suco de laranja, 100%, enlatado, engarrafado ou em caixinha"
+  },
+  "8679": {
+    "it": "Succo d'arancia, 100%, appena spremuto",
+    "fr": "Jus d'orange, 100%, fraîchement pressé",
+    "es": "Zumo de naranja, 100%, recién exprimido",
+    "de": "Orangensaft, 100%, frisch gepresst",
+    "pt": "Suco de laranja, 100%, recém-espremido"
+  },
+  "8680": {
+    "it": "Succo d'arancia, 100%, surgelato, non ricostituito",
+    "fr": "Jus d'orange, 100%, surgelé, non reconstitué",
+    "es": "Zumo de naranja, 100%, congelado, sin reconstituir",
+    "de": "Orangensaft, 100%, tiefgekühlt, nicht rekonstituiert",
+    "pt": "Suco de laranja, 100%, congelado, não reconstituído"
+  },
+  "8681": {
+    "it": "Succo d'arancia, 100%, surgelato, ricostituito",
+    "fr": "Jus d'orange, 100%, surgelé, reconstitué",
+    "es": "Zumo de naranja, 100%, congelado, reconstituido",
+    "de": "Orangensaft, 100%, tiefgekühlt, rekonstituiert",
+    "pt": "Suco de laranja, 100%, congelado, reconstituído"
+  },
+  "8682": {
+    "it": "Succo d'arancia, 100%, non specificato",
+    "fr": "Jus d'orange, 100%, non spécifié",
+    "es": "Zumo de naranja, 100%, no especificado",
+    "de": "Orangensaft, 100%, nicht näher bezeichnet",
+    "pt": "Suco de laranja, 100%, não especificado"
+  },
+  "8683": {
+    "it": "Succo d'arancia, 100%, con aggiunta di calcio, in scatola, in bottiglia o in cartone",
+    "fr": "Jus d'orange, 100%, avec calcium ajouté, en conserve, en bouteille ou en carton",
+    "es": "Zumo de naranja, 100%, con calcio añadido, en conserva, embotellado o en cartón",
+    "de": "Orangensaft, 100%, mit Calciumzusatz, aus der Dose, in der Flasche oder im Karton",
+    "pt": "Suco de laranja, 100%, com cálcio adicionado, enlatado, engarrafado ou em caixinha"
+  },
+  "8684": {
+    "it": "Succo d'arancia, 100%, con aggiunta di calcio, surgelato, ricostituito",
+    "fr": "Jus d'orange, 100%, avec calcium ajouté, surgelé, reconstitué",
+    "es": "Zumo de naranja, 100%, con calcio añadido, congelado, reconstituido",
+    "de": "Orangensaft, 100%, mit Calciumzusatz, tiefgekühlt, rekonstituiert",
+    "pt": "Suco de laranja, 100%, com cálcio adicionado, congelado, reconstituído"
+  },
+  "8685": {
+    "it": "Succo d'arancia, in scatola, non zuccherato",
+    "fr": "Jus d'orange, en conserve, non sucré",
+    "es": "Zumo de naranja, en conserva, sin azúcar",
+    "de": "Orangensaft, aus der Dose, ungezuckert",
+    "pt": "Suco de laranja, enlatado, sem açúcar"
+  },
+  "8686": {
+    "it": "Succo d'arancia, refrigerato, incluso da concentrato",
+    "fr": "Jus d'orange, réfrigéré, y compris à base de concentré",
+    "es": "Zumo de naranja, refrigerado, incluye de concentrado",
+    "de": "Orangensaft, gekühlt, einschließlich aus Konzentrat",
+    "pt": "Suco de laranja, refrigerado, inclui de concentrado"
+  },
+  "8687": {
+    "it": "Succo d'arancia, refrigerato, incluso da concentrato, con aggiunta di calcio",
+    "fr": "Jus d'orange, réfrigéré, y compris à base de concentré, avec calcium ajouté",
+    "es": "Zumo de naranja, refrigerado, incluye de concentrado, con calcio añadido",
+    "de": "Orangensaft, gekühlt, einschließlich aus Konzentrat, mit Calciumzusatz",
+    "pt": "Suco de laranja, refrigerado, inclui de concentrado, com cálcio adicionado"
+  },
+  "8688": {
+    "it": "Succo d'arancia, refrigerato, incluso da concentrato, con aggiunta di calcio e vitamina D",
+    "fr": "Jus d'orange, réfrigéré, y compris à base de concentré, avec calcium et vitamine D ajoutés",
+    "es": "Zumo de naranja, refrigerado, incluye de concentrado, con calcio y vitamina D añadidos",
+    "de": "Orangensaft, gekühlt, einschließlich aus Konzentrat, mit Zusatz von Calcium und Vitamin D",
+    "pt": "Suco de laranja, refrigerado, inclui de concentrado, com cálcio e vitamina D adicionados"
+  },
+  "8689": {
+    "it": "Succo d'arancia, refrigerato, incluso da concentrato, con aggiunta di calcio e vitamine A, D, E",
+    "fr": "Jus d'orange, réfrigéré, y compris à base de concentré, avec calcium et vitamines A, D, E ajoutés",
+    "es": "Zumo de naranja, refrigerado, incluye de concentrado, con calcio y vitaminas A, D, E añadidos",
+    "de": "Orangensaft, gekühlt, einschließlich aus Konzentrat, mit Zusatz von Calcium und den Vitaminen A, D, E",
+    "pt": "Suco de laranja, refrigerado, inclui de concentrado, com cálcio e vitaminas A, D, E adicionados"
+  },
+  "8690": {
+    "it": "Succo d'arancia, concentrato surgelato, non zuccherato, diluito con 3 volumi di acqua",
+    "fr": "Jus d'orange, concentré surgelé, non sucré, dilué avec 3 volumes d'eau",
+    "es": "Zumo de naranja, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua",
+    "de": "Orangensaft, Konzentrat, tiefgekühlt, ungezuckert, mit 3 Volumenteilen Wasser verdünnt",
+    "pt": "Suco de laranja, concentrado congelado, sem açúcar, diluído com 3 volumes de água"
+  },
+  "8691": {
+    "it": "Succo d'arancia, concentrato surgelato, non zuccherato, diluito con 3 volumi di acqua, con aggiunta di calcio",
+    "fr": "Jus d'orange, concentré surgelé, non sucré, dilué avec 3 volumes d'eau, avec calcium ajouté",
+    "es": "Zumo de naranja, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua, con calcio añadido",
+    "de": "Orangensaft, Konzentrat, tiefgekühlt, ungezuckert, mit 3 Volumenteilen Wasser verdünnt, mit Calciumzusatz",
+    "pt": "Suco de laranja, concentrado congelado, sem açúcar, diluído com 3 volumes de água, com cálcio adicionado"
+  },
+  "8692": {
+    "it": "Succo d'arancia, concentrato surgelato, non zuccherato, non diluito",
+    "fr": "Jus d'orange, concentré surgelé, non sucré, non dilué",
+    "es": "Zumo de naranja, concentrado congelado, sin azúcar, sin diluir",
+    "de": "Orangensaft, Konzentrat, tiefgekühlt, ungezuckert, unverdünnt",
+    "pt": "Suco de laranja, concentrado congelado, sem açúcar, não diluído"
+  },
+  "8693": {
+    "it": "Succo d'arancia, concentrato surgelato, non zuccherato, non diluito, con aggiunta di calcio",
+    "fr": "Jus d'orange, concentré surgelé, non sucré, non dilué, avec calcium ajouté",
+    "es": "Zumo de naranja, concentrado congelado, sin azúcar, sin diluir, con calcio añadido",
+    "de": "Orangensaft, Konzentrat, tiefgekühlt, ungezuckert, unverdünnt, mit Calciumzusatz",
+    "pt": "Suco de laranja, concentrado congelado, sem açúcar, não diluído, com cálcio adicionado"
+  },
+  "8694": {
+    "it": "Succo d'arancia, senza polpa, non fortificato, da concentrato, refrigerato",
+    "fr": "Jus d'orange, sans pulpe, non fortifié, à base de concentré, réfrigéré",
+    "es": "Zumo de naranja, sin pulpa, no fortificado, de concentrado, refrigerado",
+    "de": "Orangensaft, ohne Fruchtfleisch, nicht angereichert, aus Konzentrat, gekühlt",
+    "pt": "Suco de laranja, sem polpa, não fortificado, de concentrado, refrigerado"
+  },
+  "8695": {
+    "it": "Succo d'arancia, senza polpa, non fortificato, non da concentrato, refrigerato",
+    "fr": "Jus d'orange, sans pulpe, non fortifié, non à base de concentré, réfrigéré",
+    "es": "Zumo de naranja, sin pulpa, no fortificado, no de concentrado, refrigerado",
+    "de": "Orangensaft, ohne Fruchtfleisch, nicht angereichert, nicht aus Konzentrat, gekühlt",
+    "pt": "Suco de laranja, sem polpa, não fortificado, não de concentrado, refrigerado"
+  },
+  "8696": {
+    "it": "Succo d'arancia, crudo (include alimenti del Programma di distribuzione alimentare dell'USDA)",
+    "fr": "Jus d'orange, cru (inclut les aliments du programme de distribution alimentaire de l'USDA)",
+    "es": "Zumo de naranja, crudo (incluye alimentos del Programa de Distribución de Alimentos del USDA)",
+    "de": "Orangensaft, roh (einschließlich Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+    "pt": "Suco de laranja, cru (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+  },
+  "8697": {
+    "it": "Scorza d'arancia, cruda",
+    "fr": "Zeste d'orange, cru",
+    "es": "Cáscara de naranja, cruda",
+    "de": "Orangenschale, roh",
+    "pt": "Casca de laranja, crua"
+  },
+  "8698": {
+    "it": "Succo misto di arancia e ananas",
+    "fr": "Mélange de jus d'orange et d'ananas",
+    "es": "Mezcla de zumo de naranja y piña",
+    "de": "Orangen-Ananas-Saftmischung",
+    "pt": "Mistura de suco de laranja e abacaxi"
+  },
+  "8699": {
+    "it": "Arancia, in scatola, in sciroppo",
+    "fr": "Orange, en conserve, au sirop",
+    "es": "Naranja, en conserva, en almíbar",
+    "de": "Orange, aus der Dose, in Sirup",
+    "pt": "Laranja, enlatada, em calda"
+  },
+  "8700": {
+    "it": "Arancia, in scatola, nel proprio succo",
+    "fr": "Orange, en conserve, au jus",
+    "es": "Naranja, en conserva, en su jugo",
+    "de": "Orange, aus der Dose, im eigenen Saft",
+    "pt": "Laranja, enlatada, no próprio suco"
+  },
+  "8701": {
+    "it": "Arancia, in scatola, non specificato",
+    "fr": "Orange, en conserve, non spécifié",
+    "es": "Naranja, en conserva, no especificado",
+    "de": "Orange, aus der Dose, nicht näher bezeichnet",
+    "pt": "Laranja, enlatada, não especificado"
+  },
+  "8702": {
+    "it": "Arancia, cruda",
+    "fr": "Orange, crue",
+    "es": "Naranja, cruda",
+    "de": "Orange, roh",
+    "pt": "Laranja, crua"
+  },
+  "8703": {
+    "it": "Succo di arancia e pompelmo, in scatola o in bottiglia, non zuccherato",
+    "fr": "Jus d'orange et de pamplemousse, en conserve ou en bouteille, non sucré",
+    "es": "Zumo de naranja y pomelo, en conserva o embotellado, sin azúcar",
+    "de": "Orangen-Grapefruitsaft, aus der Dose oder in der Flasche, ungezuckert",
+    "pt": "Suco de laranja e toranja, enlatado ou engarrafado, sem açúcar"
+  },
+  "8704": {
+    "it": "Arance, crude, tutte le varietà commerciali",
+    "fr": "Oranges, crues, toutes variétés commerciales",
+    "es": "Naranjas, crudas, todas las variedades comerciales",
+    "de": "Orangen, roh, alle handelsüblichen Sorten",
+    "pt": "Laranjas, cruas, todas as variedades comerciais"
+  },
+  "8705": {
+    "it": "Arance, crude, California, Valencia",
+    "fr": "Oranges, crues, Californie, Valencia",
+    "es": "Naranjas, crudas, California, Valencia",
+    "de": "Orangen, roh, Kalifornien, Valencia",
+    "pt": "Laranjas, cruas, Califórnia, Valência"
+  },
+  "8706": {
+    "it": "Arance, crude, Florida",
+    "fr": "Oranges, crues, Floride",
+    "es": "Naranjas, crudas, Florida",
+    "de": "Orangen, roh, Florida",
+    "pt": "Laranjas, cruas, Flórida"
+  },
+  "8707": {
+    "it": "Arance, crude, navel",
+    "fr": "Oranges, crues, navel",
+    "es": "Naranjas, crudas, navel",
+    "de": "Orangen, roh, Navel",
+    "pt": "Laranjas, cruas, navel"
+  },
+  "8708": {
+    "it": "Arance, crude, navel (include alimenti del Programma di distribuzione alimentare dell'USDA)",
+    "fr": "Oranges, crues, navel (inclut les aliments du programme de distribution alimentaire de l'USDA)",
+    "es": "Naranjas, crudas, navel (incluye alimentos del Programa de Distribución de Alimentos del USDA)",
+    "de": "Orangen, roh, Navel (einschließlich Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+    "pt": "Laranjas, cruas, navel (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+  },
+  "8709": {
+    "it": "Arance, crude, con buccia",
+    "fr": "Oranges, crues, avec peau",
+    "es": "Naranjas, crudas, con piel",
+    "de": "Orangen, roh, mit Schale",
+    "pt": "Laranjas, cruas, com casca"
+  },
+  "8710": {
+    "it": "Oscar Mayer, Mortadella (manzo)",
+    "fr": "Oscar Mayer, Mortadelle (bœuf)",
+    "es": "Oscar Mayer, Mortadela (vacuno)",
+    "de": "Oscar Mayer, Bologna (Rind)",
+    "pt": "Oscar Mayer, Mortadela (carne bovina)"
+  },
+  "8711": {
+    "it": "Oscar Mayer, Braunschweiger, salsiccia di fegato (a fette)",
+    "fr": "Oscar Mayer, Braunschweiger, saucisse de foie (tranchée)",
+    "es": "Oscar Mayer, Braunschweiger, salchicha de hígado (en lonchas)",
+    "de": "Oscar Mayer, Braunschweiger Leberwurst (in Scheiben)",
+    "pt": "Oscar Mayer, Braunschweiger, salsicha de fígado (fatiada)"
+  },
+  "8712": {
+    "it": "Oscar Mayer, Petto di pollo (glassato al miele)",
+    "fr": "Oscar Mayer, Blanc de poulet (glacé au miel)",
+    "es": "Oscar Mayer, Pechuga de pollo (glaseada con miel)",
+    "de": "Oscar Mayer, Hähnchenbrust (mit Honigglasur)",
+    "pt": "Oscar Mayer, Peito de frango (glaceado com mel)"
+  },
+  "8713": {
+    "it": "Oscar Mayer, Prosciutto (tritato con succo naturale)",
+    "fr": "Oscar Mayer, Jambon (haché avec jus naturel)",
+    "es": "Oscar Mayer, Jamón (picado con jugo natural)",
+    "de": "Oscar Mayer, Schinken (gehackt, mit natürlichem Saft)",
+    "pt": "Oscar Mayer, Presunto (picado com suco natural)"
+  },
+  "8714": {
+    "it": "Oscar Mayer, Salame (secco)",
+    "fr": "Oscar Mayer, Salami (sec)",
+    "es": "Oscar Mayer, Salami (duro)",
+    "de": "Oscar Mayer, Salami (Hartwurst)",
+    "pt": "Oscar Mayer, Salame (duro)"
+  },
+  "8715": {
+    "it": "Oscar Mayer, Salsiccia Smokies Little Cheese (maiale, tacchino)",
+    "fr": "Oscar Mayer, Saucisse Smokies Little Cheese (porc, dinde)",
+    "es": "Oscar Mayer, Salchicha Smokies Little Cheese (cerdo, pavo)",
+    "de": "Oscar Mayer, Wurst Smokies Little Cheese (Schwein, Pute)",
+    "pt": "Oscar Mayer, Salsicha Smokies Little Cheese (carne suína, peru)"
+  },
+  "8716": {
+    "it": "Oscar Mayer, Wurstel (frankfurter di manzo)",
+    "fr": "Oscar Mayer, Saucisses de Francfort (bœuf)",
+    "es": "Oscar Mayer, Salchichas Frankfurt (de vacuno)",
+    "de": "Oscar Mayer, Wiener Würstchen (Rindfleisch-Frankfurter)",
+    "pt": "Oscar Mayer, Salsichas vienenses (de carne bovina)"
+  },
+  "8717": {
+    "it": "Struzzo",
+    "fr": "Autruche",
+    "es": "Avestruz",
+    "de": "Strauß",
+    "pt": "Avestruz"
+  },
+  "8718": {
+    "it": "Struzzo, fan, crudo",
+    "fr": "Autruche, fan, crue",
+    "es": "Avestruz, fan, crudo",
+    "de": "Strauß, Fan, roh",
+    "pt": "Avestruz, fan, cru"
+  },
+  "8719": {
+    "it": "Struzzo, macinato, cotto, in padella",
+    "fr": "Autruche, hachée, cuite, poêlée",
+    "es": "Avestruz, picado, cocido, a la plancha",
+    "de": "Strauß, Hack-, gekocht, in der Pfanne gebraten",
+    "pt": "Avestruz, moído, cozido, grelhado na frigideira"
+  },
+  "8720": {
+    "it": "Struzzo, macinato, crudo",
+    "fr": "Autruche, hachée, crue",
+    "es": "Avestruz, picado, crudo",
+    "de": "Strauß, Hack-, roh",
+    "pt": "Avestruz, moído, cru"
+  },
+  "8721": {
+    "it": "Struzzo, coscia interna, cotta",
+    "fr": "Autruche, cuisse interne, cuite",
+    "es": "Avestruz, muslo interno, cocido",
+    "de": "Strauß, Innenkeule, gekocht",
+    "pt": "Avestruz, coxa interna, cozida"
+  },
+  "8722": {
+    "it": "Struzzo, coscia interna, cruda",
+    "fr": "Autruche, cuisse interne, crue",
+    "es": "Avestruz, muslo interno, crudo",
+    "de": "Strauß, Innenkeule, roh",
+    "pt": "Avestruz, coxa interna, crua"
+  },
+  "8723": {
+    "it": "Struzzo, striscia interna, cotta",
+    "fr": "Autruche, bande intérieure, cuite",
+    "es": "Avestruz, tira interna, cocido",
+    "de": "Strauß, Innenstreifen, gekocht",
+    "pt": "Avestruz, tira interna, cozida"
+  },
+  "8724": {
+    "it": "Struzzo, striscia interna, cruda",
+    "fr": "Autruche, bande intérieure, crue",
+    "es": "Avestruz, tira interna, crudo",
+    "de": "Strauß, Innenstreifen, roh",
+    "pt": "Avestruz, tira interna, crua"
+  },
+  "8725": {
+    "it": "Struzzo, coscia esterna, cruda",
+    "fr": "Autruche, cuisse externe, crue",
+    "es": "Avestruz, muslo externo, crudo",
+    "de": "Strauß, Außenkeule, roh",
+    "pt": "Avestruz, coxa externa, crua"
+  },
+  "8726": {
+    "it": "Struzzo, striscia esterna, cotta",
+    "fr": "Autruche, bande extérieure, cuite",
+    "es": "Avestruz, tira externa, cocido",
+    "de": "Strauß, Außenstreifen, gekocht",
+    "pt": "Avestruz, tira externa, cozida"
+  },
+  "8727": {
+    "it": "Struzzo, striscia esterna, cruda",
+    "fr": "Autruche, bande extérieure, crue",
+    "es": "Avestruz, tira externa, crudo",
+    "de": "Strauß, Außenstreifen, roh",
+    "pt": "Avestruz, tira externa, crua"
+  },
+  "8728": {
+    "it": "Struzzo, ostrica (taglio), cotta",
+    "fr": "Autruche, huître (morceau), cuite",
+    "es": "Avestruz, ostra (corte), cocido",
+    "de": "Strauß, Oyster (Teilstück), gekocht",
+    "pt": "Avestruz, ostra (corte), cozida"
+  },
+  "8729": {
+    "it": "Struzzo, ostrica (taglio), cruda",
+    "fr": "Autruche, huître (morceau), crue",
+    "es": "Avestruz, ostra (corte), crudo",
+    "de": "Strauß, Oyster (Teilstück), roh",
+    "pt": "Avestruz, ostra (corte), crua"
+  },
+  "8730": {
+    "it": "Struzzo, girello, crudo",
+    "fr": "Autruche, rond, cru",
+    "es": "Avestruz, redondo, crudo",
+    "de": "Strauß, Rundstück, roh",
+    "pt": "Avestruz, coxão, cru"
+  },
+  "8731": {
+    "it": "Struzzo, filetto, crudo",
+    "fr": "Autruche, filet, cru",
+    "es": "Avestruz, solomillo, crudo",
+    "de": "Strauß, Filet, roh",
+    "pt": "Avestruz, filé-mignon, cru"
+  },
+  "8732": {
+    "it": "Struzzo, punta rifilata, cotta",
+    "fr": "Autruche, pointe parée, cuite",
+    "es": "Avestruz, punta recortada, cocido",
+    "de": "Strauß, Spitze, pariert, gekocht",
+    "pt": "Avestruz, ponta aparada, cozida"
+  },
+  "8733": {
+    "it": "Struzzo, punta rifilata, cruda",
+    "fr": "Autruche, pointe parée, crue",
+    "es": "Avestruz, punta recortada, crudo",
+    "de": "Strauß, Spitze, pariert, roh",
+    "pt": "Avestruz, ponta aparada, crua"
+  },
+  "8734": {
+    "it": "Struzzo, lombata, cotta",
+    "fr": "Autruche, longe, cuite",
+    "es": "Avestruz, lomo alto, cocido",
+    "de": "Strauß, Oberes Lendenstück, gekocht",
+    "pt": "Avestruz, contrafilé, cozido"
+  },
+  "8735": {
+    "it": "Struzzo, lombata, cruda",
+    "fr": "Autruche, longe, crue",
+    "es": "Avestruz, lomo alto, crudo",
+    "de": "Strauß, Oberes Lendenstück, roh",
+    "pt": "Avestruz, contrafilé, cru"
+  },
+  "8736": {
+    "it": "Altre verdure come ingrediente nella frittata",
+    "fr": "Autres légumes comme ingrédient d'omelette",
+    "es": "Otras verduras como ingrediente en tortilla",
+    "de": "Anderes Gemüse als Zutat im Omelett",
+    "pt": "Outros legumes como ingrediente em omelete"
+  },
+  "8737": {
+    "it": "Gufo, cornuto, carne, crudo (nativi dell'Alaska)",
+    "fr": "Hibou, à cornes, chair, cru (autochtones d'Alaska)",
+    "es": "Búho, cornudo, carne, crudo (nativos de Alaska)",
+    "de": "Eule, gehörnt, Fleisch, roh (Ureinwohner Alaskas)",
+    "pt": "Coruja, com chifres, carne, crua (nativos do Alasca)"
+  },
+  "8738": {
+    "it": "Salsa di ostriche",
+    "fr": "Sauce aux huîtres",
+    "es": "Salsa de ostras",
+    "de": "Austernsauce",
+    "pt": "Molho de ostras"
+  },
+  "8739": {
+    "it": "Ostriche Rockefeller",
+    "fr": "Huîtres Rockefeller",
+    "es": "Ostras Rockefeller",
+    "de": "Austern Rockefeller",
+    "pt": "Ostras Rockefeller"
+  },
+  "8740": {
+    "it": "Ostriche, al forno o alla griglia",
+    "fr": "Huîtres, cuites au four ou grillées",
+    "es": "Ostras, al horno o a la parrilla",
+    "de": "Austern, gebacken oder gegrillt",
+    "pt": "Ostras, assadas no forno ou grelhadas"
+  },
+  "8741": {
+    "it": "Ostriche, in scatola",
+    "fr": "Huîtres, en conserve",
+    "es": "Ostras, en conserva",
+    "de": "Austern, aus der Dose",
+    "pt": "Ostras, enlatadas"
+  },
+  "8742": {
+    "it": "Ostriche, fritte",
+    "fr": "Huîtres, frites",
+    "es": "Ostras, fritas",
+    "de": "Austern, frittiert",
+    "pt": "Ostras, fritas"
+  },
+  "8743": {
+    "it": "Ostriche, crude",
+    "fr": "Huîtres, crues",
+    "es": "Ostras, crudas",
+    "de": "Austern, roh",
+    "pt": "Ostras, cruas"
+  },
+  "8744": {
+    "it": "Ostriche, al vapore",
+    "fr": "Huîtres, cuites à la vapeur",
+    "es": "Ostras, al vapor",
+    "de": "Austern, gedämpft",
+    "pt": "Ostras, cozidas no vapor"
+  },
+  "8745": {
+    "it": "Pad Thai con pollo",
+    "fr": "Pad thaï au poulet",
+    "es": "Pad Thai con pollo",
+    "de": "Pad Thai mit Hähnchen",
+    "pt": "Pad Thai com frango"
+  },
+  "8746": {
+    "it": "Pad Thai con carne",
+    "fr": "Pad thaï à la viande",
+    "es": "Pad Thai con carne",
+    "de": "Pad Thai mit Fleisch",
+    "pt": "Pad Thai com carne"
+  },
+  "8747": {
+    "it": "Pad Thai con frutti di mare",
+    "fr": "Pad thaï aux fruits de mer",
+    "es": "Pad Thai con mariscos",
+    "de": "Pad Thai mit Meeresfrüchten",
+    "pt": "Pad Thai com frutos do mar"
+  },
+  "8748": {
+    "it": "Pad Thai, senza carne",
+    "fr": "Pad thaï, sans viande",
+    "es": "Pad Thai, sin carne",
+    "de": "Pad Thai, fleischlos",
+    "pt": "Pad Thai, sem carne"
+  },
+  "8749": {
+    "it": "Pad Thai, non specificato",
+    "fr": "Pad thaï, non spécifié",
+    "es": "Pad Thai, no especificado",
+    "de": "Pad Thai, nicht näher bezeichnet",
+    "pt": "Pad Thai, não especificado"
+  },
+  "8750": {
+    "it": "Paella con frutti di mare",
+    "fr": "Paella aux fruits de mer",
+    "es": "Paella con mariscos",
+    "de": "Paella mit Meeresfrüchten",
+    "pt": "Paella com frutos do mar"
+  },
+  "8751": {
+    "it": "Paella, non specificato",
+    "fr": "Paella, non spécifié",
+    "es": "Paella, no especificado",
+    "de": "Paella, nicht näher bezeichnet",
+    "pt": "Paella, não especificado"
+  },
+  "8752": {
+    "it": "Pakora (frittelle speziate indiane)",
+    "fr": "Pakora (beignets épicés indiens)",
+    "es": "Pakora (buñuelos especiados indios)",
+    "de": "Pakora (indische gewürzte Frittierteilchen)",
+    "pt": "Pakora (bolinhos fritos indianos)"
+  },
+  "8753": {
+    "it": "Palak paneer (formaggio indiano con spinaci)",
+    "fr": "Palak paneer (fromage indien aux épinards)",
+    "es": "Palak paneer (queso indio con espinacas)",
+    "de": "Palak Paneer (indischer Käse mit Spinat)",
+    "pt": "Palak paneer (queijo indiano com espinafre)"
+  },
+  "8754": {
+    "it": "Cuori di palma, cotti",
+    "fr": "Cœurs de palmier, cuits",
+    "es": "Palmitos, cocidos",
+    "de": "Palmherzen, gekocht",
+    "pt": "Palmito, cozido"
+  },
+  "8755": {
+    "it": "Pan dulce, La Ricura, Salpora de Arroz con Azucar, simile a un biscotto, contiene farina di frumento e farina di riso",
+    "fr": "Pan dulce, La Ricura, Salpora de Arroz con Azucar, type biscuit, contient de la farine de blé et de la farine de riz",
+    "es": "Pan dulce, La Ricura, Salpora de Arroz con Azucar, tipo galleta, contiene harina de trigo y harina de arroz",
+    "de": "Pan dulce, La Ricura, Salpora de Arroz con Azucar, keksartig, enthält Weizenmehl und Reismehl",
+    "pt": "Pan dulce, La Ricura, Salpora de Arroz con Azucar, semelhante a biscoito, contém farinha de trigo e farinha de arroz"
+  },
+  "8756": {
+    "it": "Pan dulce, non specificato",
+    "fr": "Pan dulce, non spécifié",
+    "es": "Pan dulce, no especificado",
+    "de": "Pan dulce, nicht näher bezeichnet",
+    "pt": "Pan dulce, não especificado"
+  },
+  "8757": {
+    "it": "Pan dulce, senza copertura",
+    "fr": "Pan dulce, sans garniture",
+    "es": "Pan dulce, sin cobertura",
+    "de": "Pan dulce, ohne Belag",
+    "pt": "Pan dulce, sem cobertura"
+  },
+  "8758": {
+    "it": "Pan dulce, con frutta, senza glassa",
+    "fr": "Pan dulce, aux fruits, sans glaçage",
+    "es": "Pan dulce, con fruta, sin glaseado",
+    "de": "Pan dulce, mit Obst, ohne Glasur",
+    "pt": "Pan dulce, com frutas, sem glacê"
+  },
+  "8759": {
+    "it": "Pan dulce, con uvetta e glassa",
+    "fr": "Pan dulce, aux raisins secs et glaçage",
+    "es": "Pan dulce, con pasas y glaseado",
+    "de": "Pan dulce, mit Rosinen und Zuckerguss",
+    "pt": "Pan dulce, com uvas-passas e glacê"
+  },
+  "8760": {
+    "it": "Pan dulce, con copertura di zucchero",
+    "fr": "Pan dulce, avec garniture de sucre",
+    "es": "Pan dulce, con cobertura de azúcar",
+    "de": "Pan dulce, mit Zuckerbelag",
+    "pt": "Pan dulce, com cobertura de açúcar"
+  },
+  "8761": {
+    "it": "Sciroppo per pancake",
+    "fr": "Sirop pour pancakes",
+    "es": "Sirope para panqueques",
+    "de": "Sirup für Pfannkuchen",
+    "pt": "Calda para panqueca"
+  },
+  "8762": {
+    "it": "Sciroppo per pancake, light",
+    "fr": "Sirop pour pancakes, allégé",
+    "es": "Sirope para panqueques, light",
+    "de": "Sirup für Pfannkuchen, leicht",
+    "pt": "Calda para panqueca, light"
+  },
+  "8763": {
+    "it": "Pancake e salsiccia, piatto pronto surgelato",
+    "fr": "Pancakes et saucisse, plat préparé surgelé",
+    "es": "Panqueques y salchicha, comida congelada",
+    "de": "Pfannkuchen und Wurst, Tiefkühlgericht",
+    "pt": "Panquecas e salsicha, refeição congelada"
+  },
+  "8764": {
+    "it": "Pancake, semplici, surgelati, pronti da riscaldare (inclusi quelli al latticello)",
+    "fr": "Pancakes, nature, surgelés, prêts à réchauffer (y compris au babeurre)",
+    "es": "Panqueques, simples, congelados, listos para calentar (incluye los de suero de mantequilla)",
+    "de": "Pfannkuchen, natur, tiefgekühlt, zum Erhitzen fertig (einschließlich Buttermilch)",
+    "pt": "Panquecas, simples, congeladas, prontas para aquecer (inclui as de leitelho)"
+  },
+  "8765": {
+    "it": "Pancake, ai mirtilli, preparati da ricetta",
+    "fr": "Pancakes, aux myrtilles, préparés selon une recette",
+    "es": "Panqueques, de arándanos, preparados a partir de receta",
+    "de": "Pfannkuchen, mit Heidelbeeren, nach Rezept zubereitet",
+    "pt": "Panquecas, de mirtilo, preparadas a partir de receita"
+  },
+  "8766": {
+    "it": "Pancake, di grano saraceno, miscela secca, incompleta",
+    "fr": "Pancakes, de sarrasin, mélange sec, incomplet",
+    "es": "Panqueques, de trigo sarraceno, mezcla seca, incompleta",
+    "de": "Pfannkuchen, Buchweizen, Trockenmischung, unvollständig",
+    "pt": "Panquecas, de trigo-sarraceno, mistura seca, incompleta"
+  },
+  "8767": {
+    "it": "Pancake, al latticello, preparati da ricetta",
+    "fr": "Pancakes, au babeurre, préparés selon une recette",
+    "es": "Panqueques, de suero de mantequilla, preparados a partir de receta",
+    "de": "Pfannkuchen, Buttermilch, nach Rezept zubereitet",
+    "pt": "Panquecas, de leitelho, preparadas a partir de receita"
+  },
+  "8768": {
+    "it": "Pancake, al cioccolato",
+    "fr": "Pancakes, au chocolat",
+    "es": "Panqueques, de chocolate",
+    "de": "Pfannkuchen, Schokolade",
+    "pt": "Panquecas, de chocolate"
+  },
+  "8769": {
+    "it": "Pancake, al cioccolato, fast food / ristorante",
+    "fr": "Pancakes, au chocolat, fast-food / restaurant",
+    "es": "Panqueques, de chocolate, comida rápida / restaurante",
+    "de": "Pfannkuchen, Schokolade, Fast Food / Restaurant",
+    "pt": "Panquecas, de chocolate, fast food / restaurante"
+  },
+  "8770": {
+    "it": "Pancake, al cioccolato, surgelati",
+    "fr": "Pancakes, au chocolat, surgelés",
+    "es": "Panqueques, de chocolate, congelados",
+    "de": "Pfannkuchen, Schokolade, tiefgekühlt",
+    "pt": "Panquecas, de chocolate, congeladas"
+  },
+  "8771": {
+    "it": "Pancake, alla frutta",
+    "fr": "Pancakes, aux fruits",
+    "es": "Panqueques, de frutas",
+    "de": "Pfannkuchen, Obst",
+    "pt": "Panquecas, de frutas"
+  },
+  "8772": {
+    "it": "Pancake, alla frutta, fast food / ristorante",
+    "fr": "Pancakes, aux fruits, fast-food / restaurant",
+    "es": "Panqueques, de frutas, comida rápida / restaurante",
+    "de": "Pfannkuchen, Obst, Fast Food / Restaurant",
+    "pt": "Panquecas, de frutas, fast food / restaurante"
+  },
+  "8773": {
+    "it": "Pancake, alla frutta, surgelati",
+    "fr": "Pancakes, aux fruits, surgelés",
+    "es": "Panqueques, de frutas, congelados",
+    "de": "Pfannkuchen, Obst, tiefgekühlt",
+    "pt": "Panquecas, de frutas, congeladas"
+  },
+  "8774": {
+    "it": "Pancake, senza glutine",
+    "fr": "Pancakes, sans gluten",
+    "es": "Panqueques, sin gluten",
+    "de": "Pfannkuchen, glutenfrei",
+    "pt": "Panquecas, sem glúten"
+  },
+  "8775": {
+    "it": "Pancake, senza glutine, surgelati, pronti da riscaldare",
+    "fr": "Pancakes, sans gluten, surgelés, prêts à réchauffer",
+    "es": "Panqueques, sin gluten, congelados, listos para calentar",
+    "de": "Pfannkuchen, glutenfrei, tiefgekühlt, zum Erhitzen fertig",
+    "pt": "Panquecas, sem glúten, congeladas, prontas para aquecer"
+  },
+  "8776": {
+    "it": "Pancake, non specificato",
+    "fr": "Pancakes, non spécifié",
+    "es": "Panqueques, no especificado",
+    "de": "Pfannkuchen, nicht näher bezeichnet",
+    "pt": "Panquecas, não especificado"
+  },
+  "8777": {
+    "it": "Pancake, semplici",
+    "fr": "Pancakes, nature",
+    "es": "Panqueques, simples",
+    "de": "Pfannkuchen, natur",
+    "pt": "Panquecas, simples"
+  },
+  "8778": {
+    "it": "Pancake, semplici, miscela secca, completa (inclusi quelli al latticello)",
+    "fr": "Pancakes, nature, mélange sec, complet (y compris au babeurre)",
+    "es": "Panqueques, simples, mezcla seca, completa (incluye los de suero de mantequilla)",
+    "de": "Pfannkuchen, natur, Trockenmischung, vollständig (einschließlich Buttermilch)",
+    "pt": "Panquecas, simples, mistura seca, completa (inclui as de leitelho)"
+  },
+  "8779": {
+    "it": "Pancake, semplici, miscela secca, completa, preparati",
+    "fr": "Pancakes, nature, mélange sec, complet, préparés",
+    "es": "Panqueques, simples, mezcla seca, completa, preparados",
+    "de": "Pfannkuchen, natur, Trockenmischung, vollständig, zubereitet",
+    "pt": "Panquecas, simples, mistura seca, completa, preparadas"
+  },
+  "8780": {
+    "it": "Pancake, semplici, miscela secca, incompleta (inclusi quelli al latticello)",
+    "fr": "Pancakes, nature, mélange sec, incomplet (y compris au babeurre)",
+    "es": "Panqueques, simples, mezcla seca, incompleta (incluye los de suero de mantequilla)",
+    "de": "Pfannkuchen, natur, Trockenmischung, unvollständig (einschließlich Buttermilch)",
+    "pt": "Panquecas, simples, mistura seca, incompleta (inclui as de leitelho)"
+  },
+  "8781": {
+    "it": "Pancake, semplici, miscela secca, incompleta, preparati",
+    "fr": "Pancakes, nature, mélange sec, incomplet, préparés",
+    "es": "Panqueques, simples, mezcla seca, incompleta, preparados",
+    "de": "Pfannkuchen, natur, Trockenmischung, unvollständig, zubereitet",
+    "pt": "Panquecas, simples, mistura seca, incompleta, preparadas"
+  },
+  "8782": {
+    "it": "Pancake, semplici, fast food / ristorante",
+    "fr": "Pancakes, nature, fast-food / restaurant",
+    "es": "Panqueques, simples, comida rápida / restaurante",
+    "de": "Pfannkuchen, natur, Fast Food / Restaurant",
+    "pt": "Panquecas, simples, fast food / restaurante"
+  },
+  "8783": {
+    "it": "Pancake, semplici, surgelati",
+    "fr": "Pancakes, nature, surgelés",
+    "es": "Panqueques, simples, congelados",
+    "de": "Pfannkuchen, natur, tiefgekühlt",
+    "pt": "Panquecas, simples, congeladas"
+  },
+  "8784": {
+    "it": "Pancake, semplici, surgelati, pronti da riscaldare, microonde (inclusi quelli al latticello)",
+    "fr": "Pancakes, nature, surgelés, prêts à réchauffer, micro-ondes (y compris au babeurre)",
+    "es": "Panqueques, simples, congelados, listos para calentar, microondas (incluye los de suero de mantequilla)",
+    "de": "Pfannkuchen, natur, tiefgekühlt, zum Erhitzen fertig, Mikrowelle (einschließlich Buttermilch)",
+    "pt": "Panquecas, simples, congeladas, prontas para aquecer, micro-ondas (inclui as de leitelho)"
+  },
+  "8785": {
+    "it": "Pancake, semplici, preparati da ricetta",
+    "fr": "Pancakes, nature, préparés selon une recette",
+    "es": "Panqueques, simples, preparados a partir de receta",
+    "de": "Pfannkuchen, natur, nach Rezept zubereitet",
+    "pt": "Panquecas, simples, preparadas a partir de receita"
+  },
+  "8786": {
+    "it": "Pancake, semplici, a ridotto contenuto di grassi",
+    "fr": "Pancakes, nature, allégés en matières grasses",
+    "es": "Panqueques, simples, reducidos en grasa",
+    "de": "Pfannkuchen, natur, fettreduziert",
+    "pt": "Panquecas, simples, com teor reduzido de gordura"
+  },
+  "8787": {
+    "it": "Pancake, alla zucca",
+    "fr": "Pancakes, à la citrouille",
+    "es": "Panqueques, de calabaza",
+    "de": "Pfannkuchen, Kürbis",
+    "pt": "Panquecas, de abóbora"
+  },
+  "8788": {
+    "it": "Pancake, per mense scolastiche",
+    "fr": "Pancakes, de cantine scolaire",
+    "es": "Panqueques, de comedor escolar",
+    "de": "Pfannkuchen, Schulessen",
+    "pt": "Panquecas, de merenda escolar"
+  },
+  "8789": {
+    "it": "Pancake, per diete speciali, miscela secca",
+    "fr": "Pancakes, pour régimes spéciaux, mélange sec",
+    "es": "Panqueques, para dietas especiales, mezcla seca",
+    "de": "Pfannkuchen, Diätprodukt, Trockenmischung",
+    "pt": "Panquecas, para dietas especiais, mistura seca"
+  },
+  "8790": {
+    "it": "Pancake, integrali",
+    "fr": "Pancakes, complets",
+    "es": "Panqueques, integrales",
+    "de": "Pfannkuchen, Vollkorn",
+    "pt": "Panquecas, integrais"
+  },
+  "8791": {
+    "it": "Pancake, integrali, fast food / ristorante",
+    "fr": "Pancakes, complets, fast-food / restaurant",
+    "es": "Panqueques, integrales, comida rápida / restaurante",
+    "de": "Pfannkuchen, Vollkorn, Fast Food / Restaurant",
+    "pt": "Panquecas, integrais, fast food / restaurante"
+  },
+  "8792": {
+    "it": "Pancake, integrali, surgelati",
+    "fr": "Pancakes, complets, surgelés",
+    "es": "Panqueques, integrales, congelados",
+    "de": "Pfannkuchen, Vollkorn, tiefgekühlt",
+    "pt": "Panquecas, integrais, congeladas"
+  },
+  "8793": {
+    "it": "Pancake, integrali, a ridotto contenuto di grassi",
+    "fr": "Pancakes, complets, allégés en matières grasses",
+    "es": "Panqueques, integrales, reducidos en grasa",
+    "de": "Pfannkuchen, Vollkorn, fettreduziert",
+    "pt": "Panquecas, integrais, com teor reduzido de gordura"
+  },
+  "8794": {
+    "it": "Pancake, di frumento integrale, miscela secca, incompleta",
+    "fr": "Pancakes, de blé complet, mélange sec, incomplet",
+    "es": "Panqueques, de trigo integral, mezcla seca, incompleta",
+    "de": "Pfannkuchen, Vollkornweizen, Trockenmischung, unvollständig",
+    "pt": "Panquecas, de trigo integral, mistura seca, incompleta"
+  },
+  "8795": {
+    "it": "Pancake, di frumento integrale, miscela secca, incompleta",
+    "fr": "Pancakes, de blé complet, mélange sec, incomplet",
+    "es": "Panqueques, de trigo integral, mezcla seca, incompleta",
+    "de": "Pfannkuchen, Vollkornweizen, Trockenmischung, unvollständig",
+    "pt": "Panquecas, de trigo integral, mistura seca, incompleta"
+  },
+  "8796": {
+    "it": "Pancake, di frumento integrale, miscela secca, incompleta, preparati",
+    "fr": "Pancakes, de blé complet, mélange sec, incomplet, préparés",
+    "es": "Panqueques, de trigo integral, mezcla seca, incompleta, preparados",
+    "de": "Pfannkuchen, Vollkornweizen, Trockenmischung, unvollständig, zubereitet",
+    "pt": "Panquecas, de trigo integral, mistura seca, incompleta, preparadas"
+  },
+  "8797": {
+    "it": "Panettone",
+    "fr": "Panettone",
+    "es": "Panettone",
+    "de": "Panettone",
+    "pt": "Panetone"
+  },
+  "8798": {
+    "it": "PAPA JOHN'S 14\" Pizza ai formaggi, base originale",
+    "fr": "PAPA JOHN'S 14\" Pizza au fromage, pâte originale",
+    "es": "PAPA JOHN'S 14\" Pizza de queso, masa original",
+    "de": "PAPA JOHN'S 14\" Käsepizza, Original-Teig",
+    "pt": "PAPA JOHN'S 14\" Pizza de queijo, massa original"
+  },
+  "8799": {
+    "it": "PAPA JOHN'S 14\" Pizza ai formaggi, base sottile",
+    "fr": "PAPA JOHN'S 14\" Pizza au fromage, pâte fine",
+    "es": "PAPA JOHN'S 14\" Pizza de queso, masa fina",
+    "de": "PAPA JOHN'S 14\" Käsepizza, dünner Teig",
+    "pt": "PAPA JOHN'S 14\" Pizza de queijo, massa fina"
+  },
+  "8800": {
+    "it": "PAPA JOHN'S 14\" Pizza al pepperoni, base originale",
+    "fr": "PAPA JOHN'S 14\" Pizza au pepperoni, pâte originale",
+    "es": "PAPA JOHN'S 14\" Pizza de pepperoni, masa original",
+    "de": "PAPA JOHN'S 14\" Pepperoni-Pizza, Original-Teig",
+    "pt": "PAPA JOHN'S 14\" Pizza de pepperoni, massa original"
+  },
+  "8801": {
+    "it": "PAPA JOHN'S 14\" Pizza The Works, base originale",
+    "fr": "PAPA JOHN'S 14\" Pizza The Works, pâte originale",
+    "es": "PAPA JOHN'S 14\" Pizza The Works, masa original",
+    "de": "PAPA JOHN'S 14\" Pizza The Works, Original-Teig",
+    "pt": "PAPA JOHN'S 14\" Pizza The Works, massa original"
+  },
+  "8802": {
+    "it": "Papad (cracker indiano di lenticchie)",
+    "fr": "Papad (galette indienne de lentilles)",
+    "es": "Papad (galleta crujiente india de lentejas)",
+    "de": "Papad (indischer Linsencracker)",
+    "pt": "Papad (biscoito crocante indiano de lentilha)"
+  },
+  "8803": {
+    "it": "Papad (cracker indiano di lenticchie), alla griglia",
+    "fr": "Papad (galette indienne de lentilles), grillé",
+    "es": "Papad (galleta crujiente india de lentejas), a la parrilla",
+    "de": "Papad (indischer Linsencracker), gegrillt",
+    "pt": "Papad (biscoito crocante indiano de lentilha), grelhado"
+  },
+  "8804": {
+    "it": "Succo di papaya, 100%",
+    "fr": "Jus de papaye, 100%",
+    "es": "Zumo de papaya, 100%",
+    "de": "Papayasaft, 100%",
+    "pt": "Suco de mamão, 100%"
+  },
+  "8805": {
+    "it": "Nettare di papaya",
+    "fr": "Nectar de papaye",
+    "es": "Néctar de papaya",
+    "de": "Papayanektar",
+    "pt": "Néctar de mamão"
+  },
+  "8806": {
+    "it": "Nettare di papaya, in scatola",
+    "fr": "Nectar de papaye, en conserve",
+    "es": "Néctar de papaya, en conserva",
+    "de": "Papayanektar, aus der Dose",
+    "pt": "Néctar de mamão, enlatado"
+  },
+  "8807": {
+    "it": "Papaya, in scatola",
+    "fr": "Papaye, en conserve",
+    "es": "Papaya, en conserva",
+    "de": "Papaya, aus der Dose",
+    "pt": "Mamão, enlatado"
+  },
+  "8808": {
+    "it": "Papaya, in scatola, in sciroppo denso, sgocciolata",
+    "fr": "Papaye, en conserve, au sirop épais, égouttée",
+    "es": "Papaya, en conserva, en almíbar espeso, escurrida",
+    "de": "Papaya, aus der Dose, in dickem Sirup, abgetropft",
+    "pt": "Mamão, enlatado, em calda grossa, escorrido"
+  },
+  "8809": {
+    "it": "Papaya, secca",
+    "fr": "Papaye, séchée",
+    "es": "Papaya, seca",
+    "de": "Papaya, getrocknet",
+    "pt": "Mamão, seco"
+  },
+  "8810": {
+    "it": "Papaya, cruda",
+    "fr": "Papaye, crue",
+    "es": "Papaya, cruda",
+    "de": "Papaya, roh",
+    "pt": "Mamão, cru"
+  },
+  "8811": {
+    "it": "Papaie, crude",
+    "fr": "Papayes, crues",
+    "es": "Papayas, crudas",
+    "de": "Papayas, roh",
+    "pt": "Mamões, crus"
+  },
+  "8812": {
+    "it": "Topping al formaggio parmigiano, senza grassi",
+    "fr": "Garniture au parmesan, sans matières grasses",
+    "es": "Cobertura de queso parmesano, sin grasa",
+    "de": "Parmesan-Topping, fettfrei",
+    "pt": "Cobertura de queijo parmesão, sem gordura"
+  },
+  "8813": {
+    "it": "Prezzemolo, liofilizzato",
+    "fr": "Persil, lyophilisé",
+    "es": "Perejil, liofilizado",
+    "de": "Petersilie, gefriergetrocknet",
+    "pt": "Salsa, liofilizada"
+  },
+  "8814": {
+    "it": "Prezzemolo, fresco",
+    "fr": "Persil, frais",
+    "es": "Perejil, fresco",
+    "de": "Petersilie, frisch",
+    "pt": "Salsa, fresca"
+  },
+  "8815": {
+    "it": "Prezzemolo, crudo",
+    "fr": "Persil, cru",
+    "es": "Perejil, crudo",
+    "de": "Petersilie, roh",
+    "pt": "Salsa, crua"
+  },
+  "8816": {
+    "it": "Pastinache, cotte",
+    "fr": "Panais, cuits",
+    "es": "Chirivías, cocidas",
+    "de": "Pastinaken, gekocht",
+    "pt": "Pastinacas, cozidas"
+  },
+  "8817": {
+    "it": "Pastinache, cotte, bollite, sgocciolate, con sale",
+    "fr": "Panais, cuits, bouillis, égouttés, avec sel",
+    "es": "Chirivías, cocidas, hervidas, escurridas, con sal",
+    "de": "Pastinaken, gekocht, abgetropft, mit Salz",
+    "pt": "Pastinacas, cozidas, cozidas em água, escorridas, com sal"
+  },
+  "8818": {
+    "it": "Pastinache, cotte, bollite, sgocciolate, senza sale",
+    "fr": "Panais, cuits, bouillis, égouttés, sans sel",
+    "es": "Chirivías, cocidas, hervidas, escurridas, sin sal",
+    "de": "Pastinaken, gekocht, abgetropft, ohne Salz",
+    "pt": "Pastinacas, cozidas, cozidas em água, escorridas, sem sal"
+  },
+  "8819": {
+    "it": "Pastinache, crude",
+    "fr": "Panais, crus",
+    "es": "Chirivías, crudas",
+    "de": "Pastinaken, roh",
+    "pt": "Pastinacas, cruas"
+  },
+  "8820": {
+    "it": "Succo di frutto della passione, 100%",
+    "fr": "Jus de fruit de la passion, 100%",
+    "es": "Zumo de maracuyá, 100%",
+    "de": "Passionsfruchtsaft, 100%",
+    "pt": "Suco de maracujá, 100%"
+  },
+  "8821": {
+    "it": "Nettare di frutto della passione",
+    "fr": "Nectar de fruit de la passion",
+    "es": "Néctar de maracuyá",
+    "de": "Passionsfruchtnektar",
+    "pt": "Néctar de maracujá"
+  },
+  "8822": {
+    "it": "Frutto della passione, crudo",
+    "fr": "Fruit de la passion, cru",
+    "es": "Maracuyá, crudo",
+    "de": "Passionsfrucht, roh",
+    "pt": "Maracujá, cru"
+  },
+  "8823": {
+    "it": "Succo di frutto della passione, viola, crudo",
+    "fr": "Jus de fruit de la passion, violet, cru",
+    "es": "Zumo de maracuyá, morado, crudo",
+    "de": "Passionsfruchtsaft, violett, roh",
+    "pt": "Suco de maracujá, roxo, cru"
+  },
+  "8824": {
+    "it": "Succo di frutto della passione, giallo, crudo",
+    "fr": "Jus de fruit de la passion, jaune, cru",
+    "es": "Zumo de maracuyá, amarillo, crudo",
+    "de": "Passionsfruchtsaft, gelb, roh",
+    "pt": "Suco de maracujá, amarelo, cru"
+  },
+  "8825": {
+    "it": "Frutto della passione (granadiglia), viola, crudo",
+    "fr": "Fruit de la passion (grenadille), violet, cru",
+    "es": "Maracuyá (granadilla), morado, crudo",
+    "de": "Passionsfrucht (Grenadille), violett, roh",
+    "pt": "Maracujá (granadilla), roxo, cru"
+  },
+  "8826": {
+    "it": "Preparato per pasta, classico al manzo, non preparato",
+    "fr": "Mélange pour pâtes, classique au bœuf, non préparé",
+    "es": "Mezcla para pasta, clásica de carne de res, sin preparar",
+    "de": "Nudelmischung, klassisch mit Rindfleisch, unzubereitet",
+    "pt": "Mistura para massa, clássica de carne bovina, não preparada"
+  },
+  "8827": {
+    "it": "Preparato per pasta, maccheroni cheeseburger classici, non preparato",
+    "fr": "Mélange pour pâtes, macaroni cheeseburger classique, non préparé",
+    "es": "Mezcla para pasta, macarrones cheeseburger clásicos, sin preparar",
+    "de": "Nudelmischung, klassische Cheeseburger-Makkaroni, unzubereitet",
+    "pt": "Mistura para massa, macarrão cheeseburger clássico, não preparada"
+  },
+  "8828": {
+    "it": "Preparato per pasta, lasagne italiane ai quattro formaggi, non preparato",
+    "fr": "Mélange pour pâtes, lasagnes italiennes aux quatre fromages, non préparé",
+    "es": "Mezcla para pasta, lasaña italiana de cuatro quesos, sin preparar",
+    "de": "Nudelmischung, italienische Lasagne mit vier Käsesorten, unzubereitet",
+    "pt": "Mistura para massa, lasanha italiana de quatro queijos, não preparada"
+  },
+  "8829": {
+    "it": "Preparato per pasta, lasagne italiane, non preparato",
+    "fr": "Mélange pour pâtes, lasagnes italiennes, non préparé",
+    "es": "Mezcla para pasta, lasaña italiana, sin preparar",
+    "de": "Nudelmischung, italienische Lasagne, unzubereitet",
+    "pt": "Mistura para massa, lasanha italiana, não preparada"
+  },
+  "8830": {
+    "it": "Pasta con salsa alla panna e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa de crema y verduras añadidas, casera",
+    "de": "Nudeln mit Sahnesauce und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho de creme e legumes adicionados, caseira"
+  },
+  "8831": {
+    "it": "Pasta con salsa alla panna e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sahnesauce und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme e legumes adicionados, pronta para aquecer"
+  },
+  "8832": {
+    "it": "Pasta con salsa alla panna e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à la crème et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa de crema y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sahnesauce und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho de creme e legumes adicionados, de restaurante"
+  },
+  "8833": {
+    "it": "Pasta con salsa alla panna e carne, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème et viande, faites maison",
+    "es": "Pasta con salsa de crema y carne, casera",
+    "de": "Nudeln mit Sahnesauce und Fleisch, hausgemacht",
+    "pt": "Massa com molho de creme e carne, caseira"
+  },
+  "8834": {
+    "it": "Pasta con salsa alla panna e carne, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème et viande, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema y carne, lista para calentar",
+    "de": "Nudeln mit Sahnesauce und Fleisch, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme e carne, pronta para aquecer"
+  },
+  "8835": {
+    "it": "Pasta con salsa alla panna e carne, da ristorante",
+    "fr": "Pâtes avec sauce à la crème et viande, de restaurant",
+    "es": "Pasta con salsa de crema y carne, de restaurante",
+    "de": "Nudeln mit Sahnesauce und Fleisch, aus dem Restaurant",
+    "pt": "Massa com molho de creme e carne, de restaurante"
+  },
+  "8836": {
+    "it": "Pasta con salsa alla panna e pollame, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème et volaille, faites maison",
+    "es": "Pasta con salsa de crema y aves, casera",
+    "de": "Nudeln mit Sahnesauce und Geflügel, hausgemacht",
+    "pt": "Massa com molho de creme e aves, caseira"
+  },
+  "8837": {
+    "it": "Pasta con salsa alla panna e pollame, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème et volaille, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema y aves, lista para calentar",
+    "de": "Nudeln mit Sahnesauce und Geflügel, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme e aves, pronta para aquecer"
+  },
+  "8838": {
+    "it": "Pasta con salsa alla panna e pollame, da ristorante",
+    "fr": "Pâtes avec sauce à la crème et volaille, de restaurant",
+    "es": "Pasta con salsa de crema y aves, de restaurante",
+    "de": "Nudeln mit Sahnesauce und Geflügel, aus dem Restaurant",
+    "pt": "Massa com molho de creme e aves, de restaurante"
+  },
+  "8839": {
+    "it": "Pasta con salsa alla panna e frutti di mare, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème et fruits de mer, faites maison",
+    "es": "Pasta con salsa de crema y mariscos, casera",
+    "de": "Nudeln mit Sahnesauce und Meeresfrüchte, hausgemacht",
+    "pt": "Massa com molho de creme e frutos do mar, caseira"
+  },
+  "8840": {
+    "it": "Pasta con salsa alla panna e frutti di mare, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème et fruits de mer, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema y mariscos, lista para calentar",
+    "de": "Nudeln mit Sahnesauce und Meeresfrüchte, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme e frutos do mar, pronta para aquecer"
+  },
+  "8841": {
+    "it": "Pasta con salsa alla panna e frutti di mare, da ristorante",
+    "fr": "Pâtes avec sauce à la crème et fruits de mer, de restaurant",
+    "es": "Pasta con salsa de crema y mariscos, de restaurante",
+    "de": "Nudeln mit Sahnesauce und Meeresfrüchte, aus dem Restaurant",
+    "pt": "Massa com molho de creme e frutos do mar, de restaurante"
+  },
+  "8842": {
+    "it": "Pasta con salsa alla panna, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème, faites maison",
+    "es": "Pasta con salsa de crema, casera",
+    "de": "Nudeln mit Sahnesauce, hausgemacht",
+    "pt": "Massa com molho de creme, caseira"
+  },
+  "8843": {
+    "it": "Pasta con salsa alla panna, carne e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème, viande et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa de crema, carne y verduras añadidas, casera",
+    "de": "Nudeln mit Sahnesauce, Fleisch und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho de creme, carne e legumes adicionados, caseira"
+  },
+  "8844": {
+    "it": "Pasta con salsa alla panna, carne e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème, viande et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema, carne y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sahnesauce, Fleisch und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme, carne e legumes adicionados, pronta para aquecer"
+  },
+  "8845": {
+    "it": "Pasta con salsa alla panna, carne e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à la crème, viande et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa de crema, carne y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sahnesauce, Fleisch und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho de creme, carne e legumes adicionados, de restaurante"
+  },
+  "8846": {
+    "it": "Pasta con salsa alla panna, pollame e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème, volaille et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa de crema, aves y verduras añadidas, casera",
+    "de": "Nudeln mit Sahnesauce, Geflügel und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho de creme, aves e legumes adicionados, caseira"
+  },
+  "8847": {
+    "it": "Pasta con salsa alla panna, pollame e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème, volaille et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema, aves y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sahnesauce, Geflügel und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme, aves e legumes adicionados, pronta para aquecer"
+  },
+  "8848": {
+    "it": "Pasta con salsa alla panna, pollame e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à la crème, volaille et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa de crema, aves y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sahnesauce, Geflügel und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho de creme, aves e legumes adicionados, de restaurante"
+  },
+  "8849": {
+    "it": "Pasta con salsa alla panna, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema, lista para calentar",
+    "de": "Nudeln mit Sahnesauce, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme, pronta para aquecer"
+  },
+  "8850": {
+    "it": "Pasta con salsa alla panna, da ristorante",
+    "fr": "Pâtes avec sauce à la crème, de restaurant",
+    "es": "Pasta con salsa de crema, de restaurante",
+    "de": "Nudeln mit Sahnesauce, aus dem Restaurant",
+    "pt": "Massa com molho de creme, de restaurante"
+  },
+  "8851": {
+    "it": "Pasta con salsa alla panna, frutti di mare e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à la crème, fruits de mer et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa de crema, mariscos y verduras añadidas, casera",
+    "de": "Nudeln mit Sahnesauce, Meeresfrüchte und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho de creme, frutos do mar e legumes adicionados, caseira"
+  },
+  "8852": {
+    "it": "Pasta con salsa alla panna, frutti di mare e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à la crème, fruits de mer et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa de crema, mariscos y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sahnesauce, Meeresfrüchte und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho de creme, frutos do mar e legumes adicionados, pronta para aquecer"
+  },
+  "8853": {
+    "it": "Pasta con salsa alla panna, frutti di mare e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à la crème, fruits de mer et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa de crema, mariscos y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sahnesauce, Meeresfrüchte und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho de creme, frutos do mar e legumes adicionados, de restaurante"
+  },
+  "8854": {
+    "it": "Pasta con sugo e carne, da pasto scolastico",
+    "fr": "Pâtes avec sauce et viande, de repas scolaire",
+    "es": "Pasta con salsa y carne, de almuerzo escolar",
+    "de": "Nudeln mit Sauce und Fleisch, aus dem Schulessen",
+    "pt": "Massa com molho e carne, de merenda escolar"
+  },
+  "8855": {
+    "it": "Pasta con sugo, senza carne, da pasto scolastico",
+    "fr": "Pâtes avec sauce, sans viande, de repas scolaire",
+    "es": "Pasta con salsa, sin carne, de almuerzo escolar",
+    "de": "Nudeln mit Sauce, fleischlos, aus dem Schulessen",
+    "pt": "Massa com molho, sem carne, de merenda escolar"
+  },
+  "8856": {
+    "it": "Pasta con sugo, non specificato",
+    "fr": "Pâtes avec sauce, non spécifié",
+    "es": "Pasta con salsa, no especificado",
+    "de": "Nudeln mit Sauce, nicht näher bezeichnet",
+    "pt": "Massa com molho, não especificado"
+  },
+  "8857": {
+    "it": "Pasta con wurstel a rondelle in salsa di pomodoro, piatto in scatola",
+    "fr": "Pâtes avec saucisses de Francfort tranchées en sauce tomate, plat en conserve",
+    "es": "Pasta con salchichas Frankfurt en rodajas en salsa de tomate, plato enlatado",
+    "de": "Nudeln mit Wiener Würstchen in Scheiben in Tomatensauce, Dosengericht",
+    "pt": "Massa com salsichas fatiadas ao molho de tomate, prato enlatado"
+  },
+  "8858": {
+    "it": "Pasta con salsa di pomodoro, senza carne, in scatola",
+    "fr": "Pâtes avec sauce tomate, sans viande, en conserve",
+    "es": "Pasta con salsa de tomate, sin carne, en conserva",
+    "de": "Nudeln mit Tomatensauce, fleischlos, aus der Dose",
+    "pt": "Massa com molho de tomate, sem carne, enlatada"
+  },
+  "8859": {
+    "it": "Pasta con salsa a base di pomodoro e fagioli o lenticchie",
+    "fr": "Pâtes avec sauce à base de tomate et haricots ou lentilles",
+    "es": "Pasta con salsa a base de tomate y frijoles o lentejas",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Bohnen oder Linsen",
+    "pt": "Massa com molho à base de tomate e feijão ou lentilhas"
+  },
+  "8860": {
+    "it": "Pasta con salsa a base di pomodoro e formaggio",
+    "fr": "Pâtes avec sauce à base de tomate et fromage",
+    "es": "Pasta con salsa a base de tomate y queso",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Käse",
+    "pt": "Massa com molho à base de tomate e queijo"
+  },
+  "8861": {
+    "it": "Pasta con salsa a base di pomodoro e carne, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate et viande, faites maison",
+    "es": "Pasta con salsa a base de tomate y carne, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Fleisch, hausgemacht",
+    "pt": "Massa com molho à base de tomate e carne, caseira"
+  },
+  "8862": {
+    "it": "Pasta con salsa a base di pomodoro e carne, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate et viande, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate y carne, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Fleisch, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate e carne, pronta para aquecer"
+  },
+  "8863": {
+    "it": "Pasta con salsa a base di pomodoro e carne, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate et viande, de restaurant",
+    "es": "Pasta con salsa a base de tomate y carne, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Fleisch, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate e carne, de restaurante"
+  },
+  "8864": {
+    "it": "Pasta con salsa a base di pomodoro e pollame, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate et volaille, faites maison",
+    "es": "Pasta con salsa a base de tomate y aves, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Geflügel, hausgemacht",
+    "pt": "Massa com molho à base de tomate e aves, caseira"
+  },
+  "8865": {
+    "it": "Pasta con salsa a base di pomodoro e pollame, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate et volaille, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate y aves, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Geflügel, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate e aves, pronta para aquecer"
+  },
+  "8866": {
+    "it": "Pasta con salsa a base di pomodoro e pollame, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate et volaille, de restaurant",
+    "es": "Pasta con salsa a base de tomate y aves, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Geflügel, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate e aves, de restaurante"
+  },
+  "8867": {
+    "it": "Pasta con salsa a base di pomodoro e frutti di mare, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate et fruits de mer, faites maison",
+    "es": "Pasta con salsa a base de tomate y mariscos, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Meeresfrüchte, hausgemacht",
+    "pt": "Massa com molho à base de tomate e frutos do mar, caseira"
+  },
+  "8868": {
+    "it": "Pasta con salsa a base di pomodoro e frutti di mare, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate et fruits de mer, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate y mariscos, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Meeresfrüchte, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate e frutos do mar, pronta para aquecer"
+  },
+  "8869": {
+    "it": "Pasta con salsa a base di pomodoro e frutti di mare, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate et fruits de mer, de restaurant",
+    "es": "Pasta con salsa a base de tomate y mariscos, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und Meeresfrüchte, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate e frutos do mar, de restaurante"
+  },
+  "8870": {
+    "it": "Pasta con salsa a base di pomodoro e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa a base de tomate y verduras añadidas, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho à base de tomate e legumes adicionados, caseira"
+  },
+  "8871": {
+    "it": "Pasta con salsa a base di pomodoro e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate e legumes adicionados, pronta para aquecer"
+  },
+  "8872": {
+    "it": "Pasta con salsa a base di pomodoro e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa a base de tomate y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate e legumes adicionados, de restaurante"
+  },
+  "8873": {
+    "it": "Pasta con salsa a base di pomodoro, formaggio e carne",
+    "fr": "Pâtes avec sauce à base de tomate, fromage et viande",
+    "es": "Pasta con salsa a base de tomate, queso y carne",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Käse und Fleisch",
+    "pt": "Massa com molho à base de tomate, queijo e carne"
+  },
+  "8874": {
+    "it": "Pasta con salsa a base di pomodoro, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate, faites maison",
+    "es": "Pasta con salsa a base de tomate, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, hausgemacht",
+    "pt": "Massa com molho à base de tomate, caseira"
+  },
+  "8875": {
+    "it": "Pasta con salsa a base di pomodoro, carne e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate, viande et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa a base de tomate, carne y verduras añadidas, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho à base de tomate, carne e legumes adicionados, caseira"
+  },
+  "8876": {
+    "it": "Pasta con salsa a base di pomodoro, carne e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate, viande et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate, carne y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate, carne e legumes adicionados, pronta para aquecer"
+  },
+  "8877": {
+    "it": "Pasta con salsa a base di pomodoro, carne e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate, viande et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa a base de tomate, carne y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Fleisch und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate, carne e legumes adicionados, de restaurante"
+  },
+  "8878": {
+    "it": "Pasta con salsa a base di pomodoro, pollame e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate, volaille et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa a base de tomate, aves y verduras añadidas, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho à base de tomate, aves e legumes adicionados, caseira"
+  },
+  "8879": {
+    "it": "Pasta con salsa a base di pomodoro, pollame e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate, volaille et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate, aves y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate, aves e legumes adicionados, pronta para aquecer"
+  },
+  "8880": {
+    "it": "Pasta con salsa a base di pomodoro, pollame e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate, volaille et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa a base de tomate, aves y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Geflügel und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate, aves e legumes adicionados, de restaurante"
+  },
+  "8881": {
+    "it": "Pasta con salsa a base di pomodoro, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate, pronta para aquecer"
+  },
+  "8882": {
+    "it": "Pasta con salsa a base di pomodoro, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate, de restaurant",
+    "es": "Pasta con salsa a base de tomate, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate, de restaurante"
+  },
+  "8883": {
+    "it": "Pasta con salsa a base di pomodoro, frutti di mare e verdure aggiunte, fatta in casa",
+    "fr": "Pâtes avec sauce à base de tomate, fruits de mer et légumes ajoutés, faites maison",
+    "es": "Pasta con salsa a base de tomate, mariscos y verduras añadidas, casera",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Meeresfrüchte und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa com molho à base de tomate, frutos do mar e legumes adicionados, caseira"
+  },
+  "8884": {
+    "it": "Pasta con salsa a base di pomodoro, frutti di mare e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes avec sauce à base de tomate, fruits de mer et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta con salsa a base de tomate, mariscos y verduras añadidas, lista para calentar",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Meeresfrüchte und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa com molho à base de tomate, frutos do mar e legumes adicionados, pronta para aquecer"
+  },
+  "8885": {
+    "it": "Pasta con salsa a base di pomodoro, frutti di mare e verdure aggiunte, da ristorante",
+    "fr": "Pâtes avec sauce à base de tomate, fruits de mer et légumes ajoutés, de restaurant",
+    "es": "Pasta con salsa a base de tomate, mariscos y verduras añadidas, de restaurante",
+    "de": "Nudeln mit Sauce auf Tomatenbasis, Meeresfrüchte und zusätzlichem Gemüse, aus dem Restaurant",
+    "pt": "Massa com molho à base de tomate, frutos do mar e legumes adicionados, de restaurante"
+  },
+  "8886": {
+    "it": "Pasta con verdure, senza salsa né condimento",
+    "fr": "Pâtes aux légumes, sans sauce ni assaisonnement",
+    "es": "Pasta con verduras, sin salsa ni aderezo",
+    "de": "Nudeln mit Gemüse, ohne Sauce oder Dressing",
+    "pt": "Massa com legumes, sem molho ou tempero"
+  },
+  "8887": {
+    "it": "Pasta, cotta",
+    "fr": "Pâtes, cuites",
+    "es": "Pasta, cocida",
+    "de": "Nudeln, gekocht",
+    "pt": "Massa, cozida"
+  },
+  "8888": {
+    "it": "Pasta, cotta, arricchita, con sale aggiunto",
+    "fr": "Pâtes, cuites, enrichies, avec sel ajouté",
+    "es": "Pasta, cocida, enriquecida, con sal añadida",
+    "de": "Nudeln, gekocht, angereichert, mit Salzzusatz",
+    "pt": "Massa, cozida, enriquecida, com sal adicionado"
+  },
+  "8889": {
+    "it": "Pasta, cotta, arricchita, senza sale aggiunto",
+    "fr": "Pâtes, cuites, enrichies, sans sel ajouté",
+    "es": "Pasta, cocida, enriquecida, sin sal añadida",
+    "de": "Nudeln, gekocht, angereichert, ohne Salzzusatz",
+    "pt": "Massa, cozida, enriquecida, sem sal adicionado"
+  },
+  "8890": {
+    "it": "Pasta, cotta, non arricchita, con sale aggiunto",
+    "fr": "Pâtes, cuites, non enrichies, avec sel ajouté",
+    "es": "Pasta, cocida, sin enriquecer, con sal añadida",
+    "de": "Nudeln, gekocht, nicht angereichert, mit Salzzusatz",
+    "pt": "Massa, cozida, não enriquecida, com sal adicionado"
+  },
+  "8891": {
+    "it": "Pasta, cotta, non arricchita, senza sale aggiunto",
+    "fr": "Pâtes, cuites, non enrichies, sans sel ajouté",
+    "es": "Pasta, cocida, sin enriquecer, sin sal añadida",
+    "de": "Nudeln, gekocht, nicht angereichert, ohne Salzzusatz",
+    "pt": "Massa, cozida, não enriquecida, sem sal adicionado"
+  },
+  "8892": {
+    "it": "Pasta, secca, arricchita",
+    "fr": "Pâtes, sèches, enrichies",
+    "es": "Pasta, seca, enriquecida",
+    "de": "Nudeln, getrocknet, angereichert",
+    "pt": "Massa, seca, enriquecida"
+  },
+  "8893": {
+    "it": "Pasta, secca, arricchita, spaghetti",
+    "fr": "Pâtes, sèches, enrichies, spaghetti",
+    "es": "Pasta, seca, enriquecida, espaguetis",
+    "de": "Nudeln, getrocknet, angereichert, Spaghetti",
+    "pt": "Massa, seca, enriquecida, espaguete"
+  },
+  "8894": {
+    "it": "Pasta, secca, non arricchita",
+    "fr": "Pâtes, sèches, non enrichies",
+    "es": "Pasta, seca, sin enriquecer",
+    "de": "Nudeln, getrocknet, nicht angereichert",
+    "pt": "Massa, seca, não enriquecida"
+  },
+  "8895": {
+    "it": "Pasta, secca, integrale, spaghetti",
+    "fr": "Pâtes, sèches, complètes, spaghetti",
+    "es": "Pasta, seca, integral, espaguetis",
+    "de": "Nudeln, getrocknet, Vollkorn, Spaghetti",
+    "pt": "Massa, seca, integral, espaguete"
+  },
+  "8896": {
+    "it": "Pasta, fresca refrigerata, semplice, come acquistata",
+    "fr": "Pâtes, fraîches réfrigérées, nature, telles qu'achetées",
+    "es": "Pasta, fresca refrigerada, simple, tal como se compra",
+    "de": "Nudeln, frisch gekühlt, natur, wie gekauft",
+    "pt": "Massa, fresca refrigerada, simples, como adquirida"
+  },
+  "8897": {
+    "it": "Pasta, fresca refrigerata, semplice, cotta",
+    "fr": "Pâtes, fraîches réfrigérées, nature, cuites",
+    "es": "Pasta, fresca refrigerada, simple, cocida",
+    "de": "Nudeln, frisch gekühlt, natur, gekocht",
+    "pt": "Massa, fresca refrigerada, simples, cozida"
+  },
+  "8898": {
+    "it": "Pasta, fresca refrigerata, agli spinaci, come acquistata",
+    "fr": "Pâtes, fraîches réfrigérées, aux épinards, telles qu'achetées",
+    "es": "Pasta, fresca refrigerada, de espinacas, tal como se compra",
+    "de": "Nudeln, frisch gekühlt, Spinat, wie gekauft",
+    "pt": "Massa, fresca refrigerada, de espinafre, como adquirida"
+  },
+  "8899": {
+    "it": "Pasta, fresca refrigerata, agli spinaci, cotta",
+    "fr": "Pâtes, fraîches réfrigérées, aux épinards, cuites",
+    "es": "Pasta, fresca refrigerada, de espinacas, cocida",
+    "de": "Nudeln, frisch gekühlt, Spinat, gekocht",
+    "pt": "Massa, fresca refrigerada, de espinafre, cozida"
+  },
+  "8900": {
+    "it": "Pasta, senza glutine",
+    "fr": "Pâtes, sans gluten",
+    "es": "Pasta, sin gluten",
+    "de": "Nudeln, glutenfrei",
+    "pt": "Massa, sem glúten"
+  },
+  "8901": {
+    "it": "Pasta, senza glutine, farina di riso integrale, cotta, TINKYADA",
+    "fr": "Pâtes, sans gluten, farine de riz complet, cuites, TINKYADA",
+    "es": "Pasta, sin gluten, harina de arroz integral, cocida, TINKYADA",
+    "de": "Nudeln, glutenfrei, Vollkornreismehl, gekocht, TINKYADA",
+    "pt": "Massa, sem glúten, farinha de arroz integral, cozida, TINKYADA"
+  },
+  "8902": {
+    "it": "Pasta, senza glutine, farina di mais e di riso, cotta",
+    "fr": "Pâtes, sans gluten, farine de maïs et de riz, cuites",
+    "es": "Pasta, sin gluten, harina de maíz y de arroz, cocida",
+    "de": "Nudeln, glutenfrei, Mais- und Reismehl, gekocht",
+    "pt": "Massa, sem glúten, farinha de milho e de arroz, cozida"
+  },
+  "8903": {
+    "it": "Pasta, senza glutine, farina di mais e farina di quinoa, cotta, ANCIENT HARVEST",
+    "fr": "Pâtes, sans gluten, farine de maïs et farine de quinoa, cuites, ANCIENT HARVEST",
+    "es": "Pasta, sin gluten, harina de maíz y harina de quinoa, cocida, ANCIENT HARVEST",
+    "de": "Nudeln, glutenfrei, Maismehl und Quinoamehl, gekocht, ANCIENT HARVEST",
+    "pt": "Massa, sem glúten, farinha de milho e farinha de quinoa, cozida, ANCIENT HARVEST"
+  },
+  "8904": {
+    "it": "Pasta, senza glutine, di mais, cotta",
+    "fr": "Pâtes, sans gluten, de maïs, cuites",
+    "es": "Pasta, sin gluten, de maíz, cocida",
+    "de": "Nudeln, glutenfrei, Mais, gekocht",
+    "pt": "Massa, sem glúten, de milho, cozida"
+  },
+  "8905": {
+    "it": "Pasta, senza glutine, di mais, secca",
+    "fr": "Pâtes, sans gluten, de maïs, sèches",
+    "es": "Pasta, sin gluten, de maíz, seca",
+    "de": "Nudeln, glutenfrei, Mais, getrocknet",
+    "pt": "Massa, sem glúten, de milho, seca"
+  },
+  "8906": {
+    "it": "Pasta, senza glutine, farina di riso ed estratto di crusca di riso, cotta, DE BOLES",
+    "fr": "Pâtes, sans gluten, farine de riz et extrait de son de riz, cuites, DE BOLES",
+    "es": "Pasta, sin gluten, harina de arroz y extracto de salvado de arroz, cocida, DE BOLES",
+    "de": "Nudeln, glutenfrei, Reismehl und Reiskleieextrakt, gekocht, DE BOLES",
+    "pt": "Massa, sem glúten, farinha de arroz e extrato de farelo de arroz, cozida, DE BOLES"
+  },
+  "8907": {
+    "it": "Pasta, fatta in casa, con uova, cotta",
+    "fr": "Pâtes, faites maison, aux œufs, cuites",
+    "es": "Pasta, casera, con huevos, cocida",
+    "de": "Nudeln, hausgemacht, mit Ei, gekocht",
+    "pt": "Massa, caseira, com ovos, cozida"
+  },
+  "8908": {
+    "it": "Pasta, fatta in casa, senza uova, cotta",
+    "fr": "Pâtes, faites maison, sans œufs, cuites",
+    "es": "Pasta, casera, sin huevos, cocida",
+    "de": "Nudeln, hausgemacht, ohne Ei, gekocht",
+    "pt": "Massa, caseira, sem ovos, cozida"
+  },
+  "8909": {
+    "it": "Pasta, alle verdure, cotta",
+    "fr": "Pâtes, aux légumes, cuites",
+    "es": "Pasta, de verduras, cocida",
+    "de": "Nudeln, Gemüse, gekocht",
+    "pt": "Massa, de legumes, cozida"
+  },
+  "8910": {
+    "it": "Pasta, integrale, 51% frumento integrale, resto semola arricchita, cotta (include alimenti del Programma di distribuzione alimentare dell'USDA)",
+    "fr": "Pâtes, complètes, 51% de blé complet, le reste en semoule enrichie, cuites (inclut les aliments du programme de distribution alimentaire de l'USDA)",
+    "es": "Pasta, integral, 51% de trigo integral, el resto sémola enriquecida, cocida (incluye alimentos del Programa de Distribución de Alimentos del USDA)",
+    "de": "Nudeln, Vollkorn, 51% Vollkornweizen, Rest angereicherter Hartweizengrieß, gekocht (einschließlich Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+    "pt": "Massa, integral, 51% de trigo integral, restante sêmola enriquecida, cozida (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+  },
+  "8911": {
+    "it": "Pasta, integrale, 51% frumento integrale, resto semola arricchita, secca (include alimenti del Programma di distribuzione alimentare dell'USDA)",
+    "fr": "Pâtes, complètes, 51% de blé complet, le reste en semoule enrichie, sèches (inclut les aliments du programme de distribution alimentaire de l'USDA)",
+    "es": "Pasta, integral, 51% de trigo integral, el resto sémola enriquecida, seca (incluye alimentos del Programa de Distribución de Alimentos del USDA)",
+    "de": "Nudeln, Vollkorn, 51% Vollkornweizen, Rest angereicherter Hartweizengrieß, getrocknet (einschließlich Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+    "pt": "Massa, integral, 51% de trigo integral, restante sêmola enriquecida, seca (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+  },
+  "8912": {
+    "it": "Pasta, integrale, 51% frumento integrale, resto semola non arricchita, cotta",
+    "fr": "Pâtes, complètes, 51% de blé complet, le reste en semoule non enrichie, cuites",
+    "es": "Pasta, integral, 51% de trigo integral, el resto sémola sin enriquecer, cocida",
+    "de": "Nudeln, Vollkorn, 51% Vollkornweizen, Rest nicht angereicherter Hartweizengrieß, gekocht",
+    "pt": "Massa, integral, 51% de trigo integral, restante sêmola não enriquecida, cozida"
+  },
+  "8913": {
+    "it": "Pasta, integrale, 51% frumento integrale, resto semola non arricchita, secca",
+    "fr": "Pâtes, complètes, 51% de blé complet, le reste en semoule non enrichie, sèches",
+    "es": "Pasta, integral, 51% de trigo integral, el resto sémola sin enriquecer, seca",
+    "de": "Nudeln, Vollkorn, 51% Vollkornweizen, Rest nicht angereicherter Hartweizengrieß, getrocknet",
+    "pt": "Massa, integral, 51% de trigo integral, restante sêmola não enriquecida, seca"
+  },
+  "8914": {
+    "it": "Pasta, integrale, cotta",
+    "fr": "Pâtes, complètes, cuites",
+    "es": "Pasta, integral, cocida",
+    "de": "Nudeln, Vollkorn, gekocht",
+    "pt": "Massa, integral, cozida"
+  },
+  "8915": {
+    "it": "Pasta, integrale, con salsa alla panna e carne, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème et viande, recette maison",
+    "es": "Pasta integral con salsa de crema y carne, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce und Fleisch, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite e carne, receita caseira"
+  },
+  "8916": {
+    "it": "Pasta, integrale, con salsa alla panna e carne, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème et viande, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema y carne, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce und Fleisch, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite e carne, pronta para aquecer"
+  },
+  "8917": {
+    "it": "Pasta, integrale, con salsa alla panna e carne, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème et viande, au restaurant",
+    "es": "Pasta integral con salsa de crema y carne, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce und Fleisch, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite e carne, de restaurante"
+  },
+  "8918": {
+    "it": "Pasta, integrale, con salsa alla panna e pollame, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème et volaille, recette maison",
+    "es": "Pasta integral con salsa de crema y aves, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce und Geflügel, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite e aves, receita caseira"
+  },
+  "8919": {
+    "it": "Pasta, integrale, con salsa alla panna e pollame, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème et volaille, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema y aves, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce und Geflügel, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite e aves, pronta para aquecer"
+  },
+  "8920": {
+    "it": "Pasta, integrale, con salsa alla panna e pollame, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème et volaille, au restaurant",
+    "es": "Pasta integral con salsa de crema y aves, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce und Geflügel, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite e aves, de restaurante"
+  },
+  "8921": {
+    "it": "Pasta, integrale, con salsa alla panna e frutti di mare, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème et fruits de mer, recette maison",
+    "es": "Pasta integral con salsa de crema y mariscos, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce und Meeresfrüchten, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite e frutos do mar, receita caseira"
+  },
+  "8922": {
+    "it": "Pasta, integrale, con salsa alla panna e frutti di mare, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème et fruits de mer, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema y mariscos, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce und Meeresfrüchten, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite e frutos do mar, pronta para aquecer"
+  },
+  "8923": {
+    "it": "Pasta, integrale, con salsa alla panna e frutti di mare, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème et fruits de mer, au restaurant",
+    "es": "Pasta integral con salsa de crema y mariscos, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce und Meeresfrüchten, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite e frutos do mar, de restaurante"
+  },
+  "8924": {
+    "it": "Pasta, integrale, con salsa alla panna e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème et légumes ajoutés, recette maison",
+    "es": "Pasta integral con salsa de crema y verduras añadidas, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite e vegetais adicionados, receita caseira"
+  },
+  "8925": {
+    "it": "Pasta, integrale, con salsa alla panna e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema y verduras añadidas, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite e vegetais adicionados, pronta para aquecer"
+  },
+  "8926": {
+    "it": "Pasta, integrale, con salsa alla panna e verdure aggiunte, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème et légumes ajoutés, au restaurant",
+    "es": "Pasta integral con salsa de crema y verduras añadidas, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce und zusätzlichem Gemüse, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite e vegetais adicionados, de restaurante"
+  },
+  "8927": {
+    "it": "Pasta, integrale, con salsa alla panna, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème, recette maison",
+    "es": "Pasta integral con salsa de crema, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite, receita caseira"
+  },
+  "8928": {
+    "it": "Pasta, integrale, con salsa alla panna, carne e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème, viande et légumes ajoutés, recette maison",
+    "es": "Pasta integral con salsa de crema, carne y verduras añadidas, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce, Fleisch und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite, carne e vegetais adicionados, receita caseira"
+  },
+  "8929": {
+    "it": "Pasta, integrale, con salsa alla panna, carne e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème, viande et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema, carne y verduras añadidas, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce, Fleisch und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite, carne e vegetais adicionados, pronta para aquecer"
+  },
+  "8930": {
+    "it": "Pasta, integrale, con salsa alla panna, carne e verdure aggiunte, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème, viande et légumes ajoutés, au restaurant",
+    "es": "Pasta integral con salsa de crema, carne y verduras añadidas, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce, Fleisch und zusätzlichem Gemüse, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite, carne e vegetais adicionados, de restaurante"
+  },
+  "8931": {
+    "it": "Pasta, integrale, con salsa alla panna, pollame e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème, volaille et légumes ajoutés, recette maison",
+    "es": "Pasta integral con salsa de crema, aves y verduras añadidas, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce, Geflügel und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite, aves e vegetais adicionados, receita caseira"
+  },
+  "8932": {
+    "it": "Pasta, integrale, con salsa alla panna, pollame e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème, volaille et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema, aves y verduras añadidas, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce, Geflügel und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite, aves e vegetais adicionados, pronta para aquecer"
+  },
+  "8933": {
+    "it": "Pasta, integrale, con salsa alla panna, pollame e verdure aggiunte, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème, volaille et légumes ajoutés, au restaurant",
+    "es": "Pasta integral con salsa de crema, aves y verduras añadidas, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce, Geflügel und zusätzlichem Gemüse, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite, aves e vegetais adicionados, de restaurante"
+  },
+  "8934": {
+    "it": "Pasta, integrale, con salsa alla panna, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite, pronta para aquecer"
+  },
+  "8935": {
+    "it": "Pasta, integrale, con salsa alla panna, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème, au restaurant",
+    "es": "Pasta integral con salsa de crema, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite, de restaurante"
+  },
+  "8936": {
+    "it": "Pasta, integrale, con salsa alla panna, frutti di mare e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à la crème, fruits de mer et légumes ajoutés, recette maison",
+    "es": "Pasta integral con salsa de crema, mariscos y verduras añadidas, receta casera",
+    "de": "Vollkornnudeln mit Sahnesauce, Meeresfrüchten und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa integral com molho de creme de leite, frutos do mar e vegetais adicionados, receita caseira"
+  },
+  "8937": {
+    "it": "Pasta, integrale, con salsa alla panna, frutti di mare e verdure aggiunte, pronta da riscaldare",
+    "fr": "Pâtes complètes avec sauce à la crème, fruits de mer et légumes ajoutés, prêtes à réchauffer",
+    "es": "Pasta integral con salsa de crema, mariscos y verduras añadidas, lista para calentar",
+    "de": "Vollkornnudeln mit Sahnesauce, Meeresfrüchten und zusätzlichem Gemüse, zum Erhitzen fertig",
+    "pt": "Massa integral com molho de creme de leite, frutos do mar e vegetais adicionados, pronta para aquecer"
+  },
+  "8938": {
+    "it": "Pasta, integrale, con salsa alla panna, frutti di mare e verdure aggiunte, al ristorante",
+    "fr": "Pâtes complètes avec sauce à la crème, fruits de mer et légumes ajoutés, au restaurant",
+    "es": "Pasta integral con salsa de crema, mariscos y verduras añadidas, de restaurante",
+    "de": "Vollkornnudeln mit Sahnesauce, Meeresfrüchten und zusätzlichem Gemüse, Restaurantgericht",
+    "pt": "Massa integral com molho de creme de leite, frutos do mar e vegetais adicionados, de restaurante"
+  },
+  "8939": {
+    "it": "Pasta, integrale, con salsa a base di pomodoro e verdure aggiunte, ricetta casalinga",
+    "fr": "Pâtes complètes avec sauce à base de tomate et légumes ajoutés, recette maison",
+    "es": "Pasta integral con salsa a base de tomate y verduras añadidas, receta casera",
+    "de": "Vollkornnudeln mit Sauce auf Tomatenbasis und zusätzlichem Gemüse, hausgemacht",
+    "pt": "Massa integral com molho à base de tomate e vegetais adicionados, receita caseira"
+  }
+}
