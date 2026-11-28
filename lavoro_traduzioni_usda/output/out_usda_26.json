@@ -1,0 +1,2088 @@
+{
+"7450": {
+"it": "Agnello, Nuova Zelanda, importato, braciola di lombo, magro e grasso, cotto, fritto rapidamente",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelette de longe, maigre et gras, cuit, frit rapidement",
+"es": "Cordero, Nueva Zelanda, importado, chuleta de lomo, magro y grasa, cocido, frito rápidamente",
+"de": "Lamm, Neuseeland, importiert, Lendenkotelett, mager und fett, gekocht, schnell frittiert",
+"pt": "Cordeiro, Nova Zelândia, importado, costeleta de lombo, magro e gordura, cozido, frito rapidamente"
+},
+"7451": {
+"it": "Agnello, Nuova Zelanda, importato, braciola di lombo, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelette de longe, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, chuleta de lomo, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Lendenkotelett, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costeleta de lombo, magro e gordura, cru"
+},
+"7452": {
+"it": "Agnello, Nuova Zelanda, importato, braciola di lombo, solo parte magra, cotto, fritto rapidamente",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelette de longe, partie maigre seulement, cuit, frit rapidement",
+"es": "Cordero, Nueva Zelanda, importado, chuleta de lomo, solo parte magra, cocido, frito rápidamente",
+"de": "Lamm, Neuseeland, importiert, Lendenkotelett, nur magerer Anteil, gekocht, schnell frittiert",
+"pt": "Cordeiro, Nova Zelândia, importado, costeleta de lombo, apenas parte magra, cozido, frito rapidamente"
+},
+"7453": {
+"it": "Agnello, Nuova Zelanda, importato, braciola di lombo, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelette de longe, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, chuleta de lomo, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Lendenkotelett, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costeleta de lombo, apenas parte magra, cru"
+},
+"7454": {
+"it": "Agnello, Nuova Zelanda, importato, sella di lombo, magro e grasso, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, selle de longe, maigre et gras, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, silla de lomo, magro y grasa, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Lendensattel, mager und fett, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, sela de lombo, magro e gordura, cozido, assado rapidamente"
+},
+"7455": {
+"it": "Agnello, Nuova Zelanda, importato, sella di lombo, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, selle de longe, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, silla de lomo, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Lendensattel, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, sela de lombo, magro e gordura, cru"
+},
+"7456": {
+"it": "Agnello, Nuova Zelanda, importato, sella di lombo, solo parte magra, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, selle de longe, partie maigre seulement, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, silla de lomo, solo parte magra, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Lendensattel, nur magerer Anteil, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, sela de lombo, apenas parte magra, cozido, assado rapidamente"
+},
+"7457": {
+"it": "Agnello, Nuova Zelanda, importato, sella di lombo, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, selle de longe, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, silla de lomo, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Lendensattel, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, sela de lombo, apenas parte magra, cru"
+},
+"7458": {
+"it": "Agnello, Nuova Zelanda, importato, lombo, disossato, magro e grasso, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, longe, désossé, maigre et gras, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, lomo, deshuesado, magro y grasa, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Lende, ohne Knochen, mager und fett, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, lombo, sem osso, magro e gordura, cozido, assado rapidamente"
+},
+"7459": {
+"it": "Agnello, Nuova Zelanda, importato, lombo, disossato, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, longe, désossé, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, lomo, deshuesado, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Lende, ohne Knochen, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, lombo, sem osso, magro e gordura, cru"
+},
+"7460": {
+"it": "Agnello, Nuova Zelanda, importato, lombo, disossato, solo parte magra, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, longe, désossé, partie maigre seulement, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, lomo, deshuesado, solo parte magra, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Lende, ohne Knochen, nur magerer Anteil, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, lombo, sem osso, apenas parte magra, cozido, assado rapidamente"
+},
+"7461": {
+"it": "Agnello, Nuova Zelanda, importato, lombo, disossato, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, longe, désossé, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, lomo, deshuesado, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Lende, ohne Knochen, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, lombo, sem osso, apenas parte magra, cru"
+},
+"7462": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di collo, magro e grasso, cotto, brasato",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes de collier, maigre et gras, cuit, braisé",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de cuello, magro y grasa, cocido, estofado",
+"de": "Lamm, Neuseeland, importiert, Halskoteletts, mager und fett, gekocht, geschmort",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de pescoço, magro e gordura, cozido, ensopado"
+},
+"7463": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di collo, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes de collier, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de cuello, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Halskoteletts, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de pescoço, magro e gordura, cru"
+},
+"7464": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di collo, solo parte magra, cotto, brasato",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes de collier, partie maigre seulement, cuit, braisé",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de cuello, solo parte magra, cocido, estofado",
+"de": "Lamm, Neuseeland, importiert, Halskoteletts, nur magerer Anteil, gekocht, geschmort",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de pescoço, apenas parte magra, cozido, ensopado"
+},
+"7465": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di collo, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes de collier, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de cuello, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Halskoteletts, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de pescoço, apenas parte magra, cru"
+},
+"7466": {
+"it": "Agnello, Nuova Zelanda, importato, spalla in rete, arrotolata, disossato, magro e grasso, cotto, arrosto lento",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule en filet, roulée, désossé, maigre et gras, cuit, rôti lentement",
+"es": "Cordero, Nueva Zelanda, importado, paleta en red, enrollada, deshuesado, magro y grasa, cocido, asado lentamente",
+"de": "Lamm, Neuseeland, importiert, Schulter im Netz, gerollt, ohne Knochen, mager und fett, gekocht, langsam gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta em rede, enrolada, sem osso, magro e gordura, cozido, assado lentamente"
+},
+"7467": {
+"it": "Agnello, Nuova Zelanda, importato, spalla in rete, arrotolata, disossato, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule en filet, roulée, désossé, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, paleta en red, enrollada, deshuesado, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Schulter im Netz, gerollt, ohne Knochen, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta em rede, enrolada, sem osso, magro e gordura, cru"
+},
+"7468": {
+"it": "Agnello, Nuova Zelanda, importato, spalla in rete, arrotolata, disossato, solo parte magra, cotto, arrosto lento",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule en filet, roulée, désossé, partie maigre seulement, cuit, rôti lentement",
+"es": "Cordero, Nueva Zelanda, importado, paleta en red, enrollada, deshuesado, solo parte magra, cocido, asado lentamente",
+"de": "Lamm, Neuseeland, importiert, Schulter im Netz, gerollt, ohne Knochen, nur magerer Anteil, gekocht, langsam gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta em rede, enrolada, sem osso, apenas parte magra, cozido, assado lentamente"
+},
+"7469": {
+"it": "Agnello, Nuova Zelanda, importato, spalla in rete, arrotolata, disossato, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule en filet, roulée, désossé, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, paleta en red, enrollada, deshuesado, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Schulter im Netz, gerollt, ohne Knochen, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta em rede, enrolada, sem osso, apenas parte magra, cru"
+},
+"7470": {
+"it": "Agnello, Nuova Zelanda, importato, carré - completamente pulito (frenched), magro e grasso, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - entièrement manchonné (frenched), maigre et gras, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, costillar - completamente limpio (frenched), magro y grasa, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Rack - vollständig freigelegt (frenched), mager und fett, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - totalmente limpa (frenched), magro e gordura, cozido, assado rapidamente"
+},
+"7471": {
+"it": "Agnello, Nuova Zelanda, importato, carré - completamente pulito (frenched), magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - entièrement manchonné (frenched), maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, costillar - completamente limpio (frenched), magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Rack - vollständig freigelegt (frenched), mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - totalmente limpa (frenched), magro e gordura, cru"
+},
+"7472": {
+"it": "Agnello, Nuova Zelanda, importato, carré - completamente pulito (frenched), solo parte magra, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - entièrement manchonné (frenched), partie maigre seulement, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, costillar - completamente limpio (frenched), solo parte magra, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Rack - vollständig freigelegt (frenched), nur magerer Anteil, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - totalmente limpa (frenched), apenas parte magra, cozido, assado rapidamente"
+},
+"7473": {
+"it": "Agnello, Nuova Zelanda, importato, carré - completamente pulito (frenched), solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - entièrement manchonné (frenched), partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, costillar - completamente limpio (frenched), solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Rack - vollständig freigelegt (frenched), nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - totalmente limpa (frenched), apenas parte magra, cru"
+},
+"7474": {
+"it": "Agnello, Nuova Zelanda, importato, carré - parzialmente pulito (frenched), magro e grasso, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - partiellement manchonné (frenched), maigre et gras, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, costillar - parcialmente limpio (frenched), magro y grasa, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Rack - teilweise freigelegt (frenched), mager und fett, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - parcialmente limpa (frenched), magro e gordura, cozido, assado rapidamente"
+},
+"7475": {
+"it": "Agnello, Nuova Zelanda, importato, carré - parzialmente pulito (frenched), magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - partiellement manchonné (frenched), maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, costillar - parcialmente limpio (frenched), magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Rack - teilweise freigelegt (frenched), mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - parcialmente limpa (frenched), magro e gordura, cru"
+},
+"7476": {
+"it": "Agnello, Nuova Zelanda, importato, carré - parzialmente pulito (frenched), solo parte magra, cotto, arrosto rapido",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - partiellement manchonné (frenched), partie maigre seulement, cuit, rôti rapidement",
+"es": "Cordero, Nueva Zelanda, importado, costillar - parcialmente limpio (frenched), solo parte magra, cocido, asado rápidamente",
+"de": "Lamm, Neuseeland, importiert, Rack - teilweise freigelegt (frenched), nur magerer Anteil, gekocht, schnell gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - parcialmente limpa (frenched), apenas parte magra, cozido, assado rapidamente"
+},
+"7477": {
+"it": "Agnello, Nuova Zelanda, importato, carré - parzialmente pulito (frenched), solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, carré - partiellement manchonné (frenched), partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, costillar - parcialmente limpio (frenched), solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Rack - teilweise freigelegt (frenched), nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costelinha - parcialmente limpa (frenched), apenas parte magra, cru"
+},
+"7478": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di spalla taglio quadrato, magro e grasso, cotto, brasato",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes d'épaule coupe carrée, maigre et gras, cuit, braisé",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de paleta corte cuadrado, magro y grasa, cocido, estofado",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulterkoteletts, mager und fett, gekocht, geschmort",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de paleta corte quadrado, magro e gordura, cozido, ensopado"
+},
+"7479": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di spalla taglio quadrato, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes d'épaule coupe carrée, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de paleta corte cuadrado, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulterkoteletts, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de paleta corte quadrado, magro e gordura, cru"
+},
+"7480": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di spalla taglio quadrato, solo parte magra, cotto, brasato",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes d'épaule coupe carrée, partie maigre seulement, cuit, braisé",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de paleta corte cuadrado, solo parte magra, cocido, estofado",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulterkoteletts, nur magerer Anteil, gekocht, geschmort",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de paleta corte quadrado, apenas parte magra, cozido, ensopado"
+},
+"7481": {
+"it": "Agnello, Nuova Zelanda, importato, braciole di spalla taglio quadrato, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, côtelettes d'épaule coupe carrée, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, chuletas de paleta corte cuadrado, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulterkoteletts, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, costeletas de paleta corte quadrado, apenas parte magra, cru"
+},
+"7482": {
+"it": "Agnello, Nuova Zelanda, importato, spalla taglio quadrato, magro e grasso, cotto, arrosto lento",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule coupe carrée, maigre et gras, cuit, rôti lentement",
+"es": "Cordero, Nueva Zelanda, importado, paleta corte cuadrado, magro y grasa, cocido, asado lentamente",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulter, mager und fett, gekocht, langsam gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta corte quadrado, magro e gordura, cozido, assado lentamente"
+},
+"7483": {
+"it": "Agnello, Nuova Zelanda, importato, spalla taglio quadrato, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule coupe carrée, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, paleta corte cuadrado, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulter, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta corte quadrado, magro e gordura, cru"
+},
+"7484": {
+"it": "Agnello, Nuova Zelanda, importato, spalla taglio quadrato, solo parte magra, cotto, arrosto lento",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule coupe carrée, partie maigre seulement, cuit, rôti lentement",
+"es": "Cordero, Nueva Zelanda, importado, paleta corte cuadrado, solo parte magra, cocido, asado lentamente",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulter, nur magerer Anteil, gekocht, langsam gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta corte quadrado, apenas parte magra, cozido, assado lentamente"
+},
+"7485": {
+"it": "Agnello, Nuova Zelanda, importato, spalla taglio quadrato, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, épaule coupe carrée, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, paleta corte cuadrado, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, quadratisch geschnittene Schulter, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, paleta corte quadrado, apenas parte magra, cru"
+},
+"7486": {
+"it": "Agnello, Nuova Zelanda, importato, grasso sottocutaneo, cotto",
+"fr": "Agneau, Nouvelle-Zélande, importé, gras sous-cutané, cuit",
+"es": "Cordero, Nueva Zelanda, importado, grasa subcutánea, cocido",
+"de": "Lamm, Neuseeland, importiert, Unterhautfett, gekocht",
+"pt": "Cordeiro, Nova Zelândia, importado, gordura subcutânea, cozido"
+},
+"7487": {
+"it": "Agnello, Nuova Zelanda, importato, grasso sottocutaneo, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, gras sous-cutané, cru",
+"es": "Cordero, Nueva Zelanda, importado, grasa subcutánea, crudo",
+"de": "Lamm, Neuseeland, importiert, Unterhautfett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, gordura subcutânea, cru"
+},
+"7488": {
+"it": "Agnello, Nuova Zelanda, importato, animelle, cotto, messo in ammollo e lessato",
+"fr": "Agneau, Nouvelle-Zélande, importé, ris, cuit, trempé et mijoté",
+"es": "Cordero, Nueva Zelanda, importado, molleja, cocido, remojado y cocido a fuego lento",
+"de": "Lamm, Neuseeland, importiert, Bries, gekocht, eingeweicht und geköchelt",
+"pt": "Cordeiro, Nova Zelândia, importado, timo, cozido, de molho e cozido em fogo baixo"
+},
+"7489": {
+"it": "Agnello, Nuova Zelanda, importato, animelle, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, ris, cru",
+"es": "Cordero, Nueva Zelanda, importado, molleja, crudo",
+"de": "Lamm, Neuseeland, importiert, Bries, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, timo, cru"
+},
+"7490": {
+"it": "Agnello, Nuova Zelanda, importato, filetto, magro e grasso, cotto, fritto rapidamente",
+"fr": "Agneau, Nouvelle-Zélande, importé, filet, maigre et gras, cuit, frit rapidement",
+"es": "Cordero, Nueva Zelanda, importado, solomillo, magro y grasa, cocido, frito rápidamente",
+"de": "Lamm, Neuseeland, importiert, Filet, mager und fett, gekocht, schnell frittiert",
+"pt": "Cordeiro, Nova Zelândia, importado, filé, magro e gordura, cozido, frito rapidamente"
+},
+"7491": {
+"it": "Agnello, Nuova Zelanda, importato, filetto, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, filet, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, solomillo, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Filet, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, filé, magro e gordura, cru"
+},
+"7492": {
+"it": "Agnello, Nuova Zelanda, importato, filetto, solo parte magra, cotto, fritto rapidamente",
+"fr": "Agneau, Nouvelle-Zélande, importé, filet, partie maigre seulement, cuit, frit rapidement",
+"es": "Cordero, Nueva Zelanda, importado, solomillo, solo parte magra, cocido, frito rápidamente",
+"de": "Lamm, Neuseeland, importiert, Filet, nur magerer Anteil, gekocht, schnell frittiert",
+"pt": "Cordeiro, Nova Zelândia, importado, filé, apenas parte magra, cozido, frito rapidamente"
+},
+"7493": {
+"it": "Agnello, Nuova Zelanda, importato, filetto, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, filet, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, solomillo, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Filet, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, filé, apenas parte magra, cru"
+},
+"7494": {
+"it": "Agnello, Nuova Zelanda, importato, testicoli, cotto, messo in ammollo e fritto",
+"fr": "Agneau, Nouvelle-Zélande, importé, testicules, cuit, trempé et frit",
+"es": "Cordero, Nueva Zelanda, importado, testículos, cocido, remojado y frito",
+"de": "Lamm, Neuseeland, importiert, Hoden, gekocht, eingeweicht und frittiert",
+"pt": "Cordeiro, Nova Zelândia, importado, testículos, cozido, de molho e frito"
+},
+"7495": {
+"it": "Agnello, Nuova Zelanda, importato, testicoli, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, testicules, cru",
+"es": "Cordero, Nueva Zelanda, importado, testículos, crudo",
+"de": "Lamm, Neuseeland, importiert, Hoden, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, testículos, cru"
+},
+"7496": {
+"it": "Agnello, Nuova Zelanda, importato, lingua - taglio svizzero, cotto, messo in ammollo e lessato",
+"fr": "Agneau, Nouvelle-Zélande, importé, langue - coupe suisse, cuit, trempé et mijoté",
+"es": "Cordero, Nueva Zelanda, importado, lengua - corte suizo, cocido, remojado y cocido a fuego lento",
+"de": "Lamm, Neuseeland, importiert, Zunge - Schweizer Schnitt, gekocht, eingeweicht und geköchelt",
+"pt": "Cordeiro, Nova Zelândia, importado, língua - corte suíço, cozido, de molho e cozido em fogo baixo"
+},
+"7497": {
+"it": "Agnello, Nuova Zelanda, importato, lingua - taglio svizzero, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, langue - coupe suisse, cru",
+"es": "Cordero, Nueva Zelanda, importado, lengua - corte suizo, crudo",
+"de": "Lamm, Neuseeland, importiert, Zunge - Schweizer Schnitt, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, língua - corte suíço, cru"
+},
+"7498": {
+"it": "Agnello, Nuova Zelanda, importato, coscia disossata a tunnel, senza codone, senza stinco, magro e grasso, cotto, arrosto lento",
+"fr": "Agneau, Nouvelle-Zélande, importé, gigot désossé en tunnel, sans quasi, sans jarret, maigre et gras, cuit, rôti lentement",
+"es": "Cordero, Nueva Zelanda, importado, pierna deshuesada en túnel, sin cadera (chump), sin jarrete, magro y grasa, cocido, asado lentamente",
+"de": "Lamm, Neuseeland, importiert, Keule, tunnelentbeint, ohne Hüfte (Chump), ohne Hachse, mager und fett, gekocht, langsam gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, perna desossada em túnel, sem alcatra (chump), sem canela, magro e gordura, cozido, assado lentamente"
+},
+"7499": {
+"it": "Agnello, Nuova Zelanda, importato, coscia disossata a tunnel, senza codone, senza stinco, magro e grasso, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, gigot désossé en tunnel, sans quasi, sans jarret, maigre et gras, cru",
+"es": "Cordero, Nueva Zelanda, importado, pierna deshuesada en túnel, sin cadera (chump), sin jarrete, magro y grasa, crudo",
+"de": "Lamm, Neuseeland, importiert, Keule, tunnelentbeint, ohne Hüfte (Chump), ohne Hachse, mager und fett, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, perna desossada em túnel, sem alcatra (chump), sem canela, magro e gordura, cru"
+},
+"7500": {
+"it": "Agnello, Nuova Zelanda, importato, coscia disossata a tunnel, senza codone, senza stinco, solo parte magra, cotto, arrosto lento",
+"fr": "Agneau, Nouvelle-Zélande, importé, gigot désossé en tunnel, sans quasi, sans jarret, partie maigre seulement, cuit, rôti lentement",
+"es": "Cordero, Nueva Zelanda, importado, pierna deshuesada en túnel, sin cadera (chump), sin jarrete, solo parte magra, cocido, asado lentamente",
+"de": "Lamm, Neuseeland, importiert, Keule, tunnelentbeint, ohne Hüfte (Chump), ohne Hachse, nur magerer Anteil, gekocht, langsam gebraten (im Ofen)",
+"pt": "Cordeiro, Nova Zelândia, importado, perna desossada em túnel, sem alcatra (chump), sem canela, apenas parte magra, cozido, assado lentamente"
+},
+"7501": {
+"it": "Agnello, Nuova Zelanda, importato, coscia disossata a tunnel, senza codone, senza stinco, solo parte magra, crudo",
+"fr": "Agneau, Nouvelle-Zélande, importé, gigot désossé en tunnel, sans quasi, sans jarret, partie maigre seulement, cru",
+"es": "Cordero, Nueva Zelanda, importado, pierna deshuesada en túnel, sin cadera (chump), sin jarrete, solo parte magra, crudo",
+"de": "Lamm, Neuseeland, importiert, Keule, tunnelentbeint, ohne Hüfte (Chump), ohne Hachse, nur magerer Anteil, roh",
+"pt": "Cordeiro, Nova Zelândia, importado, perna desossada em túnel, sem alcatra (chump), sem canela, apenas parte magra, cru"
+},
+"7502": {
+"it": "Agnello, taglio non specificato",
+"fr": "Agneau, morceau non précisé",
+"es": "Cordero, corte sin especificar",
+"de": "Lamm, Teilstück nicht angegeben",
+"pt": "Cordeiro, corte não especificado"
+},
+"7503": {
+"it": "Agnello, costolette, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, côtes, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, costillas, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Rippe, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, costelas, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7504": {
+"it": "Agnello, costolette, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, côtes, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, costillas, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Rippe, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, costelas, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7505": {
+"it": "Agnello, costolette, magro e grasso, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, côtes, maigre et gras, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, costillas, magro y grasa, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Rippe, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, costelas, magro e gordura, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7506": {
+"it": "Agnello, costolette, magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, côtes, maigre et gras, gras paré à 3 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, costillas, magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Rippe, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, costelas, magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, grelhado"
+},
+"7507": {
+"it": "Agnello, costolette, magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, côtes, maigre et gras, gras paré à 3 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, costillas, magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Rippe, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, costelas, magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, assado"
+},
+"7508": {
+"it": "Agnello, costolette, magro e grasso, grasso rifilato a 3 mm, qualità Choice, crudo",
+"fr": "Agneau, côtes, maigre et gras, gras paré à 3 mm, qualité Choice, cru",
+"es": "Cordero, costillas, magro y grasa, grasa recortada a 3 mm, calidad Choice, crudo",
+"de": "Lamm, Rippe, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, costelas, magro e gordura, gordura aparada a 3 mm, classificação Choice, cru"
+},
+"7509": {
+"it": "Agnello, costolette, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, côtes, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, costillas, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Rippe, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, costelas, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7510": {
+"it": "Agnello, costolette, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, côtes, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, costillas, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Rippe, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, costelas, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7511": {
+"it": "Agnello, costolette, solo parte magra, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, côtes, partie maigre seulement, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, costillas, solo parte magra, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Rippe, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, costelas, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7512": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, ensopado"
+},
+"7513": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7514": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7515": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7516": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 3 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, ensopado"
+},
+"7517": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 3 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 3 mm, qualité Choice, cru",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 3 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 3 mm, classificação Choice, cru"
+},
+"7518": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 3 mm, qualità Choice, arrosto",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 3 mm, qualité Choice, rôti",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 3 mm, calidad Choice, asado",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 3 mm, classificação Choice, assado"
+},
+"7519": {
+"it": "Agnello, spalla, braccio, magro e grasso, grasso rifilato a 3 mm, cotto, alla griglia",
+"fr": "Agneau, épaule, bras, maigre et gras, gras paré à 3 mm, cuit, grillé",
+"es": "Cordero, paleta, brazo, magro y grasa, grasa recortada a 3 mm, cocido, a la parrilla",
+"de": "Lamm, Schulter, Arm, mager und fett, Fett auf 3 mm getrimmt, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, braço, magro e gordura, gordura aparada a 3 mm, cozido, grelhado"
+},
+"7520": {
+"it": "Agnello, spalla, braccio, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, bras, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, brazo, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, Arm, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, braço, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, ensopado"
+},
+"7521": {
+"it": "Agnello, spalla, braccio, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, bras, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, brazo, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, Arm, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, braço, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7522": {
+"it": "Agnello, spalla, braccio, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, bras, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, brazo, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, Arm, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, braço, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7523": {
+"it": "Agnello, spalla, braccio, solo parte magra, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, bras, partie maigre seulement, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, paleta, brazo, solo parte magra, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, Arm, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, braço, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7524": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, ensopado"
+},
+"7525": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7526": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7527": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7528": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 3 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, ensopado"
+},
+"7529": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 3 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, grelhado"
+},
+"7530": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 3 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, assado"
+},
+"7531": {
+"it": "Agnello, spalla, lama, magro e grasso, grasso rifilato a 3 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, palette, maigre et gras, gras paré à 3 mm, qualité Choice, cru",
+"es": "Cordero, paleta, pala, magro y grasa, grasa recortada a 3 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, Blatt, mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, lâmina, magro e gordura, gordura aparada a 3 mm, classificação Choice, cru"
+},
+"7532": {
+"it": "Agnello, spalla, lama, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, palette, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, pala, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, Blatt, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, lâmina, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, ensopado"
+},
+"7533": {
+"it": "Agnello, spalla, lama, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, palette, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, pala, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, Blatt, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, lâmina, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7534": {
+"it": "Agnello, spalla, lama, solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, palette, partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, pala, solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, Blatt, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, lâmina, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7535": {
+"it": "Agnello, spalla, lama, solo parte magra, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, palette, partie maigre seulement, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, paleta, pala, solo parte magra, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, Blatt, nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, lâmina, apenas parte magra, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7536": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 6 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, ensopado"
+},
+"7537": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7538": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7539": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7540": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 3 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, ensopado"
+},
+"7541": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 3 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, grelhado"
+},
+"7542": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 3 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 3 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 3 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 3 mm, classificação Choice, cozido, assado"
+},
+"7543": {
+"it": "Agnello, spalla, intera (braccio e lama), magro e grasso, grasso rifilato a 3 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, entière (bras et palette), maigre et gras, gras paré à 3 mm, qualité Choice, cru",
+"es": "Cordero, paleta, entera (brazo y pala), magro y grasa, grasa recortada a 3 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), mager und fett, Fett auf 3 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), magro e gordura, gordura aparada a 3 mm, classificação Choice, cru"
+},
+"7544": {
+"it": "Agnello, spalla, intera (braccio e lama), solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, brasato",
+"fr": "Agneau, épaule, entière (bras et palette), partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, braisé",
+"es": "Cordero, paleta, entera (brazo y pala), solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, estofado",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, geschmort",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, ensopado"
+},
+"7545": {
+"it": "Agnello, spalla, intera (braccio e lama), solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, alla griglia",
+"fr": "Agneau, épaule, entière (bras et palette), partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, grillé",
+"es": "Cordero, paleta, entera (brazo y pala), solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, a la parrilla",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gegrillt",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, grelhado"
+},
+"7546": {
+"it": "Agnello, spalla, intera (braccio e lama), solo parte magra, grasso rifilato a 6 mm, qualità Choice, cotto, arrosto",
+"fr": "Agneau, épaule, entière (bras et palette), partie maigre seulement, gras paré à 6 mm, qualité Choice, cuit, rôti",
+"es": "Cordero, paleta, entera (brazo y pala), solo parte magra, grasa recortada a 6 mm, calidad Choice, cocido, asado",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, gekocht, gebraten (im Ofen)",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), apenas parte magra, gordura aparada a 6 mm, classificação Choice, cozido, assado"
+},
+"7547": {
+"it": "Agnello, spalla, intera (braccio e lama), solo parte magra, grasso rifilato a 6 mm, qualità Choice, crudo",
+"fr": "Agneau, épaule, entière (bras et palette), partie maigre seulement, gras paré à 6 mm, qualité Choice, cru",
+"es": "Cordero, paleta, entera (brazo y pala), solo parte magra, grasa recortada a 6 mm, calidad Choice, crudo",
+"de": "Lamm, Schulter, ganz (Arm und Blatt), nur magerer Anteil, Fett auf 6 mm getrimmt, Güteklasse Choice, roh",
+"pt": "Cordeiro, paleta, inteira (braço e lâmina), apenas parte magra, gordura aparada a 6 mm, classificação Choice, cru"
+},
+"7548": {
+"it": "Agnello, frattaglie e sottoprodotti, cervello, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, cervelle, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, sesos, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Hirn, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, miolos, cozido, ensopado"
+},
+"7549": {
+"it": "Agnello, frattaglie e sottoprodotti, cervello, cotto, in padella",
+"fr": "Agneau, abats et sous-produits, cervelle, cuit, poêlé",
+"es": "Cordero, menudencias y subproductos, sesos, cocido, salteado en sartén",
+"de": "Lamm, Innereien und Nebenprodukte, Hirn, gekocht, in der Pfanne gebraten",
+"pt": "Cordeiro, miúdos e subprodutos, miolos, cozido, frito na frigideira"
+},
+"7550": {
+"it": "Agnello, frattaglie e sottoprodotti, cervello, crudo",
+"fr": "Agneau, abats et sous-produits, cervelle, cru",
+"es": "Cordero, menudencias y subproductos, sesos, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Hirn, roh",
+"pt": "Cordeiro, miúdos e subprodutos, miolos, cru"
+},
+"7551": {
+"it": "Agnello, frattaglie e sottoprodotti, cuore, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, cœur, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, corazón, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Herz, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, coração, cozido, ensopado"
+},
+"7552": {
+"it": "Agnello, frattaglie e sottoprodotti, cuore, crudo",
+"fr": "Agneau, abats et sous-produits, cœur, cru",
+"es": "Cordero, menudencias y subproductos, corazón, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Herz, roh",
+"pt": "Cordeiro, miúdos e subprodutos, coração, cru"
+},
+"7553": {
+"it": "Agnello, frattaglie e sottoprodotti, rognoni, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, rognons, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, riñones, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Nieren, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, rins, cozido, ensopado"
+},
+"7554": {
+"it": "Agnello, frattaglie e sottoprodotti, rognoni, crudo",
+"fr": "Agneau, abats et sous-produits, rognons, cru",
+"es": "Cordero, menudencias y subproductos, riñones, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Nieren, roh",
+"pt": "Cordeiro, miúdos e subprodutos, rins, cru"
+},
+"7555": {
+"it": "Agnello, frattaglie e sottoprodotti, fegato, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, foie, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, hígado, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Leber, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, fígado, cozido, ensopado"
+},
+"7556": {
+"it": "Agnello, frattaglie e sottoprodotti, fegato, cotto, in padella",
+"fr": "Agneau, abats et sous-produits, foie, cuit, poêlé",
+"es": "Cordero, menudencias y subproductos, hígado, cocido, salteado en sartén",
+"de": "Lamm, Innereien und Nebenprodukte, Leber, gekocht, in der Pfanne gebraten",
+"pt": "Cordeiro, miúdos e subprodutos, fígado, cozido, frito na frigideira"
+},
+"7557": {
+"it": "Agnello, frattaglie e sottoprodotti, fegato, crudo",
+"fr": "Agneau, abats et sous-produits, foie, cru",
+"es": "Cordero, menudencias y subproductos, hígado, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Leber, roh",
+"pt": "Cordeiro, miúdos e subprodutos, fígado, cru"
+},
+"7558": {
+"it": "Agnello, frattaglie e sottoprodotti, polmoni, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, poumons, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, pulmones, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Lunge, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, pulmões, cozido, ensopado"
+},
+"7559": {
+"it": "Agnello, frattaglie e sottoprodotti, polmoni, crudo",
+"fr": "Agneau, abats et sous-produits, poumons, cru",
+"es": "Cordero, menudencias y subproductos, pulmones, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Lunge, roh",
+"pt": "Cordeiro, miúdos e subprodutos, pulmões, cru"
+},
+"7560": {
+"it": "Agnello, frattaglie e sottoprodotti, separato meccanicamente, crudo",
+"fr": "Agneau, abats et sous-produits, séparé mécaniquement, cru",
+"es": "Cordero, menudencias y subproductos, separado mecánicamente, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, maschinell entbeint, roh",
+"pt": "Cordeiro, miúdos e subprodutos, separado mecanicamente, cru"
+},
+"7561": {
+"it": "Agnello, frattaglie e sottoprodotti, pancreas, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, pancréas, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, páncreas, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Bauchspeicheldrüse, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, pâncreas, cozido, ensopado"
+},
+"7562": {
+"it": "Agnello, frattaglie e sottoprodotti, pancreas, crudo",
+"fr": "Agneau, abats et sous-produits, pancréas, cru",
+"es": "Cordero, menudencias y subproductos, páncreas, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Bauchspeicheldrüse, roh",
+"pt": "Cordeiro, miúdos e subprodutos, pâncreas, cru"
+},
+"7563": {
+"it": "Agnello, frattaglie e sottoprodotti, milza, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, rate, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, bazo, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Milz, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, baço, cozido, ensopado"
+},
+"7564": {
+"it": "Agnello, frattaglie e sottoprodotti, milza, crudo",
+"fr": "Agneau, abats et sous-produits, rate, cru",
+"es": "Cordero, menudencias y subproductos, bazo, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Milz, roh",
+"pt": "Cordeiro, miúdos e subprodutos, baço, cru"
+},
+"7565": {
+"it": "Agnello, frattaglie e sottoprodotti, lingua, cotto, brasato",
+"fr": "Agneau, abats et sous-produits, langue, cuit, braisé",
+"es": "Cordero, menudencias y subproductos, lengua, cocido, estofado",
+"de": "Lamm, Innereien und Nebenprodukte, Zunge, gekocht, geschmort",
+"pt": "Cordeiro, miúdos e subprodutos, língua, cozido, ensopado"
+},
+"7566": {
+"it": "Agnello, frattaglie e sottoprodotti, lingua, crudo",
+"fr": "Agneau, abats et sous-produits, langue, cru",
+"es": "Cordero, menudencias y subproductos, lengua, crudo",
+"de": "Lamm, Innereien und Nebenprodukte, Zunge, roh",
+"pt": "Cordeiro, miúdos e subprodutos, língua, cru"
+},
+"7567": {
+"it": "Farinello (chenopodio), cotto",
+"fr": "Chénopode blanc, cuit",
+"es": "Quelite (cenizo), cocido",
+"de": "Weißer Gänsefuß, gekocht",
+"pt": "Ançarinha, cozida"
+},
+"7568": {
+"it": "Farinello, cotto, bollito, sgocciolato, con sale",
+"fr": "Chénopode blanc, cuit, bouilli, égoutté, avec sel",
+"es": "Quelite (cenizo), cocido, hervido, escurrido, con sal",
+"de": "Weißer Gänsefuß, gekocht, in Wasser gekocht, abgetropft, mit Salz",
+"pt": "Ançarinha, cozida, cozida em água, escorrida, com sal"
+},
+"7569": {
+"it": "Farinello, cotto, bollito, sgocciolato, senza sale",
+"fr": "Chénopode blanc, cuit, bouilli, égoutté, sans sel",
+"es": "Quelite (cenizo), cocido, hervido, escurrido, sin sal",
+"de": "Weißer Gänsefuß, gekocht, in Wasser gekocht, abgetropft, ohne Salz",
+"pt": "Ançarinha, cozida, cozida em água, escorrida, sem sal"
+},
+"7570": {
+"it": "Farinello, crudo",
+"fr": "Chénopode blanc, cru",
+"es": "Quelite (cenizo), crudo",
+"de": "Weißer Gänsefuß, roh",
+"pt": "Ançarinha, crua"
+},
+"7571": {
+"it": "Farinello, crudo (Indiani delle Pianure settentrionali)",
+"fr": "Chénopode blanc, cru (Amérindiens des Plaines du Nord)",
+"es": "Quelite (cenizo), crudo (indígenas de las Llanuras del Norte)",
+"de": "Weißer Gänsefuß, roh (Indianer der nördlichen Great Plains)",
+"pt": "Ançarinha, crua (indígenas das Planícies do Norte)"
+},
+"7572": {
+"it": "Farinello, al vapore (Indiani delle Pianure settentrionali)",
+"fr": "Chénopode blanc, cuit à la vapeur (Amérindiens des Plaines du Nord)",
+"es": "Quelite (cenizo), al vapor (indígenas de las Llanuras del Norte)",
+"de": "Weißer Gänsefuß, gedämpft (Indianer der nördlichen Great Plains)",
+"pt": "Ançarinha, cozida no vapor (indígenas das Planícies do Norte)"
+},
+"7573": {
+"it": "Strutto",
+"fr": "Saindoux",
+"es": "Manteca de cerdo",
+"de": "Schweineschmalz",
+"pt": "Banha de porco"
+},
+"7574": {
+"it": "Lasagne con pollo o tacchino",
+"fr": "Lasagnes au poulet ou à la dinde",
+"es": "Lasaña con pollo o pavo",
+"de": "Lasagne mit Huhn oder Pute",
+"pt": "Lasanha com frango ou peru"
+},
+"7575": {
+"it": "Lasagne con carne",
+"fr": "Lasagnes à la viande",
+"es": "Lasaña con carne",
+"de": "Lasagne mit Fleisch",
+"pt": "Lasanha com carne"
+},
+"7576": {
+"it": "Lasagne con carne e sugo, piatto pronto surgelato",
+"fr": "Lasagnes à la viande et à la sauce, plat cuisiné surgelé",
+"es": "Lasaña con carne y salsa, plato preparado congelado",
+"de": "Lasagne mit Fleisch und Sauce, Tiefkühlgericht",
+"pt": "Lasanha com carne e molho, prato pronto congelado"
+},
+"7577": {
+"it": "Lasagne con carne e sugo, a basso contenuto di grassi, piatto pronto surgelato",
+"fr": "Lasagnes à la viande et à la sauce, allégées, plat cuisiné surgelé",
+"es": "Lasaña con carne y salsa, baja en grasa, plato preparado congelado",
+"de": "Lasagne mit Fleisch und Sauce, fettarm, Tiefkühlgericht",
+"pt": "Lasanha com carne e molho, com baixo teor de gordura, prato pronto congelado"
+},
+"7578": {
+"it": "Lasagne con carne e spinaci",
+"fr": "Lasagnes à la viande et aux épinards",
+"es": "Lasaña con carne y espinacas",
+"de": "Lasagne mit Fleisch und Spinat",
+"pt": "Lasanha com carne e espinafre"
+},
+"7579": {
+"it": "Lasagne con ragù di carne, surgelate, preparate",
+"fr": "Lasagnes à la sauce à la viande, surgelées, préparées",
+"es": "Lasaña con salsa de carne, congelada, preparada",
+"de": "Lasagne mit Fleischsauce, tiefgekühlt, zubereitet",
+"pt": "Lasanha com molho de carne, congelada, preparada"
+},
+"7580": {
+"it": "Lasagne con carne, in scatola",
+"fr": "Lasagnes à la viande, en conserve",
+"es": "Lasaña con carne, en conserva",
+"de": "Lasagne mit Fleisch, aus der Dose",
+"pt": "Lasanha com carne, enlatada"
+},
+"7581": {
+"it": "Lasagne con carne, da ristorante",
+"fr": "Lasagnes à la viande, de restaurant",
+"es": "Lasaña con carne, de restaurante",
+"de": "Lasagne mit Fleisch, aus dem Restaurant",
+"pt": "Lasanha com carne, de restaurante"
+},
+"7582": {
+"it": "Lasagne con carne, surgelate",
+"fr": "Lasagnes à la viande, surgelées",
+"es": "Lasaña con carne, congelada",
+"de": "Lasagne mit Fleisch, tiefgekühlt",
+"pt": "Lasanha com carne, congelada"
+},
+"7583": {
+"it": "Lasagne con carne, ricetta casalinga",
+"fr": "Lasagnes à la viande, recette maison",
+"es": "Lasaña con carne, receta casera",
+"de": "Lasagne mit Fleisch, Hausrezept",
+"pt": "Lasanha com carne, receita caseira"
+},
+"7584": {
+"it": "Lasagne, formaggio, surgelate, preparate",
+"fr": "Lasagnes, fromage, surgelées, préparées",
+"es": "Lasaña, queso, congelada, preparada",
+"de": "Lasagne, Käse, tiefgekühlt, zubereitet",
+"pt": "Lasanha, queijo, congelada, preparada"
+},
+"7585": {
+"it": "Lasagne, formaggio, surgelate, non preparate",
+"fr": "Lasagnes, fromage, surgelées, non préparées",
+"es": "Lasaña, queso, congelada, sin preparar",
+"de": "Lasagne, Käse, tiefgekühlt, unzubereitet",
+"pt": "Lasanha, queijo, congelada, não preparada"
+},
+"7586": {
+"it": "Lasagne, senza carne",
+"fr": "Lasagnes, sans viande",
+"es": "Lasaña, sin carne",
+"de": "Lasagne, ohne Fleisch",
+"pt": "Lasanha, sem carne"
+},
+"7587": {
+"it": "Lasagne, senza carne, con verdure",
+"fr": "Lasagnes, sans viande, avec légumes",
+"es": "Lasaña, sin carne, con verduras",
+"de": "Lasagne, ohne Fleisch, mit Gemüse",
+"pt": "Lasanha, sem carne, com legumes"
+},
+"7588": {
+"it": "Lasagne, verdure, surgelate, al forno",
+"fr": "Lasagnes, légumes, surgelées, cuites au four",
+"es": "Lasaña, verduras, congelada, al horno",
+"de": "Lasagne, Gemüse, tiefgekühlt, gebacken",
+"pt": "Lasanha, legumes, congelada, assada no forno"
+},
+"7589": {
+"it": "Lasagne, con pollo o tacchino e spinaci",
+"fr": "Lasagnes, au poulet ou à la dinde et aux épinards",
+"es": "Lasaña, con pollo o pavo y espinacas",
+"de": "Lasagne, mit Huhn oder Pute und Spinat",
+"pt": "Lasanha, com frango ou peru e espinafre"
+},
+"7590": {
+"it": "Lau lau (involtino hawaiano di foglie di taro con maiale o pesce)",
+"fr": "Lau lau (paquet hawaïen de feuilles de taro au porc ou au poisson)",
+"es": "Lau lau (paquete hawaiano de hojas de taro con cerdo o pescado)",
+"de": "Lau Lau (hawaiianisches Taroblatt-Päckchen mit Schwein oder Fisch)",
+"pt": "Lau lau (trouxinha havaiana de folhas de taro com carne suína ou peixe)"
+},
+"7591": {
+"it": "Dip a strati",
+"fr": "Dip en couches",
+"es": "Dip en capas",
+"de": "Schichtdip",
+"pt": "Dip em camadas"
+},
+"7592": {
+"it": "LEAN POCKETS, Ham N Cheddar",
+"fr": "LEAN POCKETS, Ham N Cheddar",
+"es": "LEAN POCKETS, Ham N Cheddar",
+"de": "LEAN POCKETS, Ham N Cheddar",
+"pt": "LEAN POCKETS, Ham N Cheddar"
+},
+"7593": {
+"it": "Lean Pockets, Meatballs & Mozzarella",
+"fr": "Lean Pockets, Meatballs & Mozzarella",
+"es": "Lean Pockets, Meatballs & Mozzarella",
+"de": "Lean Pockets, Meatballs & Mozzarella",
+"pt": "Lean Pockets, Meatballs & Mozzarella"
+},
+"7594": {
+"it": "Agenti lievitanti, lievito in polvere, a doppia azione, solfato di sodio e alluminio",
+"fr": "Agents levants, levure chimique, double effet, sulfate d'aluminium et de sodium",
+"es": "Agentes leudantes, polvo de hornear, de doble acción, sulfato de sodio y aluminio",
+"de": "Backtriebmittel, Backpulver, doppelt wirkend, Natriumaluminiumsulfat",
+"pt": "Agentes de fermentação, fermento em pó, de dupla ação, sulfato de sódio e alumínio"
+},
+"7595": {
+"it": "Agenti lievitanti, lievito in polvere, a doppia azione, fosfato semplice",
+"fr": "Agents levants, levure chimique, double effet, phosphate simple",
+"es": "Agentes leudantes, polvo de hornear, de doble acción, fosfato simple",
+"de": "Backtriebmittel, Backpulver, doppelt wirkend, reines Phosphat",
+"pt": "Agentes de fermentação, fermento em pó, de dupla ação, fosfato simples"
+},
+"7596": {
+"it": "Agenti lievitanti, lievito in polvere, a basso contenuto di sodio",
+"fr": "Agents levants, levure chimique, pauvre en sodium",
+"es": "Agentes leudantes, polvo de hornear, bajo en sodio",
+"de": "Backtriebmittel, Backpulver, natriumarm",
+"pt": "Agentes de fermentação, fermento em pó, com baixo teor de sódio"
+},
+"7597": {
+"it": "Agenti lievitanti, bicarbonato di sodio",
+"fr": "Agents levants, bicarbonate de soude",
+"es": "Agentes leudantes, bicarbonato de sodio",
+"de": "Backtriebmittel, Natron",
+"pt": "Agentes de fermentação, bicarbonato de sódio"
+},
+"7598": {
+"it": "Agenti lievitanti, cremor tartaro",
+"fr": "Agents levants, crème de tartre",
+"es": "Agentes leudantes, crémor tártaro",
+"de": "Backtriebmittel, Weinstein",
+"pt": "Agentes de fermentação, cremor tártaro"
+},
+"7599": {
+"it": "Agenti lievitanti, lievito di birra, secco attivo",
+"fr": "Agents levants, levure de boulanger, sèche active",
+"es": "Agentes leudantes, levadura de panadería, seca activa",
+"de": "Backtriebmittel, Bäckerhefe, aktive Trockenhefe",
+"pt": "Agentes de fermentação, fermento biológico, seco ativo"
+},
+"7600": {
+"it": "Agenti lievitanti, lievito di birra, compresso",
+"fr": "Agents levants, levure de boulanger, pressée",
+"es": "Agentes leudantes, levadura de panadería, prensada",
+"de": "Backtriebmittel, Bäckerhefe, Presshefe",
+"pt": "Agentes de fermentação, fermento biológico, prensado"
+},
+"7601": {
+"it": "Lebanon bologna, manzo",
+"fr": "Lebanon bologna, bœuf",
+"es": "Lebanon bologna, res",
+"de": "Lebanon Bologna, Rind",
+"pt": "Lebanon bologna, carne bovina"
+},
+"7602": {
+"it": "Porri",
+"fr": "Poireaux",
+"es": "Puerros",
+"de": "Lauch (Porree)",
+"pt": "Alho-poró"
+},
+"7603": {
+"it": "Porri, (bulbo e parte inferiore delle foglie), cotti, bolliti, sgocciolati, con sale",
+"fr": "Poireaux, (bulbe et partie inférieure des feuilles), cuits, bouillis, égouttés, avec sel",
+"es": "Puerros, (bulbo y parte inferior de las hojas), cocidos, hervidos, escurridos, con sal",
+"de": "Lauch, (Zwiebel und unterer Blattanteil), gekocht, in Wasser gekocht, abgetropft, mit Salz",
+"pt": "Alho-poró, (bulbo e parte inferior das folhas), cozido, cozido em água, escorrido, com sal"
+},
+"7604": {
+"it": "Porri, (bulbo e parte inferiore delle foglie), cotti, bolliti, sgocciolati, senza sale",
+"fr": "Poireaux, (bulbe et partie inférieure des feuilles), cuits, bouillis, égouttés, sans sel",
+"es": "Puerros, (bulbo y parte inferior de las hojas), cocidos, hervidos, escurridos, sin sal",
+"de": "Lauch, (Zwiebel und unterer Blattanteil), gekocht, in Wasser gekocht, abgetropft, ohne Salz",
+"pt": "Alho-poró, (bulbo e parte inferior das folhas), cozido, cozido em água, escorrido, sem sal"
+},
+"7605": {
+"it": "Porri, (bulbo e parte inferiore delle foglie), crudi",
+"fr": "Poireaux, (bulbe et partie inférieure des feuilles), crus",
+"es": "Puerros, (bulbo y parte inferior de las hojas), crudos",
+"de": "Lauch, (Zwiebel und unterer Blattanteil), roh",
+"pt": "Alho-poró, (bulbo e parte inferior das folhas), cru"
+},
+"7606": {
+"it": "Porri, (bulbo e parte inferiore delle foglie), liofilizzati",
+"fr": "Poireaux, (bulbe et partie inférieure des feuilles), lyophilisés",
+"es": "Puerros, (bulbo y parte inferior de las hojas), liofilizados",
+"de": "Lauch, (Zwiebel und unterer Blattanteil), gefriergetrocknet",
+"pt": "Alho-poró, (bulbo e parte inferior das folhas), liofilizado"
+},
+"7607": {
+"it": "Lefse (focaccia norvegese di patate)",
+"fr": "Lefse (galette norvégienne de pommes de terre)",
+"es": "Lefse (torta noruega de patata)",
+"de": "Lefse (norwegisches Kartoffelfladenbrot)",
+"pt": "Lefse (pão achatado norueguês de batata)"
+},
+"7608": {
+"it": "Citronella (lemongrass), cruda",
+"fr": "Citronnelle, crue",
+"es": "Hierba de limón (citronela), cruda",
+"de": "Zitronengras, roh",
+"pt": "Capim-limão (citronela), cru"
+},
+"7609": {
+"it": "Succo di limone da concentrato, in bottiglia, CONCORD",
+"fr": "Jus de citron à base de concentré, en bouteille, CONCORD",
+"es": "Zumo de limón de concentrado, embotellado, CONCORD",
+"de": "Zitronensaft aus Konzentrat, abgefüllt, CONCORD",
+"pt": "Suco de limão-siciliano de concentrado, engarrafado, CONCORD"
+},
+"7610": {
+"it": "Succo di limone da concentrato, in bottiglia, REAL LEMON",
+"fr": "Jus de citron à base de concentré, en bouteille, REAL LEMON",
+"es": "Zumo de limón de concentrado, embotellado, REAL LEMON",
+"de": "Zitronensaft aus Konzentrat, abgefüllt, REAL LEMON",
+"pt": "Suco de limão-siciliano de concentrado, engarrafado, REAL LEMON"
+},
+"7611": {
+"it": "Succo di limone da concentrato, in scatola o in bottiglia",
+"fr": "Jus de citron à base de concentré, en conserve ou en bouteille",
+"es": "Zumo de limón de concentrado, enlatado o embotellado",
+"de": "Zitronensaft aus Konzentrat, aus der Dose oder Flasche",
+"pt": "Suco de limão-siciliano de concentrado, enlatado ou engarrafado"
+},
+"7612": {
+"it": "Succo di limone, 100%, in scatola o in bottiglia",
+"fr": "Jus de citron, 100%, en conserve ou en bouteille",
+"es": "Zumo de limón, 100%, enlatado o embotellado",
+"de": "Zitronensaft, 100%, aus der Dose oder Flasche",
+"pt": "Suco de limão-siciliano, 100%, enlatado ou engarrafado"
+},
+"7613": {
+"it": "Succo di limone, 100%, appena spremuto",
+"fr": "Jus de citron, 100%, pressé minute",
+"es": "Zumo de limón, 100%, recién exprimido",
+"de": "Zitronensaft, 100%, frisch gepresst",
+"pt": "Suco de limão-siciliano, 100%, espremido na hora"
+},
+"7614": {
+"it": "Succo di limone, 100%, forma non specificata",
+"fr": "Jus de citron, 100%, forme non précisée",
+"es": "Zumo de limón, 100%, forma sin especificar",
+"de": "Zitronensaft, 100%, Form nicht angegeben",
+"pt": "Suco de limão-siciliano, 100%, forma não especificada"
+},
+"7615": {
+"it": "Succo di limone, crudo",
+"fr": "Jus de citron, cru",
+"es": "Zumo de limón, crudo",
+"de": "Zitronensaft, roh",
+"pt": "Suco de limão-siciliano, cru"
+},
+"7616": {
+"it": "Scorza di limone, cruda",
+"fr": "Zeste de citron, cru",
+"es": "Cáscara de limón, cruda",
+"de": "Zitronenschale, roh",
+"pt": "Casca de limão-siciliano, crua"
+},
+"7617": {
+"it": "Ripieno per torta al limone",
+"fr": "Garniture pour tarte au citron",
+"es": "Relleno para tarta de limón",
+"de": "Zitronenkuchenfüllung",
+"pt": "Recheio de torta de limão-siciliano"
+},
+"7618": {
+"it": "Limone, crudo",
+"fr": "Citron, cru",
+"es": "Limón, crudo",
+"de": "Zitrone, roh",
+"pt": "Limão-siciliano, cru"
+},
+"7619": {
+"it": "Salsa al burro e limone",
+"fr": "Sauce au beurre citronné",
+"es": "Salsa de mantequilla y limón",
+"de": "Zitronenbuttersauce",
+"pt": "Molho de manteiga e limão-siciliano"
+},
+"7620": {
+"it": "Limonata, concentrato surgelato, non ricostituito",
+"fr": "Limonade, concentré surgelé, non reconstitué",
+"es": "Limonada, concentrado congelado, sin reconstituir",
+"de": "Limonade, tiefgekühltes Konzentrat, nicht rekonstituiert",
+"pt": "Limonada, concentrado congelado, não reconstituído"
+},
+"7621": {
+"it": "Limonata, concentrato surgelato, rosa",
+"fr": "Limonade, concentré surgelé, rose",
+"es": "Limonada, concentrado congelado, rosa",
+"de": "Limonade, tiefgekühltes Konzentrat, rosa",
+"pt": "Limonada, concentrado congelado, rosa"
+},
+"7622": {
+"it": "Limonata, concentrato surgelato, bianca",
+"fr": "Limonade, concentré surgelé, blanche",
+"es": "Limonada, concentrado congelado, blanca",
+"de": "Limonade, tiefgekühltes Konzentrat, weiß",
+"pt": "Limonada, concentrado congelado, branca"
+},
+"7623": {
+"it": "Limonata, concentrato surgelato, bianca, preparata con acqua",
+"fr": "Limonade, concentré surgelé, blanche, préparée avec de l'eau",
+"es": "Limonada, concentrado congelado, blanca, preparada con agua",
+"de": "Limonade, tiefgekühltes Konzentrat, weiß, mit Wasser zubereitet",
+"pt": "Limonada, concentrado congelado, branca, preparada com água"
+},
+"7624": {
+"it": "Limonata, bevanda aromatizzata alla frutta",
+"fr": "Limonade, boisson aromatisée aux fruits",
+"es": "Limonada, bebida con sabor a frutas",
+"de": "Limonade, Getränk mit Fruchtgeschmack",
+"pt": "Limonada, bebida sabor frutas"
+},
+"7625": {
+"it": "Limonata, bevanda a base di succo di frutta",
+"fr": "Limonade, boisson à base de jus de fruits",
+"es": "Limonada, bebida a base de zumo de frutas",
+"de": "Limonade, Fruchtsaftgetränk",
+"pt": "Limonada, bebida com suco de frutas"
+},
+"7626": {
+"it": "Limonata, bevanda a base di succo di frutta, light",
+"fr": "Limonade, boisson à base de jus de fruits, allégée",
+"es": "Limonada, bebida a base de zumo de frutas, light",
+"de": "Limonade, Fruchtsaftgetränk, light",
+"pt": "Limonada, bebida com suco de frutas, light"
+},
+"7627": {
+"it": "Limonata, in polvere, preparata con acqua",
+"fr": "Limonade, en poudre, préparée avec de l'eau",
+"es": "Limonada, en polvo, preparada con agua",
+"de": "Limonade, Pulver, mit Wasser zubereitet",
+"pt": "Limonada, em pó, preparada com água"
+},
+"7628": {
+"it": "Limoni, crudi, senza buccia",
+"fr": "Citrons, crus, sans peau",
+"es": "Limones, crudos, sin piel",
+"de": "Zitronen, roh, ohne Schale",
+"pt": "Limões-sicilianos, crus, sem casca"
+},
+"7629": {
+"it": "Curry di lenticchie",
+"fr": "Curry de lentilles",
+"es": "Curry de lentejas",
+"de": "Linsencurry",
+"pt": "Curry de lentilha"
+},
+"7630": {
+"it": "Curry di lenticchie con riso",
+"fr": "Curry de lentilles au riz",
+"es": "Curry de lentejas con arroz",
+"de": "Linsencurry mit Reis",
+"pt": "Curry de lentilha com arroz"
+},
+"7631": {
+"it": "Lenticchie, secche",
+"fr": "Lentilles, sèches",
+"es": "Lentejas, secas",
+"de": "Linsen, trocken",
+"pt": "Lentilhas, secas"
+},
+"7632": {
+"it": "Lenticchie, da conserva",
+"fr": "Lentilles, à partir de conserve",
+"es": "Lentejas, de conserva",
+"de": "Linsen, aus der Dose",
+"pt": "Lentilhas, de lata"
+},
+"7633": {
+"it": "Lenticchie, da secche, con aggiunta di grassi",
+"fr": "Lentilles, à partir de sèches, avec matière grasse ajoutée",
+"es": "Lentejas, de secas, con grasa añadida",
+"de": "Linsen, aus getrockneten, mit Fettzusatz",
+"pt": "Lentilhas, de secas, com adição de gordura"
+},
+"7634": {
+"it": "Lenticchie, da secche, senza grassi aggiunti",
+"fr": "Lentilles, à partir de sèches, sans matière grasse ajoutée",
+"es": "Lentejas, de secas, sin grasa añadida",
+"de": "Linsen, aus getrockneten, ohne Fettzusatz",
+"pt": "Lentilhas, de secas, sem adição de gordura"
+},
+"7635": {
+"it": "Lenticchie, semi maturi, cotte, bollite, con sale",
+"fr": "Lentilles, graines mûres, cuites, bouillies, avec sel",
+"es": "Lentejas, semillas maduras, cocidas, hervidas, con sal",
+"de": "Linsen, reife Samen, gekocht, in Wasser gekocht, mit Salz",
+"pt": "Lentilhas, sementes maduras, cozidas, cozidas em água, com sal"
+},
+"7636": {
+"it": "Lenticchie, semi maturi, cotte, bollite, senza sale",
+"fr": "Lentilles, graines mûres, cuites, bouillies, sans sel",
+"es": "Lentejas, semillas maduras, cocidas, hervidas, sin sal",
+"de": "Linsen, reife Samen, gekocht, in Wasser gekocht, ohne Salz",
+"pt": "Lentilhas, sementes maduras, cozidas, cozidas em água, sem sal"
+},
+"7637": {
+"it": "Lenticchie, non specificato",
+"fr": "Lentilles, non spécifié",
+"es": "Lentejas, no especificado",
+"de": "Linsen, nicht näher bezeichnet",
+"pt": "Lentilhas, não especificado"
+},
+"7638": {
+"it": "Lenticchie, rosse o rosa, crude",
+"fr": "Lentilles, roses ou rouges, crues",
+"es": "Lentejas, rosadas o rojas, crudas",
+"de": "Linsen, rosa oder rot, roh",
+"pt": "Lentilhas, rosadas ou vermelhas, cruas"
+},
+"7639": {
+"it": "Lenticchie, crude",
+"fr": "Lentilles, crues",
+"es": "Lentejas, crudas",
+"de": "Linsen, roh",
+"pt": "Lentilhas, cruas"
+},
+"7640": {
+"it": "Lenticchie, germogliate, cotte, saltate in padella, con sale",
+"fr": "Lentilles, germées, cuites, sautées, avec sel",
+"es": "Lentejas, germinadas, cocidas, salteadas, con sal",
+"de": "Linsen, gekeimt, gekocht, pfannengerührt, mit Salz",
+"pt": "Lentilhas, germinadas, cozidas, salteadas, com sal"
+},
+"7641": {
+"it": "Lenticchie, germogliate, cotte, saltate in padella, senza sale",
+"fr": "Lentilles, germées, cuites, sautées, sans sel",
+"es": "Lentejas, germinadas, cocidas, salteadas, sin sal",
+"de": "Linsen, gekeimt, gekocht, pfannengerührt, ohne Salz",
+"pt": "Lentilhas, germinadas, cozidas, salteadas, sem sal"
+},
+"7642": {
+"it": "Lenticchie, germogliate, crude",
+"fr": "Lentilles, germées, crues",
+"es": "Lentejas, germinadas, crudas",
+"de": "Linsen, gekeimt, roh",
+"pt": "Lentilhas, germinadas, cruas"
+},
+"7643": {
+"it": "Lattuga, rucola, cruda",
+"fr": "Laitue, roquette, crue",
+"es": "Lechuga, rúcula, cruda",
+"de": "Salat, Rucola, roh",
+"pt": "Alface, rúcula, crua"
+},
+"7644": {
+"it": "Lattuga, Boston, cruda",
+"fr": "Laitue, Boston, crue",
+"es": "Lechuga, Boston, cruda",
+"de": "Salat, Boston, roh",
+"pt": "Alface, Boston, crua"
+},
+"7645": {
+"it": "Lattuga, a cappuccio tipo burro (include i tipi Boston e Bibb), cruda",
+"fr": "Laitue, beurre (comprend les types Boston et Bibb), crue",
+"es": "Lechuga, mantecosa (incluye los tipos Boston y Bibb), cruda",
+"de": "Salat, Butterkopfsalat (einschließlich Boston- und Bibb-Typen), roh",
+"pt": "Alface, manteiga (inclui os tipos Boston e Bibb), crua"
+},
+"7646": {
+"it": "Lattuga, cotta",
+"fr": "Laitue, cuite",
+"es": "Lechuga, cocida",
+"de": "Salat, gekocht",
+"pt": "Alface, cozida"
+},
+"7647": {
+"it": "Lattuga, romana, cruda",
+"fr": "Laitue, romaine, crue",
+"es": "Lechuga, romana, cruda",
+"de": "Salat, Romana, roh",
+"pt": "Alface, romana, crua"
+},
+"7648": {
+"it": "Lattuga, per panini",
+"fr": "Laitue, pour sandwich",
+"es": "Lechuga, para sándwich",
+"de": "Salat, für Sandwiches",
+"pt": "Alface, para sanduíche"
+},
+"7649": {
+"it": "Lattuga, a foglia verde, cruda",
+"fr": "Laitue, à feuille verte, crue",
+"es": "Lechuga, de hoja verde, cruda",
+"de": "Salat, grüner Blattsalat, roh",
+"pt": "Alface, de folha verde, crua"
+},
+"7650": {
+"it": "Lattuga, iceberg (include i tipi a cappuccio croccante), cruda",
+"fr": "Laitue, iceberg (comprend les types pommés croquants), crue",
+"es": "Lechuga, iceberg (incluye los tipos de cabeza crujiente), cruda",
+"de": "Salat, Eisbergsalat (einschließlich Krachsalat-Typen), roh",
+"pt": "Alface, americana (inclui os tipos de cabeça crocante), crua"
+},
+"7651": {
+"it": "Lattuga, iceberg, cruda",
+"fr": "Laitue, iceberg, crue",
+"es": "Lechuga, iceberg, cruda",
+"de": "Salat, Eisbergsalat, roh",
+"pt": "Alface, americana, crua"
+},
+"7652": {
+"it": "Lattuga, a foglia, verde, cruda",
+"fr": "Laitue, à feuilles, verte, crue",
+"es": "Lechuga, de hoja, verde, cruda",
+"de": "Salat, Blattsalat, grün, roh",
+"pt": "Alface, de folha, verde, crua"
+},
+"7653": {
+"it": "Lattuga, a foglia, rossa, cruda",
+"fr": "Laitue, à feuilles, rouge, crue",
+"es": "Lechuga, de hoja, roja, cruda",
+"de": "Salat, Blattsalat, rot, roh",
+"pt": "Alface, de folha, roxa, crua"
+},
+"7654": {
+"it": "Lattuga, cruda",
+"fr": "Laitue, crue",
+"es": "Lechuga, cruda",
+"de": "Salat, roh",
+"pt": "Alface, crua"
+},
+"7655": {
+"it": "Lattuga, a foglia rossa, cruda",
+"fr": "Laitue, à feuille rouge, crue",
+"es": "Lechuga, de hoja roja, cruda",
+"de": "Salat, roter Blattsalat, roh",
+"pt": "Alface, de folha roxa, crua"
+},
+"7656": {
+"it": "Lattuga, romana, verde, cruda",
+"fr": "Laitue, romaine, verte, crue",
+"es": "Lechuga, romana, verde, cruda",
+"de": "Salat, Romana, grün, roh",
+"pt": "Alface, romana, verde, crua"
+},
+"7657": {
+"it": "Lattuga, insalata con verdure miste esclusi pomodori e carote, senza condimento",
+"fr": "Laitue, salade avec légumes variés sans tomates ni carottes, sans assaisonnement",
+"es": "Lechuga, ensalada con verduras variadas excepto tomates y zanahorias, sin aliño",
+"de": "Salat, Salat mit gemischtem Gemüse ohne Tomaten und Karotten, ohne Dressing",
+"pt": "Alface, salada com legumes variados exceto tomates e cenouras, sem molho"
+},
+"7658": {
+"it": "Lattuga, insalata con verdure miste compresi pomodori e/o carote, senza condimento",
+"fr": "Laitue, salade avec légumes variés dont tomates et/ou carottes, sans assaisonnement",
+"es": "Lechuga, ensalada con verduras variadas incluidos tomates y/o zanahorias, sin aliño",
+"de": "Salat, Salat mit gemischtem Gemüse einschließlich Tomaten und/oder Karotten, ohne Dressing",
+"pt": "Alface, salada com legumes variados incluindo tomates e/ou cenouras, sem molho"
+},
+"7659": {
+"it": "Lattuga, insalata con avocado, pomodoro e/o carote, con o senza altre verdure, senza condimento",
+"fr": "Laitue, salade avec avocat, tomate et/ou carottes, avec ou sans autres légumes, sans assaisonnement",
+"es": "Lechuga, ensalada con aguacate, tomate y/o zanahorias, con o sin otras verduras, sin aliño",
+"de": "Salat, Salat mit Avocado, Tomate und/oder Karotten, mit oder ohne anderes Gemüse, ohne Dressing",
+"pt": "Alface, salada com abacate, tomate e/ou cenouras, com ou sem outros legumes, sem molho"
+},
+"7660": {
+"it": "Lattuga, insalata con formaggio, pomodoro e/o carote, con o senza altre verdure, senza condimento",
+"fr": "Laitue, salade avec fromage, tomate et/ou carottes, avec ou sans autres légumes, sans assaisonnement",
+"es": "Lechuga, ensalada con queso, tomate y/o zanahorias, con o sin otras verduras, sin aliño",
+"de": "Salat, Salat mit Käse, Tomate und/oder Karotten, mit oder ohne anderes Gemüse, ohne Dressing",
+"pt": "Alface, salada com queijo, tomate e/ou cenouras, com ou sem outros legumes, sem molho"
+},
+"7661": {
+"it": "Lattuga, insalata con uovo, formaggio, pomodoro e/o carote, con o senza altre verdure, senza condimento",
+"fr": "Laitue, salade avec œuf, fromage, tomate et/ou carottes, avec ou sans autres légumes, sans assaisonnement",
+"es": "Lechuga, ensalada con huevo, queso, tomate y/o zanahorias, con o sin otras verduras, sin aliño",
+"de": "Salat, Salat mit Ei, Käse, Tomate und/oder Karotten, mit oder ohne anderes Gemüse, ohne Dressing",
+"pt": "Alface, salada com ovo, queijo, tomate e/ou cenouras, com ou sem outros legumes, sem molho"
+},
+"7662": {
+"it": "Lattuga, insalata con uovo, pomodoro e/o carote, con o senza altre verdure, senza condimento",
+"fr": "Laitue, salade avec œuf, tomate et/ou carottes, avec ou sans autres légumes, sans assaisonnement",
+"es": "Lechuga, ensalada con huevo, tomate y/o zanahorias, con o sin otras verduras, sin aliño",
+"de": "Salat, Salat mit Ei, Tomate und/oder Karotten, mit oder ohne anderes Gemüse, ohne Dressing",
+"pt": "Alface, salada com ovo, tomate e/ou cenouras, com ou sem outros legumes, sem molho"
+},
+"7663": {
+"it": "Lattuga, appassita, con condimento alla pancetta",
+"fr": "Laitue, flétrie, avec vinaigrette au lard (bacon)",
+"es": "Lechuga, marchita, con aliño de beicon",
+"de": "Salat, welk, mit Speckdressing",
+"pt": "Alface, murcha, com molho de bacon"
+},
+"7664": {
+"it": "Licuado o Batido (frullato latinoamericano)",
+"fr": "Licuado ou Batido (boisson mixée latino-américaine)",
+"es": "Licuado o batido",
+"de": "Licuado oder Batido (lateinamerikanischer Mixgetränk-Shake)",
+"pt": "Licuado ou Batido (vitamina latino-americana)"
+},
+"7665": {
+"it": "Barretta di gelato light, al cioccolato",
+"fr": "Barre de crème glacée allégée, chocolat",
+"es": "Barra de helado light, chocolate",
+"de": "Light-Eisriegel, Schokolade",
+"pt": "Barra de sorvete light, chocolate"
+},
+"7666": {
+"it": "Barretta di gelato light, alla vaniglia",
+"fr": "Barre de crème glacée allégée, vanille",
+"es": "Barra de helado light, vainilla",
+"de": "Light-Eisriegel, Vanille",
+"pt": "Barra de sorvete light, baunilha"
+},
+"7667": {
+"it": "Barretta di gelato light, alla vaniglia, ricoperta di cioccolato",
+"fr": "Barre de crème glacée allégée, vanille, enrobée de chocolat",
+"es": "Barra de helado light, vainilla, bañada en chocolate",
+"de": "Light-Eisriegel, Vanille, mit Schokoladenüberzug",
+"pt": "Barra de sorvete light, baunilha, coberta com chocolate"
+},
+"7668": {
+"it": "Cono gelato light, al cioccolato, preconfezionato",
+"fr": "Cornet de crème glacée allégée, chocolat, préemballé",
+"es": "Cono de helado light, chocolate, envasado",
+"de": "Light-Eishörnchen, Schokolade, abgepackt",
+"pt": "Casquinha de sorvete light, chocolate, embalada"
+},
+"7669": {
+"it": "Cono gelato light, alla vaniglia, preconfezionato",
+"fr": "Cornet de crème glacée allégée, vanille, préemballé",
+"es": "Cono de helado light, vainilla, envasado",
+"de": "Light-Eishörnchen, Vanille, abgepackt",
+"pt": "Casquinha de sorvete light, baunilha, embalada"
+},
+"7670": {
+"it": "Sandwich gelato light, al cioccolato",
+"fr": "Sandwich de crème glacée allégée, chocolat",
+"es": "Sándwich de helado light, chocolate",
+"de": "Light-Eissandwich, Schokolade",
+"pt": "Sanduíche de sorvete light, chocolate"
+},
+"7671": {
+"it": "Sandwich gelato light, alla vaniglia",
+"fr": "Sandwich de crème glacée allégée, vanille",
+"es": "Sándwich de helado light, vainilla",
+"de": "Light-Eissandwich, Vanille",
+"pt": "Sanduíche de sorvete light, baunilha"
+},
+"7672": {
+"it": "Gelato light, al cioccolato",
+"fr": "Crème glacée allégée, chocolat",
+"es": "Helado light, chocolate",
+"de": "Light-Eis, Schokolade",
+"pt": "Sorvete light, chocolate"
+},
+"7673": {
+"it": "Gelato light, Creamsicle",
+"fr": "Crème glacée allégée, Creamsicle",
+"es": "Helado light, Creamsicle",
+"de": "Light-Eis, Creamsicle",
+"pt": "Sorvete light, Creamsicle"
+},
+"7674": {
+"it": "Gelato light, non specificato",
+"fr": "Crème glacée allégée, non spécifié",
+"es": "Helado light, no especificado",
+"de": "Light-Eis, nicht näher bezeichnet",
+"pt": "Sorvete light, não especificado"
+},
+"7675": {
+"it": "Gelato light, soft, mescolato con pezzetti di biscotto",
+"fr": "Crème glacée allégée, glace molle, mélangée avec des morceaux de biscuit",
+"es": "Helado light, tipo soft, mezclado con trocitos de galleta",
+"de": "Light-Eis, Softeis, gemischt mit Keksstückchen",
+"pt": "Sorvete light, tipo soft, misturado com pedaços de biscoito"
+},
+"7676": {
+"it": "Gelato light, soft, mescolato con confetti di cioccolato al latte",
+"fr": "Crème glacée allégée, glace molle, mélangée avec des bonbons au chocolat au lait",
+"es": "Helado light, tipo soft, mezclado con grageas de chocolate con leche",
+"de": "Light-Eis, Softeis, gemischt mit Milchschokoladen-Bonbons",
+"pt": "Sorvete light, tipo soft, misturado com confeitos de chocolate ao leite"
+},
+"7677": {
+"it": "Gelato light, alla vaniglia",
+"fr": "Crème glacée allégée, vanille",
+"es": "Helado light, vainilla",
+"de": "Light-Eis, Vanille",
+"pt": "Sorvete light, baunilha"
+},
+"7678": {
+"it": "Fagioli di Lima e mais, cotti, con aggiunta di grassi",
+"fr": "Haricots de Lima et maïs, cuits, avec matière grasse ajoutée",
+"es": "Frijoles de Lima y maíz, cocidos, con grasa añadida",
+"de": "Limabohnen und Mais, gekocht, mit Fettzusatz",
+"pt": "Feijão-de-lima e milho, cozidos, com adição de gordura"
+},
+"7679": {
+"it": "Fagioli di Lima e mais, cotti, senza grassi aggiunti",
+"fr": "Haricots de Lima et maïs, cuits, sans matière grasse ajoutée",
+"es": "Frijoles de Lima y maíz, cocidos, sin grasa añadida",
+"de": "Limabohnen und Mais, gekocht, ohne Fettzusatz",
+"pt": "Feijão-de-lima e milho, cozidos, sem adição de gordura"
+},
+"7680": {
+"it": "Fagioli di Lima, da conserva",
+"fr": "Haricots de Lima, à partir de conserve",
+"es": "Frijoles de Lima, de conserva",
+"de": "Limabohnen, aus der Dose",
+"pt": "Feijão-de-lima, de lata"
+},
+"7681": {
+"it": "Fagioli di Lima, da secchi",
+"fr": "Haricots de Lima, à partir de secs",
+"es": "Frijoles de Lima, de secos",
+"de": "Limabohnen, aus getrockneten",
+"pt": "Feijão-de-lima, de secos"
+},
+"7682": {
+"it": "Fagioli di Lima, da surgelati, con aggiunta di grassi",
+"fr": "Haricots de Lima, à partir de surgelés, avec matière grasse ajoutée",
+"es": "Frijoles de Lima, de congelados, con grasa añadida",
+"de": "Limabohnen, aus tiefgekühlten, mit Fettzusatz",
+"pt": "Feijão-de-lima, de congelados, com adição de gordura"
+},
+"7683": {
+"it": "Fagioli di Lima, da surgelati, senza grassi aggiunti",
+"fr": "Haricots de Lima, à partir de surgelés, sans matière grasse ajoutée",
+"es": "Frijoles de Lima, de congelados, sin grasa añadida",
+"de": "Limabohnen, aus tiefgekühlten, ohne Fettzusatz",
+"pt": "Feijão-de-lima, de congelados, sem adição de gordura"
+},
+"7684": {
+"it": "Fagioli di Lima, semi immaturi, in scatola, senza sale aggiunto, solidi e liquidi",
+"fr": "Haricots de Lima, graines immatures, en conserve, sans sel ajouté, solides et liquides",
+"es": "Frijoles de Lima, semillas inmaduras, en conserva, sin sal añadida, sólidos y líquidos",
+"de": "Limabohnen, unreife Samen, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
+"pt": "Feijão-de-lima, sementes imaturas, enlatado, sem sal adicionado, sólidos e líquidos"
+},
+"7685": {
+"it": "Fagioli di Lima, semi immaturi, in scatola, confezione normale, solidi e liquidi",
+"fr": "Haricots de Lima, graines immatures, en conserve, conditionnement standard, solides et liquides",
+"es": "Frijoles de Lima, semillas inmaduras, en conserva, envase regular, sólidos y líquidos",
+"de": "Limabohnen, unreife Samen, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
+"pt": "Feijão-de-lima, sementes imaturas, enlatado, embalagem regular, sólidos e líquidos"
+},
+"7686": {
+"it": "Fagioli di Lima, semi immaturi, cotti, bolliti, sgocciolati, con sale",
+"fr": "Haricots de Lima, graines immatures, cuits, bouillis, égouttés, avec sel",
+"es": "Frijoles de Lima, semillas inmaduras, cocidos, hervidos, escurridos, con sal",
+"de": "Limabohnen, unreife Samen, gekocht, in Wasser gekocht, abgetropft, mit Salz",
+"pt": "Feijão-de-lima, sementes imaturas, cozido, cozido em água, escorrido, com sal"
+},
+"7687": {
+"it": "Fagioli di Lima, semi immaturi, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Haricots de Lima, graines immatures, cuits, bouillis, égouttés, sans sel",
+"es": "Frijoles de Lima, semillas inmaduras, cocidos, hervidos, escurridos, sin sal",
+"de": "Limabohnen, unreife Samen, gekocht, in Wasser gekocht, abgetropft, ohne Salz",
+"pt": "Feijão-de-lima, sementes imaturas, cozido, cozido em água, escorrido, sem sal"
+},
+"7688": {
+"it": "Fagioli di Lima, semi immaturi, surgelati, baby, cotti, bolliti, sgocciolati, con sale",
+"fr": "Haricots de Lima, graines immatures, surgelés, petits, cuits, bouillis, égouttés, avec sel",
+"es": "Frijoles de Lima, semillas inmaduras, congelados, baby, cocidos, hervidos, escurridos, con sal",
+"de": "Limabohnen, unreife Samen, tiefgekühlt, Baby, gekocht, in Wasser gekocht, abgetropft, mit Salz",
+"pt": "Feijão-de-lima, sementes imaturas, congelado, baby, cozido, cozido em água, escorrido, com sal"
+},
+"7689": {
+"it": "Fagioli di Lima, semi immaturi, surgelati, baby, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Haricots de Lima, graines immatures, surgelés, petits, cuits, bouillis, égouttés, sans sel",
+"es": "Frijoles de Lima, semillas inmaduras, congelados, baby, cocidos, hervidos, escurridos, sin sal",
+"de": "Limabohnen, unreife Samen, tiefgekühlt, Baby, gekocht, in Wasser gekocht, abgetropft, ohne Salz",
+"pt": "Feijão-de-lima, sementes imaturas, congelado, baby, cozido, cozido em água, escorrido, sem sal"
+},
+"7690": {
+"it": "Fagioli di Lima, semi immaturi, surgelati, baby, non preparati",
+"fr": "Haricots de Lima, graines immatures, surgelés, petits, non préparés",
+"es": "Frijoles de Lima, semillas inmaduras, congelados, baby, sin preparar",
+"de": "Limabohnen, unreife Samen, tiefgekühlt, Baby, unzubereitet",
+"pt": "Feijão-de-lima, sementes imaturas, congelado, baby, não preparado"
+},
+"7691": {
+"it": "Fagioli di Lima, semi immaturi, surgelati, Fordhook, cotti, bolliti, sgocciolati, con sale",
+"fr": "Haricots de Lima, graines immatures, surgelés, Fordhook, cuits, bouillis, égouttés, avec sel",
+"es": "Frijoles de Lima, semillas inmaduras, congelados, Fordhook, cocidos, hervidos, escurridos, con sal",
+"de": "Limabohnen, unreife Samen, tiefgekühlt, Fordhook, gekocht, in Wasser gekocht, abgetropft, mit Salz",
+"pt": "Feijão-de-lima, sementes imaturas, congelado, Fordhook, cozido, cozido em água, escorrido, com sal"
+},
+"7692": {
+"it": "Fagioli di Lima, semi immaturi, surgelati, Fordhook, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Haricots de Lima, graines immatures, surgelés, Fordhook, cuits, bouillis, égouttés, sans sel",
+"es": "Frijoles de Lima, semillas inmaduras, congelados, Fordhook, cocidos, hervidos, escurridos, sin sal",
+"de": "Limabohnen, unreife Samen, tiefgekühlt, Fordhook, gekocht, in Wasser gekocht, abgetropft, ohne Salz",
+"pt": "Feijão-de-lima, sementes imaturas, congelado, Fordhook, cozido, cozido em água, escorrido, sem sal"
+},
+"7693": {
+"it": "Fagioli di Lima, semi immaturi, surgelati, Fordhook, non preparati",
+"fr": "Haricots de Lima, graines immatures, surgelés, Fordhook, non préparés",
+"es": "Frijoles de Lima, semillas inmaduras, congelados, Fordhook, sin preparar",
+"de": "Limabohnen, unreife Samen, tiefgekühlt, Fordhook, unzubereitet",
+"pt": "Feijão-de-lima, sementes imaturas, congelado, Fordhook, não preparado"
+},
+"7694": {
+"it": "Fagioli di Lima, semi immaturi, crudi",
+"fr": "Haricots de Lima, graines immatures, crus",
+"es": "Frijoles de Lima, semillas inmaduras, crudos",
+"de": "Limabohnen, unreife Samen, roh",
+"pt": "Feijão-de-lima, sementes imaturas, cru"
+},
+"7695": {
+"it": "Fagioli di Lima, grandi, semi maturi, in scatola",
+"fr": "Haricots de Lima, gros, graines mûres, en conserve",
+"es": "Frijoles de Lima, grandes, semillas maduras, en conserva",
+"de": "Limabohnen, große, reife Samen, aus der Dose",
+"pt": "Feijão-de-lima, grande, sementes maduras, enlatado"
+},
+"7696": {
+"it": "Fagioli di Lima, grandi, semi maturi, cotti, bolliti, con sale",
+"fr": "Haricots de Lima, gros, graines mûres, cuits, bouillis, avec sel",
+"es": "Frijoles de Lima, grandes, semillas maduras, cocidos, hervidos, con sal",
+"de": "Limabohnen, große, reife Samen, gekocht, in Wasser gekocht, mit Salz",
+"pt": "Feijão-de-lima, grande, sementes maduras, cozido, cozido em água, com sal"
+},
+"7697": {
+"it": "Fagioli di Lima, grandi, semi maturi, cotti, bolliti, senza sale",
+"fr": "Haricots de Lima, gros, graines mûres, cuits, bouillis, sans sel",
+"es": "Frijoles de Lima, grandes, semillas maduras, cocidos, hervidos, sin sal",
+"de": "Limabohnen, große, reife Samen, gekocht, in Wasser gekocht, ohne Salz",
+"pt": "Feijão-de-lima, grande, sementes maduras, cozido, cozido em água, sem sal"
+},
+"7698": {
+"it": "Fagioli di Lima, grandi, semi maturi, crudi",
+"fr": "Haricots de Lima, gros, graines mûres, crus",
+"es": "Frijoles de Lima, grandes, semillas maduras, crudos",
+"de": "Limabohnen, große, reife Samen, roh",
+"pt": "Feijão-de-lima, grande, sementes maduras, cru"
+},
+"7699": {
+"it": "Fagioli di Lima, non specificato",
+"fr": "Haricots de Lima, non spécifié",
+"es": "Frijoles de Lima, no especificado",
+"de": "Limabohnen, nicht näher bezeichnet",
+"pt": "Feijão-de-lima, não especificado"
+},
+"7700": {
+"it": "Fagioli di Lima, a seme sottile (baby), semi maturi, cotti, bolliti, con sale",
+"fr": "Haricots de Lima, à graines fines (baby), graines mûres, cuits, bouillis, avec sel",
+"es": "Frijoles de Lima, de semilla delgada (baby), semillas maduras, cocidos, hervidos, con sal",
+"de": "Limabohnen, dünnsamig (Baby), reife Samen, gekocht, in Wasser gekocht, mit Salz",
+"pt": "Feijão-de-lima, de semente fina (baby), sementes maduras, cozido, cozido em água, com sal"
+},
+"7701": {
+"it": "Fagioli di Lima, a seme sottile (baby), semi maturi, cotti, bolliti, senza sale",
+"fr": "Haricots de Lima, à graines fines (baby), graines mûres, cuits, bouillis, sans sel",
+"es": "Frijoles de Lima, de semilla delgada (baby), semillas maduras, cocidos, hervidos, sin sal",
+"de": "Limabohnen, dünnsamig (Baby), reife Samen, gekocht, in Wasser gekocht, ohne Salz",
+"pt": "Feijão-de-lima, de semente fina (baby), sementes maduras, cozido, cozido em água, sem sal"
+},
+"7702": {
+"it": "Fagioli di Lima, a seme sottile (baby), semi maturi, crudi",
+"fr": "Haricots de Lima, à graines fines (baby), graines mûres, crus",
+"es": "Frijoles de Lima, de semilla delgada (baby), semillas maduras, crudos",
+"de": "Limabohnen, dünnsamig (Baby), reife Samen, roh",
+"pt": "Feijão-de-lima, de semente fina (baby), sementes maduras, cru"
+},
+"7703": {
+"it": "Succo di lime, 100%, in scatola o in bottiglia",
+"fr": "Jus de citron vert, 100%, en conserve ou en bouteille",
+"es": "Zumo de lima, 100%, enlatado o embotellado",
+"de": "Limettensaft, 100%, aus der Dose oder Flasche",
+"pt": "Suco de limão, 100%, enlatado ou engarrafado"
+},
+"7704": {
+"it": "Succo di lime, 100%, appena spremuto",
+"fr": "Jus de citron vert, 100%, pressé minute",
+"es": "Zumo de lima, 100%, recién exprimido",
+"de": "Limettensaft, 100%, frisch gepresst",
+"pt": "Suco de limão, 100%, espremido na hora"
+},
+"7705": {
+"it": "Succo di lime, 100%, forma non specificata",
+"fr": "Jus de citron vert, 100%, forme non précisée",
+"es": "Zumo de lima, 100%, forma sin especificar",
+"de": "Limettensaft, 100%, Form nicht angegeben",
+"pt": "Suco de limão, 100%, forma não especificada"
+},
+"7706": {
+"it": "Succo di lime, in scatola o in bottiglia, non zuccherato",
+"fr": "Jus de citron vert, en conserve ou en bouteille, non sucré",
+"es": "Zumo de lima, enlatado o embotellado, sin azúcar",
+"de": "Limettensaft, aus der Dose oder Flasche, ungezuckert",
+"pt": "Suco de limão, enlatado ou engarrafado, sem açúcar"
+},
+"7707": {
+"it": "Succo di lime, crudo",
+"fr": "Jus de citron vert, cru",
+"es": "Zumo de lima, crudo",
+"de": "Limettensaft, roh",
+"pt": "Suco de limão, cru"
+},
+"7708": {
+"it": "Soufflé al lime",
+"fr": "Soufflé au citron vert",
+"es": "Suflé de lima",
+"de": "Limettensoufflé",
+"pt": "Suflê de limão"
+},
+"7709": {
+"it": "Lime, crudo",
+"fr": "Citron vert, cru",
+"es": "Lima, cruda",
+"de": "Limette, roh",
+"pt": "Limão, cru"
+},
+"7710": {
+"it": "Bevanda al lime, concentrato surgelato, preparata con acqua",
+"fr": "Limeade (boisson au citron vert), concentré surgelé, préparée avec de l'eau",
+"es": "Limonada de lima, concentrado congelado, preparada con agua",
+"de": "Limettengetränk, tiefgekühltes Konzentrat, mit Wasser zubereitet",
+"pt": "Limonada de limão, concentrado congelado, preparada com água"
+},
+"7711": {
+"it": "Lime, crudi",
+"fr": "Citrons verts, crus",
+"es": "Limas, crudas",
+"de": "Limetten, roh",
+"pt": "Limões, crus"
+},
+"7712": {
+"it": "Liquore",
+"fr": "Liqueur",
+"es": "Licor",
+"de": "Likör",
+"pt": "Licor"
+},
+"7713": {
+"it": "Liquore, al caffè",
+"fr": "Liqueur, au café",
+"es": "Licor, con sabor a café",
+"de": "Likör, mit Kaffeegeschmack",
+"pt": "Licor, sabor café"
+},
+"7714": {
+"it": "Liquore, alla crema",
+"fr": "Liqueur, à la crème",
+"es": "Licor, de crema",
+"de": "Likör, mit Sahne",
+"pt": "Licor, com creme"
+},
+"7715": {
+"it": "Litchi, secchi",
+"fr": "Litchis, séchés",
+"es": "Lichis, secos",
+"de": "Litschis, getrocknet",
+"pt": "Lichias, secas"
+},
+"7716": {
+"it": "Litchi, crudi",
+"fr": "Litchis, crus",
+"es": "Lichis, crudos",
+"de": "Litschis, roh",
+"pt": "Lichias, cruas"
+},
+"7717": {
+"it": "LITTLE CAESARS pizza al formaggio 14\", base alta (deep dish)",
+"fr": "LITTLE CAESARS pizza au fromage 14\", pâte épaisse (deep dish)",
+"es": "LITTLE CAESARS pizza de queso 14\", masa gruesa (deep dish)",
+"de": "LITTLE CAESARS Käsepizza 14\", dicker Boden (Deep Dish)",
+"pt": "LITTLE CAESARS pizza de queijo 14\", massa grossa (deep dish)"
+},
+"7718": {
+"it": "LITTLE CAESARS pizza al formaggio 14\", base sottile",
+"fr": "LITTLE CAESARS pizza au fromage 14\", pâte fine",
+"es": "LITTLE CAESARS pizza de queso 14\", masa fina",
+"de": "LITTLE CAESARS Käsepizza 14\", dünner Boden",
+"pt": "LITTLE CAESARS pizza de queijo 14\", massa fina"
+},
+"7719": {
+"it": "LITTLE CAESARS pizza rotonda originale al formaggio 14\", base normale",
+"fr": "LITTLE CAESARS pizza ronde originale au fromage 14\", pâte classique",
+"es": "LITTLE CAESARS pizza redonda original de queso 14\", masa regular",
+"de": "LITTLE CAESARS runde Original-Käsepizza 14\", normaler Boden",
+"pt": "LITTLE CAESARS pizza redonda original de queijo 14\", massa tradicional"
+},
+"7720": {
+"it": "LITTLE CAESARS pizza rotonda originale con carne e verdure 14\", base normale",
+"fr": "LITTLE CAESARS pizza ronde originale à la viande et aux légumes 14\", pâte classique",
+"es": "LITTLE CAESARS pizza redonda original de carne y verduras 14\", masa regular",
+"de": "LITTLE CAESARS runde Original-Pizza mit Fleisch und Gemüse 14\", normaler Boden",
+"pt": "LITTLE CAESARS pizza redonda original de carne e legumes 14\", massa tradicional"
+},
+"7721": {
+"it": "LITTLE CAESARS pizza rotonda originale ai peperoni (pepperoni) 14\", base normale",
+"fr": "LITTLE CAESARS pizza ronde originale au pepperoni 14\", pâte classique",
+"es": "LITTLE CAESARS pizza redonda original de pepperoni 14\", masa regular",
+"de": "LITTLE CAESARS runde Original-Pepperoni-Pizza 14\", normaler Boden",
+"pt": "LITTLE CAESARS pizza redonda original de pepperoni 14\", massa tradicional"
+},
+"7722": {
+"it": "LITTLE CAESARS pizza ai peperoni (pepperoni) 14\", base alta (deep dish)",
+"fr": "LITTLE CAESARS pizza au pepperoni 14\", pâte épaisse (deep dish)",
+"es": "LITTLE CAESARS pizza de pepperoni 14\", masa gruesa (deep dish)",
+"de": "LITTLE CAESARS Pepperoni-Pizza 14\", dicker Boden (Deep Dish)",
+"pt": "LITTLE CAESARS pizza de pepperoni 14\", massa grossa (deep dish)"
+},
+"7723": {
+"it": "Liver cheese (salume di fegato), maiale",
+"fr": "Liver cheese (fromage de foie), porc",
+"es": "Liver cheese (queso de hígado), cerdo",
+"de": "Liver Cheese (Leberkäse-artige Leberwurst), Schwein",
+"pt": "Liver cheese (embutido de fígado), carne suína"
+},
+"7724": {
+"it": "Salsiccia di fegato, liverwurst, maiale",
+"fr": "Saucisse de foie, liverwurst, porc",
+"es": "Salchicha de hígado, liverwurst, cerdo",
+"de": "Leberwurst, Liverwurst, Schwein",
+"pt": "Salsicha de fígado, liverwurst, carne suína"
+},
+"7725": {
+"it": "Fegato, manzo",
+"fr": "Foie, bœuf",
+"es": "Hígado, res",
+"de": "Leber, Rind",
+"pt": "Fígado, carne bovina"
+},
+"7726": {
+"it": "Fegato, manzo o vitello, e cipolle",
+"fr": "Foie, bœuf ou veau, et oignons",
+"es": "Hígado, res o ternera, y cebolla",
+"de": "Leber, Rind oder Kalb, und Zwiebeln",
+"pt": "Fígado, carne bovina ou vitela, e cebola"
+},
+"7727": {
+"it": "Fegato, pollo",
+"fr": "Foie, poulet",
+"es": "Hígado, pollo",
+"de": "Leber, Huhn",
+"pt": "Fígado, frango"
+},
+"7728": {
+"it": "Fegato, pasta o paté",
+"fr": "Foie, pâte ou pâté",
+"es": "Hígado, pasta o paté",
+"de": "Leber, Paste oder Pastete",
+"pt": "Fígado, pasta ou patê"
+},
+"7729": {
+"it": "Fegatini, pollo, tritati, con uova e cipolla",
+"fr": "Foies, poulet, hachés, avec œufs et oignon",
+"es": "Hígados, pollo, picados, con huevos y cebolla",
+"de": "Lebern, Huhn, gehackt, mit Eiern und Zwiebel",
+"pt": "Fígados, frango, picados, com ovos e cebola"
+},
+"7730": {
+"it": "Liverwurst (salsiccia di fegato)",
+"fr": "Liverwurst (saucisse de foie)",
+"es": "Liverwurst (salchicha de hígado)",
+"de": "Leberwurst",
+"pt": "Liverwurst (salsicha de fígado)"
+},
+"7731": {
+"it": "Liverwurst (salsiccia di fegato) spalmabile",
+"fr": "Liverwurst (saucisse de foie) à tartiner",
+"es": "Liverwurst (salchicha de hígado) para untar",
+"de": "Leberwurst-Aufstrich",
+"pt": "Liverwurst (salsicha de fígado) para passar"
+},
+"7732": {
+"it": "Lo mein, senza carne",
+"fr": "Lo mein, sans viande",
+"es": "Lo mein, sin carne",
+"de": "Lo Mein, ohne Fleisch",
+"pt": "Lo mein, sem carne"
+},
+"7733": {
+"it": "Lo mein, non specificato",
+"fr": "Lo mein, non spécifié",
+"es": "Lo mein, no especificado",
+"de": "Lo Mein, nicht näher bezeichnet",
+"pt": "Lo mein, não especificado"
+},
+"7734": {
+"it": "Lo mein, con manzo",
+"fr": "Lo mein, au bœuf",
+"es": "Lo mein, con res",
+"de": "Lo Mein, mit Rind",
+"pt": "Lo mein, com carne bovina"
+},
+"7735": {
+"it": "Lo mein, con pollo",
+"fr": "Lo mein, au poulet",
+"es": "Lo mein, con pollo",
+"de": "Lo Mein, mit Huhn",
+"pt": "Lo mein, com frango"
+},
+"7736": {
+"it": "Lo mein, con maiale",
+"fr": "Lo mein, au porc",
+"es": "Lo mein, con cerdo",
+"de": "Lo Mein, mit Schwein",
+"pt": "Lo mein, com carne suína"
+},
+"7737": {
+"it": "Lo mein, con gamberi",
+"fr": "Lo mein, aux crevettes",
+"es": "Lo mein, con gambas",
+"de": "Lo Mein, mit Garnelen",
+"pt": "Lo mein, com camarão"
+},
+"7738": {
+"it": "Astice",
+"fr": "Homard",
+"es": "Bogavante",
+"de": "Hummer",
+"pt": "Lagosta"
+},
+"7739": {
+"it": "Gumbo di astice",
+"fr": "Gumbo de homard",
+"es": "Gumbo de bogavante",
+"de": "Hummer-Gumbo",
+"pt": "Gumbo de lagosta"
+},
+"7740": {
+"it": "Insalata di astice",
+"fr": "Salade de homard",
+"es": "Ensalada de bogavante",
+"de": "Hummersalat",
+"pt": "Salada de lagosta"
+},
+"7741": {
+"it": "Astice con ripieno di pane, al forno",
+"fr": "Homard farci au pain, cuit au four",
+"es": "Bogavante relleno de pan, al horno",
+"de": "Hummer mit Brotfüllung, gebacken",
+"pt": "Lagosta com recheio de pão, assada no forno"
+},
+"7742": {
+"it": "Astice con salsa, stile portoricano",
+"fr": "Homard avec sauce, à la portoricaine",
+"es": "Bogavante con salsa, estilo puertorriqueño",
+"de": "Hummer mit Sauce, puerto-ricanische Art",
+"pt": "Lagosta com molho, estilo porto-riquenho"
+},
+"7743": {
+"it": "Astice, solo coda, surgelato, pescato in natura",
+"fr": "Homard, queue seulement, surgelé, pêché en milieu naturel",
+"es": "Bogavante, solo cola, congelado, de captura silvestre",
+"de": "Hummer, nur Schwanz, tiefgekühlt, Wildfang",
+"pt": "Lagosta, apenas cauda, congelada, pescada na natureza"
+},
+"7744": {
+"it": "Loganberry (ibrido lampone-mora), surgelati",
+"fr": "Mûres de Logan, surgelées",
+"es": "Moras de Logan, congeladas",
+"de": "Loganbeeren, tiefgekühlt",
+"pt": "Loganberries (híbrido de framboesa e amora), congeladas"
+},
+"7745": {
+"it": "Lomi salmon (insalata hawaiana di salmone salato e pomodoro)",
+"fr": "Lomi salmon (salade hawaïenne de saumon salé et tomate)",
+"es": "Lomi salmon (ensalada hawaiana de salmón salado y tomate)",
+"de": "Lomi Salmon (hawaiianischer Salat aus gesalzenem Lachs und Tomate)",
+"pt": "Lomi salmon (salada havaiana de salmão salgado e tomate)"
+},
+"7746": {
+"it": "Long Island Iced Tea (cocktail)",
+"fr": "Long Island Iced Tea (cocktail)",
+"es": "Long Island Iced Tea (cóctel)",
+"de": "Long Island Iced Tea (Cocktail)",
+"pt": "Long Island Iced Tea (coquetel)"
+},
+"7747": {
+"it": "Noodles lunghi (long rice), ricavati da fagioli mungo, cotti",
+"fr": "Nouilles long rice, à base de haricots mungo, cuites",
+"es": "Fideos long rice, hechos de frijol mungo, cocidos",
+"de": "Long-Rice-Nudeln, aus Mungobohnen, gekocht",
+"pt": "Macarrão long rice, feito de feijão-mungo, cozido"
+}
+}

@@ -1,0 +1,2088 @@
+{
+"8046": {
+"it": "Latte, con grassi vegetali sostitutivi, liquido, con miscela di oli vegetali idrogenati",
+"fr": "Lait, à matières grasses végétales de substitution, liquide, avec mélange d'huiles végétales hydrogénées",
+"es": "Leche, con grasa vegetal sustitutiva, líquida, con mezcla de aceites vegetales hidrogenados",
+"de": "Milch, mit Pflanzenfettersatz, flüssig, mit Mischung aus gehärteten Pflanzenölen",
+"pt": "Leite, com gordura vegetal substituta, líquido, com mistura de óleos vegetais hidrogenados"
+},
+"8047": {
+"it": "Latte, con grassi vegetali sostitutivi, liquido, con olio di acido laurico",
+"fr": "Lait, à matières grasses végétales de substitution, liquide, avec huile d'acide laurique",
+"es": "Leche, con grasa vegetal sustitutiva, líquida, con aceite de ácido láurico",
+"de": "Milch, mit Pflanzenfettersatz, flüssig, mit Laurinsäureöl",
+"pt": "Leite, com gordura vegetal substituta, líquido, com óleo de ácido láurico"
+},
+"8048": {
+"it": "Latte, liquido, 1% di grassi, senza aggiunta di vitamina A e vitamina D",
+"fr": "Lait, liquide, 1% de matières grasses, sans vitamine A ni vitamine D ajoutées",
+"es": "Leche, líquida, 1% de grasa, sin vitamina A ni vitamina D añadidas",
+"de": "Milch, flüssig, 1% Fett, ohne Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, líquido, 1% de gordura, sem adição de vitamina A e vitamina D"
+},
+"8049": {
+"it": "Latte, liquido, senza grassi, fortificato con calcio (senza grassi o scremato)",
+"fr": "Lait, liquide, sans matières grasses, fortifié en calcium (sans matières grasses ou écrémé)",
+"es": "Leche, líquida, sin grasa, fortificada con calcio (sin grasa o desnatada)",
+"de": "Milch, flüssig, fettfrei, mit Calcium angereichert (fettfrei oder entrahmt)",
+"pt": "Leite, líquido, sem gordura, fortificado com cálcio (sem gordura ou desnatado)"
+},
+"8050": {
+"it": "Latte, di capra, liquido, con aggiunta di vitamina D",
+"fr": "Lait, de chèvre, liquide, avec vitamine D ajoutée",
+"es": "Leche, de cabra, líquida, con vitamina D añadida",
+"de": "Milch, Ziege, flüssig, mit Zusatz von Vitamin D",
+"pt": "Leite, de cabra, líquido, com adição de vitamina D"
+},
+"8051": {
+"it": "Latte, umano, maturo, liquido (solo come riferimento)",
+"fr": "Lait, humain, mature, liquide (à titre de référence uniquement)",
+"es": "Leche, humana, madura, líquida (solo como referencia)",
+"de": "Milch, menschlich, reif, flüssig (nur zur Referenz)",
+"pt": "Leite, humano, maduro, líquido (apenas para referência)"
+},
+"8052": {
+"it": "Latte, imitazione, non di soia",
+"fr": "Lait, imitation, sans soja",
+"es": "Leche, imitación, sin soja",
+"de": "Milch, Imitat, ohne Soja",
+"pt": "Leite, imitação, sem soja"
+},
+"8053": {
+"it": "Latte, di bufala indiana, liquido",
+"fr": "Lait, de bufflonne indienne, liquide",
+"es": "Leche, de búfala india, líquida",
+"de": "Milch, Indischer Büffel, flüssig",
+"pt": "Leite, de búfala indiana, líquido"
+},
+"8054": {
+"it": "Latte, senza lattosio, senza grassi (scremato)",
+"fr": "Lait, sans lactose, sans matières grasses (écrémé)",
+"es": "Leche, sin lactosa, sin grasa (desnatada)",
+"de": "Milch, laktosefrei, fettfrei (entrahmt)",
+"pt": "Leite, sem lactose, sem gordura (desnatado)"
+},
+"8055": {
+"it": "Latte, senza lattosio, a basso contenuto di grassi (1%)",
+"fr": "Lait, sans lactose, allégé (1%)",
+"es": "Leche, sin lactosa, baja en grasa (1%)",
+"de": "Milch, laktosefrei, fettarm (1%)",
+"pt": "Leite, sem lactose, com baixo teor de gordura (1%)"
+},
+"8056": {
+"it": "Latte, senza lattosio, a ridotto contenuto di grassi (2%)",
+"fr": "Lait, sans lactose, à teneur réduite en matières grasses (2%)",
+"es": "Leche, sin lactosa, reducida en grasa (2%)",
+"de": "Milch, laktosefrei, fettreduziert (2%)",
+"pt": "Leite, sem lactose, com teor reduzido de gordura (2%)"
+},
+"8057": {
+"it": "Latte, senza lattosio, intero",
+"fr": "Lait, sans lactose, entier",
+"es": "Leche, sin lactosa, entera",
+"de": "Milch, laktosefrei, Vollmilch",
+"pt": "Leite, sem lactose, integral"
+},
+"8058": {
+"it": "Latte, a basso contenuto di grassi (1%)",
+"fr": "Lait, allégé (1%)",
+"es": "Leche, baja en grasa (1%)",
+"de": "Milch, fettarm (1%)",
+"pt": "Leite, com baixo teor de gordura (1%)"
+},
+"8059": {
+"it": "Latte, a basso contenuto di sodio, liquido",
+"fr": "Lait, pauvre en sodium, liquide",
+"es": "Leche, baja en sodio, líquida",
+"de": "Milch, natriumarm, flüssig",
+"pt": "Leite, com baixo teor de sódio, líquido"
+},
+"8060": {
+"it": "Latte, parzialmente scremato, liquido, 1% di grasso del latte, arricchito di proteine, con aggiunta di vitamina A e vitamina D",
+"fr": "Lait, demi-écrémé, liquide, 1% de matières grasses laitières, enrichi en protéines, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, semidesnatada, líquida, 1% de grasa láctea, enriquecida con proteínas, con vitamina A y vitamina D añadidas",
+"de": "Milch, fettarm, flüssig, 1% Milchfett, proteinangereichert, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, com baixo teor de gordura, líquido, 1% de gordura do leite, enriquecido com proteínas, com adição de vitamina A e vitamina D"
+},
+"8061": {
+"it": "Latte, parzialmente scremato, liquido, 1% di grasso del latte, con aggiunta di solidi del latte magro, vitamina A e vitamina D",
+"fr": "Lait, demi-écrémé, liquide, 1% de matières grasses laitières, avec ajout de solides de lait écrémé, vitamine A et vitamine D",
+"es": "Leche, semidesnatada, líquida, 1% de grasa láctea, con sólidos de leche desnatada, vitamina A y vitamina D añadidos",
+"de": "Milch, fettarm, flüssig, 1% Milchfett, mit Zusatz von Magermilchfeststoffen, Vitamin A und Vitamin D",
+"pt": "Leite, com baixo teor de gordura, líquido, 1% de gordura do leite, com adição de sólidos de leite desnatado, vitamina A e vitamina D"
+},
+"8062": {
+"it": "Latte, parzialmente scremato, liquido, 1% di grasso del latte, con aggiunta di vitamina A e vitamina D",
+"fr": "Lait, demi-écrémé, liquide, 1% de matières grasses laitières, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, semidesnatada, líquida, 1% de grasa láctea, con vitamina A y vitamina D añadidas",
+"de": "Milch, fettarm, flüssig, 1% Milchfett, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, com baixo teor de gordura, líquido, 1% de gordura do leite, com adição de vitamina A e vitamina D"
+},
+"8063": {
+"it": "Latte, maltato",
+"fr": "Lait, malté",
+"es": "Leche, malteada",
+"de": "Milch, malzhaltig",
+"pt": "Leite, maltado"
+},
+"8064": {
+"it": "Latte, maltato, miscela in polvere, non ricostituito",
+"fr": "Lait, malté, mélange en poudre, non reconstitué",
+"es": "Leche, malteada, mezcla en polvo, sin reconstituir",
+"de": "Milch, malzhaltig, Trockenmischung, nicht zubereitet",
+"pt": "Leite, maltado, mistura em pó, não reconstituído"
+},
+"8065": {
+"it": "Latte, non specificato",
+"fr": "Lait, non spécifié",
+"es": "Leche, no especificada",
+"de": "Milch, nicht näher bezeichnet",
+"pt": "Leite, não especificado"
+},
+"8066": {
+"it": "Latte, senza grassi, liquido, arricchito di proteine, con aggiunta di vitamina A e vitamina D (senza grassi e scremato)",
+"fr": "Lait, sans matières grasses, liquide, enrichi en protéines, avec vitamine A et vitamine D ajoutées (sans matières grasses et écrémé)",
+"es": "Leche, sin grasa, líquida, enriquecida con proteínas, con vitamina A y vitamina D añadidas (sin grasa y desnatada)",
+"de": "Milch, fettfrei, flüssig, proteinangereichert, mit Zusatz von Vitamin A und Vitamin D (fettfrei und entrahmt)",
+"pt": "Leite, sem gordura, líquido, enriquecido com proteínas, com adição de vitamina A e vitamina D (sem gordura e desnatado)"
+},
+"8067": {
+"it": "Latte, senza grassi, liquido, con aggiunta di solidi del latte magro, vitamina A e vitamina D (senza grassi o scremato)",
+"fr": "Lait, sans matières grasses, liquide, avec ajout de solides de lait écrémé, vitamine A et vitamine D (sans matières grasses ou écrémé)",
+"es": "Leche, sin grasa, líquida, con sólidos de leche desnatada, vitamina A y vitamina D añadidos (sin grasa o desnatada)",
+"de": "Milch, fettfrei, flüssig, mit Zusatz von Magermilchfeststoffen, Vitamin A und Vitamin D (fettfrei oder entrahmt)",
+"pt": "Leite, sem gordura, líquido, com adição de sólidos de leite desnatado, vitamina A e vitamina D (sem gordura ou desnatado)"
+},
+"8068": {
+"it": "Latte, senza grassi, liquido, con aggiunta di vitamina A e vitamina D (senza grassi o scremato)",
+"fr": "Lait, sans matières grasses, liquide, avec vitamine A et vitamine D ajoutées (sans matières grasses ou écrémé)",
+"es": "Leche, sin grasa, líquida, con vitamina A y vitamina D añadidas (sin grasa o desnatada)",
+"de": "Milch, fettfrei, flüssig, mit Zusatz von Vitamin A und Vitamin D (fettfrei oder entrahmt)",
+"pt": "Leite, sem gordura, líquido, com adição de vitamina A e vitamina D (sem gordura ou desnatado)"
+},
+"8069": {
+"it": "Latte, senza grassi, liquido, senza aggiunta di vitamina A e vitamina D (senza grassi o scremato)",
+"fr": "Lait, sans matières grasses, liquide, sans vitamine A ni vitamine D ajoutées (sans matières grasses ou écrémé)",
+"es": "Leche, sin grasa, líquida, sin vitamina A ni vitamina D añadidas (sin grasa o desnatada)",
+"de": "Milch, fettfrei, flüssig, ohne Zusatz von Vitamin A und Vitamin D (fettfrei oder entrahmt)",
+"pt": "Leite, sem gordura, líquido, sem adição de vitamina A e vitamina D (sem gordura ou desnatado)"
+},
+"8070": {
+"it": "Latte, del produttore, liquido, 3,7% di grasso del latte",
+"fr": "Lait, du producteur, liquide, 3,7% de matières grasses laitières",
+"es": "Leche, del productor, líquida, 3,7% de grasa láctea",
+"de": "Milch, Erzeugermilch, flüssig, 3,7% Milchfett",
+"pt": "Leite, do produtor, líquido, 3,7% de gordura do leite"
+},
+"8071": {
+"it": "Latte, a ridotto contenuto di grassi (2%)",
+"fr": "Lait, à teneur réduite en matières grasses (2%)",
+"es": "Leche, reducida en grasa (2%)",
+"de": "Milch, fettreduziert (2%)",
+"pt": "Leite, com teor reduzido de gordura (2%)"
+},
+"8072": {
+"it": "Latte, a ridotto contenuto di grassi, liquido, 2% di grasso del latte, arricchito di proteine, con aggiunta di vitamina A e vitamina D",
+"fr": "Lait, à teneur réduite en matières grasses, liquide, 2% de matières grasses laitières, enrichi en protéines, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, reducida en grasa, líquida, 2% de grasa láctea, enriquecida con proteínas, con vitamina A y vitamina D añadidas",
+"de": "Milch, fettreduziert, flüssig, 2% Milchfett, proteinangereichert, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, com teor reduzido de gordura, líquido, 2% de gordura do leite, enriquecido com proteínas, com adição de vitamina A e vitamina D"
+},
+"8073": {
+"it": "Latte, a ridotto contenuto di grassi, liquido, 2% di grasso del latte, con aggiunta di solidi del latte magro e di vitamina A e vitamina D",
+"fr": "Lait, à teneur réduite en matières grasses, liquide, 2% de matières grasses laitières, avec ajout de solides de lait écrémé et de vitamine A et vitamine D",
+"es": "Leche, reducida en grasa, líquida, 2% de grasa láctea, con sólidos de leche desnatada y vitamina A y vitamina D añadidos",
+"de": "Milch, fettreduziert, flüssig, 2% Milchfett, mit Zusatz von Magermilchfeststoffen sowie Vitamin A und Vitamin D",
+"pt": "Leite, com teor reduzido de gordura, líquido, 2% de gordura do leite, com adição de sólidos de leite desnatado e de vitamina A e vitamina D"
+},
+"8074": {
+"it": "Latte, a ridotto contenuto di grassi, liquido, 2% di grasso del latte, con aggiunta di solidi del latte magro, senza aggiunta di vitamina A",
+"fr": "Lait, à teneur réduite en matières grasses, liquide, 2% de matières grasses laitières, avec ajout de solides de lait écrémé, sans vitamine A ajoutée",
+"es": "Leche, reducida en grasa, líquida, 2% de grasa láctea, con sólidos de leche desnatada añadidos, sin vitamina A añadida",
+"de": "Milch, fettreduziert, flüssig, 2% Milchfett, mit Zusatz von Magermilchfeststoffen, ohne Zusatz von Vitamin A",
+"pt": "Leite, com teor reduzido de gordura, líquido, 2% de gordura do leite, com adição de sólidos de leite desnatado, sem adição de vitamina A"
+},
+"8075": {
+"it": "Latte, a ridotto contenuto di grassi, liquido, 2% di grasso del latte, con aggiunta di vitamina A e vitamina D",
+"fr": "Lait, à teneur réduite en matières grasses, liquide, 2% de matières grasses laitières, avec vitamine A et vitamine D ajoutées",
+"es": "Leche, reducida en grasa, líquida, 2% de grasa láctea, con vitamina A y vitamina D añadidas",
+"de": "Milch, fettreduziert, flüssig, 2% Milchfett, mit Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, com teor reduzido de gordura, líquido, 2% de gordura do leite, com adição de vitamina A e vitamina D"
+},
+"8076": {
+"it": "Latte, a ridotto contenuto di grassi, liquido, 2% di grasso del latte, senza aggiunta di vitamina A e vitamina D",
+"fr": "Lait, à teneur réduite en matières grasses, liquide, 2% de matières grasses laitières, sans vitamine A ni vitamine D ajoutées",
+"es": "Leche, reducida en grasa, líquida, 2% de grasa láctea, sin vitamina A ni vitamina D añadidas",
+"de": "Milch, fettreduziert, flüssig, 2% Milchfett, ohne Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, com teor reduzido de gordura, líquido, 2% de gordura do leite, sem adição de vitamina A e vitamina D"
+},
+"8077": {
+"it": "Latte, di pecora, liquido",
+"fr": "Lait, de brebis, liquide",
+"es": "Leche, de oveja, líquida",
+"de": "Milch, Schaf, flüssig",
+"pt": "Leite, de ovelha, líquido"
+},
+"8078": {
+"it": "Latte, intero",
+"fr": "Lait, entier",
+"es": "Leche, entera",
+"de": "Milch, Vollmilch",
+"pt": "Leite, integral"
+},
+"8079": {
+"it": "Latte, intero, 3,25% di grasso del latte, con aggiunta di vitamina D",
+"fr": "Lait, entier, 3,25% de matières grasses laitières, avec vitamine D ajoutée",
+"es": "Leche, entera, 3,25% de grasa láctea, con vitamina D añadida",
+"de": "Milch, Vollmilch, 3,25% Milchfett, mit Zusatz von Vitamin D",
+"pt": "Leite, integral, 3,25% de gordura do leite, com adição de vitamina D"
+},
+"8080": {
+"it": "Latte, intero, 3,25% di grasso del latte, senza aggiunta di vitamina A e vitamina D",
+"fr": "Lait, entier, 3,25% de matières grasses laitières, sans vitamine A ni vitamine D ajoutées",
+"es": "Leche, entera, 3,25% de grasa láctea, sin vitamina A ni vitamina D añadidas",
+"de": "Milch, Vollmilch, 3,25% Milchfett, ohne Zusatz von Vitamin A und Vitamin D",
+"pt": "Leite, integral, 3,25% de gordura do leite, sem adição de vitamina A e vitamina D"
+},
+"8081": {
+"it": "Miglio",
+"fr": "Millet",
+"es": "Mijo",
+"de": "Hirse",
+"pt": "Painço"
+},
+"8082": {
+"it": "Farina di miglio",
+"fr": "Farine de millet",
+"es": "Harina de mijo",
+"de": "Hirsemehl",
+"pt": "Farinha de painço"
+},
+"8083": {
+"it": "Miglio, cotto",
+"fr": "Millet, cuit",
+"es": "Mijo, cocido",
+"de": "Hirse, gekocht",
+"pt": "Painço, cozido"
+},
+"8084": {
+"it": "Miglio, farina, pregelatinizzata",
+"fr": "Millet, farine, pré-gélatinisée",
+"es": "Mijo, harina, pregelatinizada",
+"de": "Hirse, Mehl, vorgelatiniert",
+"pt": "Painço, farinha, pré-gelatinizada"
+},
+"8085": {
+"it": "Miglio, farina, pregelatinizzata, biologica",
+"fr": "Millet, farine, pré-gélatinisée, biologique",
+"es": "Mijo, harina, pregelatinizada, orgánica",
+"de": "Hirse, Mehl, vorgelatiniert, Bio",
+"pt": "Painço, farinha, pré-gelatinizada, orgânica"
+},
+"8086": {
+"it": "Miglio, soffiato",
+"fr": "Millet, soufflé",
+"es": "Mijo, inflado",
+"de": "Hirse, gepufft",
+"pt": "Painço, expandido"
+},
+"8087": {
+"it": "Miglio, soffiato, biologico",
+"fr": "Millet, soufflé, biologique",
+"es": "Mijo, inflado, orgánico",
+"de": "Hirse, gepufft, Bio",
+"pt": "Painço, expandido, orgânico"
+},
+"8088": {
+"it": "Miglio, crudo",
+"fr": "Millet, cru",
+"es": "Mijo, crudo",
+"de": "Hirse, roh",
+"pt": "Painço, cru"
+},
+"8089": {
+"it": "Miglio, chicco integrale",
+"fr": "Millet, grain entier",
+"es": "Mijo, grano entero",
+"de": "Hirse, ganzes Korn",
+"pt": "Painço, grão integral"
+},
+"8090": {
+"it": "Mimosa",
+"fr": "Mimosa",
+"es": "Mimosa",
+"de": "Mimosa",
+"pt": "Mimosa"
+},
+"8091": {
+"it": "Mint julep",
+"fr": "Mint julep",
+"es": "Mint julep",
+"de": "Mint Julep",
+"pt": "Mint julep"
+},
+"8092": {
+"it": "Mirepoix, cotto, come ingrediente",
+"fr": "Mirepoix, cuit, comme ingrédient",
+"es": "Mirepoix, cocido, como ingrediente",
+"de": "Mirepoix, gekocht, als Zutat",
+"pt": "Mirepoix, cozido, como ingrediente"
+},
+"8093": {
+"it": "Miso",
+"fr": "Miso",
+"es": "Miso",
+"de": "Miso",
+"pt": "Missô"
+},
+"8094": {
+"it": "Salsa di miso",
+"fr": "Sauce miso",
+"es": "Salsa de miso",
+"de": "Miso-Sauce",
+"pt": "Molho de missô"
+},
+"8095": {
+"it": "Mission Foods, Mission Flour Tortillas, Soft Taco, 8 pollici",
+"fr": "Mission Foods, Mission Flour Tortillas, Soft Taco, 8 pouces",
+"es": "Mission Foods, Mission Flour Tortillas, Soft Taco, 8 pulgadas",
+"de": "Mission Foods, Mission Flour Tortillas, Soft Taco, 8 Zoll",
+"pt": "Mission Foods, Mission Flour Tortillas, Soft Taco, 8 polegadas"
+},
+"8096": {
+"it": "Frutta secca mista, tostata al miele",
+"fr": "Fruits à coque variés, rôtis au miel",
+"es": "Frutos secos variados, tostados con miel",
+"de": "Nussmischung, honiggeröstet",
+"pt": "Mix de castanhas e nozes, torrado com mel"
+},
+"8097": {
+"it": "Frutta secca mista, non specificata",
+"fr": "Fruits à coque variés, non spécifiés",
+"es": "Frutos secos variados, no especificados",
+"de": "Nussmischung, nicht näher bezeichnet",
+"pt": "Mix de castanhas e nozes, não especificado"
+},
+"8098": {
+"it": "Frutta secca mista, non tostata",
+"fr": "Fruits à coque variés, non rôtis",
+"es": "Frutos secos variados, sin tostar",
+"de": "Nussmischung, ungeröstet",
+"pt": "Mix de castanhas e nozes, não torrado"
+},
+"8099": {
+"it": "Frutta secca mista, con arachidi, leggermente salata",
+"fr": "Fruits à coque variés, avec cacahuètes, légèrement salés",
+"es": "Frutos secos variados, con cacahuetes, ligeramente salados",
+"de": "Nussmischung, mit Erdnüssen, leicht gesalzen",
+"pt": "Mix de castanhas e nozes, com amendoim, levemente salgado"
+},
+"8100": {
+"it": "Frutta secca mista, con arachidi, salata",
+"fr": "Fruits à coque variés, avec cacahuètes, salés",
+"es": "Frutos secos variados, con cacahuetes, salados",
+"de": "Nussmischung, mit Erdnüssen, gesalzen",
+"pt": "Mix de castanhas e nozes, com amendoim, salgado"
+},
+"8101": {
+"it": "Frutta secca mista, con arachidi, non salata",
+"fr": "Fruits à coque variés, avec cacahuètes, non salés",
+"es": "Frutos secos variados, con cacahuetes, sin sal",
+"de": "Nussmischung, mit Erdnüssen, ungesalzen",
+"pt": "Mix de castanhas e nozes, com amendoim, sem sal"
+},
+"8102": {
+"it": "Frutta secca mista, senza arachidi, salata",
+"fr": "Fruits à coque variés, sans cacahuètes, salés",
+"es": "Frutos secos variados, sin cacahuetes, salados",
+"de": "Nussmischung, ohne Erdnüsse, gesalzen",
+"pt": "Mix de castanhas e nozes, sem amendoim, salgado"
+},
+"8103": {
+"it": "Frutta secca mista, senza arachidi, non salata",
+"fr": "Fruits à coque variés, sans cacahuètes, non salés",
+"es": "Frutos secos variados, sin cacahuetes, sin sal",
+"de": "Nussmischung, ohne Erdnüsse, ungesalzen",
+"pt": "Mix de castanhas e nozes, sem amendoim, sem sal"
+},
+"8104": {
+"it": "Insalate miste, crude",
+"fr": "Salades mélangées, crues",
+"es": "Ensaladas mixtas de hojas verdes, crudas",
+"de": "Gemischte Blattsalate, roh",
+"pt": "Mix de folhas verdes para salada, cru"
+},
+"8105": {
+"it": "Semi misti",
+"fr": "Graines variées",
+"es": "Semillas variadas",
+"de": "Samenmischung",
+"pt": "Mix de sementes"
+},
+"8106": {
+"it": "Succo di verdure miste",
+"fr": "Jus de légumes variés",
+"es": "Zumo de verduras variadas",
+"de": "Gemüsesaft, gemischt",
+"pt": "Suco de vegetais variados"
+},
+"8107": {
+"it": "Finte cosce di pollo (mock chicken legs)",
+"fr": "Fausses cuisses de poulet (mock chicken legs)",
+"es": "Falsos muslos de pollo (mock chicken legs)",
+"de": "Falsche Hähnchenschenkel (Mock Chicken Legs)",
+"pt": "Falsas coxas de frango (mock chicken legs)"
+},
+"8108": {
+"it": "Mojito",
+"fr": "Mojito",
+"es": "Mojito",
+"de": "Mojito",
+"pt": "Mojito"
+},
+"8109": {
+"it": "Melassa",
+"fr": "Mélasse",
+"es": "Melaza",
+"de": "Melasse",
+"pt": "Melaço"
+},
+"8110": {
+"it": "Salsa mole",
+"fr": "Sauce mole",
+"es": "Salsa mole",
+"de": "Mole-Sauce",
+"pt": "Molho mole"
+},
+"8111": {
+"it": "Molluschi, abalone, specie miste, cotti, fritti",
+"fr": "Mollusques, ormeau, espèces mélangées, cuits, frits",
+"es": "Moluscos, abulón, especies mixtas, cocidos, fritos",
+"de": "Weichtiere, Abalone, gemischte Arten, gekocht, frittiert",
+"pt": "Moluscos, abalone, espécies mistas, cozidos, fritos"
+},
+"8112": {
+"it": "Molluschi, abalone, specie miste, crudi",
+"fr": "Mollusques, ormeau, espèces mélangées, crus",
+"es": "Moluscos, abulón, especies mixtas, crudos",
+"de": "Weichtiere, Abalone, gemischte Arten, roh",
+"pt": "Moluscos, abalone, espécies mistas, crus"
+},
+"8113": {
+"it": "Molluschi, vongole, specie miste, in scatola, solidi sgocciolati",
+"fr": "Mollusques, palourdes, espèces mélangées, en conserve, solides égouttés",
+"es": "Moluscos, almejas, especies mixtas, en conserva, sólidos escurridos",
+"de": "Weichtiere, Venusmuscheln, gemischte Arten, aus der Dose, abgetropfte Feststoffe",
+"pt": "Moluscos, amêijoas, espécies mistas, enlatados, sólidos escorridos"
+},
+"8114": {
+"it": "Molluschi, vongole, specie miste, in scatola, liquido",
+"fr": "Mollusques, palourdes, espèces mélangées, en conserve, liquide",
+"es": "Moluscos, almejas, especies mixtas, en conserva, líquido",
+"de": "Weichtiere, Venusmuscheln, gemischte Arten, aus der Dose, Flüssigkeit",
+"pt": "Moluscos, amêijoas, espécies mistas, enlatados, líquido"
+},
+"8115": {
+"it": "Molluschi, vongole, specie miste, cotte, impanate e fritte",
+"fr": "Mollusques, palourdes, espèces mélangées, cuits, panés et frits",
+"es": "Moluscos, almejas, especies mixtas, cocidas, empanadas y fritas",
+"de": "Weichtiere, Venusmuscheln, gemischte Arten, gekocht, paniert und frittiert",
+"pt": "Moluscos, amêijoas, espécies mistas, cozidos, empanados e fritos"
+},
+"8116": {
+"it": "Molluschi, vongole, specie miste, cotte, a calore umido",
+"fr": "Mollusques, palourdes, espèces mélangées, cuits, à la chaleur humide",
+"es": "Moluscos, almejas, especies mixtas, cocidas, con calor húmedo",
+"de": "Weichtiere, Venusmuscheln, gemischte Arten, gekocht, feuchte Hitze",
+"pt": "Moluscos, amêijoas, espécies mistas, cozidos, com calor úmido"
+},
+"8117": {
+"it": "Molluschi, vongole, specie miste, crude",
+"fr": "Mollusques, palourdes, espèces mélangées, crus",
+"es": "Moluscos, almejas, especies mixtas, crudas",
+"de": "Weichtiere, Venusmuscheln, gemischte Arten, roh",
+"pt": "Moluscos, amêijoas, espécies mistas, crus"
+},
+"8118": {
+"it": "Molluschi, conchiglia conch, al forno o alla griglia",
+"fr": "Mollusques, lambi (conch), cuit au four ou grillé",
+"es": "Moluscos, caracola (conch), al horno o a la parrilla",
+"de": "Weichtiere, Fechterschnecke (Conch), gebacken oder gegrillt",
+"pt": "Moluscos, concha conch, assada no forno ou grelhada"
+},
+"8119": {
+"it": "Molluschi, seppia, specie miste, cotta, a calore umido",
+"fr": "Mollusques, seiche, espèces mélangées, cuite, à la chaleur humide",
+"es": "Moluscos, sepia, especies mixtas, cocida, con calor húmedo",
+"de": "Weichtiere, Sepia, gemischte Arten, gekocht, feuchte Hitze",
+"pt": "Moluscos, sépia, espécies mistas, cozida, com calor úmido"
+},
+"8120": {
+"it": "Molluschi, seppia, specie miste, cruda",
+"fr": "Mollusques, seiche, espèces mélangées, crue",
+"es": "Moluscos, sepia, especies mixtas, cruda",
+"de": "Weichtiere, Sepia, gemischte Arten, roh",
+"pt": "Moluscos, sépia, espécies mistas, crua"
+},
+"8121": {
+"it": "Molluschi, cozza, blu, cotta, a calore umido",
+"fr": "Mollusques, moule, bleue, cuite, à la chaleur humide",
+"es": "Moluscos, mejillón, azul, cocido, con calor húmedo",
+"de": "Weichtiere, Miesmuschel, Blaue, gekocht, feuchte Hitze",
+"pt": "Moluscos, mexilhão, azul, cozido, com calor úmido"
+},
+"8122": {
+"it": "Molluschi, cozza, blu, cruda",
+"fr": "Mollusques, moule, bleue, crue",
+"es": "Moluscos, mejillón, azul, crudo",
+"de": "Weichtiere, Miesmuschel, Blaue, roh",
+"pt": "Moluscos, mexilhão, azul, cru"
+},
+"8123": {
+"it": "Molluschi, polpo, comune, cotto, a calore umido",
+"fr": "Mollusques, poulpe, commun, cuit, à la chaleur humide",
+"es": "Moluscos, pulpo, común, cocido, con calor húmedo",
+"de": "Weichtiere, Oktopus, Gemeiner, gekocht, feuchte Hitze",
+"pt": "Moluscos, polvo, comum, cozido, com calor úmido"
+},
+"8124": {
+"it": "Molluschi, polpo, comune, crudo",
+"fr": "Mollusques, poulpe, commun, cru",
+"es": "Moluscos, pulpo, común, crudo",
+"de": "Weichtiere, Oktopus, Gemeiner, roh",
+"pt": "Moluscos, polvo, comum, cru"
+},
+"8125": {
+"it": "Molluschi, ostrica, orientale, in scatola",
+"fr": "Mollusques, huître, de l'Est, en conserve",
+"es": "Moluscos, ostra, del Este, en conserva",
+"de": "Weichtiere, Auster, Amerikanische, aus der Dose",
+"pt": "Moluscos, ostra, oriental, enlatada"
+},
+"8126": {
+"it": "Molluschi, ostrica, orientale, cotta, impanata e fritta",
+"fr": "Mollusques, huître, de l'Est, cuite, panée et frite",
+"es": "Moluscos, ostra, del Este, cocida, empanada y frita",
+"de": "Weichtiere, Auster, Amerikanische, gekocht, paniert und frittiert",
+"pt": "Moluscos, ostra, oriental, cozida, empanada e frita"
+},
+"8127": {
+"it": "Molluschi, ostrica, orientale, d'allevamento, cotta, a calore secco",
+"fr": "Mollusques, huître, de l'Est, d'élevage, cuite, à la chaleur sèche",
+"es": "Moluscos, ostra, del Este, de cultivo, cocida, con calor seco",
+"de": "Weichtiere, Auster, Amerikanische, aus Zucht, gekocht, trockene Hitze",
+"pt": "Moluscos, ostra, oriental, de cultivo, cozida, com calor seco"
+},
+"8128": {
+"it": "Molluschi, ostrica, orientale, d'allevamento, cruda",
+"fr": "Mollusques, huître, de l'Est, d'élevage, crue",
+"es": "Moluscos, ostra, del Este, de cultivo, cruda",
+"de": "Weichtiere, Auster, Amerikanische, aus Zucht, roh",
+"pt": "Moluscos, ostra, oriental, de cultivo, crua"
+},
+"8129": {
+"it": "Molluschi, ostrica, orientale, selvatica, cotta, a calore secco",
+"fr": "Mollusques, huître, de l'Est, sauvage, cuite, à la chaleur sèche",
+"es": "Moluscos, ostra, del Este, silvestre, cocida, con calor seco",
+"de": "Weichtiere, Auster, Amerikanische, Wildfang, gekocht, trockene Hitze",
+"pt": "Moluscos, ostra, oriental, selvagem, cozida, com calor seco"
+},
+"8130": {
+"it": "Molluschi, ostrica, orientale, selvatica, cotta, a calore umido",
+"fr": "Mollusques, huître, de l'Est, sauvage, cuite, à la chaleur humide",
+"es": "Moluscos, ostra, del Este, silvestre, cocida, con calor húmedo",
+"de": "Weichtiere, Auster, Amerikanische, Wildfang, gekocht, feuchte Hitze",
+"pt": "Moluscos, ostra, oriental, selvagem, cozida, com calor úmido"
+},
+"8131": {
+"it": "Molluschi, ostrica, orientale, selvatica, cruda",
+"fr": "Mollusques, huître, de l'Est, sauvage, crue",
+"es": "Moluscos, ostra, del Este, silvestre, cruda",
+"de": "Weichtiere, Auster, Amerikanische, Wildfang, roh",
+"pt": "Moluscos, ostra, oriental, selvagem, crua"
+},
+"8132": {
+"it": "Molluschi, ostrica, del Pacifico, cotta, a calore umido",
+"fr": "Mollusques, huître, du Pacifique, cuite, à la chaleur humide",
+"es": "Moluscos, ostra, del Pacífico, cocida, con calor húmedo",
+"de": "Weichtiere, Auster, Pazifische, gekocht, feuchte Hitze",
+"pt": "Moluscos, ostra, do Pacífico, cozida, com calor úmido"
+},
+"8133": {
+"it": "Molluschi, ostrica, del Pacifico, cruda",
+"fr": "Mollusques, huître, du Pacifique, crue",
+"es": "Moluscos, ostra, del Pacífico, cruda",
+"de": "Weichtiere, Auster, Pazifische, roh",
+"pt": "Moluscos, ostra, do Pacífico, crua"
+},
+"8134": {
+"it": "Molluschi, capasanta, (di baia e di mare), cotta, al vapore",
+"fr": "Mollusques, coquille Saint-Jacques, (de baie et de mer), cuite à la vapeur",
+"es": "Moluscos, vieira, (de bahía y de mar), cocida al vapor",
+"de": "Weichtiere, Jakobsmuschel, (Bay- und Meeres-), gedämpft",
+"pt": "Moluscos, vieira, (de baía e de mar), cozida no vapor"
+},
+"8135": {
+"it": "Molluschi, capasanta, specie miste, cotta, impanata e fritta",
+"fr": "Mollusques, coquille Saint-Jacques, espèces mélangées, cuite, panée et frite",
+"es": "Moluscos, vieira, especies mixtas, cocida, empanada y frita",
+"de": "Weichtiere, Jakobsmuschel, gemischte Arten, gekocht, paniert und frittiert",
+"pt": "Moluscos, vieira, espécies mistas, cozida, empanada e frita"
+},
+"8136": {
+"it": "Molluschi, capasanta, specie miste, imitazione, a base di surimi",
+"fr": "Mollusques, coquille Saint-Jacques, espèces mélangées, imitation, à base de surimi",
+"es": "Moluscos, vieira, especies mixtas, imitación, elaborada con surimi",
+"de": "Weichtiere, Jakobsmuschel, gemischte Arten, Imitat, aus Surimi",
+"pt": "Moluscos, vieira, espécies mistas, imitação, feita de surimi"
+},
+"8137": {
+"it": "Molluschi, capasanta, specie miste, cruda",
+"fr": "Mollusques, coquille Saint-Jacques, espèces mélangées, crue",
+"es": "Moluscos, vieira, especies mixtas, cruda",
+"de": "Weichtiere, Jakobsmuschel, gemischte Arten, roh",
+"pt": "Moluscos, vieira, espécies mistas, crua"
+},
+"8138": {
+"it": "Molluschi, lumaca, cruda",
+"fr": "Mollusques, escargot, cru",
+"es": "Moluscos, caracol, crudo",
+"de": "Weichtiere, Schnecke, roh",
+"pt": "Moluscos, caracol, cru"
+},
+"8139": {
+"it": "Molluschi, calamaro, specie miste, cotto, fritto",
+"fr": "Mollusques, calmar, espèces mélangées, cuit, frit",
+"es": "Moluscos, calamar, especies mixtas, cocido, frito",
+"de": "Weichtiere, Tintenfisch (Kalmar), gemischte Arten, gekocht, frittiert",
+"pt": "Moluscos, lula, espécies mistas, cozida, frita"
+},
+"8140": {
+"it": "Molluschi, calamaro, specie miste, crudo",
+"fr": "Mollusques, calmar, espèces mélangées, cru",
+"es": "Moluscos, calamar, especies mixtas, crudo",
+"de": "Weichtiere, Tintenfisch (Kalmar), gemischte Arten, roh",
+"pt": "Moluscos, lula, espécies mistas, crua"
+},
+"8141": {
+"it": "Molluschi, buccino, non specificato, cotto, a calore umido",
+"fr": "Mollusques, buccin, non spécifié, cuit, à la chaleur humide",
+"es": "Moluscos, buccino, no especificado, cocido, con calor húmedo",
+"de": "Weichtiere, Wellhornschnecke, nicht näher bezeichnet, gekocht, feuchte Hitze",
+"pt": "Moluscos, búzio, não especificado, cozido, com calor úmido"
+},
+"8142": {
+"it": "Molluschi, buccino, non specificato, crudo",
+"fr": "Mollusques, buccin, non spécifié, cru",
+"es": "Moluscos, buccino, no especificado, crudo",
+"de": "Weichtiere, Wellhornschnecke, nicht näher bezeichnet, roh",
+"pt": "Moluscos, búzio, não especificado, cru"
+},
+"8143": {
+"it": "Moo Goo Gai Pan (pollo saltato con funghi)",
+"fr": "Moo Goo Gai Pan (poulet sauté aux champignons)",
+"es": "Moo Goo Gai Pan (pollo salteado con champiñones)",
+"de": "Moo Goo Gai Pan (Hähnchen mit Pilzen, pfannengerührt)",
+"pt": "Moo Goo Gai Pan (frango salteado com cogumelos)"
+},
+"8144": {
+"it": "Moo Shu di maiale, senza pancake cinese",
+"fr": "Porc Moo Shu, sans crêpe chinoise",
+"es": "Cerdo Moo Shu, sin panqueque chino",
+"de": "Moo-Shu-Schweinefleisch, ohne chinesischen Pfannkuchen",
+"pt": "Porco Moo Shu, sem panqueca chinesa"
+},
+"8145": {
+"it": "Alce",
+"fr": "Élan",
+"es": "Alce",
+"de": "Elch",
+"pt": "Alce"
+},
+"8146": {
+"it": "Alce, fegato, brasato (nativi dell'Alaska)",
+"fr": "Élan, foie, braisé (autochtones d'Alaska)",
+"es": "Alce, hígado, estofado (nativos de Alaska)",
+"de": "Elch, Leber, geschmort (Alaska-Ureinwohner)",
+"pt": "Alce, fígado, refogado (nativos do Alasca)"
+},
+"8147": {
+"it": "Alce, carne, cruda (nativi dell'Alaska)",
+"fr": "Élan, viande, crue (autochtones d'Alaska)",
+"es": "Alce, carne, cruda (nativos de Alaska)",
+"de": "Elch, Fleisch, roh (Alaska-Ureinwohner)",
+"pt": "Alce, carne, crua (nativos do Alasca)"
+},
+"8148": {
+"it": "MORI-NU, Tofu, vellutato, extra compatto",
+"fr": "MORI-NU, Tofu, soyeux, extra ferme",
+"es": "MORI-NU, Tofu, sedoso, extra firme",
+"de": "MORI-NU, Tofu, Seidentofu, extrafest",
+"pt": "MORI-NU, Tofu, sedoso, extra firme"
+},
+"8149": {
+"it": "MORI-NU, Tofu, vellutato, compatto",
+"fr": "MORI-NU, Tofu, soyeux, ferme",
+"es": "MORI-NU, Tofu, sedoso, firme",
+"de": "MORI-NU, Tofu, Seidentofu, fest",
+"pt": "MORI-NU, Tofu, sedoso, firme"
+},
+"8150": {
+"it": "MORI-NU, Tofu, vellutato, light extra compatto",
+"fr": "MORI-NU, Tofu, soyeux, allégé extra ferme",
+"es": "MORI-NU, Tofu, sedoso, ligero extra firme",
+"de": "MORI-NU, Tofu, Seidentofu, leicht, extrafest",
+"pt": "MORI-NU, Tofu, sedoso, light extra firme"
+},
+"8151": {
+"it": "MORI-NU, Tofu, vellutato, light compatto",
+"fr": "MORI-NU, Tofu, soyeux, allégé ferme",
+"es": "MORI-NU, Tofu, sedoso, ligero firme",
+"de": "MORI-NU, Tofu, Seidentofu, leicht, fest",
+"pt": "MORI-NU, Tofu, sedoso, light firme"
+},
+"8152": {
+"it": "MORI-NU, Tofu, vellutato, morbido",
+"fr": "MORI-NU, Tofu, soyeux, mou",
+"es": "MORI-NU, Tofu, sedoso, blando",
+"de": "MORI-NU, Tofu, Seidentofu, weich",
+"pt": "MORI-NU, Tofu, sedoso, macio"
+},
+"8153": {
+"it": "Mortadella",
+"fr": "Mortadelle",
+"es": "Mortadela",
+"de": "Mortadella",
+"pt": "Mortadela"
+},
+"8154": {
+"it": "Mortadella, manzo, maiale",
+"fr": "Mortadelle, bœuf, porc",
+"es": "Mortadela, res, cerdo",
+"de": "Mortadella, Rind, Schwein",
+"pt": "Mortadela, carne bovina, carne suína"
+},
+"8155": {
+"it": "Moscow mule",
+"fr": "Moscow mule",
+"es": "Moscow mule",
+"de": "Moscow Mule",
+"pt": "Moscow mule"
+},
+"8156": {
+"it": "Fagioli moth, semi maturi, cotti, bolliti, con sale",
+"fr": "Haricots papillon (moth), graines mûres, cuits, bouillis, avec sel",
+"es": "Frijoles moth, semillas maduras, cocidos, hervidos, con sal",
+"de": "Mattenbohnen, reife Samen, gekocht, mit Salz",
+"pt": "Feijão moth, sementes maduras, cozido em água, com sal"
+},
+"8157": {
+"it": "Fagioli moth, semi maturi, cotti, bolliti, senza sale",
+"fr": "Haricots papillon (moth), graines mûres, cuits, bouillis, sans sel",
+"es": "Frijoles moth, semillas maduras, cocidos, hervidos, sin sal",
+"de": "Mattenbohnen, reife Samen, gekocht, ohne Salz",
+"pt": "Feijão moth, sementes maduras, cozido em água, sem sal"
+},
+"8158": {
+"it": "Fagioli moth, semi maturi, crudi",
+"fr": "Haricots papillon (moth), graines mûres, crus",
+"es": "Frijoles moth, semillas maduras, crudos",
+"de": "Mattenbohnen, reife Samen, roh",
+"pt": "Feijão moth, sementes maduras, cru"
+},
+"8159": {
+"it": "Mother's loaf, maiale (polpettone di carne)",
+"fr": "Mother's loaf, porc (pain de viande)",
+"es": "Mother's loaf, cerdo (pastel de carne)",
+"de": "Mother's Loaf, Schwein (Fleischkäse)",
+"pt": "Mother's loaf, porco (bolo de carne)"
+},
+"8160": {
+"it": "Igname di montagna, delle Hawaii, cotto, al vapore, con sale",
+"fr": "Igname de montagne, d'Hawaï, cuite, à la vapeur, avec sel",
+"es": "Ñame de montaña, de Hawái, cocido al vapor, con sal",
+"de": "Bergyams, Hawaii, gekocht, gedämpft, mit Salz",
+"pt": "Inhame de montanha, do Havaí, cozido no vapor, com sal"
+},
+"8161": {
+"it": "Igname di montagna, delle Hawaii, cotto, al vapore, senza sale",
+"fr": "Igname de montagne, d'Hawaï, cuite, à la vapeur, sans sel",
+"es": "Ñame de montaña, de Hawái, cocido al vapor, sin sal",
+"de": "Bergyams, Hawaii, gekocht, gedämpft, ohne Salz",
+"pt": "Inhame de montanha, do Havaí, cozido no vapor, sem sal"
+},
+"8162": {
+"it": "Igname di montagna, delle Hawaii, crudo",
+"fr": "Igname de montagne, d'Hawaï, crue",
+"es": "Ñame de montaña, de Hawái, crudo",
+"de": "Bergyams, Hawaii, roh",
+"pt": "Inhame de montanha, do Havaí, cru"
+},
+"8163": {
+"it": "Noci di topo, radici (nativi dell'Alaska)",
+"fr": "Noix de souris, racines (autochtones d'Alaska)",
+"es": "Nueces de ratón, raíces (nativos de Alaska)",
+"de": "Mausnüsse, Wurzeln (Alaska-Ureinwohner)",
+"pt": "Nozes de rato, raízes (nativos do Alasca)"
+},
+"8164": {
+"it": "Noci di topo, germogli (nativi dell'Alaska)",
+"fr": "Noix de souris, jeunes pousses (autochtones d'Alaska)",
+"es": "Nueces de ratón, plántulas (nativos de Alaska)",
+"de": "Mausnüsse, Keimlinge (Alaska-Ureinwohner)",
+"pt": "Nozes de rato, mudas (nativos do Alasca)"
+},
+"8165": {
+"it": "Mousse",
+"fr": "Mousse",
+"es": "Mousse",
+"de": "Mousse",
+"pt": "Mousse"
+},
+"8166": {
+"it": "Mozzarella, pomodoro e basilico, con condimento di olio e aceto",
+"fr": "Mozzarella, tomate et basilic, avec vinaigrette à l'huile et au vinaigre",
+"es": "Mozzarella, tomate y albahaca, con aderezo de aceite y vinagre",
+"de": "Mozzarella, Tomate und Basilikum, mit Essig-Öl-Dressing",
+"pt": "Mussarela, tomate e manjericão, com molho de azeite e vinagre"
+},
+"8167": {
+"it": "Bastoncini di mozzarella, impanati, al forno o fritti",
+"fr": "Bâtonnets de mozzarella, panés, cuits au four ou frits",
+"es": "Palitos de mozzarella, empanados, al horno o fritos",
+"de": "Mozzarella-Sticks, paniert, gebacken oder frittiert",
+"pt": "Palitos de mussarela, empanados, assados no forno ou fritos"
+},
+"8168": {
+"it": "Muffin, ai mirtilli, di produzione industriale, a basso contenuto di grassi",
+"fr": "Muffin, aux myrtilles, préparé industriellement, allégé",
+"es": "Muffin, de arándanos, de preparación industrial, bajo en grasa",
+"de": "Muffin, Heidelbeere, handelsüblich zubereitet, fettarm",
+"pt": "Muffin, de mirtilo, industrializado, com baixo teor de gordura"
+},
+"8169": {
+"it": "Muffin, alla crusca con frutta, a basso contenuto di grassi",
+"fr": "Muffin, au son avec fruits, allégé",
+"es": "Muffin, de salvado con fruta, bajo en grasa",
+"de": "Muffin, Kleie mit Früchten, fettarm",
+"pt": "Muffin, de farelo com frutas, com baixo teor de gordura"
+},
+"8170": {
+"it": "Muffin, alla carota",
+"fr": "Muffin, à la carotte",
+"es": "Muffin, de zanahoria",
+"de": "Muffin, Karotte",
+"pt": "Muffin, de cenoura"
+},
+"8171": {
+"it": "Muffin, al formaggio",
+"fr": "Muffin, au fromage",
+"es": "Muffin, de queso",
+"de": "Muffin, Käse",
+"pt": "Muffin, de queijo"
+},
+"8172": {
+"it": "Muffin, al cioccolato",
+"fr": "Muffin, au chocolat",
+"es": "Muffin, de chocolate",
+"de": "Muffin, Schokolade",
+"pt": "Muffin, de chocolate"
+},
+"8173": {
+"it": "Muffin, con gocce di cioccolato",
+"fr": "Muffin, aux pépites de chocolat",
+"es": "Muffin, con chispas de chocolate",
+"de": "Muffin, mit Schokoladenstückchen",
+"pt": "Muffin, com gotas de chocolate"
+},
+"8174": {
+"it": "Muffin, inglese",
+"fr": "Muffin, anglais",
+"es": "Muffin, inglés",
+"de": "Muffin, Englischer",
+"pt": "Muffin, inglês"
+},
+"8175": {
+"it": "Muffin, inglese, al formaggio",
+"fr": "Muffin, anglais, au fromage",
+"es": "Muffin, inglés, de queso",
+"de": "Muffin, Englischer, Käse",
+"pt": "Muffin, inglês, de queijo"
+},
+"8176": {
+"it": "Muffin, inglese, multicereali",
+"fr": "Muffin, anglais, multicéréales",
+"es": "Muffin, inglés, multicereales",
+"de": "Muffin, Englischer, Mehrkorn",
+"pt": "Muffin, inglês, multigrãos"
+},
+"8177": {
+"it": "Muffin, inglese, alla crusca d'avena",
+"fr": "Muffin, anglais, au son d'avoine",
+"es": "Muffin, inglés, de salvado de avena",
+"de": "Muffin, Englischer, Haferkleie",
+"pt": "Muffin, inglês, de farelo de aveia"
+},
+"8178": {
+"it": "Muffin, inglese, alla crusca d'avena, con uvetta",
+"fr": "Muffin, anglais, au son d'avoine, avec raisins secs",
+"es": "Muffin, inglés, de salvado de avena, con pasas",
+"de": "Muffin, Englischer, Haferkleie, mit Rosinen",
+"pt": "Muffin, inglês, de farelo de aveia, com uvas-passas"
+},
+"8179": {
+"it": "Muffin, inglese, pumpernickel",
+"fr": "Muffin, anglais, pumpernickel",
+"es": "Muffin, inglés, pumpernickel",
+"de": "Muffin, Englischer, Pumpernickel",
+"pt": "Muffin, inglês, pumpernickel"
+},
+"8180": {
+"it": "Muffin, inglese, di segale",
+"fr": "Muffin, anglais, de seigle",
+"es": "Muffin, inglés, de centeno",
+"de": "Muffin, Englischer, Roggen",
+"pt": "Muffin, inglês, de centeio"
+},
+"8181": {
+"it": "Muffin, inglese, alla crusca di frumento",
+"fr": "Muffin, anglais, au son de blé",
+"es": "Muffin, inglés, de salvado de trigo",
+"de": "Muffin, Englischer, Weizenkleie",
+"pt": "Muffin, inglês, de farelo de trigo"
+},
+"8182": {
+"it": "Muffin, inglese, alla crusca di frumento, con uvetta",
+"fr": "Muffin, anglais, au son de blé, avec raisins secs",
+"es": "Muffin, inglés, de salvado de trigo, con pasas",
+"de": "Muffin, Englischer, Weizenkleie, mit Rosinen",
+"pt": "Muffin, inglês, de farelo de trigo, com uvas-passas"
+},
+"8183": {
+"it": "Muffin, inglese, di frumento o frumento spezzato",
+"fr": "Muffin, anglais, de blé ou de blé concassé",
+"es": "Muffin, inglés, de trigo o trigo partido",
+"de": "Muffin, Englischer, Weizen oder Weizenschrot",
+"pt": "Muffin, inglês, de trigo ou trigo quebrado"
+},
+"8184": {
+"it": "Muffin, inglese, di frumento o frumento spezzato, con uvetta",
+"fr": "Muffin, anglais, de blé ou de blé concassé, avec raisins secs",
+"es": "Muffin, inglés, de trigo o trigo partido, con pasas",
+"de": "Muffin, Englischer, Weizen oder Weizenschrot, mit Rosinen",
+"pt": "Muffin, inglês, de trigo ou trigo quebrado, com uvas-passas"
+},
+"8185": {
+"it": "Muffin, inglese, bianco integrale",
+"fr": "Muffin, anglais, blanc complet",
+"es": "Muffin, inglés, blanco integral",
+"de": "Muffin, Englischer, Vollkorn-Weißmehl",
+"pt": "Muffin, inglês, branco integral"
+},
+"8186": {
+"it": "Muffin, inglese, di frumento integrale",
+"fr": "Muffin, anglais, de blé complet",
+"es": "Muffin, inglés, de trigo integral",
+"de": "Muffin, Englischer, Vollkornweizen",
+"pt": "Muffin, inglês, de trigo integral"
+},
+"8187": {
+"it": "Muffin, inglese, di frumento integrale, con uvetta",
+"fr": "Muffin, anglais, de blé complet, avec raisins secs",
+"es": "Muffin, inglés, de trigo integral, con pasas",
+"de": "Muffin, Englischer, Vollkornweizen, mit Rosinen",
+"pt": "Muffin, inglês, de trigo integral, com uvas-passas"
+},
+"8188": {
+"it": "Muffin, inglese, con frutta diversa dall'uvetta",
+"fr": "Muffin, anglais, avec des fruits autres que des raisins secs",
+"es": "Muffin, inglés, con fruta distinta de las pasas",
+"de": "Muffin, Englischer, mit anderen Früchten als Rosinen",
+"pt": "Muffin, inglês, com frutas que não uvas-passas"
+},
+"8189": {
+"it": "Muffin, inglese, con uvetta",
+"fr": "Muffin, anglais, avec raisins secs",
+"es": "Muffin, inglés, con pasas",
+"de": "Muffin, Englischer, mit Rosinen",
+"pt": "Muffin, inglês, com uvas-passas"
+},
+"8190": {
+"it": "Muffin, alla frutta",
+"fr": "Muffin, aux fruits",
+"es": "Muffin, de fruta",
+"de": "Muffin, Frucht",
+"pt": "Muffin, de frutas"
+},
+"8191": {
+"it": "Muffin, alla frutta, a basso contenuto di grassi",
+"fr": "Muffin, aux fruits, allégé",
+"es": "Muffin, de fruta, bajo en grasa",
+"de": "Muffin, Frucht, fettarm",
+"pt": "Muffin, de frutas, com baixo teor de gordura"
+},
+"8192": {
+"it": "Muffin, non specificato",
+"fr": "Muffin, non spécifié",
+"es": "Muffin, no especificado",
+"de": "Muffin, nicht näher bezeichnet",
+"pt": "Muffin, não especificado"
+},
+"8193": {
+"it": "Muffin, alla crusca d'avena",
+"fr": "Muffin, au son d'avoine",
+"es": "Muffin, de salvado de avena",
+"de": "Muffin, Haferkleie",
+"pt": "Muffin, de farelo de aveia"
+},
+"8194": {
+"it": "Muffin, ai fiocchi d'avena",
+"fr": "Muffin, aux flocons d'avoine",
+"es": "Muffin, de avena",
+"de": "Muffin, Haferflocken",
+"pt": "Muffin, de aveia"
+},
+"8195": {
+"it": "Muffin, semplice",
+"fr": "Muffin, nature",
+"es": "Muffin, sencillo",
+"de": "Muffin, natur",
+"pt": "Muffin, simples"
+},
+"8196": {
+"it": "Muffin, alla zucca",
+"fr": "Muffin, à la citrouille",
+"es": "Muffin, de calabaza",
+"de": "Muffin, Kürbis",
+"pt": "Muffin, de abóbora"
+},
+"8197": {
+"it": "Muffin, di frumento",
+"fr": "Muffin, de blé",
+"es": "Muffin, de trigo",
+"de": "Muffin, Weizen",
+"pt": "Muffin, de trigo"
+},
+"8198": {
+"it": "Muffin, alla crusca di frumento",
+"fr": "Muffin, au son de blé",
+"es": "Muffin, de salvado de trigo",
+"de": "Muffin, Weizenkleie",
+"pt": "Muffin, de farelo de trigo"
+},
+"8199": {
+"it": "Muffin, integrale",
+"fr": "Muffin, complet",
+"es": "Muffin, integral",
+"de": "Muffin, Vollkorn",
+"pt": "Muffin, integral"
+},
+"8200": {
+"it": "Muffin, di frumento integrale",
+"fr": "Muffin, de blé complet",
+"es": "Muffin, de trigo integral",
+"de": "Muffin, Vollkornweizen",
+"pt": "Muffin, de trigo integral"
+},
+"8201": {
+"it": "Muffin, alle zucchine",
+"fr": "Muffin, aux courgettes",
+"es": "Muffin, de calabacín",
+"de": "Muffin, Zucchini",
+"pt": "Muffin, de abobrinha"
+},
+"8202": {
+"it": "Muffin, ai mirtilli, di produzione industriale (include mini-muffin)",
+"fr": "Muffins, aux myrtilles, préparés industriellement (y compris mini-muffins)",
+"es": "Muffins, de arándanos, de preparación industrial (incluye mini-muffins)",
+"de": "Muffins, Heidelbeere, handelsüblich zubereitet (einschließlich Mini-Muffins)",
+"pt": "Muffins, de mirtilo, industrializados (inclui mini-muffins)"
+},
+"8203": {
+"it": "Muffin, ai mirtilli, miscela secca",
+"fr": "Muffins, aux myrtilles, mélange sec",
+"es": "Muffins, de arándanos, mezcla seca",
+"de": "Muffins, Heidelbeere, Trockenmischung",
+"pt": "Muffins, de mirtilo, mistura seca"
+},
+"8204": {
+"it": "Muffin, ai mirtilli, preparati da ricetta, con latte a basso contenuto di grassi (2%)",
+"fr": "Muffins, aux myrtilles, préparés selon une recette, avec du lait allégé (2%)",
+"es": "Muffins, de arándanos, preparados con receta, con leche baja en grasa (2%)",
+"de": "Muffins, Heidelbeere, nach Rezept zubereitet, mit fettarmer Milch (2%)",
+"pt": "Muffins, de mirtilo, preparados com receita, com leite com baixo teor de gordura (2%)"
+},
+"8205": {
+"it": "Muffin, ai mirtilli, da tostapane",
+"fr": "Muffins, aux myrtilles, pour grille-pain",
+"es": "Muffins, de arándanos, para tostadora",
+"de": "Muffins, Heidelbeere, Toaster-Art",
+"pt": "Muffins, de mirtilo, para torradeira"
+},
+"8206": {
+"it": "Muffin, ai mirtilli, da tostapane, tostati",
+"fr": "Muffins, aux myrtilles, pour grille-pain, grillés",
+"es": "Muffins, de arándanos, para tostadora, tostados",
+"de": "Muffins, Heidelbeere, Toaster-Art, getoastet",
+"pt": "Muffins, de mirtilo, para torradeira, torrados"
+},
+"8207": {
+"it": "Muffin, di mais, di produzione industriale",
+"fr": "Muffins, de maïs, préparés industriellement",
+"es": "Muffins, de maíz, de preparación industrial",
+"de": "Muffins, Mais, handelsüblich zubereitet",
+"pt": "Muffins, de milho, industrializados"
+},
+"8208": {
+"it": "Muffin, di mais, miscela secca, preparati",
+"fr": "Muffins, de maïs, mélange sec, préparés",
+"es": "Muffins, de maíz, mezcla seca, preparados",
+"de": "Muffins, Mais, Trockenmischung, zubereitet",
+"pt": "Muffins, de milho, mistura seca, preparados"
+},
+"8209": {
+"it": "Muffin, di mais, preparati da ricetta, con latte a basso contenuto di grassi (2%)",
+"fr": "Muffins, de maïs, préparés selon une recette, avec du lait allégé (2%)",
+"es": "Muffins, de maíz, preparados con receta, con leche baja en grasa (2%)",
+"de": "Muffins, Mais, nach Rezept zubereitet, mit fettarmer Milch (2%)",
+"pt": "Muffins, de milho, preparados com receita, com leite com baixo teor de gordura (2%)"
+},
+"8210": {
+"it": "Muffin, di mais, da tostapane",
+"fr": "Muffins, de maïs, pour grille-pain",
+"es": "Muffins, de maíz, para tostadora",
+"de": "Muffins, Mais, Toaster-Art",
+"pt": "Muffins, de milho, para torradeira"
+},
+"8211": {
+"it": "Muffin, inglesi, multicereali (include granola)",
+"fr": "Muffins, anglais, multicéréales (y compris granola)",
+"es": "Muffins, ingleses, multicereales (incluye granola)",
+"de": "Muffins, Englische, Mehrkorn (einschließlich Granola)",
+"pt": "Muffins, ingleses, multigrãos (inclui granola)"
+},
+"8212": {
+"it": "Muffin, inglesi, semplici, arricchiti, con propionato di calcio (include pasta madre)",
+"fr": "Muffins, anglais, nature, enrichis, avec propionate de calcium (y compris pain au levain)",
+"es": "Muffins, ingleses, sencillos, enriquecidos, con propionato de calcio (incluye masa madre)",
+"de": "Muffins, Englische, natur, angereichert, mit Calciumpropionat (einschließlich Sauerteig)",
+"pt": "Muffins, ingleses, simples, enriquecidos, com propionato de cálcio (inclui massa azeda)"
+},
+"8213": {
+"it": "Muffin, inglesi, semplici, tostati, arricchiti, con propionato di calcio (include pasta madre)",
+"fr": "Muffins, anglais, nature, grillés, enrichis, avec propionate de calcium (y compris pain au levain)",
+"es": "Muffins, ingleses, sencillos, tostados, enriquecidos, con propionato de calcio (incluye masa madre)",
+"de": "Muffins, Englische, natur, getoastet, angereichert, mit Calciumpropionat (einschließlich Sauerteig)",
+"pt": "Muffins, ingleses, simples, torrados, enriquecidos, com propionato de cálcio (inclui massa azeda)"
+},
+"8214": {
+"it": "Muffin, inglesi, uvetta e cannella (include mela e cannella)",
+"fr": "Muffins, anglais, raisins secs et cannelle (y compris pomme et cannelle)",
+"es": "Muffins, ingleses, pasas y canela (incluye manzana y canela)",
+"de": "Muffins, Englische, Rosinen-Zimt (einschließlich Apfel-Zimt)",
+"pt": "Muffins, ingleses, uvas-passas e canela (inclui maçã e canela)"
+},
+"8215": {
+"it": "Muffin, inglesi, uvetta e cannella, tostati (include mela e cannella)",
+"fr": "Muffins, anglais, raisins secs et cannelle, grillés (y compris pomme et cannelle)",
+"es": "Muffins, ingleses, pasas y canela, tostados (incluye manzana y canela)",
+"de": "Muffins, Englische, Rosinen-Zimt, getoastet (einschließlich Apfel-Zimt)",
+"pt": "Muffins, ingleses, uvas-passas e canela, torrados (inclui maçã e canela)"
+},
+"8216": {
+"it": "Muffin, inglesi, di frumento",
+"fr": "Muffins, anglais, de blé",
+"es": "Muffins, ingleses, de trigo",
+"de": "Muffins, Englische, Weizen",
+"pt": "Muffins, ingleses, de trigo"
+},
+"8217": {
+"it": "Muffin, inglesi, di frumento integrale",
+"fr": "Muffins, anglais, de blé complet",
+"es": "Muffins, ingleses, de trigo integral",
+"de": "Muffins, Englische, Vollkornweizen",
+"pt": "Muffins, ingleses, de trigo integral"
+},
+"8218": {
+"it": "Muffin, alla crusca d'avena",
+"fr": "Muffins, au son d'avoine",
+"es": "Muffins, de salvado de avena",
+"de": "Muffins, Haferkleie",
+"pt": "Muffins, de farelo de aveia"
+},
+"8219": {
+"it": "Muffin, semplici, preparati da ricetta, con latte a basso contenuto di grassi (2%)",
+"fr": "Muffins, nature, préparés selon une recette, avec du lait allégé (2%)",
+"es": "Muffins, sencillos, preparados con receta, con leche baja en grasa (2%)",
+"de": "Muffins, natur, nach Rezept zubereitet, mit fettarmer Milch (2%)",
+"pt": "Muffins, simples, preparados com receita, com leite com baixo teor de gordura (2%)"
+},
+"8220": {
+"it": "Muffin, alla crusca di frumento, miscela secca",
+"fr": "Muffins, au son de blé, mélange sec",
+"es": "Muffins, de salvado de trigo, mezcla seca",
+"de": "Muffins, Weizenkleie, Trockenmischung",
+"pt": "Muffins, de farelo de trigo, mistura seca"
+},
+"8221": {
+"it": "Muffin, alla crusca di frumento, da tostapane, con uvetta, tostati",
+"fr": "Muffins, au son de blé, pour grille-pain, avec raisins secs, grillés",
+"es": "Muffins, de salvado de trigo, para tostadora, con pasas, tostados",
+"de": "Muffins, Weizenkleie, Toaster-Art, mit Rosinen, getoastet",
+"pt": "Muffins, de farelo de trigo, para torradeira, com uvas-passas, torrados"
+},
+"8222": {
+"it": "Gelsi, crudi",
+"fr": "Mûres de mûrier, crues",
+"es": "Moras de morera, crudas",
+"de": "Maulbeeren, roh",
+"pt": "Amoras de amoreira, cruas"
+},
+"8223": {
+"it": "Chips multicereali (Sun Chips)",
+"fr": "Chips multicéréales (Sun Chips)",
+"es": "Chips multicereales (Sun Chips)",
+"de": "Mehrkorn-Chips (Sun Chips)",
+"pt": "Chips multigrãos (Sun Chips)"
+},
+"8224": {
+"it": "Panino con più tipi di affettati, su pane integrale",
+"fr": "Sandwich à plusieurs viandes, sur pain de blé",
+"es": "Sándwich de varios embutidos, en pan de trigo",
+"de": "Sandwich mit mehreren Fleischsorten, auf Weizenbrot",
+"pt": "Sanduíche de vários frios, em pão de trigo"
+},
+"8225": {
+"it": "Panino con più tipi di affettati, su pane integrale, con formaggio",
+"fr": "Sandwich à plusieurs viandes, sur pain de blé, avec fromage",
+"es": "Sándwich de varios embutidos, en pan de trigo, con queso",
+"de": "Sandwich mit mehreren Fleischsorten, auf Weizenbrot, mit Käse",
+"pt": "Sanduíche de vários frios, em pão de trigo, com queijo"
+},
+"8226": {
+"it": "Panino con più tipi di affettati, su pane bianco",
+"fr": "Sandwich à plusieurs viandes, sur pain blanc",
+"es": "Sándwich de varios embutidos, en pan blanco",
+"de": "Sandwich mit mehreren Fleischsorten, auf Weißbrot",
+"pt": "Sanduíche de vários frios, em pão branco"
+},
+"8227": {
+"it": "Panino con più tipi di affettati, su pane bianco, con formaggio",
+"fr": "Sandwich à plusieurs viandes, sur pain blanc, avec fromage",
+"es": "Sándwich de varios embutidos, en pan blanco, con queso",
+"de": "Sandwich mit mehreren Fleischsorten, auf Weißbrot, mit Käse",
+"pt": "Sanduíche de vários frios, em pão branco, com queijo"
+},
+"8228": {
+"it": "Panino o sub con più tipi di affettati, da ristorante",
+"fr": "Sandwich ou sub à plusieurs viandes, de restaurant",
+"es": "Sándwich o sub de varios embutidos, de restaurante",
+"de": "Sandwich oder Sub mit mehreren Fleischsorten, aus dem Restaurant",
+"pt": "Sanduíche ou sub de vários frios, de restaurante"
+},
+"8229": {
+"it": "Panino o sub con più tipi di affettati, con formaggio, da ristorante",
+"fr": "Sandwich ou sub à plusieurs viandes, avec fromage, de restaurant",
+"es": "Sándwich o sub de varios embutidos, con queso, de restaurante",
+"de": "Sandwich oder Sub mit mehreren Fleischsorten, mit Käse, aus dem Restaurant",
+"pt": "Sanduíche ou sub de vários frios, com queijo, de restaurante"
+},
+"8230": {
+"it": "Wrap con più tipi di affettati",
+"fr": "Wrap à plusieurs viandes",
+"es": "Wrap de varios embutidos",
+"de": "Wrap mit mehreren Fleischsorten",
+"pt": "Wrap de vários frios"
+},
+"8231": {
+"it": "Fagioli mungo, cotti",
+"fr": "Haricots mungo, cuits",
+"es": "Frijoles mungo, cocidos",
+"de": "Mungobohnen, gekocht",
+"pt": "Feijão mungo, cozido"
+},
+"8232": {
+"it": "Fagioli mungo, semi maturi, cotti, bolliti, con sale",
+"fr": "Haricots mungo, graines mûres, cuits, bouillis, avec sel",
+"es": "Frijoles mungo, semillas maduras, cocidos, hervidos, con sal",
+"de": "Mungobohnen, reife Samen, gekocht, mit Salz",
+"pt": "Feijão mungo, sementes maduras, cozido em água, com sal"
+},
+"8233": {
+"it": "Fagioli mungo, semi maturi, cotti, bolliti, senza sale",
+"fr": "Haricots mungo, graines mûres, cuits, bouillis, sans sel",
+"es": "Frijoles mungo, semillas maduras, cocidos, hervidos, sin sal",
+"de": "Mungobohnen, reife Samen, gekocht, ohne Salz",
+"pt": "Feijão mungo, sementes maduras, cozido em água, sem sal"
+},
+"8234": {
+"it": "Fagioli mungo, semi maturi, crudi",
+"fr": "Haricots mungo, graines mûres, crus",
+"es": "Frijoles mungo, semillas maduras, crudos",
+"de": "Mungobohnen, reife Samen, roh",
+"pt": "Feijão mungo, sementes maduras, cru"
+},
+"8235": {
+"it": "Fagioli mungo, semi maturi, germogliati, cotti, bolliti, sgocciolati, con sale",
+"fr": "Haricots mungo, graines mûres, germées, cuites, bouillies, égouttées, avec sel",
+"es": "Frijoles mungo, semillas maduras, germinadas, cocidas, hervidas, escurridas, con sal",
+"de": "Mungobohnen, reife Samen, gekeimt, gekocht, abgetropft, mit Salz",
+"pt": "Feijão mungo, sementes maduras, germinadas, cozidas em água, escorridas, com sal"
+},
+"8236": {
+"it": "Fagioli mungo, semi maturi, germogliati, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Haricots mungo, graines mûres, germées, cuites, bouillies, égouttées, sans sel",
+"es": "Frijoles mungo, semillas maduras, germinadas, cocidas, hervidas, escurridas, sin sal",
+"de": "Mungobohnen, reife Samen, gekeimt, gekocht, abgetropft, ohne Salz",
+"pt": "Feijão mungo, sementes maduras, germinadas, cozidas em água, escorridas, sem sal"
+},
+"8237": {
+"it": "Fagioli mungo, semi maturi, germogliati, cotti, saltati in padella",
+"fr": "Haricots mungo, graines mûres, germées, cuites, sautées au wok",
+"es": "Frijoles mungo, semillas maduras, germinadas, cocidas, salteadas",
+"de": "Mungobohnen, reife Samen, gekeimt, gekocht, pfannengerührt",
+"pt": "Feijão mungo, sementes maduras, germinadas, cozidas, salteadas"
+},
+"8238": {
+"it": "Fagioli mungo, semi maturi, germogliati, crudi",
+"fr": "Haricots mungo, graines mûres, germées, crues",
+"es": "Frijoles mungo, semillas maduras, germinadas, crudas",
+"de": "Mungobohnen, reife Samen, gekeimt, roh",
+"pt": "Feijão mungo, sementes maduras, germinadas, cruas"
+},
+"8239": {
+"it": "Fagioli mungo (urad), semi maturi, cotti, bolliti, con sale",
+"fr": "Haricots mungo (urad), graines mûres, cuits, bouillis, avec sel",
+"es": "Frijoles mungo (urad), semillas maduras, cocidos, hervidos, con sal",
+"de": "Urdbohnen, reife Samen, gekocht, mit Salz",
+"pt": "Feijão mungo (urad), sementes maduras, cozido em água, com sal"
+},
+"8240": {
+"it": "Fagioli mungo (urad), semi maturi, cotti, bolliti, senza sale",
+"fr": "Haricots mungo (urad), graines mûres, cuits, bouillis, sans sel",
+"es": "Frijoles mungo (urad), semillas maduras, cocidos, hervidos, sin sal",
+"de": "Urdbohnen, reife Samen, gekocht, ohne Salz",
+"pt": "Feijão mungo (urad), sementes maduras, cozido em água, sem sal"
+},
+"8241": {
+"it": "Fagioli mungo (urad), semi maturi, crudi",
+"fr": "Haricots mungo (urad), graines mûres, crus",
+"es": "Frijoles mungo (urad), semillas maduras, crudos",
+"de": "Urdbohnen, reife Samen, roh",
+"pt": "Feijão mungo (urad), sementes maduras, cru"
+},
+"8242": {
+"it": "Mush, mais blu con cenere (Navajo) (polenta di mais blu)",
+"fr": "Mush, maïs bleu à la cendre (Navajo) (bouillie de maïs bleu)",
+"es": "Mush, maíz azul con ceniza (navajo) (gachas de maíz azul)",
+"de": "Mush, Blaumais mit Asche (Navajo) (Blaumaisbrei)",
+"pt": "Mush, milho azul com cinza (navajo) (mingau de milho azul)"
+},
+"8243": {
+"it": "Mais ai funghi (mushroom corn), soffiato, biologico",
+"fr": "Maïs champignon (mushroom corn), soufflé, biologique",
+"es": "Maíz hongo (mushroom corn), inflado, orgánico",
+"de": "Pilzmais (Mushroom Corn), gepufft, Bio",
+"pt": "Milho cogumelo (mushroom corn), expandido, orgânico"
+},
+"8244": {
+"it": "Fungo, asiatico, cotto, da secco",
+"fr": "Champignon, asiatique, cuit, à partir de séché",
+"es": "Hongo, asiático, cocido, a partir de seco",
+"de": "Pilz, asiatisch, gekocht, aus getrocknet",
+"pt": "Cogumelo, asiático, cozido, a partir de seco"
+},
+"8245": {
+"it": "Fungo, beech (shimeji)",
+"fr": "Champignon, hypsizygus (shimeji)",
+"es": "Hongo, shimeji (beech)",
+"de": "Pilz, Buchenpilz",
+"pt": "Cogumelo, shimeji"
+},
+"8246": {
+"it": "Fungo, crimini",
+"fr": "Champignon, crimini",
+"es": "Hongo, crimini",
+"de": "Pilz, Crimini",
+"pt": "Cogumelo, crimini"
+},
+"8247": {
+"it": "Fungo, enoki",
+"fr": "Champignon, enoki",
+"es": "Hongo, enoki",
+"de": "Pilz, Enoki",
+"pt": "Cogumelo, enoki"
+},
+"8248": {
+"it": "Fungo, cardoncello (king oyster)",
+"fr": "Champignon, pleurote du panicaut (king oyster)",
+"es": "Hongo, seta de cardo (king oyster)",
+"de": "Pilz, Kräuterseitling",
+"pt": "Cogumelo, king oyster"
+},
+"8249": {
+"it": "Fungo, criniera di leone (lion's mane)",
+"fr": "Champignon, hydne hérisson (crinière de lion)",
+"es": "Hongo, melena de león (lion's mane)",
+"de": "Pilz, Igel-Stachelbart (Lion's Mane)",
+"pt": "Cogumelo, juba de leão (lion's mane)"
+},
+"8250": {
+"it": "Fungo, maitake",
+"fr": "Champignon, maitake",
+"es": "Hongo, maitake",
+"de": "Pilz, Maitake",
+"pt": "Cogumelo, maitake"
+},
+"8251": {
+"it": "Fungo, orecchione (oyster)",
+"fr": "Champignon, pleurote (oyster)",
+"es": "Hongo, seta ostra (oyster)",
+"de": "Pilz, Austernseitling",
+"pt": "Cogumelo, shimeji-cinza (oyster)"
+},
+"8252": {
+"it": "Fungo, pioppino",
+"fr": "Champignon, pholiote du peuplier (pioppini)",
+"es": "Hongo, pioppino",
+"de": "Pilz, Pioppini",
+"pt": "Cogumelo, pioppino"
+},
+"8253": {
+"it": "Fungo, portobello",
+"fr": "Champignon, portobello",
+"es": "Hongo, portobello",
+"de": "Pilz, Portobello",
+"pt": "Cogumelo, portobello"
+},
+"8254": {
+"it": "Fungo, bianco, esposto a luce ultravioletta, crudo",
+"fr": "Champignon, blanc, exposé à la lumière ultraviolette, cru",
+"es": "Hongo, blanco, expuesto a luz ultravioleta, crudo",
+"de": "Pilz, weiß, UV-bestrahlt, roh",
+"pt": "Cogumelo, branco, exposto à luz ultravioleta, cru"
+},
+"8255": {
+"it": "Funghi, marroni, italiani, o crimini, esposti a luce ultravioletta, crudi",
+"fr": "Champignons, bruns, italiens, ou crimini, exposés à la lumière ultraviolette, crus",
+"es": "Hongos, marrones, italianos, o crimini, expuestos a luz ultravioleta, crudos",
+"de": "Pilze, braun, italienisch, oder Crimini, UV-bestrahlt, roh",
+"pt": "Cogumelos, marrons, italianos, ou crimini, expostos à luz ultravioleta, crus"
+},
+"8256": {
+"it": "Funghi, marroni, italiani, o crimini, crudi",
+"fr": "Champignons, bruns, italiens, ou crimini, crus",
+"es": "Hongos, marrones, italianos, o crimini, crudos",
+"de": "Pilze, braun, italienisch, oder Crimini, roh",
+"pt": "Cogumelos, marrons, italianos, ou crimini, crus"
+},
+"8257": {
+"it": "Funghi, in scatola, cotti",
+"fr": "Champignons, en conserve, cuits",
+"es": "Hongos, en conserva, cocidos",
+"de": "Pilze, aus der Dose, gekocht",
+"pt": "Cogumelos, enlatados, cozidos"
+},
+"8258": {
+"it": "Funghi, in scatola, solidi sgocciolati",
+"fr": "Champignons, en conserve, solides égouttés",
+"es": "Hongos, en conserva, sólidos escurridos",
+"de": "Pilze, aus der Dose, abgetropfte Feststoffe",
+"pt": "Cogumelos, enlatados, sólidos escorridos"
+},
+"8259": {
+"it": "Funghi, finferli, crudi",
+"fr": "Champignons, chanterelles, crues",
+"es": "Hongos, chantarelas, crudas",
+"de": "Pilze, Pfifferlinge, roh",
+"pt": "Cogumelos, cantarelos, crus"
+},
+"8260": {
+"it": "Funghi, cotti, come ingrediente",
+"fr": "Champignons, cuits, comme ingrédient",
+"es": "Hongos, cocidos, como ingrediente",
+"de": "Pilze, gekocht, als Zutat",
+"pt": "Cogumelos, cozidos, como ingrediente"
+},
+"8261": {
+"it": "Funghi, enoki, crudi",
+"fr": "Champignons, enoki, crus",
+"es": "Hongos, enoki, crudos",
+"de": "Pilze, Enoki, roh",
+"pt": "Cogumelos, enoki, crus"
+},
+"8262": {
+"it": "Funghi, da usare in un panino",
+"fr": "Champignons, pour sandwich",
+"es": "Hongos, para usar en un sándwich",
+"de": "Pilze, für ein Sandwich",
+"pt": "Cogumelos, para usar em sanduíche"
+},
+"8263": {
+"it": "Funghi, freschi, cotti con burro o margarina",
+"fr": "Champignons, frais, cuits avec du beurre ou de la margarine",
+"es": "Hongos, frescos, cocidos con mantequilla o margarina",
+"de": "Pilze, frisch, gekocht mit Butter oder Margarine",
+"pt": "Cogumelos, frescos, cozidos com manteiga ou margarina"
+},
+"8264": {
+"it": "Funghi, freschi, cotti con olio",
+"fr": "Champignons, frais, cuits avec de l'huile",
+"es": "Hongos, frescos, cocidos con aceite",
+"de": "Pilze, frisch, gekocht mit Öl",
+"pt": "Cogumelos, frescos, cozidos com óleo"
+},
+"8265": {
+"it": "Funghi, freschi, cotti, con grasso aggiunto, non specificato il tipo di grasso",
+"fr": "Champignons, frais, cuits, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Hongos, frescos, cocidos, con grasa añadida, sin especificar el tipo de grasa",
+"de": "Pilze, frisch, gekocht, mit zugesetztem Fett, Fettart nicht angegeben",
+"pt": "Cogumelos, frescos, cozidos, com gordura adicionada, tipo de gordura não especificado"
+},
+"8266": {
+"it": "Funghi, freschi, cotti, senza grasso aggiunto",
+"fr": "Champignons, frais, cuits, sans matière grasse ajoutée",
+"es": "Hongos, frescos, cocidos, sin grasa añadida",
+"de": "Pilze, frisch, gekocht, ohne zugesetztes Fett",
+"pt": "Cogumelos, frescos, cozidos, sem gordura adicionada"
+},
+"8267": {
+"it": "Funghi, maitake, crudi",
+"fr": "Champignons, maitake, crus",
+"es": "Hongos, maitake, crudos",
+"de": "Pilze, Maitake, roh",
+"pt": "Cogumelos, maitake, crus"
+},
+"8268": {
+"it": "Funghi, spugnole, crude",
+"fr": "Champignons, morilles, crues",
+"es": "Hongos, colmenillas, crudas",
+"de": "Pilze, Morcheln, roh",
+"pt": "Cogumelos, morchelas, crus"
+},
+"8269": {
+"it": "Funghi, non specificato se freschi o in scatola, cotti",
+"fr": "Champignons, forme non précisée, cuits",
+"es": "Hongos, sin especificar la forma, cocidos",
+"de": "Pilze, Form nicht angegeben, gekocht",
+"pt": "Cogumelos, forma não especificada, cozidos"
+},
+"8270": {
+"it": "Funghi, orecchioni, crudi",
+"fr": "Champignons, pleurotes, crus",
+"es": "Hongos, setas ostra, crudas",
+"de": "Pilze, Austernseitlinge, roh",
+"pt": "Cogumelos, shimeji-cinza, crus"
+},
+"8271": {
+"it": "Funghi, sott'aceto",
+"fr": "Champignons, au vinaigre",
+"es": "Hongos, encurtidos",
+"de": "Pilze, eingelegt",
+"pt": "Cogumelos, em conserva de vinagre"
+},
+"8272": {
+"it": "Funghi, portobello, esposti a luce ultravioletta, alla griglia",
+"fr": "Champignons, portobello, exposés à la lumière ultraviolette, grillés",
+"es": "Hongos, portobello, expuestos a luz ultravioleta, a la parrilla",
+"de": "Pilze, Portobello, UV-bestrahlt, gegrillt",
+"pt": "Cogumelos, portobello, expostos à luz ultravioleta, grelhados"
+},
+"8273": {
+"it": "Funghi, portobello, esposti a luce ultravioletta, crudi",
+"fr": "Champignons, portobello, exposés à la lumière ultraviolette, crus",
+"es": "Hongos, portobello, expuestos a luz ultravioleta, crudos",
+"de": "Pilze, Portobello, UV-bestrahlt, roh",
+"pt": "Cogumelos, portobello, expostos à luz ultravioleta, crus"
+},
+"8274": {
+"it": "Funghi, portobello, alla griglia",
+"fr": "Champignons, portobello, grillés",
+"es": "Hongos, portobello, a la parrilla",
+"de": "Pilze, Portobello, gegrillt",
+"pt": "Cogumelos, portobello, grelhados"
+},
+"8275": {
+"it": "Funghi, portobello, crudi",
+"fr": "Champignons, portobello, crus",
+"es": "Hongos, portobello, crudos",
+"de": "Pilze, Portobello, roh",
+"pt": "Cogumelos, portobello, crus"
+},
+"8276": {
+"it": "Funghi, crudi",
+"fr": "Champignons, crus",
+"es": "Hongos, crudos",
+"de": "Pilze, roh",
+"pt": "Cogumelos, crus"
+},
+"8277": {
+"it": "Funghi, shiitake",
+"fr": "Champignons, shiitake",
+"es": "Hongos, shiitake",
+"de": "Pilze, Shiitake",
+"pt": "Cogumelos, shiitake"
+},
+"8278": {
+"it": "Funghi, shiitake, cotti, con sale",
+"fr": "Champignons, shiitake, cuits, avec sel",
+"es": "Hongos, shiitake, cocidos, con sal",
+"de": "Pilze, Shiitake, gekocht, mit Salz",
+"pt": "Cogumelos, shiitake, cozidos, com sal"
+},
+"8279": {
+"it": "Funghi, shiitake, cotti, senza sale",
+"fr": "Champignons, shiitake, cuits, sans sel",
+"es": "Hongos, shiitake, cocidos, sin sal",
+"de": "Pilze, Shiitake, gekocht, ohne Salz",
+"pt": "Cogumelos, shiitake, cozidos, sem sal"
+},
+"8280": {
+"it": "Funghi, shiitake, secchi",
+"fr": "Champignons, shiitake, séchés",
+"es": "Hongos, shiitake, secos",
+"de": "Pilze, Shiitake, getrocknet",
+"pt": "Cogumelos, shiitake, secos"
+},
+"8281": {
+"it": "Funghi, shiitake, crudi",
+"fr": "Champignons, shiitake, crus",
+"es": "Hongos, shiitake, crudos",
+"de": "Pilze, Shiitake, roh",
+"pt": "Cogumelos, shiitake, crus"
+},
+"8282": {
+"it": "Funghi, shiitake, saltati in padella",
+"fr": "Champignons, shiitake, sautés au wok",
+"es": "Hongos, shiitake, salteados",
+"de": "Pilze, Shiitake, pfannengerührt",
+"pt": "Cogumelos, shiitake, salteados"
+},
+"8283": {
+"it": "Funghi, champignon della paglia (straw), in scatola, solidi sgocciolati",
+"fr": "Champignons, volvaires (straw), en conserve, solides égouttés",
+"es": "Hongos, setas de paja (straw), en conserva, sólidos escurridos",
+"de": "Pilze, Reisstrohpilze (Straw), aus der Dose, abgetropfte Feststoffe",
+"pt": "Cogumelos, cogumelo-da-palha (straw), enlatados, sólidos escorridos"
+},
+"8284": {
+"it": "Funghi, ripieni",
+"fr": "Champignons, farcis",
+"es": "Hongos, rellenos",
+"de": "Pilze, gefüllt",
+"pt": "Cogumelos, recheados"
+},
+"8285": {
+"it": "Funghi, champignon bianchi (white button)",
+"fr": "Champignons, de Paris blancs (white button)",
+"es": "Hongos, champiñones blancos (white button)",
+"de": "Pilze, weiße Champignons (White Button)",
+"pt": "Cogumelos, champignon branco (white button)"
+},
+"8286": {
+"it": "Funghi, bianchi, cotti, bolliti, sgocciolati, con sale",
+"fr": "Champignons, blancs, cuits, bouillis, égouttés, avec sel",
+"es": "Hongos, blancos, cocidos, hervidos, escurridos, con sal",
+"de": "Pilze, weiß, gekocht, abgetropft, mit Salz",
+"pt": "Cogumelos, brancos, cozidos em água, escorridos, com sal"
+},
+"8287": {
+"it": "Funghi, bianchi, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Champignons, blancs, cuits, bouillis, égouttés, sans sel",
+"es": "Hongos, blancos, cocidos, hervidos, escurridos, sin sal",
+"de": "Pilze, weiß, gekocht, abgetropft, ohne Salz",
+"pt": "Cogumelos, brancos, cozidos em água, escorridos, sem sal"
+},
+"8288": {
+"it": "Funghi, bianchi, cotti al microonde",
+"fr": "Champignons, blancs, cuits au micro-ondes",
+"es": "Hongos, blancos, cocidos al microondas",
+"de": "Pilze, weiß, in der Mikrowelle gegart",
+"pt": "Cogumelos, brancos, cozidos no micro-ondas"
+},
+"8289": {
+"it": "Funghi, bianchi, crudi",
+"fr": "Champignons, blancs, crus",
+"es": "Hongos, blancos, crudos",
+"de": "Pilze, weiß, roh",
+"pt": "Cogumelos, brancos, crus"
+},
+"8290": {
+"it": "Funghi, bianchi, saltati in padella",
+"fr": "Champignons, blancs, sautés au wok",
+"es": "Hongos, blancos, salteados",
+"de": "Pilze, weiß, pfannengerührt",
+"pt": "Cogumelos, brancos, salteados"
+},
+"8291": {
+"it": "Cozze",
+"fr": "Moules",
+"es": "Mejillones",
+"de": "Miesmuscheln",
+"pt": "Mexilhões"
+},
+"8292": {
+"it": "Senape",
+"fr": "Moutarde",
+"es": "Mostaza",
+"de": "Senf",
+"pt": "Mostarda"
+},
+"8293": {
+"it": "Foglie di senape, cotte, bollite, sgocciolate, con sale",
+"fr": "Feuilles de moutarde, cuites, bouillies, égouttées, avec sel",
+"es": "Hojas de mostaza, cocidas, hervidas, escurridas, con sal",
+"de": "Senfblätter, gekocht, abgetropft, mit Salz",
+"pt": "Folhas de mostarda, cozidas em água, escorridas, com sal"
+},
+"8294": {
+"it": "Foglie di senape, cotte, bollite, sgocciolate, senza sale",
+"fr": "Feuilles de moutarde, cuites, bouillies, égouttées, sans sel",
+"es": "Hojas de mostaza, cocidas, hervidas, escurridas, sin sal",
+"de": "Senfblätter, gekocht, abgetropft, ohne Salz",
+"pt": "Folhas de mostarda, cozidas em água, escorridas, sem sal"
+},
+"8295": {
+"it": "Foglie di senape, fresche, cotte, con grasso aggiunto",
+"fr": "Feuilles de moutarde, fraîches, cuites, avec matière grasse ajoutée",
+"es": "Hojas de mostaza, frescas, cocidas, con grasa añadida",
+"de": "Senfblätter, frisch, gekocht, mit zugesetztem Fett",
+"pt": "Folhas de mostarda, frescas, cozidas, com gordura adicionada"
+},
+"8296": {
+"it": "Foglie di senape, fresche, cotte, senza grasso aggiunto",
+"fr": "Feuilles de moutarde, fraîches, cuites, sans matière grasse ajoutée",
+"es": "Hojas de mostaza, frescas, cocidas, sin grasa añadida",
+"de": "Senfblätter, frisch, gekocht, ohne zugesetztes Fett",
+"pt": "Folhas de mostarda, frescas, cozidas, sem gordura adicionada"
+},
+"8297": {
+"it": "Foglie di senape, surgelate, cotte, bollite, sgocciolate, con sale",
+"fr": "Feuilles de moutarde, surgelées, cuites, bouillies, égouttées, avec sel",
+"es": "Hojas de mostaza, congeladas, cocidas, hervidas, escurridas, con sal",
+"de": "Senfblätter, tiefgekühlt, gekocht, abgetropft, mit Salz",
+"pt": "Folhas de mostarda, congeladas, cozidas em água, escorridas, com sal"
+},
+"8298": {
+"it": "Foglie di senape, surgelate, cotte, bollite, sgocciolate, senza sale",
+"fr": "Feuilles de moutarde, surgelées, cuites, bouillies, égouttées, sans sel",
+"es": "Hojas de mostaza, congeladas, cocidas, hervidas, escurridas, sin sal",
+"de": "Senfblätter, tiefgekühlt, gekocht, abgetropft, ohne Salz",
+"pt": "Folhas de mostarda, congeladas, cozidas em água, escorridas, sem sal"
+},
+"8299": {
+"it": "Foglie di senape, surgelate, cotte, con grasso aggiunto",
+"fr": "Feuilles de moutarde, surgelées, cuites, avec matière grasse ajoutée",
+"es": "Hojas de mostaza, congeladas, cocidas, con grasa añadida",
+"de": "Senfblätter, tiefgekühlt, gekocht, mit zugesetztem Fett",
+"pt": "Folhas de mostarda, congeladas, cozidas, com gordura adicionada"
+},
+"8300": {
+"it": "Foglie di senape, surgelate, cotte, senza grasso aggiunto",
+"fr": "Feuilles de moutarde, surgelées, cuites, sans matière grasse ajoutée",
+"es": "Hojas de mostaza, congeladas, cocidas, sin grasa añadida",
+"de": "Senfblätter, tiefgekühlt, gekocht, ohne zugesetztes Fett",
+"pt": "Folhas de mostarda, congeladas, cozidas, sem gordura adicionada"
+},
+"8301": {
+"it": "Foglie di senape, surgelate, non preparate",
+"fr": "Feuilles de moutarde, surgelées, non préparées",
+"es": "Hojas de mostaza, congeladas, sin preparar",
+"de": "Senfblätter, tiefgekühlt, unzubereitet",
+"pt": "Folhas de mostarda, congeladas, não preparadas"
+},
+"8302": {
+"it": "Foglie di senape, non specificato se fresche o surgelate, cotte",
+"fr": "Feuilles de moutarde, forme non précisée, cuites",
+"es": "Hojas de mostaza, sin especificar la forma, cocidas",
+"de": "Senfblätter, Form nicht angegeben, gekocht",
+"pt": "Folhas de mostarda, forma não especificada, cozidas"
+},
+"8303": {
+"it": "Foglie di senape, crude",
+"fr": "Feuilles de moutarde, crues",
+"es": "Hojas de mostaza, crudas",
+"de": "Senfblätter, roh",
+"pt": "Folhas de mostarda, cruas"
+},
+"8304": {
+"it": "Spinaci di senape, (tendergreen), cotti, bolliti, sgocciolati, con sale",
+"fr": "Épinards moutarde, (tendergreen), cuits, bouillis, égouttés, avec sel",
+"es": "Espinacas de mostaza, (tendergreen), cocidas, hervidas, escurridas, con sal",
+"de": "Senfspinat, (Tendergreen), gekocht, abgetropft, mit Salz",
+"pt": "Espinafre de mostarda, (tendergreen), cozido em água, escorrido, com sal"
+},
+"8305": {
+"it": "Spinaci di senape, (tendergreen), cotti, bolliti, sgocciolati, senza sale",
+"fr": "Épinards moutarde, (tendergreen), cuits, bouillis, égouttés, sans sel",
+"es": "Espinacas de mostaza, (tendergreen), cocidas, hervidas, escurridas, sin sal",
+"de": "Senfspinat, (Tendergreen), gekocht, abgetropft, ohne Salz",
+"pt": "Espinafre de mostarda, (tendergreen), cozido em água, escorrido, sem sal"
+},
+"8306": {
+"it": "Spinaci di senape, (tendergreen), crudi",
+"fr": "Épinards moutarde, (tendergreen), crus",
+"es": "Espinacas de mostaza, (tendergreen), crudas",
+"de": "Senfspinat, (Tendergreen), roh",
+"pt": "Espinafre de mostarda, (tendergreen), cru"
+},
+"8307": {
+"it": "Senape, preparata, gialla",
+"fr": "Moutarde, préparée, jaune",
+"es": "Mostaza, preparada, amarilla",
+"de": "Senf, zubereitet, gelb",
+"pt": "Mostarda, preparada, amarela"
+},
+"8308": {
+"it": "Montone, cotto, arrosto (Navajo)",
+"fr": "Mouton, cuit, rôti (Navajo)",
+"es": "Carnero, cocido, asado (navajo)",
+"de": "Hammel, gekocht, gebraten (Navajo)",
+"pt": "Carneiro, cozido, assado (navajo)"
+},
+"8309": {
+"it": "Nabisco, Nabisco Grahams Crackers",
+"fr": "Nabisco, Nabisco Grahams Crackers",
+"es": "Nabisco, Nabisco Grahams Crackers",
+"de": "Nabisco, Nabisco Grahams Crackers",
+"pt": "Nabisco, Nabisco Grahams Crackers"
+},
+"8310": {
+"it": "Nabisco, Nabisco Oreo Crunchies, granella di biscotto per guarnire",
+"fr": "Nabisco, Nabisco Oreo Crunchies, miettes de biscuit pour garnir",
+"es": "Nabisco, Nabisco Oreo Crunchies, migas de galleta para cobertura",
+"de": "Nabisco, Nabisco Oreo Crunchies, Keksbrösel zum Bestreuen",
+"pt": "Nabisco, Nabisco Oreo Crunchies, farelo de biscoito para cobertura"
+},
+"8311": {
+"it": "Nabisco, Nabisco Ritz Crackers",
+"fr": "Nabisco, Nabisco Ritz Crackers",
+"es": "Nabisco, Nabisco Ritz Crackers",
+"de": "Nabisco, Nabisco Ritz Crackers",
+"pt": "Nabisco, Nabisco Ritz Crackers"
+},
+"8312": {
+"it": "Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes",
+"fr": "Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes",
+"es": "Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes",
+"de": "Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes",
+"pt": "Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes"
+},
+"8313": {
+"it": "Nachos, manzo o maiale",
+"fr": "Nachos, bœuf ou porc",
+"es": "Nachos, res o cerdo",
+"de": "Nachos, Rind oder Schwein",
+"pt": "Nachos, carne bovina ou carne suína"
+},
+"8314": {
+"it": "Nachos, manzo o maiale, con fagioli",
+"fr": "Nachos, bœuf ou porc, avec haricots",
+"es": "Nachos, res o cerdo, con frijoles",
+"de": "Nachos, Rind oder Schwein, mit Bohnen",
+"pt": "Nachos, carne bovina ou carne suína, com feijão"
+},
+"8315": {
+"it": "Nachos, solo formaggio",
+"fr": "Nachos, fromage seulement",
+"es": "Nachos, solo queso",
+"de": "Nachos, nur Käse",
+"pt": "Nachos, apenas queijo"
+},
+"8316": {
+"it": "Nachos, pollo",
+"fr": "Nachos, poulet",
+"es": "Nachos, pollo",
+"de": "Nachos, Huhn",
+"pt": "Nachos, frango"
+},
+"8317": {
+"it": "Nachos, pollo, con fagioli",
+"fr": "Nachos, poulet, avec haricots",
+"es": "Nachos, pollo, con frijoles",
+"de": "Nachos, Huhn, mit Bohnen",
+"pt": "Nachos, frango, com feijão"
+},
+"8318": {
+"it": "Nachos, non specificato",
+"fr": "Nachos, non spécifié",
+"es": "Nachos, no especificado",
+"de": "Nachos, nicht näher bezeichnet",
+"pt": "Nachos, não especificado"
+},
+"8319": {
+"it": "Nachos, con fagioli",
+"fr": "Nachos, avec haricots",
+"es": "Nachos, con frijoles",
+"de": "Nachos, mit Bohnen",
+"pt": "Nachos, com feijão"
+},
+"8320": {
+"it": "Nance (nanzi), in scatola, sciroppo, sgocciolato",
+"fr": "Nance (grosse cerise de Panama), en conserve, sirop, égoutté",
+"es": "Nance (nanche), en conserva, almíbar, escurrido",
+"de": "Nance (Nanche), aus der Dose, Sirup, abgetropft",
+"pt": "Nance (murici), enlatado, calda, escorrido"
+},
+"8321": {
+"it": "Nance (nanzi), surgelato, non zuccherato",
+"fr": "Nance (grosse cerise de Panama), surgelé, non sucré",
+"es": "Nance (nanche), congelado, sin azúcar",
+"de": "Nance (Nanche), tiefgekühlt, ungezuckert",
+"pt": "Nance (murici), congelado, sem açúcar"
+},
+"8322": {
+"it": "Naranjilla (lulo), polpa, surgelata, non zuccherata",
+"fr": "Naranjilla (lulo), pulpe, surgelée, non sucrée",
+"es": "Naranjilla (lulo), pulpa, congelada, sin azúcar",
+"de": "Naranjilla (Lulo), Fruchtfleisch, tiefgekühlt, ungezuckert",
+"pt": "Naranjilla (lulo), polpa, congelada, sem açúcar"
+},
+"8323": {
+"it": "Natto",
+"fr": "Natto",
+"es": "Natto",
+"de": "Natto",
+"pt": "Natto"
+},
+"8324": {
+"it": "Nettarina, cruda",
+"fr": "Nectarine, crue",
+"es": "Nectarina, cruda",
+"de": "Nektarine, roh",
+"pt": "Nectarina, crua"
+},
+"8325": {
+"it": "Nettarine, crude",
+"fr": "Nectarines, crues",
+"es": "Nectarinas, crudas",
+"de": "Nektarinen, roh",
+"pt": "Nectarinas, cruas"
+},
+"8326": {
+"it": "Spinaci della Nuova Zelanda, cotti, bolliti, sgocciolati, con sale",
+"fr": "Épinards de Nouvelle-Zélande, cuits, bouillis, égouttés, avec sel",
+"es": "Espinacas de Nueva Zelanda, cocidas, hervidas, escurridas, con sal",
+"de": "Neuseelandspinat, gekocht, abgetropft, mit Salz",
+"pt": "Espinafre-da-nova-zelândia, cozido em água, escorrido, com sal"
+},
+"8327": {
+"it": "Spinaci della Nuova Zelanda, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Épinards de Nouvelle-Zélande, cuits, bouillis, égouttés, sans sel",
+"es": "Espinacas de Nueva Zelanda, cocidas, hervidas, escurridas, sin sal",
+"de": "Neuseelandspinat, gekocht, abgetropft, ohne Salz",
+"pt": "Espinafre-da-nova-zelândia, cozido em água, escorrido, sem sal"
+},
+"8328": {
+"it": "Spinaci della Nuova Zelanda, crudi",
+"fr": "Épinards de Nouvelle-Zélande, crus",
+"es": "Espinacas de Nueva Zelanda, crudas",
+"de": "Neuseelandspinat, roh",
+"pt": "Espinafre-da-nova-zelândia, cru"
+},
+"8329": {
+"it": "Latte vegetale, non specificato",
+"fr": "Lait végétal, non spécifié",
+"es": "Leche vegetal, no especificada",
+"de": "Pflanzliche Milch, nicht näher bezeichnet",
+"pt": "Leite vegetal, não especificado"
+},
+"8330": {
+"it": "Budino di tagliatelle (noodle pudding)",
+"fr": "Pouding de nouilles (noodle pudding)",
+"es": "Pudín de fideos (noodle pudding)",
+"de": "Nudelpudding (Noodle Pudding)",
+"pt": "Pudim de macarrão (noodle pudding)"
+},
+"8331": {
+"it": "Tagliatelle con verdure in salsa a base di pomodoro, pasto surgelato dietetico",
+"fr": "Nouilles aux légumes en sauce tomate, plat surgelé diététique",
+"es": "Fideos con verduras en salsa a base de tomate, comida congelada dietética",
+"de": "Nudeln mit Gemüse in Tomatensauce, tiefgekühlte Diät-Mahlzeit",
+"pt": "Macarrão com vegetais em molho à base de tomate, refeição congelada dietética"
+},
+"8332": {
+"it": "Noodles, cinesi, di cellophane o riso lungo (fagioli mungo), disidratati",
+"fr": "Nouilles, chinoises, de cellophane ou riz long (haricots mungo), déshydratées",
+"es": "Fideos, chinos, de celofán o arroz largo (frijoles mungo), deshidratados",
+"de": "Nudeln, chinesisch, Glasnudeln oder langer Reis (Mungobohnen), dehydriert",
+"pt": "Macarrão, chinês, de celofane ou arroz longo (feijão mungo), desidratado"
+},
+"8333": {
+"it": "Noodles, cinesi, chow mein",
+"fr": "Nouilles, chinoises, chow mein",
+"es": "Fideos, chinos, chow mein",
+"de": "Nudeln, chinesisch, Chow Mein",
+"pt": "Macarrão, chinês, chow mein"
+},
+"8334": {
+"it": "Noodles, chow mein (croccanti)",
+"fr": "Nouilles, chow mein (croustillantes)",
+"es": "Fideos, chow mein (crujientes)",
+"de": "Nudeln, Chow Mein (knusprig)",
+"pt": "Macarrão, chow mein (crocante)"
+},
+"8335": {
+"it": "Tagliatelle, cotte",
+"fr": "Nouilles, cuites",
+"es": "Fideos, cocidos",
+"de": "Nudeln, gekocht",
+"pt": "Macarrão, cozido"
+},
+"8336": {
+"it": "Tagliatelle all'uovo, cotte, arricchite, con sale aggiunto",
+"fr": "Nouilles, aux œufs, cuites, enrichies, avec sel ajouté",
+"es": "Fideos, de huevo, cocidos, enriquecidos, con sal añadida",
+"de": "Eiernudeln, gekocht, angereichert, mit zugesetztem Salz",
+"pt": "Macarrão, de ovos, cozido, enriquecido, com sal adicionado"
+},
+"8337": {
+"it": "Tagliatelle all'uovo, cotte, non arricchite, con sale aggiunto",
+"fr": "Nouilles, aux œufs, cuites, non enrichies, avec sel ajouté",
+"es": "Fideos, de huevo, cocidos, sin enriquecer, con sal añadida",
+"de": "Eiernudeln, gekocht, nicht angereichert, mit zugesetztem Salz",
+"pt": "Macarrão, de ovos, cozido, não enriquecido, com sal adicionado"
+},
+"8338": {
+"it": "Tagliatelle all'uovo, secche, arricchite",
+"fr": "Nouilles, aux œufs, séchées, enrichies",
+"es": "Fideos, de huevo, secos, enriquecidos",
+"de": "Eiernudeln, getrocknet, angereichert",
+"pt": "Macarrão, de ovos, seco, enriquecido"
+},
+"8339": {
+"it": "Tagliatelle all'uovo, secche, non arricchite",
+"fr": "Nouilles, aux œufs, séchées, non enrichies",
+"es": "Fideos, de huevo, secos, sin enriquecer",
+"de": "Eiernudeln, getrocknet, nicht angereichert",
+"pt": "Macarrão, de ovos, seco, não enriquecido"
+},
+"8340": {
+"it": "Tagliatelle all'uovo, arricchite, cotte",
+"fr": "Nouilles, aux œufs, enrichies, cuites",
+"es": "Fideos, de huevo, enriquecidos, cocidos",
+"de": "Eiernudeln, angereichert, gekocht",
+"pt": "Macarrão, de ovos, enriquecido, cozido"
+},
+"8341": {
+"it": "Tagliatelle all'uovo, agli spinaci, arricchite, cotte",
+"fr": "Nouilles, aux œufs, aux épinards, enrichies, cuites",
+"es": "Fideos, de huevo, de espinaca, enriquecidos, cocidos",
+"de": "Eiernudeln, Spinat, angereichert, gekocht",
+"pt": "Macarrão, de ovos, de espinafre, enriquecido, cozido"
+},
+"8342": {
+"it": "Tagliatelle all'uovo, agli spinaci, arricchite, secche",
+"fr": "Nouilles, aux œufs, aux épinards, enrichies, séchées",
+"es": "Fideos, de huevo, de espinaca, enriquecidos, secos",
+"de": "Eiernudeln, Spinat, angereichert, getrocknet",
+"pt": "Macarrão, de ovos, de espinafre, enriquecido, seco"
+},
+"8343": {
+"it": "Tagliatelle all'uovo, non arricchite, cotte, senza sale aggiunto",
+"fr": "Nouilles, aux œufs, non enrichies, cuites, sans sel ajouté",
+"es": "Fideos, de huevo, sin enriquecer, cocidos, sin sal añadida",
+"de": "Eiernudeln, nicht angereichert, gekocht, ohne zugesetztes Salz",
+"pt": "Macarrão, de ovos, não enriquecido, cozido, sem sal adicionado"
+}
+}

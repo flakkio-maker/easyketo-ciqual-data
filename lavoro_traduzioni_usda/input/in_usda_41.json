@@ -1,0 +1,1790 @@
+[
+{
+"id": "11920",
+"en": "Spices, pepper, red or cayenne",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11921",
+"en": "Spices, pepper, white",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11922",
+"en": "Spices, poppy seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11923",
+"en": "Spices, poultry seasoning",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11924",
+"en": "Spices, pumpkin pie spice",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11925",
+"en": "Spices, rosemary, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11926",
+"en": "Spices, saffron",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11927",
+"en": "Spices, sage, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11928",
+"en": "Spices, savory, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11929",
+"en": "Spices, tarragon, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11930",
+"en": "Spices, thyme, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11931",
+"en": "Spices, turmeric, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11932",
+"en": "Spinach and artichoke dip",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11933",
+"en": "Spinach and cheese casserole",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11934",
+"en": "Spinach dip, light",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11935",
+"en": "Spinach dip, regular",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11936",
+"en": "Spinach dip, yogurt based",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11937",
+"en": "Spinach quiche, meatless",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11938",
+"en": "Spinach salad, no dressing",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11939",
+"en": "Spinach souffle",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11940",
+"en": "Spinach, baby",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "11941",
+"en": "Spinach, canned, cooked with butter or margarine",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11942",
+"en": "Spinach, canned, cooked with oil",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11943",
+"en": "Spinach, canned, cooked, fat added, NS as to fat type",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11944",
+"en": "Spinach, canned, cooked, no added fat",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11945",
+"en": "Spinach, canned, no salt added, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11946",
+"en": "Spinach, canned, regular pack, drained solids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11947",
+"en": "Spinach, canned, regular pack, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11948",
+"en": "Spinach, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11949",
+"en": "Spinach, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11950",
+"en": "Spinach, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11951",
+"en": "Spinach, creamed",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11952",
+"en": "Spinach, for use on a sandwich",
+"categoria": "Vegetables on a sandwich",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11953",
+"en": "Spinach, fresh, cooked with butter or margarine",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11954",
+"en": "Spinach, fresh, cooked with oil",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11955",
+"en": "Spinach, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11956",
+"en": "Spinach, fresh, cooked, no added fat",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11957",
+"en": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11958",
+"en": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11959",
+"en": "Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11960",
+"en": "Spinach, frozen, cooked with butter or margarine",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11961",
+"en": "Spinach, frozen, cooked with oil",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11962",
+"en": "Spinach, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11963",
+"en": "Spinach, frozen, cooked, no added fat",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11964",
+"en": "Spinach, mature",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "11965",
+"en": "Spinach, NS as to form, cooked",
+"categoria": "Spinach",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11966",
+"en": "Spinach, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11967",
+"en": "Split pea soup, canned, reduced sodium, prepared with water or ready-to serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11968",
+"en": "Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11969",
+"en": "Split peas, from dried, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11970",
+"en": "Split peas, from dried, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11971",
+"en": "Spoonbread",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11972",
+"en": "Sports drink (Gatorade G)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11973",
+"en": "Sports drink (Powerade)",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11974",
+"en": "Sports drink, dry concentrate, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11975",
+"en": "Sports drink, low calorie",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11976",
+"en": "Sports drink, low calorie (Gatorade G2)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11977",
+"en": "Sports drink, low calorie (Powerade Zero)",
+"categoria": "Diet sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11978",
+"en": "Sports drink, NFS",
+"categoria": "Sport and energy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11979",
+"en": "Sprouts, NFS",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11980",
+"en": "Squab, (pigeon), light meat without skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11981",
+"en": "Squab, (pigeon), meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11982",
+"en": "Squab, (pigeon), meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11983",
+"en": "Squash, Indian, cooked, boiled (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11984",
+"en": "Squash, Indian, raw (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11985",
+"en": "Squash, pie pumpkin, peeled, seeded, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "11986",
+"en": "Squash, summer, all varieties, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11987",
+"en": "Squash, summer, all varieties, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11988",
+"en": "Squash, summer, all varieties, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11989",
+"en": "Squash, summer, casserole with tomato and cheese",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11990",
+"en": "Squash, summer, casserole, with cheese sauce",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11991",
+"en": "Squash, summer, casserole, with rice and tomato sauce",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11992",
+"en": "Squash, summer, crookneck and straightneck, canned, drained, solid, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11993",
+"en": "Squash, summer, crookneck and straightneck, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11994",
+"en": "Squash, summer, crookneck and straightneck, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11995",
+"en": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11996",
+"en": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11997",
+"en": "Squash, summer, crookneck and straightneck, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11998",
+"en": "Squash, summer, crookneck and straightneck, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11999",
+"en": "Squash, summer, green, zucchini, includes skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "12000",
+"en": "Squash, summer, scallop, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12001",
+"en": "Squash, summer, scallop, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12002",
+"en": "Squash, summer, scallop, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12003",
+"en": "Squash, summer, souffle",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12004",
+"en": "Squash, summer, yellow, includes skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "12005",
+"en": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12006",
+"en": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12007",
+"en": "Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12008",
+"en": "Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12009",
+"en": "Squash, summer, zucchini, includes skin, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12010",
+"en": "Squash, summer, zucchini, includes skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12011",
+"en": "Squash, summer, zucchini, italian style, canned",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12012",
+"en": "Squash, winter, acorn, cooked, baked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12013",
+"en": "Squash, winter, acorn, cooked, baked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12014",
+"en": "Squash, winter, acorn, cooked, boiled, mashed, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12015",
+"en": "Squash, winter, acorn, cooked, boiled, mashed, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12016",
+"en": "Squash, winter, acorn, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "12017",
+"en": "Squash, winter, all varieties, cooked, baked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12018",
+"en": "Squash, winter, all varieties, cooked, baked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12019",
+"en": "Squash, winter, all varieties, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12020",
+"en": "Squash, winter, butternut, cooked, baked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12021",
+"en": "Squash, winter, butternut, cooked, baked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12022",
+"en": "Squash, winter, butternut, frozen, cooked, boiled, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12023",
+"en": "Squash, winter, butternut, frozen, cooked, boiled, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12024",
+"en": "Squash, winter, butternut, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12025",
+"en": "Squash, winter, butternut, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "12026",
+"en": "Squash, winter, hubbard, baked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12027",
+"en": "Squash, winter, hubbard, baked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12028",
+"en": "Squash, winter, hubbard, cooked, boiled, mashed, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12029",
+"en": "Squash, winter, hubbard, cooked, boiled, mashed, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12030",
+"en": "Squash, winter, hubbard, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12031",
+"en": "Squash, winter, souffle",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12032",
+"en": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12033",
+"en": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12034",
+"en": "Squash, winter, spaghetti, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12035",
+"en": "Squash, zucchini, baby, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12036",
+"en": "Squid (calamari), frozen, tubes only",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "12037",
+"en": "Squirrel",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12038",
+"en": "Squirrel, ground, meat (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12039",
+"en": "Starfruit, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12040",
+"en": "Steak sandwich or sub on wheat",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12041",
+"en": "Steak sandwich or sub on white",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12042",
+"en": "Steak sauce",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12043",
+"en": "Steak tartare",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12044",
+"en": "Steak teriyaki",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12045",
+"en": "Steak, NS as to type of meat, NS as to fat eaten",
+"categoria": "Beef, excludes ground",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12046",
+"en": "Steelhead trout, boiled, canned (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12047",
+"en": "Steelhead trout, dried, flesh (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12048",
+"en": "Stew, beef",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12049",
+"en": "Stew, beef, canned",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12050",
+"en": "Stew, beef, with pasta",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12051",
+"en": "Stew, chicken",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12052",
+"en": "Stew, chicken, with pasta",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12053",
+"en": "Stew, dumpling with mutton (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12054",
+"en": "Stew, fish",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12055",
+"en": "Stew, hominy with mutton (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12056",
+"en": "Stew, lamb",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12057",
+"en": "Stew, moose (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12058",
+"en": "Stew, mutton, corn, squash (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12059",
+"en": "Stew, NFS",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12060",
+"en": "Stew, pinto bean and hominy, badufsuki (Hopi)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12061",
+"en": "Stew, pork",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12062",
+"en": "Stew, pork, with pasta",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12063",
+"en": "Stew, steamed corn (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12064",
+"en": "Stew, vegetable",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12065",
+"en": "Stew/soup, caribou (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12066",
+"en": "Stewed chicken with tomato-based sauce, Mexican style",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12067",
+"en": "Stewed chitterlings, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12068",
+"en": "Stewed dried beef, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12069",
+"en": "Stewed gizzards, Puerto Rican style",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12070",
+"en": "Stewed goat, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12071",
+"en": "Stewed pig's feet, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12072",
+"en": "Stewed pork, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12073",
+"en": "Stewed potatoes",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12074",
+"en": "Stewed potatoes with tomatoes",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12075",
+"en": "Stewed potatoes, Puerto Rican style",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12076",
+"en": "Stewed rabbit, Puerto Rican style,",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12077",
+"en": "Stewed rice, Puerto Rican style",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12078",
+"en": "Stewed salmon, Puerto Rican style",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12079",
+"en": "Stewed seasoned ground beef, Mexican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12080",
+"en": "Stewed seasoned ground beef, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12081",
+"en": "Stewed tripe, with potatoes, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12082",
+"en": "Stewed, seasoned, ground beef and pork with potatoes, Mexican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12083",
+"en": "Stewed, seasoned, ground beef and pork, Mexican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12084",
+"en": "Stewed, seasoned, ground beef with potatoes, Mexican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12085",
+"en": "Stinging Nettles, blanched (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12086",
+"en": "Stir fried beef and vegetables in soy sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12087",
+"en": "Strawberries, canned",
+"categoria": "Strawberries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12088",
+"en": "Strawberries, canned, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "12089",
+"en": "Strawberries, frozen",
+"categoria": "Strawberries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12090",
+"en": "Strawberries, frozen, sweetened, sliced",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "12091",
+"en": "Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "12092",
+"en": "Strawberries, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "12093",
+"en": "Strawberry beverage powder, dry mix, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12094",
+"en": "Strawberry drink syrup",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12095",
+"en": "Strawberry juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12096",
+"en": "Strawberry milk, fat free (skim)",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12097",
+"en": "Strawberry milk, low fat (1%)",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12098",
+"en": "Strawberry milk, NFS",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12099",
+"en": "Strawberry milk, reduced fat (2%)",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12100",
+"en": "Strawberry milk, reduced sugar",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12101",
+"en": "Strawberry milk, whole",
+"categoria": "Flavored milk, whole",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12102",
+"en": "Strawberry-flavor beverage mix, powder",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "12103",
+"en": "Strudel, apple",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12104",
+"en": "Strudel, berry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12105",
+"en": "Strudel, cheese",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12106",
+"en": "Strudel, cherry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12107",
+"en": "Strudel, peach",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12108",
+"en": "Stuffed cabbage rolls with beef and rice",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12109",
+"en": "Stuffed cabbage, with meat and rice, Syrian dish, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12110",
+"en": "Stuffed cabbage, with meat, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12111",
+"en": "Stuffed chicken, drumstick or breast, Puerto Rican style",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12112",
+"en": "Stuffed grape leaves with beef and rice",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12113",
+"en": "Stuffed grape leaves with lamb and rice",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12114",
+"en": "Stuffed green pepper, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12115",
+"en": "Stuffed jalapeno pepper",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12116",
+"en": "Stuffed pepper, with meat",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12117",
+"en": "Stuffed pepper, with rice and meat",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12118",
+"en": "Stuffed pepper, with rice, meatless",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12119",
+"en": "Stuffed shells, cheese- and spinach- filled, no sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12120",
+"en": "Stuffed shells, cheese-filled, no sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12121",
+"en": "Stuffed shells, cheese-filled, with meat sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12122",
+"en": "Stuffed shells, cheese-filled, with tomato sauce, meatless",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12123",
+"en": "Stuffed shells, with chicken, with tomato sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12124",
+"en": "Stuffed shells, with fish and/or shellfish, with tomato sauce",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12125",
+"en": "Stuffed tomato, with rice and meat",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12126",
+"en": "Stuffed tomato, with rice, meatless",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12127",
+"en": "SUBWAY, B.L.T. sub on white bread with bacon, lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12128",
+"en": "SUBWAY, black forest ham sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12129",
+"en": "SUBWAY, cold cut sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12130",
+"en": "SUBWAY, meatball marinara sub on white bread (no toppings)",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12131",
+"en": "SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12132",
+"en": "SUBWAY, roast beef sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12133",
+"en": "SUBWAY, steak & cheese sub on white bread with American cheese, lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12134",
+"en": "SUBWAY, SUBWAY CLUB sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12135",
+"en": "SUBWAY, sweet onion chicken teriyaki sub on white bread with lettuce, tomato and sweet onion sauce",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12136",
+"en": "SUBWAY, tuna sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12137",
+"en": "SUBWAY, turkey breast sub on white bread with lettuce and tomato",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12138",
+"en": "Succotash, (corn and limas), canned, with cream style corn",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12139",
+"en": "Succotash, (corn and limas), canned, with whole kernel corn, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12140",
+"en": "Succotash, (corn and limas), cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12141",
+"en": "Succotash, (corn and limas), cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12142",
+"en": "Succotash, (corn and limas), frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12143",
+"en": "Succotash, (corn and limas), frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12144",
+"en": "Succotash, (corn and limas), frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12145",
+"en": "Succotash, (corn and limas), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12146",
+"en": "Sugar cane beverage",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12147",
+"en": "Sugar substitute and sugar blend",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12148",
+"en": "Sugar substitute, aspartame, powder",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12149",
+"en": "Sugar substitute, liquid, NFS",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12150",
+"en": "Sugar substitute, monk fruit, powder",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12151",
+"en": "Sugar substitute, powder, NFS",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12152",
+"en": "Sugar substitute, saccharin, liquid",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12153",
+"en": "Sugar substitute, saccharin, powder",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12154",
+"en": "Sugar substitute, stevia, liquid",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12155",
+"en": "Sugar substitute, stevia, powder",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12156",
+"en": "Sugar substitute, sucralose, powder",
+"categoria": "Sugar substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12157",
+"en": "Sugar, brown",
+"categoria": "Sugars and honey",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12158",
+"en": "Sugar, cinnamon",
+"categoria": "Sugars and honey",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12159",
+"en": "Sugar, NFS",
+"categoria": "Sugars and honey",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12160",
+"en": "Sugar, turbinado",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "12161",
+"en": "Sugar, white, confectioner's, powdered",
+"categoria": "Sugars and honey",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12162",
+"en": "Sugar, white, granulated or lump",
+"categoria": "Sugars and honey",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12163",
+"en": "Sugar-apples, (sweetsop), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "12164",
+"en": "Sugars, brown",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "12165",
+"en": "Sugars, granulated",
+"categoria": "Sweets",
+"tipo": "Foundation"
+},
+{
+"id": "12166",
+"en": "Sugars, maple",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "12167",
+"en": "Sugars, powdered",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "12168",
+"en": "Summer squash, cooked, as ingredient",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12169",
+"en": "Summer squash, green, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12170",
+"en": "Summer squash, yellow or green, canned, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12171",
+"en": "Summer squash, yellow or green, fresh, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12172",
+"en": "Summer squash, yellow or green, fresh, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12173",
+"en": "Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12174",
+"en": "Summer squash, yellow or green, fresh, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12175",
+"en": "Summer squash, yellow or green, frozen, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12176",
+"en": "Summer squash, yellow or green, frozen, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12177",
+"en": "Summer squash, yellow or green, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12178",
+"en": "Summer squash, yellow or green, frozen, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12179",
+"en": "Summer squash, yellow or green, NS as to form, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12180",
+"en": "Summer squash, yellow, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12181",
+"en": "Sun-dried tomatoes",
+"categoria": "Tomatoes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12182",
+"en": "Sunflower oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12183",
+"en": "Sunflower seeds, flavored",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12184",
+"en": "Sunflower seeds, NFS",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12185",
+"en": "Sunflower seeds, plain, salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12186",
+"en": "Sunflower seeds, plain, unsalted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12187",
+"en": "Sushi roll tuna",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12188",
+"en": "Sushi roll, avocado",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12189",
+"en": "Sushi roll, California",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12190",
+"en": "Sushi roll, eel",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12191",
+"en": "Sushi roll, salmon",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12192",
+"en": "Sushi roll, shrimp",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12193",
+"en": "Sushi roll, vegetable",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12194",
+"en": "Sushi, NFS",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12195",
+"en": "Sushi, topped with crab",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12196",
+"en": "Sushi, topped with eel",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12197",
+"en": "Sushi, topped with egg",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12198",
+"en": "Sushi, topped with salmon",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12199",
+"en": "Sushi, topped with shrimp",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12200",
+"en": "Sushi, topped with tuna",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12201",
+"en": "Swedish meatballs with cream or white sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12202",
+"en": "Sweet and sour chicken or turkey",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12203",
+"en": "Sweet and sour chicken or turkey, without vegetables",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12204",
+"en": "Sweet and sour pork",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12205",
+"en": "Sweet and sour pork with rice",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12206",
+"en": "Sweet and sour sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12207",
+"en": "Sweet and sour shrimp",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12208",
+"en": "Sweet potato chips",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12209",
+"en": "Sweet potato fries, fast food / restaurant",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12210",
+"en": "Sweet potato fries, from fresh",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12211",
+"en": "Sweet potato fries, frozen",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12212",
+"en": "Sweet potato fries, NFS",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12213",
+"en": "Sweet potato fries, school",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "12214",
+"en": "Sweet potato leaves, cooked, steamed, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12215",
+"en": "Sweet potato leaves, cooked, steamed, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12216",
+"en": "Sweet potato leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "12217",
+"en": "Sweet potato paste",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+}
+]

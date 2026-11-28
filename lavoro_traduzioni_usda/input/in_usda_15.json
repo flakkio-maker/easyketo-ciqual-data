@@ -1,0 +1,1790 @@
+[
+{
+"id": "4172",
+"en": "Chicken, NS as to part, rotisserie, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4173",
+"en": "Chicken, NS as to part, sauteed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4174",
+"en": "Chicken, NS as to part, sauteed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4175",
+"en": "Chicken, NS as to part, stewed, NS as to skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4176",
+"en": "Chicken, NS as to part, stewed, skin eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4177",
+"en": "Chicken, NS as to part, stewed, skin not eaten",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4178",
+"en": "Chicken, nuggets, dark and white meat, precooked, frozen, not reheated",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4179",
+"en": "Chicken, nuggets, white meat, precooked, frozen, not reheated",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4180",
+"en": "Chicken, prepackaged or deli, luncheon meat",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4181",
+"en": "Chicken, prepackaged or deli, luncheon meat, reduced sodium",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4182",
+"en": "Chicken, roasting, dark meat, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4183",
+"en": "Chicken, roasting, dark meat, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4184",
+"en": "Chicken, roasting, giblets, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4185",
+"en": "Chicken, roasting, giblets, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4186",
+"en": "Chicken, roasting, light meat, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4187",
+"en": "Chicken, roasting, light meat, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4188",
+"en": "Chicken, roasting, meat and skin and giblets and neck, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4189",
+"en": "Chicken, roasting, meat and skin and giblets and neck, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4190",
+"en": "Chicken, roasting, meat and skin, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4191",
+"en": "Chicken, roasting, meat only, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4192",
+"en": "Chicken, roasting, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4193",
+"en": "Chicken, skin (drumsticks and thighs), cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4194",
+"en": "Chicken, skin (drumsticks and thighs), cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4195",
+"en": "Chicken, skin (drumsticks and thighs), raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4196",
+"en": "Chicken, skin (drumsticks and thighs), with added solution, cooked, braised",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4197",
+"en": "Chicken, skin (drumsticks and thighs), with added solution, cooked, roasted",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4198",
+"en": "Chicken, skin (drumsticks and thighs), with added solution, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4199",
+"en": "Chicken, stewing, dark meat, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4200",
+"en": "Chicken, stewing, dark meat, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4201",
+"en": "Chicken, stewing, giblets, cooked, simmered",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4202",
+"en": "Chicken, stewing, giblets, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4203",
+"en": "Chicken, stewing, light meat, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4204",
+"en": "Chicken, stewing, light meat, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4205",
+"en": "Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4206",
+"en": "Chicken, stewing, meat and skin, and giblets and neck, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4207",
+"en": "Chicken, stewing, meat and skin, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4208",
+"en": "Chicken, stewing, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4209",
+"en": "Chicken, stewing, meat only, cooked, stewed",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4210",
+"en": "Chicken, stewing, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4211",
+"en": "Chicken, tail",
+"categoria": "Chicken, whole pieces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4212",
+"en": "Chicken, thigh, boneless, skinless, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "4213",
+"en": "Chicken, thigh, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "4214",
+"en": "Chicken, thighs, frozen, breaded, reheated",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4215",
+"en": "Chicken, wing, frozen, glazed, barbecue flavored",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4216",
+"en": "Chicken, wing, frozen, glazed, barbecue flavored, heated (conventional oven)",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4217",
+"en": "Chicken, wing, frozen, glazed, barbecue flavored, heated (microwave)",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4218",
+"en": "Chicken, wing, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "Foundation"
+},
+{
+"id": "4219",
+"en": "Chickpea flour (besan)",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4220",
+"en": "Chickpea flour, pre-gelatinized",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "4221",
+"en": "Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "4222",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4223",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4224",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4225",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4226",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4227",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4228",
+"en": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4229",
+"en": "Chickpeas, (garbanzo beans, bengal gram), dry",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "4230",
+"en": "Chickpeas, from canned, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4231",
+"en": "Chickpeas, from canned, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4232",
+"en": "Chickpeas, from canned, reduced sodium",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4233",
+"en": "Chickpeas, from dried, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4234",
+"en": "Chickpeas, from dried, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4235",
+"en": "Chickpeas, NFS",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4236",
+"en": "Chickpeas, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "4237",
+"en": "Chicory beverage",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4238",
+"en": "Chicory greens, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4239",
+"en": "Chicory roots, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4240",
+"en": "Chicory, witloof, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4241",
+"en": "Chilaquiles",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4242",
+"en": "Chilchen (Red Berry Beverage) (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4243",
+"en": "Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4244",
+"en": "Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed, with iron and fiber",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4245",
+"en": "Chiles rellenos, cheese-filled",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4246",
+"en": "Chiles rellenos, filled with meat and cheese",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4247",
+"en": "Chili con carne with beans, canned entree",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4248",
+"en": "Chili hot dog sandwich, on wheat bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4249",
+"en": "Chili hot dog sandwich, on wheat bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4250",
+"en": "Chili hot dog sandwich, on white bread",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4251",
+"en": "Chili hot dog sandwich, on white bun",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4252",
+"en": "Chili hot dog, no bun",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4253",
+"en": "Chili with beans, canned",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4254",
+"en": "Chili with beans, microwavable bowls",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4255",
+"en": "Chili with chicken",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4256",
+"en": "Chili with chicken and beans",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4257",
+"en": "Chili with macaroni",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4258",
+"en": "Chili with meat",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4259",
+"en": "Chili with meat and beans",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4260",
+"en": "Chili with meat, canned",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4261",
+"en": "Chili with meat, from restaurant",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4262",
+"en": "Chili, NFS",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4263",
+"en": "Chili, no beans, canned entree",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4264",
+"en": "Chili, vegetarian",
+"categoria": "Bean, pea, legume dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4265",
+"en": "Chili, white",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4266",
+"en": "Chiliburger, with or without cheese, on bun",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4267",
+"en": "Chimichanga, chicken",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4268",
+"en": "Chimichanga, meat",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4269",
+"en": "Chimichanga, with beans",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4270",
+"en": "Chinese pancake",
+"categoria": "Pancakes, waffles, French toast",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4271",
+"en": "Chipotle dip, light",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4272",
+"en": "Chipotle dip, regular",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4273",
+"en": "Chipotle dip, yogurt based",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4274",
+"en": "Chips, rice",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4275",
+"en": "Chiton, leathery, gumboots (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4276",
+"en": "Chitterlings",
+"categoria": "Liver and organ meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4277",
+"en": "Chives, freeze-dried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4278",
+"en": "Chives, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4279",
+"en": "Chocolate beverage powder, dry mix, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4280",
+"en": "Chocolate beverage powder, light, dry mix, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4281",
+"en": "Chocolate candy",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4282",
+"en": "Chocolate candy with cereal",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4283",
+"en": "Chocolate candy with dried fruit",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4284",
+"en": "Chocolate candy with nuts",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4285",
+"en": "Chocolate candy with nuts, other, NFS",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4286",
+"en": "Chocolate candy, candy shell",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4287",
+"en": "Chocolate candy, candy shell with nuts",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4288",
+"en": "Chocolate candy, caramel filled",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4289",
+"en": "Chocolate candy, caramel filled with nuts",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4290",
+"en": "Chocolate candy, coconut filled",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4291",
+"en": "Chocolate candy, cookie filled",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4292",
+"en": "Chocolate candy, cream filled",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4293",
+"en": "Chocolate candy, fudge",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4294",
+"en": "Chocolate candy, nougat filled",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4295",
+"en": "Chocolate candy, nougat filled with nuts",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4296",
+"en": "Chocolate candy, other, NFS",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4297",
+"en": "Chocolate candy, peanut butter filled",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4298",
+"en": "Chocolate candy, sugar free",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4299",
+"en": "Chocolate chips",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4300",
+"en": "Chocolate dip",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4301",
+"en": "Chocolate hazelnut spread",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4302",
+"en": "Chocolate milk drink",
+"categoria": "Milk shakes and other dairy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4303",
+"en": "Chocolate milk, fat free (skim)",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4304",
+"en": "Chocolate milk, low fat (1%)",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4305",
+"en": "Chocolate milk, Nesquik, made with non-dairy milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4306",
+"en": "Chocolate milk, Nesquik, NS as to type of milk",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4307",
+"en": "Chocolate milk, NFS",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4308",
+"en": "Chocolate milk, reduced fat (2%)",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4309",
+"en": "Chocolate milk, reduced sugar, fat free (skim)",
+"categoria": "Flavored milk, nonfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4310",
+"en": "Chocolate milk, reduced sugar, low fat (1%)",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4311",
+"en": "Chocolate milk, reduced sugar, NFS",
+"categoria": "Flavored milk, lowfat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4312",
+"en": "Chocolate milk, reduced sugar, reduced fat (2%)",
+"categoria": "Flavored milk, reduced fat",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4313",
+"en": "Chocolate milk, reduced sugar, whole",
+"categoria": "Flavored milk, whole",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4314",
+"en": "Chocolate milk, whole",
+"categoria": "Flavored milk, whole",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4315",
+"en": "Chocolate syrup",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4316",
+"en": "Chocolate syrup, light",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4317",
+"en": "Chocolate, dark, 45- 59% cacao solids",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4318",
+"en": "Chocolate, dark, 60-69% cacao solids",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4319",
+"en": "Chocolate, dark, 70-85% cacao solids",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4320",
+"en": "Chocolate-flavored hazelnut spread",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4321",
+"en": "Chokecherries, raw, pitted (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4322",
+"en": "Chokecherries, raw, pitted (Shoshone Bannock)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4323",
+"en": "Chorizo",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4324",
+"en": "Chow fun noodles with meat and vegetables",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4325",
+"en": "Chow fun noodles with vegetables, meatless",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4326",
+"en": "Chow mein or chop suey, meatless, no noodles",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4327",
+"en": "Chow mein or chop suey, meatless, with noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4328",
+"en": "Chow mein or chop suey, NS as to type of meat, no noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4329",
+"en": "Chow mein or chop suey, NS as to type of meat, with noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4330",
+"en": "Chow mein or chop suey, various types of meat, with noodles",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4331",
+"en": "Christophine, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4332",
+"en": "Chrysanthemum leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4333",
+"en": "Chrysanthemum, garland, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4334",
+"en": "Chrysanthemum, garland, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4335",
+"en": "Chrysanthemum, garland, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4336",
+"en": "Churros",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4337",
+"en": "Chutney",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4338",
+"en": "Cilantro, raw",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4339",
+"en": "Cinnamon buns, frosted (includes honey buns)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4340",
+"en": "Clam cake or patty",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4341",
+"en": "Clams Casino",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4342",
+"en": "Clams, baked or broiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4343",
+"en": "Clams, canned",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4344",
+"en": "Clams, fried",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4345",
+"en": "Clams, NFS",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4346",
+"en": "Clams, raw",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4347",
+"en": "Clams, steamed or boiled",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4348",
+"en": "Classic mixed vegetables, canned, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4349",
+"en": "Classic mixed vegetables, canned, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4350",
+"en": "Classic mixed vegetables, canned, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4351",
+"en": "Classic mixed vegetables, canned, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4352",
+"en": "Classic mixed vegetables, canned, reduced sodium, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4353",
+"en": "Classic mixed vegetables, canned, reduced sodium, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4354",
+"en": "Classic mixed vegetables, canned, reduced sodium, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4355",
+"en": "Classic mixed vegetables, canned, reduced sodium, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4356",
+"en": "Classic mixed vegetables, cooked, from restaurant",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4357",
+"en": "Classic mixed vegetables, frozen, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4358",
+"en": "Classic mixed vegetables, frozen, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4359",
+"en": "Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4360",
+"en": "Classic mixed vegetables, frozen, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4361",
+"en": "Classic mixed vegetables, NS as to form, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4362",
+"en": "Clementine, raw",
+"categoria": "Citrus fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4363",
+"en": "Clementines, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "4364",
+"en": "Clif Z bar",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4365",
+"en": "Cloudberries, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4366",
+"en": "Club sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4367",
+"en": "Club sandwich on wheat, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4368",
+"en": "Club sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4369",
+"en": "Club sandwich on white, with cheese",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4370",
+"en": "Club sandwich or sub, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4371",
+"en": "Cobb salad, no dressing",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4372",
+"en": "Cobbler, apple",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4373",
+"en": "Cobbler, berry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4374",
+"en": "Cobbler, cherry",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4375",
+"en": "Cobbler, peach",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4376",
+"en": "Cockles, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4377",
+"en": "Cocktail sauce",
+"categoria": "Tomato-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4378",
+"en": "Cocktail, NFS",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4379",
+"en": "Cocoa mix, NESTLE, Rich Chocolate Hot Cocoa Mix",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "4380",
+"en": "Cocoa powder, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4381",
+"en": "Cocoa, dry powder, hi-fat or breakfast, processed with alkali",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4382",
+"en": "Cocoa, dry powder, unsweetened",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4383",
+"en": "Cocoa, dry powder, unsweetened, HERSHEY'S European Style Cocoa",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4384",
+"en": "Cocoa, dry powder, unsweetened, processed with alkali",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "4385",
+"en": "Coconut cream, canned, sweetened",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4386",
+"en": "Coconut milk",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4387",
+"en": "Coconut milk, used in cooking",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4388",
+"en": "Coconut oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4389",
+"en": "Coconut water, sweetened",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4390",
+"en": "Coconut water, unsweetened",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4391",
+"en": "Coconut, fresh",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4392",
+"en": "Coconut, packaged",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4393",
+"en": "Cod, Pacific or Alaskan, frozen, wild caught",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "4394",
+"en": "Codfish salad, Puerto Rican style, Serenata",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4395",
+"en": "Codfish with starchy vegetables, Puerto Rican style",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4396",
+"en": "Coffee and chicory, brewed",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4397",
+"en": "Coffee and chicory, brewed, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4398",
+"en": "Coffee cake, crumb or quick-bread type",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4399",
+"en": "Coffee cake, crumb or quick-bread type, cheese-filled",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4400",
+"en": "Coffee cake, crumb or quick-bread type, with fruit",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4401",
+"en": "Coffee cake, yeast type",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4402",
+"en": "Coffee creamer, liquid",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4403",
+"en": "Coffee creamer, liquid, fat free",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4404",
+"en": "Coffee creamer, liquid, fat free, flavored",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4405",
+"en": "Coffee creamer, liquid, fat free, sugar free, flavored",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4406",
+"en": "Coffee creamer, liquid, flavored",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4407",
+"en": "Coffee creamer, liquid, sugar free, flavored",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4408",
+"en": "Coffee creamer, NFS",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4409",
+"en": "Coffee creamer, powder",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4410",
+"en": "Coffee creamer, powder, fat free",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4411",
+"en": "Coffee creamer, powder, flavored",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4412",
+"en": "Coffee creamer, soy, liquid",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4413",
+"en": "Coffee creamer,powder, sugar free, flavored",
+"categoria": "Cream and cream substitutes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4414",
+"en": "Coffee substitute",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4415",
+"en": "Coffee, bottled/canned",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4416",
+"en": "Coffee, bottled/canned, light",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4417",
+"en": "Coffee, brewed",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4418",
+"en": "Coffee, brewed, blend of regular and decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4419",
+"en": "Coffee, brewed, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4420",
+"en": "Coffee, brewed, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4421",
+"en": "Coffee, cafe con leche",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4422",
+"en": "Coffee, cafe con leche, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4423",
+"en": "Coffee, Cafe Mocha",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4424",
+"en": "Coffee, Cafe Mocha, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4425",
+"en": "Coffee, Cafe Mocha, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4426",
+"en": "Coffee, Cafe Mocha, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4427",
+"en": "Coffee, Cafe Mocha, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4428",
+"en": "Coffee, Cafe Mocha, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4429",
+"en": "Coffee, Cappuccino",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4430",
+"en": "Coffee, Cappuccino, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4431",
+"en": "Coffee, Cappuccino, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4432",
+"en": "Coffee, Cappuccino, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4433",
+"en": "Coffee, Cappuccino, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4434",
+"en": "Coffee, Cappuccino, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4435",
+"en": "Coffee, Cuban",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4436",
+"en": "Coffee, decaffeinated, pre-lightened",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4437",
+"en": "Coffee, decaffeinated, pre-lightened and pre-sweetened with low calorie sweetener",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4438",
+"en": "Coffee, decaffeinated, pre-lightened and pre-sweetened with sugar",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4439",
+"en": "Coffee, decaffeinated, pre-sweetened with low calorie sweetener",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4440",
+"en": "Coffee, decaffeinated, pre-sweetened with sugar",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4441",
+"en": "Coffee, espresso",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4442",
+"en": "Coffee, espresso, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4443",
+"en": "Coffee, Iced Cafe Mocha",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4444",
+"en": "Coffee, Iced Cafe Mocha, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4445",
+"en": "Coffee, Iced Cafe Mocha, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4446",
+"en": "Coffee, Iced Cafe Mocha, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4447",
+"en": "Coffee, Iced Cafe Mocha, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4448",
+"en": "Coffee, Iced Cafe Mocha, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4449",
+"en": "Coffee, Iced Latte",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4450",
+"en": "Coffee, Iced Latte, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4451",
+"en": "Coffee, Iced Latte, decaffeinated, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4452",
+"en": "Coffee, Iced Latte, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4453",
+"en": "Coffee, Iced Latte, decaffeinated, nonfat, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4454",
+"en": "Coffee, Iced Latte, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4455",
+"en": "Coffee, Iced Latte, decaffeinated, with non-dairy milk, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4456",
+"en": "Coffee, Iced Latte, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4457",
+"en": "Coffee, Iced Latte, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4458",
+"en": "Coffee, Iced Latte, nonfat, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4459",
+"en": "Coffee, Iced Latte, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4460",
+"en": "Coffee, Iced Latte, with non-dairy milk, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4461",
+"en": "Coffee, instant, 50% less caffeine, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4462",
+"en": "Coffee, instant, decaffeinated, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4463",
+"en": "Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with low calorie sweetener, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4464",
+"en": "Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with low calorie sweetener, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4465",
+"en": "Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with sugar, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4466",
+"en": "Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with sugar, reconsitituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4467",
+"en": "Coffee, instant, decaffeinated, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4468",
+"en": "Coffee, instant, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4469",
+"en": "Coffee, instant, pre-lightened and pre-sweetened with low calorie sweetener, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+}
+]

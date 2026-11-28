@@ -1,0 +1,4132 @@
+{
+"taco-1": {
+"de": "Reis, Vollkorn, gekocht",
+"en": "Rice, brown, cooked",
+"es": "Arroz, integral, cocido",
+"fr": "Riz, complet, cuit",
+"it": "Riso, integrale, cotto"
+},
+"taco-10": {
+"de": "Keks, süß, mit Erdbeerfüllung",
+"en": "Biscuit, sweet, filled with strawberry",
+"es": "Galleta, dulce, rellena de fresa",
+"fr": "Biscuit, sucré, fourré à la fraise",
+"it": "Biscotto, dolce, ripieno alla fragola"
+},
+"taco-100": {
+"de": "Brokkoli, gekocht",
+"en": "Broccoli, cooked",
+"es": "Brócoli, cocido",
+"fr": "Brocoli, cuit",
+"it": "Broccoli, cotti"
+},
+"taco-101": {
+"de": "Brokkoli, roh",
+"en": "Broccoli, raw",
+"es": "Brócoli, crudo",
+"fr": "Brocoli, cru",
+"it": "Broccoli, crudi"
+},
+"taco-102": {
+"de": "Yamswurzel (Cará), gekocht",
+"en": "Yam (cará), cooked",
+"es": "Ñame (cará), cocido",
+"fr": "Igname (cará), cuit",
+"it": "Igname (cará), cotto"
+},
+"taco-103": {
+"de": "Yamswurzel (Cará), roh",
+"en": "Yam (cará), raw",
+"es": "Ñame (cará), crudo",
+"fr": "Igname (cará), cru",
+"it": "Igname (cará), crudo"
+},
+"taco-104": {
+"de": "Caruru, roh",
+"en": "Caruru, raw",
+"es": "Caruru, crudo",
+"fr": "Caruru, cru",
+"it": "Caruru, crudo"
+},
+"taco-105": {
+"de": "Catalogna-Zichorie, roh",
+"en": "Catalonha (chicory), raw",
+"es": "Achicoria de hoja (catalonha), cruda",
+"fr": "Catalogne, crue",
+"it": "Catalogna, cruda"
+},
+"taco-106": {
+"de": "Catalogna-Zichorie, angebraten",
+"en": "Catalonha (chicory), sautéed",
+"es": "Achicoria de hoja (catalonha), salteada",
+"fr": "Catalogne, sautée",
+"it": "Catalogna, saltata"
+},
+"taco-107": {
+"de": "Zwiebel, roh",
+"en": "Onion, raw",
+"es": "Cebolla, cruda",
+"fr": "Oignon, cru",
+"it": "Cipolla, cruda"
+},
+"taco-108": {
+"de": "Schnittlauch, roh",
+"en": "Chives, raw",
+"es": "Cebollino, crudo",
+"fr": "Ciboulette, crue",
+"it": "Erba cipollina, cruda"
+},
+"taco-109": {
+"de": "Karotte, gekocht",
+"en": "Carrot, cooked",
+"es": "Zanahoria, cocida",
+"fr": "Carotte, cuite",
+"it": "Carota, cotta"
+},
+"taco-11": {
+"de": "Keks, süß, Waffel, mit Schokoladenfüllung",
+"en": "Biscuit, sweet, wafer, filled with chocolate",
+"es": "Galleta, dulce, barquillo, relleno de chocolate",
+"fr": "Biscuit, sucré, gaufrette, fourré au chocolat",
+"it": "Biscotto, dolce, wafer, ripieno al cioccolato"
+},
+"taco-110": {
+"de": "Karotte, roh",
+"en": "Carrot, raw",
+"es": "Zanahoria, cruda",
+"fr": "Carotte, crue",
+"it": "Carota, cruda"
+},
+"taco-111": {
+"de": "Chicorée, roh",
+"en": "Chicory, raw",
+"es": "Achicoria, cruda",
+"fr": "Chicorée, crue",
+"it": "Cicoria, cruda"
+},
+"taco-112": {
+"de": "Chayote, gekocht",
+"en": "Chayote, cooked",
+"es": "Chayote, cocido",
+"fr": "Chayote, cuit",
+"it": "Chayote, cotto"
+},
+"taco-113": {
+"de": "Chayote, roh",
+"en": "Chayote, raw",
+"es": "Chayote, crudo",
+"fr": "Chayote, cru",
+"it": "Chayote, crudo"
+},
+"taco-114": {
+"de": "Koriander, Blätter, dehydriert",
+"en": "Coriander, leaves, dehydrated",
+"es": "Cilantro, hojas, deshidratadas",
+"fr": "Coriandre, feuilles, déshydratées",
+"it": "Coriandolo, foglie, disidratate"
+},
+"taco-115": {
+"de": "Grünkohl, roh",
+"en": "Collard greens, raw",
+"es": "Col rizada, cruda",
+"fr": "Chou frisé, cru",
+"it": "Cavolo riccio, crudo"
+},
+"taco-116": {
+"de": "Grünkohl, angebraten",
+"en": "Collard greens, sautéed",
+"es": "Col rizada, salteada",
+"fr": "Chou frisé, sauté",
+"it": "Cavolo riccio, saltato"
+},
+"taco-117": {
+"de": "Blumenkohl, roh",
+"en": "Cauliflower, raw",
+"es": "Coliflor, cruda",
+"fr": "Chou-fleur, cru",
+"it": "Cavolfiore, crudo"
+},
+"taco-118": {
+"de": "Blumenkohl, gekocht",
+"en": "Cauliflower, cooked",
+"es": "Coliflor, cocida",
+"fr": "Chou-fleur, cuit",
+"it": "Cavolfiore, cotto"
+},
+"taco-119": {
+"de": "Spinat, Neuseeland, roh",
+"en": "Spinach, New Zealand, raw",
+"es": "Espinaca, de Nueva Zelanda, cruda",
+"fr": "Épinard, de Nouvelle-Zélande, cru",
+"it": "Spinacio, della Nuova Zelanda, crudo"
+},
+"taco-12": {
+"de": "Keks, süß, Waffel, mit Erdbeerfüllung",
+"en": "Biscuit, sweet, wafer, filled with strawberry",
+"es": "Galleta, dulce, barquillo, relleno de fresa",
+"fr": "Biscuit, sucré, gaufrette, fourré à la fraise",
+"it": "Biscotto, dolce, wafer, ripieno alla fragola"
+},
+"taco-120": {
+"de": "Spinat, Neuseeland, angebraten",
+"en": "Spinach, New Zealand, sautéed",
+"es": "Espinaca, de Nueva Zelanda, salteada",
+"fr": "Épinard, de Nouvelle-Zélande, sauté",
+"it": "Spinacio, della Nuova Zelanda, saltato"
+},
+"taco-121": {
+"de": "Mehl, Maniokmehl, roh",
+"en": "Flour, cassava, raw",
+"es": "Harina, de yuca, cruda",
+"fr": "Farine, de manioc, crue",
+"it": "Farina, di manioca, cruda"
+},
+"taco-122": {
+"de": "Mehl, Maniokmehl, geröstet",
+"en": "Flour, cassava, toasted",
+"es": "Harina, de yuca, tostada",
+"fr": "Farine, de manioc, torréfiée",
+"it": "Farina, di manioca, tostata"
+},
+"taco-123": {
+"de": "Mehl, Puba (fermentierter Maniok)",
+"en": "Flour, puba (fermented cassava)",
+"es": "Harina, de puba (yuca fermentada)",
+"fr": "Farine, de puba (manioc fermenté)",
+"it": "Farina, di puba (manioca fermentata)"
+},
+"taco-124": {
+"de": "Stärke, aus Maniok",
+"en": "Starch, cassava",
+"es": "Fécula, de yuca",
+"fr": "Fécule, de manioc",
+"it": "Fecola, di manioca"
+},
+"taco-125": {
+"de": "Bohnen, Sprossen, roh",
+"en": "Beans, sprouts, raw",
+"es": "Frijoles, brotes, crudos",
+"fr": "Haricots, germes, crus",
+"it": "Fagioli, germogli, crudi"
+},
+"taco-126": {
+"de": "Yams, roh",
+"en": "Yam, raw",
+"es": "Ñame, crudo",
+"fr": "Igname, cru",
+"it": "Igname, crudo"
+},
+"taco-127": {
+"de": "Jiló, roh",
+"en": "Jiló, raw",
+"es": "Jiló, crudo",
+"fr": "Jiló, cru",
+"it": "Jiló, crudo"
+},
+"taco-128": {
+"de": "Jurubeba, roh",
+"en": "Jurubeba, raw",
+"es": "Jurubeba, cruda",
+"fr": "Jurubeba, crue",
+"it": "Jurubeba, cruda"
+},
+"taco-129": {
+"de": "Maniok, gekocht",
+"en": "Cassava, cooked",
+"es": "Yuca, cocida",
+"fr": "Manioc, cuit",
+"it": "Manioca, cotta"
+},
+"taco-13": {
+"de": "Keks, salzig, Cream Cracker",
+"en": "Biscuit, savory, cream cracker",
+"es": "Galleta, salada, cream cracker",
+"fr": "Biscuit, salé, cream cracker",
+"it": "Biscotto, salato, cream cracker"
+},
+"taco-130": {
+"de": "Maniok, roh",
+"en": "Cassava, raw",
+"es": "Yuca, cruda",
+"fr": "Manioc, cru",
+"it": "Manioca, cruda"
+},
+"taco-131": {
+"de": "Maniok, Farofa, gewürzt",
+"en": "Cassava, farofa, seasoned",
+"es": "Yuca, farofa, sazonada",
+"fr": "Manioc, farofa, assaisonnée",
+"it": "Manioca, farofa, condita"
+},
+"taco-132": {
+"de": "Maniok, frittiert",
+"en": "Cassava, fried",
+"es": "Yuca, frita",
+"fr": "Manioc, frit",
+"it": "Manioca, fritta"
+},
+"taco-133": {
+"de": "Basilikum, roh",
+"en": "Basil, raw",
+"es": "Albahaca, cruda",
+"fr": "Basilic, cru",
+"it": "Basilico, crudo"
+},
+"taco-134": {
+"de": "Maxixe, roh",
+"en": "Maxixe, raw",
+"es": "Maxixe, crudo",
+"fr": "Maxixe, cru",
+"it": "Maxixe, crudo"
+},
+"taco-135": {
+"de": "Senf, Blatt, roh",
+"en": "Mustard, leaf, raw",
+"es": "Mostaza, hoja, cruda",
+"fr": "Moutarde, feuille, crue",
+"it": "Senape, foglia, cruda"
+},
+"taco-136": {
+"de": "Gnocchi, Kartoffel, gekocht",
+"en": "Gnocchi, potato, cooked",
+"es": "Ñoquis, de patata, cocidos",
+"fr": "Gnocchis, pomme de terre, cuits",
+"it": "Gnocchi, di patate, cotti"
+},
+"taco-137": {
+"de": "Speiserübe, roh",
+"en": "Turnip, raw",
+"es": "Nabo, crudo",
+"fr": "Navet, cru",
+"it": "Rapa, cruda"
+},
+"taco-138": {
+"de": "Palmherzen, Juçara, aus der Dose",
+"en": "Heart of palm, juçara, canned",
+"es": "Palmito, juçara, enlatado",
+"fr": "Cœur de palmier, juçara, en conserve",
+"it": "Palmito, juçara, in scatola"
+},
+"taco-139": {
+"de": "Palmherzen, Pupunha, aus der Dose",
+"en": "Heart of palm, pupunha, canned",
+"es": "Palmito, pupunha, enlatado",
+"fr": "Cœur de palmier, pupunha, en conserve",
+"it": "Palmito, pupunha, in scatola"
+},
+"taco-14": {
+"de": "Kuchen, Backmischung",
+"en": "Cake, mix",
+"es": "Bizcocho, mezcla",
+"fr": "Gâteau, préparation",
+"it": "Torta, preparato"
+},
+"taco-140": {
+"de": "Käsebrot (Pão de queijo), gebacken",
+"en": "Bread, cheese (pão de queijo), baked",
+"es": "Pan, de queso (pão de queijo), al horno",
+"fr": "Pain au fromage (pão de queijo), cuit au four",
+"it": "Pane, al formaggio (pão de queijo), al forno"
+},
+"taco-141": {
+"de": "Käsebrot (Pão de queijo), roh",
+"en": "Bread, cheese (pão de queijo), raw",
+"es": "Pan, de queso (pão de queijo), crudo",
+"fr": "Pain au fromage (pão de queijo), cru",
+"it": "Pane, al formaggio (pão de queijo), crudo"
+},
+"taco-142": {
+"de": "Gurke, roh",
+"en": "Cucumber, raw",
+"es": "Pepino, crudo",
+"fr": "Concombre, cru",
+"it": "Cetriolo, crudo"
+},
+"taco-143": {
+"de": "Paprika, gelb, roh",
+"en": "Bell pepper, yellow, raw",
+"es": "Pimiento, amarillo, crudo",
+"fr": "Poivron, jaune, cru",
+"it": "Peperone, giallo, crudo"
+},
+"taco-144": {
+"de": "Paprika, grün, roh",
+"en": "Bell pepper, green, raw",
+"es": "Pimiento, verde, crudo",
+"fr": "Poivron, vert, cru",
+"it": "Peperone, verde, crudo"
+},
+"taco-145": {
+"de": "Paprika, rot, roh",
+"en": "Bell pepper, red, raw",
+"es": "Pimiento, rojo, crudo",
+"fr": "Poivron, rouge, cru",
+"it": "Peperone, rosso, crudo"
+},
+"taco-146": {
+"de": "Tapiokastärke, süß",
+"en": "Tapioca starch, sweet",
+"es": "Almidón de yuca, dulce",
+"fr": "Fécule de tapioca, douce",
+"it": "Fecola di tapioca, dolce"
+},
+"taco-147": {
+"de": "Okra, roh",
+"en": "Okra, raw",
+"es": "Quingombó, crudo",
+"fr": "Gombo, cru",
+"it": "Gombo, crudo"
+},
+"taco-148": {
+"de": "Radieschen, roh",
+"en": "Radish, raw",
+"es": "Rábano, crudo",
+"fr": "Radis, cru",
+"it": "Ravanello, crudo"
+},
+"taco-149": {
+"de": "Kohl, Weißkohl, roh",
+"en": "Cabbage, white, raw",
+"es": "Repollo, blanco, crudo",
+"fr": "Chou, blanc, cru",
+"it": "Cavolo, bianco, crudo"
+},
+"taco-15": {
+"de": "Kuchen, fertig, Maniok",
+"en": "Cake, ready-made, cassava",
+"es": "Bizcocho, listo, yuca",
+"fr": "Gâteau, prêt, manioc",
+"it": "Torta, pronta, manioca"
+},
+"taco-150": {
+"de": "Kohl, Rotkohl, roh",
+"en": "Cabbage, red, raw",
+"es": "Repollo, rojo, crudo",
+"fr": "Chou, rouge, cru",
+"it": "Cavolo, rosso, crudo"
+},
+"taco-151": {
+"de": "Kohl, Rotkohl, angebraten",
+"en": "Cabbage, red, sautéed",
+"es": "Repollo, rojo, salteado",
+"fr": "Chou, rouge, sauté",
+"it": "Cavolo, rosso, saltato"
+},
+"taco-152": {
+"de": "Rucola, roh",
+"en": "Arugula, raw",
+"es": "Rúcula, cruda",
+"fr": "Roquette, crue",
+"it": "Rucola, cruda"
+},
+"taco-153": {
+"de": "Petersilie, roh",
+"en": "Parsley, raw",
+"es": "Perejil, crudo",
+"fr": "Persil, cru",
+"it": "Prezzemolo, crudo"
+},
+"taco-154": {
+"de": "Gemüsemischung, aus der Dose",
+"en": "Mixed vegetables, canned",
+"es": "Menestra de verduras, enlatada",
+"fr": "Macédoine de légumes, en conserve",
+"it": "Macedonia di verdure, in scatola"
+},
+"taco-155": {
+"de": "Gänsedistel, roh",
+"en": "Sow thistle, raw",
+"es": "Cerraja, cruda",
+"fr": "Laiteron, cru",
+"it": "Cicerbita, cruda"
+},
+"taco-156": {
+"de": "Taioba, roh",
+"en": "Taioba, raw",
+"es": "Taioba, cruda",
+"fr": "Taioba, crue",
+"it": "Taioba, cruda"
+},
+"taco-157": {
+"de": "Tomate, mit Kernen, roh",
+"en": "Tomato, with seeds, raw",
+"es": "Tomate, con semillas, crudo",
+"fr": "Tomate, avec pépins, cru",
+"it": "Pomodoro, con semi, crudo"
+},
+"taco-158": {
+"de": "Tomate, Tomatenmark",
+"en": "Tomato, paste",
+"es": "Tomate, concentrado",
+"fr": "Tomate, concentré",
+"it": "Pomodoro, concentrato"
+},
+"taco-159": {
+"de": "Tomate, Soße, industriell",
+"en": "Tomato, sauce, industrial",
+"es": "Tomate, salsa, industrial",
+"fr": "Tomate, sauce, industrielle",
+"it": "Pomodoro, salsa, industriale"
+},
+"taco-16": {
+"de": "Kuchen, fertig, Schokolade",
+"en": "Cake, ready-made, chocolate",
+"es": "Bizcocho, listo, chocolate",
+"fr": "Gâteau, prêt, chocolat",
+"it": "Torta, pronta, cioccolato"
+},
+"taco-160": {
+"de": "Tomate, Püree",
+"en": "Tomato, purée",
+"es": "Tomate, puré",
+"fr": "Tomate, purée",
+"it": "Pomodoro, purea"
+},
+"taco-161": {
+"de": "Tomate, Salat",
+"en": "Tomato, salad",
+"es": "Tomate, ensalada",
+"fr": "Tomate, salade",
+"it": "Pomodoro, insalata"
+},
+"taco-162": {
+"de": "Grüne Bohne, roh",
+"en": "Green bean, raw",
+"es": "Judía verde, cruda",
+"fr": "Haricot vert, cru",
+"it": "Fagiolino, crudo"
+},
+"taco-163": {
+"de": "Avocado, roh",
+"en": "Avocado, raw",
+"es": "Aguacate, crudo",
+"fr": "Avocat, cru",
+"it": "Avocado, crudo"
+},
+"taco-164": {
+"de": "Ananas, roh",
+"en": "Pineapple, raw",
+"es": "Piña, cruda",
+"fr": "Ananas, cru",
+"it": "Ananas, crudo"
+},
+"taco-165": {
+"de": "Ananas, Fruchtfleisch, gefroren",
+"en": "Pineapple, pulp, frozen",
+"es": "Piña, pulpa, congelada",
+"fr": "Ananas, pulpe, congelée",
+"it": "Ananas, polpa, congelata"
+},
+"taco-166": {
+"de": "Abiu, roh",
+"en": "Abiu, raw",
+"es": "Abiu, crudo",
+"fr": "Abiu, cru",
+"it": "Abiu, crudo"
+},
+"taco-167": {
+"de": "Açaí, Fruchtfleisch, mit Guaraná-Sirup und Glukose",
+"en": "Açaí, pulp, with guarana syrup and glucose",
+"es": "Açaí, pulpa, con jarabe de guaraná y glucosa",
+"fr": "Açaí, pulpe, avec sirop de guarana et glucose",
+"it": "Açaí, polpa, con sciroppo di guaranà e glucosio"
+},
+"taco-168": {
+"de": "Açaí, Fruchtfleisch, gefroren",
+"en": "Açaí, pulp, frozen",
+"es": "Açaí, pulpa, congelada",
+"fr": "Açaí, pulpe, congelée",
+"it": "Açaí, polpa, congelata"
+},
+"taco-169": {
+"de": "Acerola, roh",
+"en": "Acerola, raw",
+"es": "Acerola, cruda",
+"fr": "Acérola, crue",
+"it": "Acerola, cruda"
+},
+"taco-17": {
+"de": "Kuchen, fertig, Kokos",
+"en": "Cake, ready-made, coconut",
+"es": "Bizcocho, listo, coco",
+"fr": "Gâteau, prêt, noix de coco",
+"it": "Torta, pronta, cocco"
+},
+"taco-170": {
+"de": "Acerola, Fruchtfleisch, gefroren",
+"en": "Acerola, pulp, frozen",
+"es": "Acerola, pulpa, congelada",
+"fr": "Acérola, pulpe, congelée",
+"it": "Acerola, polpa, congelata"
+},
+"taco-171": {
+"de": "Pflaume, Sirup, aus der Dose",
+"en": "Plum, syrup, canned",
+"es": "Ciruela, almíbar, enlatada",
+"fr": "Prune, sirop, en conserve",
+"it": "Prugna, sciroppo, in scatola"
+},
+"taco-172": {
+"de": "Pflaume, roh",
+"en": "Plum, raw",
+"es": "Ciruela, cruda",
+"fr": "Prune, crue",
+"it": "Prugna, cruda"
+},
+"taco-173": {
+"de": "Pflaume, in Sirup, aus der Dose, abgetropft",
+"en": "Plum, in syrup, canned, drained",
+"es": "Ciruela, en almíbar, enlatada, escurrida",
+"fr": "Prune, au sirop, en conserve, égouttée",
+"it": "Prugna, sciroppata, in scatola, scolata"
+},
+"taco-174": {
+"de": "Atemoya, roh",
+"en": "Atemoya, raw",
+"es": "Atemoya, cruda",
+"fr": "Atémoya, crue",
+"it": "Atemoya, cruda"
+},
+"taco-175": {
+"de": "Banane, Kochbanane, roh",
+"en": "Banana, plantain, raw",
+"es": "Banana, plátano macho, cruda",
+"fr": "Banane, plantain, crue",
+"it": "Banana, platano, cruda"
+},
+"taco-176": {
+"de": "Banane, Süßigkeit im Riegel",
+"en": "Banana, sweet bar",
+"es": "Banana, dulce en barra",
+"fr": "Banane, confiserie en barre",
+"it": "Banana, dolce in barretta"
+},
+"taco-177": {
+"de": "Banane, Figo, roh",
+"en": "Banana, figo, raw",
+"es": "Banana, figo, cruda",
+"fr": "Banane, figue, crue",
+"it": "Banana, figo, cruda"
+},
+"taco-178": {
+"de": "Banane, Maçã, roh",
+"en": "Banana, maçã, raw",
+"es": "Banana, manzana, cruda",
+"fr": "Banane, pomme, crue",
+"it": "Banana, maçã, cruda"
+},
+"taco-179": {
+"de": "Banane, Nanica, roh",
+"en": "Banana, nanica, raw",
+"es": "Banana, nanica, cruda",
+"fr": "Banane, nanica, crue",
+"it": "Banana, nanica, cruda"
+},
+"taco-18": {
+"de": "Kuchen, fertig, Mais",
+"en": "Cake, ready-made, corn",
+"es": "Bizcocho, listo, maíz",
+"fr": "Gâteau, prêt, maïs",
+"it": "Torta, pronta, mais"
+},
+"taco-180": {
+"de": "Banane, Ouro, roh",
+"en": "Banana, ouro, raw",
+"es": "Banana, ouro, cruda",
+"fr": "Banane, ouro, crue",
+"it": "Banana, ouro, cruda"
+},
+"taco-181": {
+"de": "Banane, Pacova, roh",
+"en": "Banana, pacova, raw",
+"es": "Banana, pacova, cruda",
+"fr": "Banane, pacova, crue",
+"it": "Banana, pacova, cruda"
+},
+"taco-182": {
+"de": "Banane, Prata, roh",
+"en": "Banana, prata, raw",
+"es": "Banana, prata, cruda",
+"fr": "Banane, prata, crue",
+"it": "Banana, prata, cruda"
+},
+"taco-183": {
+"de": "Kakao, roh",
+"en": "Cacao, raw",
+"es": "Cacao, crudo",
+"fr": "Cacao, cru",
+"it": "Cacao, crudo"
+},
+"taco-184": {
+"de": "Cajá-Manga, roh",
+"en": "Cajá-manga, raw",
+"es": "Cajá-manga, cruda",
+"fr": "Cajá-manga, crue",
+"it": "Cajá-manga, cruda"
+},
+"taco-185": {
+"de": "Cajá, Fruchtfleisch, gefroren",
+"en": "Cajá, pulp, frozen",
+"es": "Cajá, pulpa, congelada",
+"fr": "Cajá, pulpe, congelée",
+"it": "Cajá, polpa, congelata"
+},
+"taco-186": {
+"de": "Cashewapfel, roh",
+"en": "Cashew apple, raw",
+"es": "Manzana de anacardo, cruda",
+"fr": "Pomme de cajou, crue",
+"it": "Mela di anacardio, cruda"
+},
+"taco-187": {
+"de": "Cashewapfel, Fruchtfleisch, gefroren",
+"en": "Cashew apple, pulp, frozen",
+"es": "Manzana de anacardo, pulpa, congelada",
+"fr": "Pomme de cajou, pulpe, congelée",
+"it": "Mela di anacardio, polpa, congelata"
+},
+"taco-188": {
+"de": "Cashewapfel, Saftkonzentrat, abgefüllt",
+"en": "Cashew apple, concentrated juice, bottled",
+"es": "Manzana de anacardo, jugo concentrado, envasado",
+"fr": "Pomme de cajou, jus concentré, embouteillé",
+"it": "Mela di anacardio, succo concentrato, imbottigliato"
+},
+"taco-189": {
+"de": "Kaki, Schokolade, roh",
+"en": "Persimmon, chocolate, raw",
+"es": "Caqui, chocolate, crudo",
+"fr": "Kaki, chocolat, cru",
+"it": "Cachi, cioccolato, crudo"
+},
+"taco-19": {
+"de": "Canjica, weiß, roh",
+"en": "Canjica, white, raw",
+"es": "Canjica, blanca, cruda",
+"fr": "Canjica, blanche, crue",
+"it": "Canjica, bianca, cruda"
+},
+"taco-190": {
+"de": "Sternfrucht, roh",
+"en": "Carambola, raw",
+"es": "Carambola, cruda",
+"fr": "Carambole, crue",
+"it": "Carambola, cruda"
+},
+"taco-191": {
+"de": "Ciriguela, roh",
+"en": "Ciriguela, raw",
+"es": "Ciriguela, cruda",
+"fr": "Ciriguela, crue",
+"it": "Ciriguela, cruda"
+},
+"taco-192": {
+"de": "Cupuaçu, roh",
+"en": "Cupuaçu, raw",
+"es": "Cupuaçu, crudo",
+"fr": "Cupuaçu, cru",
+"it": "Cupuaçu, crudo"
+},
+"taco-193": {
+"de": "Cupuaçu, Fruchtfleisch, gefroren",
+"en": "Cupuaçu, pulp, frozen",
+"es": "Cupuaçu, pulpa, congelada",
+"fr": "Cupuaçu, pulpe, congelée",
+"it": "Cupuaçu, polpa, congelata"
+},
+"taco-194": {
+"de": "Feige, roh",
+"en": "Fig, raw",
+"es": "Higo, crudo",
+"fr": "Figue, crue",
+"it": "Fico, crudo"
+},
+"taco-195": {
+"de": "Feige, aus der Dose, in Sirup",
+"en": "Fig, canned, in syrup",
+"es": "Higo, enlatado, en almíbar",
+"fr": "Figue, en conserve, au sirop",
+"it": "Fico, in scatola, sciroppato"
+},
+"taco-196": {
+"de": "Brotfrucht, roh",
+"en": "Breadfruit, raw",
+"es": "Fruta del pan, crudo",
+"fr": "Fruit de l'arbre à pain, cru",
+"it": "Albero del pane, crudo"
+},
+"taco-197": {
+"de": "Guave, weiß, mit Schale, roh",
+"en": "Guava, white, with peel, raw",
+"es": "Guayaba, blanca, con piel, cruda",
+"fr": "Goyave, blanche, avec peau, crue",
+"it": "Guava, bianca, con buccia, cruda"
+},
+"taco-198": {
+"de": "Guave, süße Paste",
+"en": "Guava, sweet paste",
+"es": "Guayaba, dulce en pasta",
+"fr": "Goyave, pâte sucrée",
+"it": "Guava, dolce in pasta"
+},
+"taco-199": {
+"de": "Guave, süß, Cascão",
+"en": "Guava, sweet, cascão",
+"es": "Guayaba, dulce, cascão",
+"fr": "Goyave, sucrée, cascão",
+"it": "Guava, dolce, cascão"
+},
+"taco-2": {
+"de": "Reis, Vollkorn, roh",
+"en": "Rice, brown, raw",
+"es": "Arroz, integral, crudo",
+"fr": "Riz, complet, cru",
+"it": "Riso, integrale, crudo"
+},
+"taco-20": {
+"de": "Canjica, mit Vollmilch",
+"en": "Canjica, with whole milk",
+"es": "Canjica, con leche entera",
+"fr": "Canjica, au lait entier",
+"it": "Canjica, con latte intero"
+},
+"taco-200": {
+"de": "Guave, rot, mit Schale, roh",
+"en": "Guava, red, with peel, raw",
+"es": "Guayaba, roja, con piel, cruda",
+"fr": "Goyave, rouge, avec peau, crue",
+"it": "Guava, rossa, con buccia, cruda"
+},
+"taco-201": {
+"de": "Stachelannone, roh",
+"en": "Soursop, raw",
+"es": "Guanábana, cruda",
+"fr": "Corossol, cru",
+"it": "Graviola, cruda"
+},
+"taco-202": {
+"de": "Stachelannone, Fruchtfleisch, gefroren",
+"en": "Soursop, pulp, frozen",
+"es": "Guanábana, pulpa, congelada",
+"fr": "Corossol, pulpe, congelée",
+"it": "Graviola, polpa, congelata"
+},
+"taco-203": {
+"de": "Jabuticaba, roh",
+"en": "Jabuticaba, raw",
+"es": "Jabuticaba, cruda",
+"fr": "Jabuticaba, crue",
+"it": "Jabuticaba, cruda"
+},
+"taco-204": {
+"de": "Jackfrucht, roh",
+"en": "Jackfruit, raw",
+"es": "Yaca, cruda",
+"fr": "Jacquier, cru",
+"it": "Jackfruit, crudo"
+},
+"taco-205": {
+"de": "Rosenapfel, roh",
+"en": "Rose apple, raw",
+"es": "Manzana rosa, cruda",
+"fr": "Pomme rose, crue",
+"it": "Mela rosa, cruda"
+},
+"taco-206": {
+"de": "Jambolanapflaume, roh",
+"en": "Jambolan, raw",
+"es": "Jambolán, crudo",
+"fr": "Jamelonier, cru",
+"it": "Jambolan, crudo"
+},
+"taco-207": {
+"de": "Kiwi, roh",
+"en": "Kiwi, raw",
+"es": "Kiwi, crudo",
+"fr": "Kiwi, cru",
+"it": "Kiwi, crudo"
+},
+"taco-208": {
+"de": "Orange, Bahia, roh",
+"en": "Orange, Bahia, raw",
+"es": "Naranja, Bahía, cruda",
+"fr": "Orange, Bahia, crue",
+"it": "Arancia, Bahia, cruda"
+},
+"taco-209": {
+"de": "Orange, Bahia, Saft",
+"en": "Orange, Bahia, juice",
+"es": "Naranja, Bahía, zumo",
+"fr": "Orange, Bahia, jus",
+"it": "Arancia, Bahia, succo"
+},
+"taco-21": {
+"de": "Getreide, Mais, Flocken, gesalzen",
+"en": "Cereal, corn, flakes, salted",
+"es": "Cereales, maíz, copos, salados",
+"fr": "Céréales, maïs, flocons, salés",
+"it": "Cereali, mais, fiocchi, salati"
+},
+"taco-210": {
+"de": "Orange, da terra, roh",
+"en": "Orange, da terra, raw",
+"es": "Naranja, da terra, cruda",
+"fr": "Orange, da terra, crue",
+"it": "Arancia, da terra, cruda"
+},
+"taco-211": {
+"de": "Orange, da terra, Saft",
+"en": "Orange, da terra, juice",
+"es": "Naranja, da terra, zumo",
+"fr": "Orange, da terra, jus",
+"it": "Arancia, da terra, succo"
+},
+"taco-212": {
+"de": "Orange, Lima, roh",
+"en": "Orange, lima, raw",
+"es": "Naranja, lima, cruda",
+"fr": "Orange, lima, crue",
+"it": "Arancia, lima, cruda"
+},
+"taco-213": {
+"de": "Orange, Lima, Saft",
+"en": "Orange, lima, juice",
+"es": "Naranja, lima, zumo",
+"fr": "Orange, lima, jus",
+"it": "Arancia, lima, succo"
+},
+"taco-214": {
+"de": "Orange, Pera, roh",
+"en": "Orange, pera, raw",
+"es": "Naranja, pera, cruda",
+"fr": "Orange, pera, crue",
+"it": "Arancia, pera, cruda"
+},
+"taco-215": {
+"de": "Orange, Pera, Saft",
+"en": "Orange, pera, juice",
+"es": "Naranja, pera, zumo",
+"fr": "Orange, pera, jus",
+"it": "Arancia, pera, succo"
+},
+"taco-216": {
+"de": "Orange, Valencia, roh",
+"en": "Orange, Valencia, raw",
+"es": "Naranja, Valencia, cruda",
+"fr": "Orange, Valencia, crue",
+"it": "Arancia, Valencia, cruda"
+},
+"taco-217": {
+"de": "Orange, Valencia, Saft",
+"en": "Orange, Valencia, juice",
+"es": "Naranja, Valencia, zumo",
+"fr": "Orange, Valencia, jus",
+"it": "Arancia, Valencia, succo"
+},
+"taco-218": {
+"de": "Zitrone, Cravo, Saft",
+"en": "Lemon, cravo, juice",
+"es": "Limón, cravo, zumo",
+"fr": "Citron, cravo, jus",
+"it": "Limone, cravo, succo"
+},
+"taco-219": {
+"de": "Zitrone, Galego, Saft",
+"en": "Lemon, galego, juice",
+"es": "Limón, galego, zumo",
+"fr": "Citron, galego, jus",
+"it": "Limone, galego, succo"
+},
+"taco-22": {
+"de": "Getreide, Mais, Flocken, ungesalzen",
+"en": "Cereal, corn, flakes, unsalted",
+"es": "Cereales, maíz, copos, sin sal",
+"fr": "Céréales, maïs, flocons, non salés",
+"it": "Cereali, mais, fiocchi, non salati"
+},
+"taco-220": {
+"de": "Limette, Tahiti, roh",
+"en": "Lime, Tahiti, raw",
+"es": "Lima, Tahití, crudo",
+"fr": "Citron vert, Tahiti, cru",
+"it": "Lime, Tahiti, crudo"
+},
+"taco-221": {
+"de": "Apfel, Argentina, mit Schale, roh",
+"en": "Apple, Argentina, with peel, raw",
+"es": "Manzana, Argentina, con piel, cruda",
+"fr": "Pomme, Argentine, avec peau, crue",
+"it": "Mela, Argentina, con buccia, cruda"
+},
+"taco-222": {
+"de": "Apfel, Fuji, mit Schale, roh",
+"en": "Apple, Fuji, with peel, raw",
+"es": "Manzana, Fuji, con piel, cruda",
+"fr": "Pomme, Fuji, avec peau, crue",
+"it": "Mela, Fuji, con buccia, cruda"
+},
+"taco-223": {
+"de": "Macaúba, roh",
+"en": "Macaúba, raw",
+"es": "Macaúba, cruda",
+"fr": "Macaúba, crue",
+"it": "Macaúba, cruda"
+},
+"taco-224": {
+"de": "Papaya, süß in Sirup, abgetropft",
+"en": "Papaya, sweet in syrup, drained",
+"es": "Papaya, dulce en almíbar, escurrida",
+"fr": "Papaye, sucrée au sirop, égouttée",
+"it": "Papaya, dolce in sciroppo, scolata"
+},
+"taco-225": {
+"de": "Papaya, Formosa, roh",
+"en": "Papaya, Formosa, raw",
+"es": "Papaya, Formosa, cruda",
+"fr": "Papaye, Formosa, crue",
+"it": "Papaya, Formosa, cruda"
+},
+"taco-226": {
+"de": "Papaya, Hawaii, roh",
+"en": "Papaya, Hawaiian, raw",
+"es": "Papaya, Hawái, cruda",
+"fr": "Papaye, Hawaï, crue",
+"it": "Papaya, Hawaii, cruda"
+},
+"taco-227": {
+"de": "Grüne Papaya, süß in Sirup, abgetropft",
+"en": "Green papaya, sweet in syrup, drained",
+"es": "Papaya verde, dulce en almíbar, escurrida",
+"fr": "Papaye verte, sucrée au sirop, égouttée",
+"it": "Papaya verde, dolce in sciroppo, scolata"
+},
+"taco-228": {
+"de": "Mango, Haden, roh",
+"en": "Mango, Haden, raw",
+"es": "Mango, Haden, crudo",
+"fr": "Mangue, Haden, crue",
+"it": "Mango, Haden, crudo"
+},
+"taco-229": {
+"de": "Mango, Palmer, roh",
+"en": "Mango, Palmer, raw",
+"es": "Mango, Palmer, crudo",
+"fr": "Mangue, Palmer, crue",
+"it": "Mango, Palmer, crudo"
+},
+"taco-23": {
+"de": "Getreide, Brei, Mais, für Kinder",
+"en": "Cereal, porridge, corn, infant",
+"es": "Cereales, papilla, maíz, infantil",
+"fr": "Céréales, bouillie, maïs, infantile",
+"it": "Cereali, farinata, mais, per l'infanzia"
+},
+"taco-230": {
+"de": "Mango, Fruchtfleisch, gefroren",
+"en": "Mango, pulp, frozen",
+"es": "Mango, pulpa, congelada",
+"fr": "Mangue, pulpe, congelée",
+"it": "Mango, polpa, congelata"
+},
+"taco-231": {
+"de": "Mango, Tommy Atkins, roh",
+"en": "Mango, Tommy Atkins, raw",
+"es": "Mango, Tommy Atkins, crudo",
+"fr": "Mangue, Tommy Atkins, crue",
+"it": "Mango, Tommy Atkins, crudo"
+},
+"taco-232": {
+"de": "Passionsfrucht, roh",
+"en": "Passion fruit, raw",
+"es": "Maracuyá, crudo",
+"fr": "Fruit de la passion, cru",
+"it": "Frutto della passione, crudo"
+},
+"taco-233": {
+"de": "Passionsfrucht, Fruchtfleisch, gefroren",
+"en": "Passion fruit, pulp, frozen",
+"es": "Maracuyá, pulpa, congelada",
+"fr": "Fruit de la passion, pulpe, congelée",
+"it": "Frutto della passione, polpa, congelata"
+},
+"taco-234": {
+"de": "Passionsfrucht, Saftkonzentrat, abgefüllt",
+"en": "Passion fruit, concentrated juice, bottled",
+"es": "Maracuyá, zumo concentrado, envasado",
+"fr": "Fruit de la passion, jus concentré, embouteillé",
+"it": "Frutto della passione, succo concentrato, imbottigliato"
+},
+"taco-235": {
+"de": "Wassermelone, roh",
+"en": "Watermelon, raw",
+"es": "Sandía, cruda",
+"fr": "Pastèque, crue",
+"it": "Anguria, cruda"
+},
+"taco-236": {
+"de": "Melone, roh",
+"en": "Melon, raw",
+"es": "Melón, crudo",
+"fr": "Melon, cru",
+"it": "Melone, crudo"
+},
+"taco-237": {
+"de": "Mandarine, Murcott, roh",
+"en": "Mandarin, Murcott, raw",
+"es": "Mandarina, Murcott, cruda",
+"fr": "Mandarine, Murcott, crue",
+"it": "Mandarino, Murcott, crudo"
+},
+"taco-238": {
+"de": "Mandarine, Rio, roh",
+"en": "Mandarin, Rio, raw",
+"es": "Mandarina, Rio, cruda",
+"fr": "Mandarine, Rio, crue",
+"it": "Mandarino, Rio, crudo"
+},
+"taco-239": {
+"de": "Erdbeere, roh",
+"en": "Strawberry, raw",
+"es": "Fresa, cruda",
+"fr": "Fraise, crue",
+"it": "Fragola, cruda"
+},
+"taco-24": {
+"de": "Getreide, Mischung für Shake, Weizen, Gerste und Hafer",
+"en": "Cereal, vitamin mix, wheat, barley and oats",
+"es": "Cereales, mezcla para batido, trigo, cebada y avena",
+"fr": "Céréales, mélange pour boisson, blé, orge et avoine",
+"it": "Cereali, miscela per frullato, grano, orzo e avena"
+},
+"taco-240": {
+"de": "Wollmispel, roh",
+"en": "Loquat, raw",
+"es": "Níspero, crudo",
+"fr": "Nèfle du Japon, crue",
+"it": "Nespola del Giappone, cruda"
+},
+"taco-241": {
+"de": "Pequi, roh",
+"en": "Pequi, raw",
+"es": "Pequi, crudo",
+"fr": "Pequi, cru",
+"it": "Pequi, crudo"
+},
+"taco-242": {
+"de": "Birne, Park, roh",
+"en": "Pear, Park, raw",
+"es": "Pera, Park, cruda",
+"fr": "Poire, Park, crue",
+"it": "Pera, Park, cruda"
+},
+"taco-243": {
+"de": "Birne, Williams, roh",
+"en": "Pear, Williams, raw",
+"es": "Pera, Williams, cruda",
+"fr": "Poire, Williams, crue",
+"it": "Pera, Williams, cruda"
+},
+"taco-244": {
+"de": "Pfirsich, Aurora, roh",
+"en": "Peach, Aurora, raw",
+"es": "Melocotón, Aurora, crudo",
+"fr": "Pêche, Aurora, crue",
+"it": "Pesca, Aurora, cruda"
+},
+"taco-245": {
+"de": "Pfirsich, aus der Dose, in Sirup",
+"en": "Peach, canned, in syrup",
+"es": "Melocotón, enlatado, en almíbar",
+"fr": "Pêche, en conserve, au sirop",
+"it": "Pesca, in scatola, sciroppata"
+},
+"taco-246": {
+"de": "Zuckerapfel, roh",
+"en": "Sugar apple, raw",
+"es": "Chirimoya, cruda",
+"fr": "Pomme cannelle, crue",
+"it": "Annona, cruda"
+},
+"taco-247": {
+"de": "Pitanga, roh",
+"en": "Pitanga, raw",
+"es": "Pitanga, cruda",
+"fr": "Pitanga, crue",
+"it": "Pitanga, cruda"
+},
+"taco-248": {
+"de": "Pitanga, Fruchtfleisch, gefroren",
+"en": "Pitanga, pulp, frozen",
+"es": "Pitanga, pulpa, congelada",
+"fr": "Pitanga, pulpe, congelée",
+"it": "Pitanga, polpa, congelata"
+},
+"taco-249": {
+"de": "Granatapfel, roh",
+"en": "Pomegranate, raw",
+"es": "Granada, cruda",
+"fr": "Grenade, crue",
+"it": "Melograno, crudo"
+},
+"taco-25": {
+"de": "Frühstückszerealien, Mais",
+"en": "Breakfast cereal, corn",
+"es": "Cereal de desayuno, maíz",
+"fr": "Céréales de petit-déjeuner, maïs",
+"it": "Cereali per la colazione, mais"
+},
+"taco-250": {
+"de": "Tamarinde, roh",
+"en": "Tamarind, raw",
+"es": "Tamarindo, crudo",
+"fr": "Tamarin, cru",
+"it": "Tamarindo, crudo"
+},
+"taco-251": {
+"de": "Mandarine, Ponkan, roh",
+"en": "Tangerine, Ponkan, raw",
+"es": "Mandarina, Ponkan, cruda",
+"fr": "Mandarine, Ponkan, crue",
+"it": "Mandarino, Ponkan, crudo"
+},
+"taco-252": {
+"de": "Mandarine, Ponkan, Saft",
+"en": "Tangerine, Ponkan, juice",
+"es": "Mandarina, Ponkan, zumo",
+"fr": "Mandarine, Ponkan, jus",
+"it": "Mandarino, Ponkan, succo"
+},
+"taco-253": {
+"de": "Tucumã, roh",
+"en": "Tucumã, raw",
+"es": "Tucumã, crudo",
+"fr": "Tucumã, cru",
+"it": "Tucumã, crudo"
+},
+"taco-254": {
+"de": "Umbu, roh",
+"en": "Umbu, raw",
+"es": "Umbú, crudo",
+"fr": "Umbu, cru",
+"it": "Umbu, crudo"
+},
+"taco-255": {
+"de": "Umbu, Fruchtfleisch, gefroren",
+"en": "Umbu, pulp, frozen",
+"es": "Umbú, pulpa, congelada",
+"fr": "Umbu, pulpe, congelée",
+"it": "Umbu, polpa, congelata"
+},
+"taco-256": {
+"de": "Traube, Italia, roh",
+"en": "Grape, Italia, raw",
+"es": "Uva, Italia, cruda",
+"fr": "Raisin, Italia, cru",
+"it": "Uva, Italia, cruda"
+},
+"taco-257": {
+"de": "Traube, Ruby, roh",
+"en": "Grape, Ruby, raw",
+"es": "Uva, Ruby, cruda",
+"fr": "Raisin, Ruby, cru",
+"it": "Uva, Ruby, cruda"
+},
+"taco-258": {
+"de": "Traube, Saftkonzentrat, abgefüllt",
+"en": "Grape, concentrated juice, bottled",
+"es": "Uva, zumo concentrado, envasado",
+"fr": "Raisin, jus concentré, embouteillé",
+"it": "Uva, succo concentrato, imbottigliato"
+},
+"taco-259": {
+"de": "Öl, Palmöl (Dendê)",
+"en": "Oil, palm (dendê)",
+"es": "Aceite, de palma (dendê)",
+"fr": "Huile, de palme (dendê)",
+"it": "Olio, di palma (dendê)"
+},
+"taco-26": {
+"de": "Frühstückszerealien, Mais, Zucker",
+"en": "Breakfast cereal, corn, sugar",
+"es": "Cereal de desayuno, maíz, azúcar",
+"fr": "Céréales de petit-déjeuner, maïs, sucre",
+"it": "Cereali per la colazione, mais, zucchero"
+},
+"taco-260": {
+"de": "Öl, Olivenöl, extra vergine",
+"en": "Oil, olive, extra virgin",
+"es": "Aceite, de oliva, extra virgen",
+"fr": "Huile, d'olive, extra vierge",
+"it": "Olio, d'oliva, extra vergine"
+},
+"taco-261": {
+"de": "Butter, gesalzen",
+"en": "Butter, salted",
+"es": "Mantequilla, salada",
+"fr": "Beurre, salé",
+"it": "Burro, salato"
+},
+"taco-262": {
+"de": "Butter, ungesalzen",
+"en": "Butter, unsalted",
+"es": "Mantequilla, sin sal",
+"fr": "Beurre, non salé",
+"it": "Burro, non salato"
+},
+"taco-263": {
+"de": "Margarine, mit gehärtetem Öl, gesalzen (65 % Fett)",
+"en": "Margarine, with hydrogenated oil, salted (65% fat)",
+"es": "Margarina, con aceite hidrogenado, salada (65% de grasa)",
+"fr": "Margarine, à l'huile hydrogénée, salée (65 % de lipides)",
+"it": "Margarina, con olio idrogenato, salata (65% di grassi)"
+},
+"taco-264": {
+"de": "Margarine, mit gehärtetem Öl, ungesalzen (80 % Fett)",
+"en": "Margarine, with hydrogenated oil, unsalted (80% fat)",
+"es": "Margarina, con aceite hidrogenado, sin sal (80% de grasa)",
+"fr": "Margarine, à l'huile hydrogénée, non salée (80 % de lipides)",
+"it": "Margarina, con olio idrogenato, non salata (80% di grassi)"
+},
+"taco-265": {
+"de": "Margarine, mit umgeestertem Öl, gesalzen (65 % Fett)",
+"en": "Margarine, with interesterified oil, salted (65% fat)",
+"es": "Margarina, con aceite interesterificado, salada (65% de grasa)",
+"fr": "Margarine, à l'huile interestérifiée, salée (65 % de lipides)",
+"it": "Margarina, con olio interesterificato, salata (65% di grassi)"
+},
+"taco-266": {
+"de": "Margarine, mit umgeestertem Öl, ungesalzen (65 % Fett)",
+"en": "Margarine, with interesterified oil, unsalted (65% fat)",
+"es": "Margarina, con aceite interesterificado, sin sal (65% de grasa)",
+"fr": "Margarine, à l'huile interestérifiée, non salée (65 % de lipides)",
+"it": "Margarina, con olio interesterificato, non salata (65% di grassi)"
+},
+"taco-267": {
+"de": "Öl, Babassu",
+"en": "Oil, babassu",
+"es": "Aceite, de babasú",
+"fr": "Huile, de babaçu",
+"it": "Olio, di babaçu"
+},
+"taco-268": {
+"de": "Öl, Raps",
+"en": "Oil, canola",
+"es": "Aceite, de canola",
+"fr": "Huile, de colza",
+"it": "Olio, di canola"
+},
+"taco-269": {
+"de": "Öl, Sonnenblume",
+"en": "Oil, sunflower",
+"es": "Aceite, de girasol",
+"fr": "Huile, de tournesol",
+"it": "Olio, di girasole"
+},
+"taco-27": {
+"de": "Reiscreme, Pulver",
+"en": "Rice cream, powder",
+"es": "Crema de arroz, polvo",
+"fr": "Crème de riz, poudre",
+"it": "Crema di riso, polvere"
+},
+"taco-270": {
+"de": "Öl, Mais",
+"en": "Oil, corn",
+"es": "Aceite, de maíz",
+"fr": "Huile, de maïs",
+"it": "Olio, di mais"
+},
+"taco-271": {
+"de": "Öl, Pequi",
+"en": "Oil, pequi",
+"es": "Aceite, de pequi",
+"fr": "Huile, de pequi",
+"it": "Olio, di pequi"
+},
+"taco-272": {
+"de": "Öl, Soja",
+"en": "Oil, soybean",
+"es": "Aceite, de soja",
+"fr": "Huile, de soja",
+"it": "Olio, di soia"
+},
+"taco-273": {
+"de": "Seelachs, Filet, gefroren, gebraten",
+"en": "Pollock, fillet, frozen, roasted",
+"es": "Abadejo, filete, congelado, asado",
+"fr": "Lieu noir, filet, congelé, rôti",
+"it": "Merluzzo carbonaro, filetto, congelato, arrosto"
+},
+"taco-274": {
+"de": "Seelachs, Filet, gefroren,gekocht",
+"en": "Pollock, fillet, frozen,cooked",
+"es": "Abadejo, filete, congelado,cocido",
+"fr": "Lieu noir, filet, congelé,cuit",
+"it": "Merluzzo carbonaro, filetto, congelato,cotto"
+},
+"taco-275": {
+"de": "Seelachs, Filet, gefroren, roh",
+"en": "Pollock, fillet, frozen, raw",
+"es": "Abadejo, filete, congelado, crudo",
+"fr": "Lieu noir, filet, congelé, cru",
+"it": "Merluzzo carbonaro, filetto, congelato, crudo"
+},
+"taco-276": {
+"de": "Seelachs, Filet, gefroren, gegrillt",
+"en": "Pollock, fillet, frozen, grilled",
+"es": "Abadejo, filete, congelado, a la plancha",
+"fr": "Lieu noir, filet, congelé, grillé",
+"it": "Merluzzo carbonaro, filetto, congelato, alla griglia"
+},
+"taco-277": {
+"de": "Thunfisch, Konserve in Öl",
+"en": "Tuna, canned in oil",
+"es": "Atún, conserva en aceite",
+"fr": "Thon, conserve à l'huile",
+"it": "Tonno, conservato in olio"
+},
+"taco-278": {
+"de": "Thunfisch, frisch, roh",
+"en": "Tuna, fresh, raw",
+"es": "Atún, fresco, crudo",
+"fr": "Thon, frais, cru",
+"it": "Tonno, fresco, crudo"
+},
+"taco-279": {
+"de": "Kabeljau, gesalzen, roh",
+"en": "Cod, salted, raw",
+"es": "Bacalao, salado, crudo",
+"fr": "Morue, salée, crue",
+"it": "Baccalà, salato, crudo"
+},
+"taco-28": {
+"de": "Maiscreme, Pulver",
+"en": "Corn cream, powder",
+"es": "Crema de maíz, polvo",
+"fr": "Crème de maïs, poudre",
+"it": "Crema di mais, polvere"
+},
+"taco-280": {
+"de": "Kabeljau, gesalzen, angebraten",
+"en": "Cod, salted, sautéed",
+"es": "Bacalao, salado, salteado",
+"fr": "Morue, salée, sautée",
+"it": "Baccalà, salato, saltato"
+},
+"taco-281": {
+"de": "Hundshai, Steak, mehliert, frittiert",
+"en": "Dogfish, steak, floured, fried",
+"es": "Cazón, rodaja, con harina de trigo, frito",
+"fr": "Émissole, darne, farinée, frite",
+"it": "Palombo, trancio, infarinato, fritto"
+},
+"taco-282": {
+"de": "Hundshai, Steak, gekocht",
+"en": "Dogfish, steak, cooked",
+"es": "Cazón, rodaja, cocido",
+"fr": "Émissole, darne, cuite",
+"it": "Palombo, trancio, cotto"
+},
+"taco-283": {
+"de": "Hundshai, Steak, roh",
+"en": "Dogfish, steak, raw",
+"es": "Cazón, rodaja, crudo",
+"fr": "Émissole, darne, crue",
+"it": "Palombo, trancio, crudo"
+},
+"taco-284": {
+"de": "Garnele, Rio Grande, groß, gekocht",
+"en": "Shrimp, Rio Grande, large, cooked",
+"es": "Camarón, Rio Grande, grande, cocido",
+"fr": "Crevette, Rio Grande, grande, cuite",
+"it": "Gambero, Rio Grande, grande, cotto"
+},
+"taco-285": {
+"de": "Garnele, Rio Grande, groß, roh",
+"en": "Shrimp, Rio Grande, large, raw",
+"es": "Camarón, Rio Grande, grande, crudo",
+"fr": "Crevette, Rio Grande, grande, crue",
+"it": "Gambero, Rio Grande, grande, crudo"
+},
+"taco-286": {
+"de": "Garnele, Siebenbart, ohne Kopf, mit Schale, frittiert",
+"en": "Shrimp, seabob, headless, with shell, fried",
+"es": "Camarón, siete barbas, sin cabeza, con caparazón, frito",
+"fr": "Crevette, sept barbes, sans tête, avec carapace, frite",
+"it": "Gambero, sete barbas, senza testa, con guscio, fritto"
+},
+"taco-287": {
+"de": "Krabbe, gekocht",
+"en": "Crab, cooked",
+"es": "Cangrejo, cocido",
+"fr": "Crabe, cuit",
+"it": "Granchio, cotto"
+},
+"taco-288": {
+"de": "Corimba, roh",
+"en": "Corimba, raw",
+"es": "Corimba, crudo",
+"fr": "Corimba, cru",
+"it": "Corimba, crudo"
+},
+"taco-289": {
+"de": "Corimbatá, gebraten",
+"en": "Corimbatá, roasted",
+"es": "Corimbatá, asado",
+"fr": "Corimbatá, rôti",
+"it": "Corimbatá, arrosto"
+},
+"taco-29": {
+"de": "Curau, grüner Mais",
+"en": "Curau, green corn",
+"es": "Curau, maíz verde",
+"fr": "Curau, maïs vert",
+"it": "Curau, mais verde"
+},
+"taco-290": {
+"de": "Corimbatá, gekocht",
+"en": "Corimbatá, cooked",
+"es": "Corimbatá, cocido",
+"fr": "Corimbatá, cuit",
+"it": "Corimbatá, cotto"
+},
+"taco-291": {
+"de": "Umberfisch, Süßwasser, roh",
+"en": "Croaker, freshwater, raw",
+"es": "Corvina, de agua dulce, cruda",
+"fr": "Corb, d'eau douce, cru",
+"it": "Corvina, d'acqua dolce, cruda"
+},
+"taco-292": {
+"de": "Umberfisch, Meer, roh",
+"en": "Croaker, sea, raw",
+"es": "Corvina, de mar, cruda",
+"fr": "Corb, de mer, cru",
+"it": "Corvina, di mare, cruda"
+},
+"taco-293": {
+"de": "Großer Umberfisch, gebraten",
+"en": "Large croaker, roasted",
+"es": "Corvina grande, asada",
+"fr": "Grand corb, rôti",
+"it": "Corvina grande, arrosto"
+},
+"taco-294": {
+"de": "Großer Umberfisch, gekocht",
+"en": "Large croaker, cooked",
+"es": "Corvina grande, cocida",
+"fr": "Grand corb, cuit",
+"it": "Corvina grande, cotta"
+},
+"taco-295": {
+"de": "Dorado, Süßwasser, frisch",
+"en": "Dorado, freshwater, fresh",
+"es": "Dorado, de agua dulce, fresco",
+"fr": "Dorade, d'eau douce, fraîche",
+"it": "Dorado, d'acqua dolce, fresco"
+},
+"taco-296": {
+"de": "Lambari, gefroren, roh",
+"en": "Lambari, frozen, raw",
+"es": "Lambari, congelado, crudo",
+"fr": "Lambari, congelé, cru",
+"it": "Lambari, congelato, crudo"
+},
+"taco-297": {
+"de": "Lambari, gefroren, frittiert",
+"en": "Lambari, frozen, fried",
+"es": "Lambari, congelado, frito",
+"fr": "Lambari, congelé, frit",
+"it": "Lambari, congelato, fritto"
+},
+"taco-298": {
+"de": "Lambari, frisch, roh",
+"en": "Lambari, fresh, raw",
+"es": "Lambari, fresco, crudo",
+"fr": "Lambari, frais, cru",
+"it": "Lambari, fresco, crudo"
+},
+"taco-299": {
+"de": "Sardelle, mit Weizenmehl, frittiert",
+"en": "Anchovy, floured, fried",
+"es": "Anchoa, enharinada, frita",
+"fr": "Anchois, fariné, frit",
+"it": "Acciuga, infarinata, fritta"
+},
+"taco-3": {
+"de": "Reis, Typ 1, gekocht",
+"en": "Rice, type 1, cooked",
+"es": "Arroz, tipo 1, cocido",
+"fr": "Riz, type 1, cuit",
+"it": "Riso, tipo 1, cotto"
+},
+"taco-30": {
+"de": "Curau, grüner Mais, Mischung",
+"en": "Curau, green corn, mix",
+"es": "Curau, maíz verde, mezcla",
+"fr": "Curau, maïs vert, préparation",
+"it": "Curau, mais verde, preparato"
+},
+"taco-300": {
+"de": "Sardelle, frittiert",
+"en": "Anchovy, fried",
+"es": "Anchoa, frita",
+"fr": "Anchois, frit",
+"it": "Acciuga, fritta"
+},
+"taco-301": {
+"de": "Seehecht, Filet, gebacken",
+"en": "Hake, fillet, baked",
+"es": "Merluza, filete, al horno",
+"fr": "Merlu, filet, cuit au four",
+"it": "Nasello, filetto, al forno"
+},
+"taco-302": {
+"de": "Seehecht, Filet, roh",
+"en": "Hake, fillet, raw",
+"es": "Merluza, filete, crudo",
+"fr": "Merlu, filet, cru",
+"it": "Nasello, filetto, crudo"
+},
+"taco-303": {
+"de": "Seehecht, Filet, frittiert",
+"en": "Hake, fillet, fried",
+"es": "Merluza, filete, frito",
+"fr": "Merlu, filet, frit",
+"it": "Nasello, filetto, fritto"
+},
+"taco-304": {
+"de": "Pescada, weiß, roh",
+"en": "Pescada, white, raw",
+"es": "Pescada, blanca, cruda",
+"fr": "Pescada, blanche, crue",
+"it": "Pescada, bianca, cruda"
+},
+"taco-305": {
+"de": "Pescada, weiß, frittiert",
+"en": "Pescada, white, fried",
+"es": "Pescada, blanca, frita",
+"fr": "Pescada, blanche, frite",
+"it": "Pescada, bianca, fritta"
+},
+"taco-306": {
+"de": "Pescada, Filet, mit Weizenmehl, frittiert",
+"en": "Pescada, fillet, floured, fried",
+"es": "Pescada, filete, enharinado, frito",
+"fr": "Pescada, filet, fariné, frit",
+"it": "Pescada, filetto, infarinato, fritto"
+},
+"taco-307": {
+"de": "Pescada, Filet, roh",
+"en": "Pescada, fillet, raw",
+"es": "Pescada, filete, crudo",
+"fr": "Pescada, filet, cru",
+"it": "Pescada, filetto, crudo"
+},
+"taco-308": {
+"de": "Pescada, Filet, frittiert",
+"en": "Pescada, fillet, fried",
+"es": "Pescada, filete, frito",
+"fr": "Pescada, filet, frit",
+"it": "Pescada, filetto, fritto"
+},
+"taco-309": {
+"de": "Pescada, Filet, Escabeche-Soße",
+"en": "Pescada, fillet, escabeche sauce",
+"es": "Pescada, filete, salsa escabeche",
+"fr": "Pescada, filet, sauce escabèche",
+"it": "Pescada, filetto, salsa in carpione"
+},
+"taco-31": {
+"de": "Mehl, Reismehl, angereichert",
+"en": "Flour, rice, enriched",
+"es": "Harina, de arroz, enriquecida",
+"fr": "Farine, de riz, enrichie",
+"it": "Farina, di riso, arricchita"
+},
+"taco-310": {
+"de": "Wittling, roh",
+"en": "Whiting, raw",
+"es": "Pescadilla, cruda",
+"fr": "Merlan, cru",
+"it": "Merlano, crudo"
+},
+"taco-311": {
+"de": "Pintado-Wels, gebraten",
+"en": "Pintado catfish, roasted",
+"es": "Bagre pintado, asado",
+"fr": "Poisson-chat pintado, rôti",
+"it": "Pesce gatto pintado, arrosto"
+},
+"taco-312": {
+"de": "Pintado-Wels, roh",
+"en": "Pintado catfish, raw",
+"es": "Bagre pintado, crudo",
+"fr": "Poisson-chat pintado, cru",
+"it": "Pesce gatto pintado, crudo"
+},
+"taco-313": {
+"de": "Pintado-Wels, gegrillt",
+"en": "Pintado catfish, grilled",
+"es": "Bagre pintado, a la plancha",
+"fr": "Poisson-chat pintado, grillé",
+"it": "Pesce gatto pintado, alla griglia"
+},
+"taco-314": {
+"de": "Porquinho, roh",
+"en": "Porquinho fish, raw",
+"es": "Porquinho, crudo",
+"fr": "Porquinho, cru",
+"it": "Porquinho, crudo"
+},
+"taco-315": {
+"de": "Lachs, Filet, mit Haut, frisch, gegrillt",
+"en": "Salmon, fillet, with skin, fresh, grilled",
+"es": "Salmón, filete, con piel, fresco, a la plancha",
+"fr": "Saumon, filet, avec peau, frais, grillé",
+"it": "Salmone, filetto, con pelle, fresco, alla griglia"
+},
+"taco-316": {
+"de": "Lachs, ohne Haut, frisch, roh",
+"en": "Salmon, skinless, fresh, raw",
+"es": "Salmón, sin piel, fresco, crudo",
+"fr": "Saumon, sans peau, frais, cru",
+"it": "Salmone, senza pelle, fresco, crudo"
+},
+"taco-317": {
+"de": "Lachs, ohne Haut, frisch, gegrillt",
+"en": "Salmon, skinless, fresh, grilled",
+"es": "Salmón, sin piel, fresco, a la plancha",
+"fr": "Saumon, sans peau, frais, grillé",
+"it": "Salmone, senza pelle, fresco, alla griglia"
+},
+"taco-318": {
+"de": "Sardine, gebraten",
+"en": "Sardine, roasted",
+"es": "Sardina, asada",
+"fr": "Sardine, rôtie",
+"it": "Sardina, arrosto"
+},
+"taco-319": {
+"de": "Sardine, in Öl aus der Dose",
+"en": "Sardine, canned in oil",
+"es": "Sardina, en conserva en aceite",
+"fr": "Sardine, en conserve à l'huile",
+"it": "Sardina, in scatola sott'olio"
+},
+"taco-32": {
+"de": "Mehl, Roggenmehl, Vollkorn",
+"en": "Flour, rye, whole grain",
+"es": "Harina, de centeno, integral",
+"fr": "Farine, de seigle, complète",
+"it": "Farina, di segale, integrale"
+},
+"taco-320": {
+"de": "Sardine, frittiert",
+"en": "Sardine, fried",
+"es": "Sardina, frita",
+"fr": "Sardine, frite",
+"it": "Sardina, fritta"
+},
+"taco-321": {
+"de": "Sardine, ganz, roh",
+"en": "Sardine, whole, raw",
+"es": "Sardina, entera, cruda",
+"fr": "Sardine, entière, crue",
+"it": "Sardina, intera, cruda"
+},
+"taco-322": {
+"de": "Tucunaré, Filet, gefroren, roh",
+"en": "Peacock bass, fillet, frozen, raw",
+"es": "Tucunaré, filete, congelado, crudo",
+"fr": "Tucunaré, filet, congelé, cru",
+"it": "Tucunaré, filetto, congelato, crudo"
+},
+"taco-323": {
+"de": "Presskochschinken",
+"en": "Pressed ham",
+"es": "Jamón prensado",
+"fr": "Jambon pressé",
+"it": "Prosciutto cotto pressato"
+},
+"taco-324": {
+"de": "Rinderbrühe, Würfel",
+"en": "Beef stock, cube",
+"es": "Caldo de carne, cubito",
+"fr": "Bouillon de bœuf, cube",
+"it": "Brodo di carne, dado"
+},
+"taco-325": {
+"de": "Hühnerbrühe, Würfel",
+"en": "Chicken stock, cube",
+"es": "Caldo de pollo, cubito",
+"fr": "Bouillon de poule, cube",
+"it": "Brodo di pollo, dado"
+},
+"taco-326": {
+"de": "Rind, Schulter, Hackfleisch, gekocht",
+"en": "Beef, chuck, ground, cooked",
+"es": "Vacuno, aguja, picado, cocido",
+"fr": "Bœuf, macreuse, haché, cuit",
+"it": "Manzo, spalla, macinato, cotto"
+},
+"taco-327": {
+"de": "Rind, Schulter, Hackfleisch, roh",
+"en": "Beef, chuck, ground, raw",
+"es": "Vacuno, aguja, picado, crudo",
+"fr": "Bœuf, macreuse, haché, cru",
+"it": "Manzo, spalla, macinato, crudo"
+},
+"taco-328": {
+"de": "Rind, Schulter, mager, gekocht",
+"en": "Beef, chuck, lean, cooked",
+"es": "Vacuno, aguja, magro, cocido",
+"fr": "Bœuf, macreuse, maigre, cuit",
+"it": "Manzo, spalla, magro, cotto"
+},
+"taco-329": {
+"de": "Rind, Schulter, mager, roh",
+"en": "Beef, chuck, lean, raw",
+"es": "Vacuno, aguja, magro, crudo",
+"fr": "Bœuf, macreuse, maigre, cru",
+"it": "Manzo, spalla, magro, crudo"
+},
+"taco-33": {
+"de": "Mehl, Maismehl, gelb",
+"en": "Flour, corn, yellow",
+"es": "Harina, de maíz, amarilla",
+"fr": "Farine, de maïs, jaune",
+"it": "Farina, di mais, gialla"
+},
+"taco-330": {
+"de": "Rind, Fleischbällchen, roh",
+"en": "Beef, meatballs, raw",
+"es": "Vacuno, albóndigas, crudas",
+"fr": "Bœuf, boulettes, crues",
+"it": "Manzo, polpette, crude"
+},
+"taco-331": {
+"de": "Rind, Fleischbällchen, frittiert",
+"en": "Beef, meatballs, fried",
+"es": "Vacuno, albóndigas, fritas",
+"fr": "Bœuf, boulettes, frites",
+"it": "Manzo, polpette, fritte"
+},
+"taco-332": {
+"de": "Rind, Pansen, gekocht",
+"en": "Beef, tripe, cooked",
+"es": "Vacuno, callos, cocidos",
+"fr": "Bœuf, tripes, cuites",
+"it": "Manzo, trippa, cotta"
+},
+"taco-333": {
+"de": "Rind, Pansen, roh",
+"en": "Beef, tripe, raw",
+"es": "Vacuno, callos, crudos",
+"fr": "Bœuf, tripes, crues",
+"it": "Manzo, trippa, cruda"
+},
+"taco-334": {
+"de": "Rind, Roastbeefdeckel, mit Fett, roh",
+"en": "Beef, sirloin cap, with fat, raw",
+"es": "Vacuno, tapa de lomo alto, con grasa, cruda",
+"fr": "Bœuf, capuchon de contre-filet, avec gras, cru",
+"it": "Manzo, copertina di controfiletto, con grasso, cruda"
+},
+"taco-335": {
+"de": "Rind, Roastbeefdeckel, mit Fett, gegrillt",
+"en": "Beef, sirloin cap, with fat, grilled",
+"es": "Vacuno, tapa de lomo alto, con grasa, a la plancha",
+"fr": "Bœuf, capuchon de contre-filet, avec gras, grillé",
+"it": "Manzo, copertina di controfiletto, con grasso, alla griglia"
+},
+"taco-336": {
+"de": "Rind, Roastbeefdeckel, mager, roh",
+"en": "Beef, sirloin cap, lean, raw",
+"es": "Vacuno, tapa de lomo alto, magra, cruda",
+"fr": "Bœuf, capuchon de contre-filet, maigre, cru",
+"it": "Manzo, copertina di controfiletto, magra, cruda"
+},
+"taco-337": {
+"de": "Rind, Roastbeefdeckel, mager, gegrillt",
+"en": "Beef, sirloin cap, lean, grilled",
+"es": "Vacuno, tapa de lomo alto, magra, a la plancha",
+"fr": "Bœuf, capuchon de contre-filet, maigre, grillé",
+"it": "Manzo, copertina di controfiletto, magra, alla griglia"
+},
+"taco-338": {
+"de": "Rind, Charque, gekocht",
+"en": "Beef, jerked (charque), cooked",
+"es": "Vacuno, charque, cocido",
+"fr": "Bœuf, charque, cuit",
+"it": "Manzo, charque, cotto"
+},
+"taco-339": {
+"de": "Rind, Charque, roh",
+"en": "Beef, jerked (charque), raw",
+"es": "Vacuno, charque, crudo",
+"fr": "Bœuf, charque, cru",
+"it": "Manzo, charque, crudo"
+},
+"taco-34": {
+"de": "Paniermehl",
+"en": "Breadcrumbs",
+"es": "Pan rallado",
+"fr": "Chapelure",
+"it": "Pangrattato"
+},
+"taco-340": {
+"de": "Rind, Roastbeef, paniert",
+"en": "Beef, sirloin, breaded cutlet",
+"es": "Vacuno, lomo alto, empanado",
+"fr": "Bœuf, contre-filet, pané",
+"it": "Manzo, controfiletto, alla milanese"
+},
+"taco-341": {
+"de": "Rind, Rippen-Roastbeef, roh",
+"en": "Beef, rib eye (short rib sirloin), raw",
+"es": "Vacuno, lomo alto de costilla, crudo",
+"fr": "Bœuf, faux-filet de côte, cru",
+"it": "Manzo, controfiletto di costola, crudo"
+},
+"taco-342": {
+"de": "Rind, Rippen-Roastbeef, gegrillt",
+"en": "Beef, rib eye (short rib sirloin), grilled",
+"es": "Vacuno, lomo alto de costilla, a la plancha",
+"fr": "Bœuf, faux-filet de côte, grillé",
+"it": "Manzo, controfiletto di costola, alla griglia"
+},
+"taco-343": {
+"de": "Rind, Roastbeef, mit Fett, roh",
+"en": "Beef, sirloin, with fat, raw",
+"es": "Vacuno, lomo alto, con grasa, crudo",
+"fr": "Bœuf, contre-filet, avec gras, cru",
+"it": "Manzo, controfiletto, con grasso, crudo"
+},
+"taco-344": {
+"de": "Rind, Roastbeef, mit Fett, gegrillt",
+"en": "Beef, sirloin, with fat, grilled",
+"es": "Vacuno, lomo alto, con grasa, a la plancha",
+"fr": "Bœuf, contre-filet, avec gras, grillé",
+"it": "Manzo, controfiletto, con grasso, alla griglia"
+},
+"taco-345": {
+"de": "Rind, Roastbeef, mager, roh",
+"en": "Beef, sirloin, lean, raw",
+"es": "Vacuno, lomo alto, magro, crudo",
+"fr": "Bœuf, contre-filet, maigre, cru",
+"it": "Manzo, controfiletto, magro, crudo"
+},
+"taco-346": {
+"de": "Rind, Roastbeef, mager, gegrillt",
+"en": "Beef, sirloin, lean, grilled",
+"es": "Vacuno, lomo alto, magro, a la plancha",
+"fr": "Bœuf, contre-filet, maigre, grillé",
+"it": "Manzo, controfiletto, magro, alla griglia"
+},
+"taco-347": {
+"de": "Rind, Rippen, gebraten",
+"en": "Beef, ribs, roasted",
+"es": "Vacuno, costillas, asadas",
+"fr": "Bœuf, côtes, rôties",
+"it": "Manzo, costine, arrosto"
+},
+"taco-348": {
+"de": "Rind, Rippen, roh",
+"en": "Beef, ribs, raw",
+"es": "Vacuno, costillas, crudas",
+"fr": "Bœuf, côtes, crues",
+"it": "Manzo, costine, crude"
+},
+"taco-349": {
+"de": "Rind, Unterschale, mager, gekocht",
+"en": "Beef, top round (coxão duro), lean, cooked",
+"es": "Vacuno, babilla, magra, cocida",
+"fr": "Bœuf, tende de tranche, maigre, cuit",
+"it": "Manzo, rotondino, magro, cotto"
+},
+"taco-35": {
+"de": "Mehl, Weizenmehl",
+"en": "Flour, wheat",
+"es": "Harina, de trigo",
+"fr": "Farine, de blé",
+"it": "Farina, di grano"
+},
+"taco-350": {
+"de": "Rind, Unterschale, mager, roh",
+"en": "Beef, top round (coxão duro), lean, raw",
+"es": "Vacuno, babilla, magra, cruda",
+"fr": "Bœuf, tende de tranche, maigre, cru",
+"it": "Manzo, rotondino, magro, crudo"
+},
+"taco-351": {
+"de": "Rind, Oberschale, mager, gekocht",
+"en": "Beef, inside round (coxão mole), lean, cooked",
+"es": "Vacuno, contra, magra, cocida",
+"fr": "Bœuf, tranche tendre, maigre, cuite",
+"it": "Manzo, fesa, magra, cotta"
+},
+"taco-352": {
+"de": "Rind, Oberschale, mager, roh",
+"en": "Beef, inside round (coxão mole), lean, raw",
+"es": "Vacuno, contra, magra, cruda",
+"fr": "Bœuf, tranche tendre, maigre, crue",
+"it": "Manzo, fesa, magra, cruda"
+},
+"taco-353": {
+"de": "Rind, Buckel (Cupim), gebraten",
+"en": "Beef, hump (cupim), roasted",
+"es": "Vacuno, cupim (giba), asado",
+"fr": "Bœuf, bosse (cupim), rôti",
+"it": "Manzo, gobba (cupim), arrosto"
+},
+"taco-354": {
+"de": "Rind, Buckel (Cupim), roh",
+"en": "Beef, hump (cupim), raw",
+"es": "Vacuno, cupim (giba), crudo",
+"fr": "Bœuf, bosse (cupim), cru",
+"it": "Manzo, gobba (cupim), crudo"
+},
+"taco-355": {
+"de": "Rind, Leber, roh",
+"en": "Beef, liver, raw",
+"es": "Vacuno, hígado, crudo",
+"fr": "Bœuf, foie, cru",
+"it": "Manzo, fegato, crudo"
+},
+"taco-356": {
+"de": "Rind, Leber, gegrillt",
+"en": "Beef, liver, grilled",
+"es": "Vacuno, hígado, a la plancha",
+"fr": "Bœuf, foie, grillé",
+"it": "Manzo, fegato, alla griglia"
+},
+"taco-357": {
+"de": "Rind, Filet, mager, roh",
+"en": "Beef, tenderloin, lean, raw",
+"es": "Vacuno, solomillo, magro, crudo",
+"fr": "Bœuf, filet, maigre, cru",
+"it": "Manzo, filetto, magro, crudo"
+},
+"taco-358": {
+"de": "Rind, Filet, mager, gegrillt",
+"en": "Beef, tenderloin, lean, grilled",
+"es": "Vacuno, solomillo, magro, a la plancha",
+"fr": "Bœuf, filet, maigre, grillé",
+"it": "Manzo, filetto, magro, alla griglia"
+},
+"taco-359": {
+"de": "Rind, Flanke, mager, gekocht",
+"en": "Beef, flank, lean, cooked",
+"es": "Vacuno, falda, magra, cocida",
+"fr": "Bœuf, bavette de flanchet, maigre, cuite",
+"it": "Manzo, pancia, magra, cotta"
+},
+"taco-36": {
+"de": "Mehl, Milchbrei, Getreide",
+"en": "Flour, milk, cereal",
+"es": "Harina, láctea, de cereales",
+"fr": "Farine, lactée, de céréales",
+"it": "Farina, lattea, di cereali"
+},
+"taco-360": {
+"de": "Rind, Flanke, mager, roh",
+"en": "Beef, flank, lean, raw",
+"es": "Vacuno, falda, magra, cruda",
+"fr": "Bœuf, bavette de flanchet, maigre, crue",
+"it": "Manzo, pancia, magra, cruda"
+},
+"taco-361": {
+"de": "Rind, Fraldinha (Flanksteak), mit Fett, gekocht",
+"en": "Beef, bottom sirloin flap (fraldinha), with fat, cooked",
+"es": "Vacuno, fraldinha (entraña de ijar), con grasa, cocida",
+"fr": "Bœuf, bavette d'aloyau (fraldinha), avec gras, cuite",
+"it": "Manzo, fraldinha, con grasso, cotta"
+},
+"taco-362": {
+"de": "Rind, Fraldinha (Flanksteak), mit Fett, roh",
+"en": "Beef, bottom sirloin flap (fraldinha), with fat, raw",
+"es": "Vacuno, fraldinha (entraña de ijar), con grasa, cruda",
+"fr": "Bœuf, bavette d'aloyau (fraldinha), avec gras, crue",
+"it": "Manzo, fraldinha, con grasso, cruda"
+},
+"taco-363": {
+"de": "Rind, Lagarto (Rindernuss), gekocht",
+"en": "Beef, eye of round (lagarto), cooked",
+"es": "Vacuno, redondo (lagarto), cocido",
+"fr": "Bœuf, rond de tranche (lagarto), cuit",
+"it": "Manzo, girello (lagarto), cotto"
+},
+"taco-364": {
+"de": "Rind, Lagarto (Rindernuss), roh",
+"en": "Beef, eye of round (lagarto), raw",
+"es": "Vacuno, redondo (lagarto), crudo",
+"fr": "Bœuf, rond de tranche (lagarto), cru",
+"it": "Manzo, girello (lagarto), crudo"
+},
+"taco-365": {
+"de": "Rind, Zunge, gekocht",
+"en": "Beef, tongue, cooked",
+"es": "Vacuno, lengua, cocida",
+"fr": "Bœuf, langue, cuite",
+"it": "Manzo, lingua, cotta"
+},
+"taco-366": {
+"de": "Rind, Zunge, roh",
+"en": "Beef, tongue, raw",
+"es": "Vacuno, lengua, cruda",
+"fr": "Bœuf, langue, crue",
+"it": "Manzo, lingua, cruda"
+},
+"taco-367": {
+"de": "Rind, Maminha (Bürgermeisterstück), roh",
+"en": "Beef, tri-tip (maminha), raw",
+"es": "Vacuno, maminha (punta de solomillo), cruda",
+"fr": "Bœuf, maminha (pointe de culotte), crue",
+"it": "Manzo, maminha (punta di lombata), cruda"
+},
+"taco-368": {
+"de": "Rind, Maminha (Bürgermeisterstück), gegrillt",
+"en": "Beef, tri-tip (maminha), grilled",
+"es": "Vacuno, maminha (punta de solomillo), a la plancha",
+"fr": "Bœuf, maminha (pointe de culotte), grillée",
+"it": "Manzo, maminha (punta di lombata), alla griglia"
+},
+"taco-369": {
+"de": "Rind, Hüftsteak-Mittelstück (Miolo de Alcatra), mager, roh",
+"en": "Beef, top sirloin center (miolo de alcatra), lean, raw",
+"es": "Vacuno, centro de cadera (miolo de alcatra), magro, crudo",
+"fr": "Bœuf, cœur de rumsteck (miolo de alcatra), maigre, cru",
+"it": "Manzo, cuore di scamone (miolo de alcatra), magro, crudo"
+},
+"taco-37": {
+"de": "Lasagne, frische Nudeln, gekocht",
+"en": "Lasagna, fresh pasta, cooked",
+"es": "Lasaña, pasta fresca, cocida",
+"fr": "Lasagnes, pâte fraîche, cuites",
+"it": "Lasagna, pasta fresca, cotta"
+},
+"taco-370": {
+"de": "Rind, Hüftsteak-Mittelstück (Miolo de Alcatra), mager, gegrillt",
+"en": "Beef, top sirloin center (miolo de alcatra), lean, grilled",
+"es": "Vacuno, centro de cadera (miolo de alcatra), magro, a la plancha",
+"fr": "Bœuf, cœur de rumsteck (miolo de alcatra), maigre, grillé",
+"it": "Manzo, cuore di scamone (miolo de alcatra), magro, alla griglia"
+},
+"taco-371": {
+"de": "Rind, Wade, mager, gekocht",
+"en": "Beef, shank (músculo), lean, cooked",
+"es": "Vacuno, morcillo, magro, cocido",
+"fr": "Bœuf, jarret, maigre, cuit",
+"it": "Manzo, muscolo, magro, cotto"
+},
+"taco-372": {
+"de": "Rind, Wade, mager, roh",
+"en": "Beef, shank (músculo), lean, raw",
+"es": "Vacuno, morcillo, magro, crudo",
+"fr": "Bœuf, jarret, maigre, cru",
+"it": "Manzo, muscolo, magro, crudo"
+},
+"taco-373": {
+"de": "Rind, Schulter, mit Fett, roh",
+"en": "Beef, chuck shoulder, with fat, raw",
+"es": "Vacuno, paleta, con grasa, cruda",
+"fr": "Bœuf, paleron, avec gras, cru",
+"it": "Manzo, spalla, con grasso, cruda"
+},
+"taco-374": {
+"de": "Rind, Schulter, mager, gekocht",
+"en": "Beef, chuck shoulder, lean, cooked",
+"es": "Vacuno, paleta, magra, cocida",
+"fr": "Bœuf, paleron, maigre, cuit",
+"it": "Manzo, spalla, magra, cotta"
+},
+"taco-375": {
+"de": "Rind, Schulter, mager, roh",
+"en": "Beef, chuck shoulder, lean, raw",
+"es": "Vacuno, paleta, magra, cruda",
+"fr": "Bœuf, paleron, maigre, cru",
+"it": "Manzo, spalla, magra, cruda"
+},
+"taco-376": {
+"de": "Rind, Nuss (Patinho), mager, roh",
+"en": "Beef, knuckle (patinho), lean, raw",
+"es": "Vacuno, redondo de ternera (patinho), magro, crudo",
+"fr": "Bœuf, noix de tranche (patinho), maigre, cru",
+"it": "Manzo, noce (patinho), magro, crudo"
+},
+"taco-377": {
+"de": "Rind, Nuss (Patinho), mager, gegrillt",
+"en": "Beef, knuckle (patinho), lean, grilled",
+"es": "Vacuno, redondo de ternera (patinho), magro, a la plancha",
+"fr": "Bœuf, noix de tranche (patinho), maigre, grillé",
+"it": "Manzo, noce (patinho), magro, alla griglia"
+},
+"taco-378": {
+"de": "Rind, Brust, mager, gekocht",
+"en": "Beef, brisket, lean, cooked",
+"es": "Vacuno, pecho, magro, cocido",
+"fr": "Bœuf, poitrine, maigre, cuit",
+"it": "Manzo, petto, magro, cotto"
+},
+"taco-379": {
+"de": "Rind, Brust, mager, roh",
+"en": "Beef, brisket, lean, raw",
+"es": "Vacuno, pecho, magro, crudo",
+"fr": "Bœuf, poitrine, maigre, cru",
+"it": "Manzo, petto, magro, crudo"
+},
+"taco-38": {
+"de": "Lasagne, frische Nudeln, roh",
+"en": "Lasagna, fresh pasta, raw",
+"es": "Lasaña, pasta fresca, cruda",
+"fr": "Lasagnes, pâte fraîche, crues",
+"it": "Lasagna, pasta fresca, cruda"
+},
+"taco-380": {
+"de": "Rind, Picanha (Hüftdeckel), mit Fett, roh",
+"en": "Beef, picanha (rump cap), with fat, raw",
+"es": "Vacuno, picanha (tapa de cuadril), con grasa, cruda",
+"fr": "Bœuf, picanha (aiguillette de rumsteck), avec gras, crue",
+"it": "Manzo, picanha (codone), con grasso, cruda"
+},
+"taco-381": {
+"de": "Rind, Picanha (Hüftdeckel), mit Fett, gegrillt",
+"en": "Beef, picanha (rump cap), with fat, grilled",
+"es": "Vacuno, picanha (tapa de cuadril), con grasa, a la plancha",
+"fr": "Bœuf, picanha (aiguillette de rumsteck), avec gras, grillée",
+"it": "Manzo, picanha (codone), con grasso, alla griglia"
+},
+"taco-382": {
+"de": "Rind, Picanha (Hüftdeckel), mager, roh",
+"en": "Beef, picanha (rump cap), lean, raw",
+"es": "Vacuno, picanha (tapa de cuadril), magra, cruda",
+"fr": "Bœuf, picanha (aiguillette de rumsteck), maigre, crue",
+"it": "Manzo, picanha (codone), magra, cruda"
+},
+"taco-383": {
+"de": "Rind, Picanha (Hüftdeckel), mager, gegrillt",
+"en": "Beef, picanha (rump cap), lean, grilled",
+"es": "Vacuno, picanha (tapa de cuadril), magra, a la plancha",
+"fr": "Bœuf, picanha (aiguillette de rumsteck), maigre, grillée",
+"it": "Manzo, picanha (codone), magra, alla griglia"
+},
+"taco-384": {
+"de": "Rind, getrocknet (Carne Seca), gekocht",
+"en": "Beef, dried (carne seca), cooked",
+"es": "Vacuno, seco (carne seca), cocido",
+"fr": "Bœuf, séché (carne seca), cuit",
+"it": "Manzo, essiccato (carne seca), cotto"
+},
+"taco-385": {
+"de": "Rind, getrocknet (Carne Seca), roh",
+"en": "Beef, dried (carne seca), raw",
+"es": "Vacuno, seco (carne seca), crudo",
+"fr": "Bœuf, séché (carne seca), cru",
+"it": "Manzo, essiccato (carne seca), crudo"
+},
+"taco-386": {
+"de": "Hähnchen-Coxinha, frittiert",
+"en": "Chicken coxinha, fried",
+"es": "Coxinha de pollo, frita",
+"fr": "Coxinha de poulet, frite",
+"it": "Coxinha di pollo, fritta"
+},
+"taco-387": {
+"de": "Krokette, Fleisch, roh",
+"en": "Croquette, meat, raw",
+"es": "Croqueta, de carne, cruda",
+"fr": "Croquette, de viande, crue",
+"it": "Crocchetta, di carne, cruda"
+},
+"taco-388": {
+"de": "Krokette, Fleisch, frittiert",
+"en": "Croquette, meat, fried",
+"es": "Croqueta, de carne, frita",
+"fr": "Croquette, de viande, frite",
+"it": "Crocchetta, di carne, fritta"
+},
+"taco-389": {
+"de": "Hähnchen-Empada, vorgekocht, gebacken",
+"en": "Chicken empada, pre-cooked, baked",
+"es": "Empanada de pollo, precocida, al horno",
+"fr": "Empada au poulet, précuite, cuite au four",
+"it": "Empada di pollo, precotta, al forno"
+},
+"taco-39": {
+"de": "Nudeln, Instant",
+"en": "Pasta, instant",
+"es": "Pasta, instantánea",
+"fr": "Pâtes, instantanées",
+"it": "Pasta, istantanea"
+},
+"taco-390": {
+"de": "Empada, Hähnchen, vorgekocht",
+"en": "Empada, chicken, pre-cooked",
+"es": "Empanada, de pollo, precocida",
+"fr": "Empada, au poulet, précuite",
+"it": "Empada, di pollo, precotta"
+},
+"taco-391": {
+"de": "Hähnchen, Flügel, mit Haut, roh",
+"en": "Chicken, wing, with skin, raw",
+"es": "Pollo, ala, con piel, cruda",
+"fr": "Poulet, aile, avec peau, crue",
+"it": "Pollo, ala, con pelle, cruda"
+},
+"taco-392": {
+"de": "Hähnchen, Freiland, ganz, mit Haut, gekocht",
+"en": "Chicken, free-range, whole, with skin, cooked",
+"es": "Pollo, de corral, entero, con piel, cocido",
+"fr": "Poulet, fermier, entier, avec peau, cuit",
+"it": "Pollo, ruspante, intero, con pelle, cotto"
+},
+"taco-393": {
+"de": "Hähnchen, Freiland, ganz, ohne Haut, gekocht",
+"en": "Chicken, free-range, whole, skinless, cooked",
+"es": "Pollo, de corral, entero, sin piel, cocido",
+"fr": "Poulet, fermier, entier, sans peau, cuit",
+"it": "Pollo, ruspante, intero, senza pelle, cotto"
+},
+"taco-394": {
+"de": "Hähnchen, Herz, roh",
+"en": "Chicken, heart, raw",
+"es": "Pollo, corazón, crudo",
+"fr": "Poulet, cœur, cru",
+"it": "Pollo, cuore, crudo"
+},
+"taco-395": {
+"de": "Hähnchen, Herz, gegrillt",
+"en": "Chicken, heart, grilled",
+"es": "Pollo, corazón, a la plancha",
+"fr": "Poulet, cœur, grillé",
+"it": "Pollo, cuore, alla griglia"
+},
+"taco-396": {
+"de": "Hähnchen, Unterkeule, mit Haut, gebraten",
+"en": "Chicken, drumstick, with skin, roasted",
+"es": "Pollo, muslo, con piel, asado",
+"fr": "Poulet, pilon, avec peau, rôti",
+"it": "Pollo, coscia, con pelle, arrosto"
+},
+"taco-397": {
+"de": "Hähnchen, Unterkeule, mit Haut, roh",
+"en": "Chicken, drumstick, with skin, raw",
+"es": "Pollo, muslo, con piel, crudo",
+"fr": "Poulet, pilon, avec peau, cru",
+"it": "Pollo, coscia, con pelle, crudo"
+},
+"taco-398": {
+"de": "Hähnchen, Unterkeule, ohne Haut, gekocht",
+"en": "Chicken, drumstick, skinless, cooked",
+"es": "Pollo, muslo, sin piel, cocido",
+"fr": "Poulet, pilon, sans peau, cuit",
+"it": "Pollo, coscia, senza pelle, cotto"
+},
+"taco-399": {
+"de": "Hähnchen, Unterkeule, ohne Haut, roh",
+"en": "Chicken, drumstick, skinless, raw",
+"es": "Pollo, muslo, sin piel, crudo",
+"fr": "Poulet, pilon, sans peau, cru",
+"it": "Pollo, coscia, senza pelle, crudo"
+},
+"taco-4": {
+"de": "Reis, Typ 1, roh",
+"en": "Rice, type 1, raw",
+"es": "Arroz, tipo 1, crudo",
+"fr": "Riz, type 1, cru",
+"it": "Riso, tipo 1, crudo"
+},
+"taco-40": {
+"de": "Nudeln, Weizen, roh",
+"en": "Pasta, wheat, raw",
+"es": "Pasta, de trigo, cruda",
+"fr": "Pâtes, blé, crues",
+"it": "Pasta, di grano, cruda"
+},
+"taco-400": {
+"de": "Hähnchen, Leber, roh",
+"en": "Chicken, liver, raw",
+"es": "Pollo, hígado, crudo",
+"fr": "Poulet, foie, cru",
+"it": "Pollo, fegato, crudo"
+},
+"taco-401": {
+"de": "Hähnchen, Filet, paniert",
+"en": "Chicken, fillet, breaded",
+"es": "Pollo, filete, empanado",
+"fr": "Poulet, filet, pané",
+"it": "Pollo, filetto, alla milanese"
+},
+"taco-402": {
+"de": "Hähnchen, ganz, mit Haut, roh",
+"en": "Chicken, whole, with skin, raw",
+"es": "Pollo, entero, con piel, crudo",
+"fr": "Poulet, entier, avec peau, cru",
+"it": "Pollo, intero, con pelle, crudo"
+},
+"taco-403": {
+"de": "Hähnchen, ganz, ohne Haut, gebraten",
+"en": "Chicken, whole, skinless, roasted",
+"es": "Pollo, entero, sin piel, asado",
+"fr": "Poulet, entier, sans peau, rôti",
+"it": "Pollo, intero, senza pelle, arrosto"
+},
+"taco-404": {
+"de": "Hähnchen, ganz, ohne Haut, gekocht",
+"en": "Chicken, whole, skinless, cooked",
+"es": "Pollo, entero, sin piel, cocido",
+"fr": "Poulet, entier, sans peau, cuit",
+"it": "Pollo, intero, senza pelle, cotto"
+},
+"taco-405": {
+"de": "Hähnchen, ganz, ohne Haut, roh",
+"en": "Chicken, whole, skinless, raw",
+"es": "Pollo, entero, sin piel, crudo",
+"fr": "Poulet, entier, sans peau, cru",
+"it": "Pollo, intero, senza pelle, crudo"
+},
+"taco-406": {
+"de": "Hähnchen, Brust, mit Haut, gebraten",
+"en": "Chicken, breast, with skin, roasted",
+"es": "Pollo, pechuga, con piel, asado",
+"fr": "Poulet, blanc, avec peau, rôti",
+"it": "Pollo, petto, con pelle, arrosto"
+},
+"taco-407": {
+"de": "Hähnchen, Brust, mit Haut, roh",
+"en": "Chicken, breast, with skin, raw",
+"es": "Pollo, pechuga, con piel, crudo",
+"fr": "Poulet, blanc, avec peau, cru",
+"it": "Pollo, petto, con pelle, crudo"
+},
+"taco-408": {
+"de": "Hähnchen, Brust, ohne Haut, gekocht",
+"en": "Chicken, breast, skinless, cooked",
+"es": "Pollo, pechuga, sin piel, cocido",
+"fr": "Poulet, blanc, sans peau, cuit",
+"it": "Pollo, petto, senza pelle, cotto"
+},
+"taco-409": {
+"de": "Hähnchen, Brust, ohne Haut, roh",
+"en": "Chicken, breast, skinless, raw",
+"es": "Pollo, pechuga, sin piel, crudo",
+"fr": "Poulet, blanc, sans peau, cru",
+"it": "Pollo, petto, senza pelle, crudo"
+},
+"taco-41": {
+"de": "Nudeln, Weizen, roh, mit Ei",
+"en": "Pasta, wheat, raw, with eggs",
+"es": "Pasta, de trigo, cruda, con huevo",
+"fr": "Pâtes, blé, crues, aux œufs",
+"it": "Pasta, di grano, cruda, all'uovo"
+},
+"taco-410": {
+"de": "Hähnchen, Brust, ohne Haut, gegrillt",
+"en": "Chicken, breast, skinless, grilled",
+"es": "Pollo, pechuga, sin piel, a la plancha",
+"fr": "Poulet, blanc, sans peau, grillé",
+"it": "Pollo, petto, senza pelle, alla griglia"
+},
+"taco-411": {
+"de": "Hähnchen, Oberschenkel, mit Haut, gebraten",
+"en": "Chicken, thigh, with skin, roasted",
+"es": "Pollo, contramuslo, con piel, asado",
+"fr": "Poulet, haut de cuisse, avec peau, rôti",
+"it": "Pollo, sovracoscia, con pelle, arrosto"
+},
+"taco-412": {
+"de": "Hähnchen, Oberschenkel, mit Haut, roh",
+"en": "Chicken, thigh, with skin, raw",
+"es": "Pollo, contramuslo, con piel, crudo",
+"fr": "Poulet, haut de cuisse, avec peau, cru",
+"it": "Pollo, sovracoscia, con pelle, crudo"
+},
+"taco-413": {
+"de": "Hähnchen, Oberschenkel, ohne Haut, gebraten",
+"en": "Chicken, thigh, skinless, roasted",
+"es": "Pollo, contramuslo, sin piel, asado",
+"fr": "Poulet, haut de cuisse, sans peau, rôti",
+"it": "Pollo, sovracoscia, senza pelle, arrosto"
+},
+"taco-414": {
+"de": "Hähnchen, Oberschenkel, ohne Haut, roh",
+"en": "Chicken, thigh, skinless, raw",
+"es": "Pollo, contramuslo, sin piel, crudo",
+"fr": "Poulet, haut de cuisse, sans peau, cru",
+"it": "Pollo, sovracoscia, senza pelle, crudo"
+},
+"taco-415": {
+"de": "Hamburger, Rind, roh",
+"en": "Hamburger, beef, raw",
+"es": "Hamburguesa, vacuno, crudo",
+"fr": "Hamburger, bœuf, cru",
+"it": "Hamburger, manzo, crudo"
+},
+"taco-416": {
+"de": "Hamburger, Rind, frittiert",
+"en": "Hamburger, beef, fried",
+"es": "Hamburguesa, vacuno, frito",
+"fr": "Hamburger, bœuf, frit",
+"it": "Hamburger, manzo, fritto"
+},
+"taco-417": {
+"de": "Hamburger, Rind, gegrillt",
+"en": "Hamburger, beef, grilled",
+"es": "Hamburguesa, vacuno, a la plancha",
+"fr": "Hamburger, bœuf, grillé",
+"it": "Hamburger, manzo, alla griglia"
+},
+"taco-418": {
+"de": "Wurst, Hähnchen, roh",
+"en": "Sausage, chicken, raw",
+"es": "Salchicha, pollo, cruda",
+"fr": "Saucisse, poulet, crue",
+"it": "Salsiccia, pollo, cruda"
+},
+"taco-419": {
+"de": "Wurst, Hähnchen, frittiert",
+"en": "Sausage, chicken, fried",
+"es": "Salchicha, pollo, frita",
+"fr": "Saucisse, poulet, frite",
+"it": "Salsiccia, pollo, fritta"
+},
+"taco-42": {
+"de": "Mais, Stärke, roh",
+"en": "Corn, starch, raw",
+"es": "Maíz, almidón, crudo",
+"fr": "Maïs, amidon, cru",
+"it": "Mais, amido, crudo"
+},
+"taco-420": {
+"de": "Wurst, Hähnchen, gegrillt",
+"en": "Sausage, chicken, grilled",
+"es": "Salchicha, pollo, a la plancha",
+"fr": "Saucisse, poulet, grillée",
+"it": "Salsiccia, pollo, alla griglia"
+},
+"taco-421": {
+"de": "Wurst, Schwein, roh",
+"en": "Sausage, pork, raw",
+"es": "Salchicha, cerdo, cruda",
+"fr": "Saucisse, porc, crue",
+"it": "Salsiccia, maiale, cruda"
+},
+"taco-422": {
+"de": "Wurst, Schwein, frittiert",
+"en": "Sausage, pork, fried",
+"es": "Salchicha, cerdo, frita",
+"fr": "Saucisse, porc, frite",
+"it": "Salsiccia, maiale, fritta"
+},
+"taco-423": {
+"de": "Wurst, Schwein, gegrillt",
+"en": "Sausage, pork, grilled",
+"es": "Salchicha, cerdo, a la plancha",
+"fr": "Saucisse, porc, grillée",
+"it": "Salsiccia, maiale, alla griglia"
+},
+"taco-424": {
+"de": "Mortadella",
+"en": "Mortadella",
+"es": "Mortadela",
+"fr": "Mortadelle",
+"it": "Mortadella"
+},
+"taco-425": {
+"de": "Pute, gefroren, gebraten",
+"en": "Turkey, frozen, roasted",
+"es": "Pavo, congelado, asado",
+"fr": "Dinde, congelée, rôtie",
+"it": "Tacchino, congelato, arrosto"
+},
+"taco-426": {
+"de": "Pute, gefroren, roh",
+"en": "Turkey, frozen, raw",
+"es": "Pavo, congelado, crudo",
+"fr": "Dinde, congelée, crue",
+"it": "Tacchino, congelato, crudo"
+},
+"taco-427": {
+"de": "Schwein, Kotelett, roh",
+"en": "Pork, chop, raw",
+"es": "Cerdo, chuleta, cruda",
+"fr": "Porc, côtelette, crue",
+"it": "Maiale, braciola, cruda"
+},
+"taco-428": {
+"de": "Schwein, Kotelett, frittiert",
+"en": "Pork, chop, fried",
+"es": "Cerdo, chuleta, frita",
+"fr": "Porc, côtelette, frite",
+"it": "Maiale, braciola, fritta"
+},
+"taco-429": {
+"de": "Schwein, Kotelett, gegrillt",
+"en": "Pork, chop, grilled",
+"es": "Cerdo, chuleta, a la plancha",
+"fr": "Porc, côtelette, grillée",
+"it": "Maiale, braciola, alla griglia"
+},
+"taco-43": {
+"de": "Mais, Maismehl (Fubá), roh",
+"en": "Corn, cornmeal (fubá), raw",
+"es": "Maíz, harina de maíz (fubá), cruda",
+"fr": "Maïs, farine de maïs (fubá), crue",
+"it": "Mais, farina di mais (fubá), cruda"
+},
+"taco-430": {
+"de": "Schwein, Rippchen, gebraten",
+"en": "Pork, ribs, roasted",
+"es": "Cerdo, costillas, asadas",
+"fr": "Porc, travers, rôti",
+"it": "Maiale, costine, arrosto"
+},
+"taco-431": {
+"de": "Schwein, Rippchen, roh",
+"en": "Pork, ribs, raw",
+"es": "Cerdo, costillas, crudas",
+"fr": "Porc, travers, crus",
+"it": "Maiale, costine, crude"
+},
+"taco-432": {
+"de": "Schwein, Lende, gebraten",
+"en": "Pork, loin, roasted",
+"es": "Cerdo, lomo, asado",
+"fr": "Porc, longe, rôtie",
+"it": "Maiale, lombata, arrosto"
+},
+"taco-433": {
+"de": "Schwein, Lende, roh",
+"en": "Pork, loin, raw",
+"es": "Cerdo, lomo, crudo",
+"fr": "Porc, longe, crue",
+"it": "Maiale, lombata, cruda"
+},
+"taco-434": {
+"de": "Schwein, Ohr, gesalzen, roh",
+"en": "Pork, ear, salted, raw",
+"es": "Cerdo, oreja, salada, cruda",
+"fr": "Porc, oreille, salée, crue",
+"it": "Maiale, orecchio, salato, crudo"
+},
+"taco-435": {
+"de": "Schwein, Keule, gebraten",
+"en": "Pork, leg, roasted",
+"es": "Cerdo, pernil, asado",
+"fr": "Porc, jambon frais, rôti",
+"it": "Maiale, coscia, arrosto"
+},
+"taco-436": {
+"de": "Schwein, Keule, roh",
+"en": "Pork, leg, raw",
+"es": "Cerdo, pernil, crudo",
+"fr": "Porc, jambon frais, cru",
+"it": "Maiale, coscia, cruda"
+},
+"taco-437": {
+"de": "Schwein, Schwanz, gesalzen, roh",
+"en": "Pork, tail, salted, raw",
+"es": "Cerdo, rabo, salado, crudo",
+"fr": "Porc, queue, salée, crue",
+"it": "Maiale, coda, salata, cruda"
+},
+"taco-438": {
+"de": "Schinken, mit Fettrand",
+"en": "Ham, with fat cap",
+"es": "Jamón cocido, con capa de grasa",
+"fr": "Jambon, avec couenne de gras",
+"it": "Prosciutto cotto, con cotenna di grasso"
+},
+"taco-439": {
+"de": "Schinken, ohne Fettrand",
+"en": "Ham, without fat cap",
+"es": "Jamón cocido, sin capa de grasa",
+"fr": "Jambon, sans couenne de gras",
+"it": "Prosciutto cotto, senza cotenna di grasso"
+},
+"taco-44": {
+"de": "Mais, Zuckermais, roh",
+"en": "Corn, sweet, raw",
+"es": "Maíz, dulce, crudo",
+"fr": "Maïs, doux, cru",
+"it": "Mais, dolce, crudo"
+},
+"taco-440": {
+"de": "Kibbeh, gebacken",
+"en": "Kibbeh, baked",
+"es": "Kibbeh, al horno",
+"fr": "Kibbeh, cuit au four",
+"it": "Kibbeh, al forno"
+},
+"taco-441": {
+"de": "Kibbeh, roh",
+"en": "Kibbeh, raw",
+"es": "Kibbeh, crudo",
+"fr": "Kibbeh, cru",
+"it": "Kibbeh, crudo"
+},
+"taco-442": {
+"de": "Kibbeh, frittiert",
+"en": "Kibbeh, fried",
+"es": "Kibbeh, frito",
+"fr": "Kibbeh, frit",
+"it": "Kibbeh, fritto"
+},
+"taco-443": {
+"de": "Salami",
+"en": "Salami",
+"es": "Salami",
+"fr": "Salami",
+"it": "Salame"
+},
+"taco-444": {
+"de": "Speck, roh",
+"en": "Bacon fat, raw",
+"es": "Tocino, crudo",
+"fr": "Lard, cru",
+"it": "Lardo, crudo"
+},
+"taco-445": {
+"de": "Speck, frittiert",
+"en": "Bacon fat, fried",
+"es": "Tocino, frito",
+"fr": "Lard, frit",
+"it": "Lardo, fritto"
+},
+"taco-446": {
+"de": "Milchgetränk, Pfirsich",
+"en": "Dairy drink, peach",
+"es": "Bebida láctea, melocotón",
+"fr": "Boisson lactée, pêche",
+"it": "Bevanda lattea, pesca"
+},
+"taco-447": {
+"de": "Sahne",
+"en": "Cream",
+"es": "Nata",
+"fr": "Crème",
+"it": "Panna"
+},
+"taco-448": {
+"de": "Joghurt, natur",
+"en": "Yogurt, plain",
+"es": "Yogur, natural",
+"fr": "Yaourt, nature",
+"it": "Yogurt, naturale"
+},
+"taco-449": {
+"de": "Joghurt, natur, fettarm",
+"en": "Yogurt, plain, nonfat",
+"es": "Yogur, natural, desnatado",
+"fr": "Yaourt, nature, écrémé",
+"it": "Yogurt, naturale, scremato"
+},
+"taco-45": {
+"de": "Mais, Zuckermais, aus der Dose, abgetropft",
+"en": "Corn, sweet, canned, drained",
+"es": "Maíz, dulce, enlatado, escurrido",
+"fr": "Maïs, doux, en conserve, égoutté",
+"it": "Mais, dolce, in scatola, scolato"
+},
+"taco-451": {
+"de": "Joghurt, Erdbeergeschmack",
+"en": "Yogurt, strawberry flavor",
+"es": "Yogur, sabor fresa",
+"fr": "Yaourt, saveur fraise",
+"it": "Yogurt, gusto fragola"
+},
+"taco-452": {
+"de": "Joghurt, Pfirsichgeschmack",
+"en": "Yogurt, peach flavor",
+"es": "Yogur, sabor melocotón",
+"fr": "Yaourt, saveur pêche",
+"it": "Yogurt, gusto pesca"
+},
+"taco-453": {
+"de": "Milch, Kondensmilch",
+"en": "Milk, condensed",
+"es": "Leche, condensada",
+"fr": "Lait, concentré sucré",
+"it": "Latte, condensato"
+},
+"taco-454": {
+"de": "Milch, Ziege",
+"en": "Milk, goat",
+"es": "Leche, de cabra",
+"fr": "Lait, de chèvre",
+"it": "Latte, di capra"
+},
+"taco-455": {
+"de": "Milch, Kuh, Schokolade",
+"en": "Milk, cow, chocolate",
+"es": "Leche, de vaca, con chocolate",
+"fr": "Lait, de vache, chocolaté",
+"it": "Latte, di mucca, al cioccolato"
+},
+"taco-456": {
+"de": "Milch, Kuh, entrahmt, Pulver",
+"en": "Milk, cow, skim, powder",
+"es": "Leche, de vaca, desnatada, en polvo",
+"fr": "Lait, de vache, écrémé, en poudre",
+"it": "Latte, di mucca, scremato, in polvere"
+},
+"taco-459": {
+"de": "Milch, Kuh, Vollmilch, Pulver",
+"en": "Milk, cow, whole, powder",
+"es": "Leche, de vaca, entera, en polvo",
+"fr": "Lait, de vache, entier, en poudre",
+"it": "Latte, di mucca, intero, in polvere"
+},
+"taco-46": {
+"de": "Traditioneller Brei, Pulver",
+"en": "Traditional porridge, powder",
+"es": "Papilla tradicional, en polvo",
+"fr": "Bouillie traditionnelle, en poudre",
+"it": "Porridge tradizionale, in polvere"
+},
+"taco-460": {
+"de": "Milch, fermentiert",
+"en": "Milk, fermented",
+"es": "Leche, fermentada",
+"fr": "Lait, fermenté",
+"it": "Latte, fermentato"
+},
+"taco-461": {
+"de": "Käse, Minas, frisch",
+"en": "Cheese, Minas, fresh",
+"es": "Queso, Minas, fresco",
+"fr": "Fromage, Minas, frais",
+"it": "Formaggio, Minas, fresco"
+},
+"taco-462": {
+"de": "Käse, Minas, halbfest gereift",
+"en": "Cheese, Minas, semi-cured",
+"es": "Queso, Minas, semicurado",
+"fr": "Fromage, Minas, demi-affiné",
+"it": "Formaggio, Minas, semi-stagionato"
+},
+"taco-463": {
+"de": "Käse, Mozzarella",
+"en": "Cheese, mozzarella",
+"es": "Queso, mozzarella",
+"fr": "Fromage, mozzarella",
+"it": "Formaggio, mozzarella"
+},
+"taco-464": {
+"de": "Käse, Parmesan",
+"en": "Cheese, Parmesan",
+"es": "Queso, parmesano",
+"fr": "Fromage, parmesan",
+"it": "Formaggio, parmigiano"
+},
+"taco-465": {
+"de": "Käse, pasteurisiert",
+"en": "Cheese, processed",
+"es": "Queso, pasteurizado",
+"fr": "Fromage, pasteurisé",
+"it": "Formaggio, pastorizzato"
+},
+"taco-466": {
+"de": "Käse, Petit Suisse, Erdbeere",
+"en": "Cheese, petit suisse, strawberry",
+"es": "Queso, petit suisse, fresa",
+"fr": "Fromage, petit suisse, fraise",
+"it": "Formaggio, petit suisse, fragola"
+},
+"taco-467": {
+"de": "Käse, Prato",
+"en": "Cheese, prato",
+"es": "Queso, prato",
+"fr": "Fromage, prato",
+"it": "Formaggio, prato"
+},
+"taco-468": {
+"de": "Käse, Requeijão, cremig",
+"en": "Cheese, requeijão, creamy",
+"es": "Queso, requesón, cremoso",
+"fr": "Fromage, requeijão, crémeux",
+"it": "Formaggio, requeijão, cremoso"
+},
+"taco-469": {
+"de": "Käse, Ricotta",
+"en": "Cheese, ricotta",
+"es": "Queso, ricota",
+"fr": "Fromage, ricotta",
+"it": "Formaggio, ricotta"
+},
+"taco-47": {
+"de": "Pamonha, Riegel zum Kochen, vorgegart",
+"en": "Pamonha, bar for cooking, pre-cooked",
+"es": "Pamonha, barra para cocinar, precocida",
+"fr": "Pamonha, barre à cuire, précuite",
+"it": "Pamonha, barra da cuocere, precotta"
+},
+"taco-470": {
+"de": "Isotonisches Getränk, verschiedene Geschmacksrichtungen",
+"en": "Sports drink, various flavors",
+"es": "Bebida isotónica, sabores variados",
+"fr": "Boisson isotonique, parfums variés",
+"it": "Bevanda isotonica, gusti vari"
+},
+"taco-471": {
+"de": "Kaffee, Aufguss 10%",
+"en": "Coffee, infusion 10%",
+"es": "Café, infusión 10%",
+"fr": "Café, infusion 10%",
+"it": "Caffè, infusione 10%"
+},
+"taco-473": {
+"de": "Zuckerrohr, Saft",
+"en": "Sugarcane, juice",
+"es": "Caña de azúcar, jugo",
+"fr": "Canne à sucre, jus",
+"it": "Canna da zucchero, succo"
+},
+"taco-474": {
+"de": "Bier, Pilsner 2",
+"en": "Beer, pilsner 2",
+"es": "Cerveza, pilsner 2",
+"fr": "Bière, pilsner 2",
+"it": "Birra, pilsner 2"
+},
+"taco-475": {
+"de": "Tee, Fenchel, Aufguss 5%",
+"en": "Tea, fennel, infusion 5%",
+"es": "Té, hinojo, infusión 5%",
+"fr": "Thé, fenouil, infusion 5%",
+"it": "Tè, finocchio, infusione 5%"
+},
+"taco-476": {
+"de": "Tee, Mate, Aufguss 5%",
+"en": "Tea, mate, infusion 5%",
+"es": "Té, mate, infusión 5%",
+"fr": "Thé, maté, infusion 5%",
+"it": "Tè, mate, infusione 5%"
+},
+"taco-477": {
+"de": "Tee, schwarz, Aufguss 5%",
+"en": "Tea, black, infusion 5%",
+"es": "Té, negro, infusión 5%",
+"fr": "Thé, noir, infusion 5%",
+"it": "Tè, nero, infusione 5%"
+},
+"taco-478": {
+"de": "Kokosnuss, Wasser",
+"en": "Coconut, water",
+"es": "Coco, agua",
+"fr": "Noix de coco, eau",
+"it": "Cocco, acqua"
+},
+"taco-479": {
+"de": "Limonade, Tonic-Water-Typ",
+"en": "Soft drink, tonic water type",
+"es": "Refresco, tipo agua tónica",
+"fr": "Soda, type eau tonique",
+"it": "Bibita gassata, tipo acqua tonica"
+},
+"taco-48": {
+"de": "Brot, Hafer, Kastenbrot",
+"en": "Bread, oat, loaf",
+"es": "Pan, avena, de molde",
+"fr": "Pain, avoine, de mie",
+"it": "Pane, avena, in cassetta"
+},
+"taco-480": {
+"de": "Limonade, Cola-Typ",
+"en": "Soft drink, cola type",
+"es": "Refresco, tipo cola",
+"fr": "Soda, type cola",
+"it": "Bibita gassata, tipo cola"
+},
+"taco-481": {
+"de": "Limonade, Guaraná-Typ",
+"en": "Soft drink, guaraná type",
+"es": "Refresco, tipo guaraná",
+"fr": "Soda, type guaraná",
+"it": "Bibita gassata, tipo guaraná"
+},
+"taco-482": {
+"de": "Limonade, Orangen-Typ",
+"en": "Soft drink, orange type",
+"es": "Refresco, tipo naranja",
+"fr": "Soda, type orange",
+"it": "Bibita gassata, tipo arancia"
+},
+"taco-483": {
+"de": "Limonade, Zitronen-Typ",
+"en": "Soft drink, lemon type",
+"es": "Refresco, tipo limón",
+"fr": "Soda, type citron",
+"it": "Bibita gassata, tipo limone"
+},
+"taco-484": {
+"de": "Omelett, Käse",
+"en": "Omelet, cheese",
+"es": "Tortilla, de queso",
+"fr": "Omelette, au fromage",
+"it": "Omelette, al formaggio"
+},
+"taco-485": {
+"de": "Ei, Wachtel, ganz, roh",
+"en": "Egg, quail, whole, raw",
+"es": "Huevo, de codorniz, entero, crudo",
+"fr": "Œuf, de caille, entier, cru",
+"it": "Uovo, di quaglia, intero, crudo"
+},
+"taco-486": {
+"de": "Ei, Huhn, Eiweiß, gekocht/10 Minuten",
+"en": "Egg, chicken, white, cooked/10 minutes",
+"es": "Huevo, de gallina, clara, cocida/10 minutos",
+"fr": "Œuf, de poule, blanc, cuit/10 minutes",
+"it": "Uovo, di gallina, albume, cotto/10 minuti"
+},
+"taco-487": {
+"de": "Ei, Huhn, Eigelb, gekocht/10 Minuten",
+"en": "Egg, chicken, yolk, cooked/10 minutes",
+"es": "Huevo, de gallina, yema, cocida/10 minutos",
+"fr": "Œuf, de poule, jaune, cuit/10 minutes",
+"it": "Uovo, di gallina, tuorlo, cotto/10 minuti"
+},
+"taco-488": {
+"de": "Ei, Huhn, ganz, gekocht/10 Minuten",
+"en": "Egg, chicken, whole, cooked/10 minutes",
+"es": "Huevo, de gallina, entero, cocido/10 minutos",
+"fr": "Œuf, de poule, entier, cuit/10 minutes",
+"it": "Uovo, di gallina, intero, cotto/10 minuti"
+},
+"taco-489": {
+"de": "Ei, Huhn, ganz, roh",
+"en": "Egg, chicken, whole, raw",
+"es": "Huevo, de gallina, entero, crudo",
+"fr": "Œuf, de poule, entier, cru",
+"it": "Uovo, di gallina, intero, crudo"
+},
+"taco-49": {
+"de": "Brot, Soja",
+"en": "Bread, soy",
+"es": "Pan, de soja",
+"fr": "Pain, au soja",
+"it": "Pane, di soia"
+},
+"taco-490": {
+"de": "Ei, Huhn, ganz, frittiert",
+"en": "Egg, chicken, whole, fried",
+"es": "Huevo, de gallina, entero, frito",
+"fr": "Œuf, de poule, entier, frit",
+"it": "Uovo, di gallina, intero, fritto"
+},
+"taco-491": {
+"de": "Schokoladengetränk, Pulver",
+"en": "Chocolate drink mix, powder",
+"es": "Bebida de chocolate, polvo",
+"fr": "Boisson chocolatée, poudre",
+"it": "Bevanda al cioccolato, polvere"
+},
+"taco-492": {
+"de": "Zucker, Kristall",
+"en": "Sugar, crystal",
+"es": "Azúcar, cristal",
+"fr": "Sucre, cristal",
+"it": "Zucchero, cristallino"
+},
+"taco-493": {
+"de": "Zucker, Vollrohrzucker (Mascavo)",
+"en": "Sugar, brown (mascavo)",
+"es": "Azúcar, moreno integral (mascavo)",
+"fr": "Sucre, brut (mascavo)",
+"it": "Zucchero, di canna integrale (mascavo)"
+},
+"taco-494": {
+"de": "Zucker, raffiniert",
+"en": "Sugar, refined",
+"es": "Azúcar, refinado",
+"fr": "Sucre, raffiné",
+"it": "Zucchero, raffinato"
+},
+"taco-495": {
+"de": "Schokolade, Vollmilch",
+"en": "Chocolate, milk",
+"es": "Chocolate, con leche",
+"fr": "Chocolat, au lait",
+"it": "Cioccolato, al latte"
+},
+"taco-496": {
+"de": "Schokolade, Vollmilch, mit Paranüssen",
+"en": "Chocolate, milk, with Brazil nuts",
+"es": "Chocolate, con leche, con nueces de Brasil",
+"fr": "Chocolat, au lait, avec noix du Brésil",
+"it": "Cioccolato, al latte, con noci del Brasile"
+},
+"taco-497": {
+"de": "Schokolade, Vollmilch, diätetisch",
+"en": "Chocolate, milk, diet",
+"es": "Chocolate, con leche, dietético",
+"fr": "Chocolat, au lait, diététique",
+"it": "Cioccolato, al latte, dietetico"
+},
+"taco-498": {
+"de": "Schokolade, halbbitter",
+"en": "Chocolate, semisweet",
+"es": "Chocolate, semiamargo",
+"fr": "Chocolat, mi-amer",
+"it": "Cioccolato, fondente"
+},
+"taco-499": {
+"de": "Cocada, weiß",
+"en": "Cocada, white",
+"es": "Cocada, blanca",
+"fr": "Cocada, blanche",
+"it": "Cocada, bianca"
+},
+"taco-5": {
+"de": "Reis, Typ 2, gekocht",
+"en": "Rice, type 2, cooked",
+"es": "Arroz, tipo 2, cocido",
+"fr": "Riz, type 2, cuit",
+"it": "Riso, tipo 2, cotto"
+},
+"taco-50": {
+"de": "Brot, Gluten, Kastenbrot",
+"en": "Bread, gluten, loaf",
+"es": "Pan, gluten, de molde",
+"fr": "Pain, gluten, de mie",
+"it": "Pane, glutine, in cassetta"
+},
+"taco-500": {
+"de": "Süßspeise, Kürbis, cremig",
+"en": "Sweet, pumpkin, creamy",
+"es": "Dulce, de calabaza, cremoso",
+"fr": "Confiserie, de potiron, crémeuse",
+"it": "Dolce, di zucca, cremoso"
+},
+"taco-501": {
+"de": "Süßspeise, Milch (Doce de Leite), cremig",
+"en": "Sweet, milk (doce de leite), creamy",
+"es": "Dulce, de leche, cremoso",
+"fr": "Confiserie, de lait (doce de leite), crémeuse",
+"it": "Dolce, di latte (doce de leite), cremoso"
+},
+"taco-502": {
+"de": "Gelee, Mocotó, natur",
+"en": "Jelly, mocotó, plain",
+"es": "Jalea, mocotó, natural",
+"fr": "Gelée, mocotó, nature",
+"it": "Gelatina, mocotó, naturale"
+},
+"taco-503": {
+"de": "Maisglukose",
+"en": "Corn glucose",
+"es": "Glucosa de maíz",
+"fr": "Glucose de maïs",
+"it": "Glucosio di mais"
+},
+"taco-504": {
+"de": "Maria mole",
+"en": "Maria mole",
+"es": "Maria mole",
+"fr": "Maria mole",
+"it": "Maria mole"
+},
+"taco-505": {
+"de": "Maria mole, geröstete Kokosnuss",
+"en": "Maria mole, toasted coconut",
+"es": "Maria mole, coco tostado",
+"fr": "Maria mole, noix de coco grillée",
+"it": "Maria mole, cocco tostato"
+},
+"taco-506": {
+"de": "Quittenmarmelade",
+"en": "Quince paste",
+"es": "Dulce de membrillo",
+"fr": "Pâte de coing",
+"it": "Cotognata"
+},
+"taco-507": {
+"de": "Honig, Bienenhonig",
+"en": "Honey, bee",
+"es": "Miel, de abeja",
+"fr": "Miel, d'abeille",
+"it": "Miele, d'api"
+},
+"taco-508": {
+"de": "Melasse",
+"en": "Molasses",
+"es": "Melaza",
+"fr": "Mélasse",
+"it": "Melassa"
+},
+"taco-509": {
+"de": "Quindim",
+"en": "Quindim",
+"es": "Quindim",
+"fr": "Quindim",
+"it": "Quindim"
+},
+"taco-51": {
+"de": "Brot, Mais, Kastenbrot",
+"en": "Bread, corn, loaf",
+"es": "Pan, maíz, de molde",
+"fr": "Pain, maïs, de mie",
+"it": "Pane, mais, in cassetta"
+},
+"taco-510": {
+"de": "Rapadura",
+"en": "Rapadura",
+"es": "Rapadura",
+"fr": "Rapadura",
+"it": "Rapadura"
+},
+"taco-511": {
+"de": "Kaffee, Pulver, geröstet",
+"en": "Coffee, powder, roasted",
+"es": "Café, polvo, tostado",
+"fr": "Café, poudre, torréfié",
+"it": "Caffè, polvere, tostato"
+},
+"taco-512": {
+"de": "Cappuccino, Pulver",
+"en": "Cappuccino, powder",
+"es": "Capuchino, polvo",
+"fr": "Cappuccino, poudre",
+"it": "Cappuccino, polvere"
+},
+"taco-513": {
+"de": "Backpulver, chemisch",
+"en": "Baking powder, chemical",
+"es": "Levadura en polvo, química",
+"fr": "Levure chimique, en poudre",
+"it": "Lievito in polvere, chimico"
+},
+"taco-514": {
+"de": "Hefe, biologisch, Bäckerhefe, Würfel",
+"en": "Yeast, biological, baker's, cake",
+"es": "Levadura, biológica, de panadería, pastilla",
+"fr": "Levure, biologique, de boulanger, pain",
+"it": "Lievito, biologico, di birra, panetto"
+},
+"taco-515": {
+"de": "Gelatine, verschiedene Geschmacksrichtungen, Pulver",
+"en": "Gelatin, assorted flavors, powder",
+"es": "Gelatina, sabores variados, en polvo",
+"fr": "Gélatine, parfums variés, en poudre",
+"it": "Gelatina, gusti vari, in polvere"
+},
+"taco-518": {
+"de": "Shoyu",
+"en": "Shoyu",
+"es": "Shoyu",
+"fr": "Shoyu",
+"it": "Shoyu"
+},
+"taco-519": {
+"de": "Gewürz auf Salzbasis",
+"en": "Salt-based seasoning",
+"es": "Condimento a base de sal",
+"fr": "Assaisonnement à base de sel",
+"it": "Condimento a base di sale"
+},
+"taco-52": {
+"de": "Brot, Weizen, Kastenbrot, Vollkorn",
+"en": "Bread, wheat, loaf, whole grain",
+"es": "Pan, trigo, de molde, integral",
+"fr": "Pain, blé, de mie, complet",
+"it": "Pane, grano, in cassetta, integrale"
+},
+"taco-520": {
+"de": "Olive, schwarz, eingelegt",
+"en": "Olive, black, preserved",
+"es": "Aceituna, negra, en conserva",
+"fr": "Olive, noire, en conserve",
+"it": "Oliva, nera, in conserva"
+},
+"taco-521": {
+"de": "Olive, grün, eingelegt",
+"en": "Olive, green, preserved",
+"es": "Aceituna, verde, en conserva",
+"fr": "Olive, verte, en conserve",
+"it": "Oliva, verde, in conserva"
+},
+"taco-522": {
+"de": "Schlagsahne, Spray, mit Pflanzenfett",
+"en": "Whipped cream, spray, with vegetable fat",
+"es": "Nata montada, spray, con grasa vegetal",
+"fr": "Chantilly, spray, avec matière grasse végétale",
+"it": "Panna montata, spray, con grasso vegetale"
+},
+"taco-523": {
+"de": "Milch, Kokos",
+"en": "Milk, coconut",
+"es": "Leche, de coco",
+"fr": "Lait, de coco",
+"it": "Latte, di cocco"
+},
+"taco-524": {
+"de": "Mayonnaise, traditionell mit Ei",
+"en": "Mayonnaise, traditional with eggs",
+"es": "Mayonesa, tradicional con huevo",
+"fr": "Mayonnaise, traditionnelle aux œufs",
+"it": "Maionese, tradizionale con uova"
+},
+"taco-525": {
+"de": "Acarajé",
+"en": "Acarajé",
+"es": "Acarajé",
+"fr": "Acarajé",
+"it": "Acarajé"
+},
+"taco-526": {
+"de": "Arroz carreteiro",
+"en": "Arroz carreteiro",
+"es": "Arroz carreteiro",
+"fr": "Arroz carreteiro",
+"it": "Arroz carreteiro"
+},
+"taco-527": {
+"de": "Baião de dois, Reis und Augenbohnen",
+"en": "Baião de dois, rice and black-eyed peas",
+"es": "Baião de dois, arroz y frijoles caupí",
+"fr": "Baião de dois, riz et haricots dolique",
+"it": "Baião de dois, riso e fagioli dall'occhio"
+},
+"taco-528": {
+"de": "Barreado",
+"en": "Barreado",
+"es": "Barreado",
+"fr": "Barreado",
+"it": "Barreado"
+},
+"taco-529": {
+"de": "Steak mit Spiegelei, mit Roastbeef",
+"en": "Steak with fried egg, with sirloin",
+"es": "Bistec a caballo, con lomo alto",
+"fr": "Steak à cheval, avec contre-filet",
+"it": "Bistecca con uovo fritto, con controfiletto"
+},
+"taco-53": {
+"de": "Brot, Weizen, Franzbrötchen",
+"en": "Bread, wheat, French roll",
+"es": "Pan, trigo, francés",
+"fr": "Pain, blé, français",
+"it": "Pane, grano, francese"
+},
+"taco-530": {
+"de": "Reisbällchen",
+"en": "Rice fritter",
+"es": "Buñuelo de arroz",
+"fr": "Beignet de riz",
+"it": "Frittella di riso"
+},
+"taco-531": {
+"de": "Garnelen nach Bahia-Art",
+"en": "Shrimp Bahia style",
+"es": "Camarones a la bahiana",
+"fr": "Crevettes à la bahianaise",
+"it": "Gamberi alla bahiana"
+},
+"taco-532": {
+"de": "Kohlroulade",
+"en": "Cabbage roll",
+"es": "Rollito de repollo",
+"fr": "Chou farci",
+"it": "Involtino di cavolo"
+},
+"taco-533": {
+"de": "Couscous, Mais, mit Salz gekocht",
+"en": "Couscous, corn, cooked with salt",
+"es": "Cuscús, de maíz, cocido con sal",
+"fr": "Couscous, de maïs, cuit avec sel",
+"it": "Cuscus, di mais, cotto con sale"
+},
+"taco-534": {
+"de": "Couscous, Paulista",
+"en": "Couscous, paulista",
+"es": "Cuscús, paulista",
+"fr": "Couscous, paulista",
+"it": "Cuscus, paulista"
+},
+"taco-535": {
+"de": "Cuxá, Sauce",
+"en": "Cuxá, sauce",
+"es": "Cuxá, salsa",
+"fr": "Cuxá, sauce",
+"it": "Cuxá, salsa"
+},
+"taco-536": {
+"de": "Dobradinha (Kuttelneintopf)",
+"en": "Dobradinha (tripe stew)",
+"es": "Dobradinha (guiso de callos)",
+"fr": "Dobradinha (ragoût de tripes)",
+"it": "Dobradinha (stufato di trippa)"
+},
+"taco-537": {
+"de": "Rindfleisch-Stroganoff",
+"en": "Beef stroganoff",
+"es": "Estrogonofe de carne",
+"fr": "Bœuf stroganoff",
+"it": "Stroganoff di manzo"
+},
+"taco-538": {
+"de": "Hähnchen-Stroganoff",
+"en": "Chicken stroganoff",
+"es": "Estrogonofe de pollo",
+"fr": "Poulet stroganoff",
+"it": "Stroganoff di pollo"
+},
+"taco-539": {
+"de": "Feijão tropeiro mineiro",
+"en": "Feijão tropeiro mineiro",
+"es": "Feijão tropeiro mineiro",
+"fr": "Feijão tropeiro mineiro",
+"it": "Feijão tropeiro mineiro"
+},
+"taco-54": {
+"de": "Brot, Weizen, geknetet",
+"en": "Bread, wheat, kneaded",
+"es": "Pan, trigo, amasado",
+"fr": "Pain, blé, pétri",
+"it": "Pane, grano, impastato"
+},
+"taco-540": {
+"de": "Feijoada",
+"en": "Feijoada",
+"es": "Feijoada",
+"fr": "Feijoada",
+"it": "Feijoada"
+},
+"taco-541": {
+"de": "Hähnchen, mit Safran",
+"en": "Chicken, with saffron",
+"es": "Pollo, con azafrán",
+"fr": "Poulet, au safran",
+"it": "Pollo, con zafferano"
+},
+"taco-542": {
+"de": "Nudeln, Bolognese-Soße",
+"en": "Pasta, bolognese sauce",
+"es": "Pasta, salsa boloñesa",
+"fr": "Pâtes, sauce bolognaise",
+"it": "Pasta, ragù alla bolognese"
+},
+"taco-543": {
+"de": "Maniçoba",
+"en": "Maniçoba",
+"es": "Maniçoba",
+"fr": "Maniçoba",
+"it": "Maniçoba"
+},
+"taco-544": {
+"de": "Quibebe",
+"en": "Quibebe",
+"es": "Quibebe",
+"fr": "Quibebe",
+"it": "Quibebe"
+},
+"taco-545": {
+"de": "Salat, Gemüse, mit Mayonnaise",
+"en": "Salad, vegetable, with mayonnaise",
+"es": "Ensalada, de verduras, con mayonesa",
+"fr": "Salade, de légumes, à la mayonnaise",
+"it": "Insalata, di verdure, con maionese"
+},
+"taco-546": {
+"de": "Salat, Gemüse, gedämpft",
+"en": "Salad, vegetable, steamed",
+"es": "Ensalada, de verduras, cocida al vapor",
+"fr": "Salade, de légumes, cuite à la vapeur",
+"it": "Insalata, di verdure, cotta al vapore"
+},
+"taco-547": {
+"de": "Salpicão, Hähnchen",
+"en": "Salpicão, chicken",
+"es": "Salpicão, de pollo",
+"fr": "Salpicão, de poulet",
+"it": "Salpicão, di pollo"
+},
+"taco-548": {
+"de": "Sarapatel",
+"en": "Sarapatel",
+"es": "Sarapatel",
+"fr": "Sarapatel",
+"it": "Sarapatel"
+},
+"taco-549": {
+"de": "Tabouleh",
+"en": "Tabbouleh",
+"es": "Tabulé",
+"fr": "Taboulé",
+"it": "Tabbouleh"
+},
+"taco-55": {
+"de": "Pastel, Fleisch, roh",
+"en": "Pastel, meat, raw",
+"es": "Pastel, de carne, crudo",
+"fr": "Pastel, à la viande, cru",
+"it": "Pastel, di carne, crudo"
+},
+"taco-550": {
+"de": "Tacacá",
+"en": "Tacacá",
+"es": "Tacacá",
+"fr": "Tacacá",
+"it": "Tacacá"
+},
+"taco-551": {
+"de": "Tapioka, mit Butter",
+"en": "Tapioca, with butter",
+"es": "Tapioca, con mantequilla",
+"fr": "Tapioca, au beurre",
+"it": "Tapioca, con burro"
+},
+"taco-552": {
+"de": "Tucupi, mit Chili (Pimenta-de-cheiro)",
+"en": "Tucupi, with chili pepper (pimenta-de-cheiro)",
+"es": "Tucupí, con ají (pimenta-de-cheiro)",
+"fr": "Tucupi, avec piment (pimenta-de-cheiro)",
+"it": "Tucupi, con peperoncino (pimenta-de-cheiro)"
+},
+"taco-553": {
+"de": "Vaca atolada",
+"en": "Vaca atolada",
+"es": "Vaca atolada",
+"fr": "Vaca atolada",
+"it": "Vaca atolada"
+},
+"taco-554": {
+"de": "Vatapá",
+"en": "Vatapá",
+"es": "Vatapá",
+"fr": "Vatapá",
+"it": "Vatapá"
+},
+"taco-555": {
+"de": "Virado à paulista",
+"en": "Virado à paulista",
+"es": "Virado à paulista",
+"fr": "Virado à paulista",
+"it": "Virado à paulista"
+},
+"taco-556": {
+"de": "Yakisoba",
+"en": "Yakisoba",
+"es": "Yakisoba",
+"fr": "Yakisoba",
+"it": "Yakisoba"
+},
+"taco-557": {
+"de": "Erdnuss, Kern, roh",
+"en": "Peanut, kernel, raw",
+"es": "Cacahuete, grano, crudo",
+"fr": "Cacahuète, graine, crue",
+"it": "Arachide, seme, cruda"
+},
+"taco-558": {
+"de": "Erdnuss, geröstet, gesalzen",
+"en": "Peanut, roasted, salted",
+"es": "Cacahuete, tostado, salado",
+"fr": "Cacahuète, grillée, salée",
+"it": "Arachide, tostata, salata"
+},
+"taco-559": {
+"de": "Erbse, in der Schote",
+"en": "Pea, in pod",
+"es": "Guisante, en vaina",
+"fr": "Pois, en cosse",
+"it": "Pisello, in baccello"
+},
+"taco-56": {
+"de": "Pastel, Fleisch, frittiert",
+"en": "Pastel, meat, fried",
+"es": "Pastel, de carne, frito",
+"fr": "Pastel, à la viande, frit",
+"it": "Pastel, di carne, fritto"
+},
+"taco-560": {
+"de": "Erbse, aus der Dose, abgetropft",
+"en": "Pea, canned, drained",
+"es": "Guisante, enlatado, escurrido",
+"fr": "Pois, en conserve, égouttés",
+"it": "Pisello, in scatola, scolato"
+},
+"taco-561": {
+"de": "Bohnen, Carioca, gekocht",
+"en": "Beans, carioca, cooked",
+"es": "Frijoles, carioca, cocidos",
+"fr": "Haricots, carioca, cuits",
+"it": "Fagioli, carioca, cotti"
+},
+"taco-562": {
+"de": "Bohnen, Carioca, roh",
+"en": "Beans, carioca, raw",
+"es": "Frijoles, carioca, crudos",
+"fr": "Haricots, carioca, crus",
+"it": "Fagioli, carioca, crudi"
+},
+"taco-563": {
+"de": "Bohnen, Augenbohnen, gekocht",
+"en": "Beans, black-eyed, cooked",
+"es": "Frijoles, caupí, cocidos",
+"fr": "Haricots, dolique à œil noir, cuits",
+"it": "Fagioli, dall'occhio, cotti"
+},
+"taco-564": {
+"de": "Bohnen, Augenbohnen, roh",
+"en": "Beans, black-eyed, raw",
+"es": "Frijoles, caupí, crudos",
+"fr": "Haricots, dolique à œil noir, crus",
+"it": "Fagioli, dall'occhio, crudi"
+},
+"taco-565": {
+"de": "Bohnen, Jalo, gekocht",
+"en": "Beans, jalo, cooked",
+"es": "Frijoles, jalo, cocidos",
+"fr": "Haricots, jalo, cuits",
+"it": "Fagioli, jalo, cotti"
+},
+"taco-566": {
+"de": "Bohnen, Jalo, roh",
+"en": "Beans, jalo, raw",
+"es": "Frijoles, jalo, crudos",
+"fr": "Haricots, jalo, crus",
+"it": "Fagioli, jalo, crudi"
+},
+"taco-567": {
+"de": "Bohnen, schwarz, gekocht",
+"en": "Beans, black, cooked",
+"es": "Frijoles, negros, cocidos",
+"fr": "Haricots, noirs, cuits",
+"it": "Fagioli, neri, cotti"
+},
+"taco-568": {
+"de": "Bohnen, schwarz, roh",
+"en": "Beans, black, raw",
+"es": "Frijoles, negros, crudos",
+"fr": "Haricots, noirs, crus",
+"it": "Fagioli, neri, crudi"
+},
+"taco-569": {
+"de": "Bohnen, gestreift, gekocht",
+"en": "Beans, striped, cooked",
+"es": "Frijoles, rayados, cocidos",
+"fr": "Haricots, rayés, cuits",
+"it": "Fagioli, rigati, cotti"
+},
+"taco-57": {
+"de": "Pastel, Käse, roh",
+"en": "Pastel, cheese, raw",
+"es": "Pastel, de queso, crudo",
+"fr": "Pastel, au fromage, cru",
+"it": "Pastel, al formaggio, crudo"
+},
+"taco-570": {
+"de": "Bohnen, gestreift, roh",
+"en": "Beans, striped, raw",
+"es": "Frijoles, rayados, crudos",
+"fr": "Haricots, rayés, crus",
+"it": "Fagioli, rigati, crudi"
+},
+"taco-571": {
+"de": "Bohnen, rosa, gekocht",
+"en": "Beans, pink, cooked",
+"es": "Frijoles, rosados, cocidos",
+"fr": "Haricots, roses, cuits",
+"it": "Fagioli, rosa, cotti"
+},
+"taco-572": {
+"de": "Bohnen, rosa, roh",
+"en": "Beans, pink, raw",
+"es": "Frijoles, rosados, crudos",
+"fr": "Haricots, roses, crus",
+"it": "Fagioli, rosa, crudi"
+},
+"taco-573": {
+"de": "Bohnen, violett, gekocht",
+"en": "Beans, purple, cooked",
+"es": "Frijoles, morados, cocidos",
+"fr": "Haricots, violets, cuits",
+"it": "Fagioli, viola, cotti"
+},
+"taco-574": {
+"de": "Bohnen, violett, roh",
+"en": "Beans, purple, raw",
+"es": "Frijoles, morados, crudos",
+"fr": "Haricots, violets, crus",
+"it": "Fagioli, viola, crudi"
+},
+"taco-575": {
+"de": "Kichererbse, roh",
+"en": "Chickpea, raw",
+"es": "Garbanzo, crudo",
+"fr": "Pois chiche, cru",
+"it": "Cece, crudo"
+},
+"taco-576": {
+"de": "Straucherbse, roh",
+"en": "Pigeon pea, raw",
+"es": "Guandú, crudo",
+"fr": "Pois d'Angole, cru",
+"it": "Cajanus, crudo"
+},
+"taco-577": {
+"de": "Linse, gekocht",
+"en": "Lentil, cooked",
+"es": "Lenteja, cocida",
+"fr": "Lentille, cuite",
+"it": "Lenticchia, cotta"
+},
+"taco-578": {
+"de": "Linse, roh",
+"en": "Lentil, raw",
+"es": "Lenteja, cruda",
+"fr": "Lentille, crue",
+"it": "Lenticchia, cruda"
+},
+"taco-579": {
+"de": "Paçoca, Erdnuss",
+"en": "Paçoca, peanut",
+"es": "Paçoca, cacahuete",
+"fr": "Paçoca, cacahuète",
+"it": "Paçoca, arachidi"
+},
+"taco-58": {
+"de": "Pastel, Käse, frittiert",
+"en": "Pastel, cheese, fried",
+"es": "Pastel, de queso, frito",
+"fr": "Pastel, au fromage, frit",
+"it": "Pastel, al formaggio, fritto"
+},
+"taco-580": {
+"de": "Pé-de-moleque, Erdnuss",
+"en": "Pé-de-moleque, peanut",
+"es": "Pé-de-moleque, cacahuete",
+"fr": "Pé-de-moleque, cacahuète",
+"it": "Pé-de-moleque, arachidi"
+},
+"taco-581": {
+"de": "Soja, Mehl",
+"en": "Soy, flour",
+"es": "Soja, harina",
+"fr": "Soja, farine",
+"it": "Soia, farina"
+},
+"taco-582": {
+"de": "Soja, löslicher Extrakt, natur, flüssig",
+"en": "Soy, soluble extract, plain, liquid",
+"es": "Soja, extracto soluble, natural, líquido",
+"fr": "Soja, extrait soluble, nature, liquide",
+"it": "Soia, estratto solubile, naturale, liquido"
+},
+"taco-583": {
+"de": "Soja, löslicher Extrakt, Pulver",
+"en": "Soy, soluble extract, powder",
+"es": "Soja, extracto soluble, en polvo",
+"fr": "Soja, extrait soluble, en poudre",
+"it": "Soia, estratto solubile, in polvere"
+},
+"taco-584": {
+"de": "Soja, Käse (Tofu)",
+"en": "Soy, cheese (tofu)",
+"es": "Soja, queso (tofu)",
+"fr": "Soja, fromage (tofu)",
+"it": "Soia, formaggio (tofu)"
+},
+"taco-585": {
+"de": "Lupine, roh",
+"en": "Lupin, raw",
+"es": "Altramuz, crudo",
+"fr": "Lupin, cru",
+"it": "Lupino, crudo"
+},
+"taco-586": {
+"de": "Lupine, eingelegt",
+"en": "Lupin, canned in brine",
+"es": "Altramuz, en conserva",
+"fr": "Lupin, en conserve",
+"it": "Lupino, in salamoia"
+},
+"taco-587": {
+"de": "Mandel, geröstet, gesalzen",
+"en": "Almond, roasted, salted",
+"es": "Almendra, tostada, salada",
+"fr": "Amande, grillée, salée",
+"it": "Mandorla, tostata, salata"
+},
+"taco-588": {
+"de": "Cashewnuss, geröstet, gesalzen",
+"en": "Cashew nut, roasted, salted",
+"es": "Anacardo, tostado, salado",
+"fr": "Noix de cajou, grillée, salée",
+"it": "Anacardio, tostato, salato"
+},
+"taco-589": {
+"de": "Paranuss, roh",
+"en": "Brazil nut, raw",
+"es": "Nuez de Brasil, cruda",
+"fr": "Noix du Brésil, crue",
+"it": "Noce del Brasile, cruda"
+},
+"taco-59": {
+"de": "Pastel, Teig, roh",
+"en": "Pastel, dough, raw",
+"es": "Pastel, masa, cruda",
+"fr": "Pastel, pâte, crue",
+"it": "Pastel, pasta, cruda"
+},
+"taco-590": {
+"de": "Kokosnuss, roh",
+"en": "Coconut, raw",
+"es": "Coco, crudo",
+"fr": "Noix de coco, crue",
+"it": "Cocco, crudo"
+},
+"taco-592": {
+"de": "Mehl, Babaçu-Mesokarp, roh",
+"en": "Flour, babassu mesocarp, raw",
+"es": "Harina, de mesocarpio de babasú, cruda",
+"fr": "Farine, de mésocarpe de babaçu, crue",
+"it": "Farina, di mesocarpo di babaçu, cruda"
+},
+"taco-593": {
+"de": "Sesam, Samen",
+"en": "Sesame, seed",
+"es": "Sésamo, semilla",
+"fr": "Sésame, graine",
+"it": "Sesamo, semi"
+},
+"taco-594": {
+"de": "Leinsamen, Samen",
+"en": "Flaxseed, seed",
+"es": "Linaza, semilla",
+"fr": "Lin, graine",
+"it": "Semi di lino, semi"
+},
+"taco-595": {
+"de": "Araukarienkern, gekocht",
+"en": "Araucaria pine nut, cooked",
+"es": "Piñón de araucaria, cocido",
+"fr": "Pignon d'araucaria, cuit",
+"it": "Pinolo d'araucaria, cotto"
+},
+"taco-596": {
+"de": "Pupunha, gekocht",
+"en": "Pupunha, cooked",
+"es": "Pupunha, cocida",
+"fr": "Pupunha, cuite",
+"it": "Pupunha, cotta"
+},
+"taco-597": {
+"de": "Walnuss, roh",
+"en": "Walnut, raw",
+"es": "Nuez, cruda",
+"fr": "Noix, crue",
+"it": "Noce, cruda"
+},
+"taco-6": {
+"de": "Reis, Typ 2, roh",
+"en": "Rice, type 2, raw",
+"es": "Arroz, tipo 2, crudo",
+"fr": "Riz, type 2, cru",
+"it": "Riso, tipo 2, crudo"
+},
+"taco-60": {
+"de": "Pastel, Teig, frittiert",
+"en": "Pastel, dough, fried",
+"es": "Pastel, masa, frita",
+"fr": "Pastel, pâte, frite",
+"it": "Pastel, pasta, fritta"
+},
+"taco-61": {
+"de": "Popcorn, mit Sojaöl, ungesalzen",
+"en": "Popcorn, with soybean oil, unsalted",
+"es": "Palomitas, con aceite de soja, sin sal",
+"fr": "Pop-corn, à l'huile de soja, non salé",
+"it": "Popcorn, con olio di soia, non salato"
+},
+"taco-62": {
+"de": "Polenta, vorgegart",
+"en": "Polenta, pre-cooked",
+"es": "Polenta, precocida",
+"fr": "Polenta, précuite",
+"it": "Polenta, precotta"
+},
+"taco-63": {
+"de": "Toast, Franzbrötchen",
+"en": "Toast, French roll",
+"es": "Tostada, pan francés",
+"fr": "Toast, pain français",
+"it": "Fetta biscottata, pane francese"
+},
+"taco-64": {
+"de": "Kürbis, Kabocha, gekocht",
+"en": "Pumpkin, kabocha, cooked",
+"es": "Calabaza, kabocha, cocida",
+"fr": "Potiron, kabocha, cuit",
+"it": "Zucca, kabocha, cotta"
+},
+"taco-65": {
+"de": "Kürbis, Kabocha, roh",
+"en": "Pumpkin, kabocha, raw",
+"es": "Calabaza, kabocha, cruda",
+"fr": "Potiron, kabocha, cru",
+"it": "Zucca, kabocha, cruda"
+},
+"taco-66": {
+"de": "Kürbis, brasilianische Menina, roh",
+"en": "Pumpkin, Brazilian menina, raw",
+"es": "Calabaza, menina brasileña, cruda",
+"fr": "Courge, menina brésilienne, crue",
+"it": "Zucca, menina brasiliana, cruda"
+},
+"taco-67": {
+"de": "Kürbis, Moranga, roh",
+"en": "Pumpkin, moranga, raw",
+"es": "Calabaza, moranga, cruda",
+"fr": "Courge, moranga, crue",
+"it": "Zucca, moranga, cruda"
+},
+"taco-68": {
+"de": "Kürbis, Moranga, angebraten",
+"en": "Pumpkin, moranga, sautéed",
+"es": "Calabaza, moranga, salteada",
+"fr": "Courge, moranga, sautée",
+"it": "Zucca, moranga, saltata"
+},
+"taco-69": {
+"de": "Kürbis, Hals, roh",
+"en": "Squash, neck, raw",
+"es": "Calabaza, cuello, cruda",
+"fr": "Courge, col, crue",
+"it": "Zucca, collo, cruda"
+},
+"taco-7": {
+"de": "Hafer, Flocken, roh",
+"en": "Oats, flakes, raw",
+"es": "Avena, copos, cruda",
+"fr": "Avoine, flocons, crue",
+"it": "Avena, fiocchi, cruda"
+},
+"taco-70": {
+"de": "Zucchini, italienisch, gekocht",
+"en": "Zucchini, Italian, cooked",
+"es": "Calabacín, italiano, cocido",
+"fr": "Courgette, italienne, cuite",
+"it": "Zucchina, italiana, cotta"
+},
+"taco-71": {
+"de": "Zucchini, italienisch, roh",
+"en": "Zucchini, Italian, raw",
+"es": "Calabacín, italiano, crudo",
+"fr": "Courgette, italienne, crue",
+"it": "Zucchina, italiana, cruda"
+},
+"taco-72": {
+"de": "Zucchini, italienisch, angebraten",
+"en": "Zucchini, Italian, sautéed",
+"es": "Calabacín, italiano, salteado",
+"fr": "Courgette, italienne, sautée",
+"it": "Zucchina, italiana, saltata"
+},
+"taco-73": {
+"de": "Kürbis, Paulista, roh",
+"en": "Squash, paulista, raw",
+"es": "Calabaza, paulista, cruda",
+"fr": "Courge, paulista, crue",
+"it": "Zucca, paulista, cruda"
+},
+"taco-74": {
+"de": "Mangold, roh",
+"en": "Swiss chard, raw",
+"es": "Acelga, cruda",
+"fr": "Blette, crue",
+"it": "Bietola, cruda"
+},
+"taco-75": {
+"de": "Brunnenkresse, roh",
+"en": "Watercress, raw",
+"es": "Berro, crudo",
+"fr": "Cresson, cru",
+"it": "Crescione, crudo"
+},
+"taco-76": {
+"de": "Sellerie, roh",
+"en": "Celery, raw",
+"es": "Apio, crudo",
+"fr": "Céleri, cru",
+"it": "Sedano, crudo"
+},
+"taco-77": {
+"de": "Salat, Eisberg, roh",
+"en": "Lettuce, iceberg, raw",
+"es": "Lechuga, iceberg, cruda",
+"fr": "Laitue, iceberg, crue",
+"it": "Lattuga, iceberg, cruda"
+},
+"taco-78": {
+"de": "Salat, Krause, roh",
+"en": "Lettuce, curly, raw",
+"es": "Lechuga, rizada, cruda",
+"fr": "Laitue, frisée, crue",
+"it": "Lattuga, riccia, cruda"
+},
+"taco-79": {
+"de": "Salat, glatt, roh",
+"en": "Lettuce, smooth, raw",
+"es": "Lechuga, lisa, cruda",
+"fr": "Laitue, lisse, crue",
+"it": "Lattuga, liscia, cruda"
+},
+"taco-8": {
+"de": "Keks, süß, Maisstärke",
+"en": "Biscuit, sweet, cornstarch",
+"es": "Galleta, dulce, maicena",
+"fr": "Biscuit, sucré, maïzena",
+"it": "Biscotto, dolce, maizena"
+},
+"taco-80": {
+"de": "Salat, rot, roh",
+"en": "Lettuce, purple, raw",
+"es": "Lechuga, morada, cruda",
+"fr": "Laitue, rouge, crue",
+"it": "Lattuga, rossa, cruda"
+},
+"taco-81": {
+"de": "Basilikum, roh",
+"en": "Basil, raw",
+"es": "Albahaca, cruda",
+"fr": "Basilic, cru",
+"it": "Basilico, crudo"
+},
+"taco-82": {
+"de": "Knoblauch, roh",
+"en": "Garlic, raw",
+"es": "Ajo, crudo",
+"fr": "Ail, cru",
+"it": "Aglio, crudo"
+},
+"taco-83": {
+"de": "Lauch, roh",
+"en": "Leek, raw",
+"es": "Puerro, crudo",
+"fr": "Poireau, cru",
+"it": "Porro, crudo"
+},
+"taco-84": {
+"de": "Chicorée, Almeirão, roh",
+"en": "Chicory, almeirão, raw",
+"es": "Achicoria, almeirão, cruda",
+"fr": "Chicorée, almeirão, crue",
+"it": "Cicoria, almeirão, cruda"
+},
+"taco-85": {
+"de": "Chicorée, Almeirão, angebraten",
+"en": "Chicory, almeirão, sautéed",
+"es": "Achicoria, almeirão, salteada",
+"fr": "Chicorée, almeirão, sautée",
+"it": "Cicoria, almeirão, saltata"
+},
+"taco-86": {
+"de": "Arracacha, gekocht",
+"en": "Arracacha, cooked",
+"es": "Arracacha, cocida",
+"fr": "Arracacha, cuite",
+"it": "Arracacha, cotta"
+},
+"taco-87": {
+"de": "Arracacha, roh",
+"en": "Arracacha, raw",
+"es": "Arracacha, cruda",
+"fr": "Arracacha, crue",
+"it": "Arracacha, cruda"
+},
+"taco-88": {
+"de": "Kartoffel, Süß, gekocht",
+"en": "Potato, sweet, cooked",
+"es": "Batata, dulce, cocida",
+"fr": "Patate, douce, cuite",
+"it": "Patata, dolce, cotta"
+},
+"taco-89": {
+"de": "Kartoffel, Süß, roh",
+"en": "Potato, sweet, raw",
+"es": "Batata, dulce, cruda",
+"fr": "Patate, douce, crue",
+"it": "Patata, dolce, cruda"
+},
+"taco-9": {
+"de": "Keks, süß, mit Schokoladenfüllung",
+"en": "Biscuit, sweet, filled with chocolate",
+"es": "Galleta, dulce, rellena de chocolate",
+"fr": "Biscuit, sucré, fourré au chocolat",
+"it": "Biscotto, dolce, ripieno al cioccolato"
+},
+"taco-90": {
+"de": "Kartoffel, frittiert, Chips, industriell",
+"en": "Potato, fried, chips type, industrial",
+"es": "Patata, frita, tipo chips, industrial",
+"fr": "Pomme de terre, frite, type chips, industrielle",
+"it": "Patata, fritta, tipo chips, industriale"
+},
+"taco-91": {
+"de": "Kartoffel, gewöhnlich, gekocht",
+"en": "Potato, regular, cooked",
+"es": "Patata, común, cocida",
+"fr": "Pomme de terre, ordinaire, cuite",
+"it": "Patata, comune, cotta"
+},
+"taco-92": {
+"de": "Kartoffel, gewöhnlich, roh",
+"en": "Potato, regular, raw",
+"es": "Patata, común, cruda",
+"fr": "Pomme de terre, ordinaire, crue",
+"it": "Patata, comune, cruda"
+},
+"taco-93": {
+"de": "Kartoffel, gewöhnlich, frittiert",
+"en": "Potato, regular, fried",
+"es": "Patata, común, frita",
+"fr": "Pomme de terre, ordinaire, frite",
+"it": "Patata, comune, fritta"
+},
+"taco-94": {
+"de": "Kartoffel, gewöhnlich, Sauté",
+"en": "Potato, regular, sauté",
+"es": "Patata, común, salteada",
+"fr": "Pomme de terre, ordinaire, sautée",
+"it": "Patata, comune, sauté"
+},
+"taco-95": {
+"de": "Aubergine, gekocht",
+"en": "Eggplant, cooked",
+"es": "Berenjena, cocida",
+"fr": "Aubergine, cuite",
+"it": "Melanzana, cotta"
+},
+"taco-96": {
+"de": "Aubergine, roh",
+"en": "Eggplant, raw",
+"es": "Berenjena, cruda",
+"fr": "Aubergine, crue",
+"it": "Melanzana, cruda"
+},
+"taco-97": {
+"de": "Rote Bete, gekocht",
+"en": "Beet, cooked",
+"es": "Remolacha, cocida",
+"fr": "Betterave, cuite",
+"it": "Barbabietola, cotta"
+},
+"taco-98": {
+"de": "Rote Bete, roh",
+"en": "Beet, raw",
+"es": "Remolacha, cruda",
+"fr": "Betterave, crue",
+"it": "Barbabietola, cruda"
+},
+"taco-99": {
+"de": "Keks, süße Maniokstärke",
+"en": "Biscuit, sweet tapioca starch",
+"es": "Galleta, almidón de yuca dulce",
+"fr": "Biscuit, fécule de manioc douce",
+"it": "Biscotto, amido di manioca dolce"
+}
+}

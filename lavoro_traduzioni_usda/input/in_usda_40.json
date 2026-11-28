@@ -1,0 +1,1790 @@
+[
+{
+"id": "11622",
+"en": "Soup, chicken rice, canned, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11623",
+"en": "Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11624",
+"en": "Soup, chicken vegetable, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11625",
+"en": "Soup, chicken with rice, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11626",
+"en": "Soup, chicken with rice, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11627",
+"en": "Soup, chicken, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11628",
+"en": "Soup, chicken, canned, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11629",
+"en": "Soup, chicken, canned, reduced sodium",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11630",
+"en": "Soup, chili beef, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11631",
+"en": "Soup, chili beef, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11632",
+"en": "Soup, chunky beef, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11633",
+"en": "Soup, chunky chicken noodle, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11634",
+"en": "Soup, chunky vegetable, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11635",
+"en": "Soup, chunky vegetable, reduced sodium, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11636",
+"en": "Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11637",
+"en": "Soup, clam chowder, manhattan, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11638",
+"en": "Soup, clam chowder, manhattan, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11639",
+"en": "Soup, clam chowder, new england, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11640",
+"en": "Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11641",
+"en": "Soup, clam chowder, new england, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11642",
+"en": "Soup, clam chowder, new england, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11643",
+"en": "Soup, clam chowder, new england, reduced sodium, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11644",
+"en": "Soup, cream of asparagus, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11645",
+"en": "Soup, cream of asparagus, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11646",
+"en": "Soup, cream of asparagus, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11647",
+"en": "Soup, cream of celery, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11648",
+"en": "Soup, cream of celery, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11649",
+"en": "Soup, cream of celery, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11650",
+"en": "Soup, cream of chicken",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11651",
+"en": "Soup, cream of chicken, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11652",
+"en": "Soup, cream of chicken, canned, condensed, reduced sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11653",
+"en": "Soup, cream of chicken, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11654",
+"en": "Soup, cream of chicken, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11655",
+"en": "Soup, cream of chicken, dry, mix, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11656",
+"en": "Soup, cream of mushroom",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11657",
+"en": "Soup, cream of mushroom, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11658",
+"en": "Soup, cream of mushroom, canned, condensed, reduced sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11659",
+"en": "Soup, cream of mushroom, canned, prepared with equal volume low fat (2%) milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11660",
+"en": "Soup, cream of mushroom, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11661",
+"en": "Soup, cream of mushroom, low sodium, ready-to-serve, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11662",
+"en": "Soup, cream of onion, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11663",
+"en": "Soup, cream of onion, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11664",
+"en": "Soup, cream of onion, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11665",
+"en": "Soup, cream of potato, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11666",
+"en": "Soup, cream of potato, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11667",
+"en": "Soup, cream of potato, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11668",
+"en": "Soup, cream of shrimp, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11669",
+"en": "Soup, cream of shrimp, canned, prepared with equal volume low fat (2%) milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11670",
+"en": "Soup, cream of shrimp, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11671",
+"en": "Soup, cream of tomato",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11672",
+"en": "Soup, cream of vegetable",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11673",
+"en": "Soup, cream of vegetable, dry, powder",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11674",
+"en": "Soup, egg drop",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11675",
+"en": "Soup, egg drop, Chinese restaurant",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11676",
+"en": "Soup, fish or shrimp",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11677",
+"en": "Soup, fish, homemade (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11678",
+"en": "Soup, French onion",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11679",
+"en": "Soup, fruit",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11680",
+"en": "Soup, gazpacho",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11681",
+"en": "Soup, HEALTHY CHOICE Chicken and Rice Soup, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11682",
+"en": "Soup, HEALTHY CHOICE Chicken Noodle Soup, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11683",
+"en": "Soup, HEALTHY CHOICE Garden Vegetable Soup, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11684",
+"en": "Soup, hot and sour",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11685",
+"en": "Soup, hot and sour, Chinese restaurant",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11686",
+"en": "Soup, Italian wedding",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11687",
+"en": "Soup, lentil",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11688",
+"en": "Soup, lentil with ham, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11689",
+"en": "Soup, lentil, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11690",
+"en": "Soup, lentil, canned, reduced sodium",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11691",
+"en": "Soup, lentil, with meat",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11692",
+"en": "Soup, Manhattan clam chowder",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11693",
+"en": "Soup, Matzo ball",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11694",
+"en": "Soup, meatball",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11695",
+"en": "Soup, minestrone",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11696",
+"en": "Soup, minestrone, canned, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11697",
+"en": "Soup, minestrone, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11698",
+"en": "Soup, minestrone, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11699",
+"en": "Soup, minestrone, canned, reduced sodium, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11700",
+"en": "Soup, miso or tofu",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11701",
+"en": "Soup, mulligatawany",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11702",
+"en": "Soup, mushroom barley, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11703",
+"en": "Soup, mushroom barley, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11704",
+"en": "Soup, mushroom with beef stock, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11705",
+"en": "Soup, mushroom with beef stock, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11706",
+"en": "Soup, New England clam chowder",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11707",
+"en": "Soup, NFS",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11708",
+"en": "Soup, noodle, NFS",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11709",
+"en": "Soup, onion, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11710",
+"en": "Soup, onion, dry, mix",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11711",
+"en": "Soup, onion, dry, mix, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11712",
+"en": "Soup, oyster stew, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11713",
+"en": "Soup, oyster stew, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11714",
+"en": "Soup, oyster stew, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11715",
+"en": "Soup, pea, green, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11716",
+"en": "Soup, pea, green, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11717",
+"en": "Soup, pea, green, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11718",
+"en": "Soup, pea, low sodium, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11719",
+"en": "Soup, pea, split with ham, canned, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11720",
+"en": "Soup, pea, split with ham, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11721",
+"en": "Soup, pea, split with ham, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11722",
+"en": "Soup, peanut",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11723",
+"en": "Soup, pepperpot",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11724",
+"en": "Soup, pho, no meat",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11725",
+"en": "Soup, pho, with meat",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11726",
+"en": "Soup, pork or ham",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11727",
+"en": "Soup, potato",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11728",
+"en": "Soup, potato with meat",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11729",
+"en": "Soup, pozole",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11730",
+"en": "Soup, pumpkin",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11731",
+"en": "Soup, ramen noodle, any flavor, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11732",
+"en": "Soup, ramen noodle, beef flavor, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11733",
+"en": "Soup, ramen noodle, chicken flavor, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11734",
+"en": "Soup, ramen noodle, dry, any flavor, reduced fat, reduced sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11735",
+"en": "Soup, ramen noodles, water added",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11736",
+"en": "Soup, rice",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11737",
+"en": "Soup, seaweed",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11738",
+"en": "Soup, shark fin, restaurant-prepared",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11739",
+"en": "Soup, sopa de fideo aguada",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11740",
+"en": "Soup, sopa or caldo de pollo",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11741",
+"en": "Soup, sopa or caldo de res",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11742",
+"en": "Soup, split pea",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11743",
+"en": "Soup, split pea, with meat",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11744",
+"en": "Soup, stock, beef, home-prepared",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11745",
+"en": "Soup, stock, chicken, home-prepared",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11746",
+"en": "Soup, stock, fish, home-prepared",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11747",
+"en": "Soup, SWANSON, beef broth, lower sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11748",
+"en": "Soup, SWANSON, vegetable broth",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11749",
+"en": "Soup, tomato",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11750",
+"en": "Soup, tomato beef with noodle, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11751",
+"en": "Soup, tomato beef with noodle, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11752",
+"en": "Soup, tomato bisque, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11753",
+"en": "Soup, tomato bisque, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11754",
+"en": "Soup, tomato bisque, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11755",
+"en": "Soup, tomato rice, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11756",
+"en": "Soup, tomato rice, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11757",
+"en": "Soup, tomato, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11758",
+"en": "Soup, tomato, canned / carton, reduced sodium",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11759",
+"en": "Soup, tomato, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11760",
+"en": "Soup, tomato, canned, condensed, reduced sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11761",
+"en": "Soup, tomato, canned, prepared with equal volume low fat (2%) milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11762",
+"en": "Soup, tomato, canned, prepared with equal volume water, commercial",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11763",
+"en": "Soup, tomato, dry, mix, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11764",
+"en": "Soup, tomato, low sodium, with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11765",
+"en": "Soup, tortilla",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11766",
+"en": "Soup, turkey noodle, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11767",
+"en": "Soup, turkey vegetable, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11768",
+"en": "Soup, turkey, chunky, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11769",
+"en": "Soup, vegetable",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11770",
+"en": "Soup, vegetable beef, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11771",
+"en": "Soup, vegetable beef, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11772",
+"en": "Soup, vegetable beef, microwavable, ready-to-serve, single brand",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11773",
+"en": "Soup, vegetable broth, ready to serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11774",
+"en": "Soup, vegetable chicken, canned, prepared with water, low sodium",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11775",
+"en": "Soup, vegetable soup, condensed, low sodium, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11776",
+"en": "Soup, vegetable with beef broth, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11777",
+"en": "Soup, vegetable with beef broth, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11778",
+"en": "Soup, vegetable, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11779",
+"en": "Soup, vegetable, canned, low sodium, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11780",
+"en": "Soup, vegetable, canned, reduced sodium",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11781",
+"en": "Soup, vegetable, with meat",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11782",
+"en": "Soup, vegetarian vegetable, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11783",
+"en": "Soup, vegetarian vegetable, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11784",
+"en": "Soup, wonton",
+"categoria": "Ramen and Asian broth-based soups",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11785",
+"en": "Soup, wonton, Chinese restaurant",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11786",
+"en": "Soupy rice mixture with chicken and potatoes, Puerto Rican style",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11787",
+"en": "Soupy rice with chicken, Puerto Rican style",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11788",
+"en": "Sour cream, fat free",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11789",
+"en": "Sour cream, imitation",
+"categoria": "Cream cheese, sour cream, whipped cream",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11790",
+"en": "Sour cream, imitation, cultured",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11791",
+"en": "Sour cream, light",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11792",
+"en": "Sour cream, reduced fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11793",
+"en": "Sour cream, regular",
+"categoria": "Cream cheese, sour cream, whipped cream",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11794",
+"en": "Sour dressing, non-butterfat, cultured, filled cream-type",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11795",
+"en": "Sourdock, young leaves (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11796",
+"en": "Soursop, nectar",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11797",
+"en": "Soursop, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "11798",
+"en": "Soy based sauce, for use with vegetables",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11799",
+"en": "Soy chips",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11800",
+"en": "Soy flour, defatted",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11801",
+"en": "Soy flour, full-fat, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11802",
+"en": "Soy flour, full-fat, roasted",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11803",
+"en": "Soy flour, low-fat",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11804",
+"en": "Soy meal, defatted, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11805",
+"en": "Soy milk, chocolate",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11806",
+"en": "Soy milk, sweetened",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11807",
+"en": "Soy milk, sweetened, plain, refrigerated",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "11808",
+"en": "Soy milk, unsweetened",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11809",
+"en": "Soy milk, unsweetened, plain, shelf stable",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "11810",
+"en": "Soy nut butter",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11811",
+"en": "Soy nuts",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11812",
+"en": "Soy protein concentrate, produced by acid wash",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11813",
+"en": "Soy protein concentrate, produced by alcohol extraction",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11814",
+"en": "Soy protein isolate",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11815",
+"en": "Soy protein isolate, potassium type",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11816",
+"en": "Soy sauce",
+"categoria": "Soy-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11817",
+"en": "Soy sauce made from hydrolyzed vegetable protein",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11818",
+"en": "Soy sauce made from soy (tamari)",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11819",
+"en": "Soy sauce made from soy and wheat (shoyu)",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11820",
+"en": "Soy sauce made from soy and wheat (shoyu), low sodium",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11821",
+"en": "Soy sauce, reduced sodium",
+"categoria": "Soy-based condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11822",
+"en": "Soy sauce, reduced sodium, made from hydrolyzed vegetable protein",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11823",
+"en": "Soybean curd",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11824",
+"en": "Soybean curd cheese",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11825",
+"en": "Soybean curd, breaded, fried",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11826",
+"en": "Soybean curd, deep fried",
+"categoria": "Soy and meat-alternative products",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11827",
+"en": "Soybean oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11828",
+"en": "Soybean, curd cheese",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11829",
+"en": "Soybeans, cooked",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11830",
+"en": "Soybeans, green, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11831",
+"en": "Soybeans, green, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11832",
+"en": "Soybeans, green, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11833",
+"en": "Soybeans, mature cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11834",
+"en": "Soybeans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11835",
+"en": "Soybeans, mature seeds, dry roasted",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11836",
+"en": "Soybeans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11837",
+"en": "Soybeans, mature seeds, roasted, no salt added",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11838",
+"en": "Soybeans, mature seeds, roasted, salted",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11839",
+"en": "Soybeans, mature seeds, sprouted, cooked, steamed",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11840",
+"en": "Soybeans, mature seeds, sprouted, cooked, steamed, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11841",
+"en": "Soybeans, mature seeds, sprouted, cooked, stir-fried",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11842",
+"en": "Soybeans, mature seeds, sprouted, cooked, stir-fried, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11843",
+"en": "Soybeans, mature seeds, sprouted, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11844",
+"en": "Soymilk (All flavors), enhanced",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11845",
+"en": "Soymilk (All flavors), lowfat, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11846",
+"en": "Soymilk (all flavors), nonfat, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11847",
+"en": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11848",
+"en": "Soymilk, chocolate and other flavors, light, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11849",
+"en": "Soymilk, chocolate, nonfat, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11850",
+"en": "Soymilk, chocolate, unfortified",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11851",
+"en": "Soymilk, chocolate, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11852",
+"en": "Soymilk, original and vanilla, light, unsweetened, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11853",
+"en": "Soymilk, original and vanilla, light, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11854",
+"en": "Soymilk, original and vanilla, unfortified",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11855",
+"en": "Soymilk, original and vanilla, with added calcium, vitamins A and D",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11856",
+"en": "Spaghetti and meatballs dinner, NFS, frozen meal",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11857",
+"en": "Spaghetti sauce",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11858",
+"en": "Spaghetti sauce with added vegetables",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11859",
+"en": "Spaghetti sauce with meat",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11860",
+"en": "Spaghetti sauce with meat and added vegetables",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11861",
+"en": "Spaghetti sauce with poultry",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11862",
+"en": "Spaghetti sauce with poultry and added vegetables",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11863",
+"en": "Spaghetti sauce with seafood",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11864",
+"en": "Spaghetti sauce with seafood and added vegetables",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11865",
+"en": "Spaghetti sauce, fat free",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11866",
+"en": "Spaghetti sauce, reduced sodium",
+"categoria": "Pasta sauces, tomato-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11867",
+"en": "Spaghetti squash, cooked",
+"categoria": "Other red and orange vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11868",
+"en": "Spaghetti with meat sauce, diet frozen meal",
+"categoria": "Pasta mixed dishes, excludes macaroni and cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11869",
+"en": "Spaghetti with meat sauce, frozen entree",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "11870",
+"en": "Spaghetti, protein-fortified, cooked, enriched (n x 6.25)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11871",
+"en": "Spaghetti, protein-fortified, dry, enriched (n x 6.25)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11872",
+"en": "Spaghetti, spinach, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11873",
+"en": "Spaghetti, spinach, dry",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11874",
+"en": "Spaghetti, with meatballs in tomato sauce, canned",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "11875",
+"en": "Spam",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11876",
+"en": "Spam sandwich",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11877",
+"en": "Spam, reduced sodium",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11878",
+"en": "Spanakopita",
+"categoria": "Turnovers and other grain-based items",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11879",
+"en": "Spanish rice mix, dry mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine)",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "11880",
+"en": "Spanish rice mix, dry mix, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "11881",
+"en": "Spanish rice with ground beef",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11882",
+"en": "Spanish rice, fat added",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11883",
+"en": "Spanish rice, from restaurant",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11884",
+"en": "Spanish rice, no added fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11885",
+"en": "Spanish rice, NS as to fat",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11886",
+"en": "Spearmint, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11887",
+"en": "Spearmint, fresh",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11888",
+"en": "Spelt, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11889",
+"en": "Spelt, uncooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11890",
+"en": "Spices, allspice, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11891",
+"en": "Spices, anise seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11892",
+"en": "Spices, basil, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11893",
+"en": "Spices, bay leaf",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11894",
+"en": "Spices, caraway seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11895",
+"en": "Spices, cardamom",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11896",
+"en": "Spices, celery seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11897",
+"en": "Spices, chervil, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11898",
+"en": "Spices, chili powder",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11899",
+"en": "Spices, cinnamon, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11900",
+"en": "Spices, cloves, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11901",
+"en": "Spices, coriander leaf, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11902",
+"en": "Spices, coriander seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11903",
+"en": "Spices, cumin seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11904",
+"en": "Spices, curry powder",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11905",
+"en": "Spices, dill seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11906",
+"en": "Spices, dill weed, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11907",
+"en": "Spices, fennel seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11908",
+"en": "Spices, fenugreek seed",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11909",
+"en": "Spices, garlic powder",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11910",
+"en": "Spices, ginger, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11911",
+"en": "Spices, mace, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11912",
+"en": "Spices, marjoram, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11913",
+"en": "Spices, mustard seed, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11914",
+"en": "Spices, nutmeg, ground",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11915",
+"en": "Spices, onion powder",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11916",
+"en": "Spices, oregano, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11917",
+"en": "Spices, paprika",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11918",
+"en": "Spices, parsley, dried",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+},
+{
+"id": "11919",
+"en": "Spices, pepper, black",
+"categoria": "Spices and Herbs",
+"tipo": "SR Legacy"
+}
+]

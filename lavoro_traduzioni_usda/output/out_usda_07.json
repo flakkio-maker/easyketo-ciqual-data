@@ -1,0 +1,2088 @@
+{
+"1788": {
+"it": "Manzo, lombata (bistecca New York strip), crudo",
+"fr": "Bœuf, longe courte (steak New York strip), cru",
+"es": "Vacuno, lomo corto (bistec New York strip), crudo",
+"de": "Rind, kurzes Lendenstück (New York Strip Steak), roh",
+"pt": "Carne bovina, lombo curto (bife New York strip), cru"
+},
+"1789": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1790": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 0 mm, USDA Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 0 mm, USDA Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 0 mm, USDA Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, USDA Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 0 mm, USDA Choice, cozido, grelhado"
+},
+"1791": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 0 mm, USDA Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 0 mm, USDA Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 0 mm, USDA Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, USDA Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 0 mm, USDA Select, cozido, grelhado"
+},
+"1792": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1793": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1794": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1795": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cru"
+},
+"1796": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1797": {
+"it": "Manzo, lombata, bistecca porterhouse, magro e grasso separabili, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, longe courte, steak porterhouse, maigre et gras séparables, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo corto, bistec porterhouse, magro y grasa separables, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, lombo curto, bife porterhouse, magro e gordura separáveis, gordura aparada a 3 mm, Select, cru"
+},
+"1798": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1799": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1800": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1801": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1802": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1803": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1804": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 3 mm, Choice, cru"
+},
+"1805": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1806": {
+"it": "Manzo, lombata, bistecca porterhouse, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, longe courte, steak porterhouse, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo corto, bistec porterhouse, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kurzes Lendenstück, Porterhouse-Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, lombo curto, bife porterhouse, apenas parte magra, gordura aparada a 3 mm, Select, cru"
+},
+"1807": {
+"it": "Manzo, lombata, bistecca T-bone, con osso, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, avec os, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, con hueso, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, mit Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, com osso, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1808": {
+"it": "Manzo, lombata, bistecca T-bone, con osso, solo parte magra, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, longe courte, steak T-bone, avec os, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo corto, bistec T-bone, con hueso, solo parte magra, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, mit Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, lombo curto, bife T-bone, com osso, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1809": {
+"it": "Manzo, lombata, bistecca T-bone, con osso, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, avec os, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, con hueso, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, mit Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, com osso, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1810": {
+"it": "Manzo, lombata, bistecca T-bone, con osso, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, longe courte, steak T-bone, avec os, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo corto, bistec T-bone, con hueso, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, mit Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, lombo curto, bife T-bone, com osso, apenas parte magra, gordura aparada a 3 mm, Choice, cru"
+},
+"1811": {
+"it": "Manzo, lombata, bistecca T-bone, con osso, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, avec os, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, con hueso, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, mit Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, com osso, apenas parte magra, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1812": {
+"it": "Manzo, lombata, bistecca T-bone, con osso, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, longe courte, steak T-bone, avec os, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo corto, bistec T-bone, con hueso, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, mit Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, lombo curto, bife T-bone, com osso, apenas parte magra, gordura aparada a 3 mm, Select, cru"
+},
+"1813": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1814": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 0 mm, USDA Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 0 mm, USDA Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 0 mm, USDA Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, USDA Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 0 mm, USDA Choice, cozido, grelhado"
+},
+"1815": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 0 mm, USDA Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 0 mm, USDA Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 0 mm, USDA Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, USDA Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 0 mm, USDA Select, cozido, grelhado"
+},
+"1816": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1817": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1818": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1819": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cru"
+},
+"1820": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1821": {
+"it": "Manzo, lombata, bistecca T-bone, magro e grasso separabili, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, longe courte, steak T-bone, maigre et gras séparables, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo corto, bistec T-bone, magro y grasa separables, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, lombo curto, bife T-bone, magro e gordura separáveis, gordura aparada a 3 mm, Select, cru"
+},
+"1822": {
+"it": "Manzo, lombata, bistecca T-bone, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, apenas parte magra, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1823": {
+"it": "Manzo, lombata, bistecca T-bone, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, steak T-bone, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, bistec T-bone, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, T-Bone-Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, bife T-bone, apenas parte magra, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1824": {
+"it": "Manzo, lombata, bistecca di controfiletto, solo parte magra, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, longe courte, steak de contre-filet, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo corto, bistec de lomo alto, solo parte magra, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kurzes Lendenstück, Steak vom Roastbeef, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, lombo curto, bife de contrafilé, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1825": {
+"it": "Manzo, lombata, controfiletto, magro e grasso separabili, grasso rifilato a 3 mm, Prime, cotto, alla griglia",
+"fr": "Bœuf, longe courte, contre-filet, maigre et gras séparables, gras paré à 3 mm, Prime, cuit, grillé",
+"es": "Vacuno, lomo corto, lomo alto, magro y grasa separables, grasa recortada a 3 mm, Prime, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Roastbeef, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Prime, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, contrafilé, magro e gordura separáveis, gordura aparada a 3 mm, Prime, cozido, grelhado"
+},
+"1826": {
+"it": "Manzo, lombata, controfiletto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, longe courte, contre-filet, steak, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo corto, lomo alto, bistec, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1827": {
+"it": "Manzo, lombata, controfiletto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, contre-filet, steak, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, lomo alto, bistec, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1828": {
+"it": "Manzo, lombata, controfiletto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Prime, crudo",
+"fr": "Bœuf, longe courte, contre-filet, steak, maigre et gras séparables, gras paré à 3 mm, Prime, cru",
+"es": "Vacuno, lomo corto, lomo alto, bistec, magro y grasa separables, grasa recortada a 3 mm, Prime, crudo",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Prime, roh",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, magro e gordura separáveis, gordura aparada a 3 mm, Prime, cru"
+},
+"1829": {
+"it": "Manzo, lombata, controfiletto, bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, longe courte, contre-filet, steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo corto, lomo alto, bistec, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1830": {
+"it": "Manzo, lombata, controfiletto, bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, longe courte, contre-filet, steak, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo corto, lomo alto, bistec, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1831": {
+"it": "Manzo, lombata, controfiletto, bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, longe courte, contre-filet, steak, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo corto, lomo alto, bistec, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, apenas parte magra, gordura aparada a 3 mm, Choice, cru"
+},
+"1832": {
+"it": "Manzo, lombata, controfiletto, bistecca, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, longe courte, contre-filet, steak, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo corto, lomo alto, bistec, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, apenas parte magra, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1833": {
+"it": "Manzo, lombata, controfiletto, bistecca, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, longe courte, contre-filet, steak, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo corto, lomo alto, bistec, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kurzes Lendenstück, Roastbeef, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, lombo curto, contrafilé, bife, apenas parte magra, gordura aparada a 3 mm, Select, cru"
+},
+"1834": {
+"it": "Manzo, costine",
+"fr": "Bœuf, travers",
+"es": "Vacuno, costillas",
+"de": "Rind, Short Ribs",
+"pt": "Carne bovina, costela"
+},
+"1835": {
+"it": "Manzo, spalla per brasato o bistecca, disossato, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, crudo",
+"fr": "Bœuf, épaule pour rôti braisé ou steak, désossé, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, paleta para asado en olla o bistec, deshuesado, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, crudo",
+"de": "Rind, Schulter für Schmorbraten oder Steak, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, paleta para assado de panela ou bife, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cru"
+},
+"1836": {
+"it": "Manzo, spalla per brasato o bistecca, disossato, magro e grasso separabili, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, épaule pour rôti braisé ou steak, désossé, maigre et gras séparables, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, paleta para asado en olla o bistec, deshuesado, magro y grasa separables, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Schulter für Schmorbraten oder Steak, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, paleta para assado de panela ou bife, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Choice, cru"
+},
+"1837": {
+"it": "Manzo, spalla per brasato o bistecca, disossato, magro e grasso separabili, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, épaule pour rôti braisé ou steak, désossé, maigre et gras séparables, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, paleta para asado en olla o bistec, deshuesado, magro y grasa separables, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Schulter für Schmorbraten oder Steak, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, paleta para assado de panela ou bife, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Select, cru"
+},
+"1838": {
+"it": "Manzo, spalla per brasato o bistecca, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le classi, crudo",
+"fr": "Bœuf, épaule pour rôti braisé ou steak, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, paleta para asado en olla o bistec, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las calidades, crudo",
+"de": "Rind, Schulter für Schmorbraten oder Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, paleta para assado de panela ou bife, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cru"
+},
+"1839": {
+"it": "Manzo, spalla per brasato o bistecca, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, épaule pour rôti braisé ou steak, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, paleta para asado en olla o bistec, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Schulter für Schmorbraten oder Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, paleta para assado de panela ou bife, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cru"
+},
+"1840": {
+"it": "Manzo, spalla per brasato o bistecca, disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, épaule pour rôti braisé ou steak, désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, paleta para asado en olla o bistec, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Schulter für Schmorbraten oder Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, paleta para assado de panela ou bife, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cru"
+},
+"1841": {
+"it": "Manzo, spalla per brasato, disossato, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, cotto, brasato",
+"fr": "Bœuf, épaule pour rôti braisé, désossé, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, paleta para asado en olla, deshuesado, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, cocido, estofado",
+"de": "Rind, Schulter für Schmorbraten, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, geschmort",
+"pt": "Carne bovina, paleta para assado de panela, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cozido, ensopado"
+},
+"1842": {
+"it": "Manzo, spalla per brasato, disossato, magro e grasso separabili, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, épaule pour rôti braisé, désossé, maigre et gras séparables, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, paleta para asado en olla, deshuesado, magro y grasa separables, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Schulter für Schmorbraten, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, paleta para assado de panela, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Choice, cozido, ensopado"
+},
+"1843": {
+"it": "Manzo, spalla per brasato, disossato, magro e grasso separabili, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, épaule pour rôti braisé, désossé, maigre et gras séparables, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, paleta para asado en olla, deshuesado, magro y grasa separables, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Schulter für Schmorbraten, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, paleta para assado de panela, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Select, cozido, ensopado"
+},
+"1844": {
+"it": "Manzo, spalla per brasato, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le classi, cotto, brasato",
+"fr": "Bœuf, épaule pour rôti braisé, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, paleta para asado en olla, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las calidades, cocido, estofado",
+"de": "Rind, Schulter für Schmorbraten, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, geschmort",
+"pt": "Carne bovina, paleta para assado de panela, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozido, ensopado"
+},
+"1845": {
+"it": "Manzo, spalla per brasato, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, épaule pour rôti braisé, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, paleta para asado en olla, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Schulter für Schmorbraten, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, paleta para assado de panela, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozido, ensopado"
+},
+"1846": {
+"it": "Manzo, spalla per brasato, disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, épaule pour rôti braisé, désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, paleta para asado en olla, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Schulter für Schmorbraten, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, paleta para assado de panela, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozido, ensopado"
+},
+"1847": {
+"it": "Manzo, bistecca di spalla, disossato, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule, désossé, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de paleta, deshuesado, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Schultersteak, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1848": {
+"it": "Manzo, bistecca di spalla, disossato, magro e grasso separabili, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule, désossé, maigre et gras séparables, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de paleta, deshuesado, magro y grasa separables, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Schultersteak, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1849": {
+"it": "Manzo, bistecca di spalla, disossato, magro e grasso separabili, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule, désossé, maigre et gras séparables, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de paleta, deshuesado, magro y grasa separables, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Schultersteak, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta, sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1850": {
+"it": "Manzo, bistecca di spalla, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de paleta, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Schultersteak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1851": {
+"it": "Manzo, bistecca di spalla, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de paleta, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Schultersteak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1852": {
+"it": "Manzo, bistecca di spalla, disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule, désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de paleta, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Schultersteak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1853": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1854": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, crudo",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, crudo",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cru"
+},
+"1855": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, magro e grasso separabili, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, maigre et gras séparables, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, magro y grasa separables, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1856": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, magro e grasso separabili, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, maigre et gras séparables, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, magro y grasa separables, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Choice, cru"
+},
+"1857": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, magro e grasso separabili, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, maigre et gras séparables, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, magro y grasa separables, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1858": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, magro e grasso separabili, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, maigre et gras séparables, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, magro y grasa separables, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, magro e gordura separáveis, gordura aparada a 0 mm, Select, cru"
+},
+"1859": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1860": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le classi, crudo",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las calidades, crudo",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cru"
+},
+"1861": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1862": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cru"
+},
+"1863": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1864": {
+"it": "Manzo, bistecca di spalla (top blade), disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, steak d'épaule (top blade), désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, bistec de paleta (top blade), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Schultersteak (Top Blade), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife de paleta (top blade), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cru"
+},
+"1865": {
+"it": "Manzo, a fette, con sugo di carne, patate, verdure, piatto pronto surgelato",
+"fr": "Bœuf, tranché, avec sauce au jus, pommes de terre, légumes, plat préparé surgelé",
+"es": "Vacuno, en lonchas, con salsa de carne, patatas, verduras, comida preparada congelada",
+"de": "Rind, in Scheiben, mit Bratensauce, Kartoffeln, Gemüse, Tiefkühlgericht",
+"pt": "Carne bovina, fatiado, com molho de carne, batatas, legumes, refeição congelada"
+},
+"1866": {
+"it": "Manzo, bistecca, reale",
+"fr": "Bœuf, steak, paleron",
+"es": "Vacuno, bistec, paleta (chuck)",
+"de": "Rind, Steak, Schulter (Chuck)",
+"pt": "Carne bovina, bife, acém"
+},
+"1867": {
+"it": "Manzo, bistecca, impanata e fritta (country fried)",
+"fr": "Bœuf, steak, pané et frit (country fried)",
+"es": "Vacuno, bistec, empanizado y frito (country fried)",
+"de": "Rind, Steak, paniert und gebraten (Country Fried)",
+"pt": "Carne bovina, bife, empanado e frito (country fried)"
+},
+"1868": {
+"it": "Manzo, bistecca, tenerizzata (cube steak)",
+"fr": "Bœuf, steak, attendri (cube steak)",
+"es": "Vacuno, bistec, ablandado (cube steak)",
+"de": "Rind, Steak, mürbe geklopft (Cube Steak)",
+"pt": "Carne bovina, bife, amaciado (cube steak)"
+},
+"1869": {
+"it": "Manzo, bistecca, pancia (flank)",
+"fr": "Bœuf, steak, flanchet",
+"es": "Vacuno, bistec, falda",
+"de": "Rind, Steak, Flanke",
+"pt": "Carne bovina, bife, fraldinha"
+},
+"1870": {
+"it": "Manzo, bistecca, non specificato",
+"fr": "Bœuf, steak, non spécifié",
+"es": "Vacuno, bistec, no especificado",
+"de": "Rind, Steak, nicht näher bezeichnet",
+"pt": "Carne bovina, bife, não especificado"
+},
+"1871": {
+"it": "Manzo, bistecca, ribeye, magro e grasso consumati",
+"fr": "Bœuf, steak, entrecôte, maigre et gras consommés",
+"es": "Vacuno, bistec, ribeye, magro y grasa consumidos",
+"de": "Rind, Steak, Rib-Eye, mager und fett gegessen",
+"pt": "Carne bovina, bife, ribeye, magro e gordura consumidos"
+},
+"1872": {
+"it": "Manzo, bistecca, ribeye, solo magro consumato",
+"fr": "Bœuf, steak, entrecôte, maigre seulement consommé",
+"es": "Vacuno, bistec, ribeye, solo magro consumido",
+"de": "Rind, Steak, Rib-Eye, nur mager gegessen",
+"pt": "Carne bovina, bife, ribeye, apenas magro consumido"
+},
+"1873": {
+"it": "Manzo, bistecca, ribeye, non specificato se grasso consumato",
+"fr": "Bœuf, steak, entrecôte, non précisé si gras consommé",
+"es": "Vacuno, bistec, ribeye, sin especificar si grasa consumida",
+"de": "Rind, Steak, Rib-Eye, nicht angegeben ob Fett gegessen",
+"pt": "Carne bovina, bife, ribeye, não especificado se gordura consumida"
+},
+"1874": {
+"it": "Manzo, bistecca, coscia (round)",
+"fr": "Bœuf, steak, tranche (round)",
+"es": "Vacuno, bistec, pierna (round)",
+"de": "Rind, Steak, Keule (Round)",
+"pt": "Carne bovina, bife, coxão (round)"
+},
+"1875": {
+"it": "Manzo, bistecca, lombo (sirloin), magro e grasso consumati",
+"fr": "Bœuf, steak, aloyau (sirloin), maigre et gras consommés",
+"es": "Vacuno, bistec, lomo bajo (sirloin), magro y grasa consumidos",
+"de": "Rind, Steak, Hüfte (Sirloin), mager und fett gegessen",
+"pt": "Carne bovina, bife, alcatra, magro e gordura consumidos"
+},
+"1876": {
+"it": "Manzo, bistecca, lombo (sirloin), solo magro consumato",
+"fr": "Bœuf, steak, aloyau (sirloin), maigre seulement consommé",
+"es": "Vacuno, bistec, lomo bajo (sirloin), solo magro consumido",
+"de": "Rind, Steak, Hüfte (Sirloin), nur mager gegessen",
+"pt": "Carne bovina, bife, alcatra, apenas magro consumido"
+},
+"1877": {
+"it": "Manzo, bistecca, lombo (sirloin), non specificato se grasso consumato",
+"fr": "Bœuf, steak, aloyau (sirloin), non précisé si gras consommé",
+"es": "Vacuno, bistec, lomo bajo (sirloin), sin especificar si grasa consumida",
+"de": "Rind, Steak, Hüfte (Sirloin), nicht angegeben ob Fett gegessen",
+"pt": "Carne bovina, bife, alcatra, não especificado se gordura consumida"
+},
+"1878": {
+"it": "Manzo, bistecca, controfiletto (strip), magro e grasso consumati",
+"fr": "Bœuf, steak, contre-filet, maigre et gras consommés",
+"es": "Vacuno, bistec, lomo alto (strip), magro y grasa consumidos",
+"de": "Rind, Steak, Strip, mager und fett gegessen",
+"pt": "Carne bovina, bife, contrafilé, magro e gordura consumidos"
+},
+"1879": {
+"it": "Manzo, bistecca, controfiletto (strip), solo magro consumato",
+"fr": "Bœuf, steak, contre-filet, maigre seulement consommé",
+"es": "Vacuno, bistec, lomo alto (strip), solo magro consumido",
+"de": "Rind, Steak, Strip, nur mager gegessen",
+"pt": "Carne bovina, bife, contrafilé, apenas magro consumido"
+},
+"1880": {
+"it": "Manzo, bistecca, controfiletto (strip), non specificato se grasso consumato",
+"fr": "Bœuf, steak, contre-filet, non précisé si gras consommé",
+"es": "Vacuno, bistec, lomo alto (strip), sin especificar si grasa consumida",
+"de": "Rind, Steak, Strip, nicht angegeben ob Fett gegessen",
+"pt": "Carne bovina, bife, contrafilé, não especificado se gordura consumida"
+},
+"1881": {
+"it": "Manzo, bistecca, T-bone, magro e grasso consumati",
+"fr": "Bœuf, steak, T-bone, maigre et gras consommés",
+"es": "Vacuno, bistec, T-bone, magro y grasa consumidos",
+"de": "Rind, Steak, T-Bone, mager und fett gegessen",
+"pt": "Carne bovina, bife, T-bone, magro e gordura consumidos"
+},
+"1882": {
+"it": "Manzo, bistecca, T-bone, solo magro consumato",
+"fr": "Bœuf, steak, T-bone, maigre seulement consommé",
+"es": "Vacuno, bistec, T-bone, solo magro consumido",
+"de": "Rind, Steak, T-Bone, nur mager gegessen",
+"pt": "Carne bovina, bife, T-bone, apenas magro consumido"
+},
+"1883": {
+"it": "Manzo, bistecca, T-bone, non specificato se grasso consumato",
+"fr": "Bœuf, steak, T-bone, non précisé si gras consommé",
+"es": "Vacuno, bistec, T-bone, sin especificar si grasa consumida",
+"de": "Rind, Steak, T-Bone, nicht angegeben ob Fett gegessen",
+"pt": "Carne bovina, bife, T-bone, não especificado se gordura consumida"
+},
+"1884": {
+"it": "Manzo, bistecca, filetto",
+"fr": "Bœuf, steak, filet",
+"es": "Vacuno, bistec, solomillo",
+"de": "Rind, Steak, Filet",
+"pt": "Carne bovina, bife, filé mignon"
+},
+"1885": {
+"it": "Manzo, carne per spezzatino",
+"fr": "Bœuf, viande à ragoût",
+"es": "Vacuno, carne para estofado",
+"de": "Rind, Eintopffleisch",
+"pt": "Carne bovina, carne para ensopado"
+},
+"1886": {
+"it": "Manzo, bistecca di filetto, crudo",
+"fr": "Bœuf, steak dans le filet, cru",
+"es": "Vacuno, bistec de solomillo, crudo",
+"de": "Rind, Filetsteak, roh",
+"pt": "Carne bovina, bife de filé mignon, cru"
+},
+"1887": {
+"it": "Manzo, filetto, arrosto, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, arrosto",
+"fr": "Bœuf, filet, rôti, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, solomillo, asado, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, asado",
+"de": "Rind, Filet, Braten, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, filé mignon, assado, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, assado"
+},
+"1888": {
+"it": "Manzo, filetto, arrosto, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, filet, rôti, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, solomillo, asado, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Filet, Braten, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, filé mignon, assado, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, assado"
+},
+"1889": {
+"it": "Manzo, filetto, arrosto, magro e grasso separabili, grasso rifilato a 3 mm, Prime, cotto, arrosto",
+"fr": "Bœuf, filet, rôti, maigre et gras séparables, gras paré à 3 mm, Prime, cuit, rôti",
+"es": "Vacuno, solomillo, asado, magro y grasa separables, grasa recortada a 3 mm, Prime, cocido, asado",
+"de": "Rind, Filet, Braten, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Prime, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, filé mignon, assado, magro e gordura separáveis, gordura aparada a 3 mm, Prime, cozido, assado"
+},
+"1890": {
+"it": "Manzo, filetto, arrosto, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, filet, rôti, maigre et gras séparables, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, solomillo, asado, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Filet, Braten, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, filé mignon, assado, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, assado"
+},
+"1891": {
+"it": "Manzo, filetto, magro e grasso separabili, grasso rifilato a 3 mm, Prime, crudo",
+"fr": "Bœuf, filet, maigre et gras séparables, gras paré à 3 mm, Prime, cru",
+"es": "Vacuno, solomillo, magro y grasa separables, grasa recortada a 3 mm, Prime, crudo",
+"de": "Rind, Filet, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Prime, roh",
+"pt": "Carne bovina, filé mignon, magro e gordura separáveis, gordura aparada a 3 mm, Prime, cru"
+},
+"1892": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1893": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1894": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1895": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cru"
+},
+"1896": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Prime, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, Prime, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, Prime, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Prime, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, Prime, cozido, grelhado"
+},
+"1897": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1898": {
+"it": "Manzo, filetto, bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, filet, steak, maigre et gras séparables, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, solomillo, bistec, magro y grasa separables, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Filet, Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, filé mignon, bife, magro e gordura separáveis, gordura aparada a 3 mm, Select, cru"
+},
+"1899": {
+"it": "Manzo, filetto, bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1900": {
+"it": "Manzo, filetto, bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, filet, steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, solomillo, bistec, solo parte magra, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, Filet, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, filé mignon, bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1901": {
+"it": "Manzo, filetto, bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1902": {
+"it": "Manzo, filetto, bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, filet, steak, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, solomillo, bistec, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Filet, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, filé mignon, bife, apenas parte magra, gordura aparada a 3 mm, Choice, cru"
+},
+"1903": {
+"it": "Manzo, filetto, bistecca, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, filet, steak, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, solomillo, bistec, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Filet, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, filé mignon, bife, apenas parte magra, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1904": {
+"it": "Manzo, filetto, bistecca, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, filet, steak, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, solomillo, bistec, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Filet, Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, filé mignon, bife, apenas parte magra, gordura aparada a 3 mm, Select, cru"
+},
+"1905": {
+"it": "Manzo, tofu, e verdure escluse carote, broccoli, e verdure a foglia verde scuro; senza patate, salsa a base di soia",
+"fr": "Bœuf, tofu, et légumes sauf carottes, brocoli, et légumes feuilles vert foncé; sans pommes de terre, sauce à base de soja",
+"es": "Vacuno, tofu, y verduras excepto zanahorias, brócoli, y verduras de hoja verde oscuro; sin patatas, salsa a base de soja",
+"de": "Rind, Tofu, und Gemüse außer Karotten, Brokkoli, und dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Sojabasis",
+"pt": "Carne bovina, tofu, e legumes exceto cenouras, brócolis, e folhas verde-escuras; sem batatas, molho à base de soja"
+},
+"1906": {
+"it": "Manzo, tofu, e verdure comprese carote, broccoli, e/o verdure a foglia verde scuro; senza patate, salsa a base di soia",
+"fr": "Bœuf, tofu, et légumes dont carottes, brocoli, et/ou légumes feuilles vert foncé; sans pommes de terre, sauce à base de soja",
+"es": "Vacuno, tofu, y verduras incluidas zanahorias, brócoli, y/o verduras de hoja verde oscuro; sin patatas, salsa a base de soja",
+"de": "Rind, Tofu, und Gemüse einschließlich Karotten, Brokkoli, und/oder dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Sojabasis",
+"pt": "Carne bovina, tofu, e legumes incluindo cenouras, brócolis, e/ou folhas verde-escuras; sem batatas, molho à base de soja"
+},
+"1907": {
+"it": "Manzo, filetto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, filet de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, filete de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Filet vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, filé de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1908": {
+"it": "Manzo, filetto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, filet de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, filete de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Filet vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, filé de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1909": {
+"it": "Manzo, filetto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, filet de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, filete de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Filet vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, filé de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1910": {
+"it": "Manzo, filetto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, filet de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, filete de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Filet vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, filé de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1911": {
+"it": "Manzo, filetto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, filet de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, filete de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Filet vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, filé de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1912": {
+"it": "Manzo, filetto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, filet de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, filete de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Filet vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, filé de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1913": {
+"it": "Manzo, piccolo arrosto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, arrosto",
+"fr": "Bœuf, petit rôti de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, asado pequeño de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, asado",
+"de": "Rind, kleiner Braten vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, pequeno assado de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, assado"
+},
+"1914": {
+"it": "Manzo, piccolo arrosto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, petit rôti de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, asado pequeño de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, kleiner Braten vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, pequeno assado de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, assado"
+},
+"1915": {
+"it": "Manzo, piccolo arrosto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, petit rôti de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, asado pequeño de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, kleiner Braten vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, pequeno assado de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, assado"
+},
+"1916": {
+"it": "Manzo, piccolo arrosto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, arrosto",
+"fr": "Bœuf, petit rôti de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, asado pequeño de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, asado",
+"de": "Rind, kleiner Braten vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, pequeno assado de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, assado"
+},
+"1917": {
+"it": "Manzo, piccolo arrosto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, petit rôti de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, asado pequeño de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, kleiner Braten vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, pequeno assado de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, assado"
+},
+"1918": {
+"it": "Manzo, piccolo arrosto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, petit rôti de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, asado pequeño de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, kleiner Braten vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, pequeno assado de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, Select, cozido, assado"
+},
+"1919": {
+"it": "Manzo, piccolo arrosto/filetto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, petit rôti/filet de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, asado pequeño/filete de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kleiner Braten/Filet vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, pequeno assado/filé de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1920": {
+"it": "Manzo, piccolo arrosto/filetto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, petit rôti/filet de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, asado pequeño/filete de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kleiner Braten/Filet vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, pequeno assado/filé de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cru"
+},
+"1921": {
+"it": "Manzo, piccolo arrosto/filetto di controfiletto, disossato, magro e grasso separabili, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, petit rôti/filet de contre-filet, désossé, maigre et gras séparables, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, asado pequeño/filete de lomo alto, deshuesado, magro y grasa separables, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kleiner Braten/Filet vom Roastbeef, ohne Knochen, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, pequeno assado/filé de contrafilé, sem osso, magro e gordura separáveis, gordura aparada a 3 mm, Select, cru"
+},
+"1922": {
+"it": "Manzo, piccolo arrosto/filetto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, petit rôti/filet de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, asado pequeño/filete de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, kleiner Braten/Filet vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, pequeno assado/filé de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1923": {
+"it": "Manzo, piccolo arrosto/filetto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, petit rôti/filet de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, asado pequeño/filete de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, kleiner Braten/Filet vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, pequeno assado/filé de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, Choice, cru"
+},
+"1924": {
+"it": "Manzo, piccolo arrosto/filetto di controfiletto, disossato, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, petit rôti/filet de contre-filet, désossé, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, asado pequeño/filete de lomo alto, deshuesado, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, kleiner Braten/Filet vom Roastbeef, ohne Knochen, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, pequeno assado/filé de contrafilé, sem osso, apenas parte magra, gordura aparada a 3 mm, Select, cru"
+},
+"1925": {
+"it": "Manzo, bistecca di lombo alto (top sirloin), crudo",
+"fr": "Bœuf, steak de rumsteck (top sirloin), cru",
+"es": "Vacuno, bistec de lomo bajo superior (top sirloin), crudo",
+"de": "Rind, Top-Sirloin-Steak, roh",
+"pt": "Carne bovina, bife de alcatra (top sirloin), cru"
+},
+"1926": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1927": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1928": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1929": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1930": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1931": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1932": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Choice, cotto, fritto in padella",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, Choice, cuit, poêlé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, Choice, cocido, frito en sartén",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, in der Pfanne gebraten",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cozido, frito na frigideira"
+},
+"1933": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, Choice, cru"
+},
+"1934": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1935": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, magro e grasso separabili, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, rumsteck (top sirloin), steak, maigre et gras séparables, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, magro y grasa separables, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, trennbarer magerer und fetter Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, alcatra (top sirloin), bife, magro e gordura separáveis, gordura aparada a 3 mm, Select, cru"
+},
+"1936": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 0 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 0 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozido, grelhado"
+},
+"1937": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 0 mm, Choice, cozido, grelhado"
+},
+"1938": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 0 mm, Select, cozido, grelhado"
+},
+"1939": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le classi, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 3 mm, todas las calidades, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozido, grelhado"
+},
+"1940": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le classi, crudo",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 3 mm, todas las calidades, crudo",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Handelsklassen, roh",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cru"
+},
+"1941": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 3 mm, Choice, cozido, grelhado"
+},
+"1942": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 3 mm, Choice, cru"
+},
+"1943": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 3 mm, Select, cozido, grelhado"
+},
+"1944": {
+"it": "Manzo, lombo alto (top sirloin), bistecca, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, rumsteck (top sirloin), steak, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, lomo bajo superior (top sirloin), bistec, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Hüfte oben (Top Sirloin), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, alcatra (top sirloin), bife, apenas parte magra, gordura aparada a 3 mm, Select, cru"
+},
+"1945": {
+"it": "Manzo, frattaglie e sottoprodotti, cervello, cotto, fritto in padella",
+"fr": "Bœuf, abats et sous-produits, cervelle, cuit, poêlé",
+"es": "Vacuno, vísceras y subproductos, sesos, cocido, frito en sartén",
+"de": "Rind, Innereien und Nebenprodukte, Hirn, gekocht, in der Pfanne gebraten",
+"pt": "Carne bovina, miúdos e subprodutos, miolo, cozido, frito na frigideira"
+},
+"1946": {
+"it": "Manzo, frattaglie e sottoprodotti, cervello, cotto, cotto a fuoco lento",
+"fr": "Bœuf, abats et sous-produits, cervelle, cuit, mijoté",
+"es": "Vacuno, vísceras y subproductos, sesos, cocido, cocido a fuego lento",
+"de": "Rind, Innereien und Nebenprodukte, Hirn, gekocht, geköchelt",
+"pt": "Carne bovina, miúdos e subprodutos, miolo, cozido, cozido em fogo baixo"
+},
+"1947": {
+"it": "Manzo, frattaglie e sottoprodotti, cervello, crudo",
+"fr": "Bœuf, abats et sous-produits, cervelle, cru",
+"es": "Vacuno, vísceras y subproductos, sesos, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Hirn, roh",
+"pt": "Carne bovina, miúdos e subprodutos, miolo, cru"
+},
+"1948": {
+"it": "Manzo, frattaglie e sottoprodotti, cuore, cotto, cotto a fuoco lento",
+"fr": "Bœuf, abats et sous-produits, cœur, cuit, mijoté",
+"es": "Vacuno, vísceras y subproductos, corazón, cocido, cocido a fuego lento",
+"de": "Rind, Innereien und Nebenprodukte, Herz, gekocht, geköchelt",
+"pt": "Carne bovina, miúdos e subprodutos, coração, cozido, cozido em fogo baixo"
+},
+"1949": {
+"it": "Manzo, frattaglie e sottoprodotti, cuore, crudo",
+"fr": "Bœuf, abats et sous-produits, cœur, cru",
+"es": "Vacuno, vísceras y subproductos, corazón, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Herz, roh",
+"pt": "Carne bovina, miúdos e subprodutos, coração, cru"
+},
+"1950": {
+"it": "Manzo, frattaglie e sottoprodotti, rognoni, cotto, cotto a fuoco lento",
+"fr": "Bœuf, abats et sous-produits, rognons, cuit, mijoté",
+"es": "Vacuno, vísceras y subproductos, riñones, cocido, cocido a fuego lento",
+"de": "Rind, Innereien und Nebenprodukte, Nieren, gekocht, geköchelt",
+"pt": "Carne bovina, miúdos e subprodutos, rins, cozido, cozido em fogo baixo"
+},
+"1951": {
+"it": "Manzo, frattaglie e sottoprodotti, rognoni, crudo",
+"fr": "Bœuf, abats et sous-produits, rognons, cru",
+"es": "Vacuno, vísceras y subproductos, riñones, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Nieren, roh",
+"pt": "Carne bovina, miúdos e subprodutos, rins, cru"
+},
+"1952": {
+"it": "Manzo, frattaglie e sottoprodotti, fegato, cotto, brasato",
+"fr": "Bœuf, abats et sous-produits, foie, cuit, braisé",
+"es": "Vacuno, vísceras y subproductos, hígado, cocido, estofado",
+"de": "Rind, Innereien und Nebenprodukte, Leber, gekocht, geschmort",
+"pt": "Carne bovina, miúdos e subprodutos, fígado, cozido, ensopado"
+},
+"1953": {
+"it": "Manzo, frattaglie e sottoprodotti, fegato, cotto, fritto in padella",
+"fr": "Bœuf, abats et sous-produits, foie, cuit, poêlé",
+"es": "Vacuno, vísceras y subproductos, hígado, cocido, frito en sartén",
+"de": "Rind, Innereien und Nebenprodukte, Leber, gekocht, in der Pfanne gebraten",
+"pt": "Carne bovina, miúdos e subprodutos, fígado, cozido, frito na frigideira"
+},
+"1954": {
+"it": "Manzo, frattaglie e sottoprodotti, fegato, crudo",
+"fr": "Bœuf, abats et sous-produits, foie, cru",
+"es": "Vacuno, vísceras y subproductos, hígado, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Leber, roh",
+"pt": "Carne bovina, miúdos e subprodutos, fígado, cru"
+},
+"1955": {
+"it": "Manzo, frattaglie e sottoprodotti, polmoni, cotto, brasato",
+"fr": "Bœuf, abats et sous-produits, poumons, cuit, braisé",
+"es": "Vacuno, vísceras y subproductos, pulmones, cocido, estofado",
+"de": "Rind, Innereien und Nebenprodukte, Lunge, gekocht, geschmort",
+"pt": "Carne bovina, miúdos e subprodutos, pulmões, cozido, ensopado"
+},
+"1956": {
+"it": "Manzo, frattaglie e sottoprodotti, polmoni, crudo",
+"fr": "Bœuf, abats et sous-produits, poumons, cru",
+"es": "Vacuno, vísceras y subproductos, pulmones, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Lunge, roh",
+"pt": "Carne bovina, miúdos e subprodutos, pulmões, cru"
+},
+"1957": {
+"it": "Manzo, frattaglie e sottoprodotti, carne bovina separata meccanicamente, crudo",
+"fr": "Bœuf, abats et sous-produits, viande bovine séparée mécaniquement, cru",
+"es": "Vacuno, vísceras y subproductos, carne de vacuno separada mecánicamente, crudo",
+"de": "Rind, Innereien und Nebenprodukte, maschinell abgetrenntes Rindfleisch, roh",
+"pt": "Carne bovina, miúdos e subprodutos, carne bovina separada mecanicamente, cru"
+},
+"1958": {
+"it": "Manzo, frattaglie e sottoprodotti, pancreas, cotto, brasato",
+"fr": "Bœuf, abats et sous-produits, pancréas, cuit, braisé",
+"es": "Vacuno, vísceras y subproductos, páncreas, cocido, estofado",
+"de": "Rind, Innereien und Nebenprodukte, Bauchspeicheldrüse, gekocht, geschmort",
+"pt": "Carne bovina, miúdos e subprodutos, pâncreas, cozido, ensopado"
+},
+"1959": {
+"it": "Manzo, frattaglie e sottoprodotti, pancreas, crudo",
+"fr": "Bœuf, abats et sous-produits, pancréas, cru",
+"es": "Vacuno, vísceras y subproductos, páncreas, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Bauchspeicheldrüse, roh",
+"pt": "Carne bovina, miúdos e subprodutos, pâncreas, cru"
+},
+"1960": {
+"it": "Manzo, frattaglie e sottoprodotti, milza, cotto, brasato",
+"fr": "Bœuf, abats et sous-produits, rate, cuit, braisé",
+"es": "Vacuno, vísceras y subproductos, bazo, cocido, estofado",
+"de": "Rind, Innereien und Nebenprodukte, Milz, gekocht, geschmort",
+"pt": "Carne bovina, miúdos e subprodutos, baço, cozido, ensopado"
+},
+"1961": {
+"it": "Manzo, frattaglie e sottoprodotti, milza, crudo",
+"fr": "Bœuf, abats et sous-produits, rate, cru",
+"es": "Vacuno, vísceras y subproductos, bazo, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Milz, roh",
+"pt": "Carne bovina, miúdos e subprodutos, baço, cru"
+},
+"1962": {
+"it": "Manzo, frattaglie e sottoprodotti, grasso renale (sugna), crudo",
+"fr": "Bœuf, abats et sous-produits, graisse de rognon (suif), cru",
+"es": "Vacuno, vísceras y subproductos, sebo, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Nierenfett (Talg), roh",
+"pt": "Carne bovina, miúdos e subprodutos, sebo, cru"
+},
+"1963": {
+"it": "Manzo, frattaglie e sottoprodotti, timo, cotto, brasato",
+"fr": "Bœuf, abats et sous-produits, thymus, cuit, braisé",
+"es": "Vacuno, vísceras y subproductos, timo, cocido, estofado",
+"de": "Rind, Innereien und Nebenprodukte, Thymus, gekocht, geschmort",
+"pt": "Carne bovina, miúdos e subprodutos, timo, cozido, ensopado"
+},
+"1964": {
+"it": "Manzo, frattaglie e sottoprodotti, timo, crudo",
+"fr": "Bœuf, abats et sous-produits, thymus, cru",
+"es": "Vacuno, vísceras y subproductos, timo, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Thymus, roh",
+"pt": "Carne bovina, miúdos e subprodutos, timo, cru"
+},
+"1965": {
+"it": "Manzo, frattaglie e sottoprodotti, lingua, cotto, cotto a fuoco lento",
+"fr": "Bœuf, abats et sous-produits, langue, cuit, mijoté",
+"es": "Vacuno, vísceras y subproductos, lengua, cocido, cocido a fuego lento",
+"de": "Rind, Innereien und Nebenprodukte, Zunge, gekocht, geköchelt",
+"pt": "Carne bovina, miúdos e subprodutos, língua, cozido, cozido em fogo baixo"
+},
+"1966": {
+"it": "Manzo, frattaglie e sottoprodotti, lingua, crudo",
+"fr": "Bœuf, abats et sous-produits, langue, cru",
+"es": "Vacuno, vísceras y subproductos, lengua, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Zunge, roh",
+"pt": "Carne bovina, miúdos e subprodutos, língua, cru"
+},
+"1967": {
+"it": "Manzo, frattaglie e sottoprodotti, trippa, cotto, cotto a fuoco lento",
+"fr": "Bœuf, abats et sous-produits, tripes, cuit, mijoté",
+"es": "Vacuno, vísceras y subproductos, callos, cocido, cocido a fuego lento",
+"de": "Rind, Innereien und Nebenprodukte, Kutteln, gekocht, geköchelt",
+"pt": "Carne bovina, miúdos e subprodutos, dobradinha, cozido, cozido em fogo baixo"
+},
+"1968": {
+"it": "Manzo, frattaglie e sottoprodotti, trippa, crudo",
+"fr": "Bœuf, abats et sous-produits, tripes, cru",
+"es": "Vacuno, vísceras y subproductos, callos, crudo",
+"de": "Rind, Innereien und Nebenprodukte, Kutteln, roh",
+"pt": "Carne bovina, miúdos e subprodutos, dobradinha, cru"
+},
+"1969": {
+"it": "Birra",
+"fr": "Bière",
+"es": "Cerveza",
+"de": "Bier",
+"pt": "Cerveja"
+},
+"1970": {
+"it": "Birra, a più alto contenuto alcolico",
+"fr": "Bière, à plus forte teneur en alcool",
+"es": "Cerveza, de mayor graduación alcohólica",
+"de": "Bier, mit höherem Alkoholgehalt",
+"pt": "Cerveja, com maior teor alcoólico"
+},
+"1971": {
+"it": "Birra, leggera",
+"fr": "Bière, légère",
+"es": "Cerveza, ligera",
+"de": "Bier, leicht",
+"pt": "Cerveja, light"
+},
+"1972": {
+"it": "Birra, analcolica",
+"fr": "Bière, sans alcool",
+"es": "Cerveza, sin alcohol",
+"de": "Bier, alkoholfrei",
+"pt": "Cerveja, sem álcool"
+},
+"1973": {
+"it": "Beerwurst, salame alla birra, maiale",
+"fr": "Beerwurst, salami à la bière, porc",
+"es": "Beerwurst, salami de cerveza, cerdo",
+"de": "Bierwurst, Biersalami, Schwein",
+"pt": "Beerwurst, salame de cerveja, carne suína"
+},
+"1974": {
+"it": "Beerwurst, salame alla birra, maiale e manzo",
+"fr": "Beerwurst, salami à la bière, porc et bœuf",
+"es": "Beerwurst, salami de cerveza, cerdo y vacuno",
+"de": "Bierwurst, Biersalami, Schwein und Rind",
+"pt": "Beerwurst, salame de cerveja, carne suína e bovina"
+},
+"1975": {
+"it": "Beerwurst, maiale e manzo",
+"fr": "Beerwurst, porc et bœuf",
+"es": "Beerwurst, cerdo y vacuno",
+"de": "Bierwurst, Schwein und Rind",
+"pt": "Beerwurst, carne suína e bovina"
+},
+"1976": {
+"it": "Foglie di barbabietola, cotte",
+"fr": "Feuilles de betterave, cuites",
+"es": "Hojas de remolacha, cocidas",
+"de": "Rote-Bete-Blätter, gekocht",
+"pt": "Folhas de beterraba, cozidas"
+},
+"1977": {
+"it": "Foglie di barbabietola, cotte, bollite, sgocciolate, con sale",
+"fr": "Feuilles de betterave, cuites, bouillies, égouttées, avec sel",
+"es": "Hojas de remolacha, cocidas, hervidas, escurridas, con sal",
+"de": "Rote-Bete-Blätter, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Folhas de beterraba, cozidas, cozidas em água, escorridas, com sal"
+},
+"1978": {
+"it": "Foglie di barbabietola, cotte, bollite, sgocciolate, senza sale",
+"fr": "Feuilles de betterave, cuites, bouillies, égouttées, sans sel",
+"es": "Hojas de remolacha, cocidas, hervidas, escurridas, sin sal",
+"de": "Rote-Bete-Blätter, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Folhas de beterraba, cozidas, cozidas em água, escorridas, sem sal"
+},
+"1979": {
+"it": "Foglie di barbabietola, crude",
+"fr": "Feuilles de betterave, crues",
+"es": "Hojas de remolacha, crudas",
+"de": "Rote-Bete-Blätter, roh",
+"pt": "Folhas de beterraba, cruas"
+},
+"1980": {
+"it": "Succo di barbabietola",
+"fr": "Jus de betterave",
+"es": "Zumo de remolacha",
+"de": "Rote-Bete-Saft",
+"pt": "Suco de beterraba"
+},
+"1981": {
+"it": "Barbabietole, in scatola, cotte, con aggiunta di grassi",
+"fr": "Betteraves, en conserve, cuites, avec ajout de matière grasse",
+"es": "Remolachas, en conserva, cocidas, con grasa añadida",
+"de": "Rote Bete, aus der Dose, gekocht, mit Fettzusatz",
+"pt": "Beterrabas, enlatadas, cozidas, com gordura adicionada"
+},
+"1982": {
+"it": "Barbabietole, in scatola, cotte, senza grassi aggiunti",
+"fr": "Betteraves, en conserve, cuites, sans matière grasse ajoutée",
+"es": "Remolachas, en conserva, cocidas, sin grasa añadida",
+"de": "Rote Bete, aus der Dose, gekocht, ohne Fettzusatz",
+"pt": "Beterrabas, enlatadas, cozidas, sem gordura adicionada"
+},
+"1983": {
+"it": "Barbabietole, in scatola, solidi sgocciolati",
+"fr": "Betteraves, en conserve, solides égouttés",
+"es": "Remolachas, en conserva, sólidos escurridos",
+"de": "Rote Bete, aus der Dose, abgetropfte feste Bestandteile",
+"pt": "Beterrabas, enlatadas, sólidos escorridos"
+},
+"1984": {
+"it": "Barbabietole, in scatola, senza sale aggiunto, solidi e liquidi",
+"fr": "Betteraves, en conserve, sans sel ajouté, solides et liquides",
+"es": "Remolachas, en conserva, sin sal añadida, sólidos y líquidos",
+"de": "Rote Bete, aus der Dose, ohne Salzzusatz, feste und flüssige Bestandteile",
+"pt": "Beterrabas, enlatadas, sem sal adicionado, sólidos e líquidos"
+},
+"1985": {
+"it": "Barbabietole, in scatola, a ridotto contenuto di sodio, cotte",
+"fr": "Betteraves, en conserve, à teneur réduite en sodium, cuites",
+"es": "Remolachas, en conserva, reducido en sodio, cocidas",
+"de": "Rote Bete, aus der Dose, natriumreduziert, gekocht",
+"pt": "Beterrabas, enlatadas, com teor reduzido de sódio, cozidas"
+},
+"1986": {
+"it": "Barbabietole, in scatola, confezione standard, solidi e liquidi",
+"fr": "Betteraves, en conserve, conditionnement standard, solides et liquides",
+"es": "Remolachas, en conserva, envase estándar, sólidos y líquidos",
+"de": "Rote Bete, aus der Dose, Standardpackung, feste und flüssige Bestandteile",
+"pt": "Beterrabas, enlatadas, embalagem padrão, sólidos e líquidos"
+},
+"1987": {
+"it": "Barbabietole, cotte, bollite, sgocciolate",
+"fr": "Betteraves, cuites, bouillies, égouttées",
+"es": "Remolachas, cocidas, hervidas, escurridas",
+"de": "Rote Bete, gekocht, gekocht, abgetropft",
+"pt": "Beterrabas, cozidas, cozidas em água, escorridas"
+},
+"1988": {
+"it": "Barbabietole, cotte, bollite. sgocciolate, con sale",
+"fr": "Betteraves, cuites, bouillies. égouttées, avec sel",
+"es": "Remolachas, cocidas, hervidas. escurridas, con sal",
+"de": "Rote Bete, gekocht, gekocht. abgetropft, mit Salz",
+"pt": "Beterrabas, cozidas, cozidas em água. escorridas, com sal"
+},
+"1989": {
+"it": "Barbabietole, fresche, cotte, con aggiunta di grassi",
+"fr": "Betteraves, fraîches, cuites, avec ajout de matière grasse",
+"es": "Remolachas, frescas, cocidas, con grasa añadida",
+"de": "Rote Bete, frisch, gekocht, mit Fettzusatz",
+"pt": "Beterrabas, frescas, cozidas, com gordura adicionada"
+},
+"1990": {
+"it": "Barbabietole, fresche, cotte, senza grassi aggiunti",
+"fr": "Betteraves, fraîches, cuites, sans matière grasse ajoutée",
+"es": "Remolachas, frescas, cocidas, sin grasa añadida",
+"de": "Rote Bete, frisch, gekocht, ohne Fettzusatz",
+"pt": "Beterrabas, frescas, cozidas, sem gordura adicionada"
+},
+"1991": {
+"it": "Barbabietole, alla Harvard (in agrodolce), in scatola, solidi e liquidi",
+"fr": "Betteraves, Harvard (sauce aigre-douce), en conserve, solides et liquides",
+"es": "Remolachas, estilo Harvard (agridulce), en conserva, sólidos y líquidos",
+"de": "Rote Bete, Harvard (süßsauer), aus der Dose, feste und flüssige Bestandteile",
+"pt": "Beterrabas, estilo Harvard (agridoce), enlatadas, sólidos e líquidos"
+},
+"1992": {
+"it": "Barbabietole, non specificato quanto alla forma, cotte",
+"fr": "Betteraves, non précisé quant à la forme, cuites",
+"es": "Remolachas, sin especificar la forma, cocidas",
+"de": "Rote Bete, nicht angegeben bezüglich der Form, gekocht",
+"pt": "Beterrabas, não especificado quanto à forma, cozidas"
+},
+"1993": {
+"it": "Barbabietole, sott'aceto",
+"fr": "Betteraves, au vinaigre",
+"es": "Remolachas, encurtidas",
+"de": "Rote Bete, eingelegt",
+"pt": "Beterrabas, em conserva"
+},
+"1994": {
+"it": "Barbabietole, sott'aceto, in scatola, solidi e liquidi",
+"fr": "Betteraves, au vinaigre, en conserve, solides et liquides",
+"es": "Remolachas, encurtidas, en conserva, sólidos y líquidos",
+"de": "Rote Bete, eingelegt, aus der Dose, feste und flüssige Bestandteile",
+"pt": "Beterrabas, em conserva, enlatadas, sólidos e líquidos"
+},
+"1995": {
+"it": "Barbabietole, crude",
+"fr": "Betteraves, crues",
+"es": "Remolachas, crudas",
+"de": "Rote Bete, roh",
+"pt": "Beterrabas, cruas"
+},
+"1996": {
+"it": "Beignet (frittella)",
+"fr": "Beignet",
+"es": "Beignet (buñuelo)",
+"de": "Beignet (Krapfen)",
+"pt": "Beignet (sonho frito)"
+},
+"1997": {
+"it": "Frutti di bosco, surgelati",
+"fr": "Baies, surgelées",
+"es": "Bayas, congeladas",
+"de": "Beeren, tiefgekühlt",
+"pt": "Frutas vermelhas, congeladas"
+},
+"1998": {
+"it": "Frutti di bosco, non specificato",
+"fr": "Baies, non spécifié",
+"es": "Bayas, no especificado",
+"de": "Beeren, nicht näher bezeichnet",
+"pt": "Frutas vermelhas, não especificado"
+},
+"1999": {
+"it": "Bevanda, preparato istantaneo per colazione in polvere, cioccolato, non ricostituito",
+"fr": "Boisson, poudre instantanée pour petit-déjeuner, chocolat, non reconstitué",
+"es": "Bebida, polvo instantáneo para el desayuno, chocolate, sin reconstituir",
+"de": "Getränk, Instant-Frühstückspulver, Schokolade, nicht zubereitet",
+"pt": "Bebida, pó instantâneo para café da manhã, chocolate, não reconstituído"
+},
+"2000": {
+"it": "Bevanda, preparato istantaneo per colazione in polvere, cioccolato, senza zucchero, non ricostituito",
+"fr": "Boisson, poudre instantanée pour petit-déjeuner, chocolat, sans sucre, non reconstitué",
+"es": "Bebida, polvo instantáneo para el desayuno, chocolate, sin azúcar, sin reconstituir",
+"de": "Getränk, Instant-Frühstückspulver, Schokolade, zuckerfrei, nicht zubereitet",
+"pt": "Bebida, pó instantâneo para café da manhã, chocolate, sem açúcar, não reconstituído"
+},
+"2001": {
+"it": "Bevande, ABBOTT, proteine di soia in polvere EAS",
+"fr": "Boissons, ABBOTT, protéines de soja en poudre EAS",
+"es": "Bebidas, ABBOTT, proteína de soja en polvo EAS",
+"de": "Getränke, ABBOTT, Sojaprotein-Pulver EAS",
+"pt": "Bebidas, ABBOTT, proteína de soja em pó EAS"
+},
+"2002": {
+"it": "Bevande, ABBOTT, proteine del siero di latte in polvere EAS",
+"fr": "Boissons, ABBOTT, protéines de lactosérum en poudre EAS",
+"es": "Bebidas, ABBOTT, proteína de suero de leche en polvo EAS",
+"de": "Getränke, ABBOTT, Molkenprotein-Pulver EAS",
+"pt": "Bebidas, ABBOTT, proteína do soro do leite em pó EAS"
+},
+"2003": {
+"it": "Bevande, ABBOTT, ENSURE PLUS, pronto da bere",
+"fr": "Boissons, ABBOTT, ENSURE PLUS, prêt à boire",
+"es": "Bebidas, ABBOTT, ENSURE PLUS, listo para beber",
+"de": "Getränke, ABBOTT, ENSURE PLUS, trinkfertig",
+"pt": "Bebidas, ABBOTT, ENSURE PLUS, pronto para beber"
+},
+"2004": {
+"it": "Bevande, ABBOTT, ENSURE, frullato nutrizionale, pronto da bere",
+"fr": "Boissons, ABBOTT, ENSURE, shake nutritionnel, prêt à boire",
+"es": "Bebidas, ABBOTT, ENSURE, batido nutricional, listo para beber",
+"de": "Getränke, ABBOTT, ENSURE, Nährstoff-Shake, trinkfertig",
+"pt": "Bebidas, ABBOTT, ENSURE, shake nutricional, pronto para beber"
+},
+"2005": {
+"it": "Bevande, bevanda ai frutti di açaí, fortificato",
+"fr": "Boissons, boisson aux baies d'açaï, fortifié",
+"es": "Bebidas, bebida de bayas de açaí, fortificado",
+"de": "Getränke, Açaí-Beerengetränk, angereichert",
+"pt": "Bebidas, bebida de açaí, fortificado"
+},
+"2006": {
+"it": "Bevande, latte di mandorla, cioccolato, pronto da bere",
+"fr": "Boissons, lait d'amande, chocolat, prêt à boire",
+"es": "Bebidas, leche de almendra, chocolate, listo para beber",
+"de": "Getränke, Mandelmilch, Schokolade, trinkfertig",
+"pt": "Bebidas, leite de amêndoa, chocolate, pronto para beber"
+},
+"2007": {
+"it": "Bevande, latte di mandorla, zuccherato, gusto vaniglia, pronto da bere",
+"fr": "Boissons, lait d'amande, sucré, saveur vanille, prêt à boire",
+"es": "Bebidas, leche de almendra, azucarado, sabor vainilla, listo para beber",
+"de": "Getränke, Mandelmilch, gezuckert, Vanillegeschmack, trinkfertig",
+"pt": "Bebidas, leite de amêndoa, adoçado, sabor baunilha, pronto para beber"
+},
+"2008": {
+"it": "Bevande, latte di mandorla, non zuccherato, a lunga conservazione",
+"fr": "Boissons, lait d'amande, non sucré, longue conservation",
+"es": "Bebidas, leche de almendra, sin azúcar, de larga duración",
+"de": "Getränke, Mandelmilch, ungezuckert, haltbar",
+"pt": "Bebidas, leite de amêndoa, sem açúcar, de longa duração"
+},
+"2009": {
+"it": "Bevande, bevanda al succo di aloe vera, fortificato con vitamina C",
+"fr": "Boissons, boisson au jus d'aloe vera, fortifié en vitamine C",
+"es": "Bebidas, bebida de zumo de aloe vera, fortificado con vitamina C",
+"de": "Getränke, Aloe-Vera-Saftgetränk, mit Vitamin C angereichert",
+"pt": "Bebidas, bebida de suco de aloe vera, fortificado com vitamina C"
+},
+"2010": {
+"it": "Bevande, AMBER, sidro alcolico",
+"fr": "Boissons, AMBER, cidre alcoolisé",
+"es": "Bebidas, AMBER, sidra alcohólica",
+"de": "Getränke, AMBER, alkoholischer Cider",
+"pt": "Bebidas, AMBER, sidra alcoólica"
+},
+"2011": {
+"it": "Bevande, bevanda al succo di mela, leggera, fortificato con vitamina C",
+"fr": "Boissons, boisson au jus de pomme, légère, fortifié en vitamine C",
+"es": "Bebidas, bebida de zumo de manzana, ligera, fortificado con vitamina C",
+"de": "Getränke, Apfelsaftgetränk, leicht, mit Vitamin C angereichert",
+"pt": "Bebidas, bebida de suco de maçã, light, fortificado com vitamina C"
+},
+"2012": {
+"it": "Bevande, ARIZONA, tè, pronto da bere, limone",
+"fr": "Boissons, ARIZONA, thé, prêt à boire, citron",
+"es": "Bebidas, ARIZONA, té, listo para beber, limón",
+"de": "Getränke, ARIZONA, Tee, trinkfertig, Zitrone",
+"pt": "Bebidas, ARIZONA, chá, pronto para beber, limão"
+},
+"2013": {
+"it": "Bevande, gassate, acqua gassata (club soda)",
+"fr": "Boissons, gazeuses, eau gazeuse (club soda)",
+"es": "Bebidas, carbonatadas, agua carbonatada (club soda)",
+"de": "Getränke, kohlensäurehaltig, Sodawasser",
+"pt": "Bebidas, carbonatadas, água com gás (club soda)"
+},
+"2014": {
+"it": "Bevande, gassate, cola, cola da fast food",
+"fr": "Boissons, gazeuses, cola, cola de fast-food",
+"es": "Bebidas, carbonatadas, cola, cola de comida rápida",
+"de": "Getränke, kohlensäurehaltig, Cola, Fast-Food-Cola",
+"pt": "Bebidas, carbonatadas, cola, cola de fast food"
+},
+"2015": {
+"it": "Bevande, gassate, cola, normale",
+"fr": "Boissons, gazeuses, cola, normal",
+"es": "Bebidas, carbonatadas, cola, normal",
+"de": "Getränke, kohlensäurehaltig, Cola, normal",
+"pt": "Bebidas, carbonatadas, cola, normal"
+},
+"2016": {
+"it": "Bevande, gassate, cola, senza caffeina",
+"fr": "Boissons, gazeuses, cola, sans caféine",
+"es": "Bebidas, carbonatadas, cola, sin cafeína",
+"de": "Getränke, kohlensäurehaltig, Cola, ohne Koffein",
+"pt": "Bebidas, carbonatadas, cola, sem cafeína"
+},
+"2017": {
+"it": "Bevande, gassate, ginger ale",
+"fr": "Boissons, gazeuses, ginger ale",
+"es": "Bebidas, carbonatadas, ginger ale",
+"de": "Getränke, kohlensäurehaltig, Ginger Ale",
+"pt": "Bebidas, carbonatadas, ginger ale"
+},
+"2018": {
+"it": "Bevande, gassate, bibita all'uva",
+"fr": "Boissons, gazeuses, soda au raisin",
+"es": "Bebidas, carbonatadas, refresco de uva",
+"de": "Getränke, kohlensäurehaltig, Traubenlimonade",
+"pt": "Bebidas, carbonatadas, refrigerante de uva"
+},
+"2019": {
+"it": "Bevande, gassate, bibita limone-lime, senza caffeina",
+"fr": "Boissons, gazeuses, soda citron-citron vert, sans caféine",
+"es": "Bebidas, carbonatadas, refresco de lima-limón, sin cafeína",
+"de": "Getränke, kohlensäurehaltig, Zitrone-Limette-Limonade, ohne Koffein",
+"pt": "Bebidas, carbonatadas, refrigerante de limão, sem cafeína"
+},
+"2020": {
+"it": "Bevande, gassate, limeade (bibita al lime), ad alto contenuto di caffeina",
+"fr": "Boissons, gazeuses, limeade (boisson au citron vert), à forte teneur en caféine",
+"es": "Bebidas, carbonatadas, limeade (bebida de lima), con alto contenido de cafeína",
+"de": "Getränke, kohlensäurehaltig, Limeade (Limettengetränk), mit hohem Koffeingehalt",
+"pt": "Bebidas, carbonatadas, limeade (bebida de limão), com alto teor de cafeína"
+},
+"2021": {
+"it": "Bevande, gassate, a basso contenuto calorico, tipo cola o pepper, con aspartame, contiene caffeina",
+"fr": "Boissons, gazeuses, faible en calories, de type cola ou pepper, avec aspartame, contient de la caféine",
+"es": "Bebidas, carbonatadas, bajo en calorías, tipo cola o pepper, con aspartamo, contiene cafeína",
+"de": "Getränke, kohlensäurehaltig, kalorienarm, Cola- oder Pepper-Typ, mit Aspartam, mit Koffein",
+"pt": "Bebidas, carbonatadas, com baixas calorias, tipo cola ou pepper, com aspartame, contém cafeína"
+},
+"2022": {
+"it": "Bevande, gassate, a basso contenuto calorico, tipo cola o pepper, con aspartame, senza caffeina",
+"fr": "Boissons, gazeuses, faible en calories, de type cola ou pepper, avec aspartame, sans caféine",
+"es": "Bebidas, carbonatadas, bajo en calorías, tipo cola o pepper, con aspartamo, sin cafeína",
+"de": "Getränke, kohlensäurehaltig, kalorienarm, Cola- oder Pepper-Typ, mit Aspartam, ohne Koffein",
+"pt": "Bebidas, carbonatadas, com baixas calorias, tipo cola ou pepper, com aspartame, sem cafeína"
+},
+"2023": {
+"it": "Bevande, gassate, a basso contenuto calorico, tipo cola o pepper, con saccarina sodica, contiene caffeina",
+"fr": "Boissons, gazeuses, faible en calories, de type cola ou pepper, avec saccharine sodique, contient de la caféine",
+"es": "Bebidas, carbonatadas, bajo en calorías, tipo cola o pepper, con sacarina sódica, contiene cafeína",
+"de": "Getränke, kohlensäurehaltig, kalorienarm, Cola- oder Pepper-Typ, mit Natriumsaccharin, mit Koffein",
+"pt": "Bebidas, carbonatadas, com baixas calorias, tipo cola ou pepper, com sacarina sódica, contém cafeína"
+},
+"2024": {
+"it": "Bevande, gassate, a basso contenuto calorico, diverse da cola o pepper, con aspartame, contiene caffeina",
+"fr": "Boissons, gazeuses, faible en calories, autres que cola ou pepper, avec aspartame, contient de la caféine",
+"es": "Bebidas, carbonatadas, bajo en calorías, distintas de cola o pepper, con aspartamo, contiene cafeína",
+"de": "Getränke, kohlensäurehaltig, kalorienarm, außer Cola oder Pepper, mit Aspartam, mit Koffein",
+"pt": "Bebidas, carbonatadas, com baixas calorias, exceto cola ou pepper, com aspartame, contém cafeína"
+},
+"2025": {
+"it": "Bevande, gassate, a basso contenuto calorico, diverse da cola o pepper, senza caffeina",
+"fr": "Boissons, gazeuses, faible en calories, autres que cola ou pepper, sans caféine",
+"es": "Bebidas, carbonatadas, bajo en calorías, distintas de cola o pepper, sin cafeína",
+"de": "Getränke, kohlensäurehaltig, kalorienarm, außer Cola oder Pepper, ohne Koffein",
+"pt": "Bebidas, carbonatadas, com baixas calorias, exceto cola ou pepper, sem cafeína"
+},
+"2026": {
+"it": "Bevande, gassate, all'arancia",
+"fr": "Boissons, gazeuses, à l'orange",
+"es": "Bebidas, carbonatadas, de naranja",
+"de": "Getränke, kohlensäurehaltig, Orange",
+"pt": "Bebidas, carbonatadas, de laranja"
+},
+"2027": {
+"it": "Bevande, gassate, tipo pepper, contiene caffeina",
+"fr": "Boissons, gazeuses, de type pepper, contient de la caféine",
+"es": "Bebidas, carbonatadas, tipo pepper, contiene cafeína",
+"de": "Getränke, kohlensäurehaltig, Pepper-Typ, mit Koffein",
+"pt": "Bebidas, carbonatadas, tipo pepper, contém cafeína"
+},
+"2028": {
+"it": "Bevande, gassate, a ridotto contenuto di zuccheri, cola, contiene caffeina e dolcificanti",
+"fr": "Boissons, gazeuses, à teneur réduite en sucre, cola, contient de la caféine et des édulcorants",
+"es": "Bebidas, carbonatadas, reducido en azúcar, cola, contiene cafeína y edulcorantes",
+"de": "Getränke, kohlensäurehaltig, zuckerreduziert, Cola, mit Koffein und Süßungsmitteln",
+"pt": "Bebidas, carbonatadas, com redução de açúcar, cola, contém cafeína e adoçantes"
+},
+"2029": {
+"it": "Bevande, gassate, root beer",
+"fr": "Boissons, gazeuses, root beer",
+"es": "Bebidas, carbonatadas, root beer",
+"de": "Getränke, kohlensäurehaltig, Root Beer",
+"pt": "Bebidas, carbonatadas, root beer"
+},
+"2030": {
+"it": "Bevande, gassate, SPRITE, limone-lime, senza caffeina",
+"fr": "Boissons, gazeuses, SPRITE, citron-citron vert, sans caféine",
+"es": "Bebidas, carbonatadas, SPRITE, lima-limón, sin cafeína",
+"de": "Getränke, kohlensäurehaltig, SPRITE, Zitrone-Limette, ohne Koffein",
+"pt": "Bebidas, carbonatadas, SPRITE, limão, sem cafeína"
+},
+"2031": {
+"it": "Bevande, gassate, acqua tonica",
+"fr": "Boissons, gazeuses, eau tonique",
+"es": "Bebidas, carbonatadas, agua tónica",
+"de": "Getränke, kohlensäurehaltig, Tonic Water",
+"pt": "Bebidas, carbonatadas, água tônica"
+},
+"2032": {
+"it": "Bevande, preparato per bevanda al gusto di carruba, in polvere",
+"fr": "Boissons, préparation pour boisson saveur caroube, en poudre",
+"es": "Bebidas, mezcla para bebida sabor algarroba, en polvo",
+"de": "Getränke, Getränkepulver mit Johannisbrotgeschmack, Pulver",
+"pt": "Bebidas, mistura para bebida sabor alfarroba, em pó"
+},
+"2033": {
+"it": "Bevande, preparato per bevanda al gusto di carruba, in polvere, preparato con latte intero",
+"fr": "Boissons, préparation pour boisson saveur caroube, en poudre, préparé avec du lait entier",
+"es": "Bebidas, mezcla para bebida sabor algarroba, en polvo, preparado con leche entera",
+"de": "Getränke, Getränkepulver mit Johannisbrotgeschmack, Pulver, mit Vollmilch zubereitet",
+"pt": "Bebidas, mistura para bebida sabor alfarroba, em pó, preparado com leite integral"
+},
+"2034": {
+"it": "Bevande, latte di mandorla al cioccolato, non zuccherato, a lunga conservazione, fortificato con vitamine D2 ed E",
+"fr": "Boissons, lait d'amande au chocolat, non sucré, longue conservation, fortifié en vitamines D2 et E",
+"es": "Bebidas, leche de almendra con chocolate, sin azúcar, de larga duración, fortificado con vitaminas D2 y E",
+"de": "Getränke, Schoko-Mandelmilch, ungezuckert, haltbar, mit den Vitaminen D2 und E angereichert",
+"pt": "Bebidas, leite de amêndoa com chocolate, sem açúcar, de longa duração, fortificado com vitaminas D2 e E"
+},
+"2035": {
+"it": "Bevande, bevanda al cioccolato, a base di latte e soia, pronto da bere, fortificato",
+"fr": "Boissons, boisson au chocolat, à base de lait et de soja, prêt à boire, fortifié",
+"es": "Bebidas, bebida de chocolate, a base de leche y soja, listo para beber, fortificado",
+"de": "Getränke, Schokoladengetränk, auf Milch- und Sojabasis, trinkfertig, angereichert",
+"pt": "Bebidas, bebida de chocolate, à base de leite e soja, pronto para beber, fortificado"
+},
+"2036": {
+"it": "Bevande, malto al cioccolato in polvere, preparato con latte all'1%, fortificato",
+"fr": "Boissons, poudre de malt au chocolat, préparé avec du lait à 1 %, fortifié",
+"es": "Bebidas, polvo de malta con chocolate, preparado con leche al 1%, fortificado",
+"de": "Getränke, Schoko-Malzpulver, mit 1%-Milch zubereitet, angereichert",
+"pt": "Bebidas, pó de malte com chocolate, preparado com leite a 1%, fortificado"
+},
+"2037": {
+"it": "Bevande, malto al cioccolato, in polvere, preparato con latte senza grassi",
+"fr": "Boissons, malt au chocolat, en poudre, préparé avec du lait sans matières grasses",
+"es": "Bebidas, malta con chocolate, en polvo, preparado con leche sin grasa",
+"de": "Getränke, Schoko-Malz, Pulver, mit fettfreier Milch zubereitet",
+"pt": "Bebidas, malte com chocolate, em pó, preparado com leite sem gordura"
+},
+"2038": {
+"it": "Bevande, cioccolato in polvere, senza zuccheri aggiunti",
+"fr": "Boissons, chocolat en poudre, sans sucre ajouté",
+"es": "Bebidas, chocolate en polvo, sin azúcar añadido",
+"de": "Getränke, Schokoladenpulver, ohne Zuckerzusatz",
+"pt": "Bebidas, chocolate em pó, sem açúcar adicionado"
+},
+"2039": {
+"it": "Bevande, sciroppo al cioccolato",
+"fr": "Boissons, sirop de chocolat",
+"es": "Bebidas, sirope de chocolate",
+"de": "Getränke, Schokoladensirup",
+"pt": "Bebidas, calda de chocolate"
+},
+"2040": {
+"it": "Bevande, sciroppo al cioccolato, preparato con latte intero",
+"fr": "Boissons, sirop de chocolat, préparé avec du lait entier",
+"es": "Bebidas, sirope de chocolate, preparado con leche entera",
+"de": "Getränke, Schokoladensirup, mit Vollmilch zubereitet",
+"pt": "Bebidas, calda de chocolate, preparado com leite integral"
+},
+"2041": {
+"it": "Bevande, preparato per bevanda al gusto di cioccolato da aggiungere al latte, in polvere, con nutrienti aggiunti",
+"fr": "Boissons, préparation pour boisson au chocolat à ajouter au lait, en poudre, avec nutriments ajoutés",
+"es": "Bebidas, mezcla para bebida con sabor a chocolate para leche, en polvo, con nutrientes añadidos",
+"de": "Getränke, Getränkepulver mit Schokoladengeschmack für Milch, Pulver, mit Nährstoffzusatz",
+"pt": "Bebidas, mistura para bebida sabor chocolate para leite, em pó, com nutrientes adicionados"
+},
+"2042": {
+"it": "Bevande, preparato per bevanda al gusto di cioccolato da aggiungere al latte, in polvere, con nutrienti aggiunti, preparato con latte intero",
+"fr": "Boissons, préparation pour boisson au chocolat à ajouter au lait, en poudre, avec nutriments ajoutés, préparé avec du lait entier",
+"es": "Bebidas, mezcla para bebida con sabor a chocolate para leche, en polvo, con nutrientes añadidos, preparado con leche entera",
+"de": "Getränke, Getränkepulver mit Schokoladengeschmack für Milch, Pulver, mit Nährstoffzusatz, mit Vollmilch zubereitet",
+"pt": "Bebidas, mistura para bebida sabor chocolate para leite, em pó, com nutrientes adicionados, preparado com leite integral"
+},
+"2043": {
+"it": "Bevande, preparato per bevanda al gusto di cioccolato, in polvere, preparato con latte intero",
+"fr": "Boissons, préparation pour boisson au chocolat, en poudre, préparé avec du lait entier",
+"es": "Bebidas, mezcla para bebida con sabor a chocolate, en polvo, preparado con leche entera",
+"de": "Getränke, Getränkepulver mit Schokoladengeschmack, Pulver, mit Vollmilch zubereitet",
+"pt": "Bebidas, mistura para bebida sabor chocolate, em pó, preparado com leite integral"
+},
+"2044": {
+"it": "Bevande, bevanda al gusto di cioccolato, a base di siero di latte e latte",
+"fr": "Boissons, boisson au chocolat, à base de lactosérum et de lait",
+"es": "Bebidas, bebida con sabor a chocolate, a base de suero de leche y leche",
+"de": "Getränke, Getränk mit Schokoladengeschmack, auf Molken- und Milchbasis",
+"pt": "Bebidas, bebida sabor chocolate, à base de soro do leite e leite"
+},
+"2045": {
+"it": "Bevande, bevanda al succo di agrumi, concentrato surgelato",
+"fr": "Boissons, boisson au jus d'agrumes, concentré surgelé",
+"es": "Bebidas, bebida de zumo de cítricos, concentrado congelado",
+"de": "Getränke, Zitrusfruchtsaftgetränk, tiefgekühltes Konzentrat",
+"pt": "Bebidas, bebida de suco de cítricos, concentrado congelado"
+},
+"2046": {
+"it": "Bevande, bevanda al succo di agrumi, concentrato surgelato, preparato con acqua",
+"fr": "Boissons, boisson au jus d'agrumes, concentré surgelé, préparé avec de l'eau",
+"es": "Bebidas, bebida de zumo de cítricos, concentrado congelado, preparado con agua",
+"de": "Getränke, Zitrusfruchtsaftgetränk, tiefgekühltes Konzentrat, mit Wasser zubereitet",
+"pt": "Bebidas, bebida de suco de cítricos, concentrado congelado, preparado com água"
+},
+"2047": {
+"it": "Bevande, succo di vongole e pomodoro, in scatola",
+"fr": "Boissons, jus de palourde et de tomate, en conserve",
+"es": "Bebidas, zumo de almeja y tomate, en conserva",
+"de": "Getränke, Muschel-Tomaten-Saft, aus der Dose",
+"pt": "Bebidas, suco de marisco e tomate, enlatado"
+},
+"2048": {
+"it": "Bevande, COCA-COLA, POWERADE, gusto limone-lime, pronto da bere",
+"fr": "Boissons, COCA-COLA, POWERADE, saveur citron-citron vert, prêt à boire",
+"es": "Bebidas, COCA-COLA, POWERADE, sabor lima-limón, listo para beber",
+"de": "Getränke, COCA-COLA, POWERADE, mit Zitrone-Limette-Geschmack, trinkfertig",
+"pt": "Bebidas, COCA-COLA, POWERADE, sabor limão, pronto para beber"
+},
+"2049": {
+"it": "Bevande, preparato per cocktail, analcolico, concentrato, surgelato",
+"fr": "Boissons, préparation pour cocktail, sans alcool, concentré, surgelé",
+"es": "Bebidas, mezcla para cóctel, sin alcohol, concentrado, congelado",
+"de": "Getränke, Cocktailmix, alkoholfrei, konzentriert, tiefgekühlt",
+"pt": "Bebidas, mistura para coquetel, sem álcool, concentrado, congelado"
+},
+"2050": {
+"it": "Bevande, preparato per cacao, a basso contenuto calorico, in polvere, con calcio aggiunto, fosforo, aspartame, senza sodio né vitamina A aggiunti",
+"fr": "Boissons, préparation pour cacao, faible en calories, en poudre, avec calcium ajouté, phosphore, aspartame, sans sodium ni vitamine A ajoutés",
+"es": "Bebidas, mezcla de cacao, bajo en calorías, en polvo, con calcio añadido, fósforo, aspartamo, sin sodio ni vitamina A añadidos",
+"de": "Getränke, Kakaomischung, kalorienarm, Pulver, mit Calciumzusatz, Phosphor, Aspartam, ohne Natrium- oder Vitamin-A-Zusatz",
+"pt": "Bebidas, mistura de cacau, com baixas calorias, em pó, com cálcio adicionado, fósforo, aspartame, sem sódio nem vitamina A adicionados"
+},
+"2051": {
+"it": "Bevande, preparato per cacao, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows",
+"fr": "Boissons, préparation pour cacao, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows",
+"es": "Bebidas, mezcla de cacao, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows",
+"de": "Getränke, Kakaomischung, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows",
+"pt": "Bebidas, mistura de cacau, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows"
+},
+"2052": {
+"it": "Bevande, preparato per cacao, senza zuccheri aggiunti, in polvere",
+"fr": "Boissons, préparation pour cacao, sans sucre ajouté, en poudre",
+"es": "Bebidas, mezcla de cacao, sin azúcar añadido, en polvo",
+"de": "Getränke, Kakaomischung, ohne Zuckerzusatz, Pulver",
+"pt": "Bebidas, mistura de cacau, sem açúcar adicionado, em pó"
+},
+"2053": {
+"it": "Bevande, preparato per cacao, in polvere",
+"fr": "Boissons, préparation pour cacao, en poudre",
+"es": "Bebidas, mezcla de cacao, en polvo",
+"de": "Getränke, Kakaomischung, Pulver",
+"pt": "Bebidas, mistura de cacau, em pó"
+},
+"2054": {
+"it": "Bevande, preparato per cacao, in polvere, preparato con acqua",
+"fr": "Boissons, préparation pour cacao, en poudre, préparé avec de l'eau",
+"es": "Bebidas, mezcla de cacao, en polvo, preparado con agua",
+"de": "Getränke, Kakaomischung, Pulver, mit Wasser zubereitet",
+"pt": "Bebidas, mistura de cacau, em pó, preparado com água"
+},
+"2055": {
+"it": "Bevande, preparato per cacao, con aspartame, in polvere, preparato con acqua",
+"fr": "Boissons, préparation pour cacao, avec aspartame, en poudre, préparé avec de l'eau",
+"es": "Bebidas, mezcla de cacao, con aspartamo, en polvo, preparado con agua",
+"de": "Getränke, Kakaomischung, mit Aspartam, Pulver, mit Wasser zubereitet",
+"pt": "Bebidas, mistura de cacau, com aspartame, em pó, preparado com água"
+},
+"2056": {
+"it": "Bevande, latte di cocco, zuccherato, fortificato con calcio, vitamine A, B12, D2",
+"fr": "Boissons, lait de coco, sucré, fortifié en calcium, vitamines A, B12, D2",
+"es": "Bebidas, leche de coco, azucarado, fortificado con calcio, vitaminas A, B12, D2",
+"de": "Getränke, Kokosmilch, gezuckert, mit Calcium angereichert, Vitamine A, B12, D2",
+"pt": "Bebidas, leite de coco, adoçado, fortificado com cálcio, vitaminas A, B12, D2"
+},
+"2057": {
+"it": "Bevande, acqua di cocco, pronto da bere, non zuccherato",
+"fr": "Boissons, eau de coco, prêt à boire, non sucré",
+"es": "Bebidas, agua de coco, listo para beber, sin azúcar",
+"de": "Getränke, Kokoswasser, trinkfertig, ungezuckert",
+"pt": "Bebidas, água de coco, pronto para beber, sem açúcar"
+},
+"2058": {
+"it": "Bevande, caffè e cacao, istantaneo, decaffeinato, con sbiancante e dolcificante a basso contenuto calorico",
+"fr": "Boissons, café et cacao, instantané, décaféiné, avec blanchisseur et édulcorant hypocalorique",
+"es": "Bebidas, café y cacao, instantáneo, descafeinado, con blanqueador y edulcorante bajo en calorías",
+"de": "Getränke, Kaffee und Kakao, Instant, entkoffeiniert, mit Kaffeeweißer und kalorienarmem Süßstoff",
+"pt": "Bebidas, café e cacau, instantâneo, descafeinado, com branqueador e adoçante de baixa caloria"
+},
+"2059": {
+"it": "Bevande, surrogato del caffè, bevanda di cereali, in polvere",
+"fr": "Boissons, substitut de café, boisson à base de céréales, en poudre",
+"es": "Bebidas, sustituto del café, bebida de cereales, en polvo",
+"de": "Getränke, Kaffee-Ersatz, Getreidegetränk, Pulver",
+"pt": "Bebidas, substituto do café, bebida de cereais, em pó"
+},
+"2060": {
+"it": "Bevande, surrogato del caffè, bevanda di cereali, in polvere, preparato con latte intero",
+"fr": "Boissons, substitut de café, boisson à base de céréales, en poudre, préparé avec du lait entier",
+"es": "Bebidas, sustituto del café, bebida de cereales, en polvo, preparado con leche entera",
+"de": "Getränke, Kaffee-Ersatz, Getreidegetränk, Pulver, mit Vollmilch zubereitet",
+"pt": "Bebidas, substituto do café, bebida de cereais, em pó, preparado com leite integral"
+},
+"2061": {
+"it": "Bevande, surrogato del caffè, bevanda di cereali, preparato con acqua",
+"fr": "Boissons, substitut de café, boisson à base de céréales, préparé avec de l'eau",
+"es": "Bebidas, sustituto del café, bebida de cereales, preparado con agua",
+"de": "Getränke, Kaffee-Ersatz, Getreidegetränk, mit Wasser zubereitet",
+"pt": "Bebidas, substituto do café, bebida de cereais, preparado com água"
+},
+"2062": {
+"it": "Bevande, caffè, preparato per infusione, miscela per colazione",
+"fr": "Boissons, café, infusé, mélange petit-déjeuner",
+"es": "Bebidas, café, preparado, mezcla desayuno",
+"de": "Getränke, Kaffee, aufgebrüht, Frühstücksmischung",
+"pt": "Bebidas, café, coado, blend para café da manhã"
+},
+"2063": {
+"it": "Bevande, caffè, preparato per infusione, espresso, preparato al ristorante",
+"fr": "Boissons, café, infusé, expresso, préparé au restaurant",
+"es": "Bebidas, café, preparado, espresso, preparado en restaurante",
+"de": "Getränke, Kaffee, aufgebrüht, Espresso, im Restaurant zubereitet",
+"pt": "Bebidas, café, coado, espresso, preparado em restaurante"
+},
+"2064": {
+"it": "Bevande, caffè, preparato per infusione, espresso, preparato al ristorante, decaffeinato",
+"fr": "Boissons, café, infusé, expresso, préparé au restaurant, décaféiné",
+"es": "Bebidas, café, preparado, espresso, preparado en restaurante, descafeinado",
+"de": "Getränke, Kaffee, aufgebrüht, Espresso, im Restaurant zubereitet, entkoffeiniert",
+"pt": "Bebidas, café, coado, espresso, preparado em restaurante, descafeinado"
+},
+"2065": {
+"it": "Bevande, caffè, preparato per infusione, preparato con acqua del rubinetto",
+"fr": "Boissons, café, infusé, préparé avec de l'eau du robinet",
+"es": "Bebidas, café, preparado, preparado con agua del grifo",
+"de": "Getränke, Kaffee, aufgebrüht, mit Leitungswasser zubereitet",
+"pt": "Bebidas, café, coado, preparado com água da torneira"
+},
+"2066": {
+"it": "Bevande, caffè, preparato per infusione, preparato con acqua del rubinetto, decaffeinato",
+"fr": "Boissons, café, infusé, préparé avec de l'eau du robinet, décaféiné",
+"es": "Bebidas, café, preparado, preparado con agua del grifo, descafeinado",
+"de": "Getränke, Kaffee, aufgebrüht, mit Leitungswasser zubereitet, entkoffeiniert",
+"pt": "Bebidas, café, coado, preparado com água da torneira, descafeinado"
+},
+"2067": {
+"it": "Bevande, caffè, istantaneo, cicoria",
+"fr": "Boissons, café, instantané, chicorée",
+"es": "Bebidas, café, instantáneo, achicoria",
+"de": "Getränke, Kaffee, Instant, Zichorie",
+"pt": "Bebidas, café, instantâneo, chicória"
+},
+"2068": {
+"it": "Bevande, caffè, istantaneo, decaffeinato, in polvere",
+"fr": "Boissons, café, instantané, décaféiné, en poudre",
+"es": "Bebidas, café, instantáneo, descafeinado, en polvo",
+"de": "Getränke, Kaffee, Instant, entkoffeiniert, Pulver",
+"pt": "Bebidas, café, instantâneo, descafeinado, em pó"
+},
+"2069": {
+"it": "Bevande, caffè, istantaneo, decaffeinato, preparato con acqua",
+"fr": "Boissons, café, instantané, décaféiné, préparé avec de l'eau",
+"es": "Bebidas, café, instantáneo, descafeinado, preparado con agua",
+"de": "Getränke, Kaffee, Instant, entkoffeiniert, mit Wasser zubereitet",
+"pt": "Bebidas, café, instantâneo, descafeinado, preparado com água"
+},
+"2070": {
+"it": "Bevande, caffè, istantaneo, moka, zuccherato",
+"fr": "Boissons, café, instantané, moka, sucré",
+"es": "Bebidas, café, instantáneo, moca, azucarado",
+"de": "Getränke, Kaffee, Instant, Mokka, gezuckert",
+"pt": "Bebidas, café, instantâneo, mocha, adoçado"
+},
+"2071": {
+"it": "Bevande, caffè, istantaneo, normale, con metà caffeina",
+"fr": "Boissons, café, instantané, normal, avec moitié moins de caféine",
+"es": "Bebidas, café, instantáneo, normal, con la mitad de cafeína",
+"de": "Getränke, Kaffee, Instant, normal, mit halbem Koffeingehalt",
+"pt": "Bebidas, café, instantâneo, normal, com metade da cafeína"
+},
+"2072": {
+"it": "Bevande, caffè, istantaneo, normale, in polvere",
+"fr": "Boissons, café, instantané, normal, en poudre",
+"es": "Bebidas, café, instantáneo, normal, en polvo",
+"de": "Getränke, Kaffee, Instant, normal, Pulver",
+"pt": "Bebidas, café, instantâneo, normal, em pó"
+},
+"2073": {
+"it": "Bevande, caffè, istantaneo, normale, preparato con acqua",
+"fr": "Boissons, café, instantané, normal, préparé avec de l'eau",
+"es": "Bebidas, café, instantáneo, normal, preparado con agua",
+"de": "Getränke, Kaffee, Instant, normal, mit Wasser zubereitet",
+"pt": "Bebidas, café, instantâneo, normal, preparado com água"
+},
+"2074": {
+"it": "Bevande, caffè, istantaneo, vaniglia, zuccherato, decaffeinato, con crema non lattiera",
+"fr": "Boissons, café, instantané, vanille, sucré, décaféiné, avec succédané de crème non laitier",
+"es": "Bebidas, café, instantáneo, vainilla, azucarado, descafeinado, con crema no láctea",
+"de": "Getränke, Kaffee, Instant, Vanille, gezuckert, entkoffeiniert, mit nicht-milchhaltigem Kaffeeweißer",
+"pt": "Bebidas, café, instantâneo, baunilha, adoçado, descafeinado, com creme não lácteo"
+},
+"2075": {
+"it": "Bevande, caffè, istantaneo, con cicoria",
+"fr": "Boissons, café, instantané, avec chicorée",
+"es": "Bebidas, café, instantáneo, con achicoria",
+"de": "Getränke, Kaffee, Instant, mit Zichorie",
+"pt": "Bebidas, café, instantâneo, com chicória"
+},
+"2076": {
+"it": "Bevande, caffè, istantaneo, con sbiancante, a ridotto contenuto calorico",
+"fr": "Boissons, café, instantané, avec blanchisseur, à teneur réduite en calories",
+"es": "Bebidas, café, instantáneo, con blanqueador, reducido en calorías",
+"de": "Getränke, Kaffee, Instant, mit Kaffeeweißer, kalorienreduziert",
+"pt": "Bebidas, café, instantâneo, com branqueador, com redução de calorias"
+},
+"2077": {
+"it": "Bevande, caffè, pronto da bere, ghiacciato, moka, a base di latte",
+"fr": "Boissons, café, prêt à boire, glacé, moka, à base de lait",
+"es": "Bebidas, café, listo para beber, helado, moca, a base de leche",
+"de": "Getränke, Kaffee, trinkfertig, gekühlt, Mokka, auf Milchbasis",
+"pt": "Bebidas, café, pronto para beber, gelado, mocha, à base de leite"
+},
+"2078": {
+"it": "Bevande, caffè, pronto da bere, a base di latte, zuccherato",
+"fr": "Boissons, café, prêt à boire, à base de lait, sucré",
+"es": "Bebidas, café, listo para beber, a base de leche, azucarado",
+"de": "Getränke, Kaffee, trinkfertig, auf Milchbasis, gezuckert",
+"pt": "Bebidas, café, pronto para beber, à base de leite, adoçado"
+},
+"2079": {
+"it": "Bevande, caffè, pronto da bere, vaniglia, leggera, a base di latte, zuccherato",
+"fr": "Boissons, café, prêt à boire, vanille, légère, à base de lait, sucré",
+"es": "Bebidas, café, listo para beber, vainilla, ligera, a base de leche, azucarado",
+"de": "Getränke, Kaffee, trinkfertig, Vanille, leicht, auf Milchbasis, gezuckert",
+"pt": "Bebidas, café, pronto para beber, baunilha, light, à base de leite, adoçado"
+},
+"2080": {
+"it": "Bevande, cocktail di succo di mirtillo rosso",
+"fr": "Boissons, cocktail de jus de canneberge",
+"es": "Bebidas, cóctel de zumo de arándano rojo",
+"de": "Getränke, Cranberry-Saftcocktail",
+"pt": "Bebidas, coquetel de suco de cranberry"
+},
+"2081": {
+"it": "Bevande, bevanda al succo di mirtillo rosso e mela, in bottiglia",
+"fr": "Boissons, boisson au jus de canneberge et de pomme, en bouteille",
+"es": "Bebidas, bebida de zumo de arándano rojo y manzana, embotellado",
+"de": "Getränke, Cranberry-Apfel-Saftgetränk, in Flaschen",
+"pt": "Bebidas, bebida de suco de cranberry e maçã, engarrafado"
+},
+"2082": {
+"it": "Bevande, bevanda al succo di mirtillo rosso e mela, a basso contenuto calorico, con vitamina C aggiunta",
+"fr": "Boissons, boisson au jus de canneberge et de pomme, faible en calories, avec vitamine C ajoutée",
+"es": "Bebidas, bebida de zumo de arándano rojo y manzana, bajo en calorías, con vitamina C añadida",
+"de": "Getränke, Cranberry-Apfel-Saftgetränk, kalorienarm, mit Vitamin-C-Zusatz",
+"pt": "Bebidas, bebida de suco de cranberry e maçã, com baixas calorias, com vitamina C adicionada"
+},
+"2083": {
+"it": "Bevande, bevanda al succo di mirtillo rosso e albicocca, in bottiglia",
+"fr": "Boissons, boisson au jus de canneberge et d'abricot, en bouteille",
+"es": "Bebidas, bebida de zumo de arándano rojo y albaricoque, embotellado",
+"de": "Getränke, Cranberry-Aprikosen-Saftgetränk, in Flaschen",
+"pt": "Bebidas, bebida de suco de cranberry e damasco, engarrafado"
+},
+"2084": {
+"it": "Bevande, bevanda al succo di mirtillo rosso e uva, in bottiglia",
+"fr": "Boissons, boisson au jus de canneberge et de raisin, en bouteille",
+"es": "Bebidas, bebida de zumo de arándano rojo y uva, embotellado",
+"de": "Getränke, Cranberry-Trauben-Saftgetränk, in Flaschen",
+"pt": "Bebidas, bebida de suco de cranberry e uva, engarrafado"
+},
+"2085": {
+"it": "Bevande, CYTOSPORT, Muscle Milk, pronto da bere",
+"fr": "Boissons, CYTOSPORT, Muscle Milk, prêt à boire",
+"es": "Bebidas, CYTOSPORT, Muscle Milk, listo para beber",
+"de": "Getränke, CYTOSPORT, Muscle Milk, trinkfertig",
+"pt": "Bebidas, CYTOSPORT, Muscle Milk, pronto para beber"
+}
+}

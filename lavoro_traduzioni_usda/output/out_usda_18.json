@@ -1,0 +1,2088 @@
+{
+ "5066": {
+  "it": "Crostacei, granchio king dell'Alaska, imitazione, a base di surimi",
+  "fr": "Crustacés, crabe royal d'Alaska, imitation, à base de surimi",
+  "es": "Crustáceos, cangrejo real de Alaska, imitación, elaborado con surimi",
+  "de": "Krebstiere, Alaska-Königskrabbe, Imitat, aus Surimi",
+  "pt": "Crustáceos, caranguejo-rei do Alasca, imitação, feito de surimi"
+ },
+ "5067": {
+  "it": "Crostacei, granchio king dell'Alaska, crudo",
+  "fr": "Crustacés, crabe royal d'Alaska, cru",
+  "es": "Crustáceos, cangrejo real de Alaska, crudo",
+  "de": "Krebstiere, Alaska-Königskrabbe, roh",
+  "pt": "Crustáceos, caranguejo-rei do Alasca, cru"
+ },
+ "5068": {
+  "it": "Crostacei, granchio nuotatore blu, polpa a pezzi, pastorizzato, refrigerato",
+  "fr": "Crustacés, crabe nageur bleu, chair en morceaux, pasteurisé, réfrigéré",
+  "es": "Crustáceos, cangrejo nadador azul, carne en trozos, pasteurizado, refrigerado",
+  "de": "Krebstiere, Blaue Schwimmkrabbe, Stücke, pasteurisiert, gekühlt",
+  "pt": "Crustáceos, siri-nadador azul, carne em pedaços, pasteurizado, refrigerado"
+ },
+ "5069": {
+  "it": "Crostacei, granchio blu, in scatola",
+  "fr": "Crustacés, crabe bleu, en conserve",
+  "es": "Crustáceos, cangrejo azul, en conserva",
+  "de": "Krebstiere, Blaukrabbe, aus der Dose",
+  "pt": "Crustáceos, siri-azul, enlatado"
+ },
+ "5070": {
+  "it": "Crostacei, granchio blu, cotto, calore umido",
+  "fr": "Crustacés, crabe bleu, cuit, chaleur humide",
+  "es": "Crustáceos, cangrejo azul, cocido, calor húmedo",
+  "de": "Krebstiere, Blaukrabbe, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, siri-azul, cozido, calor úmido"
+ },
+ "5071": {
+  "it": "Crostacei, granchio blu, crocchette di granchio, ricetta casalinga",
+  "fr": "Crustacés, crabe bleu, galettes de crabe, recette maison",
+  "es": "Crustáceos, cangrejo azul, croquetas de cangrejo, receta casera",
+  "de": "Krebstiere, Blaukrabbe, Krabbenfrikadellen, Hausrezept",
+  "pt": "Crustáceos, siri-azul, bolinhos de caranguejo, receita caseira"
+ },
+ "5072": {
+  "it": "Crostacei, granchio blu, crudo",
+  "fr": "Crustacés, crabe bleu, cru",
+  "es": "Crustáceos, cangrejo azul, crudo",
+  "de": "Krebstiere, Blaukrabbe, roh",
+  "pt": "Crustáceos, siri-azul, cru"
+ },
+ "5073": {
+  "it": "Crostacei, granchio Dungeness, cotto, calore umido",
+  "fr": "Crustacés, crabe Dungeness, cuit, chaleur humide",
+  "es": "Crustáceos, cangrejo Dungeness, cocido, calor húmedo",
+  "de": "Krebstiere, Dungeness-Krabbe, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, caranguejo Dungeness, cozido, calor úmido"
+ },
+ "5074": {
+  "it": "Crostacei, granchio Dungeness, crudo",
+  "fr": "Crustacés, crabe Dungeness, cru",
+  "es": "Crustáceos, cangrejo Dungeness, crudo",
+  "de": "Krebstiere, Dungeness-Krabbe, roh",
+  "pt": "Crustáceos, caranguejo Dungeness, cru"
+ },
+ "5075": {
+  "it": "Crostacei, granchio delle nevi, cotto, calore umido",
+  "fr": "Crustacés, crabe des neiges, cuit, chaleur humide",
+  "es": "Crustáceos, cangrejo de las nieves, cocido, calor húmedo",
+  "de": "Krebstiere, Schneekrabbe, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, caranguejo-das-neves, cozido, calor úmido"
+ },
+ "5076": {
+  "it": "Crostacei, granchio delle nevi, crudo",
+  "fr": "Crustacés, crabe des neiges, cru",
+  "es": "Crustáceos, cangrejo de las nieves, crudo",
+  "de": "Krebstiere, Schneekrabbe, roh",
+  "pt": "Crustáceos, caranguejo-das-neves, cru"
+ },
+ "5077": {
+  "it": "Crostacei, gambero di fiume, specie miste, d'allevamento, cotto, calore umido",
+  "fr": "Crustacés, écrevisse, espèces mélangées, d'élevage, cuite, chaleur humide",
+  "es": "Crustáceos, cangrejo de río, especies mixtas, de granja, cocido, calor húmedo",
+  "de": "Krebstiere, Flusskrebs, gemischte Arten, aus Zucht, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, lagostim de água doce, espécies mistas, de criação, cozido, calor úmido"
+ },
+ "5078": {
+  "it": "Crostacei, gambero di fiume, specie miste, d'allevamento, crudo",
+  "fr": "Crustacés, écrevisse, espèces mélangées, d'élevage, crue",
+  "es": "Crustáceos, cangrejo de río, especies mixtas, de granja, crudo",
+  "de": "Krebstiere, Flusskrebs, gemischte Arten, aus Zucht, roh",
+  "pt": "Crustáceos, lagostim de água doce, espécies mistas, de criação, cru"
+ },
+ "5079": {
+  "it": "Crostacei, gambero di fiume, specie miste, selvatico, cotto, calore umido",
+  "fr": "Crustacés, écrevisse, espèces mélangées, sauvage, cuite, chaleur humide",
+  "es": "Crustáceos, cangrejo de río, especies mixtas, silvestre, cocido, calor húmedo",
+  "de": "Krebstiere, Flusskrebs, gemischte Arten, aus Wildfang, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, lagostim de água doce, espécies mistas, selvagem, cozido, calor úmido"
+ },
+ "5080": {
+  "it": "Crostacei, gambero di fiume, specie miste, selvatico, crudo",
+  "fr": "Crustacés, écrevisse, espèces mélangées, sauvage, crue",
+  "es": "Crustáceos, cangrejo de río, especies mixtas, silvestre, crudo",
+  "de": "Krebstiere, Flusskrebs, gemischte Arten, aus Wildfang, roh",
+  "pt": "Crustáceos, lagostim de água doce, espécies mistas, selvagem, cru"
+ },
+ "5081": {
+  "it": "Crostacei, astice americano, cotto, calore umido",
+  "fr": "Crustacés, homard d'Amérique, cuit, chaleur humide",
+  "es": "Crustáceos, bogavante americano, cocido, calor húmedo",
+  "de": "Krebstiere, Amerikanischer Hummer, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, lagosta-americana, cozida, calor úmido"
+ },
+ "5082": {
+  "it": "Crostacei, astice americano, crudo",
+  "fr": "Crustacés, homard d'Amérique, cru",
+  "es": "Crustáceos, bogavante americano, crudo",
+  "de": "Krebstiere, Amerikanischer Hummer, roh",
+  "pt": "Crustáceos, lagosta-americana, crua"
+ },
+ "5083": {
+  "it": "Crostacei, gambero, cotto",
+  "fr": "Crustacés, crevette, cuite",
+  "es": "Crustáceos, camarón, cocido",
+  "de": "Krebstiere, Garnele, gekocht",
+  "pt": "Crustáceos, camarão, cozido"
+ },
+ "5084": {
+  "it": "Crostacei, gambero, d'allevamento, crudo",
+  "fr": "Crustacés, crevette, d'élevage, crue",
+  "es": "Crustáceos, camarón, de granja, crudo",
+  "de": "Krebstiere, Garnele, aus Zucht, roh",
+  "pt": "Crustáceos, camarão, de criação, cru"
+ },
+ "5085": {
+  "it": "Crostacei, gambero, specie miste, in scatola",
+  "fr": "Crustacés, crevette, espèces mélangées, en conserve",
+  "es": "Crustáceos, camarón, especies mixtas, en conserva",
+  "de": "Krebstiere, Garnele, gemischte Arten, aus der Dose",
+  "pt": "Crustáceos, camarão, espécies mistas, enlatado"
+ },
+ "5086": {
+  "it": "Crostacei, gambero, specie miste, cotto, impanato e fritto",
+  "fr": "Crustacés, crevette, espèces mélangées, cuite, panée et frite",
+  "es": "Crustáceos, camarón, especies mixtas, cocido, empanado y frito",
+  "de": "Krebstiere, Garnele, gemischte Arten, gekocht, paniert und frittiert",
+  "pt": "Crustáceos, camarão, espécies mistas, cozido, empanado e frito"
+ },
+ "5087": {
+  "it": "Crostacei, gambero, specie miste, cotto, calore umido (può contenere additivi per trattenere l'umidità)",
+  "fr": "Crustacés, crevette, espèces mélangées, cuite, chaleur humide (peut contenir des additifs pour retenir l'humidité)",
+  "es": "Crustáceos, camarón, especies mixtas, cocido, calor húmedo (puede contener aditivos para retener la humedad)",
+  "de": "Krebstiere, Garnele, gemischte Arten, gekocht, feuchte Hitze (kann Zusatzstoffe zur Feuchtigkeitsbindung enthalten)",
+  "pt": "Crustáceos, camarão, espécies mistas, cozido, calor úmido (pode conter aditivos para reter a umidade)"
+ },
+ "5088": {
+  "it": "Crostacei, gambero, specie miste, imitazione, a base di surimi",
+  "fr": "Crustacés, crevette, espèces mélangées, imitation, à base de surimi",
+  "es": "Crustáceos, camarón, especies mixtas, imitación, elaborado con surimi",
+  "de": "Krebstiere, Garnele, gemischte Arten, Imitat, aus Surimi",
+  "pt": "Crustáceos, camarão, espécies mistas, imitação, feito de surimi"
+ },
+ "5089": {
+  "it": "Crostacei, gambero, specie miste, crudo (può contenere additivi per trattenere l'umidità)",
+  "fr": "Crustacés, crevette, espèces mélangées, crue (peut contenir des additifs pour retenir l'humidité)",
+  "es": "Crustáceos, camarón, especies mixtas, crudo (puede contener aditivos para retener la humedad)",
+  "de": "Krebstiere, Garnele, gemischte Arten, roh (kann Zusatzstoffe zur Feuchtigkeitsbindung enthalten)",
+  "pt": "Crustáceos, camarão, espécies mistas, cru (pode conter aditivos para reter a umidade)"
+ },
+ "5090": {
+  "it": "Crostacei, gambero, crudo",
+  "fr": "Crustacés, crevette, crue",
+  "es": "Crustáceos, camarón, crudo",
+  "de": "Krebstiere, Garnele, roh",
+  "pt": "Crustáceos, camarão, cru"
+ },
+ "5091": {
+  "it": "Crostacei, aragosta, specie miste, cotta, calore umido",
+  "fr": "Crustacés, langouste, espèces mélangées, cuite, chaleur humide",
+  "es": "Crustáceos, langosta, especies mixtas, cocida, calor húmedo",
+  "de": "Krebstiere, Languste, gemischte Arten, gekocht, feuchte Hitze",
+  "pt": "Crustáceos, lagosta, espécies mistas, cozida, calor úmido"
+ },
+ "5092": {
+  "it": "Crostacei, aragosta, specie miste, cruda",
+  "fr": "Crustacés, langouste, espèces mélangées, crue",
+  "es": "Crustáceos, langosta, especies mixtas, cruda",
+  "de": "Krebstiere, Languste, gemischte Arten, roh",
+  "pt": "Crustáceos, lagosta, espécies mistas, crua"
+ },
+ "5093": {
+  "it": "Sandwich cubano",
+  "fr": "Sandwich cubain",
+  "es": "Sándwich cubano",
+  "de": "Kubanisches Sandwich",
+  "pt": "Sanduíche cubano"
+ },
+ "5094": {
+  "it": "Namasu di cetrioli e verdure",
+  "fr": "Namasu de concombre et légumes",
+  "es": "Namasu de pepino y verduras",
+  "de": "Namasu mit Gurke und Gemüse",
+  "pt": "Namasu de pepino e legumes"
+ },
+ "5095": {
+  "it": "Insalata di cetrioli preparata con cetrioli e aceto",
+  "fr": "Salade de concombre préparée avec concombre et vinaigre",
+  "es": "Ensalada de pepino preparada con pepino y vinagre",
+  "de": "Gurkensalat aus Gurke und Essig",
+  "pt": "Salada de pepino preparada com pepino e vinagre"
+ },
+ "5096": {
+  "it": "Insalata di cetrioli, preparata con condimento italiano",
+  "fr": "Salade de concombre, préparée avec vinaigrette italienne",
+  "es": "Ensalada de pepino, preparada con aderezo italiano",
+  "de": "Gurkensalat, mit italienischem Dressing zubereitet",
+  "pt": "Salada de pepino, preparada com molho italiano"
+ },
+ "5097": {
+  "it": "Insalata di cetrioli, preparata con condimento alla panna acida",
+  "fr": "Salade de concombre, préparée avec sauce à la crème aigre",
+  "es": "Ensalada de pepino, preparada con aderezo de crema agria",
+  "de": "Gurkensalat, mit Sauerrahm-Dressing zubereitet",
+  "pt": "Salada de pepino, preparada com molho de creme azedo"
+ },
+ "5098": {
+  "it": "Cetriolo, cotto",
+  "fr": "Concombre, cuit",
+  "es": "Pepino, cocido",
+  "de": "Gurke, gekocht",
+  "pt": "Pepino, cozido"
+ },
+ "5099": {
+  "it": "Cetriolo, per l'uso nei panini",
+  "fr": "Concombre, pour utilisation dans un sandwich",
+  "es": "Pepino, para usar en sándwich",
+  "de": "Gurke, zur Verwendung auf Sandwiches",
+  "pt": "Pepino, para uso em sanduíche"
+ },
+ "5100": {
+  "it": "Cetriolo, sbucciato, crudo",
+  "fr": "Concombre, pelé, cru",
+  "es": "Pepino, pelado, crudo",
+  "de": "Gurke, geschält, roh",
+  "pt": "Pepino, descascado, cru"
+ },
+ "5101": {
+  "it": "Cetriolo, crudo",
+  "fr": "Concombre, cru",
+  "es": "Pepino, crudo",
+  "de": "Gurke, roh",
+  "pt": "Pepino, cru"
+ },
+ "5102": {
+  "it": "Cetriolo, con buccia, crudo",
+  "fr": "Concombre, avec peau, cru",
+  "es": "Pepino, con piel, crudo",
+  "de": "Gurke, mit Schale, roh",
+  "pt": "Pepino, com casca, cru"
+ },
+ "5103": {
+  "it": "Uva di Corinto, secca",
+  "fr": "Raisins de Corinthe, secs",
+  "es": "Pasas de Corinto, secas",
+  "de": "Korinthen, getrocknet",
+  "pt": "Uva-passa de Corinto, seca"
+ },
+ "5104": {
+  "it": "Ribes nero europeo, crudo",
+  "fr": "Cassis européen, cru",
+  "es": "Grosella negra europea, cruda",
+  "de": "Europäische Schwarze Johannisbeere, roh",
+  "pt": "Groselha-preta europeia, crua"
+ },
+ "5105": {
+  "it": "Ribes rosso e bianco, crudo",
+  "fr": "Groseille rouge et blanche, crue",
+  "es": "Grosella roja y blanca, cruda",
+  "de": "Rote und weiße Johannisbeere, roh",
+  "pt": "Groselha vermelha e branca, crua"
+ },
+ "5106": {
+  "it": "Uva di Corinto, Zante, secca",
+  "fr": "Raisins de Corinthe, Zante, secs",
+  "es": "Pasas de Corinto, Zante, secas",
+  "de": "Korinthen, Zante, getrocknet",
+  "pt": "Uva-passa de Corinto, Zante, seca"
+ },
+ "5107": {
+  "it": "Salsa al curry",
+  "fr": "Sauce au curry",
+  "es": "Salsa de curry",
+  "de": "Currysauce",
+  "pt": "Molho de curry"
+ },
+ "5108": {
+  "it": "Custard (crema all'uovo)",
+  "fr": "Custard (crème aux œufs)",
+  "es": "Natilla (custard)",
+  "de": "Custard (Eiercreme)",
+  "pt": "Custard (creme de ovos)"
+ },
+ "5109": {
+  "it": "Cuore di bue (annona), crudo",
+  "fr": "Cœur de bœuf (anone), cru",
+  "es": "Anona (corazón de buey), cruda",
+  "de": "Netzannone (Ochsenherz), roh",
+  "pt": "Anona (coração-de-boi), crua"
+ },
+ "5110": {
+  "it": "Daiquiri",
+  "fr": "Daiquiri",
+  "es": "Daiquiri",
+  "de": "Daiquiri",
+  "pt": "Daiquiri"
+ },
+ "5111": {
+  "it": "Dal (stufato indiano di legumi)",
+  "fr": "Dal (plat indien de légumineuses)",
+  "es": "Dal (guiso indio de legumbres)",
+  "de": "Dal (indisches Hülsenfrüchtegericht)",
+  "pt": "Dal (prato indiano de leguminosas)"
+ },
+ "5112": {
+  "it": "Foglie di tarassaco, cotte",
+  "fr": "Feuilles de pissenlit, cuites",
+  "es": "Hojas de diente de león, cocidas",
+  "de": "Löwenzahnblätter, gekocht",
+  "pt": "Folhas de dente-de-leão, cozidas"
+ },
+ "5113": {
+  "it": "Foglie di tarassaco, cotte, bollite, sgocciolate, con sale",
+  "fr": "Feuilles de pissenlit, cuites, bouillies, égouttées, avec sel",
+  "es": "Hojas de diente de león, cocidas, hervidas, escurridas, con sal",
+  "de": "Löwenzahnblätter, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Folhas de dente-de-leão, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "5114": {
+  "it": "Foglie di tarassaco, cotte, bollite, sgocciolate, senza sale",
+  "fr": "Feuilles de pissenlit, cuites, bouillies, égouttées, sans sel",
+  "es": "Hojas de diente de león, cocidas, hervidas, escurridas, sin sal",
+  "de": "Löwenzahnblätter, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Folhas de dente-de-leão, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "5115": {
+  "it": "Foglie di tarassaco, crude",
+  "fr": "Feuilles de pissenlit, crues",
+  "es": "Hojas de diente de león, crudas",
+  "de": "Löwenzahnblätter, roh",
+  "pt": "Folhas de dente-de-leão, cruas"
+ },
+ "5116": {
+  "it": "Danish, al formaggio",
+  "fr": "Pâtisserie danoise, au fromage",
+  "es": "Pastel danés, de queso",
+  "de": "Plundergebäck, mit Käse",
+  "pt": "Danish, de queijo"
+ },
+ "5117": {
+  "it": "Danish, alla cannella, arricchito",
+  "fr": "Pâtisserie danoise, à la cannelle, enrichie",
+  "es": "Pastel danés, de canela, enriquecido",
+  "de": "Plundergebäck, mit Zimt, angereichert",
+  "pt": "Danish, de canela, enriquecido"
+ },
+ "5118": {
+  "it": "Danish, alla cannella, non arricchito",
+  "fr": "Pâtisserie danoise, à la cannelle, non enrichie",
+  "es": "Pastel danés, de canela, sin enriquecer",
+  "de": "Plundergebäck, mit Zimt, nicht angereichert",
+  "pt": "Danish, de canela, não enriquecido"
+ },
+ "5119": {
+  "it": "Danish, alla frutta, arricchito (include mela, cannella, uvetta, limone, lampone, fragola)",
+  "fr": "Pâtisserie danoise, aux fruits, enrichie (comprend pomme, cannelle, raisin sec, citron, framboise, fraise)",
+  "es": "Pastel danés, de fruta, enriquecido (incluye manzana, canela, pasas, limón, frambuesa, fresa)",
+  "de": "Plundergebäck, mit Obst, angereichert (einschließlich Apfel, Zimt, Rosine, Zitrone, Himbeere, Erdbeere)",
+  "pt": "Danish, de frutas, enriquecido (inclui maçã, canela, uva-passa, limão, framboesa, morango)"
+ },
+ "5120": {
+  "it": "Danish, alla frutta, non arricchito (include mela, cannella, uvetta, fragola)",
+  "fr": "Pâtisserie danoise, aux fruits, non enrichie (comprend pomme, cannelle, raisin sec, fraise)",
+  "es": "Pastel danés, de fruta, sin enriquecer (incluye manzana, canela, pasas, fresa)",
+  "de": "Plundergebäck, mit Obst, nicht angereichert (einschließlich Apfel, Zimt, Rosine, Erdbeere)",
+  "pt": "Danish, de frutas, não enriquecido (inclui maçã, canela, uva-passa, morango)"
+ },
+ "5121": {
+  "it": "Danish, al limone, non arricchito",
+  "fr": "Pâtisserie danoise, au citron, non enrichie",
+  "es": "Pastel danés, de limón, sin enriquecer",
+  "de": "Plundergebäck, mit Zitrone, nicht angereichert",
+  "pt": "Danish, de limão, não enriquecido"
+ },
+ "5122": {
+  "it": "Danish, semplice o alle spezie",
+  "fr": "Pâtisserie danoise, nature ou aux épices",
+  "es": "Pastel danés, natural o con especias",
+  "de": "Plundergebäck, natur oder mit Gewürzen",
+  "pt": "Danish, simples ou com especiarias"
+ },
+ "5123": {
+  "it": "Danish, ai lamponi, non arricchito",
+  "fr": "Pâtisserie danoise, aux framboises, non enrichie",
+  "es": "Pastel danés, de frambuesa, sin enriquecer",
+  "de": "Plundergebäck, mit Himbeere, nicht angereichert",
+  "pt": "Danish, de framboesa, não enriquecido"
+ },
+ "5124": {
+  "it": "Danish, con formaggio",
+  "fr": "Pâtisserie danoise, au fromage",
+  "es": "Pastel danés, con queso",
+  "de": "Plundergebäck, mit Käse",
+  "pt": "Danish, com queijo"
+ },
+ "5125": {
+  "it": "Danish, con frutta",
+  "fr": "Pâtisserie danoise, aux fruits",
+  "es": "Pastel danés, con fruta",
+  "de": "Plundergebäck, mit Obst",
+  "pt": "Danish, com frutas"
+ },
+ "5126": {
+  "it": "Caramelle di cioccolato fondente",
+  "fr": "Bonbons au chocolat noir",
+  "es": "Caramelos de chocolate negro",
+  "de": "Zartbitterschokoladen-Bonbons",
+  "pt": "Bala de chocolate amargo"
+ },
+ "5127": {
+  "it": "Caramelle di cioccolato fondente con frutta a guscio",
+  "fr": "Bonbons au chocolat noir avec des noix",
+  "es": "Caramelos de chocolate negro con frutos secos",
+  "de": "Zartbitterschokoladen-Bonbons mit Nüssen",
+  "pt": "Bala de chocolate amargo com nozes"
+ },
+ "5128": {
+  "it": "Caramelle di cioccolato fondente con frutta a guscio, altro, non specificato",
+  "fr": "Bonbons au chocolat noir avec des noix, autre, non spécifié",
+  "es": "Caramelos de chocolate negro con frutos secos, otro, no especificado",
+  "de": "Zartbitterschokoladen-Bonbons mit Nüssen, andere, nicht näher bezeichnet",
+  "pt": "Bala de chocolate amargo com nozes, outro, não especificado"
+ },
+ "5129": {
+  "it": "Caramelle di cioccolato fondente, altro, non specificato",
+  "fr": "Bonbons au chocolat noir, autre, non spécifié",
+  "es": "Caramelos de chocolate negro, otro, no especificado",
+  "de": "Zartbitterschokoladen-Bonbons, andere, nicht näher bezeichnet",
+  "pt": "Bala de chocolate amargo, outro, não especificado"
+ },
+ "5130": {
+  "it": "Verdure a foglia verde scuro come ingrediente in omelette",
+  "fr": "Légumes vert foncé comme ingrédient d'une omelette",
+  "es": "Verduras de color verde oscuro como ingrediente en tortilla",
+  "de": "Dunkelgrünes Gemüse als Zutat im Omelett",
+  "pt": "Vegetais verde-escuros como ingrediente em omelete"
+ },
+ "5131": {
+  "it": "Dattero",
+  "fr": "Datte",
+  "es": "Dátil",
+  "de": "Dattel",
+  "pt": "Tâmara"
+ },
+ "5132": {
+  "it": "Datteri, Deglet Noor",
+  "fr": "Dattes, Deglet Noor",
+  "es": "Dátiles, Deglet Noor",
+  "de": "Datteln, Deglet Noor",
+  "pt": "Tâmaras, Deglet Noor"
+ },
+ "5133": {
+  "it": "Datteri, Medjool",
+  "fr": "Dattes, Medjool",
+  "es": "Dátiles, Medjool",
+  "de": "Datteln, Medjool",
+  "pt": "Tâmaras, Medjool"
+ },
+ "5134": {
+  "it": "Cervo (selvaggina), Sitka, crudo (nativi dell'Alaska)",
+  "fr": "Cerf (venaison), Sitka, cru (autochtones d'Alaska)",
+  "es": "Venado (carne de caza), de Sitka, crudo (nativos de Alaska)",
+  "de": "Hirsch (Wildbret), Sitka, roh (Alaska-Ureinwohner)",
+  "pt": "Veado (carne de caça), de Sitka, cru (nativos do Alasca)"
+ },
+ "5135": {
+  "it": "DENNY'S, bocconcini di pollo, a forma di stella, dal menu bambini",
+  "fr": "DENNY'S, nuggets de poulet, en forme d'étoile, du menu enfant",
+  "es": "DENNY'S, nuggets de pollo, con forma de estrella, del menú infantil",
+  "de": "DENNY'S, Chicken Nuggets, sternförmig, vom Kindermenü",
+  "pt": "DENNY'S, nuggets de frango, em formato de estrela, do cardápio infantil"
+ },
+ "5136": {
+  "it": "DENNY'S, strisce di pollo",
+  "fr": "DENNY'S, lanières de poulet",
+  "es": "DENNY'S, tiras de pollo",
+  "de": "DENNY'S, Hähnchenstreifen",
+  "pt": "DENNY'S, tiras de frango"
+ },
+ "5137": {
+  "it": "DENNY'S, insalata di cavolo (coleslaw)",
+  "fr": "DENNY'S, salade de chou (coleslaw)",
+  "es": "DENNY'S, ensalada de col (coleslaw)",
+  "de": "DENNY'S, Krautsalat (Coleslaw)",
+  "pt": "DENNY'S, salada de repolho (coleslaw)"
+ },
+ "5138": {
+  "it": "DENNY'S, filetto di pesce, in pastella o impanato, fritto",
+  "fr": "DENNY'S, filet de poisson, en pâte à frire ou pané, frit",
+  "es": "DENNY'S, filete de pescado, rebozado o empanado, frito",
+  "de": "DENNY'S, Fischfilet, in Teig oder paniert, frittiert",
+  "pt": "DENNY'S, filé de peixe, em massa ou empanado, frito"
+ },
+ "5139": {
+  "it": "DENNY'S, patatine fritte",
+  "fr": "DENNY'S, frites",
+  "es": "DENNY'S, patatas fritas",
+  "de": "DENNY'S, Pommes frites",
+  "pt": "DENNY'S, batatas fritas"
+ },
+ "5140": {
+  "it": "DENNY'S, gamberi dorati fritti",
+  "fr": "DENNY'S, crevettes frites dorées",
+  "es": "DENNY'S, camarones fritos dorados",
+  "de": "DENNY'S, goldbraun frittierte Garnelen",
+  "pt": "DENNY'S, camarões fritos dourados"
+ },
+ "5141": {
+  "it": "DENNY'S, hash brown (frittelle di patate)",
+  "fr": "DENNY'S, hash browns (galettes de pommes de terre)",
+  "es": "DENNY'S, hash browns (tortitas de patata)",
+  "de": "DENNY'S, Hash Browns (Kartoffelpuffer)",
+  "pt": "DENNY'S, hash browns (batata ralada frita)"
+ },
+ "5142": {
+  "it": "DENNY'S, maccheroni al formaggio, dal menu bambini",
+  "fr": "DENNY'S, macaroni au fromage, du menu enfant",
+  "es": "DENNY'S, macarrones con queso, del menú infantil",
+  "de": "DENNY'S, Makkaroni mit Käse, vom Kindermenü",
+  "pt": "DENNY'S, macarrão com queijo, do cardápio infantil"
+ },
+ "5143": {
+  "it": "DENNY'S, bastoncini di mozzarella",
+  "fr": "DENNY'S, bâtonnets de mozzarella",
+  "es": "DENNY'S, palitos de queso mozzarella",
+  "de": "DENNY'S, Mozzarella-Sticks",
+  "pt": "DENNY'S, palitos de queijo muçarela"
+ },
+ "5144": {
+  "it": "DENNY'S, anelli di cipolla",
+  "fr": "DENNY'S, rondelles d'oignon",
+  "es": "DENNY'S, aros de cebolla",
+  "de": "DENNY'S, Zwiebelringe",
+  "pt": "DENNY'S, anéis de cebola"
+ },
+ "5145": {
+  "it": "DENNY'S, spaghetti e polpette",
+  "fr": "DENNY'S, spaghettis et boulettes de viande",
+  "es": "DENNY'S, espaguetis y albóndigas",
+  "de": "DENNY'S, Spaghetti und Fleischbällchen",
+  "pt": "DENNY'S, espaguete e almôndegas"
+ },
+ "5146": {
+  "it": "DENNY'S, bistecca di controfiletto (top sirloin)",
+  "fr": "DENNY'S, steak de faux-filet (top sirloin)",
+  "es": "DENNY'S, filete de lomo alto (top sirloin)",
+  "de": "DENNY'S, Steak vom Hüftdeckel (Top Sirloin)",
+  "pt": "DENNY'S, bife de alcatra (top sirloin)"
+ },
+ "5147": {
+  "it": "Dip per dessert",
+  "fr": "Dip pour dessert",
+  "es": "Dip para postres",
+  "de": "Dessert-Dip",
+  "pt": "Dip de sobremesa"
+ },
+ "5148": {
+  "it": "Pizza dolce",
+  "fr": "Pizza dessert",
+  "es": "Pizza de postre",
+  "de": "Dessertpizza",
+  "pt": "Pizza doce"
+ },
+ "5149": {
+  "it": "Salsa per dessert",
+  "fr": "Sauce pour desserts",
+  "es": "Salsa para postres",
+  "de": "Dessertsauce",
+  "pt": "Molho para sobremesa"
+ },
+ "5150": {
+  "it": "Topping per dessert, in polvere",
+  "fr": "Nappage pour dessert, en poudre",
+  "es": "Cobertura para postres, en polvo",
+  "de": "Dessert-Topping, pulverförmig",
+  "pt": "Cobertura para sobremesa, em pó"
+ },
+ "5151": {
+  "it": "Topping per dessert, in polvere, 1.5 once preparate con 1/2 tazza di latte",
+  "fr": "Nappage pour dessert, en poudre, 1.5 once préparée avec 1/2 tasse de lait",
+  "es": "Cobertura para postres, en polvo, 1.5 onzas preparadas con 1/2 taza de leche",
+  "de": "Dessert-Topping, pulverförmig, 1.5 Unzen, mit 1/2 Tasse Milch zubereitet",
+  "pt": "Cobertura para sobremesa, em pó, 1.5 onça preparada com 1/2 xícara de leite"
+ },
+ "5152": {
+  "it": "Topping per dessert, in bombola pressurizzata",
+  "fr": "Nappage pour dessert, sous pression",
+  "es": "Cobertura para postres, a presión",
+  "de": "Dessert-Topping, unter Druck",
+  "pt": "Cobertura para sobremesa, pressurizada"
+ },
+ "5153": {
+  "it": "Topping per dessert, semisolido, surgelato",
+  "fr": "Nappage pour dessert, semi-solide, surgelé",
+  "es": "Cobertura para postres, semisólida, congelada",
+  "de": "Dessert-Topping, halbfest, tiefgekühlt",
+  "pt": "Cobertura para sobremesa, semissólida, congelada"
+ },
+ "5154": {
+  "it": "Dessert, crumble di mele, preparato da ricetta",
+  "fr": "Desserts, crumble aux pommes, préparé d'après une recette",
+  "es": "Postres, crumble de manzana, preparado a partir de receta",
+  "de": "Desserts, Apfelcrumble, nach Rezept zubereitet",
+  "pt": "Sobremesas, crumble de maçã, preparado a partir de receita"
+ },
+ "5155": {
+  "it": "Dessert, crema all'uovo, al forno, preparata da ricetta",
+  "fr": "Desserts, crème aux œufs, cuite au four, préparée d'après une recette",
+  "es": "Postres, natillas de huevo, al horno, preparadas a partir de receta",
+  "de": "Desserts, Eiercreme, gebacken, nach Rezept zubereitet",
+  "pt": "Sobremesas, creme de ovos, assado no forno, preparado a partir de receita"
+ },
+ "5156": {
+  "it": "Dessert, flan, crema caramellata, preparato da ricetta",
+  "fr": "Desserts, flan, crème caramel, préparé d'après une recette",
+  "es": "Postres, flan, crema de caramelo, preparado a partir de receta",
+  "de": "Desserts, Flan, Karamellcreme, nach Rezept zubereitet",
+  "pt": "Sobremesas, flan, creme de caramelo, preparado a partir de receita"
+ },
+ "5157": {
+  "it": "Dessert, mousse, cioccolato, preparata da ricetta",
+  "fr": "Desserts, mousse, chocolat, préparée d'après une recette",
+  "es": "Postres, mousse, chocolate, preparada a partir de receta",
+  "de": "Desserts, Mousse, Schokolade, nach Rezept zubereitet",
+  "pt": "Sobremesas, mousse, chocolate, preparada a partir de receita"
+ },
+ "5158": {
+  "it": "Dessert, caglio (junket), cioccolato, miscela secca",
+  "fr": "Desserts, présure (junket), chocolat, préparation sèche",
+  "es": "Postres, cuajo (junket), chocolate, mezcla seca",
+  "de": "Desserts, Lab (Junket), Schokolade, Trockenmischung",
+  "pt": "Sobremesas, coalho (junket), chocolate, mistura seca"
+ },
+ "5159": {
+  "it": "Dessert, caglio (junket), compresse, non zuccherato",
+  "fr": "Desserts, présure (junket), comprimés, non sucré",
+  "es": "Postres, cuajo (junket), tabletas, sin azúcar",
+  "de": "Desserts, Lab (Junket), Tabletten, ungezuckert",
+  "pt": "Sobremesas, coalho (junket), comprimidos, sem açúcar"
+ },
+ "5160": {
+  "it": "Dessert, caglio (junket), vaniglia, miscela secca",
+  "fr": "Desserts, présure (junket), vanille, préparation sèche",
+  "es": "Postres, cuajo (junket), vainilla, mezcla seca",
+  "de": "Desserts, Lab (Junket), Vanille, Trockenmischung",
+  "pt": "Sobremesas, coalho (junket), baunilha, mistura seca"
+ },
+ "5161": {
+  "it": "DIGIORNO Pizza, guarnizione al formaggio, bordo ripieno di formaggio, surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture au fromage, croûte farcie au fromage, surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura de queso, borde relleno de queso, congelada, al horno",
+  "de": "DIGIORNO Pizza, Käsebelag, mit Käse gefülltem Rand, tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura de queijo, borda recheada com queijo, congelada, assada no forno"
+ },
+ "5162": {
+  "it": "DIGIORNO Pizza, guarnizione al formaggio, base lievitante (rising crust), surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture au fromage, pâte levante (rising crust), surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura de queso, masa que sube al hornear (rising crust), congelada, al horno",
+  "de": "DIGIORNO Pizza, Käsebelag, aufgehender Boden (Rising Crust), tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura de queijo, massa crescente (rising crust), congelada, assada no forno"
+ },
+ "5163": {
+  "it": "DIGIORNO Pizza, guarnizione al formaggio, base sottile e croccante, surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture au fromage, pâte fine et croustillante, surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura de queso, masa fina y crujiente, congelada, al horno",
+  "de": "DIGIORNO Pizza, Käsebelag, dünner, knuspriger Boden, tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura de queijo, massa fina e crocante, congelada, assada no forno"
+ },
+ "5164": {
+  "it": "DIGIORNO Pizza, guarnizione al pepperoni, bordo ripieno di formaggio, surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture au pepperoni, croûte farcie au fromage, surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura de pepperoni, borde relleno de queso, congelada, al horno",
+  "de": "DIGIORNO Pizza, Pepperoni-Belag, mit Käse gefülltem Rand, tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura de pepperoni, borda recheada com queijo, congelada, assada no forno"
+ },
+ "5165": {
+  "it": "DIGIORNO Pizza, guarnizione al pepperoni, base lievitante (rising crust), surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture au pepperoni, pâte levante (rising crust), surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura de pepperoni, masa que sube al hornear (rising crust), congelada, al horno",
+  "de": "DIGIORNO Pizza, Pepperoni-Belag, aufgehender Boden (Rising Crust), tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura de pepperoni, massa crescente (rising crust), congelada, assada no forno"
+ },
+ "5166": {
+  "it": "DIGIORNO Pizza, guarnizione al pepperoni, base sottile e croccante, surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture au pepperoni, pâte fine et croustillante, surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura de pepperoni, masa fina y crujiente, congelada, al horno",
+  "de": "DIGIORNO Pizza, Pepperoni-Belag, dünner, knuspriger Boden, tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura de pepperoni, massa fina e crocante, congelada, assada no forno"
+ },
+ "5167": {
+  "it": "DIGIORNO Pizza, guarnizione supreme, base lievitante (rising crust), surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture suprême, pâte levante (rising crust), surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura supreme, masa que sube al hornear (rising crust), congelada, al horno",
+  "de": "DIGIORNO Pizza, Supreme-Belag, aufgehender Boden (Rising Crust), tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura supreme, massa crescente (rising crust), congelada, assada no forno"
+ },
+ "5168": {
+  "it": "DIGIORNO Pizza, guarnizione supreme, base sottile e croccante, surgelata, cotta al forno",
+  "fr": "DIGIORNO Pizza, garniture suprême, pâte fine et croustillante, surgelée, cuite au four",
+  "es": "DIGIORNO Pizza, cobertura supreme, masa fina y crujiente, congelada, al horno",
+  "de": "DIGIORNO Pizza, Supreme-Belag, dünner, knuspriger Boden, tiefgekühlt, gebacken",
+  "pt": "DIGIORNO Pizza, cobertura supreme, massa fina e crocante, congelada, assada no forno"
+ },
+ "5169": {
+  "it": "Aneto, fresco",
+  "fr": "Aneth, frais",
+  "es": "Eneldo, fresco",
+  "de": "Dill, frisch",
+  "pt": "Endro, fresco"
+ },
+ "5170": {
+  "it": "Dip di fagioli, gusto originale",
+  "fr": "Dip aux haricots, saveur originale",
+  "es": "Dip de frijoles, sabor original",
+  "de": "Dip, Bohnen, Originalgeschmack",
+  "pt": "Dip de feijão, sabor original"
+ },
+ "5171": {
+  "it": "Dip, FRITO'S, di fagioli, gusto originale",
+  "fr": "Dip, FRITO'S, aux haricots, saveur originale",
+  "es": "Dip, FRITO'S, de frijoles, sabor original",
+  "de": "Dip, FRITO'S, Bohnen, Originalgeschmack",
+  "pt": "Dip, FRITO'S, de feijão, sabor original"
+ },
+ "5172": {
+  "it": "Dip, non specificato",
+  "fr": "Dip, non spécifié",
+  "es": "Dip, no especificado",
+  "de": "Dip, nicht näher bezeichnet",
+  "pt": "Dip, não especificado"
+ },
+ "5173": {
+  "it": "Dip, salsa con queso, formaggio e salsa - medio",
+  "fr": "Dip, salsa con queso, fromage et salsa - moyen",
+  "es": "Dip, salsa con queso, queso y salsa - medio",
+  "de": "Dip, Salsa con Queso, Käse und Salsa - mittel",
+  "pt": "Dip, salsa con queso, queijo e salsa - médio"
+ },
+ "5174": {
+  "it": "Dip, TOSTITOS, salsa con queso, medio",
+  "fr": "Dip, TOSTITOS, salsa con queso, moyen",
+  "es": "Dip, TOSTITOS, salsa con queso, medio",
+  "de": "Dip, TOSTITOS, Salsa con Queso, mittel",
+  "pt": "Dip, TOSTITOS, salsa con queso, médio"
+ },
+ "5175": {
+  "it": "Dirty rice (riso cajun con frattaglie)",
+  "fr": "Dirty rice (riz cajun aux abats)",
+  "es": "Dirty rice (arroz cajún con menudencias)",
+  "de": "Dirty Rice (Cajun-Reis mit Innereien)",
+  "pt": "Dirty rice (arroz cajun com miúdos)"
+ },
+ "5176": {
+  "it": "Romice, cotta, bollita, sgocciolata, con sale",
+  "fr": "Oseille sauvage (patience), cuite, bouillie, égouttée, avec sel",
+  "es": "Acedera silvestre, cocida, hervida, escurrida, con sal",
+  "de": "Ampfer, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Labaça, cozida, cozida em água, escorrida, com sal"
+ },
+ "5177": {
+  "it": "Romice, cotta, bollita, sgocciolata, senza sale",
+  "fr": "Oseille sauvage (patience), cuite, bouillie, égouttée, sans sel",
+  "es": "Acedera silvestre, cocida, hervida, escurrida, sin sal",
+  "de": "Ampfer, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Labaça, cozida, cozida em água, escorrida, sem sal"
+ },
+ "5178": {
+  "it": "Romice, cruda",
+  "fr": "Oseille sauvage (patience), crue",
+  "es": "Acedera silvestre, cruda",
+  "de": "Ampfer, roh",
+  "pt": "Labaça, crua"
+ },
+ "5179": {
+  "it": "DOMINO'S 14\" Pizza al formaggio, base classica stesa a mano",
+  "fr": "DOMINO'S 14\" Pizza au fromage, pâte classique travaillée à la main",
+  "es": "DOMINO'S 14\" Pizza de queso, masa clásica estirada a mano",
+  "de": "DOMINO'S 14\" Käsepizza, klassischer handgeformter Boden",
+  "pt": "DOMINO'S 14\" Pizza de queijo, massa clássica aberta à mão"
+ },
+ "5180": {
+  "it": "DOMINO'S 14\" Pizza al formaggio, base sottile e croccante",
+  "fr": "DOMINO'S 14\" Pizza au fromage, pâte fine et croustillante",
+  "es": "DOMINO'S 14\" Pizza de queso, masa fina y crujiente",
+  "de": "DOMINO'S 14\" Käsepizza, dünner, knuspriger Boden",
+  "pt": "DOMINO'S 14\" Pizza de queijo, massa fina e crocante"
+ },
+ "5181": {
+  "it": "DOMINO'S 14\" Pizza al formaggio, base Ultimate Deep Dish (alta)",
+  "fr": "DOMINO'S 14\" Pizza au fromage, pâte Ultimate Deep Dish (épaisse)",
+  "es": "DOMINO'S 14\" Pizza de queso, masa Ultimate Deep Dish (gruesa)",
+  "de": "DOMINO'S 14\" Käsepizza, Ultimate-Deep-Dish-Boden (dick)",
+  "pt": "DOMINO'S 14\" Pizza de queijo, massa Ultimate Deep Dish (grossa)"
+ },
+ "5182": {
+  "it": "DOMINO'S 14\" Pizza EXTRAVAGANZZA FEAST, base classica stesa a mano",
+  "fr": "DOMINO'S 14\" Pizza EXTRAVAGANZZA FEAST, pâte classique travaillée à la main",
+  "es": "DOMINO'S 14\" Pizza EXTRAVAGANZZA FEAST, masa clásica estirada a mano",
+  "de": "DOMINO'S 14\" EXTRAVAGANZZA FEAST Pizza, klassischer handgeformter Boden",
+  "pt": "DOMINO'S 14\" Pizza EXTRAVAGANZZA FEAST, massa clássica aberta à mão"
+ },
+ "5183": {
+  "it": "DOMINO'S 14\" Pizza al pepperoni, base classica stesa a mano",
+  "fr": "DOMINO'S 14\" Pizza au pepperoni, pâte classique travaillée à la main",
+  "es": "DOMINO'S 14\" Pizza de pepperoni, masa clásica estirada a mano",
+  "de": "DOMINO'S 14\" Pepperoni-Pizza, klassischer handgeformter Boden",
+  "pt": "DOMINO'S 14\" Pizza de pepperoni, massa clássica aberta à mão"
+ },
+ "5184": {
+  "it": "DOMINO'S 14\" Pizza al pepperoni, base sottile e croccante",
+  "fr": "DOMINO'S 14\" Pizza au pepperoni, pâte fine et croustillante",
+  "es": "DOMINO'S 14\" Pizza de pepperoni, masa fina y crujiente",
+  "de": "DOMINO'S 14\" Pepperoni-Pizza, dünner, knuspriger Boden",
+  "pt": "DOMINO'S 14\" Pizza de pepperoni, massa fina e crocante"
+ },
+ "5185": {
+  "it": "DOMINO'S 14\" Pizza al pepperoni, base Ultimate Deep Dish (alta)",
+  "fr": "DOMINO'S 14\" Pizza au pepperoni, pâte Ultimate Deep Dish (épaisse)",
+  "es": "DOMINO'S 14\" Pizza de pepperoni, masa Ultimate Deep Dish (gruesa)",
+  "de": "DOMINO'S 14\" Pepperoni-Pizza, Ultimate-Deep-Dish-Boden (dick)",
+  "pt": "DOMINO'S 14\" Pizza de pepperoni, massa Ultimate Deep Dish (grossa)"
+ },
+ "5186": {
+  "it": "DOMINO'S 14\" Pizza alla salsiccia, base classica stesa a mano",
+  "fr": "DOMINO'S 14\" Pizza à la saucisse, pâte classique travaillée à la main",
+  "es": "DOMINO'S 14\" Pizza de salchicha, masa clásica estirada a mano",
+  "de": "DOMINO'S 14\" Wurstpizza, klassischer handgeformter Boden",
+  "pt": "DOMINO'S 14\" Pizza de salsicha, massa clássica aberta à mão"
+ },
+ "5187": {
+  "it": "DOMINO'S 14\" Pizza alla salsiccia, base sottile e croccante",
+  "fr": "DOMINO'S 14\" Pizza à la saucisse, pâte fine et croustillante",
+  "es": "DOMINO'S 14\" Pizza de salchicha, masa fina y crujiente",
+  "de": "DOMINO'S 14\" Wurstpizza, dünner, knuspriger Boden",
+  "pt": "DOMINO'S 14\" Pizza de salsicha, massa fina e crocante"
+ },
+ "5188": {
+  "it": "DOMINO'S 14\" Pizza alla salsiccia, base Ultimate Deep Dish (alta)",
+  "fr": "DOMINO'S 14\" Pizza à la saucisse, pâte Ultimate Deep Dish (épaisse)",
+  "es": "DOMINO'S 14\" Pizza de salchicha, masa Ultimate Deep Dish (gruesa)",
+  "de": "DOMINO'S 14\" Wurstpizza, Ultimate-Deep-Dish-Boden (dick)",
+  "pt": "DOMINO'S 14\" Pizza de salsicha, massa Ultimate Deep Dish (grossa)"
+ },
+ "5189": {
+  "it": "Dosa (crêpe indiana di riso e lenticchie), semplice",
+  "fr": "Dosa (crêpe indienne de riz et de lentilles), nature",
+  "es": "Dosa (crepe indio de arroz y lentejas), sencillo",
+  "de": "Dosa (indischer Reis-Linsen-Pfannkuchen), natur",
+  "pt": "Dosa (crepe indiano de arroz e lentilha), simples"
+ },
+ "5190": {
+  "it": "Dosa (crêpe indiana di riso e lenticchie), con ripieno",
+  "fr": "Dosa (crêpe indienne de riz et de lentilles), avec garniture",
+  "es": "Dosa (crepe indio de arroz y lentejas), con relleno",
+  "de": "Dosa (indischer Reis-Linsen-Pfannkuchen), gefüllt",
+  "pt": "Dosa (crepe indiano de arroz e lentilha), com recheio"
+ },
+ "5191": {
+  "it": "Doppio cheeseburger (Burger King)",
+  "fr": "Double cheeseburger (Burger King)",
+  "es": "Cheeseburger doble (Burger King)",
+  "de": "Doppelter Cheeseburger (Burger King)",
+  "pt": "Cheeseburger duplo (Burger King)"
+ },
+ "5192": {
+  "it": "Doppio cheeseburger (McDonalds)",
+  "fr": "Double cheeseburger (McDonalds)",
+  "es": "Cheeseburger doble (McDonalds)",
+  "de": "Doppelter Cheeseburger (McDonalds)",
+  "pt": "Cheeseburger duplo (McDonalds)"
+ },
+ "5193": {
+  "it": "Doppio cheeseburger, da fast food, 2 medaglioni grandi",
+  "fr": "Double cheeseburger, de fast-food, 2 steaks hachés grands",
+  "es": "Cheeseburger doble, de comida rápida, 2 hamburguesas grandes",
+  "de": "Doppelter Cheeseburger, aus dem Fast-Food-Restaurant, 2 große Patties",
+  "pt": "Cheeseburger duplo, de fast food, 2 hambúrgueres grandes"
+ },
+ "5194": {
+  "it": "Doppio cheeseburger, da fast food, 2 medaglioni medi",
+  "fr": "Double cheeseburger, de fast-food, 2 steaks hachés moyens",
+  "es": "Cheeseburger doble, de comida rápida, 2 hamburguesas medianas",
+  "de": "Doppelter Cheeseburger, aus dem Fast-Food-Restaurant, 2 mittelgroße Patties",
+  "pt": "Cheeseburger duplo, de fast food, 2 hambúrgueres médios"
+ },
+ "5195": {
+  "it": "Doppio cheeseburger, da fast food, 2 medaglioni piccoli",
+  "fr": "Double cheeseburger, de fast-food, 2 steaks hachés petits",
+  "es": "Cheeseburger doble, de comida rápida, 2 hamburguesas pequeñas",
+  "de": "Doppelter Cheeseburger, aus dem Fast-Food-Restaurant, 2 kleine Patties",
+  "pt": "Cheeseburger duplo, de fast food, 2 hambúrgueres pequenos"
+ },
+ "5196": {
+  "it": "Doppio cheeseburger, su panino di frumento, 2 medaglioni grandi",
+  "fr": "Double cheeseburger, sur pain de blé, 2 steaks hachés grands",
+  "es": "Cheeseburger doble, en pan de trigo, 2 hamburguesas grandes",
+  "de": "Doppelter Cheeseburger, auf Weizenbrötchen, 2 große Patties",
+  "pt": "Cheeseburger duplo, em pão de trigo, 2 hambúrgueres grandes"
+ },
+ "5197": {
+  "it": "Doppio cheeseburger, su panino di frumento, 2 medaglioni medi",
+  "fr": "Double cheeseburger, sur pain de blé, 2 steaks hachés moyens",
+  "es": "Cheeseburger doble, en pan de trigo, 2 hamburguesas medianas",
+  "de": "Doppelter Cheeseburger, auf Weizenbrötchen, 2 mittelgroße Patties",
+  "pt": "Cheeseburger duplo, em pão de trigo, 2 hambúrgueres médios"
+ },
+ "5198": {
+  "it": "Doppio cheeseburger, su panino di frumento, 2 medaglioni piccoli",
+  "fr": "Double cheeseburger, sur pain de blé, 2 steaks hachés petits",
+  "es": "Cheeseburger doble, en pan de trigo, 2 hamburguesas pequeñas",
+  "de": "Doppelter Cheeseburger, auf Weizenbrötchen, 2 kleine Patties",
+  "pt": "Cheeseburger duplo, em pão de trigo, 2 hambúrgueres pequenos"
+ },
+ "5199": {
+  "it": "Doppio cheeseburger, su panino bianco, 2 medaglioni grandi",
+  "fr": "Double cheeseburger, sur pain blanc, 2 steaks hachés grands",
+  "es": "Cheeseburger doble, en pan blanco, 2 hamburguesas grandes",
+  "de": "Doppelter Cheeseburger, auf weißem Brötchen, 2 große Patties",
+  "pt": "Cheeseburger duplo, em pão branco, 2 hambúrgueres grandes"
+ },
+ "5200": {
+  "it": "Doppio cheeseburger, su panino bianco, 2 medaglioni medi",
+  "fr": "Double cheeseburger, sur pain blanc, 2 steaks hachés moyens",
+  "es": "Cheeseburger doble, en pan blanco, 2 hamburguesas medianas",
+  "de": "Doppelter Cheeseburger, auf weißem Brötchen, 2 mittelgroße Patties",
+  "pt": "Cheeseburger duplo, em pão branco, 2 hambúrgueres médios"
+ },
+ "5201": {
+  "it": "Doppio cheeseburger, su panino bianco, 2 medaglioni piccoli",
+  "fr": "Double cheeseburger, sur pain blanc, 2 steaks hachés petits",
+  "es": "Cheeseburger doble, en pan blanco, 2 hamburguesas pequeñas",
+  "de": "Doppelter Cheeseburger, auf weißem Brötchen, 2 kleine Patties",
+  "pt": "Cheeseburger duplo, em pão branco, 2 hambúrgueres pequenos"
+ },
+ "5202": {
+  "it": "Doppio hamburger, da fast food, 2 medaglioni grandi",
+  "fr": "Double hamburger, de fast-food, 2 steaks hachés grands",
+  "es": "Hamburguesa doble, de comida rápida, 2 hamburguesas grandes",
+  "de": "Doppelter Hamburger, aus dem Fast-Food-Restaurant, 2 große Patties",
+  "pt": "Hambúrguer duplo, de fast food, 2 hambúrgueres grandes"
+ },
+ "5203": {
+  "it": "Doppio hamburger, da fast food, 2 medaglioni medi",
+  "fr": "Double hamburger, de fast-food, 2 steaks hachés moyens",
+  "es": "Hamburguesa doble, de comida rápida, 2 hamburguesas medianas",
+  "de": "Doppelter Hamburger, aus dem Fast-Food-Restaurant, 2 mittelgroße Patties",
+  "pt": "Hambúrguer duplo, de fast food, 2 hambúrgueres médios"
+ },
+ "5204": {
+  "it": "Doppio hamburger, da fast food, 2 medaglioni piccoli",
+  "fr": "Double hamburger, de fast-food, 2 steaks hachés petits",
+  "es": "Hamburguesa doble, de comida rápida, 2 hamburguesas pequeñas",
+  "de": "Doppelter Hamburger, aus dem Fast-Food-Restaurant, 2 kleine Patties",
+  "pt": "Hambúrguer duplo, de fast food, 2 hambúrgueres pequenos"
+ },
+ "5205": {
+  "it": "Doppio hamburger, su panino di frumento, 2 medaglioni grandi",
+  "fr": "Double hamburger, sur pain de blé, 2 steaks hachés grands",
+  "es": "Hamburguesa doble, en pan de trigo, 2 hamburguesas grandes",
+  "de": "Doppelter Hamburger, auf Weizenbrötchen, 2 große Patties",
+  "pt": "Hambúrguer duplo, em pão de trigo, 2 hambúrgueres grandes"
+ },
+ "5206": {
+  "it": "Doppio hamburger, su panino di frumento, 2 medaglioni medi",
+  "fr": "Double hamburger, sur pain de blé, 2 steaks hachés moyens",
+  "es": "Hamburguesa doble, en pan de trigo, 2 hamburguesas medianas",
+  "de": "Doppelter Hamburger, auf Weizenbrötchen, 2 mittelgroße Patties",
+  "pt": "Hambúrguer duplo, em pão de trigo, 2 hambúrgueres médios"
+ },
+ "5207": {
+  "it": "Doppio hamburger, su panino di frumento, 2 medaglioni piccoli",
+  "fr": "Double hamburger, sur pain de blé, 2 steaks hachés petits",
+  "es": "Hamburguesa doble, en pan de trigo, 2 hamburguesas pequeñas",
+  "de": "Doppelter Hamburger, auf Weizenbrötchen, 2 kleine Patties",
+  "pt": "Hambúrguer duplo, em pão de trigo, 2 hambúrgueres pequenos"
+ },
+ "5208": {
+  "it": "Doppio hamburger, su panino bianco, 2 medaglioni grandi",
+  "fr": "Double hamburger, sur pain blanc, 2 steaks hachés grands",
+  "es": "Hamburguesa doble, en pan blanco, 2 hamburguesas grandes",
+  "de": "Doppelter Hamburger, auf weißem Brötchen, 2 große Patties",
+  "pt": "Hambúrguer duplo, em pão branco, 2 hambúrgueres grandes"
+ },
+ "5209": {
+  "it": "Doppio hamburger, su panino bianco, 2 medaglioni medi",
+  "fr": "Double hamburger, sur pain blanc, 2 steaks hachés moyens",
+  "es": "Hamburguesa doble, en pan blanco, 2 hamburguesas medianas",
+  "de": "Doppelter Hamburger, auf weißem Brötchen, 2 mittelgroße Patties",
+  "pt": "Hambúrguer duplo, em pão branco, 2 hambúrgueres médios"
+ },
+ "5210": {
+  "it": "Doppio hamburger, su panino bianco, 2 medaglioni piccoli",
+  "fr": "Double hamburger, sur pain blanc, 2 steaks hachés petits",
+  "es": "Hamburguesa doble, en pan blanco, 2 hamburguesas pequeñas",
+  "de": "Doppelter Hamburger, auf weißem Brötchen, 2 kleine Patties",
+  "pt": "Hambúrguer duplo, em pão branco, 2 hambúrgueres pequenos"
+ },
+ "5211": {
+  "it": "Doughnut, bocconcini",
+  "fr": "Doughnut, boules",
+  "es": "Dona, bolitas",
+  "de": "Donut, Bällchen",
+  "pt": "Donut, bolinhas"
+ },
+ "5212": {
+  "it": "Doughnut, tipo torta, con glassa al cioccolato",
+  "fr": "Doughnut, type gâteau, avec glaçage au chocolat",
+  "es": "Dona, tipo bizcocho, con glaseado de chocolate",
+  "de": "Donut, Rührteig-Art, mit Schokoladenglasur",
+  "pt": "Donut, tipo bolo, com cobertura de chocolate"
+ },
+ "5213": {
+  "it": "Doughnut, tipo torta, semplice",
+  "fr": "Doughnut, type gâteau, nature",
+  "es": "Dona, tipo bizcocho, natural",
+  "de": "Donut, Rührteig-Art, natur",
+  "pt": "Donut, tipo bolo, simples"
+ },
+ "5214": {
+  "it": "Doughnut, tipo torta, con zucchero a velo",
+  "fr": "Doughnut, type gâteau, avec sucre glace",
+  "es": "Dona, tipo bizcocho, con azúcar glas",
+  "de": "Donut, Rührteig-Art, mit Puderzucker",
+  "pt": "Donut, tipo bolo, com açúcar de confeiteiro"
+ },
+ "5215": {
+  "it": "Doughnut, tipo torta, con glassa",
+  "fr": "Doughnut, type gâteau, avec glaçage",
+  "es": "Dona, tipo bizcocho, con glaseado",
+  "de": "Donut, Rührteig-Art, mit Glasur",
+  "pt": "Donut, tipo bolo, com cobertura"
+ },
+ "5216": {
+  "it": "Doughnut, al cioccolato",
+  "fr": "Doughnut, au chocolat",
+  "es": "Dona, de chocolate",
+  "de": "Donut, Schokolade",
+  "pt": "Donut, de chocolate"
+ },
+ "5217": {
+  "it": "Doughnut, al cioccolato, con glassa al cioccolato",
+  "fr": "Doughnut, au chocolat, avec glaçage au chocolat",
+  "es": "Dona, de chocolate, con glaseado de chocolate",
+  "de": "Donut, Schokolade, mit Schokoladenglasur",
+  "pt": "Donut, de chocolate, com cobertura de chocolate"
+ },
+ "5218": {
+  "it": "Doughnut, ripieno di crema",
+  "fr": "Doughnut, fourré à la crème",
+  "es": "Dona, rellena de crema",
+  "de": "Donut, mit Cremefüllung",
+  "pt": "Donut, recheado com creme"
+ },
+ "5219": {
+  "it": "Doughnut, ripieno di crema, con glassa",
+  "fr": "Doughnut, fourré à la crème, avec glaçage",
+  "es": "Dona, rellena de crema, con glaseado",
+  "de": "Donut, mit Cremefüllung, mit Glasur",
+  "pt": "Donut, recheado com creme, com cobertura"
+ },
+ "5220": {
+  "it": "Doughnut, ripieno di marmellata",
+  "fr": "Doughnut, fourré à la confiture",
+  "es": "Dona, rellena de mermelada",
+  "de": "Donut, mit Marmeladenfüllung",
+  "pt": "Donut, recheado com geleia"
+ },
+ "5221": {
+  "it": "Doughnut, non specificato",
+  "fr": "Doughnut, non spécifié",
+  "es": "Dona, no especificado",
+  "de": "Donut, nicht näher bezeichnet",
+  "pt": "Donut, não especificado"
+ },
+ "5222": {
+  "it": "Doughnut, lievitato",
+  "fr": "Doughnut, à la levure",
+  "es": "Dona, de levadura",
+  "de": "Donut, Hefeteig-Art",
+  "pt": "Donut, de fermento"
+ },
+ "5223": {
+  "it": "Doughnut, lievitato, con glassa al cioccolato",
+  "fr": "Doughnut, à la levure, avec glaçage au chocolat",
+  "es": "Dona, de levadura, con glaseado de chocolate",
+  "de": "Donut, Hefeteig-Art, mit Schokoladenglasur",
+  "pt": "Donut, de fermento, com cobertura de chocolate"
+ },
+ "5224": {
+  "it": "Doughnut, tipo torta, al cioccolato, zuccherato o glassato",
+  "fr": "Doughnuts, type gâteau, au chocolat, sucrés ou glacés",
+  "es": "Donas, tipo bizcocho, de chocolate, azucaradas o glaseadas",
+  "de": "Donuts, Rührteig-Art, Schokolade, gezuckert oder glasiert",
+  "pt": "Donuts, tipo bolo, de chocolate, açucarados ou glaceados"
+ },
+ "5225": {
+  "it": "Doughnut, tipo torta, semplici (include non zuccherati, all'antica)",
+  "fr": "Doughnuts, type gâteau, nature (comprend non sucrés, à l'ancienne)",
+  "es": "Donas, tipo bizcocho, naturales (incluye sin azúcar, estilo antiguo)",
+  "de": "Donuts, Rührteig-Art, natur (einschließlich ungezuckert, nach alter Art)",
+  "pt": "Donuts, tipo bolo, simples (inclui sem açúcar, à moda antiga)"
+ },
+ "5226": {
+  "it": "Doughnut, tipo torta, semplici, ricoperti di cioccolato o glassati",
+  "fr": "Doughnuts, type gâteau, nature, enrobés de chocolat ou glacés",
+  "es": "Donas, tipo bizcocho, naturales, cubiertas de chocolate o glaseadas",
+  "de": "Donuts, Rührteig-Art, natur, mit Schokolade überzogen oder glasiert",
+  "pt": "Donuts, tipo bolo, simples, cobertos com chocolate ou glaceados"
+ },
+ "5227": {
+  "it": "Doughnut, tipo torta, semplici, zuccherati o glassati",
+  "fr": "Doughnuts, type gâteau, nature, sucrés ou glacés",
+  "es": "Donas, tipo bizcocho, naturales, azucaradas o glaseadas",
+  "de": "Donuts, Rührteig-Art, natur, gezuckert oder glasiert",
+  "pt": "Donuts, tipo bolo, simples, açucarados ou glaceados"
+ },
+ "5228": {
+  "it": "Doughnut, french cruller, glassati",
+  "fr": "Doughnuts, french crullers, glacés",
+  "es": "Donas, french crullers, glaseadas",
+  "de": "Donuts, French Crullers, glasiert",
+  "pt": "Donuts, french crullers, glaceados"
+ },
+ "5229": {
+  "it": "Doughnut, lievitati, glassati, arricchiti (include honey bun)",
+  "fr": "Doughnuts, levés à la levure, glacés, enrichis (comprend honey buns)",
+  "es": "Donas, de levadura, glaseadas, enriquecidas (incluye honey buns)",
+  "de": "Donuts, Hefeteig, glasiert, angereichert (einschließlich Honey Buns)",
+  "pt": "Donuts, de fermento, glaceados, enriquecidos (inclui honey buns)"
+ },
+ "5230": {
+  "it": "Doughnut, lievitati, glassati, non arricchiti (include honey bun)",
+  "fr": "Doughnuts, levés à la levure, glacés, non enrichis (comprend honey buns)",
+  "es": "Donas, de levadura, glaseadas, sin enriquecer (incluye honey buns)",
+  "de": "Donuts, Hefeteig, glasiert, nicht angereichert (einschließlich Honey Buns)",
+  "pt": "Donuts, de fermento, glaceados, não enriquecidos (inclui honey buns)"
+ },
+ "5231": {
+  "it": "Doughnut, lievitati, con ripieno di crema",
+  "fr": "Doughnuts, levés à la levure, fourrés à la crème",
+  "es": "Donas, de levadura, con relleno de crema",
+  "de": "Donuts, Hefeteig, mit Cremefüllung",
+  "pt": "Donuts, de fermento, com recheio de creme"
+ },
+ "5232": {
+  "it": "Doughnut, lievitati, con ripieno di marmellata",
+  "fr": "Doughnuts, levés à la levure, fourrés à la confiture",
+  "es": "Donas, de levadura, con relleno de mermelada",
+  "de": "Donuts, Hefeteig, mit Marmeladenfüllung",
+  "pt": "Donuts, de fermento, com recheio de geleia"
+ },
+ "5233": {
+  "it": "Piccione, cotto (include piccioncino)",
+  "fr": "Pigeon, cuit (comprend pigeonneau)",
+  "es": "Paloma, cocida (incluye pichón)",
+  "de": "Taube, gekocht (einschließlich Jungtaube)",
+  "pt": "Pomba, cozida (inclui pombinho)"
+ },
+ "5234": {
+  "it": "Piccione, cotto, metodo di cottura non specificato",
+  "fr": "Pigeon, cuit, méthode de cuisson non précisée",
+  "es": "Paloma, cocida, método de cocción sin especificar",
+  "de": "Taube, gekocht, Garmethode nicht angegeben",
+  "pt": "Pomba, cozida, método de cocção não especificado"
+ },
+ "5235": {
+  "it": "Piccione, fritto",
+  "fr": "Pigeon, frit",
+  "es": "Paloma, frita",
+  "de": "Taube, frittiert",
+  "pt": "Pomba, frita"
+ },
+ "5236": {
+  "it": "Pitaya (frutto del drago)",
+  "fr": "Pitaya (fruit du dragon)",
+  "es": "Pitahaya (fruta del dragón)",
+  "de": "Drachenfrucht (Pitahaya)",
+  "pt": "Pitaya (fruta-do-dragão)"
+ },
+ "5237": {
+  "it": "Ripieno con pollo o tacchino e verdure",
+  "fr": "Farce avec poulet ou dinde et légumes",
+  "es": "Relleno con pollo o pavo y verduras",
+  "de": "Füllung mit Huhn oder Pute und Gemüse",
+  "pt": "Recheio com frango ou peru e legumes"
+ },
+ "5238": {
+  "it": "Ripieno con carne e verdure",
+  "fr": "Farce avec viande et légumes",
+  "es": "Relleno con carne y verduras",
+  "de": "Füllung mit Fleisch und Gemüse",
+  "pt": "Recheio com carne e legumes"
+ },
+ "5239": {
+  "it": "Ripieno con ostriche",
+  "fr": "Farce avec huîtres",
+  "es": "Relleno con ostras",
+  "de": "Füllung mit Austern",
+  "pt": "Recheio com ostras"
+ },
+ "5240": {
+  "it": "Condimento per insalata, miele e senape, senza grassi",
+  "fr": "Sauce salade, miel et moutarde, sans matières grasses",
+  "es": "Aderezo, miel y mostaza, sin grasa",
+  "de": "Dressing, Honig-Senf, fettfrei",
+  "pt": "Molho para salada, mel e mostarda, sem gordura"
+ },
+ "5241": {
+  "it": "Condimento per insalata, Ranch",
+  "fr": "Sauce salade, Ranch",
+  "es": "Aderezo, Ranch",
+  "de": "Dressing, Ranch",
+  "pt": "Molho para salada, Ranch"
+ },
+ "5242": {
+  "it": "Frutta secca, non specificata",
+  "fr": "Fruits séchés, non spécifiés",
+  "es": "Fruta seca, no especificada",
+  "de": "Trockenobst, nicht näher bezeichnet",
+  "pt": "Fruta seca, não especificada"
+ },
+ "5243": {
+  "it": "Foglie di moringa, cotte, bollite, sgocciolate, con sale",
+  "fr": "Feuilles de moringa, cuites, bouillies, égouttées, avec sel",
+  "es": "Hojas de moringa, cocidas, hervidas, escurridas, con sal",
+  "de": "Moringablätter, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Folhas de moringa, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "5244": {
+  "it": "Foglie di moringa, cotte, bollite, sgocciolate, senza sale",
+  "fr": "Feuilles de moringa, cuites, bouillies, égouttées, sans sel",
+  "es": "Hojas de moringa, cocidas, hervidas, escurridas, sin sal",
+  "de": "Moringablätter, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Folhas de moringa, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "5245": {
+  "it": "Foglie di moringa, crude",
+  "fr": "Feuilles de moringa, crues",
+  "es": "Hojas de moringa, crudas",
+  "de": "Moringablätter, roh",
+  "pt": "Folhas de moringa, cruas"
+ },
+ "5246": {
+  "it": "Baccelli di moringa, cotti, bolliti, sgocciolati, con sale",
+  "fr": "Gousses de moringa, cuites, bouillies, égouttées, avec sel",
+  "es": "Vainas de moringa, cocidas, hervidas, escurridas, con sal",
+  "de": "Moringaschoten, gekocht, gekocht, abgetropft, mit Salz",
+  "pt": "Vagens de moringa, cozidas, cozidas em água, escorridas, com sal"
+ },
+ "5247": {
+  "it": "Baccelli di moringa, cotti, bolliti, sgocciolati, senza sale",
+  "fr": "Gousses de moringa, cuites, bouillies, égouttées, sans sel",
+  "es": "Vainas de moringa, cocidas, hervidas, escurridas, sin sal",
+  "de": "Moringaschoten, gekocht, gekocht, abgetropft, ohne Salz",
+  "pt": "Vagens de moringa, cozidas, cozidas em água, escorridas, sem sal"
+ },
+ "5248": {
+  "it": "Baccelli di moringa, crudi",
+  "fr": "Gousses de moringa, crues",
+  "es": "Vainas de moringa, crudas",
+  "de": "Moringaschoten, roh",
+  "pt": "Vagens de moringa, cruas"
+ },
+ "5249": {
+  "it": "Uovo di anatra, cotto",
+  "fr": "Œuf de canard, cuit",
+  "es": "Huevo de pato, cocido",
+  "de": "Entenei, gekocht",
+  "pt": "Ovo de pato, cozido"
+ },
+ "5250": {
+  "it": "Salsa agrodolce alla frutta (duck sauce)",
+  "fr": "Sauce aigre-douce aux fruits (duck sauce)",
+  "es": "Salsa agridulce de fruta (duck sauce)",
+  "de": "Duck Sauce (süßsaure Fruchtsauce)",
+  "pt": "Molho agridoce de frutas (duck sauce)"
+ },
+ "5251": {
+  "it": "Anatra, cotta, con pelle consumata",
+  "fr": "Canard, cuit, peau consommée",
+  "es": "Pato, cocido, con piel consumida",
+  "de": "Ente, gekocht, Haut mitgegessen",
+  "pt": "Pato, cozido, com pele consumida"
+ },
+ "5252": {
+  "it": "Anatra, cotta, pelle non consumata",
+  "fr": "Canard, cuit, peau non consommée",
+  "es": "Pato, cocido, piel no consumida",
+  "de": "Ente, gekocht, Haut nicht mitgegessen",
+  "pt": "Pato, cozido, pele não consumida"
+ },
+ "5253": {
+  "it": "Anatra, domestica, fegato, crudo",
+  "fr": "Canard, domestique, foie, cru",
+  "es": "Pato, doméstico, hígado, crudo",
+  "de": "Ente, Hausente, Leber, roh",
+  "pt": "Pato, doméstico, fígado, cru"
+ },
+ "5254": {
+  "it": "Anatra, domestica, carne e pelle, cotta, arrosto",
+  "fr": "Canard, domestique, viande et peau, cuit, rôti",
+  "es": "Pato, doméstico, carne y piel, cocido, asado",
+  "de": "Ente, Hausente, Fleisch und Haut, gekocht, gebraten (im Ofen)",
+  "pt": "Pato, doméstico, carne e pele, cozido, assado"
+ },
+ "5255": {
+  "it": "Anatra, domestica, carne e pelle, cruda",
+  "fr": "Canard, domestique, viande et peau, cru",
+  "es": "Pato, doméstico, carne y piel, crudo",
+  "de": "Ente, Hausente, Fleisch und Haut, roh",
+  "pt": "Pato, doméstico, carne e pele, cru"
+ },
+ "5256": {
+  "it": "Anatra, domestica, solo carne, cotta, arrosto",
+  "fr": "Canard, domestique, viande seule, cuit, rôti",
+  "es": "Pato, doméstico, solo carne, cocido, asado",
+  "de": "Ente, Hausente, nur Fleisch, gekocht, gebraten (im Ofen)",
+  "pt": "Pato, doméstico, apenas carne, cozido, assado"
+ },
+ "5257": {
+  "it": "Anatra, domestica, solo carne, cruda",
+  "fr": "Canard, domestique, viande seule, cru",
+  "es": "Pato, doméstico, solo carne, crudo",
+  "de": "Ente, Hausente, nur Fleisch, roh",
+  "pt": "Pato, doméstico, apenas carne, cru"
+ },
+ "5258": {
+  "it": "Anatra alla pechinese",
+  "fr": "Canard laqué de Pékin",
+  "es": "Pato laqueado de Pekín",
+  "de": "Pekingente",
+  "pt": "Pato à pequinesa"
+ },
+ "5259": {
+  "it": "Anatra, arrosto, con pelle consumata",
+  "fr": "Canard, rôti, peau consommée",
+  "es": "Pato, asado, con piel consumida",
+  "de": "Ente, gebraten (im Ofen), Haut mitgegessen",
+  "pt": "Pato, assado, com pele consumida"
+ },
+ "5260": {
+  "it": "Anatra, arrosto, pelle non consumata",
+  "fr": "Canard, rôti, peau non consommée",
+  "es": "Pato, asado, piel no consumida",
+  "de": "Ente, gebraten (im Ofen), Haut nicht mitgegessen",
+  "pt": "Pato, assado, pele não consumida"
+ },
+ "5261": {
+  "it": "Anatra, orchetto marino alibianche, carne (nativi dell'Alaska)",
+  "fr": "Canard, macreuse à ailes blanches, viande (autochtones d'Alaska)",
+  "es": "Pato, negrón aliblanco, carne (nativos de Alaska)",
+  "de": "Ente, Samtente, Fleisch (Alaska-Ureinwohner)",
+  "pt": "Pato, negrinha-de-asa-branca, carne (nativos do Alasca)"
+ },
+ "5262": {
+  "it": "Anatra, selvatica, petto, solo carne, cruda",
+  "fr": "Canard, sauvage, poitrine, viande seule, cru",
+  "es": "Pato, silvestre, pechuga, solo carne, crudo",
+  "de": "Ente, Wildente, Brust, nur Fleisch, roh",
+  "pt": "Pato, selvagem, peito, apenas carne, cru"
+ },
+ "5263": {
+  "it": "Anatra, selvatica, carne e pelle, cruda",
+  "fr": "Canard, sauvage, viande et peau, cru",
+  "es": "Pato, silvestre, carne y piel, crudo",
+  "de": "Ente, Wildente, Fleisch und Haut, roh",
+  "pt": "Pato, selvagem, carne e pele, cru"
+ },
+ "5264": {
+  "it": "Anatra, anatroccolo, domestico, White Pekin, petto, carne e pelle, disossato, cotto, arrosto",
+  "fr": "Canard, caneton, domestique, White Pekin, poitrine, viande et peau, désossé, cuit, rôti",
+  "es": "Pato, patito, doméstico, White Pekin, pechuga, carne y piel, deshuesado, cocido, asado",
+  "de": "Ente, junge Ente, Hausente, White Pekin, Brust, Fleisch und Haut, ohne Knochen, gekocht, gebraten (im Ofen)",
+  "pt": "Pato, patinho, doméstico, White Pekin, peito, carne e pele, sem osso, cozido, assado"
+ },
+ "5265": {
+  "it": "Anatra, anatroccolo, domestico, White Pekin, petto, solo carne, disossato, cotto senza pelle, alla griglia",
+  "fr": "Canard, caneton, domestique, White Pekin, poitrine, viande seule, désossé, cuit sans peau, grillé",
+  "es": "Pato, patito, doméstico, White Pekin, pechuga, solo carne, deshuesado, cocido sin piel, a la parrilla",
+  "de": "Ente, junge Ente, Hausente, White Pekin, Brust, nur Fleisch, ohne Knochen, ohne Haut gekocht, gegrillt",
+  "pt": "Pato, patinho, doméstico, White Pekin, peito, apenas carne, sem osso, cozido sem pele, grelhado"
+ },
+ "5266": {
+  "it": "Anatra, anatroccolo, domestico, White Pekin, coscia, carne e pelle, con osso, cotto, arrosto",
+  "fr": "Canard, caneton, domestique, White Pekin, cuisse, viande et peau, avec os, cuit, rôti",
+  "es": "Pato, patito, doméstico, White Pekin, muslo, carne y piel, con hueso, cocido, asado",
+  "de": "Ente, junge Ente, Hausente, White Pekin, Keule, Fleisch und Haut, mit Knochen, gekocht, gebraten (im Ofen)",
+  "pt": "Pato, patinho, doméstico, White Pekin, coxa, carne e pele, com osso, cozido, assado"
+ },
+ "5267": {
+  "it": "Anatra, anatroccolo, domestico, White Pekin, coscia, solo carne, con osso, cotto senza pelle, brasato",
+  "fr": "Canard, caneton, domestique, White Pekin, cuisse, viande seule, avec os, cuit sans peau, braisé",
+  "es": "Pato, patito, doméstico, White Pekin, muslo, solo carne, con hueso, cocido sin piel, estofado",
+  "de": "Ente, junge Ente, Hausente, White Pekin, Keule, nur Fleisch, mit Knochen, ohne Haut gekocht, geschmort",
+  "pt": "Pato, patinho, doméstico, White Pekin, coxa, apenas carne, com osso, cozido sem pele, refogado"
+ },
+ "5268": {
+  "it": "Dukboki o Tteokbokki, coreano (gnocchi di riso piccanti)",
+  "fr": "Dukboki ou Tteokbokki, coréen (gâteaux de riz sautés épicés)",
+  "es": "Dukboki o Tteokbokki, coreano (pasteles de arroz picantes)",
+  "de": "Dukboki oder Tteokbokki, koreanisch (scharfe Reiskuchen)",
+  "pt": "Dukboki ou Tteokbokki, coreano (bolinhos de arroz apimentados)"
+ },
+ "5269": {
+  "it": "Dulce de leche",
+  "fr": "Confiture de lait (dulce de leche)",
+  "es": "Dulce de leche",
+  "de": "Dulce de Leche",
+  "pt": "Doce de leite"
+ },
+ "5270": {
+  "it": "Dumpling (raviolo cinese), senza carne",
+  "fr": "Dumpling (raviolis chinois), sans viande",
+  "es": "Dumpling (empanadilla china), sin carne",
+  "de": "Dumpling (gefüllte Teigtasche), ohne Fleisch",
+  "pt": "Dumpling (pastel chinês), sem carne"
+ },
+ "5271": {
+  "it": "Dumpling, ripieno di patate o formaggio, surgelato",
+  "fr": "Dumpling, farci de pommes de terre ou de fromage, surgelé",
+  "es": "Dumpling, relleno de patata o queso, congelado",
+  "de": "Teigtasche, mit Kartoffel- oder Käsefüllung, tiefgekühlt",
+  "pt": "Dumpling, recheado com batata ou queijo, congelado"
+ },
+ "5272": {
+  "it": "Durian, crudo o surgelato",
+  "fr": "Durian, cru ou surgelé",
+  "es": "Durián, crudo o congelado",
+  "de": "Durian, roh oder tiefgekühlt",
+  "pt": "Durião, cru ou congelado"
+ },
+ "5273": {
+  "it": "Dutch brand loaf (affettato), pollo, maiale e manzo",
+  "fr": "Dutch brand loaf (charcuterie en tranches), poulet, porc et bœuf",
+  "es": "Dutch brand loaf (fiambre), pollo, cerdo y vacuno",
+  "de": "Dutch Brand Loaf (Aufschnitt), Huhn, Schwein und Rind",
+  "pt": "Dutch brand loaf (frios fatiados), frango, carne suína e carne bovina"
+ },
+ "5274": {
+  "it": "Edamame, cotti",
+  "fr": "Edamame, cuits",
+  "es": "Edamame, cocidos",
+  "de": "Edamame, gekocht",
+  "pt": "Edamame, cozidos"
+ },
+ "5275": {
+  "it": "Edamame, surgelati, preparati",
+  "fr": "Edamame, surgelés, préparés",
+  "es": "Edamame, congelados, preparados",
+  "de": "Edamame, tiefgekühlt, zubereitet",
+  "pt": "Edamame, congelados, preparados"
+ },
+ "5276": {
+  "it": "Edamame, surgelati, non preparati",
+  "fr": "Edamame, surgelés, non préparés",
+  "es": "Edamame, congelados, sin preparar",
+  "de": "Edamame, tiefgekühlt, unzubereitet",
+  "pt": "Edamame, congelados, não preparados"
+ },
+ "5277": {
+  "it": "Burrito all'uovo",
+  "fr": "Burrito aux œufs",
+  "es": "Burrito de huevo",
+  "de": "Burrito mit Ei",
+  "pt": "Burrito de ovo"
+ },
+ "5278": {
+  "it": "Burrito all'uovo, con pancetta",
+  "fr": "Burrito aux œufs, avec du lard (bacon)",
+  "es": "Burrito de huevo, con beicon",
+  "de": "Burrito mit Ei, mit Speck",
+  "pt": "Burrito de ovo, com bacon"
+ },
+ "5279": {
+  "it": "Burrito all'uovo, con prosciutto",
+  "fr": "Burrito aux œufs, avec du jambon",
+  "es": "Burrito de huevo, con jamón",
+  "de": "Burrito mit Ei, mit Schinken",
+  "pt": "Burrito de ovo, com presunto"
+ },
+ "5280": {
+  "it": "Burrito all'uovo, con salsiccia",
+  "fr": "Burrito aux œufs, avec de la saucisse",
+  "es": "Burrito de huevo, con salchicha",
+  "de": "Burrito mit Ei, mit Wurst",
+  "pt": "Burrito de ovo, com salsicha"
+ },
+ "5281": {
+  "it": "Sformato di uova con pane, formaggio, latte e carne",
+  "fr": "Gratin d'œufs avec pain, fromage, lait et viande",
+  "es": "Cazuela de huevos con pan, queso, leche y carne",
+  "de": "Eierauflauf mit Brot, Käse, Milch und Fleisch",
+  "pt": "Caçarola de ovos com pão, queijo, leite e carne"
+ },
+ "5282": {
+  "it": "Crema all'uovo (custard), miscela secca",
+  "fr": "Crèmes aux œufs (custard), préparation sèche",
+  "es": "Natillas de huevo (custard), mezcla seca",
+  "de": "Eiercreme (Custard), Trockenmischung",
+  "pt": "Creme de ovos (custard), mistura seca"
+ },
+ "5283": {
+  "it": "Crema all'uovo (custard), miscela secca, preparata con latte al 2%",
+  "fr": "Crèmes aux œufs (custard), préparation sèche, préparée avec du lait à 2%",
+  "es": "Natillas de huevo (custard), mezcla seca, preparadas con leche al 2%",
+  "de": "Eiercreme (Custard), Trockenmischung, mit 2%iger Milch zubereitet",
+  "pt": "Creme de ovos (custard), mistura seca, preparado com leite 2%"
+ },
+ "5284": {
+  "it": "Crema all'uovo (custard), miscela secca, preparata con latte intero",
+  "fr": "Crèmes aux œufs (custard), préparation sèche, préparée avec du lait entier",
+  "es": "Natillas de huevo (custard), mezcla seca, preparadas con leche entera",
+  "de": "Eiercreme (Custard), Trockenmischung, mit Vollmilch zubereitet",
+  "pt": "Creme de ovos (custard), mistura seca, preparado com leite integral"
+ },
+ "5285": {
+  "it": "Egg foo yung (omelette cinese), non specificato",
+  "fr": "Egg foo yung (omelette chinoise), non spécifié",
+  "es": "Egg foo yung (tortilla china), no especificado",
+  "de": "Egg Foo Yung (chinesisches Omelett), nicht näher bezeichnet",
+  "pt": "Egg foo yung (omelete chinesa), não especificado"
+ },
+ "5286": {
+  "it": "Omelette o uova strapazzate, da fast food / ristorante",
+  "fr": "Omelette ou œufs brouillés, de fast-food / restaurant",
+  "es": "Tortilla de huevo o huevos revueltos, de comida rápida / restaurante",
+  "de": "Omelett oder Rührei, aus Fast Food / Restaurant",
+  "pt": "Omelete ou ovos mexidos, de fast food / restaurante"
+ },
+ "5287": {
+  "it": "Omelette o uova strapazzate, preparato con grasso animale o grasso di cottura della carne",
+  "fr": "Omelette ou œufs brouillés, préparé avec de la graisse animale ou du jus de cuisson de viande",
+  "es": "Tortilla de huevo o huevos revueltos, preparado con grasa animal o grasa de cocción de la carne",
+  "de": "Omelett oder Rührei, mit tierischem Fett oder Bratenfett zubereitet",
+  "pt": "Omelete ou ovos mexidos, preparado com gordura animal ou gordura de cozimento da carne"
+ },
+ "5288": {
+  "it": "Omelette o uova strapazzate, preparato con burro",
+  "fr": "Omelette ou œufs brouillés, préparé avec du beurre",
+  "es": "Tortilla de huevo o huevos revueltos, preparado con mantequilla",
+  "de": "Omelett oder Rührei, mit Butter zubereitet",
+  "pt": "Omelete ou ovos mexidos, preparado com manteiga"
+ },
+ "5289": {
+  "it": "Omelette o uova strapazzate, preparato con spray da cucina",
+  "fr": "Omelette ou œufs brouillés, préparé avec un spray de cuisson",
+  "es": "Tortilla de huevo o huevos revueltos, preparado con aceite en aerosol",
+  "de": "Omelett oder Rührei, mit Bratspray zubereitet",
+  "pt": "Omelete ou ovos mexidos, preparado com spray de cozinha"
+ },
+ "5290": {
+  "it": "Omelette o uova strapazzate, preparato con margarina",
+  "fr": "Omelette ou œufs brouillés, préparé avec de la margarine",
+  "es": "Tortilla de huevo o huevos revueltos, preparado con margarina",
+  "de": "Omelett oder Rührei, mit Margarine zubereitet",
+  "pt": "Omelete ou ovos mexidos, preparado com margarina"
+ },
+ "5291": {
+  "it": "Omelette o uova strapazzate, preparato con olio",
+  "fr": "Omelette ou œufs brouillés, préparé avec de l'huile",
+  "es": "Tortilla de huevo o huevos revueltos, preparado con aceite",
+  "de": "Omelett oder Rührei, mit Öl zubereitet",
+  "pt": "Omelete ou ovos mexidos, preparado com óleo"
+ },
+ "5292": {
+  "it": "Omelette o uova strapazzate, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, sin grasa añadida",
+  "de": "Omelett oder Rührei, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, sem gordura adicionada"
+ },
+ "5293": {
+  "it": "Omelette o uova strapazzate, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, grasa sin especificar",
+  "de": "Omelett oder Rührei, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, gordura não especificada"
+ },
+ "5294": {
+  "it": "Omelette o uova strapazzate, tipo di grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, type de matière grasse non précisé",
+  "es": "Tortilla de huevo o huevos revueltos, tipo de grasa sin especificar",
+  "de": "Omelett oder Rührei, Fettart nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, tipo de gordura não especificado"
+ },
+ "5295": {
+  "it": "Omelette o uova strapazzate, con formaggio e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5296": {
+  "it": "Omelette o uova strapazzate, con formaggio e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5297": {
+  "it": "Omelette o uova strapazzate, con formaggio e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo e vegetais verde-escuros, gordura não especificada"
+ },
+ "5298": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, preparato con grasso animale o grasso di cottura della carne",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, préparé avec de la graisse animale ou du jus de cuisson de viande",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, preparado con grasa animal o grasa de cocción de la carne",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, mit tierischem Fett oder Bratenfett zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, preparado com gordura animal ou gordura de cozimento da carne"
+ },
+ "5299": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, preparato con burro",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, préparé avec du beurre",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, preparado con mantequilla",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, mit Butter zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, preparado com manteiga"
+ },
+ "5300": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, preparato con spray da cucina",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, préparé avec un spray de cuisson",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, preparado con aceite en aerosol",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, mit Bratspray zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, preparado com spray de cozinha"
+ },
+ "5301": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, preparato con margarina",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, préparé avec de la margarine",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, preparado con margarina",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, mit Margarine zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, preparado com margarina"
+ },
+ "5302": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, preparato con olio",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, préparé avec de l'huile",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, preparado con aceite",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, mit Öl zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, preparado com óleo"
+ },
+ "5303": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, sem gordura adicionada"
+ },
+ "5304": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, gordura não especificada"
+ },
+ "5305": {
+  "it": "Omelette o uova strapazzate, con formaggio e carne, tipo di grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage et viande, type de matière grasse non précisé",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y carne, tipo de grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse und Fleisch, Fettart nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo e carne, tipo de gordura não especificado"
+ },
+ "5306": {
+  "it": "Omelette o uova strapazzate, con formaggio e pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e tomates, com gordura adicionada"
+ },
+ "5307": {
+  "it": "Omelette o uova strapazzate, con formaggio e pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e tomates, sem gordura adicionada"
+ },
+ "5308": {
+  "it": "Omelette o uova strapazzate, con formaggio e pomodori, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage et tomates, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y tomates, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse und Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo e tomates, gordura não especificada"
+ },
+ "5309": {
+  "it": "Omelette o uova strapazzate, con formaggio e verdure diverse da quelle verde scuro e/o dai pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et légumes autres que vert foncé et/ou tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y verduras distintas de las verde oscuro y/o tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und anderes Gemüse als dunkelgrünes und/oder Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e vegetais que não sejam verde-escuros e/ou tomates, com gordura adicionada"
+ },
+ "5310": {
+  "it": "Omelette o uova strapazzate, con formaggio e verdure diverse da quelle verde scuro e/o dai pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage et légumes autres que vert foncé et/ou tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y verduras distintas de las verde oscuro y/o tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse und anderes Gemüse als dunkelgrünes und/oder Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo e vegetais que não sejam verde-escuros e/ou tomates, sem gordura adicionada"
+ },
+ "5311": {
+  "it": "Omelette o uova strapazzate, con formaggio e verdure diverse da quelle verde scuro e/o dai pomodori, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage et légumes autres que vert foncé et/ou tomates, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso y verduras distintas de las verde oscuro y/o tomates, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse und anderes Gemüse als dunkelgrünes und/oder Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo e vegetais que não sejam verde-escuros e/ou tomates, gordura não especificada"
+ },
+ "5312": {
+  "it": "Omelette o uova strapazzate, con formaggio, preparato con grasso animale o grasso di cottura della carne",
+  "fr": "Omelette ou œufs brouillés, avec fromage, préparé avec de la graisse animale ou du jus de cuisson de viande",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, preparado con grasa animal o grasa de cocción de la carne",
+  "de": "Omelett oder Rührei, mit Käse, mit tierischem Fett oder Bratenfett zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo, preparado com gordura animal ou gordura de cozimento da carne"
+ },
+ "5313": {
+  "it": "Omelette o uova strapazzate, con formaggio, preparato con burro",
+  "fr": "Omelette ou œufs brouillés, avec fromage, préparé avec du beurre",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, preparado con mantequilla",
+  "de": "Omelett oder Rührei, mit Käse, mit Butter zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo, preparado com manteiga"
+ },
+ "5314": {
+  "it": "Omelette o uova strapazzate, con formaggio, preparato con spray da cucina",
+  "fr": "Omelette ou œufs brouillés, avec fromage, préparé avec un spray de cuisson",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, preparado con aceite en aerosol",
+  "de": "Omelett oder Rührei, mit Käse, mit Bratspray zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo, preparado com spray de cozinha"
+ },
+ "5315": {
+  "it": "Omelette o uova strapazzate, con formaggio, preparato con margarina",
+  "fr": "Omelette ou œufs brouillés, avec fromage, préparé avec de la margarine",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, preparado con margarina",
+  "de": "Omelett oder Rührei, mit Käse, mit Margarine zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo, preparado com margarina"
+ },
+ "5316": {
+  "it": "Omelette o uova strapazzate, con formaggio, preparato con olio",
+  "fr": "Omelette ou œufs brouillés, avec fromage, préparé avec de l'huile",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, preparado con aceite",
+  "de": "Omelett oder Rührei, mit Käse, mit Öl zubereitet",
+  "pt": "Omelete ou ovos mexidos, com queijo, preparado com óleo"
+ },
+ "5317": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5318": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5319": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e vegetais verde-escuros, gordura não especificada"
+ },
+ "5320": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e tomates, com gordura adicionada"
+ },
+ "5321": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e tomates, sem gordura adicionada"
+ },
+ "5322": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e pomodori, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et tomates, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y tomates, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e tomates, gordura não especificada"
+ },
+ "5323": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e verdure diverse da quelle verde scuro e/o dai pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et légumes autres que vert foncé et/ou tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y verduras distintas de las verde oscuro y/o tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und anderes Gemüse als dunkelgrünes und/oder Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e vegetais que não sejam verde-escuros e/ou tomates, com gordura adicionada"
+ },
+ "5324": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e verdure diverse da quelle verde scuro e/o dai pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et légumes autres que vert foncé et/ou tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y verduras distintas de las verde oscuro y/o tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und anderes Gemüse als dunkelgrünes und/oder Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e vegetais que não sejam verde-escuros e/ou tomates, sem gordura adicionada"
+ },
+ "5325": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne e verdure diverse da quelle verde scuro e/o dai pomodori, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande et légumes autres que vert foncé et/ou tomates, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne y verduras distintas de las verde oscuro y/o tomates, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch und anderes Gemüse als dunkelgrünes und/oder Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne e vegetais que não sejam verde-escuros e/ou tomates, gordura não especificada"
+ },
+ "5326": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne, pomodori e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande, tomates et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne, tomates y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch, Tomaten und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne, tomates e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5327": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne, pomodori e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande, tomates et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne, tomates y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch, Tomaten und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne, tomates e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5328": {
+  "it": "Omelette o uova strapazzate, con formaggio, carne, pomodori e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage, viande, tomates et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, carne, tomates y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse, Fleisch, Tomaten und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo, carne, tomates e vegetais verde-escuros, gordura não especificada"
+ },
+ "5329": {
+  "it": "Omelette o uova strapazzate, con formaggio, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, sem gordura adicionada"
+ },
+ "5330": {
+  "it": "Omelette o uova strapazzate, con formaggio, pomodori e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, tomates et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, tomates y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Tomaten und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, tomates e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5331": {
+  "it": "Omelette o uova strapazzate, con formaggio, pomodori e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec fromage, tomates et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, tomates y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Käse, Tomaten und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com queijo, tomates e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5332": {
+  "it": "Omelette o uova strapazzate, con formaggio, pomodori e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec fromage, tomates et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con queso, tomates y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Käse, Tomaten und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com queijo, tomates e vegetais verde-escuros, gordura não especificada"
+ },
+ "5333": {
+  "it": "Omelette o uova strapazzate, con verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com vegetais verde-escuros, com gordura adicionada"
+ },
+ "5334": {
+  "it": "Omelette o uova strapazzate, con verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5335": {
+  "it": "Omelette o uova strapazzate, con verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com vegetais verde-escuros, gordura não especificada"
+ },
+ "5336": {
+  "it": "Omelette o uova strapazzate, con carne e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com carne e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5337": {
+  "it": "Omelette o uova strapazzate, con carne e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com carne e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5338": {
+  "it": "Omelette o uova strapazzate, con carne e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec viande et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Fleisch und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com carne e vegetais verde-escuros, gordura não especificada"
+ },
+ "5339": {
+  "it": "Omelette o uova strapazzate, con carne e pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande et tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch und Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com carne e tomates, com gordura adicionada"
+ },
+ "5340": {
+  "it": "Omelette o uova strapazzate, con carne e pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande et tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch und Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com carne e tomates, sem gordura adicionada"
+ },
+ "5341": {
+  "it": "Omelette o uova strapazzate, con carne e pomodori, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec viande et tomates, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y tomates, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Fleisch und Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com carne e tomates, gordura não especificada"
+ },
+ "5342": {
+  "it": "Omelette o uova strapazzate, con carne e verdure diverse da quelle verde scuro e/o dai pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande et légumes autres que vert foncé et/ou tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y verduras distintas de las verde oscuro y/o tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch und anderes Gemüse als dunkelgrünes und/oder Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com carne e vegetais que não sejam verde-escuros e/ou tomates, com gordura adicionada"
+ },
+ "5343": {
+  "it": "Omelette o uova strapazzate, con carne e verdure diverse da quelle verde scuro e/o dai pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande et légumes autres que vert foncé et/ou tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y verduras distintas de las verde oscuro y/o tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch und anderes Gemüse als dunkelgrünes und/oder Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com carne e vegetais que não sejam verde-escuros e/ou tomates, sem gordura adicionada"
+ },
+ "5344": {
+  "it": "Omelette o uova strapazzate, con carne e verdure diverse da quelle verde scuro e/o dai pomodori, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec viande et légumes autres que vert foncé et/ou tomates, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne y verduras distintas de las verde oscuro y/o tomates, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Fleisch und anderes Gemüse als dunkelgrünes und/oder Tomaten, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com carne e vegetais que não sejam verde-escuros e/ou tomates, gordura não especificada"
+ },
+ "5345": {
+  "it": "Omelette o uova strapazzate, con carne, preparato con grasso animale o grasso di cottura della carne",
+  "fr": "Omelette ou œufs brouillés, avec viande, préparé avec de la graisse animale ou du jus de cuisson de viande",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, preparado con grasa animal o grasa de cocción de la carne",
+  "de": "Omelett oder Rührei, mit Fleisch, mit tierischem Fett oder Bratenfett zubereitet",
+  "pt": "Omelete ou ovos mexidos, com carne, preparado com gordura animal ou gordura de cozimento da carne"
+ },
+ "5346": {
+  "it": "Omelette o uova strapazzate, con carne, preparato con burro",
+  "fr": "Omelette ou œufs brouillés, avec viande, préparé avec du beurre",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, preparado con mantequilla",
+  "de": "Omelett oder Rührei, mit Fleisch, mit Butter zubereitet",
+  "pt": "Omelete ou ovos mexidos, com carne, preparado com manteiga"
+ },
+ "5347": {
+  "it": "Omelette o uova strapazzate, con carne, preparato con spray da cucina",
+  "fr": "Omelette ou œufs brouillés, avec viande, préparé avec un spray de cuisson",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, preparado con aceite en aerosol",
+  "de": "Omelett oder Rührei, mit Fleisch, mit Bratspray zubereitet",
+  "pt": "Omelete ou ovos mexidos, com carne, preparado com spray de cozinha"
+ },
+ "5348": {
+  "it": "Omelette o uova strapazzate, con carne, preparato con margarina",
+  "fr": "Omelette ou œufs brouillés, avec viande, préparé avec de la margarine",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, preparado con margarina",
+  "de": "Omelett oder Rührei, mit Fleisch, mit Margarine zubereitet",
+  "pt": "Omelete ou ovos mexidos, com carne, preparado com margarina"
+ },
+ "5349": {
+  "it": "Omelette o uova strapazzate, con carne, preparato con olio",
+  "fr": "Omelette ou œufs brouillés, avec viande, préparé avec de l'huile",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, preparado con aceite",
+  "de": "Omelett oder Rührei, mit Fleisch, mit Öl zubereitet",
+  "pt": "Omelete ou ovos mexidos, com carne, preparado com óleo"
+ },
+ "5350": {
+  "it": "Omelette o uova strapazzate, con carne, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com carne, sem gordura adicionada"
+ },
+ "5351": {
+  "it": "Omelette o uova strapazzate, con carne, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec viande, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Fleisch, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com carne, gordura não especificada"
+ },
+ "5352": {
+  "it": "Omelette o uova strapazzate, con carne, tipo di grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec viande, type de matière grasse non précisé",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, tipo de grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Fleisch, Fettart nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com carne, tipo de gordura não especificado"
+ },
+ "5353": {
+  "it": "Omelette o uova strapazzate, con carne, pomodori e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande, tomates et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, tomates y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch, Tomaten und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com carne, tomates e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5354": {
+  "it": "Omelette o uova strapazzate, con carne, pomodori e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec viande, tomates et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, tomates y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Fleisch, Tomaten und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com carne, tomates e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5355": {
+  "it": "Omelette o uova strapazzate, con carne, pomodori e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec viande, tomates et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con carne, tomates y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Fleisch, Tomaten und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com carne, tomates e vegetais verde-escuros, gordura não especificada"
+ },
+ "5356": {
+  "it": "Omelette o uova strapazzate, con patate e/o cipolle, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec pommes de terre et/ou oignons, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con patatas y/o cebollas, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Kartoffeln und/oder Zwiebeln, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com batatas e/ou cebolas, com gordura adicionada"
+ },
+ "5357": {
+  "it": "Omelette o uova strapazzate, con patate e/o cipolle, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec pommes de terre et/ou oignons, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con patatas y/o cebollas, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Kartoffeln und/oder Zwiebeln, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com batatas e/ou cebolas, sem gordura adicionada"
+ },
+ "5358": {
+  "it": "Omelette o uova strapazzate, con patate e/o cipolle, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec pommes de terre et/ou oignons, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con patatas y/o cebollas, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Kartoffeln und/oder Zwiebeln, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com batatas e/ou cebolas, gordura não especificada"
+ },
+ "5359": {
+  "it": "Omelette o uova strapazzate, con pomodori e verdure a foglia verde scuro, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec tomates et légumes vert foncé, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con tomates y verduras de color verde oscuro, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Tomaten und dunkelgrünes Gemüse, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com tomates e vegetais verde-escuros, com gordura adicionada"
+ },
+ "5360": {
+  "it": "Omelette o uova strapazzate, con pomodori e verdure a foglia verde scuro, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec tomates et légumes vert foncé, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con tomates y verduras de color verde oscuro, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Tomaten und dunkelgrünes Gemüse, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com tomates e vegetais verde-escuros, sem gordura adicionada"
+ },
+ "5361": {
+  "it": "Omelette o uova strapazzate, con pomodori e verdure a foglia verde scuro, grasso non specificato",
+  "fr": "Omelette ou œufs brouillés, avec tomates et légumes vert foncé, matière grasse non précisée",
+  "es": "Tortilla de huevo o huevos revueltos, con tomates y verduras de color verde oscuro, grasa sin especificar",
+  "de": "Omelett oder Rührei, mit Tomaten und dunkelgrünes Gemüse, Fett nicht angegeben",
+  "pt": "Omelete ou ovos mexidos, com tomates e vegetais verde-escuros, gordura não especificada"
+ },
+ "5362": {
+  "it": "Omelette o uova strapazzate, con pomodori, con grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec tomates, avec matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con tomates, con grasa añadida",
+  "de": "Omelett oder Rührei, mit Tomaten, mit zugesetztem Fett",
+  "pt": "Omelete ou ovos mexidos, com tomates, com gordura adicionada"
+ },
+ "5363": {
+  "it": "Omelette o uova strapazzate, con pomodori, senza grasso aggiunto",
+  "fr": "Omelette ou œufs brouillés, avec tomates, sans matière grasse ajoutée",
+  "es": "Tortilla de huevo o huevos revueltos, con tomates, sin grasa añadida",
+  "de": "Omelett oder Rührei, mit Tomaten, ohne zugesetztes Fett",
+  "pt": "Omelete ou ovos mexidos, com tomates, sem gordura adicionada"
+ }
+}

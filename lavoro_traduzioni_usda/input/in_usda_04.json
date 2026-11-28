@@ -1,0 +1,1790 @@
+[
+{
+"id": "894",
+"en": "Beef jerky",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "895",
+"en": "Beef macaroni with tomato sauce, frozen entree, reduced fat",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "896",
+"en": "Beef Pot Pie, frozen entree, prepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "897",
+"en": "Beef rolls, stuffed with vegetables or meat mixture, tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "898",
+"en": "Beef salad",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "899",
+"en": "Beef sausage",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "900",
+"en": "Beef sausage with cheese",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "901",
+"en": "Beef shish kabob with vegetables, excluding potatoes",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "902",
+"en": "Beef steak with onions, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "903",
+"en": "Beef stew with potatoes, Puerto Rican style",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "904",
+"en": "Beef stew, canned entree",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "905",
+"en": "Beef stroganoff",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "906",
+"en": "Beef stroganoff with noodles",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "907",
+"en": "Beef taco filling: beef, cheese, tomato, taco sauce",
+"categoria": "Burritos and tacos",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "908",
+"en": "Beef wellington",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "909",
+"en": "Beef with cream or white sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "910",
+"en": "Beef with gravy",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "911",
+"en": "Beef with mushroom sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "912",
+"en": "Beef with soy-based sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "913",
+"en": "Beef with spaetzle or rice, vegetable, frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "914",
+"en": "Beef with sweet and sour sauce",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "915",
+"en": "Beef with tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "916",
+"en": "Beef with vegetable, diet frozen meal",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "917",
+"en": "Beef with vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, mushroom sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "918",
+"en": "Beef with vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "919",
+"en": "Beef with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, mushroom sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "920",
+"en": "Beef with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "921",
+"en": "Beef, Australian, imported, grass-fed, external fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "922",
+"en": "Beef, Australian, imported, grass-fed, ground, 85% lean / 15% fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "923",
+"en": "Beef, Australian, imported, grass-fed, loin, tenderloin steak/roast, boneless, separable lean and fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "924",
+"en": "Beef, Australian, imported, grass-fed, loin, tenderloin steak/roast, boneless, separable lean only, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "925",
+"en": "Beef, Australian, imported, grass-fed, loin, top loin steak/roast, boneless, separable lean and fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "926",
+"en": "Beef, Australian, imported, grass-fed, loin, top loin steak/roast, boneless, separable lean only, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "927",
+"en": "Beef, Australian, imported, grass-fed, loin, top sirloin cap-off steak/roast, boneless, separable lean and fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "928",
+"en": "Beef, Australian, imported, grass-fed, loin, top sirloin cap-off steak/roast, boneless, separable lean only, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "929",
+"en": "Beef, Australian, imported, grass-fed, rib, ribeye steak/roast lip-on, boneless, separable lean and fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "930",
+"en": "Beef, Australian, imported, grass-fed, rib, ribeye steak/roast lip-on, boneless, separable lean only, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "931",
+"en": "Beef, Australian, imported, grass-fed, round, bottom round steak/roast, boneless, separable lean and fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "932",
+"en": "Beef, Australian, imported, grass-fed, round, bottom round steak/roast, boneless, separable lean only, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "933",
+"en": "Beef, Australian, imported, grass-fed, round, top round cap-off steak/roast, boneless, separable lean and fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "934",
+"en": "Beef, Australian, imported, grass-fed, round, top round cap-off steak/roast, boneless, separable lean only, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "935",
+"en": "Beef, Australian, imported, grass-fed, seam fat, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "936",
+"en": "Beef, Australian, imported, Wagyu, external fat, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "937",
+"en": "Beef, Australian, imported, Wagyu, external fat, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "938",
+"en": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "939",
+"en": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "940",
+"en": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "941",
+"en": "Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless, separable lean only, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "942",
+"en": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "943",
+"en": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "944",
+"en": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "945",
+"en": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, separable lean and fat, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "946",
+"en": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "947",
+"en": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "948",
+"en": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "949",
+"en": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean only, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "950",
+"en": "Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 4/5, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "951",
+"en": "Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 9, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "952",
+"en": "Beef, bacon, cooked",
+"categoria": "Bacon",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "953",
+"en": "Beef, bacon, reduced sodium, cooked",
+"categoria": "Bacon",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "954",
+"en": "Beef, bologna, reduced sodium",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "955",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "956",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "957",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "958",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "959",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "960",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "961",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "962",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "963",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "964",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "965",
+"en": "Beef, bottom sirloin, tri-tip roast, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "966",
+"en": "Beef, brisket",
+"categoria": "Beef, excludes ground",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "967",
+"en": "Beef, brisket, flat half, boneless separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "968",
+"en": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "969",
+"en": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "970",
+"en": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "971",
+"en": "Beef, brisket, flat half, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "972",
+"en": "Beef, brisket, flat half, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "973",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "974",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "975",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "976",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "977",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "978",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "979",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "980",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "981",
+"en": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "982",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "983",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "984",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "985",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "986",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "987",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 1/8\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "988",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "989",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 1/8\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "990",
+"en": "Beef, brisket, flat half, separable lean only, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "991",
+"en": "Beef, brisket, point half, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "992",
+"en": "Beef, brisket, point half, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "993",
+"en": "Beef, brisket, point half, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "994",
+"en": "Beef, brisket, point half, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "995",
+"en": "Beef, brisket, whole, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "996",
+"en": "Beef, brisket, whole, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "997",
+"en": "Beef, brisket, whole, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "998",
+"en": "Beef, brisket, whole, separable lean only, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "999",
+"en": "Beef, brisket, whole, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1000",
+"en": "Beef, carcass, separable lean and fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1001",
+"en": "Beef, carcass, separable lean and fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1002",
+"en": "Beef, chopped, cured, smoked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "1003",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1004",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1005",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1006",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1007",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1008",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1009",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1010",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1011",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1012",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1013",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1014",
+"en": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1015",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1016",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1017",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1018",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1019",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1020",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1021",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1022",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1023",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1024",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1025",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1026",
+"en": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1027",
+"en": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1028",
+"en": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1029",
+"en": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1030",
+"en": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1031",
+"en": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1032",
+"en": "Beef, chuck eye steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1033",
+"en": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1034",
+"en": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1035",
+"en": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1036",
+"en": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1037",
+"en": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1038",
+"en": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1039",
+"en": "Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1040",
+"en": "Beef, chuck for stew, separable lean and fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1041",
+"en": "Beef, chuck for stew, separable lean and fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1042",
+"en": "Beef, chuck for stew, separable lean and fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1043",
+"en": "Beef, chuck for stew, separable lean and fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1044",
+"en": "Beef, chuck for stew, separable lean and fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1045",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1046",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1047",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1048",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1049",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1050",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1051",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1052",
+"en": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1053",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1054",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1055",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1056",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1057",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1058",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1059",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1060",
+"en": "Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1061",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1062",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1063",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1064",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1065",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1066",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1067",
+"en": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1068",
+"en": "Beef, chuck, blade roast, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1069",
+"en": "Beef, chuck, clod roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1070",
+"en": "Beef, chuck, clod roast, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1071",
+"en": "Beef, chuck, clod roast, separable lean and fat, trimmed to 0\" fat, select, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1072",
+"en": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1073",
+"en": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1074",
+"en": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, select, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1075",
+"en": "Beef, chuck, clod roast, separable lean only, trimmed to 1/4\" fat, all grades, cooked, roasted",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1076",
+"en": "Beef, chuck, clod roast, separable lean only, trimmed to 1/4\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1077",
+"en": "Beef, chuck, clod steak, separable lean only, trimmed to 1/4\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1078",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1079",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1080",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1081",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1082",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1083",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1084",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1085",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1086",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1087",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1088",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1089",
+"en": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1090",
+"en": "Beef, chuck, mock tender steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1091",
+"en": "Beef, chuck, mock tender steak, separable lean and fat, trimmed to 0\" fat, USDA choice, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1092",
+"en": "Beef, chuck, mock tender steak, separable lean and fat, trimmed to 0\" fat, USDA select, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1093",
+"en": "Beef, chuck, mock tender steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1094",
+"en": "Beef, chuck, mock tender steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1095",
+"en": "Beef, chuck, mock tender steak, separable lean only, trimmed to 0\" fat, select, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1096",
+"en": "Beef, chuck, roast, boneless, choice, raw",
+"categoria": "Beef Products",
+"tipo": "Foundation"
+},
+{
+"id": "1097",
+"en": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1098",
+"en": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1099",
+"en": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1100",
+"en": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1101",
+"en": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1102",
+"en": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1103",
+"en": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1104",
+"en": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1105",
+"en": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1106",
+"en": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1107",
+"en": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1108",
+"en": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1109",
+"en": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1110",
+"en": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1111",
+"en": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1112",
+"en": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1113",
+"en": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1114",
+"en": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1115",
+"en": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1116",
+"en": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1117",
+"en": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1118",
+"en": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1119",
+"en": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1120",
+"en": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1121",
+"en": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1122",
+"en": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1123",
+"en": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1124",
+"en": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1125",
+"en": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1126",
+"en": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1127",
+"en": "Beef, chuck, top blade, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1128",
+"en": "Beef, chuck, top blade, separable lean and fat, trimmed to 0\" fat, choice, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1129",
+"en": "Beef, chuck, top blade, separable lean and fat, trimmed to 0\" fat, select, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1130",
+"en": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1131",
+"en": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1132",
+"en": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, select, cooked, broiled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1133",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1134",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1135",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1136",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1137",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1138",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1139",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1140",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1141",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, choice, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1142",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1143",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, select, cooked, grilled",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1144",
+"en": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1145",
+"en": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1146",
+"en": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1147",
+"en": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1148",
+"en": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1149",
+"en": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1150",
+"en": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1151",
+"en": "Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1152",
+"en": "Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1153",
+"en": "Beef, chuck, under blade pot roast, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1154",
+"en": "Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1155",
+"en": "Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1156",
+"en": "Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1157",
+"en": "Beef, chuck, under blade steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1158",
+"en": "Beef, chuck, under blade steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1159",
+"en": "Beef, chuck, under blade steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1160",
+"en": "Beef, chuck, under blade steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1161",
+"en": "Beef, chuck, under blade steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1162",
+"en": "Beef, chuck, under blade steak, boneless, separable lean only, trimmed to 0\" fat, select, cooked, braised",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1163",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, all grades, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1164",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1165",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, choice, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1166",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1167",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, select, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1168",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1169",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1170",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1171",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1172",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1173",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, select, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1174",
+"en": "Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1175",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, all grades, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1176",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1177",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, choice, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1178",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1179",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, select, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1180",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1181",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, all grades, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1182",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, all grades, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1183",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, choice, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1184",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, select, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1185",
+"en": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/8\" fat, select, raw",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1186",
+"en": "Beef, corned",
+"categoria": "Cold cuts and cured meats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "1187",
+"en": "Beef, corned beef hash, with potato, canned",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "1188",
+"en": "Beef, cow head",
+"categoria": "Beef, excludes ground",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "1189",
+"en": "Beef, cured, breakfast strips, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1190",
+"en": "Beef, cured, breakfast strips, raw or unheated",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "1191",
+"en": "Beef, cured, corned beef, brisket, cooked",
+"categoria": "Beef Products",
+"tipo": "SR Legacy"
+}
+]

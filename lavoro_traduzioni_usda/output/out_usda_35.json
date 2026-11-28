@@ -1,0 +1,2088 @@
+{
+"10132": {
+"it": "Patata, purè, da miscela in polvere, preparata con latte, con sugo di carne (gravy)",
+"fr": "Pomme de terre, en purée, à partir de mélange en poudre, préparée avec du lait, avec sauce brune (gravy)",
+"es": "Patata, puré, a partir de mezcla en polvo, preparada con leche, con salsa de carne (gravy)",
+"de": "Kartoffel, Püree, aus Trockenmischung, mit Milch zubereitet, mit Bratensauce (Gravy)",
+"pt": "Batata, purê, a partir de mistura em pó, preparada com leite, com molho de carne (gravy)"
+},
+"10133": {
+"it": "Patata, purè, da miscela in polvere, non specificato",
+"fr": "Pomme de terre, en purée, à partir de mélange en poudre, non spécifié",
+"es": "Patata, puré, a partir de mezcla en polvo, no especificado",
+"de": "Kartoffel, Püree, aus Trockenmischung, nicht näher bezeichnet",
+"pt": "Batata, purê, a partir de mistura em pó, não especificado"
+},
+"10134": {
+"it": "Patata, purè, da fast food",
+"fr": "Pomme de terre, en purée, de fast-food",
+"es": "Patata, puré, de comida rápida",
+"de": "Kartoffel, Püree, aus Fast Food",
+"pt": "Batata, purê, de fast food"
+},
+"10135": {
+"it": "Patata, purè, da fast food, con sugo di carne (gravy)",
+"fr": "Pomme de terre, en purée, de fast-food, avec sauce brune (gravy)",
+"es": "Patata, puré, de comida rápida, con salsa de carne (gravy)",
+"de": "Kartoffel, Püree, aus Fast Food, mit Bratensauce (Gravy)",
+"pt": "Batata, purê, de fast food, com molho de carne (gravy)"
+},
+"10136": {
+"it": "Patata, purè, da prodotto fresco, preparata con latte",
+"fr": "Pomme de terre, en purée, à partir de produit frais, préparée avec du lait",
+"es": "Patata, puré, a partir de producto fresco, preparada con leche",
+"de": "Kartoffel, Püree, aus frischer Ware, mit Milch zubereitet",
+"pt": "Batata, purê, a partir de produto fresco, preparada com leite"
+},
+"10137": {
+"it": "Patata, purè, da prodotto fresco, preparata con latte, con formaggio",
+"fr": "Pomme de terre, en purée, à partir de produit frais, préparée avec du lait, avec fromage",
+"es": "Patata, puré, a partir de producto fresco, preparada con leche, con queso",
+"de": "Kartoffel, Püree, aus frischer Ware, mit Milch zubereitet, mit Käse",
+"pt": "Batata, purê, a partir de produto fresco, preparada com leite, com queijo"
+},
+"10138": {
+"it": "Patata, purè, da prodotto fresco, preparata con latte, con sugo di carne (gravy)",
+"fr": "Pomme de terre, en purée, à partir de produit frais, préparée avec du lait, avec sauce brune (gravy)",
+"es": "Patata, puré, a partir de producto fresco, preparada con leche, con salsa de carne (gravy)",
+"de": "Kartoffel, Püree, aus frischer Ware, mit Milch zubereitet, mit Bratensauce (Gravy)",
+"pt": "Batata, purê, a partir de produto fresco, preparada com leite, com molho de carne (gravy)"
+},
+"10139": {
+"it": "Patata, purè, da prodotto fresco, non specificato",
+"fr": "Pomme de terre, en purée, à partir de produit frais, non spécifié",
+"es": "Patata, puré, a partir de producto fresco, no especificado",
+"de": "Kartoffel, Püree, aus frischer Ware, nicht näher bezeichnet",
+"pt": "Batata, purê, a partir de produto fresco, não especificado"
+},
+"10140": {
+"it": "Patata, purè, da ristorante",
+"fr": "Pomme de terre, en purée, de restaurant",
+"es": "Patata, puré, de restaurante",
+"de": "Kartoffel, Püree, aus dem Restaurant",
+"pt": "Batata, purê, de restaurante"
+},
+"10141": {
+"it": "Patata, purè, da ristorante, con sugo di carne (gravy)",
+"fr": "Pomme de terre, en purée, de restaurant, avec sauce brune (gravy)",
+"es": "Patata, puré, de restaurante, con salsa de carne (gravy)",
+"de": "Kartoffel, Püree, aus dem Restaurant, mit Bratensauce (Gravy)",
+"pt": "Batata, purê, de restaurante, com molho de carne (gravy)"
+},
+"10142": {
+"it": "Patata, purè, da mensa scolastica",
+"fr": "Pomme de terre, en purée, de cantine scolaire",
+"es": "Patata, puré, de comedor escolar",
+"de": "Kartoffel, Püree, aus der Schulverpflegung",
+"pt": "Batata, purê, de merenda escolar"
+},
+"10143": {
+"it": "Patata, purè, non specificato",
+"fr": "Pomme de terre, en purée, non spécifié",
+"es": "Patata, puré, no especificado",
+"de": "Kartoffel, Püree, nicht näher bezeichnet",
+"pt": "Batata, purê, não especificado"
+},
+"10144": {
+"it": "Patata, purè, pronta da riscaldare",
+"fr": "Pomme de terre, en purée, prête à chauffer",
+"es": "Patata, puré, lista para calentar",
+"de": "Kartoffel, Püree, zum Erhitzen fertig",
+"pt": "Batata, purê, pronta para aquecer"
+},
+"10145": {
+"it": "Patata, purè, pronta da riscaldare, non specificato",
+"fr": "Pomme de terre, en purée, prête à chauffer, non spécifié",
+"es": "Patata, puré, lista para calentar, no especificado",
+"de": "Kartoffel, Püree, zum Erhitzen fertig, nicht näher bezeichnet",
+"pt": "Batata, purê, pronta para aquecer, não especificado"
+},
+"10146": {
+"it": "Patata, purè, pronta da riscaldare, con formaggio",
+"fr": "Pomme de terre, en purée, prête à chauffer, avec fromage",
+"es": "Patata, puré, lista para calentar, con queso",
+"de": "Kartoffel, Püree, zum Erhitzen fertig, mit Käse",
+"pt": "Batata, purê, pronta para aquecer, com queijo"
+},
+"10147": {
+"it": "Patata, purè, pronta da riscaldare, con sugo di carne (gravy)",
+"fr": "Pomme de terre, en purée, prête à chauffer, avec sauce brune (gravy)",
+"es": "Patata, puré, lista para calentar, con salsa de carne (gravy)",
+"de": "Kartoffel, Püree, zum Erhitzen fertig, mit Bratensauce (Gravy)",
+"pt": "Batata, purê, pronta para aquecer, com molho de carne (gravy)"
+},
+"10148": {
+"it": "Patata, non specificato",
+"fr": "Pomme de terre, non spécifié",
+"es": "Patata, no especificado",
+"de": "Kartoffel, nicht näher bezeichnet",
+"pt": "Batata, não especificado"
+},
+"10149": {
+"it": "Patata, arrosto, da prodotto fresco, buccia consumata, con grasso aggiunto, tipo di grasso non specificato",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau consommée, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Patata, asada, a partir de producto fresco, piel consumida, con grasa añadida, tipo de grasa sin especificar",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale mitgegessen, mit zugesetztem Fett, Fettart nicht angegeben",
+"pt": "Batata, assada, a partir de produto fresco, casca consumida, com gordura adicionada, tipo de gordura não especificado"
+},
+"10150": {
+"it": "Patata, arrosto, da prodotto fresco, buccia consumata, preparata con burro",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau consommée, préparée avec du beurre",
+"es": "Patata, asada, a partir de producto fresco, piel consumida, preparada con mantequilla",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale mitgegessen, mit Butter zubereitet",
+"pt": "Batata, assada, a partir de produto fresco, casca consumida, preparada com manteiga"
+},
+"10151": {
+"it": "Patata, arrosto, da prodotto fresco, buccia consumata, preparata con margarina",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau consommée, préparée avec de la margarine",
+"es": "Patata, asada, a partir de producto fresco, piel consumida, preparada con margarina",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale mitgegessen, mit Margarine zubereitet",
+"pt": "Batata, assada, a partir de produto fresco, casca consumida, preparada com margarina"
+},
+"10152": {
+"it": "Patata, arrosto, da prodotto fresco, buccia consumata, preparata con olio",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau consommée, préparée avec de l'huile",
+"es": "Patata, asada, a partir de producto fresco, piel consumida, preparada con aceite",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale mitgegessen, mit Öl zubereitet",
+"pt": "Batata, assada, a partir de produto fresco, casca consumida, preparada com óleo"
+},
+"10153": {
+"it": "Patata, arrosto, da prodotto fresco, buccia consumata, senza grasso aggiunto",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau consommée, sans matière grasse ajoutée",
+"es": "Patata, asada, a partir de producto fresco, piel consumida, sin grasa añadida",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale mitgegessen, ohne zugesetztes Fett",
+"pt": "Batata, assada, a partir de produto fresco, casca consumida, sem gordura adicionada"
+},
+"10154": {
+"it": "Patata, arrosto, da prodotto fresco, buccia consumata, non specificato se con grasso",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau consommée, non précisé si avec matière grasse",
+"es": "Patata, asada, a partir de producto fresco, piel consumida, sin especificar si con grasa",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale mitgegessen, nicht angegeben ob mit Fett",
+"pt": "Batata, assada, a partir de produto fresco, casca consumida, não especificado se com gordura"
+},
+"10155": {
+"it": "Patata, arrosto, da prodotto fresco, buccia non consumata, con grasso aggiunto, tipo di grasso non specificato",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau non consommée, avec matière grasse ajoutée, type de matière grasse non précisé",
+"es": "Patata, asada, a partir de producto fresco, piel no consumida, con grasa añadida, tipo de grasa sin especificar",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale nicht mitgegessen, mit zugesetztem Fett, Fettart nicht angegeben",
+"pt": "Batata, assada, a partir de produto fresco, casca não consumida, com gordura adicionada, tipo de gordura não especificado"
+},
+"10156": {
+"it": "Patata, arrosto, da prodotto fresco, buccia non consumata, preparata con burro",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau non consommée, préparée avec du beurre",
+"es": "Patata, asada, a partir de producto fresco, piel no consumida, preparada con mantequilla",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale nicht mitgegessen, mit Butter zubereitet",
+"pt": "Batata, assada, a partir de produto fresco, casca não consumida, preparada com manteiga"
+},
+"10157": {
+"it": "Patata, arrosto, da prodotto fresco, buccia non consumata, preparata con margarina",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau non consommée, préparée avec de la margarine",
+"es": "Patata, asada, a partir de producto fresco, piel no consumida, preparada con margarina",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale nicht mitgegessen, mit Margarine zubereitet",
+"pt": "Batata, assada, a partir de produto fresco, casca não consumida, preparada com margarina"
+},
+"10158": {
+"it": "Patata, arrosto, da prodotto fresco, buccia non consumata, preparata con olio",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau non consommée, préparée avec de l'huile",
+"es": "Patata, asada, a partir de producto fresco, piel no consumida, preparada con aceite",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale nicht mitgegessen, mit Öl zubereitet",
+"pt": "Batata, assada, a partir de produto fresco, casca não consumida, preparada com óleo"
+},
+"10159": {
+"it": "Patata, arrosto, da prodotto fresco, buccia non consumata, senza grasso aggiunto",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau non consommée, sans matière grasse ajoutée",
+"es": "Patata, asada, a partir de producto fresco, piel no consumida, sin grasa añadida",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale nicht mitgegessen, ohne zugesetztes Fett",
+"pt": "Batata, assada, a partir de produto fresco, casca não consumida, sem gordura adicionada"
+},
+"10160": {
+"it": "Patata, arrosto, da prodotto fresco, buccia non consumata, non specificato se con grasso",
+"fr": "Pomme de terre, rôtie, à partir de produit frais, peau non consommée, non précisé si avec matière grasse",
+"es": "Patata, asada, a partir de producto fresco, piel no consumida, sin especificar si con grasa",
+"de": "Kartoffel, gebraten (im Ofen), aus frischer Ware, Schale nicht mitgegessen, nicht angegeben ob mit Fett",
+"pt": "Batata, assada, a partir de produto fresco, casca não consumida, não especificado se com gordura"
+},
+"10161": {
+"it": "Patata, arrosto, non specificato",
+"fr": "Pomme de terre, rôtie, non spécifié",
+"es": "Patata, asada, no especificado",
+"de": "Kartoffel, gebraten (im Ofen), nicht näher bezeichnet",
+"pt": "Batata, assada, não especificado"
+},
+"10162": {
+"it": "Patata, arrosto, pronta da riscaldare",
+"fr": "Pomme de terre, rôtie, prête à chauffer",
+"es": "Patata, asada, lista para calentar",
+"de": "Kartoffel, gebraten (im Ofen), zum Erhitzen fertig",
+"pt": "Batata, assada, pronta para aquecer"
+},
+"10163": {
+"it": "Patata, gratinata, da miscela in polvere",
+"fr": "Pomme de terre, gratinée, à partir de mélange en poudre",
+"es": "Patata, gratinada, a partir de mezcla en polvo",
+"de": "Kartoffel, überbacken, aus Trockenmischung",
+"pt": "Batata, gratinada, a partir de mistura em pó"
+},
+"10164": {
+"it": "Patata, gratinata, da miscela in polvere, con carne",
+"fr": "Pomme de terre, gratinée, à partir de mélange en poudre, avec viande",
+"es": "Patata, gratinada, a partir de mezcla en polvo, con carne",
+"de": "Kartoffel, überbacken, aus Trockenmischung, mit Fleisch",
+"pt": "Batata, gratinada, a partir de mistura em pó, com carne"
+},
+"10165": {
+"it": "Patata, gratinata, da fast food o ristorante",
+"fr": "Pomme de terre, gratinée, de fast-food ou de restaurant",
+"es": "Patata, gratinada, de comida rápida o restaurante",
+"de": "Kartoffel, überbacken, aus Fast Food oder Restaurant",
+"pt": "Batata, gratinada, de fast food ou restaurante"
+},
+"10166": {
+"it": "Patata, gratinata, da prodotto fresco",
+"fr": "Pomme de terre, gratinée, à partir de produit frais",
+"es": "Patata, gratinada, a partir de producto fresco",
+"de": "Kartoffel, überbacken, aus frischer Ware",
+"pt": "Batata, gratinada, a partir de produto fresco"
+},
+"10167": {
+"it": "Patata, gratinata, da prodotto fresco, con carne",
+"fr": "Pomme de terre, gratinée, à partir de produit frais, avec viande",
+"es": "Patata, gratinada, a partir de producto fresco, con carne",
+"de": "Kartoffel, überbacken, aus frischer Ware, mit Fleisch",
+"pt": "Batata, gratinada, a partir de produto fresco, com carne"
+},
+"10168": {
+"it": "Patata, gratinata, non specificato",
+"fr": "Pomme de terre, gratinée, non spécifié",
+"es": "Patata, gratinada, no especificado",
+"de": "Kartoffel, überbacken, nicht näher bezeichnet",
+"pt": "Batata, gratinada, não especificado"
+},
+"10169": {
+"it": "Patata, gratinata, pronta da riscaldare",
+"fr": "Pomme de terre, gratinée, prête à chauffer",
+"es": "Patata, gratinada, lista para calentar",
+"de": "Kartoffel, überbacken, zum Erhitzen fertig",
+"pt": "Batata, gratinada, pronta para aquecer"
+},
+"10170": {
+"it": "Patata, gratinata, pronta da riscaldare, con carne",
+"fr": "Pomme de terre, gratinée, prête à chauffer, avec viande",
+"es": "Patata, gratinada, lista para calentar, con carne",
+"de": "Kartoffel, überbacken, zum Erhitzen fertig, mit Fleisch",
+"pt": "Batata, gratinada, pronta para aquecer, com carne"
+},
+"10171": {
+"it": "Patate, au gratin, miscela in polvere, preparate con acqua, latte intero e burro",
+"fr": "Pommes de terre, au gratin, mélange en poudre, préparées avec de l'eau, lait entier et beurre",
+"es": "Patatas, al gratén, mezcla en polvo, preparadas con agua, leche entera y mantequilla",
+"de": "Kartoffeln, au gratin, Trockenmischung, mit Wasser zubereitet, Vollmilch und Butter",
+"pt": "Batatas, au gratin, mistura em pó, preparadas com água, leite integral e manteiga"
+},
+"10172": {
+"it": "Patate, au gratin, miscela in polvere, non preparate",
+"fr": "Pommes de terre, au gratin, mélange en poudre, non préparées",
+"es": "Patatas, al gratén, mezcla en polvo, sin preparar",
+"de": "Kartoffeln, au gratin, Trockenmischung, unzubereitet",
+"pt": "Batatas, au gratin, mistura em pó, não preparadas"
+},
+"10173": {
+"it": "Patate, au gratin, fatte in casa da ricetta con burro",
+"fr": "Pommes de terre, au gratin, faites maison d'après une recette avec du beurre",
+"es": "Patatas, al gratén, caseras según receta con mantequilla",
+"de": "Kartoffeln, au gratin, hausgemacht nach Rezept mit Butter",
+"pt": "Batatas, au gratin, caseiras de receita com manteiga"
+},
+"10174": {
+"it": "Patate, au gratin, fatte in casa da ricetta con margarina",
+"fr": "Pommes de terre, au gratin, faites maison d'après une recette avec de la margarine",
+"es": "Patatas, al gratén, caseras según receta con margarina",
+"de": "Kartoffeln, au gratin, hausgemacht nach Rezept mit Margarine",
+"pt": "Batatas, au gratin, caseiras de receita com margarina"
+},
+"10175": {
+"it": "Patate, al forno, polpa e buccia, con sale",
+"fr": "Pommes de terre, cuites au four, chair et peau, avec sel",
+"es": "Patatas, al horno, pulpa y piel, con sal",
+"de": "Kartoffeln, gebacken, Fruchtfleisch und Schale, mit Salz",
+"pt": "Batatas, assadas no forno, polpa e casca, com sal"
+},
+"10176": {
+"it": "Patate, al forno, polpa e buccia, senza sale",
+"fr": "Pommes de terre, cuites au four, chair et peau, sans sel",
+"es": "Patatas, al horno, pulpa y piel, sin sal",
+"de": "Kartoffeln, gebacken, Fruchtfleisch und Schale, ohne Salz",
+"pt": "Batatas, assadas no forno, polpa e casca, sem sal"
+},
+"10177": {
+"it": "Patate, al forno, polpa, con sale",
+"fr": "Pommes de terre, cuites au four, chair, avec sel",
+"es": "Patatas, al horno, pulpa, con sal",
+"de": "Kartoffeln, gebacken, Fruchtfleisch, mit Salz",
+"pt": "Batatas, assadas no forno, polpa, com sal"
+},
+"10178": {
+"it": "Patate, al forno, polpa, senza sale",
+"fr": "Pommes de terre, cuites au four, chair, sans sel",
+"es": "Patatas, al horno, pulpa, sin sal",
+"de": "Kartoffeln, gebacken, Fruchtfleisch, ohne Salz",
+"pt": "Batatas, assadas no forno, polpa, sem sal"
+},
+"10179": {
+"it": "Patate, al forno, solo buccia, con sale",
+"fr": "Pommes de terre, cuites au four, peau seule, avec sel",
+"es": "Patatas, al horno, solo piel, con sal",
+"de": "Kartoffeln, gebacken, nur Schale, mit Salz",
+"pt": "Batatas, assadas no forno, apenas casca, com sal"
+},
+"10180": {
+"it": "Patate, al forno, buccia, senza sale",
+"fr": "Pommes de terre, cuites au four, peau, sans sel",
+"es": "Patatas, al horno, piel, sin sal",
+"de": "Kartoffeln, gebacken, Schale, ohne Salz",
+"pt": "Batatas, assadas no forno, casca, sem sal"
+},
+"10181": {
+"it": "Patate, bollite, cotte con la buccia, polpa, con sale",
+"fr": "Pommes de terre, bouillies, cuites avec la peau, chair, avec sel",
+"es": "Patatas, hervidas, cocidas con piel, pulpa, con sal",
+"de": "Kartoffeln, gekocht, in der Schale gekocht, Fruchtfleisch, mit Salz",
+"pt": "Batatas, cozidas em água, cozidas com casca, polpa, com sal"
+},
+"10182": {
+"it": "Patate, bollite, cotte con la buccia, polpa, senza sale",
+"fr": "Pommes de terre, bouillies, cuites avec la peau, chair, sans sel",
+"es": "Patatas, hervidas, cocidas con piel, pulpa, sin sal",
+"de": "Kartoffeln, gekocht, in der Schale gekocht, Fruchtfleisch, ohne Salz",
+"pt": "Batatas, cozidas em água, cozidas com casca, polpa, sem sal"
+},
+"10183": {
+"it": "Patate, bollite, cotte con la buccia, buccia, con sale",
+"fr": "Pommes de terre, bouillies, cuites avec la peau, peau, avec sel",
+"es": "Patatas, hervidas, cocidas con piel, piel, con sal",
+"de": "Kartoffeln, gekocht, in der Schale gekocht, Schale, mit Salz",
+"pt": "Batatas, cozidas em água, cozidas com casca, casca, com sal"
+},
+"10184": {
+"it": "Patate, bollite, cotte con la buccia, buccia, senza sale",
+"fr": "Pommes de terre, bouillies, cuites avec la peau, peau, sans sel",
+"es": "Patatas, hervidas, cocidas con piel, piel, sin sal",
+"de": "Kartoffeln, gekocht, in der Schale gekocht, Schale, ohne Salz",
+"pt": "Batatas, cozidas em água, cozidas com casca, casca, sem sal"
+},
+"10185": {
+"it": "Patate, bollite, cotte senza buccia, polpa, con sale",
+"fr": "Pommes de terre, bouillies, cuites sans peau, chair, avec sel",
+"es": "Patatas, hervidas, cocidas sin piel, pulpa, con sal",
+"de": "Kartoffeln, gekocht, ohne Schale gekocht, Fruchtfleisch, mit Salz",
+"pt": "Batatas, cozidas em água, cozidas sem casca, polpa, com sal"
+},
+"10186": {
+"it": "Patate, bollite, cotte senza buccia, polpa, senza sale",
+"fr": "Pommes de terre, bouillies, cuites sans peau, chair, sans sel",
+"es": "Patatas, hervidas, cocidas sin piel, pulpa, sin sal",
+"de": "Kartoffeln, gekocht, ohne Schale gekocht, Fruchtfleisch, ohne Salz",
+"pt": "Batatas, cozidas em água, cozidas sem casca, polpa, sem sal"
+},
+"10187": {
+"it": "Patate, in scatola, solidi sgocciolati",
+"fr": "Pommes de terre, en conserve, solides égouttés",
+"es": "Patatas, en conserva, sólidos escurridos",
+"de": "Kartoffeln, aus der Dose, abgetropfte feste Bestandteile",
+"pt": "Batatas, enlatadas, sólidos escorridos"
+},
+"10188": {
+"it": "Patate, in scatola, solidi sgocciolati, senza sale aggiunto",
+"fr": "Pommes de terre, en conserve, solides égouttés, sans sel ajouté",
+"es": "Patatas, en conserva, sólidos escurridos, sin sal añadida",
+"de": "Kartoffeln, aus der Dose, abgetropfte feste Bestandteile, ohne Salzzusatz",
+"pt": "Batatas, enlatadas, sólidos escorridos, sem sal adicionado"
+},
+"10189": {
+"it": "Patate, in scatola, solidi e liquidi",
+"fr": "Pommes de terre, en conserve, solides et liquides",
+"es": "Patatas, en conserva, sólidos y líquidos",
+"de": "Kartoffeln, aus der Dose, feste und flüssige Bestandteile",
+"pt": "Batatas, enlatadas, sólidos e líquidos"
+},
+"10190": {
+"it": "Patate, polpa e buccia, crude",
+"fr": "Pommes de terre, chair et peau, crues",
+"es": "Patatas, pulpa y piel, crudas",
+"de": "Kartoffeln, Fruchtfleisch und Schale, roh",
+"pt": "Batatas, polpa e casca, cruas"
+},
+"10191": {
+"it": "Patate, fritte alla francese, tutti i tipi, con sale aggiunto durante la lavorazione, surgelate, fatte in casa, riscaldate al forno",
+"fr": "Pommes de terre, frites à la française, tous types, avec sel ajouté lors de la transformation, surgelées, fait maison, réchauffées au four",
+"es": "Patatas, fritas a la francesa, todos los tipos, con sal añadida durante el procesado, congeladas, caseras, calentadas al horno",
+"de": "Kartoffeln, Pommes frites, alle Sorten, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, hausgemacht, im Ofen erhitzt",
+"pt": "Batatas, fritas à francesa, todos os tipos, com sal adicionado no processamento, congeladas, caseiras, aquecidas no forno"
+},
+"10192": {
+"it": "Patate, fritte alla francese, tutti i tipi, con sale aggiunto durante la lavorazione, surgelate, non preparate",
+"fr": "Pommes de terre, frites à la française, tous types, avec sel ajouté lors de la transformation, surgelées, non préparées",
+"es": "Patatas, fritas a la francesa, todos los tipos, con sal añadida durante el procesado, congeladas, sin preparar",
+"de": "Kartoffeln, Pommes frites, alle Sorten, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, unzubereitet",
+"pt": "Batatas, fritas à francesa, todos os tipos, com sal adicionado no processamento, congeladas, não preparadas"
+},
+"10193": {
+"it": "Patate, fritte alla francese, tutti i tipi, senza sale aggiunto durante la lavorazione, surgelate, come acquistato",
+"fr": "Pommes de terre, frites à la française, tous types, sans sel ajouté lors de la transformation, surgelées, tel qu'acheté",
+"es": "Patatas, fritas a la francesa, todos los tipos, sin sal añadida durante el procesado, congeladas, tal como se compra",
+"de": "Kartoffeln, Pommes frites, alle Sorten, ohne Salzzusatz bei der Verarbeitung, tiefgekühlt, wie gekauft",
+"pt": "Batatas, fritas à francesa, todos os tipos, sem sal adicionado no processamento, congeladas, como adquirido"
+},
+"10194": {
+"it": "Patate, fritte alla francese, tutti i tipi, senza sale aggiunto durante la lavorazione, surgelate, riscaldate al forno",
+"fr": "Pommes de terre, frites à la française, tous types, sans sel ajouté lors de la transformation, surgelées, réchauffées au four",
+"es": "Patatas, fritas a la francesa, todos los tipos, sin sal añadida durante el procesado, congeladas, calentadas al horno",
+"de": "Kartoffeln, Pommes frites, alle Sorten, ohne Salzzusatz bei der Verarbeitung, tiefgekühlt, im Ofen erhitzt",
+"pt": "Batatas, fritas à francesa, todos os tipos, sem sal adicionado no processamento, congeladas, aquecidas no forno"
+},
+"10195": {
+"it": "Patate, fritte alla francese, a taglio cottage, senza sale aggiunto durante la lavorazione, surgelate, come acquistato",
+"fr": "Pommes de terre, frites à la française, coupe cottage, sans sel ajouté lors de la transformation, surgelées, tel qu'acheté",
+"es": "Patatas, fritas a la francesa, corte cottage, sin sal añadida durante el procesado, congeladas, tal como se compra",
+"de": "Kartoffeln, Pommes frites, Cottage-Schnitt, ohne Salzzusatz bei der Verarbeitung, tiefgekühlt, wie gekauft",
+"pt": "Batatas, fritas à francesa, corte cottage, sem sal adicionado no processamento, congeladas, como adquirido"
+},
+"10196": {
+"it": "Patate, fritte alla francese, a taglio cottage, senza sale aggiunto durante la lavorazione, surgelate, riscaldate al forno",
+"fr": "Pommes de terre, frites à la française, coupe cottage, sans sel ajouté lors de la transformation, surgelées, réchauffées au four",
+"es": "Patatas, fritas a la francesa, corte cottage, sin sal añadida durante el procesado, congeladas, calentadas al horno",
+"de": "Kartoffeln, Pommes frites, Cottage-Schnitt, ohne Salzzusatz bei der Verarbeitung, tiefgekühlt, im Ofen erhitzt",
+"pt": "Batatas, fritas à francesa, corte cottage, sem sal adicionado no processamento, congeladas, aquecidas no forno"
+},
+"10197": {
+"it": "Patate, fritte alla francese, a taglio ondulato o normale, con sale aggiunto durante la lavorazione, surgelate, come acquistato",
+"fr": "Pommes de terre, frites à la française, coupe ondulée ou normale, avec sel ajouté lors de la transformation, surgelées, tel qu'acheté",
+"es": "Patatas, fritas a la francesa, corte ondulado o regular, con sal añadida durante el procesado, congeladas, tal como se compra",
+"de": "Kartoffeln, Pommes frites, Wellenschnitt oder normaler Schnitt, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, wie gekauft",
+"pt": "Batatas, fritas à francesa, corte ondulado ou regular, com sal adicionado no processamento, congeladas, como adquirido"
+},
+"10198": {
+"it": "Patate, fritte alla francese, a taglio ondulato o normale, con sale aggiunto durante la lavorazione, surgelate, riscaldate al forno",
+"fr": "Pommes de terre, frites à la française, coupe ondulée ou normale, avec sel ajouté lors de la transformation, surgelées, réchauffées au four",
+"es": "Patatas, fritas a la francesa, corte ondulado o regular, con sal añadida durante el procesado, congeladas, calentadas al horno",
+"de": "Kartoffeln, Pommes frites, Wellenschnitt oder normaler Schnitt, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, im Ofen erhitzt",
+"pt": "Batatas, fritas à francesa, corte ondulado ou regular, com sal adicionado no processamento, congeladas, aquecidas no forno"
+},
+"10199": {
+"it": "Patate, fritte alla francese, a taglio a croce, surgelate, non preparate",
+"fr": "Pommes de terre, frites à la française, coupe en croix, surgelées, non préparées",
+"es": "Patatas, fritas a la francesa, corte en cruz, congeladas, sin preparar",
+"de": "Kartoffeln, Pommes frites, Kreuzschnitt, tiefgekühlt, unzubereitet",
+"pt": "Batatas, fritas à francesa, corte em cruz, congeladas, não preparadas"
+},
+"10200": {
+"it": "Patate, fritte alla francese, a bastoncino sottile, con sale aggiunto durante la lavorazione, surgelate, come acquistato",
+"fr": "Pommes de terre, frites à la française, coupe allumette, avec sel ajouté lors de la transformation, surgelées, tel qu'acheté",
+"es": "Patatas, fritas a la francesa, corte fino tipo fósforo, con sal añadida durante el procesado, congeladas, tal como se compra",
+"de": "Kartoffeln, Pommes frites, extradünn geschnitten, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, wie gekauft",
+"pt": "Batatas, fritas à francesa, palito fino, com sal adicionado no processamento, congeladas, como adquirido"
+},
+"10201": {
+"it": "Patate, fritte alla francese, a bastoncino sottile, con sale aggiunto durante la lavorazione, surgelate, riscaldate al forno",
+"fr": "Pommes de terre, frites à la française, coupe allumette, avec sel ajouté lors de la transformation, surgelées, réchauffées au four",
+"es": "Patatas, fritas a la francesa, corte fino tipo fósforo, con sal añadida durante el procesado, congeladas, calentadas al horno",
+"de": "Kartoffeln, Pommes frites, extradünn geschnitten, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, im Ofen erhitzt",
+"pt": "Batatas, fritas à francesa, palito fino, com sal adicionado no processamento, congeladas, aquecidas no forno"
+},
+"10202": {
+"it": "Patate, fritte alla francese, a taglio bistecca, senza sale aggiunto durante la lavorazione, surgelate, non preparate",
+"fr": "Pommes de terre, frites à la française, coupe steak, sans sel ajouté lors de la transformation, surgelées, non préparées",
+"es": "Patatas, fritas a la francesa, corte steak, sin sal añadida durante el procesado, congeladas, sin preparar",
+"de": "Kartoffeln, Pommes frites, Steak-Schnitt, ohne Salzzusatz bei der Verarbeitung, tiefgekühlt, unzubereitet",
+"pt": "Batatas, fritas à francesa, corte steak, sem sal adicionado no processamento, congeladas, não preparadas"
+},
+"10203": {
+"it": "Patate, fritte alla francese, spesse (steak fries), con sale aggiunto durante la lavorazione, surgelate, come acquistato",
+"fr": "Pommes de terre, frites à la française, épaisses (steak fries), avec sel ajouté lors de la transformation, surgelées, tel qu'acheté",
+"es": "Patatas, fritas a la francesa, gruesas (steak fries), con sal añadida durante el procesado, congeladas, tal como se compra",
+"de": "Kartoffeln, Pommes frites, dicke Pommes (Steak Fries), mit Salzzusatz bei der Verarbeitung, tiefgekühlt, wie gekauft",
+"pt": "Batatas, fritas à francesa, grossas (steak fries), com sal adicionado no processamento, congeladas, como adquirido"
+},
+"10204": {
+"it": "Patate, fritte alla francese, spesse (steak fries), con sale aggiunto durante la lavorazione, surgelate, riscaldate al forno",
+"fr": "Pommes de terre, frites à la française, épaisses (steak fries), avec sel ajouté lors de la transformation, surgelées, réchauffées au four",
+"es": "Patatas, fritas a la francesa, gruesas (steak fries), con sal añadida durante el procesado, congeladas, calentadas al horno",
+"de": "Kartoffeln, Pommes frites, dicke Pommes (Steak Fries), mit Salzzusatz bei der Verarbeitung, tiefgekühlt, im Ofen erhitzt",
+"pt": "Batatas, fritas à francesa, grossas (steak fries), com sal adicionado no processamento, congeladas, aquecidas no forno"
+},
+"10205": {
+"it": "Patate, fritte alla francese, a spicchi, surgelate, non preparate",
+"fr": "Pommes de terre, frites à la française, en quartiers, surgelées, non préparées",
+"es": "Patatas, fritas a la francesa, en gajos, congeladas, sin preparar",
+"de": "Kartoffeln, Pommes frites, als Spalten geschnitten, tiefgekühlt, unzubereitet",
+"pt": "Batatas, fritas à francesa, em gomos, congeladas, não preparadas"
+},
+"10206": {
+"it": "Patate, surgelate, fritte alla francese, pre-fritte, a taglio cottage, preparate, riscaldate al forno, con sale",
+"fr": "Pommes de terre, surgelées, frites à la française, pré-frites, coupe cottage, préparées, réchauffées au four, avec sel",
+"es": "Patatas, congeladas, fritas a la francesa, prefritas, corte cottage, preparadas, calentadas al horno, con sal",
+"de": "Kartoffeln, tiefgekühlt, Pommes frites, vorfrittiert, Cottage-Schnitt, zubereitet, im Ofen erhitzt, mit Salz",
+"pt": "Batatas, congeladas, fritas à francesa, pré-fritas, corte cottage, preparadas, aquecidas no forno, com sal"
+},
+"10207": {
+"it": "Patate, surgelate, fritte alla francese, pre-fritte, estruse, preparate, riscaldate al forno, senza sale",
+"fr": "Pommes de terre, surgelées, frites à la française, pré-frites, extrudées, préparées, réchauffées au four, sans sel",
+"es": "Patatas, congeladas, fritas a la francesa, prefritas, extruidas, preparadas, calentadas al horno, sin sal",
+"de": "Kartoffeln, tiefgekühlt, Pommes frites, vorfrittiert, extrudiert, zubereitet, im Ofen erhitzt, ohne Salz",
+"pt": "Batatas, congeladas, fritas à francesa, pré-fritas, extrudadas, preparadas, aquecidas no forno, sem sal"
+},
+"10208": {
+"it": "Patate, surgelate, fritte alla francese, pre-fritte, estruse, non preparate",
+"fr": "Pommes de terre, surgelées, frites à la française, pré-frites, extrudées, non préparées",
+"es": "Patatas, congeladas, fritas a la francesa, prefritas, extruidas, sin preparar",
+"de": "Kartoffeln, tiefgekühlt, Pommes frites, vorfrittiert, extrudiert, unzubereitet",
+"pt": "Batatas, congeladas, fritas à francesa, pré-fritas, extrudadas, não preparadas"
+},
+"10209": {
+"it": "Patate, surgelate, intere, cotte, bollite, sgocciolate, con sale",
+"fr": "Pommes de terre, surgelées, entieres, cuites, bouillies, égouttées, avec sel",
+"es": "Patatas, congeladas, enteras, cocidas, hervidas, escurridas, con sal",
+"de": "Kartoffeln, tiefgekühlt, ganz, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Batatas, congeladas, inteiras, cozidas, cozidas em água, escorridas, com sal"
+},
+"10210": {
+"it": "Patate, surgelate, intere, cotte, bollite, sgocciolate, senza sale",
+"fr": "Pommes de terre, surgelées, entieres, cuites, bouillies, égouttées, sans sel",
+"es": "Patatas, congeladas, enteras, cocidas, hervidas, escurridas, sin sal",
+"de": "Kartoffeln, tiefgekühlt, ganz, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Batatas, congeladas, inteiras, cozidas, cozidas em água, escorridas, sem sal"
+},
+"10211": {
+"it": "Patate, Gold, senza buccia, crude",
+"fr": "Pommes de terre, Gold, sans peau, crues",
+"es": "Patatas, Gold, sin piel, crudas",
+"de": "Kartoffeln, Gold, ohne Schale, roh",
+"pt": "Batatas, Gold, sem casca, cruas"
+},
+"10212": {
+"it": "Patate, hash brown (frittelle di patate), surgelate, naturale, preparate, fritte in padella con olio di canola",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), surgelées, nature, préparées, poêlées à l'huile de colza (canola)",
+"es": "Patatas, hash brown (tortitas de patata), congeladas, natural, preparadas, fritas en sartén con aceite de canola",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), tiefgekühlt, natur, zubereitet, in der Pfanne in Rapsöl gebraten",
+"pt": "Batatas, hash brown (bolinho de batata ralada), congeladas, natural, preparadas, fritas na frigideira em óleo de canola"
+},
+"10213": {
+"it": "Patate, hash brown (frittelle di patate), surgelate, naturale, non preparate",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), surgelées, nature, non préparées",
+"es": "Patatas, hash brown (tortitas de patata), congeladas, natural, sin preparar",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), tiefgekühlt, natur, unzubereitet",
+"pt": "Batatas, hash brown (bolinho de batata ralada), congeladas, natural, não preparadas"
+},
+"10214": {
+"it": "Patate, hash brown (frittelle di patate), surgelate, con salsa al burro, preparate",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), surgelées, avec sauce au beurre, préparées",
+"es": "Patatas, hash brown (tortitas de patata), congeladas, con salsa de mantequilla, preparadas",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), tiefgekühlt, mit Buttersauce, zubereitet",
+"pt": "Batatas, hash brown (bolinho de batata ralada), congeladas, com molho de manteiga, preparadas"
+},
+"10215": {
+"it": "Patate, hash brown (frittelle di patate), surgelate, con salsa al burro, non preparate",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), surgelées, avec sauce au beurre, non préparées",
+"es": "Patatas, hash brown (tortitas de patata), congeladas, con salsa de mantequilla, sin preparar",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), tiefgekühlt, mit Buttersauce, unzubereitet",
+"pt": "Batatas, hash brown (bolinho de batata ralada), congeladas, com molho de manteiga, não preparadas"
+},
+"10216": {
+"it": "Patate, hash brown (frittelle di patate), fatte in casa",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), fait maison",
+"es": "Patatas, hash brown (tortitas de patata), caseras",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), hausgemacht",
+"pt": "Batatas, hash brown (bolinho de batata ralada), caseiras"
+},
+"10217": {
+"it": "Patate, hash brown (frittelle di patate), refrigerate, preparate, fritte in padella con olio di canola",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), réfrigérées, préparées, poêlées à l'huile de colza (canola)",
+"es": "Patatas, hash brown (tortitas de patata), refrigeradas, preparadas, fritas en sartén con aceite de canola",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), gekühlt, zubereitet, in der Pfanne in Rapsöl gebraten",
+"pt": "Batatas, hash brown (bolinho de batata ralada), refrigeradas, preparadas, fritas na frigideira em óleo de canola"
+},
+"10218": {
+"it": "Patate, hash brown (frittelle di patate), refrigerate, non preparate",
+"fr": "Pommes de terre, hash brown (galettes de pommes de terre), réfrigérées, non préparées",
+"es": "Patatas, hash brown (tortitas de patata), refrigeradas, sin preparar",
+"de": "Kartoffeln, Hash Browns (Kartoffelpuffer), gekühlt, unzubereitet",
+"pt": "Batatas, hash brown (bolinho de batata ralada), refrigeradas, não preparadas"
+},
+"10219": {
+"it": "Patate, purè, disidratate, fiocchi senza latte, in forma secca",
+"fr": "Pommes de terre, en purée, déshydratées, flocons sans lait, sous forme sèche",
+"es": "Patatas, puré, deshidratadas, copos sin leche, en forma seca",
+"de": "Kartoffeln, Püree, dehydriert, Flocken ohne Milch, trockene Form",
+"pt": "Batatas, purê, desidratadas, flocos sem leite, em forma seca"
+},
+"10220": {
+"it": "Patate, purè, disidratate, granuli con latte, in forma secca",
+"fr": "Pommes de terre, en purée, déshydratées, granulés avec lait, sous forme sèche",
+"es": "Patatas, puré, deshidratadas, gránulos con leche, en forma seca",
+"de": "Kartoffeln, Püree, dehydriert, Granulat mit Milch, trockene Form",
+"pt": "Batatas, purê, desidratadas, grânulos com leite, em forma seca"
+},
+"10221": {
+"it": "Patate, purè, disidratate, granuli senza latte, in forma secca",
+"fr": "Pommes de terre, en purée, déshydratées, granulés sans lait, sous forme sèche",
+"es": "Patatas, puré, deshidratadas, gránulos sin leche, en forma seca",
+"de": "Kartoffeln, Püree, dehydriert, Granulat ohne Milch, trockene Form",
+"pt": "Batatas, purê, desidratadas, grânulos sem leite, em forma seca"
+},
+"10222": {
+"it": "Patate, purè, disidratate, preparate da fiocchi senza latte, con aggiunta di latte intero e burro",
+"fr": "Pommes de terre, en purée, déshydratées, préparées à partir de flocons sans lait, avec ajout de lait entier et de beurre",
+"es": "Patatas, puré, deshidratadas, preparadas a partir de copos sin leche, con leche entera y mantequilla añadidas",
+"de": "Kartoffeln, Püree, dehydriert, aus Flocken ohne Milch zubereitet, mit Vollmilch und Butter",
+"pt": "Batatas, purê, desidratadas, preparadas a partir de flocos sem leite, com adição de leite integral e manteiga"
+},
+"10223": {
+"it": "Patate, purè, disidratate, preparate da fiocchi senza latte, con aggiunta di latte intero e margarina",
+"fr": "Pommes de terre, en purée, déshydratées, préparées à partir de flocons sans lait, avec ajout de lait entier et de margarine",
+"es": "Patatas, puré, deshidratadas, preparadas a partir de copos sin leche, con leche entera y margarina añadidas",
+"de": "Kartoffeln, Püree, dehydriert, aus Flocken ohne Milch zubereitet, mit Vollmilch und Margarine",
+"pt": "Batatas, purê, desidratadas, preparadas a partir de flocos sem leite, com adição de leite integral e margarina"
+},
+"10224": {
+"it": "Patate, purè, disidratate, preparate da granuli con latte, con aggiunta di acqua e margarina",
+"fr": "Pommes de terre, en purée, déshydratées, préparées à partir de granulés avec lait, avec ajout d'eau et de margarine",
+"es": "Patatas, puré, deshidratadas, preparadas a partir de gránulos con leche, con agua y margarina añadidas",
+"de": "Kartoffeln, Püree, dehydriert, aus Granulat mit Milch zubereitet, mit Wasser und Margarine",
+"pt": "Batatas, purê, desidratadas, preparadas a partir de grânulos com leite, com adição de água e margarina"
+},
+"10225": {
+"it": "Patate, purè, disidratate, preparate da granuli senza latte, con aggiunta di latte intero e burro",
+"fr": "Pommes de terre, en purée, déshydratées, préparées à partir de granulés sans lait, avec ajout de lait entier et de beurre",
+"es": "Patatas, puré, deshidratadas, preparadas a partir de gránulos sin leche, con leche entera y mantequilla añadidas",
+"de": "Kartoffeln, Püree, dehydriert, aus Granulat ohne Milch zubereitet, mit Vollmilch und Butter",
+"pt": "Batatas, purê, desidratadas, preparadas a partir de grânulos sem leite, com adição de leite integral e manteiga"
+},
+"10226": {
+"it": "Patate, purè, fatte in casa, con aggiunta di latte intero",
+"fr": "Pommes de terre, en purée, fait maison, avec ajout de lait entier",
+"es": "Patatas, puré, caseras, con leche entera añadida",
+"de": "Kartoffeln, Püree, hausgemacht, mit Vollmilch",
+"pt": "Batatas, purê, caseiras, com adição de leite integral"
+},
+"10227": {
+"it": "Patate, purè, fatte in casa, con aggiunta di latte intero e burro",
+"fr": "Pommes de terre, en purée, fait maison, avec ajout de lait entier et de beurre",
+"es": "Patatas, puré, caseras, con leche entera y mantequilla añadidas",
+"de": "Kartoffeln, Püree, hausgemacht, mit Vollmilch und Butter",
+"pt": "Batatas, purê, caseiras, com adição de leite integral e manteiga"
+},
+"10228": {
+"it": "Patate, purè, fatte in casa, con aggiunta di latte intero e margarina",
+"fr": "Pommes de terre, en purée, fait maison, avec ajout de lait entier et de margarine",
+"es": "Patatas, puré, caseras, con leche entera y margarina añadidas",
+"de": "Kartoffeln, Püree, hausgemacht, mit Vollmilch und Margarine",
+"pt": "Batatas, purê, caseiras, com adição de leite integral e margarina"
+},
+"10229": {
+"it": "Patate, purè, preparate da granuli, senza latte, latte intero e margarina",
+"fr": "Pommes de terre, en purée, préparées à partir de granulés, sans lait, lait entier et margarine",
+"es": "Patatas, puré, preparadas a partir de gránulos, sin leche, leche entera y margarina",
+"de": "Kartoffeln, Püree, aus Granulat zubereitet, ohne Milch, Vollmilch und Margarine",
+"pt": "Batatas, purê, preparadas a partir de grânulos, sem leite, leite integral e margarina"
+},
+"10230": {
+"it": "Patate, purè, pronte da mangiare",
+"fr": "Pommes de terre, en purée, prêtes à consommer",
+"es": "Patatas, puré, listas para comer",
+"de": "Kartoffeln, Püree, verzehrfertig",
+"pt": "Batatas, purê, prontas para consumo"
+},
+"10231": {
+"it": "Patate, al microonde, cotte con la buccia, polpa e buccia, senza sale",
+"fr": "Pommes de terre, au micro-ondes, cuites avec la peau, chair et peau, sans sel",
+"es": "Patatas, en microondas, cocidas con piel, pulpa y piel, sin sal",
+"de": "Kartoffeln, in der Mikrowelle, in der Schale gekocht, Fruchtfleisch und Schale, ohne Salz",
+"pt": "Batatas, no micro-ondas, cozidas com casca, polpa e casca, sem sal"
+},
+"10232": {
+"it": "Patate, al microonde, cotte con la buccia, polpa, con sale",
+"fr": "Pommes de terre, au micro-ondes, cuites avec la peau, chair, avec sel",
+"es": "Patatas, en microondas, cocidas con piel, pulpa, con sal",
+"de": "Kartoffeln, in der Mikrowelle, in der Schale gekocht, Fruchtfleisch, mit Salz",
+"pt": "Batatas, no micro-ondas, cozidas com casca, polpa, com sal"
+},
+"10233": {
+"it": "Patate, al microonde, cotte con la buccia, polpa, senza sale",
+"fr": "Pommes de terre, au micro-ondes, cuites avec la peau, chair, sans sel",
+"es": "Patatas, en microondas, cocidas con piel, pulpa, sin sal",
+"de": "Kartoffeln, in der Mikrowelle, in der Schale gekocht, Fruchtfleisch, ohne Salz",
+"pt": "Batatas, no micro-ondas, cozidas com casca, polpa, sem sal"
+},
+"10234": {
+"it": "Patate, al microonde, cotte con la buccia, buccia, senza sale",
+"fr": "Pommes de terre, au micro-ondes, cuites avec la peau, peau, sans sel",
+"es": "Patatas, en microondas, cocidas con piel, piel, sin sal",
+"de": "Kartoffeln, in der Mikrowelle, in der Schale gekocht, Schale, ohne Salz",
+"pt": "Batatas, no micro-ondas, cozidas com casca, casca, sem sal"
+},
+"10235": {
+"it": "Patate, al microonde, cotte, con la buccia, polpa e buccia, con sale",
+"fr": "Pommes de terre, au micro-ondes, cuites, avec la peau, chair et peau, avec sel",
+"es": "Patatas, en microondas, cocidas, con piel, pulpa y piel, con sal",
+"de": "Kartoffeln, in der Mikrowelle, gekocht, in der Schale, Fruchtfleisch und Schale, mit Salz",
+"pt": "Batatas, no micro-ondas, cozidas, com casca, polpa e casca, com sal"
+},
+"10236": {
+"it": "Patate, al microonde, cotte, con la buccia, buccia con sale",
+"fr": "Pommes de terre, au micro-ondes, cuites, avec la peau, peau avec sel",
+"es": "Patatas, en microondas, cocidas, con piel, piel con sal",
+"de": "Kartoffeln, in der Mikrowelle, gekocht, in der Schale, Schale mit Salz",
+"pt": "Batatas, no micro-ondas, cozidas, com casca, casca com sal"
+},
+"10237": {
+"it": "Patate, O'Brien, surgelate, preparate",
+"fr": "Pommes de terre, O'Brien, surgelées, préparées",
+"es": "Patatas, O'Brien, congeladas, preparadas",
+"de": "Kartoffeln, O'Brien, tiefgekühlt, zubereitet",
+"pt": "Batatas, O'Brien, congeladas, preparadas"
+},
+"10238": {
+"it": "Patate, O'Brien, surgelate, non preparate",
+"fr": "Pommes de terre, O'Brien, surgelées, non préparées",
+"es": "Patatas, O'Brien, congeladas, sin preparar",
+"de": "Kartoffeln, O'Brien, tiefgekühlt, unzubereitet",
+"pt": "Batatas, O'Brien, congeladas, não preparadas"
+},
+"10239": {
+"it": "Patate, O'Brien, fatte in casa",
+"fr": "Pommes de terre, O'Brien, fait maison",
+"es": "Patatas, O'Brien, caseras",
+"de": "Kartoffeln, O'Brien, hausgemacht",
+"pt": "Batatas, O'Brien, caseiras"
+},
+"10240": {
+"it": "Patate, crude, buccia",
+"fr": "Pommes de terre, crues, peau",
+"es": "Patatas, crudas, piel",
+"de": "Kartoffeln, roh, Schale",
+"pt": "Batatas, cruas, casca"
+},
+"10241": {
+"it": "Patate, rosse, polpa e buccia, al forno",
+"fr": "Pommes de terre, rouges, chair et peau, cuites au four",
+"es": "Patatas, rojas, pulpa y piel, al horno",
+"de": "Kartoffeln, rot, Fruchtfleisch und Schale, gebacken",
+"pt": "Batatas, vermelhas, polpa e casca, assadas no forno"
+},
+"10242": {
+"it": "Patate, rosse, polpa e buccia, crude",
+"fr": "Pommes de terre, rouges, chair et peau, crues",
+"es": "Patatas, rojas, pulpa y piel, crudas",
+"de": "Kartoffeln, rot, Fruchtfleisch und Schale, roh",
+"pt": "Batatas, vermelhas, polpa e casca, cruas"
+},
+"10243": {
+"it": "Patate, rosse, senza buccia, crude",
+"fr": "Pommes de terre, rouges, sans peau, crues",
+"es": "Patatas, rojas, sin piel, crudas",
+"de": "Kartoffeln, rot, ohne Schale, roh",
+"pt": "Batatas, vermelhas, sem casca, cruas"
+},
+"10244": {
+"it": "Patate, arrosto, con sale aggiunto durante la lavorazione, surgelate, non preparate",
+"fr": "Pommes de terre, rôties, avec sel ajouté lors de la transformation, surgelées, non préparées",
+"es": "Patatas, asadas, con sal añadida durante el procesado, congeladas, sin preparar",
+"de": "Kartoffeln, gebraten (im Ofen), mit Salzzusatz bei der Verarbeitung, tiefgekühlt, unzubereitet",
+"pt": "Batatas, assadas, com sal adicionado no processamento, congeladas, não preparadas"
+},
+"10245": {
+"it": "Patate, Russet, polpa e buccia, al forno",
+"fr": "Pommes de terre, Russet, chair et peau, cuites au four",
+"es": "Patatas, Russet, pulpa y piel, al horno",
+"de": "Kartoffeln, Russet, Fruchtfleisch und Schale, gebacken",
+"pt": "Batatas, Russet, polpa e casca, assadas no forno"
+},
+"10246": {
+"it": "Patate, Russet, polpa e buccia, crude (include alimenti del Programma di distribuzione alimentare USDA)",
+"fr": "Pommes de terre, Russet, chair et peau, crues (comprend les aliments du programme de distribution alimentaire de l'USDA)",
+"es": "Patatas, Russet, pulpa y piel, crudas (incluye alimentos del Programa de Distribución de Alimentos del USDA)",
+"de": "Kartoffeln, Russet, Fruchtfleisch und Schale, roh (einschließlich Lebensmittel des Food Distribution Program des USDA)",
+"pt": "Batatas, Russet, polpa e casca, cruas (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+},
+"10247": {
+"it": "Patate, Russet, senza buccia, crude",
+"fr": "Pommes de terre, Russet, sans peau, crues",
+"es": "Patatas, Russet, sin piel, crudas",
+"de": "Kartoffeln, Russet, ohne Schale, roh",
+"pt": "Batatas, Russet, sem casca, cruas"
+},
+"10248": {
+"it": "Patate, gratinate, miscela in polvere, preparate con acqua, latte intero e burro",
+"fr": "Pommes de terre, gratinées, mélange en poudre, préparées avec de l'eau, lait entier et beurre",
+"es": "Patatas, gratinadas, mezcla en polvo, preparadas con agua, leche entera y mantequilla",
+"de": "Kartoffeln, überbacken, Trockenmischung, mit Wasser zubereitet, Vollmilch und Butter",
+"pt": "Batatas, gratinadas, mistura em pó, preparadas com água, leite integral e manteiga"
+},
+"10249": {
+"it": "Patate, gratinate, miscela in polvere, non preparate",
+"fr": "Pommes de terre, gratinées, mélange en poudre, non préparées",
+"es": "Patatas, gratinadas, mezcla en polvo, sin preparar",
+"de": "Kartoffeln, überbacken, Trockenmischung, unzubereitet",
+"pt": "Batatas, gratinadas, mistura em pó, não preparadas"
+},
+"10250": {
+"it": "Patate, gratinate, fatte in casa con burro",
+"fr": "Pommes de terre, gratinées, fait maison avec du beurre",
+"es": "Patatas, gratinadas, caseras con mantequilla",
+"de": "Kartoffeln, überbacken, hausgemacht mit Butter",
+"pt": "Batatas, gratinadas, caseiras com manteiga"
+},
+"10251": {
+"it": "Patate, gratinate, fatte in casa con margarina",
+"fr": "Pommes de terre, gratinées, fait maison avec de la margarine",
+"es": "Patatas, gratinadas, caseras con margarina",
+"de": "Kartoffeln, überbacken, hausgemacht mit Margarine",
+"pt": "Batatas, gratinadas, caseiras com margarina"
+},
+"10252": {
+"it": "Patate, bianche, polpa e buccia, al forno",
+"fr": "Pommes de terre, blanches, chair et peau, cuites au four",
+"es": "Patatas, blancas, pulpa y piel, al horno",
+"de": "Kartoffeln, weiß, Fruchtfleisch und Schale, gebacken",
+"pt": "Batatas, brancas, polpa e casca, assadas no forno"
+},
+"10253": {
+"it": "Patate, bianche, polpa e buccia, crude",
+"fr": "Pommes de terre, blanches, chair et peau, crues",
+"es": "Patatas, blancas, pulpa y piel, crudas",
+"de": "Kartoffeln, weiß, Fruchtfleisch und Schale, roh",
+"pt": "Batatas, brancas, polpa e casca, cruas"
+},
+"10254": {
+"it": "Patate, a polpa gialla, fritte alla francese, surgelate, non preparate",
+"fr": "Pommes de terre, à chair jaune, frites à la française, surgelées, non préparées",
+"es": "Patatas, de pulpa amarilla, fritas a la francesa, congeladas, sin preparar",
+"de": "Kartoffeln, gelbfleischig, Pommes frites, tiefgekühlt, unzubereitet",
+"pt": "Batatas, de polpa amarela, fritas à francesa, congeladas, não preparadas"
+},
+"10255": {
+"it": "Patate, a polpa gialla, hash brown (frittelle di patate), grattugiate, con sale aggiunto durante la lavorazione, surgelate, non preparate",
+"fr": "Pommes de terre, à chair jaune, hash brown (galettes de pommes de terre), râpées, avec sel ajouté lors de la transformation, surgelées, non préparées",
+"es": "Patatas, de pulpa amarilla, hash brown (tortitas de patata), ralladas, con sal añadida durante el procesado, congeladas, sin preparar",
+"de": "Kartoffeln, gelbfleischig, Hash Browns (Kartoffelpuffer), geraspelt, mit Salzzusatz bei der Verarbeitung, tiefgekühlt, unzubereitet",
+"pt": "Batatas, de polpa amarela, hash brown (bolinho de batata ralada), raladas, com sal adicionado no processamento, congeladas, não preparadas"
+},
+"10256": {
+"it": "Patate, a polpa gialla, arrosto, con sale aggiunto durante la lavorazione, surgelate, non preparate",
+"fr": "Pommes de terre, à chair jaune, rôties, avec sel ajouté lors de la transformation, surgelées, non préparées",
+"es": "Patatas, de pulpa amarilla, asadas, con sal añadida durante el procesado, congeladas, sin preparar",
+"de": "Kartoffeln, gelbfleischig, gebraten (im Ofen), mit Salzzusatz bei der Verarbeitung, tiefgekühlt, unzubereitet",
+"pt": "Batatas, de polpa amarela, assadas, com sal adicionado no processamento, congeladas, não preparadas"
+},
+"10257": {
+"it": "Potsticker o wonton, maiale e verdure, surgelato, non preparato",
+"fr": "Potsticker ou wonton, porc et légumes, surgelé, non préparé",
+"es": "Potsticker o wonton, cerdo y verduras, congelado, sin preparar",
+"de": "Potsticker oder Wonton, Schwein und Gemüse, tiefgekühlt, unzubereitet",
+"pt": "Potsticker ou wonton, carne suína e legumes, congelado, não preparado"
+},
+"10258": {
+"it": "Crema spalmabile per tramezzini all'insalata di pollame",
+"fr": "Préparation à tartiner pour sandwich, salade de volaille",
+"es": "Pasta para untar para sándwich de ensalada de aves",
+"de": "Brotaufstrich mit Geflügelsalat",
+"pt": "Pasta de salada de aves para sanduíche"
+},
+"10259": {
+"it": "Pollame, disossato meccanicamente, da dorsi e colli con pelle, crudo",
+"fr": "Volaille, désossée mécaniquement, de dos et cous avec peau, crue",
+"es": "Aves de corral, deshuesada mecánicamente, de espaldas y cuellos con piel, cruda",
+"de": "Geflügel, maschinell entbeint, aus Rücken und Hälsen mit Haut, roh",
+"pt": "Aves, desossada mecanicamente, de dorsos e pescoços com pele, crua"
+},
+"10260": {
+"it": "Pollame, disossato meccanicamente, da dorsi e colli senza pelle, crudo",
+"fr": "Volaille, désossée mécaniquement, de dos et cous sans peau, crue",
+"es": "Aves de corral, deshuesada mecánicamente, de espaldas y cuellos sin piel, cruda",
+"de": "Geflügel, maschinell entbeint, aus Rücken und Hälsen ohne Haut, roh",
+"pt": "Aves, desossada mecanicamente, de dorsos e pescoços sem pele, crua"
+},
+"10261": {
+"it": "Pollame, disossato meccanicamente, da galline mature, crudo",
+"fr": "Volaille, désossée mécaniquement, de poules matures, crue",
+"es": "Aves de corral, deshuesada mecánicamente, de gallinas maduras, cruda",
+"de": "Geflügel, maschinell entbeint, von ausgewachsenen Hennen, roh",
+"pt": "Aves, desossada mecanicamente, de galinhas maduras, crua"
+},
+"10262": {
+"it": "Rape di prateria, bollite (indiani delle Grandi Pianure del Nord)",
+"fr": "Navets des prairies, bouillis (Indiens des Plaines du Nord)",
+"es": "Nabos de la pradera, hervidos (indios de las Grandes Llanuras del Norte)",
+"de": "Prärierüben, gekocht (Indianer der nördlichen Great Plains)",
+"pt": "Nabos-da-pradaria, cozidos em água (indígenas das Grandes Planícies do Norte)"
+},
+"10263": {
+"it": "Rape di prateria, crude (indiani delle Grandi Pianure del Nord)",
+"fr": "Navets des prairies, crus (Indiens des Plaines du Nord)",
+"es": "Nabos de la pradera, crudos (indios de las Grandes Llanuras del Norte)",
+"de": "Prärierüben, roh (Indianer der nördlichen Great Plains)",
+"pt": "Nabos-da-pradaria, crus (indígenas das Grandes Planícies do Norte)"
+},
+"10264": {
+"it": "Chips di pretzel, dure, aromatizzate",
+"fr": "Chips de bretzel, dures, aromatisées",
+"es": "Chips de pretzel, duras, aromatizadas",
+"de": "Brezelchips, hart, aromatisiert",
+"pt": "Chips de pretzel, duras, aromatizadas"
+},
+"10265": {
+"it": "Chips di pretzel, dure, senza glutine",
+"fr": "Chips de bretzel, dures, sans gluten",
+"es": "Chips de pretzel, duras, sin gluten",
+"de": "Brezelchips, hart, glutenfrei",
+"pt": "Chips de pretzel, duras, sem glúten"
+},
+"10266": {
+"it": "Chips di pretzel, dure, naturale",
+"fr": "Chips de bretzel, dures, nature",
+"es": "Chips de pretzel, duras, natural",
+"de": "Brezelchips, hart, natur",
+"pt": "Chips de pretzel, duras, natural"
+},
+"10267": {
+"it": "Pretzel, duri, ripieni di formaggio",
+"fr": "Bretzels, durs, fourrés au fromage",
+"es": "Pretzels, duros, rellenos de queso",
+"de": "Brezeln, hart, mit Käse gefüllt",
+"pt": "Pretzels, duros, recheados com queijo"
+},
+"10268": {
+"it": "Pretzel, duri, ricoperti di cioccolato",
+"fr": "Bretzels, durs, enrobés de chocolat",
+"es": "Pretzels, duros, recubiertos de chocolate",
+"de": "Brezeln, hart, mit Schokolade überzogen",
+"pt": "Pretzels, duros, cobertos com chocolate"
+},
+"10269": {
+"it": "Pretzel, duri, ricoperti, senza glutine",
+"fr": "Bretzels, durs, enrobés, sans gluten",
+"es": "Pretzels, duros, recubiertos, sin gluten",
+"de": "Brezeln, hart, überzogen, glutenfrei",
+"pt": "Pretzels, duros, cobertos, sem glúten"
+},
+"10270": {
+"it": "Pretzel, duri, ricoperti, non specificato",
+"fr": "Bretzels, durs, enrobés, non spécifié",
+"es": "Pretzels, duros, recubiertos, no especificado",
+"de": "Brezeln, hart, überzogen, nicht näher bezeichnet",
+"pt": "Pretzels, duros, cobertos, não especificado"
+},
+"10271": {
+"it": "Pretzel, duri, ripieni, non specificato",
+"fr": "Bretzels, durs, fourrés, non spécifié",
+"es": "Pretzels, duros, rellenos, no especificado",
+"de": "Brezeln, hart, gefüllt, nicht näher bezeichnet",
+"pt": "Pretzels, duros, recheados, não especificado"
+},
+"10272": {
+"it": "Pretzel, duri, aromatizzati",
+"fr": "Bretzels, durs, aromatisés",
+"es": "Pretzels, duros, aromatizados",
+"de": "Brezeln, hart, aromatisiert",
+"pt": "Pretzels, duros, aromatizados"
+},
+"10273": {
+"it": "Pretzel, duri, aromatizzati, senza glutine",
+"fr": "Bretzels, durs, aromatisés, sans gluten",
+"es": "Pretzels, duros, aromatizados, sin gluten",
+"de": "Brezeln, hart, aromatisiert, glutenfrei",
+"pt": "Pretzels, duros, aromatizados, sem glúten"
+},
+"10274": {
+"it": "Pretzel, duri, multicereali",
+"fr": "Bretzels, durs, multicéréales",
+"es": "Pretzels, duros, multicereales",
+"de": "Brezeln, hart, Mehrkorn-",
+"pt": "Pretzels, duros, multigrãos"
+},
+"10275": {
+"it": "Pretzel, duri, non specificato",
+"fr": "Bretzels, durs, non spécifié",
+"es": "Pretzels, duros, no especificado",
+"de": "Brezeln, hart, nicht näher bezeichnet",
+"pt": "Pretzels, duros, não especificado"
+},
+"10276": {
+"it": "Pretzel, duri, ripieni di burro di arachidi",
+"fr": "Bretzels, durs, fourrés au beurre de cacahuète",
+"es": "Pretzels, duros, rellenos de mantequilla de maní",
+"de": "Brezeln, hart, mit Erdnussbutter gefüllt",
+"pt": "Pretzels, duros, recheados com pasta de amendoim"
+},
+"10277": {
+"it": "Pretzel, duri, naturale, senza glutine",
+"fr": "Bretzels, durs, nature, sans gluten",
+"es": "Pretzels, duros, natural, sin gluten",
+"de": "Brezeln, hart, natur, glutenfrei",
+"pt": "Pretzels, duros, natural, sem glúten"
+},
+"10278": {
+"it": "Pretzel, duri, naturale, leggermente salati",
+"fr": "Bretzels, durs, nature, légèrement salés",
+"es": "Pretzels, duros, natural, ligeramente salados",
+"de": "Brezeln, hart, natur, leicht gesalzen",
+"pt": "Pretzels, duros, natural, levemente salgados"
+},
+"10279": {
+"it": "Pretzel, duri, naturale, salati",
+"fr": "Bretzels, durs, nature, salés",
+"es": "Pretzels, duros, natural, salados",
+"de": "Brezeln, hart, natur, gesalzen",
+"pt": "Pretzels, duros, natural, salgados"
+},
+"10280": {
+"it": "Pretzel, duri, naturale, non salati",
+"fr": "Bretzels, durs, nature, non salés",
+"es": "Pretzels, duros, natural, sin sal",
+"de": "Brezeln, hart, natur, ungesalzen",
+"pt": "Pretzels, duros, natural, sem sal"
+},
+"10281": {
+"it": "Pretzel, duri, ricoperti di cioccolato bianco",
+"fr": "Bretzels, durs, enrobés de chocolat blanc",
+"es": "Pretzels, duros, recubiertos de chocolate blanco",
+"de": "Brezeln, hart, mit weißer Schokolade überzogen",
+"pt": "Pretzels, duros, cobertos com chocolate branco"
+},
+"10282": {
+"it": "Pretzel, duri, ricoperti di yogurt",
+"fr": "Bretzels, durs, enrobés de yaourt",
+"es": "Pretzels, duros, recubiertos de yogur",
+"de": "Brezeln, hart, mit Joghurt überzogen",
+"pt": "Pretzels, duros, cobertos com iogurte"
+},
+"10283": {
+"it": "Pretzel, non specificato",
+"fr": "Bretzels, non spécifié",
+"es": "Pretzels, no especificado",
+"de": "Brezeln, nicht näher bezeichnet",
+"pt": "Pretzels, não especificado"
+},
+"10284": {
+"it": "Pretzel, morbidi",
+"fr": "Bretzels, mous",
+"es": "Pretzels, blandos",
+"de": "Brezeln, weich",
+"pt": "Pretzels, macios"
+},
+"10285": {
+"it": "Pretzel, morbidi, ripieni di formaggio",
+"fr": "Bretzels, mous, fourrés au fromage",
+"es": "Pretzels, blandos, rellenos de queso",
+"de": "Brezeln, weich, mit Käse gefüllt",
+"pt": "Pretzels, macios, recheados com queijo"
+},
+"10286": {
+"it": "Pretzel, morbidi, da surgelato, ricoperti di zucchero e cannella",
+"fr": "Bretzels, mous, à partir de produit surgelé, enrobés de sucre et de cannelle",
+"es": "Pretzels, blandos, a partir de congelado, recubiertos de azúcar y canela",
+"de": "Brezeln, weich, aus Tiefkühlware, mit Zimtzucker überzogen",
+"pt": "Pretzels, macios, a partir de congelado, cobertos com açúcar e canela"
+},
+"10287": {
+"it": "Pretzel, morbidi, da surgelato, ricoperti o aromatizzato",
+"fr": "Bretzels, mous, à partir de produit surgelé, enrobés ou aromatisé",
+"es": "Pretzels, blandos, a partir de congelado, recubiertos o aromatizado",
+"de": "Brezeln, weich, aus Tiefkühlware, überzogen oder aromatisiert",
+"pt": "Pretzels, macios, a partir de congelado, cobertos ou aromatizado"
+},
+"10288": {
+"it": "Pretzel, morbidi, da surgelato, non specificato",
+"fr": "Bretzels, mous, à partir de produit surgelé, non spécifié",
+"es": "Pretzels, blandos, a partir de congelado, no especificado",
+"de": "Brezeln, weich, aus Tiefkühlware, nicht näher bezeichnet",
+"pt": "Pretzels, macios, a partir de congelado, não especificado"
+},
+"10289": {
+"it": "Pretzel, morbidi, da surgelato, salati",
+"fr": "Bretzels, mous, à partir de produit surgelé, salés",
+"es": "Pretzels, blandos, a partir de congelado, salados",
+"de": "Brezeln, weich, aus Tiefkühlware, gesalzen",
+"pt": "Pretzels, macios, a partir de congelado, salgados"
+},
+"10290": {
+"it": "Pretzel, morbidi, da surgelato, guarniti con formaggio",
+"fr": "Bretzels, mous, à partir de produit surgelé, garnis de fromage",
+"es": "Pretzels, blandos, a partir de congelado, cubiertos con queso",
+"de": "Brezeln, weich, aus Tiefkühlware, mit Käse belegt",
+"pt": "Pretzels, macios, a partir de congelado, cobertos com queijo"
+},
+"10291": {
+"it": "Pretzel, morbidi, da surgelato, guarniti con carne",
+"fr": "Bretzels, mous, à partir de produit surgelé, garnis de viande",
+"es": "Pretzels, blandos, a partir de congelado, cubiertos con carne",
+"de": "Brezeln, weich, aus Tiefkühlware, mit Fleisch belegt",
+"pt": "Pretzels, macios, a partir de congelado, cobertos com carne"
+},
+"10292": {
+"it": "Pretzel, morbidi, da surgelato, non salati",
+"fr": "Bretzels, mous, à partir de produit surgelé, non salés",
+"es": "Pretzels, blandos, a partir de congelado, sin sal",
+"de": "Brezeln, weich, aus Tiefkühlware, ungesalzen",
+"pt": "Pretzels, macios, a partir de congelado, sem sal"
+},
+"10293": {
+"it": "Pretzel, morbidi, da mensa scolastica",
+"fr": "Bretzels, mous, de cantine scolaire",
+"es": "Pretzels, blandos, de comedor escolar",
+"de": "Brezeln, weich, aus der Schulverpflegung",
+"pt": "Pretzels, macios, de merenda escolar"
+},
+"10294": {
+"it": "Pretzel, morbidi, senza glutine",
+"fr": "Bretzels, mous, sans gluten",
+"es": "Pretzels, blandos, sin gluten",
+"de": "Brezeln, weich, glutenfrei",
+"pt": "Pretzels, macios, sem glúten"
+},
+"10295": {
+"it": "Pretzel, morbidi, senza glutine, ricoperti di zucchero e cannella",
+"fr": "Bretzels, mous, sans gluten, enrobés de sucre et de cannelle",
+"es": "Pretzels, blandos, sin gluten, recubiertos de azúcar y canela",
+"de": "Brezeln, weich, glutenfrei, mit Zimtzucker überzogen",
+"pt": "Pretzels, macios, sem glúten, cobertos com açúcar e canela"
+},
+"10296": {
+"it": "Pretzel, morbidi, senza glutine, ricoperti o aromatizzato",
+"fr": "Bretzels, mous, sans gluten, enrobés ou aromatisé",
+"es": "Pretzels, blandos, sin gluten, recubiertos o aromatizado",
+"de": "Brezeln, weich, glutenfrei, überzogen oder aromatisiert",
+"pt": "Pretzels, macios, sem glúten, cobertos ou aromatizado"
+},
+"10297": {
+"it": "Pretzel, morbidi, multicereali",
+"fr": "Bretzels, mous, multicéréales",
+"es": "Pretzels, blandos, multicereales",
+"de": "Brezeln, weich, Mehrkorn-",
+"pt": "Pretzels, macios, multigrãos"
+},
+"10298": {
+"it": "Pretzel, morbidi, non specificato",
+"fr": "Bretzels, mous, non spécifié",
+"es": "Pretzels, blandos, no especificado",
+"de": "Brezeln, weich, nicht näher bezeichnet",
+"pt": "Pretzels, macios, não especificado"
+},
+"10299": {
+"it": "Pretzel, morbidi, pronti da mangiare, ricoperti di zucchero e cannella",
+"fr": "Bretzels, mous, prêts à consommer, enrobés de sucre et de cannelle",
+"es": "Pretzels, blandos, listos para comer, recubiertos de azúcar y canela",
+"de": "Brezeln, weich, verzehrfertig, mit Zimtzucker überzogen",
+"pt": "Pretzels, macios, prontos para consumo, cobertos com açúcar e canela"
+},
+"10300": {
+"it": "Pretzel, morbidi, pronti da mangiare, ricoperti o aromatizzato",
+"fr": "Bretzels, mous, prêts à consommer, enrobés ou aromatisé",
+"es": "Pretzels, blandos, listos para comer, recubiertos o aromatizado",
+"de": "Brezeln, weich, verzehrfertig, überzogen oder aromatisiert",
+"pt": "Pretzels, macios, prontos para consumo, cobertos ou aromatizado"
+},
+"10301": {
+"it": "Pretzel, morbidi, pronti da mangiare, non specificato",
+"fr": "Bretzels, mous, prêts à consommer, non spécifié",
+"es": "Pretzels, blandos, listos para comer, no especificado",
+"de": "Brezeln, weich, verzehrfertig, nicht näher bezeichnet",
+"pt": "Pretzels, macios, prontos para consumo, não especificado"
+},
+"10302": {
+"it": "Pretzel, morbidi, pronti da mangiare, salati, con burro",
+"fr": "Bretzels, mous, prêts à consommer, salés, avec beurre",
+"es": "Pretzels, blandos, listos para comer, salados, con mantequilla",
+"de": "Brezeln, weich, verzehrfertig, gesalzen, mit Butter",
+"pt": "Pretzels, macios, prontos para consumo, salgados, com manteiga"
+},
+"10303": {
+"it": "Pretzel, morbidi, pronti da mangiare, salati, senza burro",
+"fr": "Bretzels, mous, prêts à consommer, salés, sans beurre",
+"es": "Pretzels, blandos, listos para comer, salados, sin mantequilla",
+"de": "Brezeln, weich, verzehrfertig, gesalzen, ohne Butter",
+"pt": "Pretzels, macios, prontos para consumo, salgados, sem manteiga"
+},
+"10304": {
+"it": "Pretzel, morbidi, pronti da mangiare, guarniti con formaggio",
+"fr": "Bretzels, mous, prêts à consommer, garnis de fromage",
+"es": "Pretzels, blandos, listos para comer, cubiertos con queso",
+"de": "Brezeln, weich, verzehrfertig, mit Käse belegt",
+"pt": "Pretzels, macios, prontos para consumo, cobertos com queijo"
+},
+"10305": {
+"it": "Pretzel, morbidi, pronti da mangiare, guarniti con carne",
+"fr": "Bretzels, mous, prêts à consommer, garnis de viande",
+"es": "Pretzels, blandos, listos para comer, cubiertos con carne",
+"de": "Brezeln, weich, verzehrfertig, mit Fleisch belegt",
+"pt": "Pretzels, macios, prontos para consumo, cobertos com carne"
+},
+"10306": {
+"it": "Pretzel, morbidi, pronti da mangiare, non salati, con burro",
+"fr": "Bretzels, mous, prêts à consommer, non salés, avec beurre",
+"es": "Pretzels, blandos, listos para comer, sin sal, con mantequilla",
+"de": "Brezeln, weich, verzehrfertig, ungesalzen, mit Butter",
+"pt": "Pretzels, macios, prontos para consumo, sem sal, com manteiga"
+},
+"10307": {
+"it": "Pretzel, morbidi, pronti da mangiare, non salati, senza burro",
+"fr": "Bretzels, mous, prêts à consommer, non salés, sans beurre",
+"es": "Pretzels, blandos, listos para comer, sin sal, sin mantequilla",
+"de": "Brezeln, weich, verzehrfertig, ungesalzen, ohne Butter",
+"pt": "Pretzels, macios, prontos para consumo, sem sal, sem manteiga"
+},
+"10308": {
+"it": "Pretzel, morbidi, non salati",
+"fr": "Bretzels, mous, non salés",
+"es": "Pretzels, blandos, sin sal",
+"de": "Brezeln, weich, ungesalzen",
+"pt": "Pretzels, macios, sem sal"
+},
+"10309": {
+"it": "Fichi d'India, grigliati (indiani delle Grandi Pianure del Nord)",
+"fr": "Figues de Barbarie, grillées (Indiens des Plaines du Nord)",
+"es": "Tunas, as la parrilla (indios de las Grandes Llanuras del Norte)",
+"de": "Kaktusfeigen, gegrillt (Indianer der nördlichen Great Plains)",
+"pt": "Figos-da-índia, grelhados (indígenas das Grandes Planícies do Norte)"
+},
+"10310": {
+"it": "Fichi d'India, crudi",
+"fr": "Figues de Barbarie, crues",
+"es": "Tunas, crudas",
+"de": "Kaktusfeigen, roh",
+"pt": "Figos-da-índia, crus"
+},
+"10311": {
+"it": "Fichi d'India, crudi (indiani delle Grandi Pianure del Nord)",
+"fr": "Figues de Barbarie, crues (Indiens des Plaines du Nord)",
+"es": "Tunas, crudas (indios de las Grandes Llanuras del Norte)",
+"de": "Kaktusfeigen, roh (Indianer der nördlichen Great Plains)",
+"pt": "Figos-da-índia, crus (indígenas das Grandes Planícies do Norte)"
+},
+"10312": {
+"it": "Integratore proteico, a base di latte, Muscle Milk Light, in polvere",
+"fr": "Complément protéique, à base de lait, Muscle Milk Light, en poudre",
+"es": "Suplemento proteico, a base de leche, Muscle Milk Light, en polvo",
+"de": "Proteinpräparat, auf Milchbasis, Muscle Milk Light, Pulver",
+"pt": "Suplemento proteico, à base de leite, Muscle Milk Light, em pó"
+},
+"10313": {
+"it": "Integratore proteico, a base di latte, Muscle Milk, in polvere",
+"fr": "Complément protéique, à base de lait, Muscle Milk, en poudre",
+"es": "Suplemento proteico, a base de leche, Muscle Milk, en polvo",
+"de": "Proteinpräparat, auf Milchbasis, Muscle Milk, Pulver",
+"pt": "Suplemento proteico, à base de leite, Muscle Milk, em pó"
+},
+"10314": {
+"it": "Succo di prugna, 100%",
+"fr": "Jus de pruneau, 100%",
+"es": "Zumo de ciruela, 100%",
+"de": "Pflaumensaft, 100%",
+"pt": "Suco de ameixa, 100%"
+},
+"10315": {
+"it": "Succo di prugna, in scatola",
+"fr": "Jus de pruneau, en conserve",
+"es": "Zumo de ciruela, en conserva",
+"de": "Pflaumensaft, aus der Dose",
+"pt": "Suco de ameixa, enlatado"
+},
+"10316": {
+"it": "Purea di prugne",
+"fr": "Purée de pruneaux",
+"es": "Puré de ciruelas",
+"de": "Pflaumenmus",
+"pt": "Purê de ameixa"
+},
+"10317": {
+"it": "Prugna, secca",
+"fr": "Pruneau, séché",
+"es": "Ciruela, seca",
+"de": "Backpflaume, getrocknet",
+"pt": "Ameixa, seca"
+},
+"10318": {
+"it": "Prugne, in scatola, in sciroppo denso, solidi e liquidi",
+"fr": "Pruneaux, en conserve, au sirop épais, solides et liquides",
+"es": "Ciruelas, en conserva, en almíbar espeso, sólidos y líquidos",
+"de": "Backpflaumen, aus der Dose, in dickem Sirup, feste und flüssige Bestandteile",
+"pt": "Ameixas, enlatadas, em calda grossa, sólidos e líquidos"
+},
+"10319": {
+"it": "Prugne, disidratate (a basso contenuto di umidità), stufate",
+"fr": "Pruneaux, déshydratés (à faible teneur en eau), mijotés",
+"es": "Ciruelas, deshidratadas (bajo en humedad), estofadas",
+"de": "Backpflaumen, dehydriert (feuchtigkeitsarm), geschmort",
+"pt": "Ameixas, desidratadas (baixa umidade), ensopadas"
+},
+"10320": {
+"it": "Prugne, disidratate (a basso contenuto di umidità), non cotte",
+"fr": "Pruneaux, déshydratés (à faible teneur en eau), non cuits",
+"es": "Ciruelas, deshidratadas (bajo en humedad), sin cocinar",
+"de": "Backpflaumen, dehydriert (feuchtigkeitsarm), ungekocht",
+"pt": "Ameixas, desidratadas (baixa umidade), não cozidas"
+},
+"10321": {
+"it": "Budino di pane",
+"fr": "Pudding au pain",
+"es": "Pudín de pan",
+"de": "Brotpudding",
+"pt": "Pudim de pão"
+},
+"10322": {
+"it": "Budino, cioccolato, preparato da miscela in polvere",
+"fr": "Pudding, chocolat, préparé à partir de mélange en poudre",
+"es": "Pudín, chocolate, preparado a partir de mezcla en polvo",
+"de": "Pudding, Schokolade, aus Trockenmischung zubereitet",
+"pt": "Pudim, chocolate, preparado a partir de mistura em pó"
+},
+"10323": {
+"it": "Budino, cioccolato, preparato da miscela in polvere, senza zucchero",
+"fr": "Pudding, chocolat, préparé à partir de mélange en poudre, sans sucre",
+"es": "Pudín, chocolate, preparado a partir de mezcla en polvo, sin azúcar",
+"de": "Pudding, Schokolade, aus Trockenmischung zubereitet, zuckerfrei",
+"pt": "Pudim, chocolate, preparado a partir de mistura em pó, sem açúcar"
+},
+"10324": {
+"it": "Budino, cioccolato, non specificato",
+"fr": "Pudding, chocolat, non spécifié",
+"es": "Pudín, chocolate, no especificado",
+"de": "Pudding, Schokolade, nicht näher bezeichnet",
+"pt": "Pudim, chocolate, não especificado"
+},
+"10325": {
+"it": "Budino, cioccolato, pronto da mangiare",
+"fr": "Pudding, chocolat, prêt à consommer",
+"es": "Pudín, chocolate, listo para comer",
+"de": "Pudding, Schokolade, verzehrfertig",
+"pt": "Pudim, chocolate, pronto para consumo"
+},
+"10326": {
+"it": "Budino, cioccolato, pronto da mangiare, senza zucchero",
+"fr": "Pudding, chocolat, prêt à consommer, sans sucre",
+"es": "Pudín, chocolate, listo para comer, sin azúcar",
+"de": "Pudding, Schokolade, verzehrfertig, zuckerfrei",
+"pt": "Pudim, chocolate, pronto para consumo, sem açúcar"
+},
+"10327": {
+"it": "Budino, gusti diversi dal cioccolato, preparato da miscela in polvere",
+"fr": "Pudding, saveurs autres que chocolat, préparé à partir de mélange en poudre",
+"es": "Pudín, sabores distintos del chocolate, preparado a partir de mezcla en polvo",
+"de": "Pudding, andere Geschmacksrichtungen als Schokolade, aus Trockenmischung zubereitet",
+"pt": "Pudim, sabores exceto chocolate, preparado a partir de mistura em pó"
+},
+"10328": {
+"it": "Budino, gusti diversi dal cioccolato, preparato da miscela in polvere, senza zucchero",
+"fr": "Pudding, saveurs autres que chocolat, préparé à partir de mélange en poudre, sans sucre",
+"es": "Pudín, sabores distintos del chocolate, preparado a partir de mezcla en polvo, sin azúcar",
+"de": "Pudding, andere Geschmacksrichtungen als Schokolade, aus Trockenmischung zubereitet, zuckerfrei",
+"pt": "Pudim, sabores exceto chocolate, preparado a partir de mistura em pó, sem açúcar"
+},
+"10329": {
+"it": "Budino, gusti diversi dal cioccolato, non specificato",
+"fr": "Pudding, saveurs autres que chocolat, non spécifié",
+"es": "Pudín, sabores distintos del chocolate, no especificado",
+"de": "Pudding, andere Geschmacksrichtungen als Schokolade, nicht näher bezeichnet",
+"pt": "Pudim, sabores exceto chocolate, não especificado"
+},
+"10330": {
+"it": "Budino, gusti diversi dal cioccolato, pronto da mangiare",
+"fr": "Pudding, saveurs autres que chocolat, prêt à consommer",
+"es": "Pudín, sabores distintos del chocolate, listo para comer",
+"de": "Pudding, andere Geschmacksrichtungen als Schokolade, verzehrfertig",
+"pt": "Pudim, sabores exceto chocolate, pronto para consumo"
+},
+"10331": {
+"it": "Budino, gusti diversi dal cioccolato, pronto da mangiare, senza zucchero",
+"fr": "Pudding, saveurs autres que chocolat, prêt à consommer, sans sucre",
+"es": "Pudín, sabores distintos del chocolate, listo para comer, sin azúcar",
+"de": "Pudding, andere Geschmacksrichtungen als Schokolade, verzehrfertig, zuckerfrei",
+"pt": "Pudim, sabores exceto chocolate, pronto para consumo, sem açúcar"
+},
+"10332": {
+"it": "Budino, limone, miscela in polvere, da cuocere, preparato con zucchero, tuorlo d'uovo e acqua",
+"fr": "Pudding, citron, mélange en poudre, à cuire, préparé avec du sucre, jaune d'œuf et eau",
+"es": "Pudín, limón, mezcla en polvo, para cocinar, preparado con azúcar, yema de huevo y agua",
+"de": "Pudding, Zitrone, Trockenmischung, zum Kochen, mit Zucker zubereitet, Eigelb und Wasser",
+"pt": "Pudim, limão, mistura em pó, para cozinhar, preparado com açúcar, gema de ovo e água"
+},
+"10333": {
+"it": "Budino di riso",
+"fr": "Pudding au riz",
+"es": "Pudín de arroz",
+"de": "Milchreispudding",
+"pt": "Pudim de arroz"
+},
+"10334": {
+"it": "Budino, tapioca, preparato da miscela in polvere",
+"fr": "Pudding, tapioca, préparé à partir de mélange en poudre",
+"es": "Pudín, tapioca, preparado a partir de mezcla en polvo",
+"de": "Pudding, Tapioka, aus Trockenmischung zubereitet",
+"pt": "Pudim, tapioca, preparado a partir de mistura em pó"
+},
+"10335": {
+"it": "Budino, tapioca, pronto da mangiare",
+"fr": "Pudding, tapioca, prêt à consommer",
+"es": "Pudín, tapioca, listo para comer",
+"de": "Pudding, Tapioka, verzehrfertig",
+"pt": "Pudim, tapioca, pronto para consumo"
+},
+"10336": {
+"it": "Budini, tutti i gusti tranne il cioccolato, a basso contenuto calorico, istantanei, miscela in polvere",
+"fr": "Puddings, toutes saveurs sauf chocolat, faible en calories, instantanés, mélange en poudre",
+"es": "Pudines, todos los sabores excepto chocolate, bajo en calorías, instantáneos, mezcla en polvo",
+"de": "Puddings, alle Geschmacksrichtungen außer Schokolade, kalorienarm, Instant-, Trockenmischung",
+"pt": "Pudins, todos os sabores exceto chocolate, baixa caloria, instantâneos, mistura em pó"
+},
+"10337": {
+"it": "Budini, tutti i gusti tranne il cioccolato, a basso contenuto calorico, da cuocere, miscela in polvere",
+"fr": "Puddings, toutes saveurs sauf chocolat, faible en calories, à cuire, mélange en poudre",
+"es": "Pudines, todos los sabores excepto chocolate, bajo en calorías, para cocinar, mezcla en polvo",
+"de": "Puddings, alle Geschmacksrichtungen außer Schokolade, kalorienarm, zum Kochen, Trockenmischung",
+"pt": "Pudins, todos os sabores exceto chocolate, baixa caloria, para cozinhar, mistura em pó"
+},
+"10338": {
+"it": "Budini, banana, miscela in polvere, istantanei",
+"fr": "Puddings, banane, mélange en poudre, instantanés",
+"es": "Pudines, banana, mezcla en polvo, instantáneos",
+"de": "Puddings, Banane, Trockenmischung, Instant-",
+"pt": "Pudins, banana, mistura em pó, instantâneos"
+},
+"10339": {
+"it": "Budini, banana, miscela in polvere, istantanei, preparati con latte al 2%",
+"fr": "Puddings, banane, mélange en poudre, instantanés, préparés avec du lait à 2%",
+"es": "Pudines, banana, mezcla en polvo, instantáneos, preparados con leche al 2%",
+"de": "Puddings, Banane, Trockenmischung, Instant-, mit Milch (2%) zubereitet",
+"pt": "Pudins, banana, mistura em pó, instantâneos, preparados com leite 2%"
+},
+"10340": {
+"it": "Budini, banana, miscela in polvere, istantanei, preparati con latte intero",
+"fr": "Puddings, banane, mélange en poudre, instantanés, préparés avec du lait entier",
+"es": "Pudines, banana, mezcla en polvo, instantáneos, preparados con leche entera",
+"de": "Puddings, Banane, Trockenmischung, Instant-, mit Vollmilch zubereitet",
+"pt": "Pudins, banana, mistura em pó, instantâneos, preparados com leite integral"
+},
+"10341": {
+"it": "Budini, banana, miscela in polvere, istantanei, con olio aggiunto",
+"fr": "Puddings, banane, mélange en poudre, instantanés, avec huile ajoutée",
+"es": "Pudines, banana, mezcla en polvo, instantáneos, con aceite añadido",
+"de": "Puddings, Banane, Trockenmischung, Instant-, mit zugesetztem Öl",
+"pt": "Pudins, banana, mistura em pó, instantâneos, com óleo adicionado"
+},
+"10342": {
+"it": "Budini, banana, miscela in polvere, da cuocere",
+"fr": "Puddings, banane, mélange en poudre, à cuire",
+"es": "Pudines, banana, mezcla en polvo, para cocinar",
+"de": "Puddings, Banane, Trockenmischung, zum Kochen",
+"pt": "Pudins, banana, mistura em pó, para cozinhar"
+},
+"10343": {
+"it": "Budini, banana, miscela in polvere, da cuocere, preparati con latte al 2%",
+"fr": "Puddings, banane, mélange en poudre, à cuire, préparés avec du lait à 2%",
+"es": "Pudines, banana, mezcla en polvo, para cocinar, preparados con leche al 2%",
+"de": "Puddings, Banane, Trockenmischung, zum Kochen, mit Milch (2%) zubereitet",
+"pt": "Pudins, banana, mistura em pó, para cozinhar, preparados com leite 2%"
+},
+"10344": {
+"it": "Budini, banana, miscela in polvere, da cuocere, preparati con latte intero",
+"fr": "Puddings, banane, mélange en poudre, à cuire, préparés avec du lait entier",
+"es": "Pudines, banana, mezcla en polvo, para cocinar, preparados con leche entera",
+"de": "Puddings, Banane, Trockenmischung, zum Kochen, mit Vollmilch zubereitet",
+"pt": "Pudins, banana, mistura em pó, para cozinhar, preparados com leite integral"
+},
+"10345": {
+"it": "Budini, banana, miscela in polvere, da cuocere, con olio aggiunto",
+"fr": "Puddings, banane, mélange en poudre, à cuire, avec huile ajoutée",
+"es": "Pudines, banana, mezcla en polvo, para cocinar, con aceite añadido",
+"de": "Puddings, Banane, Trockenmischung, zum Kochen, mit zugesetztem Öl",
+"pt": "Pudins, banana, mistura em pó, para cozinhar, com óleo adicionado"
+},
+"10346": {
+"it": "Budini, gusto cioccolato, a basso contenuto calorico, istantanei, miscela in polvere",
+"fr": "Puddings, saveur chocolat, faible en calories, instantanés, mélange en poudre",
+"es": "Pudines, sabor chocolate, bajo en calorías, instantáneos, mezcla en polvo",
+"de": "Puddings, Schokoladengeschmack, kalorienarm, Instant-, Trockenmischung",
+"pt": "Pudins, sabor chocolate, baixa caloria, instantâneos, mistura em pó"
+},
+"10347": {
+"it": "Budini, gusto cioccolato, a basso contenuto calorico, da cuocere, miscela in polvere",
+"fr": "Puddings, saveur chocolat, faible en calories, à cuire, mélange en poudre",
+"es": "Pudines, sabor chocolate, bajo en calorías, para cocinar, mezcla en polvo",
+"de": "Puddings, Schokoladengeschmack, kalorienarm, zum Kochen, Trockenmischung",
+"pt": "Pudins, sabor chocolate, baixa caloria, para cozinhar, mistura em pó"
+},
+"10348": {
+"it": "Budini, cioccolato, miscela in polvere, istantanei",
+"fr": "Puddings, chocolat, mélange en poudre, instantanés",
+"es": "Pudines, chocolate, mezcla en polvo, instantáneos",
+"de": "Puddings, Schokolade, Trockenmischung, Instant-",
+"pt": "Pudins, chocolate, mistura em pó, instantâneos"
+},
+"10349": {
+"it": "Budini, cioccolato, miscela in polvere, istantanei, preparati con latte al 2%",
+"fr": "Puddings, chocolat, mélange en poudre, instantanés, préparés avec du lait à 2%",
+"es": "Pudines, chocolate, mezcla en polvo, instantáneos, preparados con leche al 2%",
+"de": "Puddings, Schokolade, Trockenmischung, Instant-, mit Milch (2%) zubereitet",
+"pt": "Pudins, chocolate, mistura em pó, instantâneos, preparados com leite 2%"
+},
+"10350": {
+"it": "Budini, cioccolato, miscela in polvere, istantanei, preparati con latte intero",
+"fr": "Puddings, chocolat, mélange en poudre, instantanés, préparés avec du lait entier",
+"es": "Pudines, chocolate, mezcla en polvo, instantáneos, preparados con leche entera",
+"de": "Puddings, Schokolade, Trockenmischung, Instant-, mit Vollmilch zubereitet",
+"pt": "Pudins, chocolate, mistura em pó, instantâneos, preparados com leite integral"
+},
+"10351": {
+"it": "Budini, cioccolato, miscela in polvere, da cuocere",
+"fr": "Puddings, chocolat, mélange en poudre, à cuire",
+"es": "Pudines, chocolate, mezcla en polvo, para cocinar",
+"de": "Puddings, Schokolade, Trockenmischung, zum Kochen",
+"pt": "Pudins, chocolate, mistura em pó, para cozinhar"
+},
+"10352": {
+"it": "Budini, cioccolato, miscela in polvere, da cuocere, preparati con latte al 2%",
+"fr": "Puddings, chocolat, mélange en poudre, à cuire, préparés avec du lait à 2%",
+"es": "Pudines, chocolate, mezcla en polvo, para cocinar, preparados con leche al 2%",
+"de": "Puddings, Schokolade, Trockenmischung, zum Kochen, mit Milch (2%) zubereitet",
+"pt": "Pudins, chocolate, mistura em pó, para cozinhar, preparados com leite 2%"
+},
+"10353": {
+"it": "Budini, cioccolato, miscela in polvere, da cuocere, preparati con latte intero",
+"fr": "Puddings, chocolat, mélange en poudre, à cuire, préparés avec du lait entier",
+"es": "Pudines, chocolate, mezcla en polvo, para cocinar, preparados con leche entera",
+"de": "Puddings, Schokolade, Trockenmischung, zum Kochen, mit Vollmilch zubereitet",
+"pt": "Pudins, chocolate, mistura em pó, para cozinhar, preparados com leite integral"
+},
+"10354": {
+"it": "Budini, cioccolato, pronti da mangiare",
+"fr": "Puddings, chocolat, prêts à consommer",
+"es": "Pudines, chocolate, listos para comer",
+"de": "Puddings, Schokolade, verzehrfertig",
+"pt": "Pudins, chocolate, prontos para consumo"
+},
+"10355": {
+"it": "Budini, cioccolato, pronti da mangiare, senza grassi",
+"fr": "Puddings, chocolat, prêts à consommer, sans matières grasses",
+"es": "Pudines, chocolate, listos para comer, sin grasa",
+"de": "Puddings, Schokolade, verzehrfertig, fettfrei",
+"pt": "Pudins, chocolate, prontos para consumo, sem gordura"
+},
+"10356": {
+"it": "Budini, crema di cocco, miscela in polvere, istantanei",
+"fr": "Puddings, crème de noix de coco, mélange en poudre, instantanés",
+"es": "Pudines, crema de coco, mezcla en polvo, instantáneos",
+"de": "Puddings, Kokoscreme, Trockenmischung, Instant-",
+"pt": "Pudins, creme de coco, mistura em pó, instantâneos"
+},
+"10357": {
+"it": "Budini, crema di cocco, miscela in polvere, istantanei, preparati con latte al 2%",
+"fr": "Puddings, crème de noix de coco, mélange en poudre, instantanés, préparés avec du lait à 2%",
+"es": "Pudines, crema de coco, mezcla en polvo, instantáneos, preparados con leche al 2%",
+"de": "Puddings, Kokoscreme, Trockenmischung, Instant-, mit Milch (2%) zubereitet",
+"pt": "Pudins, creme de coco, mistura em pó, instantâneos, preparados com leite 2%"
+},
+"10358": {
+"it": "Budini, crema di cocco, miscela in polvere, istantanei, preparati con latte intero",
+"fr": "Puddings, crème de noix de coco, mélange en poudre, instantanés, préparés avec du lait entier",
+"es": "Pudines, crema de coco, mezcla en polvo, instantáneos, preparados con leche entera",
+"de": "Puddings, Kokoscreme, Trockenmischung, Instant-, mit Vollmilch zubereitet",
+"pt": "Pudins, creme de coco, mistura em pó, instantâneos, preparados com leite integral"
+},
+"10359": {
+"it": "Budini, crema di cocco, miscela in polvere, da cuocere",
+"fr": "Puddings, crème de noix de coco, mélange en poudre, à cuire",
+"es": "Pudines, crema de coco, mezcla en polvo, para cocinar",
+"de": "Puddings, Kokoscreme, Trockenmischung, zum Kochen",
+"pt": "Pudins, creme de coco, mistura em pó, para cozinhar"
+},
+"10360": {
+"it": "Budini, crema di cocco, miscela in polvere, da cuocere, preparati con latte al 2%",
+"fr": "Puddings, crème de noix de coco, mélange en poudre, à cuire, préparés avec du lait à 2%",
+"es": "Pudines, crema de coco, mezcla en polvo, para cocinar, preparados con leche al 2%",
+"de": "Puddings, Kokoscreme, Trockenmischung, zum Kochen, mit Milch (2%) zubereitet",
+"pt": "Pudins, creme de coco, mistura em pó, para cozinhar, preparados com leite 2%"
+},
+"10361": {
+"it": "Budini, crema di cocco, miscela in polvere, da cuocere, preparati con latte intero",
+"fr": "Puddings, crème de noix de coco, mélange en poudre, à cuire, préparés avec du lait entier",
+"es": "Pudines, crema de coco, mezcla en polvo, para cocinar, preparados con leche entera",
+"de": "Puddings, Kokoscreme, Trockenmischung, zum Kochen, mit Vollmilch zubereitet",
+"pt": "Pudins, creme de coco, mistura em pó, para cozinhar, preparados com leite integral"
+},
+"10362": {
+"it": "Budini, limone, miscela in polvere, istantanei",
+"fr": "Puddings, citron, mélange en poudre, instantanés",
+"es": "Pudines, limón, mezcla en polvo, instantáneos",
+"de": "Puddings, Zitrone, Trockenmischung, Instant-",
+"pt": "Pudins, limão, mistura em pó, instantâneos"
+},
+"10363": {
+"it": "Budini, limone, miscela in polvere, istantanei, preparati con latte al 2%",
+"fr": "Puddings, citron, mélange en poudre, instantanés, préparés avec du lait à 2%",
+"es": "Pudines, limón, mezcla en polvo, instantáneos, preparados con leche al 2%",
+"de": "Puddings, Zitrone, Trockenmischung, Instant-, mit Milch (2%) zubereitet",
+"pt": "Pudins, limão, mistura em pó, instantâneos, preparados com leite 2%"
+},
+"10364": {
+"it": "Budini, limone, miscela in polvere, istantanei, preparati con latte intero",
+"fr": "Puddings, citron, mélange en poudre, instantanés, préparés avec du lait entier",
+"es": "Pudines, limón, mezcla en polvo, instantáneos, preparados con leche entera",
+"de": "Puddings, Zitrone, Trockenmischung, Instant-, mit Vollmilch zubereitet",
+"pt": "Pudins, limão, mistura em pó, instantâneos, preparados com leite integral"
+},
+"10365": {
+"it": "Budini, limone, miscela in polvere, da cuocere",
+"fr": "Puddings, citron, mélange en poudre, à cuire",
+"es": "Pudines, limón, mezcla en polvo, para cocinar",
+"de": "Puddings, Zitrone, Trockenmischung, zum Kochen",
+"pt": "Pudins, limão, mistura em pó, para cozinhar"
+},
+"10366": {
+"it": "Budini, limone, miscela in polvere, da cuocere, con olio aggiunto, potassio, sodio",
+"fr": "Puddings, citron, mélange en poudre, à cuire, avec huile ajoutée, potassium, sodium",
+"es": "Pudines, limón, mezcla en polvo, para cocinar, con aceite añadido, potasio, sodio",
+"de": "Puddings, Zitrone, Trockenmischung, zum Kochen, mit zugesetztem Öl, Kalium, Natrium",
+"pt": "Pudins, limão, mistura em pó, para cozinhar, com óleo adicionado, potássio, sódio"
+},
+"10367": {
+"it": "Budini, riso, miscela in polvere",
+"fr": "Puddings, riz, mélange en poudre",
+"es": "Pudines, arroz, mezcla en polvo",
+"de": "Puddings, Reis, Trockenmischung",
+"pt": "Pudins, arroz, mistura em pó"
+},
+"10368": {
+"it": "Budini, riso, miscela in polvere, preparati con latte al 2%",
+"fr": "Puddings, riz, mélange en poudre, préparés avec du lait à 2%",
+"es": "Pudines, arroz, mezcla en polvo, preparados con leche al 2%",
+"de": "Puddings, Reis, Trockenmischung, mit Milch (2%) zubereitet",
+"pt": "Pudins, arroz, mistura em pó, preparados com leite 2%"
+},
+"10369": {
+"it": "Budini, riso, miscela in polvere, preparati con latte intero",
+"fr": "Puddings, riz, mélange en poudre, préparés avec du lait entier",
+"es": "Pudines, arroz, mezcla en polvo, preparados con leche entera",
+"de": "Puddings, Reis, Trockenmischung, mit Vollmilch zubereitet",
+"pt": "Pudins, arroz, mistura em pó, preparados com leite integral"
+},
+"10370": {
+"it": "Budini, riso, pronti da mangiare",
+"fr": "Puddings, riz, prêts à consommer",
+"es": "Pudines, arroz, listos para comer",
+"de": "Puddings, Reis, verzehrfertig",
+"pt": "Pudins, arroz, prontos para consumo"
+},
+"10371": {
+"it": "Budini, tapioca, miscela in polvere",
+"fr": "Puddings, tapioca, mélange en poudre",
+"es": "Pudines, tapioca, mezcla en polvo",
+"de": "Puddings, Tapioka, Trockenmischung",
+"pt": "Pudins, tapioca, mistura em pó"
+},
+"10372": {
+"it": "Budini, tapioca, miscela in polvere, preparati con latte al 2%",
+"fr": "Puddings, tapioca, mélange en poudre, préparés avec du lait à 2%",
+"es": "Pudines, tapioca, mezcla en polvo, preparados con leche al 2%",
+"de": "Puddings, Tapioka, Trockenmischung, mit Milch (2%) zubereitet",
+"pt": "Pudins, tapioca, mistura em pó, preparados com leite 2%"
+},
+"10373": {
+"it": "Budini, tapioca, miscela in polvere, preparati con latte intero",
+"fr": "Puddings, tapioca, mélange en poudre, préparés avec du lait entier",
+"es": "Pudines, tapioca, mezcla en polvo, preparados con leche entera",
+"de": "Puddings, Tapioka, Trockenmischung, mit Vollmilch zubereitet",
+"pt": "Pudins, tapioca, mistura em pó, preparados com leite integral"
+},
+"10374": {
+"it": "Budini, tapioca, miscela in polvere, senza sale aggiunto",
+"fr": "Puddings, tapioca, mélange en poudre, sans sel ajouté",
+"es": "Pudines, tapioca, mezcla en polvo, sin sal añadida",
+"de": "Puddings, Tapioka, Trockenmischung, ohne Salzzusatz",
+"pt": "Pudins, tapioca, mistura em pó, sem sal adicionado"
+},
+"10375": {
+"it": "Budini, tapioca, pronti da mangiare",
+"fr": "Puddings, tapioca, prêts à consommer",
+"es": "Pudines, tapioca, listos para comer",
+"de": "Puddings, Tapioka, verzehrfertig",
+"pt": "Pudins, tapioca, prontos para consumo"
+},
+"10376": {
+"it": "Budini, tapioca, pronti da mangiare, senza grassi",
+"fr": "Puddings, tapioca, prêts à consommer, sans matières grasses",
+"es": "Pudines, tapioca, listos para comer, sin grasa",
+"de": "Puddings, Tapioka, verzehrfertig, fettfrei",
+"pt": "Pudins, tapioca, prontos para consumo, sem gordura"
+},
+"10377": {
+"it": "Budini, vaniglia, miscela in polvere, istantanei",
+"fr": "Puddings, vanille, mélange en poudre, instantanés",
+"es": "Pudines, vainilla, mezcla en polvo, instantáneos",
+"de": "Puddings, Vanille, Trockenmischung, Instant-",
+"pt": "Pudins, baunilha, mistura em pó, instantâneos"
+},
+"10378": {
+"it": "Budini, vaniglia, miscela in polvere, istantanei, preparati con latte intero",
+"fr": "Puddings, vanille, mélange en poudre, instantanés, préparés avec du lait entier",
+"es": "Pudines, vainilla, mezcla en polvo, instantáneos, preparados con leche entera",
+"de": "Puddings, Vanille, Trockenmischung, Instant-, mit Vollmilch zubereitet",
+"pt": "Pudins, baunilha, mistura em pó, instantâneos, preparados com leite integral"
+},
+"10379": {
+"it": "Budini, vaniglia, miscela in polvere, da cuocere",
+"fr": "Puddings, vanille, mélange en poudre, à cuire",
+"es": "Pudines, vainilla, mezcla en polvo, para cocinar",
+"de": "Puddings, Vanille, Trockenmischung, zum Kochen",
+"pt": "Pudins, baunilha, mistura em pó, para cozinhar"
+},
+"10380": {
+"it": "Budini, vaniglia, miscela in polvere, da cuocere, preparati con latte al 2%",
+"fr": "Puddings, vanille, mélange en poudre, à cuire, préparés avec du lait à 2%",
+"es": "Pudines, vainilla, mezcla en polvo, para cocinar, preparados con leche al 2%",
+"de": "Puddings, Vanille, Trockenmischung, zum Kochen, mit Milch (2%) zubereitet",
+"pt": "Pudins, baunilha, mistura em pó, para cozinhar, preparados com leite 2%"
+},
+"10381": {
+"it": "Budini, vaniglia, miscela in polvere, da cuocere, preparati con latte intero",
+"fr": "Puddings, vanille, mélange en poudre, à cuire, préparés avec du lait entier",
+"es": "Pudines, vainilla, mezcla en polvo, para cocinar, preparados con leche entera",
+"de": "Puddings, Vanille, Trockenmischung, zum Kochen, mit Vollmilch zubereitet",
+"pt": "Pudins, baunilha, mistura em pó, para cozinhar, preparados com leite integral"
+},
+"10382": {
+"it": "Budini, vaniglia, miscela in polvere, da cuocere, con olio aggiunto",
+"fr": "Puddings, vanille, mélange en poudre, à cuire, avec huile ajoutée",
+"es": "Pudines, vainilla, mezcla en polvo, para cocinar, con aceite añadido",
+"de": "Puddings, Vanille, Trockenmischung, zum Kochen, mit zugesetztem Öl",
+"pt": "Pudins, baunilha, mistura em pó, para cozinhar, com óleo adicionado"
+},
+"10383": {
+"it": "Budini, vaniglia, pronti da mangiare",
+"fr": "Puddings, vanille, prêts à consommer",
+"es": "Pudines, vainilla, listos para comer",
+"de": "Puddings, Vanille, verzehrfertig",
+"pt": "Pudins, baunilha, prontos para consumo"
+},
+"10384": {
+"it": "Budini, vaniglia, pronti da mangiare, senza grassi",
+"fr": "Puddings, vanille, prêts à consommer, sans matières grasses",
+"es": "Pudines, vainilla, listos para comer, sin grasa",
+"de": "Puddings, Vanille, verzehrfertig, fettfrei",
+"pt": "Pudins, baunilha, prontos para consumo, sem gordura"
+},
+"10385": {
+"it": "Pasteles portoricani (involtini di impasto di banana verde e carne)",
+"fr": "Pasteles portoricains (papillotes de pâte de banane verte et viande)",
+"es": "Pasteles puertorriqueños (tamales de plátano verde y carne)",
+"de": "Puerto-ricanische Pasteles (Teigrollen aus grünen Bananen mit Fleisch)",
+"pt": "Pasteles porto-riquenhos (trouxinhas de massa de banana-verde com carne)"
+},
+"10386": {
+"it": "Condimento portoricano con prosciutto",
+"fr": "Assaisonnement portoricain au jambon",
+"es": "Condimento puertorriqueño con jamón",
+"de": "Puerto-ricanische Würzmischung mit Schinken",
+"pt": "Tempero porto-riquenho com presunto"
+},
+"10387": {
+"it": "Condimento portoricano senza prosciutto e salsa di pomodoro",
+"fr": "Assaisonnement portoricain sans jambon ni sauce tomate",
+"es": "Condimento puertorriqueño sin jamón ni salsa de tomate",
+"de": "Puerto-ricanische Würzmischung ohne Schinken und Tomatensauce",
+"pt": "Tempero porto-riquenho sem presunto e molho de tomate"
+},
+"10388": {
+"it": "Formaggio bianco portoricano",
+"fr": "Fromage blanc portoricain",
+"es": "Queso blanco puertorriqueño",
+"de": "Puerto-ricanischer weißer Käse",
+"pt": "Queijo branco porto-riquenho"
+},
+"10389": {
+"it": "Pasta sfoglia, surgelata, pronta da infornare",
+"fr": "Pâte feuilletée, surgelée, prête à cuire",
+"es": "Hojaldre, congelado, listo para hornear",
+"de": "Blätterteig, tiefgekühlt, backfertig",
+"pt": "Massa folhada, congelada, pronta para assar"
+},
+"10390": {
+"it": "Pasta sfoglia, surgelata, pronta da infornare, al forno",
+"fr": "Pâte feuilletée, surgelée, prête à cuire, cuite au four",
+"es": "Hojaldre, congelado, listo para hornear, al horno",
+"de": "Blätterteig, tiefgekühlt, backfertig, gebacken",
+"pt": "Massa folhada, congelada, pronta para assar, assada no forno"
+},
+"10391": {
+"it": "Bignè fritti, ripieni di polpa di granchio e formaggio cremoso",
+"fr": "Beignets soufflés frits, fourrés à la chair de crabe et au fromage frais",
+"es": "Buñuelos fritos, rellenos de carne de cangrejo y queso crema",
+"de": "Frittierte Windbeutel, mit Krabbenfleisch und Frischkäse gefüllt",
+"pt": "Bolinhos fofos fritos, recheados com carne de caranguejo e cream cheese"
+},
+"10392": {
+"it": "Maiale sfilacciato (pulled pork) in salsa barbecue",
+"fr": "Porc effiloché (pulled pork) en sauce barbecue",
+"es": "Cerdo deshebrado (pulled pork) en salsa barbacoa",
+"de": "Pulled Pork in Barbecuesauce",
+"pt": "Carne suína desfiada (pulled pork) em molho barbecue"
+},
+"10393": {
+"it": "Pomelo (pummelo), crudo",
+"fr": "Pomélo (pummelo), cru",
+"es": "Pomelo (pummelo), crudo",
+"de": "Pampelmuse, roh",
+"pt": "Pomelo (pummelo), cru"
+},
+"10394": {
+"it": "Fiori di zucca, cotti, bolliti, sgocciolati, senza sale",
+"fr": "Fleurs de citrouille, cuites, bouillies, égouttées, sans sel",
+"es": "Flores de calabaza, cocidas, hervidas, escurridas, sin sal",
+"de": "Kürbisblüten, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Flores de abóbora, cozidas, cozidas em água, escorridas, sem sal"
+},
+"10395": {
+"it": "Fiori di zucca, crudi",
+"fr": "Fleurs de citrouille, crues",
+"es": "Flores de calabaza, crudas",
+"de": "Kürbisblüten, roh",
+"pt": "Flores de abóbora, cruas"
+},
+"10396": {
+"it": "Foglie di zucca, cotte, bollite, sgocciolate, con sale",
+"fr": "Feuilles de citrouille, cuites, bouillies, égouttées, avec sel",
+"es": "Hojas de calabaza, cocidas, hervidas, escurridas, con sal",
+"de": "Kürbisblätter, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Folhas de abóbora, cozidas, cozidas em água, escorridas, com sal"
+},
+"10397": {
+"it": "Foglie di zucca, cotte, bollite, sgocciolate, senza sale",
+"fr": "Feuilles de citrouille, cuites, bouillies, égouttées, sans sel",
+"es": "Hojas de calabaza, cocidas, hervidas, escurridas, sin sal",
+"de": "Kürbisblätter, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Folhas de abóbora, cozidas, cozidas em água, escorridas, sem sal"
+},
+"10398": {
+"it": "Foglie di zucca, crude",
+"fr": "Feuilles de citrouille, crues",
+"es": "Hojas de calabaza, crudas",
+"de": "Kürbisblätter, roh",
+"pt": "Folhas de abóbora, cruas"
+},
+"10399": {
+"it": "Miscela per torta di zucca, in scatola",
+"fr": "Préparation pour tarte à la citrouille, en conserve",
+"es": "Mezcla para pastel de calabaza, en conserva",
+"de": "Kürbiskuchenmischung, aus der Dose",
+"pt": "Mistura para torta de abóbora, enlatada"
+},
+"10400": {
+"it": "Semi di zucca, non specificato",
+"fr": "Graines de citrouille, non spécifié",
+"es": "Semillas de calabaza, no especificado",
+"de": "Kürbiskerne, nicht näher bezeichnet",
+"pt": "Sementes de abóbora, não especificado"
+},
+"10401": {
+"it": "Semi di zucca, salati",
+"fr": "Graines de citrouille, salées",
+"es": "Semillas de calabaza, saladas",
+"de": "Kürbiskerne, gesalzen",
+"pt": "Sementes de abóbora, salgadas"
+},
+"10402": {
+"it": "Semi di zucca, non salati",
+"fr": "Graines de citrouille, non salées",
+"es": "Semillas de calabaza, sin sal",
+"de": "Kürbiskerne, ungesalzen",
+"pt": "Sementes de abóbora, sem sal"
+},
+"10403": {
+"it": "Zucca, in scatola, cotta",
+"fr": "Citrouille, en conserve, cuite",
+"es": "Calabaza, en conserva, cocida",
+"de": "Kürbis, aus der Dose, gekocht",
+"pt": "Abóbora, enlatada, cozida"
+},
+"10404": {
+"it": "Zucca, in scatola, con sale",
+"fr": "Citrouille, en conserve, avec sel",
+"es": "Calabaza, en conserva, con sal",
+"de": "Kürbis, aus der Dose, mit Salz",
+"pt": "Abóbora, enlatada, com sal"
+},
+"10405": {
+"it": "Zucca, in scatola, senza sale",
+"fr": "Citrouille, en conserve, sans sel",
+"es": "Calabaza, en conserva, sin sal",
+"de": "Kürbis, aus der Dose, ohne Salz",
+"pt": "Abóbora, enlatada, sem sal"
+},
+"10406": {
+"it": "Zucca, cotta",
+"fr": "Citrouille, cuite",
+"es": "Calabaza, cocida",
+"de": "Kürbis, gekocht",
+"pt": "Abóbora, cozida"
+},
+"10407": {
+"it": "Zucca, cotta, bollita, sgocciolata, con sale",
+"fr": "Citrouille, cuite, bouillie, égouttée, avec sel",
+"es": "Calabaza, cocida, hervida, escurrida, con sal",
+"de": "Kürbis, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Abóbora, cozida, cozida em água, escorrida, com sal"
+},
+"10408": {
+"it": "Zucca, cotta, bollita, sgocciolata, senza sale",
+"fr": "Citrouille, cuite, bouillie, égouttée, sans sel",
+"es": "Calabaza, cocida, hervida, escurrida, sin sal",
+"de": "Kürbis, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Abóbora, cozida, cozida em água, escorrida, sem sal"
+},
+"10409": {
+"it": "Zucca, fiori, cotti, bolliti, sgocciolati, con sale",
+"fr": "Citrouille, fleurs, cuites, bouillies, égouttées, avec sel",
+"es": "Calabaza, flores, cocidas, hervidas, escurridas, con sal",
+"de": "Kürbis, Blüten, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Abóbora, flores, cozidas, cozidas em água, escorridas, com sal"
+},
+"10410": {
+"it": "Zucca, cruda",
+"fr": "Citrouille, crue",
+"es": "Calabaza, cruda",
+"de": "Kürbis, roh",
+"pt": "Abóbora, crua"
+},
+"10411": {
+"it": "Pupusa (tortilla salvadoregna ripiena), solo formaggio",
+"fr": "Pupusa (galette salvadorienne farcie), fromage seul",
+"es": "Pupusa (tortilla salvadoreña rellena), solo queso",
+"de": "Pupusa (gefüllter Maisfladen aus El Salvador), nur Käse",
+"pt": "Pupusa (tortilha salvadorenha recheada), apenas queijo"
+},
+"10412": {
+"it": "Pupusa (tortilla salvadoregna ripiena), carne",
+"fr": "Pupusa (galette salvadorienne farcie), viande",
+"es": "Pupusa (tortilla salvadoreña rellena), carne",
+"de": "Pupusa (gefüllter Maisfladen aus El Salvador), Fleisch",
+"pt": "Pupusa (tortilha salvadorenha recheada), carne"
+},
+"10413": {
+"it": "Pupusa (tortilla salvadoregna ripiena), carne, con fagioli",
+"fr": "Pupusa (galette salvadorienne farcie), viande, avec haricots",
+"es": "Pupusa (tortilla salvadoreña rellena), carne, con frijoles",
+"de": "Pupusa (gefüllter Maisfladen aus El Salvador), Fleisch, mit Bohnen",
+"pt": "Pupusa (tortilha salvadorenha recheada), carne, com feijão"
+},
+"10414": {
+"it": "Pupusa (tortilla salvadoregna ripiena), con fagioli",
+"fr": "Pupusa (galette salvadorienne farcie), avec haricots",
+"es": "Pupusa (tortilla salvadoreña rellena), con frijoles",
+"de": "Pupusa (gefüllter Maisfladen aus El Salvador), mit Bohnen",
+"pt": "Pupusa (tortilha salvadorenha recheada), com feijão"
+},
+"10415": {
+"it": "Portulaca, cotta, bollita, sgocciolata, con sale",
+"fr": "Pourpier, cuit, bouilli, égoutté, avec sel",
+"es": "Verdolaga, cocida, hervida, escurrida, con sal",
+"de": "Portulak, gekocht, gekocht, abgetropft, mit Salz",
+"pt": "Beldroega, cozida, cozida em água, escorrida, com sal"
+},
+"10416": {
+"it": "Portulaca, cotta, bollita, sgocciolata, senza sale",
+"fr": "Pourpier, cuit, bouilli, égoutté, sans sel",
+"es": "Verdolaga, cocida, hervida, escurrida, sin sal",
+"de": "Portulak, gekocht, gekocht, abgetropft, ohne Salz",
+"pt": "Beldroega, cozida, cozida em água, escorrida, sem sal"
+},
+"10417": {
+"it": "Portulaca, cruda",
+"fr": "Pourpier, cru",
+"es": "Verdolaga, cruda",
+"de": "Portulak, roh",
+"pt": "Beldroega, crua"
+},
+"10418": {
+"it": "Uovo di quaglia, in scatola",
+"fr": "Œuf de caille, en conserve",
+"es": "Huevo de codorniz, en conserva",
+"de": "Wachtelei, aus der Dose",
+"pt": "Ovo de codorna, enlatado"
+},
+"10419": {
+"it": "Quaglia, petto, solo carne, cruda",
+"fr": "Caille, poitrine, viande seule, crue",
+"es": "Codorniz, pechuga, solo carne, cruda",
+"de": "Wachtel, Brust, nur Fleisch, roh",
+"pt": "Codorna, peito, apenas carne, crua"
+},
+"10420": {
+"it": "Quaglia, cotta",
+"fr": "Caille, cuite",
+"es": "Codorniz, cocida",
+"de": "Wachtel, gekocht",
+"pt": "Codorna, cozida"
+},
+"10421": {
+"it": "Quaglia, cotta, totale commestibile",
+"fr": "Caille, cuite, totalité comestible",
+"es": "Codorniz, cocida, total comestible",
+"de": "Wachtel, gekocht, essbarer Anteil gesamt",
+"pt": "Codorna, cozida, total comestível"
+},
+"10422": {
+"it": "Quaglia, carne e pelle, cruda",
+"fr": "Caille, viande et peau, crue",
+"es": "Codorniz, carne y piel, cruda",
+"de": "Wachtel, Fleisch und Haut, roh",
+"pt": "Codorna, carne e pele, crua"
+},
+"10423": {
+"it": "Quaglia, solo carne, cruda",
+"fr": "Caille, viande seule, crue",
+"es": "Codorniz, solo carne, cruda",
+"de": "Wachtel, nur Fleisch, roh",
+"pt": "Codorna, apenas carne, crua"
+},
+"10424": {
+"it": "Quarter Pounder (McDonalds)",
+"fr": "Quarter Pounder (McDonalds)",
+"es": "Quarter Pounder (McDonalds)",
+"de": "Quarter Pounder (McDonalds)",
+"pt": "Quarter Pounder (McDonalds)"
+},
+"10425": {
+"it": "Quarter Pounder con formaggio (McDonalds)",
+"fr": "Quarter Pounder au fromage (McDonalds)",
+"es": "Quarter Pounder con queso (McDonalds)",
+"de": "Quarter Pounder mit Käse (McDonalds)",
+"pt": "Quarter Pounder com queijo (McDonalds)"
+},
+"10426": {
+"it": "Quesadilla, manzo o maiale",
+"fr": "Quesadilla, bœuf ou porc",
+"es": "Quesadilla, res o cerdo",
+"de": "Quesadilla, Rind oder Schwein",
+"pt": "Quesadilla, carne bovina ou suína"
+},
+"10427": {
+"it": "Quesadilla, manzo o maiale, con verdure",
+"fr": "Quesadilla, bœuf ou porc, avec légumes",
+"es": "Quesadilla, res o cerdo, con verduras",
+"de": "Quesadilla, Rind oder Schwein, mit Gemüse",
+"pt": "Quesadilla, carne bovina ou suína, com legumes"
+},
+"10428": {
+"it": "Quesadilla, solo formaggio",
+"fr": "Quesadilla, fromage seul",
+"es": "Quesadilla, solo queso",
+"de": "Quesadilla, nur Käse",
+"pt": "Quesadilla, apenas queijo"
+},
+"10429": {
+"it": "Quesadilla, pollo",
+"fr": "Quesadilla, poulet",
+"es": "Quesadilla, pollo",
+"de": "Quesadilla, Huhn",
+"pt": "Quesadilla, frango"
+}
+}

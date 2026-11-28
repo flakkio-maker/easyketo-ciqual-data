@@ -1,0 +1,1790 @@
+[
+{
+"id": "6854",
+"en": "HOUSE FOODS Premium Firm Tofu",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6855",
+"en": "HOUSE FOODS Premium Soft Tofu",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6856",
+"en": "Huckleberries, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6857",
+"en": "Huevos rancheros",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6858",
+"en": "Hummus, commercial",
+"categoria": "Legumes and Legume Products",
+"tipo": "Foundation"
+},
+{
+"id": "6859",
+"en": "Hummus, flavored",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6860",
+"en": "Hummus, home prepared",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6861",
+"en": "Hummus, plain",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6862",
+"en": "Hunan beef",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6863",
+"en": "HUNGRY MAN, Salisbury Steak With Gravy, frozen, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "6864",
+"en": "Hush puppies, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6865",
+"en": "Hush puppy",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6866",
+"en": "Hyacinth beans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6867",
+"en": "Hyacinth beans, mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6868",
+"en": "Hyacinth beans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6869",
+"en": "Hyacinth-beans, immature seeds, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6870",
+"en": "Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6871",
+"en": "Hyacinth-beans, immature seeds, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6872",
+"en": "Ice cream bar, chocolate",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6873",
+"en": "Ice cream bar, covered with chocolate and nuts",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6874",
+"en": "Ice cream bar, stick or nugget, with crunch coating",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6875",
+"en": "Ice cream bar, vanilla",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6876",
+"en": "Ice cream bar, vanilla, chocolate coated",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6877",
+"en": "Ice cream cake",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6878",
+"en": "Ice cream candy bar",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6879",
+"en": "Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6880",
+"en": "Ice cream cone, chocolate, prepackaged",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6881",
+"en": "Ice cream cone, NFS",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6882",
+"en": "Ice cream cone, scooped, chocolate",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6883",
+"en": "Ice cream cone, scooped, chocolate, waffle cone",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6884",
+"en": "Ice cream cone, scooped, vanilla",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6885",
+"en": "Ice cream cone, scooped, vanilla, waffle cone",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6886",
+"en": "Ice cream cone, soft serve, chocolate",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6887",
+"en": "Ice cream cone, soft serve, chocolate, waffle cone",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6888",
+"en": "Ice cream cone, soft serve, vanilla",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6889",
+"en": "Ice cream cone, soft serve, vanilla, waffle cone",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6890",
+"en": "Ice cream cone, vanilla, prepackaged",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6891",
+"en": "Ice cream cones, cake or wafer-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6892",
+"en": "Ice cream cones, sugar, rolled-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6893",
+"en": "Ice cream cookie sandwich",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6894",
+"en": "Ice cream sandwich",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6895",
+"en": "Ice cream sandwich, chocolate",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6896",
+"en": "Ice cream sandwich, made with light ice cream, vanilla",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6897",
+"en": "Ice cream sandwich, vanilla",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6898",
+"en": "Ice cream sandwich, vanilla, light, no sugar added",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6899",
+"en": "Ice cream soda, chocolate",
+"categoria": "Milk shakes and other dairy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6900",
+"en": "Ice cream soda, flavors other than chocolate",
+"categoria": "Milk shakes and other dairy drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6901",
+"en": "Ice cream sundae cone",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6902",
+"en": "Ice cream sundae, caramel topping",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6903",
+"en": "Ice cream sundae, fruit topping",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6904",
+"en": "Ice cream sundae, hot fudge topping",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6905",
+"en": "Ice cream sundae, NFS",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6906",
+"en": "Ice cream, bar or stick, chocolate covered",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6907",
+"en": "Ice cream, chocolate",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6908",
+"en": "Ice cream, chocolate, with additional ingredients",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6909",
+"en": "Ice cream, fried",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6910",
+"en": "Ice cream, light, soft serve, chocolate",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6911",
+"en": "Ice cream, lowfat, no sugar added, cone, added peanuts and chocolate sauce",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6912",
+"en": "Ice cream, NFS",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6913",
+"en": "Ice cream, soft serve, chocolate",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6914",
+"en": "Ice cream, soft serve, vanilla",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6915",
+"en": "Ice cream, vanilla",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6916",
+"en": "Ice cream, vanilla, with additional ingredients",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6917",
+"en": "Ice creams, BREYERS, 98% Fat Free Chocolate",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6918",
+"en": "Ice creams, BREYERS, 98% Fat Free Vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6919",
+"en": "Ice creams, BREYERS, All Natural Light French Chocolate",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6920",
+"en": "Ice creams, BREYERS, All Natural Light French Vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6921",
+"en": "Ice creams, BREYERS, All Natural Light Mint Chocolate Chip",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6922",
+"en": "Ice creams, BREYERS, All Natural Light Vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6923",
+"en": "Ice creams, BREYERS, All Natural Light Vanilla Chocolate Strawberry",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6924",
+"en": "Ice creams, BREYERS, No Sugar Added, Butter Pecan",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6925",
+"en": "Ice creams, BREYERS, No Sugar Added, Chocolate Caramel",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6926",
+"en": "Ice creams, BREYERS, No Sugar Added, French Vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6927",
+"en": "Ice creams, BREYERS, No Sugar Added, Vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6928",
+"en": "Ice creams, BREYERS, No Sugar Added, Vanilla Chocolate Strawberry",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6929",
+"en": "Ice creams, BREYERS, No Sugar Added, Vanilla Fudge Twirl",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6930",
+"en": "Ice creams, chocolate",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6931",
+"en": "Ice creams, chocolate, light",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6932",
+"en": "Ice creams, chocolate, light, no sugar added",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6933",
+"en": "Ice creams, chocolate, rich",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6934",
+"en": "Ice creams, french vanilla, soft-serve",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6935",
+"en": "Ice creams, regular, low carbohydrate, chocolate",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6936",
+"en": "Ice creams, regular, low carbohydrate, vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6937",
+"en": "Ice creams, strawberry",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6938",
+"en": "Ice creams, vanilla",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6939",
+"en": "Ice creams, vanilla, fat free",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6940",
+"en": "Ice creams, vanilla, light",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6941",
+"en": "Ice creams, vanilla, light, no sugar added",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6942",
+"en": "Ice creams, vanilla, light, soft-serve",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6943",
+"en": "Ice creams, vanilla, rich",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "6944",
+"en": "Iced Coffee, brewed",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6945",
+"en": "Iced Coffee, brewed, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6946",
+"en": "Iced Coffee, pre-lightened and pre-sweetened",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6947",
+"en": "Iced Tea / Lemonade juice drink",
+"categoria": "Tea",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6948",
+"en": "Iced Tea / Lemonade juice drink, diet",
+"categoria": "Tea",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6949",
+"en": "Iced Tea / Lemonade juice drink, light",
+"categoria": "Tea",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6950",
+"en": "Icing, chocolate",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6951",
+"en": "Icing, white",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6952",
+"en": "Idli",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6953",
+"en": "Imitation cheese",
+"categoria": "Cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6954",
+"en": "Imitation cheese, american or cheddar, low cholesterol",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "6955",
+"en": "Imitation crab meat",
+"categoria": "Fish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6956",
+"en": "Incaparina, dry mix (corn and soy flours), unprepared",
+"categoria": "Breakfast Cereals",
+"tipo": "SR Legacy"
+},
+{
+"id": "6957",
+"en": "Industrial oil as ingredient in food",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6958",
+"en": "Infant formula, ABBOTT NUTRITION, ALIMENTUM ADVANCE, with iron, powder, not reconstituted, with DHA and ARA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6959",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC NEOSURE, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6960",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6961",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, powder, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6962",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6963",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, ADVANCE, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6964",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, with iron, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6965",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6966",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6967",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6968",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6969",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6970",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, liquid concentrate",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6971",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, powder, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6972",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6973",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, liquid concentrate",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6974",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, powder, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6975",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6976",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, NEOSURE, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6977",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, PM 60/40, powder not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6978",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE (LACTOSE FREE) ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6979",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), liquid concentrate, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6980",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6981",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6982",
+"en": "Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, powder, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "6983",
+"en": "Infant formula, amino acids",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6984",
+"en": "Infant formula, Enfamil AR, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6985",
+"en": "Infant formula, Enfamil AR, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6986",
+"en": "Infant formula, Enfamil Gentlease, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6987",
+"en": "Infant formula, Enfamil Gentlease, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6988",
+"en": "Infant formula, Enfamil Gentlease, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6989",
+"en": "Infant formula, Enfamil Gentlease, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6990",
+"en": "Infant formula, Enfamil Infant, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6991",
+"en": "Infant formula, Enfamil Infant, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6992",
+"en": "Infant formula, Enfamil Infant, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6993",
+"en": "Infant formula, Enfamil Infant, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6994",
+"en": "Infant formula, Enfamil Nutramigen, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6995",
+"en": "Infant formula, Enfamil Nutramigen, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6996",
+"en": "Infant formula, Enfamil Pregestimil, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6997",
+"en": "Infant formula, Enfamil Pregestimil, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6998",
+"en": "Infant formula, Enfamil ProSobee, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6999",
+"en": "Infant formula, Enfamil ProSobee, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7000",
+"en": "Infant formula, Enfamil ProSobee, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7001",
+"en": "Infant formula, Enfamil ProSobee, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7002",
+"en": "Infant formula, Enfamil, NFS",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7003",
+"en": "Infant Formula, GERBER GOOD START 2, GENTLE PLUS, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7004",
+"en": "Infant Formula, GERBER GOOD START 2, GENTLE PLUS, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7005",
+"en": "Infant formula, Gerber Good Start Gentle, Stage 1, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7006",
+"en": "Infant formula, Gerber Good Start Gentle, Stage 1, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7007",
+"en": "Infant formula, Gerber Good Start Gentle, Stage 1, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7008",
+"en": "Infant formula, Gerber Good Start Gentle, Stage 1, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7009",
+"en": "Infant formula, Gerber Good Start Gentle, Stage 2",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7010",
+"en": "Infant formula, Gerber Good Start Soy, Stage 1, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7011",
+"en": "Infant formula, Gerber Good Start Soy, Stage 1, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7012",
+"en": "Infant formula, Gerber Good Start Soy, Stage 1, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7013",
+"en": "Infant formula, Gerber Good Start Soy, Stage 1, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7014",
+"en": "Infant formula, GERBER, GOOD START 2 SOY, with iron, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7015",
+"en": "Infant formula, GERBER, GOOD START 2 Soy, with iron, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7016",
+"en": "Infant formula, GERBER, GOOD START 2, PROTECT PLUS, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7017",
+"en": "Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7018",
+"en": "Infant formula, GERBER, GOOD START, PROTECT PLUS, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7019",
+"en": "Infant formula, GERBER, GOOD START, PROTECT PLUS, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7020",
+"en": "Infant formula, Gerber, NFS",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7021",
+"en": "Infant formula, low iron",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7022",
+"en": "Infant formula, MEAD JOHNSON, Enfamil 24, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7023",
+"en": "Infant formula, MEAD JOHNSON, Enfamil Enspire Powder, with ARA and DHA, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7024",
+"en": "Infant formula, MEAD JOHNSON, Enfamil for Supplementing, powder, with ARA and DHA, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7025",
+"en": "Infant formula, MEAD JOHNSON, Enfamil for Supplementing, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7026",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL GENTLEASE, with iron, prepared from powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7027",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL LIPIL, with iron, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7028",
+"en": "Infant formula, MEAD JOHNSON, Enfamil Premature 30 Calories, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7029",
+"en": "Infant formula, MEAD JOHNSON, Enfamil Premature High Protein 24 Calories, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7030",
+"en": "Infant formula, MEAD JOHNSON, Enfamil Reguline Powder, with ARA and DHA, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7031",
+"en": "Infant formula, MEAD JOHNSON, Enfamil Reguline, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7032",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, AR, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7033",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, AR, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7034",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, ENFACARE, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7035",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFACARE, with iron, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7036",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler transitions, with ARA and DHA, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7037",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Enfagrow, Soy, Toddler ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7038",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, Soy, Toddler transitions, with ARA and DHA, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7039",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, GENTLEASE, with ARA and DHA powder not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7040",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Infant, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7041",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Infant, with iron, liquid concentrate, with ARA and DHA, reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7042",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Infant, with iron, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7043",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, low iron, liquid concentrate, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7044",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, low iron, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7045",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Newborn, with ARA and DHA, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7046",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Newborn, with DHA and ARA, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7047",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN AA, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7048",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN WITH LGG, with iron, powder, not reconstituted, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7049",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, PurAmino, powder, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7050",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, liquid concentrate not reconstituted, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7051",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, ready-to-feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7052",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 20 calories ready-to-feed Low iron",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7053",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 24 calories ready-to-feed Low iron",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7054",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, with iron, 20 calories, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7055",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, with iron, 24 calories, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7056",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium LIPIL, Infant, Liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7057",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium LIPIL, Infant, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7058",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, Liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7059",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7060",
+"en": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7061",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, liquid concentrate, reconstituted, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7062",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, with iron, powder, not reconstituted, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7063",
+"en": "Infant formula, MEAD JOHNSON, ENFAMIL, with iron, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7064",
+"en": "Infant formula, MEAD JOHNSON, Gentlease, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7065",
+"en": "Infant formula, MEAD JOHNSON, NEXT STEP PROSOBEE, powder, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7066",
+"en": "Infant formula, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, powder, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7067",
+"en": "Infant formula, MEAD JOHNSON, NEXT STEP, PROSOBEE, LIPIL, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7068",
+"en": "Infant formula, MEAD JOHNSON, Pregestimil 20 Calories, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7069",
+"en": "Infant formula, MEAD JOHNSON, Pregestimil 24 Calories, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7070",
+"en": "Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, powder, with ARA and DHA, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7071",
+"en": "Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, with ARA and DHA, prepared from powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7072",
+"en": "Infant formula, MEAD JOHNSON, PROSOBEE, with iron, ready to feed, with ARA and DHA",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7073",
+"en": "Infant formula, MEAD JOHNSON, PROSOBEE, with iron, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7074",
+"en": "Infant formula, MEAD JOHNSON,NEXT STEP PROSOBEE, prepared from powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7075",
+"en": "Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7076",
+"en": "Infant formula, NESTLE, GOOD START SOY, with ARA and DHA, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7077",
+"en": "Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, liquid concentrate",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7078",
+"en": "Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7079",
+"en": "Infant formula, NESTLE, GOOD START SUPREME, with iron, DHA and ARA, prepared from liquid concentrate",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7080",
+"en": "Infant formula, NESTLE, GOOD START SUPREME, with iron, DHA and ARA, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7081",
+"en": "Infant formula, NESTLE, GOOD START SUPREME, with iron, liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7082",
+"en": "Infant formula, NESTLE, GOOD START SUPREME, with iron, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7083",
+"en": "Infant formula, NFS",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7084",
+"en": "Infant formula, organic, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7085",
+"en": "Infant formula, organic, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7086",
+"en": "Infant formula, PBM PRODUCTS, store brand, liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7087",
+"en": "Infant formula, PBM PRODUCTS, store brand, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7088",
+"en": "Infant formula, PBM PRODUCTS, store brand, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7089",
+"en": "Infant formula, PBM PRODUCTS, store brand, soy, liquid concentrate, not reconstituted",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7090",
+"en": "Infant formula, PBM PRODUCTS, store brand, soy, powder",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7091",
+"en": "Infant formula, PBM PRODUCTS, store brand, soy, ready-to-feed",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "7092",
+"en": "Infant formula, premature, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7093",
+"en": "Infant formula, premature, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7094",
+"en": "Infant formula, Similac Advance, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7095",
+"en": "Infant formula, Similac Advance, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7096",
+"en": "Infant formula, Similac Advance, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7097",
+"en": "Infant formula, Similac Advance, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7098",
+"en": "Infant formula, Similac Alimentum, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7099",
+"en": "Infant formula, Similac Alimentum, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7100",
+"en": "Infant formula, Similac for Diarrhea",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7101",
+"en": "Infant formula, Similac for Spit-Up, powder, made with water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7102",
+"en": "Infant formula, Similac for Spit-Up, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7103",
+"en": "Infant formula, Similac Isomil Soy, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7104",
+"en": "Infant formula, Similac Isomil Soy, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7105",
+"en": "Infant formula, Similac Isomil Soy, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7106",
+"en": "Infant formula, Similac Isomil Soy, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7107",
+"en": "Infant formula, Similac Sensitive, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7108",
+"en": "Infant formula, Similac Sensitive, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7109",
+"en": "Infant formula, Similac Sensitive, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7110",
+"en": "Infant formula, Similac Sensitive, ready-to-feed",
+"categoria": "Formula, ready-to-feed",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7111",
+"en": "Infant formula, Similac, NFS",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7112",
+"en": "Infant formula, store brand, added rice",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7113",
+"en": "Infant formula, store brand, advantage or tender, powder, made with baby water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7114",
+"en": "Infant formula, store brand, advantage or tender, powder, made with bottled water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7115",
+"en": "Infant formula, store brand, advantage or tender, powder, made with tap water",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7116",
+"en": "Infant formula, store brand, gentle or sensitivity",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7117",
+"en": "Infant formula, store brand, soy",
+"categoria": "Formula, prepared from powder",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7118",
+"en": "Injera, Ethiopian bread",
+"categoria": "Yeast breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7119",
+"en": "Interstate Brands Corp, Wonder Hamburger Rolls",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "7120",
+"en": "Italian dressing, fat free",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7121",
+"en": "Italian dressing, light",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7122",
+"en": "Italian dressing, made with vinegar and oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7123",
+"en": "Italian Ice",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7124",
+"en": "Italian Ice, no sugar added",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7125",
+"en": "Italian sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7126",
+"en": "Italian sandwich on white",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7127",
+"en": "Italian sandwich or sub, restaurant",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7128",
+"en": "Italian sausage",
+"categoria": "Sausages",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7129",
+"en": "Italian sausage sandwich on wheat",
+"categoria": "Deli and cured meat sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7130",
+"en": "Italian sausage sandwich on white",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7131",
+"en": "Jackfruit, canned, syrup pack",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7132",
+"en": "Jackfruit, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7133",
+"en": "Jagerbomb",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7134",
+"en": "Jai, Monk's Food",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7135",
+"en": "Jam",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7136",
+"en": "Jam or jelly, fruit juice sweetened",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7137",
+"en": "Jam or jelly, NFS",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7138",
+"en": "Jam or jelly, reduced sugar",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7139",
+"en": "Jam or jelly, sugar free",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7140",
+"en": "Jambalaya with meat and rice",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7141",
+"en": "Jams and preserves",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7142",
+"en": "Jams and preserves, apricot",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7143",
+"en": "Jams and preserves, no sugar (with sodium saccharin), any flavor",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7144",
+"en": "Jams, preserves, marmalade, reduced sugar",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7145",
+"en": "Jams, preserves, marmalades, sweetened with fruit juice",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7146",
+"en": "Java-plum, (jambolan), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "7147",
+"en": "Jellies",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7148",
+"en": "Jellies, no sugar (with sodium saccharin), any flavors",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7149",
+"en": "Jellies, reduced sugar, home preserved",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "7150",
+"en": "Jelly",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7151",
+"en": "Jelly sandwich, NFS",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+}
+]

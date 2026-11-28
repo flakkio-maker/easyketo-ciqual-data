@@ -1,0 +1,1790 @@
+[
+{
+"id": "11324",
+"en": "SILK Plain, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11325",
+"en": "SILK Plus Fiber, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11326",
+"en": "SILK Plus for Bone Health, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11327",
+"en": "SILK Plus Omega-3 DHA, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11328",
+"en": "SILK Raspberry soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11329",
+"en": "SILK Strawberry soy yogurt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11330",
+"en": "SILK Unsweetened, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11331",
+"en": "SILK Vanilla soy yogurt (family size)",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11332",
+"en": "SILK Vanilla soy yogurt (single serving size)",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11333",
+"en": "SILK Vanilla, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11334",
+"en": "SILK Very Vanilla, soymilk",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "11335",
+"en": "Simple syrup",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11336",
+"en": "Singapore Sling",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11337",
+"en": "Sloe gin fizz",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11338",
+"en": "Sloppy joe sandwich, on wheat bun",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11339",
+"en": "Sloppy joe sandwich, on white bun",
+"categoria": "Meat and BBQ sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11340",
+"en": "Sloppy joe, no bun",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11341",
+"en": "Slush frozen drink",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11342",
+"en": "Slush frozen drink, no sugar added",
+"categoria": "Other diet drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11343",
+"en": "SMART SOUP, French Lentil",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11344",
+"en": "SMART SOUP, Greek Minestrone",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11345",
+"en": "SMART SOUP, Indian Bean Masala",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11346",
+"en": "SMART SOUP, Moroccan Chick Pea",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11347",
+"en": "SMART SOUP, Santa Fe Corn Chowder",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11348",
+"en": "SMART SOUP, Thai Coconut Curry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11349",
+"en": "SMART SOUP, Vietnamese Carrot Lemongrass",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11350",
+"en": "Smelt, dried (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11351",
+"en": "Snack bar, oatmeal",
+"categoria": "Cereal bars",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11352",
+"en": "Snack cake, chocolate",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11353",
+"en": "Snack cake, white",
+"categoria": "Cakes and pies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11354",
+"en": "Snack mix",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11355",
+"en": "Snack mix, plain (Chex Mix)",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11356",
+"en": "Snack, BALANCE, original bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11357",
+"en": "Snack, Mixed Berry Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11358",
+"en": "Snack, potato chips, made from dried potatoes, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11359",
+"en": "Snack, Pretzel, hard chocolate coated",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11360",
+"en": "Snacks, bagel chips, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11361",
+"en": "Snacks, banana chips",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11362",
+"en": "Snacks, beef jerky, chopped and formed",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11363",
+"en": "Snacks, beef sticks, smoked",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11364",
+"en": "Snacks, brown rice chips",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11365",
+"en": "Snacks, candy bits, yogurt covered with vitamin C",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11366",
+"en": "Snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin C",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11367",
+"en": "Snacks, CLIF BAR, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11368",
+"en": "Snacks, corn cakes",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11369",
+"en": "Snacks, corn cakes, very low sodium",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11370",
+"en": "Snacks, corn-based, extruded, chips, barbecue-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11371",
+"en": "Snacks, corn-based, extruded, chips, barbecue-flavor, made with enriched masa flour",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11372",
+"en": "Snacks, corn-based, extruded, chips, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11373",
+"en": "Snacks, corn-based, extruded, chips, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11374",
+"en": "Snacks, corn-based, extruded, cones, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11375",
+"en": "Snacks, corn-based, extruded, onion-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11376",
+"en": "Snacks, corn-based, extruded, puffs or twists, cheese-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11377",
+"en": "Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11378",
+"en": "Snacks, cornnuts, barbecue-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11379",
+"en": "Snacks, crisped rice bar, almond",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11380",
+"en": "Snacks, crisped rice bar, chocolate chip",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11381",
+"en": "Snacks, FARLEY CANDY, FARLEY Fruit Snacks, with vitamins A, C, and E",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11382",
+"en": "Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, Harvest Cheddar flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11383",
+"en": "Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, original flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11384",
+"en": "Snacks, FRITOLAY, SUNCHIPS, multigrain, French onion flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11385",
+"en": "Snacks, fruit leather, pieces",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "11386",
+"en": "Snacks, fruit leather, pieces, with vitamin C",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11387",
+"en": "Snacks, fruit leather, rolls",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "11388",
+"en": "Snacks, GENERAL MILLS, BETTY CROCKER Fruit Roll Ups, berry flavored, with vitamin C",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11389",
+"en": "Snacks, granola bar, chewy, reduced sugar, all flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11390",
+"en": "Snacks, granola bar, fruit-filled, nonfat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11391",
+"en": "Snacks, granola bar, GENERAL MILLS NATURE VALLEY, SWEET&SALTY NUT, peanut",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11392",
+"en": "Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, CHEWY TRAIL MIX",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11393",
+"en": "Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, with yogurt coating",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11394",
+"en": "Snacks, granola bar, KASHI GOLEAN, chewy, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11395",
+"en": "Snacks, granola bar, KASHI GOLEAN, crunchy, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11396",
+"en": "Snacks, granola bar, KASHI TLC Bar, chewy, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11397",
+"en": "Snacks, granola bar, KASHI TLC Bar, crunchy, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11398",
+"en": "Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11399",
+"en": "Snacks, granola bar, QUAKER, DIPPS, all flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11400",
+"en": "Snacks, granola bar, with coconut, chocolate coated",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11401",
+"en": "Snacks, granola bars, hard, almond",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11402",
+"en": "Snacks, granola bars, hard, chocolate chip",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11403",
+"en": "Snacks, granola bars, hard, peanut butter",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11404",
+"en": "Snacks, granola bars, hard, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11405",
+"en": "Snacks, granola bars, QUAKER OATMEAL TO GO, all flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11406",
+"en": "Snacks, granola bars, soft, almond, confectioners coating",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11407",
+"en": "Snacks, granola bars, soft, coated, milk chocolate coating, chocolate chip",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11408",
+"en": "Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11409",
+"en": "Snacks, granola bars, soft, uncoated, chocolate chip",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11410",
+"en": "Snacks, granola bars, soft, uncoated, chocolate chip, graham and marshmallow",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11411",
+"en": "Snacks, granola bars, soft, uncoated, nut and raisin",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11412",
+"en": "Snacks, granola bars, soft, uncoated, peanut butter",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11413",
+"en": "Snacks, granola bars, soft, uncoated, peanut butter and chocolate chip",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11414",
+"en": "Snacks, granola bars, soft, uncoated, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11415",
+"en": "Snacks, granola bars, soft, uncoated, raisin",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11416",
+"en": "Snacks, granola bites, mixed flavors",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11417",
+"en": "Snacks, KELLOGG, KELLOGG'S Low Fat Granola Bar, Crunchy Almond/Brown Sugar",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11418",
+"en": "Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Squares",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11419",
+"en": "Snacks, KELLOGG, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11420",
+"en": "Snacks, KRAFT, CORNNUTS, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11421",
+"en": "Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11422",
+"en": "Snacks, M&M MARS, KUDOS Whole Grain Bar, chocolate chip",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11423",
+"en": "Snacks, M&M MARS, KUDOS Whole Grain Bar, M&M's milk chocolate",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11424",
+"en": "Snacks, M&M MARS, KUDOS Whole Grain Bars, peanut butter",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11425",
+"en": "Snacks, NUTRI-GRAIN FRUIT AND NUT BAR",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11426",
+"en": "Snacks, oriental mix, rice-based",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11427",
+"en": "Snacks, peas, roasted, wasabi-flavored",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11428",
+"en": "Snacks, pita chips, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11429",
+"en": "Snacks, plantain chips, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11430",
+"en": "Snacks, popcorn, air-popped",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11431",
+"en": "Snacks, popcorn, air-popped (Unsalted)",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11432",
+"en": "Snacks, popcorn, cakes",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11433",
+"en": "Snacks, popcorn, caramel-coated, with peanuts",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11434",
+"en": "Snacks, popcorn, caramel-coated, without peanuts",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11435",
+"en": "Snacks, popcorn, cheese-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11436",
+"en": "Snacks, popcorn, home-prepared, oil-popped, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11437",
+"en": "Snacks, popcorn, microwave, 94% fat free",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11438",
+"en": "Snacks, popcorn, microwave, low fat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11439",
+"en": "Snacks, popcorn, microwave, regular (butter) flavor, made with partially hydrogenated oil",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11440",
+"en": "Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11441",
+"en": "Snacks, popcorn, oil-popped, white popcorn, salt added",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11442",
+"en": "Snacks, pork skins, barbecue-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11443",
+"en": "Snacks, pork skins, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11444",
+"en": "Snacks, potato chips, barbecue-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11445",
+"en": "Snacks, potato chips, cheese-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11446",
+"en": "Snacks, potato chips, fat free, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11447",
+"en": "Snacks, potato chips, fat-free, made with olestra",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11448",
+"en": "Snacks, potato chips, lightly salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11449",
+"en": "Snacks, potato chips, made from dried potatoes (preformed), multigrain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11450",
+"en": "Snacks, potato chips, made from dried potatoes, cheese-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11451",
+"en": "Snacks, potato chips, made from dried potatoes, fat-free, made with olestra",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11452",
+"en": "Snacks, potato chips, made from dried potatoes, reduced fat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11453",
+"en": "Snacks, potato chips, made from dried potatoes, sour-cream and onion-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11454",
+"en": "Snacks, potato chips, plain, made with partially hydrogenated soybean oil, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11455",
+"en": "Snacks, potato chips, plain, made with partially hydrogenated soybean oil, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11456",
+"en": "Snacks, potato chips, plain, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11457",
+"en": "Snacks, potato chips, plain, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11458",
+"en": "Snacks, potato chips, reduced fat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11459",
+"en": "Snacks, potato chips, sour-cream-and-onion-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11460",
+"en": "Snacks, potato chips, white, restructured, baked",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11461",
+"en": "Snacks, potato sticks",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11462",
+"en": "Snacks, Pretzels, gluten- free made with cornstarch and potato flour",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11463",
+"en": "Snacks, pretzels, hard, confectioner's coating, chocolate-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11464",
+"en": "Snacks, pretzels, hard, plain, made with enriched flour, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11465",
+"en": "Snacks, pretzels, hard, plain, made with unenriched flour, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11466",
+"en": "Snacks, pretzels, hard, plain, made with unenriched flour, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11467",
+"en": "Snacks, pretzels, hard, plain, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11468",
+"en": "Snacks, pretzels, hard, whole-wheat including both salted and unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11469",
+"en": "Snacks, rice cakes, brown rice, buckwheat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11470",
+"en": "Snacks, rice cakes, brown rice, buckwheat, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11471",
+"en": "Snacks, rice cakes, brown rice, corn",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11472",
+"en": "Snacks, rice cakes, brown rice, multigrain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11473",
+"en": "Snacks, rice cakes, brown rice, multigrain, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11474",
+"en": "Snacks, rice cakes, brown rice, plain, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11475",
+"en": "Snacks, rice cakes, brown rice, rye",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11476",
+"en": "Snacks, rice cakes, brown rice, sesame seed",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11477",
+"en": "Snacks, rice cakes, brown rice, sesame seed, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11478",
+"en": "Snacks, rice cracker brown rice, plain",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11479",
+"en": "Snacks, sesame sticks, wheat-based, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11480",
+"en": "Snacks, sesame sticks, wheat-based, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11481",
+"en": "Snacks, shrimp cracker",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11482",
+"en": "Snacks, soy chips or crisps, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11483",
+"en": "Snacks, SUNKIST, SUNKIST Fruit Roll, strawberry, with vitamins A, C, and E",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11484",
+"en": "Snacks, sweet potato chips, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11485",
+"en": "Snacks, taro chips",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11486",
+"en": "Snacks, tortilla chips, light (baked with less oil)",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11487",
+"en": "Snacks, tortilla chips, low fat, made with olestra, nacho cheese",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11488",
+"en": "Snacks, tortilla chips, low fat, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11489",
+"en": "Snacks, tortilla chips, nacho cheese",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11490",
+"en": "Snacks, tortilla chips, nacho-flavor, made with enriched masa flour",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11491",
+"en": "Snacks, tortilla chips, nacho-flavor, reduced fat",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11492",
+"en": "Snacks, tortilla chips, plain, white corn, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11493",
+"en": "Snacks, tortilla chips, ranch-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11494",
+"en": "Snacks, tortilla chips, taco-flavor",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11495",
+"en": "Snacks, tortilla chips, unsalted, white corn",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11496",
+"en": "Snacks, trail mix, regular",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11497",
+"en": "Snacks, trail mix, regular, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11498",
+"en": "Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11499",
+"en": "Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11500",
+"en": "Snacks, trail mix, tropical",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11501",
+"en": "Snacks, vegetable chips, HAIN CELESTIAL GROUP, TERRA CHIPS",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11502",
+"en": "Snacks, vegetable chips, made from garden vegetables",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11503",
+"en": "Snacks, yucca (cassava) chips, salted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "11504",
+"en": "Snapper, frozen, wild caught",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "11505",
+"en": "Snow cone",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11506",
+"en": "Snow cone, no sugar added",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11507",
+"en": "Snow crab, legs only, frozen",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "11508",
+"en": "Snowpeas, fresh, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11509",
+"en": "Snowpeas, fresh, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11510",
+"en": "Snowpeas, frozen, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11511",
+"en": "Snowpeas, frozen, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11512",
+"en": "Snowpeas, NS as to form, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11513",
+"en": "Snowpeas, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11514",
+"en": "Soft drink, chocolate flavored",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11515",
+"en": "Soft drink, chocolate flavored, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11516",
+"en": "Soft drink, cola",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11517",
+"en": "Soft drink, cola, chocolate flavored",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11518",
+"en": "Soft drink, cola, chocolate flavored, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11519",
+"en": "Soft drink, cola, decaffeinated",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11520",
+"en": "Soft drink, cola, decaffeinated, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11521",
+"en": "Soft drink, cola, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11522",
+"en": "Soft drink, cola, fruit or vanilla flavored",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11523",
+"en": "Soft drink, cola, fruit or vanilla flavored, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11524",
+"en": "Soft drink, cream soda",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11525",
+"en": "Soft drink, cream soda, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11526",
+"en": "Soft drink, fruit flavored, caffeine containing",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11527",
+"en": "Soft drink, fruit flavored, caffeine containing, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11528",
+"en": "Soft drink, fruit flavored, caffeine free",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11529",
+"en": "Soft drink, fruit flavored, diet, caffeine free",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11530",
+"en": "Soft drink, ginger ale",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11531",
+"en": "Soft drink, ginger ale, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11532",
+"en": "Soft drink, NFS",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11533",
+"en": "Soft drink, NFS, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11534",
+"en": "Soft drink, pepper type",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11535",
+"en": "Soft drink, pepper type, decaffeinated",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11536",
+"en": "Soft drink, pepper type, decaffeinated, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11537",
+"en": "Soft drink, pepper type, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11538",
+"en": "Soft drink, root beer",
+"categoria": "Soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11539",
+"en": "Soft drink, root beer, diet",
+"categoria": "Diet soft drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11540",
+"en": "Soft serve, blended with candy or cookies, from fast food",
+"categoria": "Ice cream and frozen dairy desserts",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11541",
+"en": "Sopaipilla with syrup or honey",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11542",
+"en": "Sopaipilla, without syrup or honey",
+"categoria": "Doughnuts, sweet rolls, pastries",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11543",
+"en": "Sorbet",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11544",
+"en": "Sorghum bran, white, unenriched, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11545",
+"en": "Sorghum flour, refined, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11546",
+"en": "Sorghum flour, white, pearled, unenriched, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11547",
+"en": "Sorghum flour, whole-grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11548",
+"en": "Sorghum grain",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "11549",
+"en": "Sorghum grain, white, pearled, unenriched, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11550",
+"en": "Sorghum, flour, pre-gelatinized",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11551",
+"en": "Sorghum, flour, pre-gelatinized, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11552",
+"en": "Sorghum, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11553",
+"en": "Sorghum, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11554",
+"en": "Sorghum, whole grain, white, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "11555",
+"en": "Soup, barley",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11556",
+"en": "Soup, bean",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11557",
+"en": "Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11558",
+"en": "Soup, bean with bacon, condensed, single brand",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11559",
+"en": "Soup, bean with frankfurters, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11560",
+"en": "Soup, bean with frankfurters, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11561",
+"en": "Soup, bean with ham, canned, chunky, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11562",
+"en": "Soup, bean with pork, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11563",
+"en": "Soup, bean with pork, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11564",
+"en": "Soup, bean, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11565",
+"en": "Soup, bean, canned, reduced sodium",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11566",
+"en": "Soup, bean, with meat",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11567",
+"en": "Soup, beef",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11568",
+"en": "Soup, beef and mushroom, low sodium, chunk style",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11569",
+"en": "Soup, beef and vegetables, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11570",
+"en": "Soup, beef and vegetables, reduced sodium, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11571",
+"en": "Soup, beef barley, ready to serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11572",
+"en": "Soup, beef broth bouillon and consomme, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11573",
+"en": "Soup, beef broth or bouillon canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11574",
+"en": "Soup, beef broth or bouillon, powder, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11575",
+"en": "Soup, beef broth or bouillon, powder, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11576",
+"en": "Soup, beef broth, bouillon, consomme, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11577",
+"en": "Soup, beef broth, cubed, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11578",
+"en": "Soup, beef broth, cubed, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11579",
+"en": "Soup, beef broth, less/reduced sodium, ready to serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11580",
+"en": "Soup, beef mushroom, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11581",
+"en": "Soup, beef mushroom, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11582",
+"en": "Soup, beef noodle, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11583",
+"en": "Soup, beef noodle, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11584",
+"en": "Soup, beef stroganoff, canned, chunky style, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11585",
+"en": "Soup, beef, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11586",
+"en": "Soup, bisque",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11587",
+"en": "Soup, black bean, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11588",
+"en": "Soup, black bean, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11589",
+"en": "Soup, borscht",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11590",
+"en": "Soup, bouillabaisse",
+"categoria": "Seafood mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11591",
+"en": "Soup, bouillon cubes and granules, low sodium, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11592",
+"en": "Soup, broccoli cheese",
+"categoria": "Soups, cream-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11593",
+"en": "Soup, broccoli cheese, canned, condensed, commercial",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11594",
+"en": "Soup, broth",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11595",
+"en": "Soup, cheese, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11596",
+"en": "Soup, cheese, canned, prepared with equal volume milk",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11597",
+"en": "Soup, cheese, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11598",
+"en": "Soup, chicken",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11599",
+"en": "Soup, chicken and vegetable, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11600",
+"en": "Soup, chicken broth cubes, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11601",
+"en": "Soup, chicken broth cubes, dry, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11602",
+"en": "Soup, chicken broth or bouillon, dry",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11603",
+"en": "Soup, chicken broth or bouillon, dry, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11604",
+"en": "Soup, chicken broth, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11605",
+"en": "Soup, chicken broth, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11606",
+"en": "Soup, chicken broth, less/reduced sodium, ready to serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11607",
+"en": "Soup, chicken broth, low sodium, canned",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11608",
+"en": "Soup, chicken broth, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11609",
+"en": "Soup, chicken corn chowder, chunky, ready-to-serve, single brand",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11610",
+"en": "Soup, chicken gumbo, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11611",
+"en": "Soup, chicken gumbo, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11612",
+"en": "Soup, chicken mushroom, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11613",
+"en": "Soup, chicken mushroom, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11614",
+"en": "Soup, chicken noodle",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11615",
+"en": "Soup, chicken noodle, canned",
+"categoria": "Soups, broth-based",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "11616",
+"en": "Soup, chicken noodle, canned, condensed",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11617",
+"en": "Soup, chicken noodle, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11618",
+"en": "Soup, chicken noodle, dry, mix",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11619",
+"en": "Soup, chicken noodle, dry, mix, prepared with water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11620",
+"en": "Soup, chicken noodle, low sodium, canned, prepared with equal volume water",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "11621",
+"en": "Soup, chicken noodle, reduced sodium, canned, ready-to-serve",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+}
+]

@@ -8,7 +8,7 @@ matchato uno per uno contro CIQUAL/CREA con un matcher testuale a soglia di
 confidenza (nessun uso di IA/Gemini per il matching), e i grammi sono
 sempre quantità reali dichiarate (mai stimate).
 
-## Fonti combinate (446 ricette al 26 agosto 2026)
+## Fonti combinate (446 ricette al 26 agosto 2026 (443 dopo le correzioni del 27 novembre 2026))
 
 | Fonte (`fonte`) | N. ricette | Licenza | Note |
 |---|---|---|---|
@@ -83,3 +83,59 @@ scritte singolarmente (`ricette_reali.py`, `ricette_reali2.py`,
 (`tipo_pasto`/`cucina`/`tipo_dieta`/`prompt_immagine`) applicato in fase
 di merge finale. Dettaglio delle decisioni prese in `DECISIONI.md` nel
 repo principale, blocco "Ricette — scoperta".
+
+## Portoghese brasiliano (27 novembre 2026)
+
+Tutte le 444 ricette hanno `nome_pt`, `procedimento_pt` (stesso numero di passi dell'originale) e `nome_pt` su ogni
+ingrediente. Traduzione da inglese (fonte principale) e italiano da 18 agenti in parallelo (lotti da 25 ricette), con
+controllo automatico di ingredienti/passi e dei numeri. **Correzione (27 novembre 2026)**: la prima versione era stata
+tradotta dall'inglese e conservava le unita' americane; 86 passi in 64 ricette sono stati rifatti partendo dall'italiano,
+che ha gia' unita' metriche (g, litri, cm) e doppia temperatura "190°C (375°F)": ora il portoghese ha gli stessi numeri
+dell'italiano in ogni passo (controllato su tutti i 2.431 passi). **Prima versione non rivista da un madrelingua.** Fonte delle traduzioni: `ricette_traduzioni_pt.json`; si applicano con
+`python3 -I unisci_traduzioni_ricette_pt.py ricette_scoperta.json ricette_traduzioni_pt.json`.
+
+## Correzioni del 27 novembre 2026
+
+Ricette con ingredienti che non corrispondevano al titolo, corrette con `correzioni_ricette_20261127.py` (macro per porzione
+ricalcolati dai database CIQUAL/CREA; verifica: lo stesso calcolo riproduce esattamente i valori precedenti; tag dieta non toccati):
+
+| Ricetta | Problema | Correzione |
+|---|---|---|
+| 333 Manzo brasato alla birra | nessuna birra | +200 g di birra chiara (CREA), brodo da 300 a 100 g, passo 5 in 6 lingue |
+| 337 Sgombro alla griglia | l'ingrediente era salmone | sgombro (CREA "Sgombro o maccarello") |
+| 266 Sgombro al limone | salmone + nota "in sostituzione" | sgombro, nota tolta |
+| 254 Petto di tacchino con funghi | petto di pollo | fesa di tacchino (CREA), passi aggiornati |
+| 265 Fesa di tacchino con spinaci | pollo + nota "in sostituzione" | fesa di tacchino, nota tolta |
+| 204 Milky Way Shine Treatment | trattamento per capelli, non cibo | rimossa dal catalogo (443 ricette) |
+
+Altre verifiche fatte sul catalogo: titolo vs ingredienti (parole chiave di proteine, verdure, formaggi, ecc.) e nome
+ingrediente vs voce del database per le ricette originali: nessun'altra incoerenza di sostanza. Nota residua: in diverse
+ricette il campo `nome` degli ingredienti e' in italiano (ricette originali); le traduzioni EN/FR/ES/DE di questi
+ingredienti mancano (vedi DECISIONI.md dell'app).
+
+## Nomi ingrediente in tutte le lingue (27 novembre 2026)
+
+Prima solo 5 ingredienti su 2.141 avevano `nome_en/fr/es/de` (le altre lingue ripiegavano sul nome originale: inglese per
+le ricette Food.com, italiano per le ricette originali). Ora tutti gli ingredienti hanno `nome_en`, `nome_fr`, `nome_es`,
+`nome_de` (e `nome_pt`): 520 nomi italiani unici tradotti da 5 agenti, applicati a tutti gli ingredienti che li usano.
+Fonte: `ingredienti_traduzioni.json` (chiave = `nome_it`); script `unisci_traduzioni_ingredienti.py` (non sovrascrive i
+campi gia' presenti). Frammenti rotti dell'originale ("potatoes, and") sono stati resi come ingrediente sensato; le
+quantita' tra parentesi nei nomi sono state tolte nelle traduzioni. Prima versione non rivista da un madrelingua.
+
+
+
+## Traduzioni portoghese brasiliano (28 novembre 2026)
+
+Il branch contiene `ricette_traduzioni_pt.json` con 443 traduzioni PT-BR, una per ciascuna ricetta attualmente presente dopo le correzioni del 27 novembre. Ogni voce contiene nome, lista degli ingredienti tradotti e procedimento.
+
+Lo script `unisci_traduzioni_ricette_pt.py`:
+- abbina le traduzioni tramite ID ricetta;
+- verifica che il numero di ingredienti tradotti corrisponda agli ingredienti originali;
+- verifica che il numero di passaggi tradotti corrisponda al procedimento di riferimento;
+- aggiunge `nome_pt`, `procedimento_pt` e `nome_pt` agli ingredienti.
+
+Controllo strutturale eseguito il 28 novembre 2026: 443 chiavi; nessun nome mancante; nessun array ingredienti mancante; nessuna stringa vuota in ingredienti o passaggi; nessun newline nelle stringhe. Questo non sostituisce la revisione linguistica da parte di un madrelingua PT-BR.
+
+**Integrazione app ancora necessaria:** il branch `main` di Ketorbit non contiene ancora i campi PT nel DTO di `RicetteScopertaDownloadWorker`, nel modello `RicettaScoperta` e nella relativa entity Room. Le traduzioni non saranno visibili nell'app finché il codice applicativo non verrà aggiornato e rilasciato.
+
+PT-BR è una localizzazione dei contenuti alimentari e delle ricette; non introduce una nuova lingua dell'interfaccia. Il fallback inglese e le cinque lingue UI attuali restano invariati.

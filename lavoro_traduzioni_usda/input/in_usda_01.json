@@ -1,0 +1,1790 @@
+[
+{
+"id": "0",
+"en": "Abalone",
+"categoria": "Shellfish",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "1",
+"en": "Abiyuch, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "2",
+"en": "Acerola juice, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "3",
+"en": "Acerola, (west indian cherry), raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "4",
+"en": "Acorn stew (Apache)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "5",
+"en": "Adobo, with noodles",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "6",
+"en": "Adobo, with rice",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "7",
+"en": "Agave liquid sweetener",
+"categoria": "Sugars and honey",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "8",
+"en": "Agave, cooked (Southwest)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "9",
+"en": "Agave, dried (Southwest)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10",
+"en": "Agave, raw (Southwest)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "11",
+"en": "Agutuk, fish with shortening (Alaskan ice cream) (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "12",
+"en": "Agutuk, fish/berry with seal oil (Alaskan ice cream) (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13",
+"en": "Agutuk, meat-caribou (Alaskan ice cream) (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "14",
+"en": "Alaska Pollock, raw",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "15",
+"en": "Alcoholic beverage, beer, light",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "16",
+"en": "Alcoholic beverage, beer, light, BUD LIGHT",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "17",
+"en": "Alcoholic beverage, beer, light, BUDWEISER SELECT",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "18",
+"en": "Alcoholic beverage, beer, light, higher alcohol",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "19",
+"en": "Alcoholic beverage, beer, light, low carb",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "20",
+"en": "Alcoholic beverage, beer, regular, all",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "21",
+"en": "Alcoholic beverage, beer, regular, BUDWEISER",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "22",
+"en": "Alcoholic beverage, creme de menthe, 72 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "23",
+"en": "Alcoholic beverage, daiquiri, canned",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "24",
+"en": "Alcoholic beverage, daiquiri, prepared-from-recipe",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "25",
+"en": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 100 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "26",
+"en": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "27",
+"en": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "28",
+"en": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 90 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "29",
+"en": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 94 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "30",
+"en": "Alcoholic beverage, distilled, rum, 80 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "31",
+"en": "Alcoholic beverage, distilled, vodka, 80 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "32",
+"en": "Alcoholic beverage, distilled, whiskey, 86 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "33",
+"en": "Alcoholic beverage, liqueur, coffee with cream, 34 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "34",
+"en": "Alcoholic beverage, liqueur, coffee, 53 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "35",
+"en": "Alcoholic beverage, liqueur, coffee, 63 proof",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "36",
+"en": "Alcoholic beverage, malt beer, hard lemonade",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "37",
+"en": "Alcoholic beverage, pina colada, canned",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "38",
+"en": "Alcoholic beverage, pina colada, prepared-from-recipe",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "39",
+"en": "Alcoholic beverage, rice (sake)",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "40",
+"en": "Alcoholic beverage, tequila sunrise, canned",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "41",
+"en": "Alcoholic beverage, whiskey sour",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "42",
+"en": "Alcoholic beverage, whiskey sour, canned",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "43",
+"en": "Alcoholic beverage, whiskey sour, prepared from item 14028",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "44",
+"en": "Alcoholic beverage, whiskey sour, prepared with water, whiskey and powder mix",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "45",
+"en": "Alcoholic beverage, wine, cooking",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "46",
+"en": "Alcoholic beverage, wine, dessert, dry",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "47",
+"en": "Alcoholic beverage, wine, dessert, sweet",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "48",
+"en": "Alcoholic beverage, wine, light",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "49",
+"en": "Alcoholic beverage, wine, table, all",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "50",
+"en": "Alcoholic beverage, wine, table, red",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "51",
+"en": "Alcoholic Beverage, wine, table, red, Barbera",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "52",
+"en": "Alcoholic Beverage, wine, table, red, Burgundy",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "53",
+"en": "Alcoholic Beverage, wine, table, red, Cabernet Franc",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "54",
+"en": "Alcoholic Beverage, wine, table, red, Cabernet Sauvignon",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "55",
+"en": "Alcoholic Beverage, wine, table, red, Carignane",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "56",
+"en": "Alcoholic Beverage, wine, table, red, Claret",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "57",
+"en": "Alcoholic Beverage, wine, table, red, Gamay",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "58",
+"en": "Alcoholic Beverage, wine, table, red, Lemberger",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "59",
+"en": "Alcoholic Beverage, wine, table, red, Merlot",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "60",
+"en": "Alcoholic Beverage, wine, table, red, Mouvedre",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "61",
+"en": "Alcoholic Beverage, wine, table, red, Petite Sirah",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "62",
+"en": "Alcoholic Beverage, wine, table, red, Pinot Noir",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "63",
+"en": "Alcoholic Beverage, wine, table, red, Sangiovese",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "64",
+"en": "Alcoholic Beverage, wine, table, red, Syrah",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "65",
+"en": "Alcoholic Beverage, wine, table, red, Zinfandel",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "66",
+"en": "Alcoholic beverage, wine, table, white",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "67",
+"en": "Alcoholic beverage, wine, table, white, Chardonnay",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "68",
+"en": "Alcoholic beverage, wine, table, white, Chenin Blanc",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "69",
+"en": "Alcoholic beverage, wine, table, white, Fume Blanc",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "70",
+"en": "Alcoholic beverage, wine, table, white, Gewurztraminer",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "71",
+"en": "Alcoholic beverage, wine, table, white, late harvest",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "72",
+"en": "Alcoholic beverage, wine, table, white, late harvest, Gewurztraminer",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "73",
+"en": "Alcoholic beverage, wine, table, white, Muller Thurgau",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "74",
+"en": "Alcoholic beverage, wine, table, white, Muscat",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "75",
+"en": "Alcoholic beverage, wine, table, white, Pinot Blanc",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "76",
+"en": "Alcoholic beverage, wine, table, white, Pinot Gris (Grigio)",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "77",
+"en": "Alcoholic beverage, wine, table, white, Riesling",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "78",
+"en": "Alcoholic beverage, wine, table, white, Sauvignon Blanc",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "79",
+"en": "Alcoholic beverage, wine, table, white, Semillon",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "80",
+"en": "Alcoholic beverages, beer, higher alcohol",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "81",
+"en": "Alcoholic beverages, wine, rose",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "82",
+"en": "Alcoholic coffee drink",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "83",
+"en": "Alcoholic malt beverage",
+"categoria": "Beer",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "84",
+"en": "Alcoholic malt beverage, sweetened",
+"categoria": "Beer",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "85",
+"en": "Alfalfa seeds, sprouted, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "86",
+"en": "Alfalfa sprouts, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "87",
+"en": "Alfredo sauce",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "88",
+"en": "Alfredo sauce with added vegetables",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "89",
+"en": "Alfredo sauce with meat",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "90",
+"en": "Alfredo sauce with meat and added vegetables",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "91",
+"en": "Alfredo sauce with poultry",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "92",
+"en": "Alfredo sauce with poultry and added vegetables",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "93",
+"en": "Alfredo sauce with seafood",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "94",
+"en": "Alfredo sauce with seafood and added vegetables",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "95",
+"en": "Almond butter",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "96",
+"en": "Almond butter and jelly sandwich, on wheat bread",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "97",
+"en": "Almond butter and jelly sandwich, on white bread",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "98",
+"en": "Almond butter sandwich, on wheat bread",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "99",
+"en": "Almond butter sandwich, on white bread",
+"categoria": "Peanut butter and jelly sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "100",
+"en": "Almond butter, creamy",
+"categoria": "Nut and Seed Products",
+"tipo": "Foundation"
+},
+{
+"id": "101",
+"en": "Almond butter, lower sodium",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "102",
+"en": "Almond chicken",
+"categoria": "Stir-fry and soy-based sauce mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "103",
+"en": "Almond milk, chocolate",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "104",
+"en": "Almond milk, NFS",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "105",
+"en": "Almond milk, sweetened",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "106",
+"en": "Almond milk, unsweetened",
+"categoria": "Plant-based milk",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "107",
+"en": "Almond milk, unsweetened, plain, refrigerated",
+"categoria": "Beverages",
+"tipo": "Foundation"
+},
+{
+"id": "108",
+"en": "Almond milk, unsweetened, plain, shelf stable",
+"categoria": "Beverages",
+"tipo": "Foundation"
+},
+{
+"id": "109",
+"en": "Almond oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "110",
+"en": "Almond paste",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "111",
+"en": "Almonds, chocolate covered candy",
+"categoria": "Candy containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "112",
+"en": "Almonds, flavored",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "113",
+"en": "Almonds, honey roasted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "114",
+"en": "Almonds, lightly salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "115",
+"en": "Almonds, NFS",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "116",
+"en": "Almonds, salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "117",
+"en": "Almonds, unroasted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "118",
+"en": "Almonds, unsalted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "119",
+"en": "Aloe vera juice drink",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "120",
+"en": "Amaranth grain, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "121",
+"en": "Amaranth grain, uncooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "122",
+"en": "Amaranth leaves, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "123",
+"en": "Amaranth leaves, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "124",
+"en": "Amaranth leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "125",
+"en": "Amaranth, flour, pre-gelatinized, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "126",
+"en": "Amaranth, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "127",
+"en": "Ambrosia",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "128",
+"en": "Anchovies, canned in olive oil, with salt, drained",
+"categoria": "Finfish and Shellfish Products",
+"tipo": "Foundation"
+},
+{
+"id": "129",
+"en": "Andrea's, Gluten Free Soft Dinner Roll",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "130",
+"en": "Animal fat or drippings",
+"categoria": "Butter and animal fats",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "131",
+"en": "Animal fat, bacon grease",
+"categoria": "Fats and Oils",
+"tipo": "SR Legacy"
+},
+{
+"id": "132",
+"en": "Anisette toast",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "133",
+"en": "Antipasto with ham, fish, cheese, vegetables",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "134",
+"en": "Apple cider",
+"categoria": "Apple juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "135",
+"en": "Apple juice beverage, 40-50% juice, light",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "136",
+"en": "Apple juice, 100%",
+"categoria": "Apple juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "137",
+"en": "Apple juice, 100%, with calcium added",
+"categoria": "Apple juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "138",
+"en": "Apple juice, canned or bottled, unsweetened, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "139",
+"en": "Apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "140",
+"en": "Apple juice, canned or bottled, unsweetened, without added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "141",
+"en": "Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "142",
+"en": "Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "143",
+"en": "Apple juice, frozen concentrate, unsweetened, undiluted, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "144",
+"en": "Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "145",
+"en": "Apple juice, with added vitamin C, from concentrate, shelf stable",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "146",
+"en": "Apple pie filling",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "147",
+"en": "Apple salad with dressing",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "148",
+"en": "Apple, baked",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "149",
+"en": "Apple, candied",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "150",
+"en": "Apple, dried",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "151",
+"en": "Apple, raw",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "152",
+"en": "APPLEBEE'S, 9 oz house sirloin steak",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "153",
+"en": "APPLEBEE'S, chicken tenders platter",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "154",
+"en": "APPLEBEE'S, chicken tenders, from kids' menu",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "155",
+"en": "APPLEBEE'S, chili",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "156",
+"en": "APPLEBEE'S, coleslaw",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "157",
+"en": "APPLEBEE'S, crunchy onion rings",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "158",
+"en": "APPLEBEE'S, Double Crunch Shrimp",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "159",
+"en": "APPLEBEE'S, fish, hand battered",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "160",
+"en": "APPLEBEE'S, french fries",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "161",
+"en": "APPLEBEE'S, KRAFT, Macaroni & Cheese, from kid's menu",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "162",
+"en": "APPLEBEE'S, mozzarella sticks",
+"categoria": "Restaurant Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "163",
+"en": "Apples, canned, sweetened, sliced, drained, heated",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "164",
+"en": "Apples, dehydrated (low moisture), sulfured, stewed",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "165",
+"en": "Apples, dehydrated (low moisture), sulfured, uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "166",
+"en": "Apples, dried, sulfured, stewed, with added sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "167",
+"en": "Apples, dried, sulfured, stewed, without added sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "168",
+"en": "Apples, dried, sulfured, uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "169",
+"en": "Apples, frozen, unsweetened, heated (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "170",
+"en": "Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "171",
+"en": "Apples, fuji, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "172",
+"en": "Apples, gala, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "173",
+"en": "Apples, granny smith, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "174",
+"en": "Apples, honeycrisp, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "175",
+"en": "Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "176",
+"en": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "177",
+"en": "Apples, raw, golden delicious, with skin",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "178",
+"en": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "179",
+"en": "Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "180",
+"en": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "181",
+"en": "Apples, raw, without skin",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "182",
+"en": "Apples, raw, without skin, cooked, boiled",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "183",
+"en": "Apples, raw, without skin, cooked, microwave",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "184",
+"en": "Apples, red delicious, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "185",
+"en": "Applesauce, canned, sweetened, with salt",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "186",
+"en": "Applesauce, canned, sweetened, without salt",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "187",
+"en": "Applesauce, canned, unsweetened, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "188",
+"en": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "189",
+"en": "Applesauce, flavored",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "190",
+"en": "Applesauce, regular",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "191",
+"en": "Applesauce, unsweetened",
+"categoria": "Apples",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "192",
+"en": "Applesauce, unsweetened, with added vitamin C",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "193",
+"en": "Apricot nectar",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "194",
+"en": "Apricot nectar, canned, with added ascorbic acid",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "195",
+"en": "Apricot, canned",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "196",
+"en": "Apricot, dried",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "197",
+"en": "Apricot, raw",
+"categoria": "Other fruits and fruit salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "198",
+"en": "Apricot, with skin, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "199",
+"en": "Apricots, canned, extra heavy syrup pack, without skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "200",
+"en": "Apricots, canned, extra light syrup pack, with skin, solids and liquids (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "201",
+"en": "Apricots, canned, heavy syrup pack, with skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "202",
+"en": "Apricots, canned, heavy syrup pack, without skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "203",
+"en": "Apricots, canned, heavy syrup, drained",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "204",
+"en": "Apricots, canned, juice pack, with skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "205",
+"en": "Apricots, canned, light syrup pack, with skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "206",
+"en": "Apricots, canned, water pack, with skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "207",
+"en": "Apricots, canned, water pack, without skin, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "208",
+"en": "Apricots, dehydrated (low-moisture), sulfured, stewed",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "209",
+"en": "Apricots, dehydrated (low-moisture), sulfured, uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "210",
+"en": "Apricots, dried, sulfured, stewed, with added sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "211",
+"en": "Apricots, dried, sulfured, stewed, without added sugar",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "212",
+"en": "Apricots, dried, sulfured, uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "213",
+"en": "Apricots, frozen, sweetened",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "214",
+"en": "Apricots, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "215",
+"en": "ARBY'S, roast beef sandwich, classic",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "216",
+"en": "Archway Home Style Cookies, Chocolate Chip Ice Box",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "217",
+"en": "Archway Home Style Cookies, Coconut Macaroon",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "218",
+"en": "Archway Home Style Cookies, Date Filled Oatmeal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "219",
+"en": "Archway Home Style Cookies, Dutch Cocoa",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "220",
+"en": "Archway Home Style Cookies, Frosty Lemon",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "221",
+"en": "Archway Home Style Cookies, Iced Molasses",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "222",
+"en": "Archway Home Style Cookies, Iced Oatmeal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "223",
+"en": "Archway Home Style Cookies, Molasses",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "224",
+"en": "Archway Home Style Cookies, Oatmeal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "225",
+"en": "Archway Home Style Cookies, Oatmeal Raisin",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "226",
+"en": "Archway Home Style Cookies, Old Fashioned Molasses",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "227",
+"en": "Archway Home Style Cookies, Old Fashioned Windmill Cookies",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "228",
+"en": "Archway Home Style Cookies, Peanut Butter",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "229",
+"en": "Archway Home Style Cookies, Raspberry Filled",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "230",
+"en": "Archway Home Style Cookies, Reduced Fat Ginger Snaps",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "231",
+"en": "Archway Home Style Cookies, Strawberry Filled",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "232",
+"en": "Archway Home Style Cookies, Sugar Free Oatmeal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "233",
+"en": "Arepa Dominicana",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "234",
+"en": "Armadillo",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "235",
+"en": "Arrowhead, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "236",
+"en": "Arrowhead, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "237",
+"en": "Arrowhead, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "238",
+"en": "Arrowroot flour",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "239",
+"en": "Arrowroot, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "240",
+"en": "Artichoke",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "241",
+"en": "Artichoke dip",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "242",
+"en": "Artichokes, (globe or french), cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "243",
+"en": "Artichokes, (globe or french), cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "244",
+"en": "Artichokes, (globe or french), frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "245",
+"en": "Artichokes, (globe or french), frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "246",
+"en": "Artichokes, (globe or french), frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "247",
+"en": "Artichokes, (globe or french), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "248",
+"en": "Artichokes, stuffed",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "249",
+"en": "Artificial Blueberry Muffin Mix, dry",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "250",
+"en": "Arugula, baby, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "251",
+"en": "Arugula, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "252",
+"en": "Ascidians (tunughnak) (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "253",
+"en": "Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey, lettuce, fruit, nuts, crispy noodles, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "254",
+"en": "Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing",
+"categoria": "Poultry mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "255",
+"en": "Asian stir fry vegetables, cooked, fat added",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "256",
+"en": "Asian stir fry vegetables, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "257",
+"en": "Asparagus, canned, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "258",
+"en": "Asparagus, canned, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "259",
+"en": "Asparagus, canned, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "260",
+"en": "Asparagus, canned, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "261",
+"en": "Asparagus, canned, drained solids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "262",
+"en": "Asparagus, canned, no salt added, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "263",
+"en": "Asparagus, canned, regular pack, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "264",
+"en": "Asparagus, cooked, boiled, drained",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "265",
+"en": "Asparagus, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "266",
+"en": "Asparagus, fresh, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "267",
+"en": "Asparagus, fresh, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "268",
+"en": "Asparagus, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "269",
+"en": "Asparagus, fresh, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "270",
+"en": "Asparagus, frozen, cooked with butter or margarine",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "271",
+"en": "Asparagus, frozen, cooked with oil",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "272",
+"en": "Asparagus, frozen, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "273",
+"en": "Asparagus, frozen, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "274",
+"en": "Asparagus, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "275",
+"en": "Asparagus, frozen, cooked, no added fat",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "276",
+"en": "Asparagus, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "277",
+"en": "Asparagus, green, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "278",
+"en": "Asparagus, NS as to form, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "279",
+"en": "Asparagus, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "280",
+"en": "Atole",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "281",
+"en": "Atole de avena",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "282",
+"en": "Atole de chocolate",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "283",
+"en": "Avocado dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "284",
+"en": "Avocado, for use on a sandwich",
+"categoria": "Vegetables on a sandwich",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "285",
+"en": "Avocado, Hass, peeled, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "286",
+"en": "Avocado, raw",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "287",
+"en": "Avocados, raw, all commercial varieties",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "288",
+"en": "Avocados, raw, California",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "289",
+"en": "Avocados, raw, Florida",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "290",
+"en": "Baby Toddler apples, Stage 1",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "291",
+"en": "Baby Toddler apples, Stage 2",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "292",
+"en": "Baby Toddler bananas, Stage 1",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "293",
+"en": "Baby Toddler bananas, Stage 2",
+"categoria": "Baby food: fruit",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "294",
+"en": "Baby Toddler bar",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "295",
+"en": "Baby Toddler beef",
+"categoria": "Baby food: meat and dinners",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "296",
+"en": "Baby Toddler beets",
+"categoria": "Baby food: vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "297",
+"en": "Baby Toddler biscuit",
+"categoria": "Baby food: snacks and sweets",
+"tipo": "Survey (FNDDS)"
+}
+]

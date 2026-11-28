@@ -1,0 +1,1790 @@
+[
+{
+"id": "4470",
+"en": "Coffee, instant, pre-lightened and pre-sweetened with sugar, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4471",
+"en": "Coffee, instant, pre-lightened and pre-sweetened with sugar, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4472",
+"en": "Coffee, instant, pre-sweetened with sugar, not reconstituted",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4473",
+"en": "Coffee, instant, pre-sweetened with sugar, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4474",
+"en": "Coffee, instant, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4475",
+"en": "Coffee, Latte",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4476",
+"en": "Coffee, Latte, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4477",
+"en": "Coffee, Latte, decaffeinated, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4478",
+"en": "Coffee, Latte, decaffeinated, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4479",
+"en": "Coffee, Latte, decaffeinated, nonfat, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4480",
+"en": "Coffee, Latte, decaffeinated, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4481",
+"en": "Coffee, Latte, decaffeinated, with non-dairy milk, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4482",
+"en": "Coffee, Latte, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4483",
+"en": "Coffee, Latte, nonfat",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4484",
+"en": "Coffee, Latte, nonfat, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4485",
+"en": "Coffee, Latte, with non-dairy milk",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4486",
+"en": "Coffee, Latte, with non-dairy milk, flavored",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4487",
+"en": "Coffee, macchiato",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4488",
+"en": "Coffee, macchiato, sweetened",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4489",
+"en": "Coffee, mocha, instant, pre-lightened and pre-sweetened with low calorie sweetener, reconstituted",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4490",
+"en": "Coffee, NS as to brewed or instant",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4491",
+"en": "Coffee, NS as to brewed or instant, decaffeinated",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4492",
+"en": "Coffee, NS as to type",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4493",
+"en": "Coffee, pre-lightened",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4494",
+"en": "Coffee, pre-lightened and pre-sweetened with low calorie sweetener",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4495",
+"en": "Coffee, pre-lightened and pre-sweetened with sugar",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4496",
+"en": "Coffee, pre-sweetened with low calorie sweetener",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4497",
+"en": "Coffee, pre-sweetened with sugar",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4498",
+"en": "Coffee, Turkish",
+"categoria": "Coffee",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4499",
+"en": "Coleslaw",
+"categoria": "Coleslaw, non-lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4500",
+"en": "Coleslaw dressing",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4501",
+"en": "Coleslaw, fast food / restaurant",
+"categoria": "Coleslaw, non-lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4502",
+"en": "Coleslaw, with fruit",
+"categoria": "Coleslaw, non-lettuce salads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4503",
+"en": "Collards, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4504",
+"en": "Collards, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4505",
+"en": "Collards, fresh, cooked with butter or margarine",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4506",
+"en": "Collards, fresh, cooked with oil",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4507",
+"en": "Collards, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4508",
+"en": "Collards, fresh, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4509",
+"en": "Collards, frozen, chopped, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4510",
+"en": "Collards, frozen, chopped, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4511",
+"en": "Collards, frozen, chopped, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4512",
+"en": "Collards, frozen, cooked with butter or margarine",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4513",
+"en": "Collards, frozen, cooked with oil",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4514",
+"en": "Collards, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4515",
+"en": "Collards, frozen, cooked, no added fat",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4516",
+"en": "Collards, NS as to form, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4517",
+"en": "Collards, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "4518",
+"en": "Congee",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4519",
+"en": "Congee, with egg",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4520",
+"en": "Congee, with meat, poultry, and/or seafood",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4521",
+"en": "Congee, with meat, poultry, and/or seafood, and vegetables",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4522",
+"en": "Congee, with vegetables",
+"categoria": "Rice mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4523",
+"en": "Continental Mills, Krusteaz Almond Poppyseed Muffin Mix, Artificially Flavored, dry",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4524",
+"en": "Cookie bar, with chocolate, nuts, and graham crackers",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4525",
+"en": "Cookie, almond",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4526",
+"en": "Cookie, animal",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4527",
+"en": "Cookie, animal, with frosting or icing",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4528",
+"en": "Cookie, applesauce",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4529",
+"en": "Cookie, bar, with chocolate",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4530",
+"en": "Cookie, batter or dough, raw",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4531",
+"en": "Cookie, biscotti",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4532",
+"en": "Cookie, brownie, NS as to icing",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4533",
+"en": "Cookie, brownie, reduced fat, NS as to icing",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4534",
+"en": "Cookie, brownie, with icing or filling",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4535",
+"en": "Cookie, brownie, without icing",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4536",
+"en": "Cookie, butter or sugar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4537",
+"en": "Cookie, butter or sugar, with chocolate icing or filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4538",
+"en": "Cookie, butter or sugar, with fruit and/or nuts",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4539",
+"en": "Cookie, butter or sugar, with icing or filling other than chocolate",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4540",
+"en": "Cookie, butterscotch, brownie",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4541",
+"en": "Cookie, chocolate and vanilla sandwich",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4542",
+"en": "Cookie, chocolate chip",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4543",
+"en": "Cookie, chocolate chip sandwich",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4544",
+"en": "Cookie, chocolate chip, made from home recipe or purchased at a bakery",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4545",
+"en": "Cookie, chocolate chip, reduced fat",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4546",
+"en": "Cookie, chocolate chip, reduced sugar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4547",
+"en": "Cookie, chocolate or fudge",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4548",
+"en": "Cookie, chocolate sandwich",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4549",
+"en": "Cookie, chocolate sandwich, reduced fat",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4550",
+"en": "Cookie, chocolate wafer",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4551",
+"en": "Cookie, chocolate, made with oatmeal and coconut, no bake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4552",
+"en": "Cookie, chocolate, made with rice cereal",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4553",
+"en": "Cookie, chocolate, sandwich, with extra filling",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4554",
+"en": "Cookie, chocolate, with icing or coating",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4555",
+"en": "Cookie, coconut",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4556",
+"en": "Cookie, cone shell, ice cream type, wafer or cake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4557",
+"en": "Cookie, fig bar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4558",
+"en": "Cookie, fortune",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4559",
+"en": "Cookie, fruit-filled bar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4560",
+"en": "Cookie, gingersnaps",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4561",
+"en": "Cookie, gluten free",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4562",
+"en": "Cookie, graham cracker with chocolate and marshmallow",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4563",
+"en": "Cookie, granola",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4564",
+"en": "Cookie, ladyfinger",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4565",
+"en": "Cookie, Lebkuchen",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4566",
+"en": "Cookie, lemon bar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4567",
+"en": "Cookie, macaroon",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4568",
+"en": "Cookie, marshmallow and peanut butter, with oat cereal, no bake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4569",
+"en": "Cookie, marshmallow pie, chocolate covered",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4570",
+"en": "Cookie, marshmallow, chocolate-covered",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4571",
+"en": "Cookie, marshmallow, with coconut",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4572",
+"en": "Cookie, marshmallow, with rice cereal and chocolate chips",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4573",
+"en": "Cookie, marshmallow, with rice cereal, no bake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4574",
+"en": "Cookie, meringue",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4575",
+"en": "Cookie, molasses",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4576",
+"en": "Cookie, multigrain, high fiber",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4577",
+"en": "Cookie, NFS",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4578",
+"en": "Cookie, oatmeal",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4579",
+"en": "Cookie, oatmeal sandwich, with creme filling",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4580",
+"en": "Cookie, oatmeal sandwich, with peanut butter and jelly filling",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4581",
+"en": "Cookie, oatmeal, reduced fat, NS as to raisins",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4582",
+"en": "Cookie, oatmeal, reduced sugar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4583",
+"en": "Cookie, oatmeal, with chocolate and peanut butter, no bake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4584",
+"en": "Cookie, oatmeal, with chocolate chips",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4585",
+"en": "Cookie, oatmeal, with raisins",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4586",
+"en": "Cookie, peanut butter",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4587",
+"en": "Cookie, peanut butter sandwich",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4588",
+"en": "Cookie, peanut butter with rice cereal, no bake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4589",
+"en": "Cookie, peanut butter, sugar free",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4590",
+"en": "Cookie, peanut butter, with chocolate",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4591",
+"en": "Cookie, Pfeffernusse",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4592",
+"en": "Cookie, Pizzelle",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4593",
+"en": "Cookie, pumpkin",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4594",
+"en": "Cookie, raisin",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4595",
+"en": "Cookie, raisin sandwich, cream-filled",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4596",
+"en": "Cookie, rugelach",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4597",
+"en": "Cookie, rum ball, no bake",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4598",
+"en": "Cookie, sandwich, reduced sugar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4599",
+"en": "Cookie, sandwich-type, not chocolate or vanilla",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4600",
+"en": "Cookie, shortbread",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4601",
+"en": "Cookie, shortbread, reduced fat",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4602",
+"en": "Cookie, shortbread, with icing or filling",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4603",
+"en": "Cookie, sugar or plain, sugar free",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4604",
+"en": "Cookie, sugar wafer",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4605",
+"en": "Cookie, sugar wafer, chocolate-covered",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4606",
+"en": "Cookie, sugar wafer, sugar free",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4607",
+"en": "Cookie, tea, Japanese",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4608",
+"en": "Cookie, toffee bar",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4609",
+"en": "Cookie, vanilla sandwich",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4610",
+"en": "Cookie, vanilla sandwich, extra filling",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4611",
+"en": "Cookie, vanilla sandwich, reduced fat",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4612",
+"en": "Cookie, vanilla wafer",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4613",
+"en": "Cookie, vanilla wafer, reduced fat",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4614",
+"en": "Cookie, vanilla with caramel, coconut, and chocolate coating",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4615",
+"en": "Cookie, with peanut butter filling, chocolate-coated",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4616",
+"en": "Cookies, animal crackers (includes arrowroot, tea biscuits)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4617",
+"en": "Cookies, animal, with frosting or icing",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4618",
+"en": "Cookies, brownies, commercially prepared",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4619",
+"en": "Cookies, brownies, commercially prepared, reduced fat, with added fiber",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4620",
+"en": "Cookies, brownies, dry mix, regular",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4621",
+"en": "Cookies, brownies, dry mix, sugar free",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4622",
+"en": "Cookies, brownies, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4623",
+"en": "Cookies, butter, commercially prepared, enriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4624",
+"en": "Cookies, butter, commercially prepared, unenriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4625",
+"en": "Cookies, chocolate chip sandwich, with creme filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4626",
+"en": "Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4627",
+"en": "Cookies, chocolate chip, commercially prepared, regular, higher fat, unenriched",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4628",
+"en": "Cookies, chocolate chip, commercially prepared, regular, lower fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4629",
+"en": "Cookies, chocolate chip, commercially prepared, soft-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4630",
+"en": "Cookies, chocolate chip, commercially prepared, special dietary",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4631",
+"en": "Cookies, chocolate chip, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4632",
+"en": "Cookies, chocolate chip, prepared from recipe, made with butter",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4633",
+"en": "Cookies, chocolate chip, prepared from recipe, made with margarine",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4634",
+"en": "Cookies, chocolate chip, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4635",
+"en": "Cookies, chocolate chip, refrigerated dough, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4636",
+"en": "Cookies, chocolate cream covered biscuit sticks",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4637",
+"en": "Cookies, chocolate sandwich, with creme filling, reduced fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4638",
+"en": "Cookies, chocolate sandwich, with creme filling, regular",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4639",
+"en": "Cookies, chocolate sandwich, with creme filling, regular, chocolate-coated",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4640",
+"en": "Cookies, chocolate sandwich, with creme filling, special dietary",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4641",
+"en": "Cookies, chocolate sandwich, with extra creme filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4642",
+"en": "Cookies, chocolate wafers",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4643",
+"en": "Cookies, chocolate, made with rice cereal",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4644",
+"en": "Cookies, coconut macaroon",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4645",
+"en": "Cookies, fig bars",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4646",
+"en": "Cookies, fortune",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4647",
+"en": "Cookies, fudge, cake-type (includes trolley cakes)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4648",
+"en": "Cookies, gingersnaps",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4649",
+"en": "Cookies, gluten-free, chocolate sandwich, with creme filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4650",
+"en": "Cookies, gluten-free, chocolate wafer",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4651",
+"en": "Cookies, gluten-free, lemon wafer",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4652",
+"en": "Cookies, gluten-free, vanilla sandwich, with creme filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4653",
+"en": "Cookies, graham crackers, chocolate-coated",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4654",
+"en": "Cookies, graham crackers, plain or honey (includes cinnamon)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4655",
+"en": "Cookies, graham crackers, plain or honey, lowfat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4656",
+"en": "Cookies, ladyfingers, with lemon juice and rind",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4657",
+"en": "Cookies, ladyfingers, without lemon juice and rind",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4658",
+"en": "Cookies, Marie biscuit",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4659",
+"en": "Cookies, marshmallow, chocolate-coated (includes marshmallow pies)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4660",
+"en": "Cookies, marshmallow, with rice cereal and chocolate chips",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4661",
+"en": "Cookies, molasses",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4662",
+"en": "Cookies, oatmeal sandwich, with creme filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4663",
+"en": "Cookies, oatmeal, commercially prepared, regular",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4664",
+"en": "Cookies, oatmeal, commercially prepared, soft-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4665",
+"en": "Cookies, oatmeal, commercially prepared, special dietary",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4666",
+"en": "Cookies, oatmeal, dry mix",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4667",
+"en": "Cookies, oatmeal, prepared from recipe, without raisins",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4668",
+"en": "Cookies, oatmeal, reduced fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4669",
+"en": "Cookies, oatmeal, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4670",
+"en": "Cookies, oatmeal, refrigerated dough, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4671",
+"en": "Cookies, oatmeal, soft, with raisins",
+"categoria": "Baked Products",
+"tipo": "Foundation"
+},
+{
+"id": "4672",
+"en": "Cookies, oatmeal, with raisins",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4673",
+"en": "Cookies, peanut butter sandwich, regular",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4674",
+"en": "Cookies, peanut butter sandwich, special dietary",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4675",
+"en": "Cookies, peanut butter, commercially prepared, regular",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4676",
+"en": "Cookies, peanut butter, commercially prepared, soft-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4677",
+"en": "Cookies, peanut butter, commercially prepared, sugar free",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4678",
+"en": "Cookies, peanut butter, prepared from recipe",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4679",
+"en": "Cookies, peanut butter, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4680",
+"en": "Cookies, peanut butter, refrigerated dough, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4681",
+"en": "Cookies, Puerto Rican style",
+"categoria": "Cookies and brownies",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4682",
+"en": "Cookies, raisin, soft-type",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4683",
+"en": "Cookies, shortbread, commercially prepared, pecan",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4684",
+"en": "Cookies, shortbread, commercially prepared, plain",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4685",
+"en": "Cookies, shortbread, reduced fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4686",
+"en": "Cookies, sugar wafer, chocolate-covered",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4687",
+"en": "Cookies, sugar wafer, with creme filling, sugar free",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4688",
+"en": "Cookies, sugar wafers with creme filling, regular",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4689",
+"en": "Cookies, sugar, commercially prepared, regular (includes vanilla)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4690",
+"en": "Cookies, sugar, refrigerated dough",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4691",
+"en": "Cookies, sugar, refrigerated dough, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4692",
+"en": "Cookies, vanilla sandwich with creme filling",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4693",
+"en": "Cookies, vanilla sandwich with creme filling, reduced fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4694",
+"en": "Cookies, vanilla wafers, higher fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4695",
+"en": "Cookies, vanilla wafers, lower fat",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4696",
+"en": "Coriander (cilantro) leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4697",
+"en": "Corn beverage",
+"categoria": "Smoothies and grain drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4698",
+"en": "Corn bran, crude",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4699",
+"en": "Corn chips, flavored",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4700",
+"en": "Corn chips, flavored (Fritos)",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4701",
+"en": "Corn chips, plain",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4702",
+"en": "Corn chips, plain (Fritos)",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4703",
+"en": "Corn chips, reduced sodium",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4704",
+"en": "Corn dog",
+"categoria": "Frankfurter sandwiches",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4705",
+"en": "Corn dogs, frozen, prepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "4706",
+"en": "Corn flour patty or tart, fried",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4707",
+"en": "Corn flour, masa harina, white or yellow, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "4708",
+"en": "Corn flour, masa, enriched, white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4709",
+"en": "Corn flour, masa, unenriched, white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4710",
+"en": "Corn flour, whole-grain, blue (harina de maiz morado)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4711",
+"en": "Corn flour, whole-grain, white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4712",
+"en": "Corn flour, whole-grain, yellow",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4713",
+"en": "Corn flour, yellow, degermed, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4714",
+"en": "Corn flour, yellow, masa, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4715",
+"en": "Corn grain, white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4716",
+"en": "Corn grain, yellow",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "4717",
+"en": "Corn nuts",
+"categoria": "Tortilla, corn, other chips",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4718",
+"en": "Corn oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4719",
+"en": "Corn pone, baked",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4720",
+"en": "Corn pone, fried",
+"categoria": "Biscuits, muffins, quick breads",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4721",
+"en": "Corn pudding, home prepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4722",
+"en": "Corn syrup",
+"categoria": "Jams, syrups, toppings",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4723",
+"en": "Corn with red and green peppers, canned, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4724",
+"en": "Corn, canned, cooked with butter or margarine",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4725",
+"en": "Corn, canned, cooked with oil",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4726",
+"en": "Corn, canned, cooked, fat added, NS as to fat type",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4727",
+"en": "Corn, canned, cooked, no added fat",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4728",
+"en": "Corn, canned, reduced sodium, cooked with butter or margarine",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4729",
+"en": "Corn, canned, reduced sodium, cooked with oil",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4730",
+"en": "Corn, canned, reduced sodium, cooked, fat added, NS as to fat type",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4731",
+"en": "Corn, canned, reduced sodium, cooked, no added fat",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4732",
+"en": "Corn, cooked, from restaurant",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4733",
+"en": "Corn, creamed",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4734",
+"en": "Corn, dried (Navajo)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4735",
+"en": "Corn, dried, yellow (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "4736",
+"en": "Corn, flour, pre-gelatinized",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "4737",
+"en": "Corn, fresh, cooked with butter or margarine",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4738",
+"en": "Corn, fresh, cooked with oil",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4739",
+"en": "Corn, fresh, cooked, fat added, NS as to fat type",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4740",
+"en": "Corn, fresh, cooked, no added fat",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4741",
+"en": "Corn, frozen, cooked with butter or margarine",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4742",
+"en": "Corn, frozen, cooked with oil",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4743",
+"en": "Corn, frozen, cooked, fat added, NS as to fat type",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4744",
+"en": "Corn, frozen, cooked, no added fat",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4745",
+"en": "Corn, NS as to form, cooked",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4746",
+"en": "Corn, raw",
+"categoria": "Corn",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4747",
+"en": "Corn, scalloped or pudding",
+"categoria": "Vegetable dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "4748",
+"en": "Corn, sweet, white, canned, cream style, no salt added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4749",
+"en": "Corn, sweet, white, canned, cream style, regular pack",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4750",
+"en": "Corn, sweet, white, canned, vacuum pack, no salt added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4751",
+"en": "Corn, sweet, white, canned, vacuum pack, regular pack",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4752",
+"en": "Corn, sweet, white, canned, whole kernel, drained solids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4753",
+"en": "Corn, sweet, white, canned, whole kernel, no salt added, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4754",
+"en": "Corn, sweet, white, canned, whole kernel, regular pack, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4755",
+"en": "Corn, sweet, white, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4756",
+"en": "Corn, sweet, white, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4757",
+"en": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4758",
+"en": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4759",
+"en": "Corn, sweet, white, frozen, kernels cut off cob, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4760",
+"en": "Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4761",
+"en": "Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4762",
+"en": "Corn, sweet, white, frozen, kernels on cob, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4763",
+"en": "Corn, sweet, white, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4764",
+"en": "Corn, sweet, yellow and white kernels, fresh, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "4765",
+"en": "Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4766",
+"en": "Corn, sweet, yellow, canned, cream style, no salt added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "4767",
+"en": "Corn, sweet, yellow, canned, cream style, regular pack",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+}
+]

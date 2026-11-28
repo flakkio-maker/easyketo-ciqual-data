@@ -1,0 +1,1790 @@
+[
+{
+"id": "10132",
+"en": "Potato, mashed, from dry mix, made with milk, with gravy",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10133",
+"en": "Potato, mashed, from dry mix, NFS",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10134",
+"en": "Potato, mashed, from fast food",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10135",
+"en": "Potato, mashed, from fast food, with gravy",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10136",
+"en": "Potato, mashed, from fresh, made with milk",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10137",
+"en": "Potato, mashed, from fresh, made with milk, with cheese",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10138",
+"en": "Potato, mashed, from fresh, made with milk, with gravy",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10139",
+"en": "Potato, mashed, from fresh, NFS",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10140",
+"en": "Potato, mashed, from restaurant",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10141",
+"en": "Potato, mashed, from restaurant, with gravy",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10142",
+"en": "Potato, mashed, from school lunch",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10143",
+"en": "Potato, mashed, NFS",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10144",
+"en": "Potato, mashed, ready-to-heat",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10145",
+"en": "Potato, mashed, ready-to-heat, NFS",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10146",
+"en": "Potato, mashed, ready-to-heat, with cheese",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10147",
+"en": "Potato, mashed, ready-to-heat, with gravy",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10148",
+"en": "Potato, NFS",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10149",
+"en": "Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10150",
+"en": "Potato, roasted, from fresh, peel eaten, made with butter",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10151",
+"en": "Potato, roasted, from fresh, peel eaten, made with margarine",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10152",
+"en": "Potato, roasted, from fresh, peel eaten, made with oil",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10153",
+"en": "Potato, roasted, from fresh, peel eaten, no added fat",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10154",
+"en": "Potato, roasted, from fresh, peel eaten, NS as to fat",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10155",
+"en": "Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10156",
+"en": "Potato, roasted, from fresh, peel not eaten, made with butter",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10157",
+"en": "Potato, roasted, from fresh, peel not eaten, made with margarine",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10158",
+"en": "Potato, roasted, from fresh, peel not eaten, made with oil",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10159",
+"en": "Potato, roasted, from fresh, peel not eaten, no added fat",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10160",
+"en": "Potato, roasted, from fresh, peel not eaten, NS as to fat",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10161",
+"en": "Potato, roasted, NFS",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10162",
+"en": "Potato, roasted, ready-to-heat",
+"categoria": "White potatoes, baked or boiled",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10163",
+"en": "Potato, scalloped, from dry mix",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10164",
+"en": "Potato, scalloped, from dry mix, with meat",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10165",
+"en": "Potato, scalloped, from fast food or restaurant",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10166",
+"en": "Potato, scalloped, from fresh",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10167",
+"en": "Potato, scalloped, from fresh, with meat",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10168",
+"en": "Potato, scalloped, NFS",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10169",
+"en": "Potato, scalloped, ready-to-heat",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10170",
+"en": "Potato, scalloped, ready-to-heat, with meat",
+"categoria": "Mashed potatoes and white potato mixtures",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10171",
+"en": "Potatoes, au gratin, dry mix, prepared with water, whole milk and butter",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10172",
+"en": "Potatoes, au gratin, dry mix, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10173",
+"en": "Potatoes, au gratin, home-prepared from recipe using butter",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10174",
+"en": "Potatoes, au gratin, home-prepared from recipe using margarine",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10175",
+"en": "Potatoes, baked, flesh and skin, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10176",
+"en": "Potatoes, baked, flesh and skin, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10177",
+"en": "Potatoes, baked, flesh, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10178",
+"en": "Potatoes, baked, flesh, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10179",
+"en": "Potatoes, baked, skin only, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10180",
+"en": "Potatoes, baked, skin, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10181",
+"en": "Potatoes, boiled, cooked in skin, flesh, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10182",
+"en": "Potatoes, boiled, cooked in skin, flesh, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10183",
+"en": "Potatoes, boiled, cooked in skin, skin, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10184",
+"en": "Potatoes, boiled, cooked in skin, skin, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10185",
+"en": "Potatoes, boiled, cooked without skin, flesh, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10186",
+"en": "Potatoes, boiled, cooked without skin, flesh, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10187",
+"en": "Potatoes, canned, drained solids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10188",
+"en": "Potatoes, canned, drained solids, no salt added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10189",
+"en": "Potatoes, canned, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10190",
+"en": "Potatoes, flesh and skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10191",
+"en": "Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10192",
+"en": "Potatoes, french fried, all types, salt added in processing, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10193",
+"en": "Potatoes, french fried, all types, salt not added in processing, frozen, as purchased",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10194",
+"en": "Potatoes, french fried, all types, salt not added in processing, frozen, oven-heated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10195",
+"en": "Potatoes, french fried, cottage-cut, salt not added in processing, frozen, as purchased",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10196",
+"en": "Potatoes, french fried, cottage-cut, salt not added in processing, frozen, oven-heated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10197",
+"en": "Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, as purchased",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10198",
+"en": "Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, oven-heated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10199",
+"en": "Potatoes, french fried, cross cut, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10200",
+"en": "Potatoes, french fried, shoestring, salt added in processing, frozen, as purchased",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10201",
+"en": "Potatoes, french fried, shoestring, salt added in processing, frozen, oven-heated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10202",
+"en": "Potatoes, french fried, steak cut, salt not added in processing, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10203",
+"en": "Potatoes, french fried, steak fries, salt added in processing, frozen, as purchased",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10204",
+"en": "Potatoes, french fried, steak fries, salt added in processing, frozen, oven-heated",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10205",
+"en": "Potatoes, french fried, wedge cut, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10206",
+"en": "Potatoes, frozen, french fried, par fried, cottage-cut, prepared, heated in oven, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10207",
+"en": "Potatoes, frozen, french fried, par fried, extruded, prepared, heated in oven, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10208",
+"en": "Potatoes, frozen, french fried, par fried, extruded, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10209",
+"en": "Potatoes, frozen, whole, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10210",
+"en": "Potatoes, frozen, whole, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10211",
+"en": "Potatoes, gold, without skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "10212",
+"en": "Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10213",
+"en": "Potatoes, hash brown, frozen, plain, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10214",
+"en": "Potatoes, hash brown, frozen, with butter sauce, prepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10215",
+"en": "Potatoes, hash brown, frozen, with butter sauce, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10216",
+"en": "Potatoes, hash brown, home-prepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10217",
+"en": "Potatoes, hash brown, refrigerated, prepared, pan-fried in canola oil",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10218",
+"en": "Potatoes, hash brown, refrigerated, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10219",
+"en": "Potatoes, mashed, dehydrated, flakes without milk, dry form",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10220",
+"en": "Potatoes, mashed, dehydrated, granules with milk, dry form",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10221",
+"en": "Potatoes, mashed, dehydrated, granules without milk, dry form",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10222",
+"en": "Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10223",
+"en": "Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and margarine added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10224",
+"en": "Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10225",
+"en": "Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10226",
+"en": "Potatoes, mashed, home-prepared, whole milk added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10227",
+"en": "Potatoes, mashed, home-prepared, whole milk and butter added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10228",
+"en": "Potatoes, mashed, home-prepared, whole milk and margarine added",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10229",
+"en": "Potatoes, mashed, prepared from granules, without milk, whole milk and margarine",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10230",
+"en": "Potatoes, mashed, ready-to-eat",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10231",
+"en": "Potatoes, microwaved, cooked in skin, flesh and skin, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10232",
+"en": "Potatoes, microwaved, cooked in skin, flesh, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10233",
+"en": "Potatoes, microwaved, cooked in skin, flesh, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10234",
+"en": "Potatoes, microwaved, cooked in skin, skin, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10235",
+"en": "Potatoes, microwaved, cooked, in skin, flesh and skin, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10236",
+"en": "Potatoes, microwaved, cooked, in skin, skin with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10237",
+"en": "Potatoes, o'brien, frozen, prepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10238",
+"en": "Potatoes, o'brien, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10239",
+"en": "Potatoes, o'brien, home-prepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10240",
+"en": "Potatoes, raw, skin",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10241",
+"en": "Potatoes, red, flesh and skin, baked",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10242",
+"en": "Potatoes, red, flesh and skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10243",
+"en": "Potatoes, red, without skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "10244",
+"en": "Potatoes, roasted, salt added in processing, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10245",
+"en": "Potatoes, Russet, flesh and skin, baked",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10246",
+"en": "Potatoes, russet, flesh and skin, raw (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10247",
+"en": "Potatoes, russet, without skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "Foundation"
+},
+{
+"id": "10248",
+"en": "Potatoes, scalloped, dry mix, prepared with water, whole milk and butter",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10249",
+"en": "Potatoes, scalloped, dry mix, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10250",
+"en": "Potatoes, scalloped, home-prepared with butter",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10251",
+"en": "Potatoes, scalloped, home-prepared with margarine",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10252",
+"en": "Potatoes, white, flesh and skin, baked",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10253",
+"en": "Potatoes, white, flesh and skin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10254",
+"en": "Potatoes, yellow fleshed, french fried, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10255",
+"en": "Potatoes, yellow fleshed, hash brown, shredded, salt added in processing, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10256",
+"en": "Potatoes, yellow fleshed, roasted, salt added in processing, frozen, unprepared",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10257",
+"en": "Potsticker or wonton, pork and vegetable, frozen, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10258",
+"en": "Poultry salad sandwich spread",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "10259",
+"en": "Poultry, mechanically deboned, from backs and necks with skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10260",
+"en": "Poultry, mechanically deboned, from backs and necks without skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10261",
+"en": "Poultry, mechanically deboned, from mature hens, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10262",
+"en": "Prairie Turnips, boiled (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10263",
+"en": "Prairie Turnips, raw (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10264",
+"en": "Pretzel chips, hard, flavored",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10265",
+"en": "Pretzel chips, hard, gluten free",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10266",
+"en": "Pretzel chips, hard, plain",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10267",
+"en": "Pretzels, hard, cheese filled",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10268",
+"en": "Pretzels, hard, chocolate coated",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10269",
+"en": "Pretzels, hard, coated, gluten free",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10270",
+"en": "Pretzels, hard, coated, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10271",
+"en": "Pretzels, hard, filled, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10272",
+"en": "Pretzels, hard, flavored",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10273",
+"en": "Pretzels, hard, flavored, gluten free",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10274",
+"en": "Pretzels, hard, multigrain",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10275",
+"en": "Pretzels, hard, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10276",
+"en": "Pretzels, hard, peanut butter filled",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10277",
+"en": "Pretzels, hard, plain, gluten free",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10278",
+"en": "Pretzels, hard, plain, lightly salted",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10279",
+"en": "Pretzels, hard, plain, salted",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10280",
+"en": "Pretzels, hard, plain, unsalted",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10281",
+"en": "Pretzels, hard, white chocolate coated",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10282",
+"en": "Pretzels, hard, yogurt coated",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10283",
+"en": "Pretzels, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10284",
+"en": "Pretzels, soft",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "10285",
+"en": "Pretzels, soft, filled with cheese",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10286",
+"en": "Pretzels, soft, from frozen, cinnamon sugar coated",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10287",
+"en": "Pretzels, soft, from frozen, coated or flavored",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10288",
+"en": "Pretzels, soft, from frozen, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10289",
+"en": "Pretzels, soft, from frozen, salted",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10290",
+"en": "Pretzels, soft, from frozen, topped with cheese",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10291",
+"en": "Pretzels, soft, from frozen, topped with meat",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10292",
+"en": "Pretzels, soft, from frozen, unsalted",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10293",
+"en": "Pretzels, soft, from school lunch",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10294",
+"en": "Pretzels, soft, gluten free",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10295",
+"en": "Pretzels, soft, gluten free, cinnamon sugar coated",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10296",
+"en": "Pretzels, soft, gluten free, coated or flavored",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10297",
+"en": "Pretzels, soft, multigrain",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10298",
+"en": "Pretzels, soft, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10299",
+"en": "Pretzels, soft, ready-to-eat, cinnamon sugar coated",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10300",
+"en": "Pretzels, soft, ready-to-eat, coated or flavored",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10301",
+"en": "Pretzels, soft, ready-to-eat, NFS",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10302",
+"en": "Pretzels, soft, ready-to-eat, salted, buttered",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10303",
+"en": "Pretzels, soft, ready-to-eat, salted, no butter",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10304",
+"en": "Pretzels, soft, ready-to-eat, topped with cheese",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10305",
+"en": "Pretzels, soft, ready-to-eat, topped with meat",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10306",
+"en": "Pretzels, soft, ready-to-eat, unsalted, buttered",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10307",
+"en": "Pretzels, soft, ready-to-eat, unsalted, no butter",
+"categoria": "Pretzels/snack mix",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10308",
+"en": "Pretzels, soft, unsalted",
+"categoria": "Snacks",
+"tipo": "SR Legacy"
+},
+{
+"id": "10309",
+"en": "Prickly pears, broiled (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10310",
+"en": "Prickly pears, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10311",
+"en": "Prickly pears, raw (Northern Plains Indians)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "10312",
+"en": "Protein supplement, milk based, Muscle Milk Light, powder",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10313",
+"en": "Protein supplement, milk based, Muscle Milk, powder",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10314",
+"en": "Prune juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10315",
+"en": "Prune juice, canned",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10316",
+"en": "Prune puree",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10317",
+"en": "Prune, dried",
+"categoria": "Dried fruits",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10318",
+"en": "Prunes, canned, heavy syrup pack, solids and liquids",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10319",
+"en": "Prunes, dehydrated (low-moisture), stewed",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10320",
+"en": "Prunes, dehydrated (low-moisture), uncooked",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10321",
+"en": "Pudding, bread",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10322",
+"en": "Pudding, chocolate, made from dry mix",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10323",
+"en": "Pudding, chocolate, made from dry mix, sugar free",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10324",
+"en": "Pudding, chocolate, NFS",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10325",
+"en": "Pudding, chocolate, ready-to-eat",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10326",
+"en": "Pudding, chocolate, ready-to-eat, sugar free",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10327",
+"en": "Pudding, flavors other than chocolate, made from dry mix",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10328",
+"en": "Pudding, flavors other than chocolate, made from dry mix, sugar free",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10329",
+"en": "Pudding, flavors other than chocolate, NFS",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10330",
+"en": "Pudding, flavors other than chocolate, ready-to-eat",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10331",
+"en": "Pudding, flavors other than chocolate, ready-to-eat, sugar free",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10332",
+"en": "Pudding, lemon, dry mix, regular, prepared with sugar, egg yolk and water",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10333",
+"en": "Pudding, rice",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10334",
+"en": "Pudding, tapioca, made from dry mix",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10335",
+"en": "Pudding, tapioca, ready-to-eat",
+"categoria": "Pudding",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10336",
+"en": "Puddings, all flavors except chocolate, low calorie, instant, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10337",
+"en": "Puddings, all flavors except chocolate, low calorie, regular, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10338",
+"en": "Puddings, banana, dry mix, instant",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10339",
+"en": "Puddings, banana, dry mix, instant, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10340",
+"en": "Puddings, banana, dry mix, instant, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10341",
+"en": "Puddings, banana, dry mix, instant, with added oil",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10342",
+"en": "Puddings, banana, dry mix, regular",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10343",
+"en": "Puddings, banana, dry mix, regular, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10344",
+"en": "Puddings, banana, dry mix, regular, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10345",
+"en": "Puddings, banana, dry mix, regular, with added oil",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10346",
+"en": "Puddings, chocolate flavor, low calorie, instant, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10347",
+"en": "Puddings, chocolate flavor, low calorie, regular, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10348",
+"en": "Puddings, chocolate, dry mix, instant",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10349",
+"en": "Puddings, chocolate, dry mix, instant, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10350",
+"en": "Puddings, chocolate, dry mix, instant, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10351",
+"en": "Puddings, chocolate, dry mix, regular",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10352",
+"en": "Puddings, chocolate, dry mix, regular, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10353",
+"en": "Puddings, chocolate, dry mix, regular, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10354",
+"en": "Puddings, chocolate, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10355",
+"en": "Puddings, chocolate, ready-to-eat, fat free",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10356",
+"en": "Puddings, coconut cream, dry mix, instant",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10357",
+"en": "Puddings, coconut cream, dry mix, instant, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10358",
+"en": "Puddings, coconut cream, dry mix, instant, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10359",
+"en": "Puddings, coconut cream, dry mix, regular",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10360",
+"en": "Puddings, coconut cream, dry mix, regular, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10361",
+"en": "Puddings, coconut cream, dry mix, regular, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10362",
+"en": "Puddings, lemon, dry mix, instant",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10363",
+"en": "Puddings, lemon, dry mix, instant, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10364",
+"en": "Puddings, lemon, dry mix, instant, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10365",
+"en": "Puddings, lemon, dry mix, regular",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10366",
+"en": "Puddings, lemon, dry mix, regular, with added oil, potassium, sodium",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10367",
+"en": "Puddings, rice, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10368",
+"en": "Puddings, rice, dry mix, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10369",
+"en": "Puddings, rice, dry mix, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10370",
+"en": "Puddings, rice, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10371",
+"en": "Puddings, tapioca, dry mix",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10372",
+"en": "Puddings, tapioca, dry mix, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10373",
+"en": "Puddings, tapioca, dry mix, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10374",
+"en": "Puddings, tapioca, dry mix, with no added salt",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10375",
+"en": "Puddings, tapioca, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10376",
+"en": "Puddings, tapioca, ready-to-eat, fat free",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10377",
+"en": "Puddings, vanilla, dry mix, instant",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10378",
+"en": "Puddings, vanilla, dry mix, instant, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10379",
+"en": "Puddings, vanilla, dry mix, regular",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10380",
+"en": "Puddings, vanilla, dry mix, regular, prepared with 2% milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10381",
+"en": "Puddings, vanilla, dry mix, regular, prepared with whole milk",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10382",
+"en": "Puddings, vanilla, dry mix, regular, with added oil",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10383",
+"en": "Puddings, vanilla, ready-to-eat",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10384",
+"en": "Puddings, vanilla, ready-to-eat, fat free",
+"categoria": "Sweets",
+"tipo": "SR Legacy"
+},
+{
+"id": "10385",
+"en": "Puerto Rican pasteles",
+"categoria": "Meat mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10386",
+"en": "Puerto Rican seasoning with ham",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10387",
+"en": "Puerto Rican seasoning without ham and tomato sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10388",
+"en": "Puerto Rican white cheese",
+"categoria": "Cottage/ricotta cheese",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10389",
+"en": "Puff pastry, frozen, ready-to-bake",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10390",
+"en": "Puff pastry, frozen, ready-to-bake, baked",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10391",
+"en": "Puffs, fried, crab meat and cream cheese filled",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10392",
+"en": "Pulled pork in barbecue sauce",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "10393",
+"en": "Pummelo, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "10394",
+"en": "Pumpkin flowers, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10395",
+"en": "Pumpkin flowers, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10396",
+"en": "Pumpkin leaves, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10397",
+"en": "Pumpkin leaves, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10398",
+"en": "Pumpkin leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10399",
+"en": "Pumpkin pie mix, canned",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10400",
+"en": "Pumpkin seeds, NFS",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10401",
+"en": "Pumpkin seeds, salted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10402",
+"en": "Pumpkin seeds, unsalted",
+"categoria": "Nuts and seeds",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10403",
+"en": "Pumpkin, canned, cooked",
+"categoria": "Other red and orange vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10404",
+"en": "Pumpkin, canned, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10405",
+"en": "Pumpkin, canned, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10406",
+"en": "Pumpkin, cooked",
+"categoria": "Other red and orange vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10407",
+"en": "Pumpkin, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10408",
+"en": "Pumpkin, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10409",
+"en": "Pumpkin, flowers, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10410",
+"en": "Pumpkin, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10411",
+"en": "Pupusa, cheese only",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10412",
+"en": "Pupusa, meat",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10413",
+"en": "Pupusa, meat, with beans",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10414",
+"en": "Pupusa, with beans",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10415",
+"en": "Purslane, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10416",
+"en": "Purslane, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10417",
+"en": "Purslane, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10418",
+"en": "Quail egg, canned",
+"categoria": "Eggs and omelets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10419",
+"en": "Quail, breast, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10420",
+"en": "Quail, cooked",
+"categoria": "Turkey, duck, other poultry",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10421",
+"en": "Quail, cooked, total edible",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10422",
+"en": "Quail, meat and skin, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10423",
+"en": "Quail, meat only, raw",
+"categoria": "Poultry Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "10424",
+"en": "Quarter Pounder (McDonalds)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10425",
+"en": "Quarter Pounder with cheese (McDonalds)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10426",
+"en": "Quesadilla, beef or pork",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10427",
+"en": "Quesadilla, beef or pork, with vegetables",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10428",
+"en": "Quesadilla, cheese only",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "10429",
+"en": "Quesadilla, chicken",
+"categoria": "Other Mexican mixed dishes",
+"tipo": "Survey (FNDDS)"
+}
+]

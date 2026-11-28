@@ -1,0 +1,1742 @@
+[
+{
+"id": "13112",
+"en": "Walrus, meat and subcutaneous fat raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13113",
+"en": "Walrus, meat, dried (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13114",
+"en": "Walrus, meat, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13115",
+"en": "Wasabi",
+"categoria": "Soups, Sauces, and Gravies",
+"tipo": "SR Legacy"
+},
+{
+"id": "13116",
+"en": "Wasabi paste",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13117",
+"en": "Wasabi peas",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13118",
+"en": "Wasabi, root, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13119",
+"en": "Water beverage, fruit flavored",
+"categoria": "Flavored or carbonated water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13120",
+"en": "Water Chesnut",
+"categoria": "Other starchy vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13121",
+"en": "Water convolvulus, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13122",
+"en": "Water convolvulus, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13123",
+"en": "Water convolvulus,raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13124",
+"en": "Water, baby",
+"categoria": "Baby water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13125",
+"en": "Water, bottled, generic",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "13126",
+"en": "Water, bottled, non-carbonated, NAYA",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "13127",
+"en": "Water, bottled, plain",
+"categoria": "Bottled water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13128",
+"en": "Water, carbonated, flavored",
+"categoria": "Flavored or carbonated water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13129",
+"en": "Water, carbonated, plain",
+"categoria": "Flavored or carbonated water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13130",
+"en": "Water, enhanced, diet",
+"categoria": "Enhanced water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13131",
+"en": "Water, enhanced, regular",
+"categoria": "Enhanced water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13132",
+"en": "Water, NFS",
+"categoria": "Tap water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13133",
+"en": "Water, non-carbonated, bottles, natural fruit flavors, sweetened with low calorie sweetener",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "13134",
+"en": "Water, non-carbonated, flavored",
+"categoria": "Flavored or carbonated water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13135",
+"en": "Water, tap",
+"categoria": "Tap water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13136",
+"en": "Water, tonic",
+"categoria": "Flavored or carbonated water",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13137",
+"en": "Water, with corn syrup and/or sugar and low calorie sweetener, fruit flavored",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "13138",
+"en": "Waterchestnuts, chinese, (matai), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13139",
+"en": "Waterchestnuts, chinese, canned, solids and liquids",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13140",
+"en": "Watercress, cooked",
+"categoria": "Other dark green vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13141",
+"en": "Watercress, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13142",
+"en": "Watermelon juice, 100%",
+"categoria": "Other fruit juice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13143",
+"en": "Watermelon, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "SR Legacy"
+},
+{
+"id": "13144",
+"en": "Watermelon, seedless, rind only, raw",
+"categoria": "Fruits and Fruit Juices",
+"tipo": "Foundation"
+},
+{
+"id": "13145",
+"en": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13146",
+"en": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13147",
+"en": "Waxgourd, (chinese preserving melon), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13148",
+"en": "Welsh rarebit",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13149",
+"en": "WEND'YS, Crispy Chicken Sandwich",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13150",
+"en": "WENDY'S, Chicken Nuggets",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13151",
+"en": "WENDY'S, CLASSIC DOUBLE, with cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13152",
+"en": "WENDY'S, CLASSIC SINGLE Hamburger, no cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13153",
+"en": "WENDY'S, CLASSIC SINGLE Hamburger, with cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13154",
+"en": "WENDY'S, DAVE'S Hot 'N Juicy 1/4 LB, single",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13155",
+"en": "WENDY'S, Double Stack, with cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13156",
+"en": "WENDY'S, french fries",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13157",
+"en": "WENDY'S, Frosty Dairy Dessert",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13158",
+"en": "WENDY'S, Homestyle Chicken Fillet Sandwich",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13159",
+"en": "WENDY'S, Jr. Hamburger, with cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13160",
+"en": "WENDY'S, Jr. Hamburger, without cheese",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13161",
+"en": "WENDY'S, Ultimate Chicken Grill Sandwich",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13162",
+"en": "Whale, beluga, eyes (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13163",
+"en": "Whale, beluga, flipper, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13164",
+"en": "Whale, beluga, liver, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13165",
+"en": "Whale, beluga, meat, dried (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13166",
+"en": "Whale, beluga, meat, raw (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13167",
+"en": "Whale, bowhead, skin and subcutaneous fat (muktuk) (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13168",
+"en": "Whale, bowhead, subcutaneous fat (blubber) (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13169",
+"en": "Wheat bran",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13170",
+"en": "Wheat bran, crude",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13171",
+"en": "Wheat bread as ingredient in sandwiches",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13172",
+"en": "Wheat bun as ingredient in sandwiches",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13173",
+"en": "Wheat cereal, chocolate flavored, cooked",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13174",
+"en": "Wheat flour, white (industrial), 10% protein, bleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13175",
+"en": "Wheat flour, white (industrial), 10% protein, bleached, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13176",
+"en": "Wheat flour, white (industrial), 10% protein, unbleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13177",
+"en": "Wheat flour, white (industrial), 11.5% protein, bleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13178",
+"en": "Wheat flour, white (industrial), 11.5% protein, bleached, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13179",
+"en": "Wheat flour, white (industrial), 11.5% protein, unbleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13180",
+"en": "Wheat flour, white (industrial), 13% protein, bleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13181",
+"en": "Wheat flour, white (industrial), 13% protein, bleached, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13182",
+"en": "Wheat flour, white (industrial), 15% protein, bleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13183",
+"en": "Wheat flour, white (industrial), 15% protein, bleached, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13184",
+"en": "Wheat flour, white (industrial), 9% protein, bleached, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13185",
+"en": "Wheat flour, white (industrial), 9% protein, bleached, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13186",
+"en": "Wheat flour, white, all-purpose, enriched, bleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13187",
+"en": "Wheat flour, white, all-purpose, enriched, calcium-fortified",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13188",
+"en": "Wheat flour, white, all-purpose, enriched, unbleached",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13189",
+"en": "Wheat flour, white, all-purpose, self-rising, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13190",
+"en": "Wheat flour, white, all-purpose, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13191",
+"en": "Wheat flour, white, bread, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13192",
+"en": "Wheat flour, white, cake, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13193",
+"en": "Wheat flour, white, tortilla mix, enriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13194",
+"en": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13195",
+"en": "Wheat flour, whole-grain, soft wheat",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13196",
+"en": "Wheat flours, bread, unenriched",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13197",
+"en": "Wheat germ",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13198",
+"en": "Wheat germ oil",
+"categoria": "Salad dressings and vegetable oils",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13199",
+"en": "Wheat germ, crude",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13200",
+"en": "Wheat, durum",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13201",
+"en": "Wheat, durum, puffed",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "13202",
+"en": "Wheat, hard red spring",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13203",
+"en": "Wheat, hard red winter",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13204",
+"en": "Wheat, hard white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13205",
+"en": "Wheat, khorasan, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13206",
+"en": "Wheat, khorasan, uncooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13207",
+"en": "Wheat, soft red winter",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13208",
+"en": "Wheat, soft white",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13209",
+"en": "Wheat, sprouted",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13210",
+"en": "Whey, acid, dried",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13211",
+"en": "Whey, acid, fluid",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13212",
+"en": "Whey, sweet, dried",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13213",
+"en": "Whey, sweet, dry",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13214",
+"en": "Whey, sweet, fluid",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13215",
+"en": "Whipped cream substitute, dietetic, made from powdered mix",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13216",
+"en": "Whipped topping",
+"categoria": "Cream cheese, sour cream, whipped cream",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13217",
+"en": "Whipped topping, fat free",
+"categoria": "Cream cheese, sour cream, whipped cream",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13218",
+"en": "Whipped topping, frozen, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13219",
+"en": "Whipped topping, sugar free",
+"categoria": "Cream cheese, sour cream, whipped cream",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13220",
+"en": "Whiskey",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13221",
+"en": "Whiskey and cola",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13222",
+"en": "Whiskey and diet cola",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13223",
+"en": "Whiskey and ginger ale",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13224",
+"en": "Whiskey and soda",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13225",
+"en": "Whiskey and water",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13226",
+"en": "Whiskey sour",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13227",
+"en": "Whiskey sour mix, bottled, with added potassium and sodium",
+"categoria": "Beverages",
+"tipo": "SR Legacy"
+},
+{
+"id": "13228",
+"en": "White beans, from canned, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13229",
+"en": "White beans, from canned, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13230",
+"en": "White beans, from canned, reduced sodium",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13231",
+"en": "White beans, from dried, fat added",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13232",
+"en": "White beans, from dried, no added fat",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13233",
+"en": "White beans, NFS",
+"categoria": "Beans, peas, legumes",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13234",
+"en": "White chocolate candy",
+"categoria": "Candy not containing chocolate",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13235",
+"en": "White pizza, cheese, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13236",
+"en": "White pizza, cheese, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13237",
+"en": "White pizza, cheese, with meat and vegetables, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13238",
+"en": "White pizza, cheese, with meat and vegetables, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13239",
+"en": "White pizza, cheese, with meat, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13240",
+"en": "White pizza, cheese, with meat, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13241",
+"en": "White pizza, cheese, with vegetables, thick crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13242",
+"en": "White pizza, cheese, with vegetables, thin crust",
+"categoria": "Pizza",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13243",
+"en": "White rice, flour, pre-gelatinized",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "13244",
+"en": "White Russian",
+"categoria": "Liquor and cocktails",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13245",
+"en": "White sauce or gravy",
+"categoria": "Dips, gravies, other sauces",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13246",
+"en": "Whole wheat cereal, cooked",
+"categoria": "Grits and other cooked cereals",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13247",
+"en": "Whopper (Burger King)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13248",
+"en": "Whopper Jr (Burger King)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13249",
+"en": "Whopper Jr with cheese (Burger King)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13250",
+"en": "Whopper with cheese (Burger King)",
+"categoria": "Burgers",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13251",
+"en": "Wild pig",
+"categoria": "Lamb, goat, game",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13252",
+"en": "Wild rice, cooked",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13253",
+"en": "Wild rice, dry, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "13254",
+"en": "Wild rice, raw",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "SR Legacy"
+},
+{
+"id": "13255",
+"en": "Willow, leaves in oil (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13256",
+"en": "Willow, young leaves, chopped (Alaska Native)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13257",
+"en": "Wine cooler",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13258",
+"en": "Wine spritzer",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13259",
+"en": "Wine, dessert, sweet",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13260",
+"en": "Wine, light",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13261",
+"en": "Wine, nonalcoholic",
+"categoria": "Fruit drinks",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13262",
+"en": "Wine, red",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13263",
+"en": "Wine, rice",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13264",
+"en": "Wine, rose",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13265",
+"en": "Wine, sparkling",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13266",
+"en": "Wine, white",
+"categoria": "Wine",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13267",
+"en": "Winged bean leaves, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13268",
+"en": "Winged bean tuber, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13269",
+"en": "Winged bean, immature seeds, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13270",
+"en": "Winged beans, immature seeds, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13271",
+"en": "Winged beans, immature seeds, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13272",
+"en": "Winged beans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13273",
+"en": "Winged beans, mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13274",
+"en": "Winged beans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13275",
+"en": "Winter melon, cooked",
+"categoria": "Other vegetables and combinations",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13276",
+"en": "Winter squash, cooked, fat added",
+"categoria": "Other red and orange vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13277",
+"en": "Winter squash, cooked, no added fat",
+"categoria": "Other red and orange vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13278",
+"en": "Winter squash, raw",
+"categoria": "Other red and orange vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13279",
+"en": "Winter wheat, hard red, puffed, organic",
+"categoria": "Cereal Grains and Pasta",
+"tipo": "Foundation"
+},
+{
+"id": "13280",
+"en": "Wocas, dried seeds, Oregon, yellow pond lily (Klamath)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13281",
+"en": "Wocas, tuber, cooked, Oregon, yellow pond lily (Klamath)",
+"categoria": "American Indian/Alaska Native Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13282",
+"en": "Wonton wrappers (includes egg roll wrappers)",
+"categoria": "Baked Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13283",
+"en": "Wonton, dumpling or pot sticker, fried",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13284",
+"en": "Wonton, dumpling or pot sticker, fried, no meat",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13285",
+"en": "Wonton, dumpling or pot sticker, steamed",
+"categoria": "Egg rolls, dumplings, sushi",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13286",
+"en": "Worcestershire sauce",
+"categoria": "Mustard and other condiments",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13287",
+"en": "Yachtwurst, with pistachio nuts, cooked",
+"categoria": "Sausages and Luncheon Meats",
+"tipo": "SR Legacy"
+},
+{
+"id": "13288",
+"en": "Yam, cooked, boiled, drained, or baked, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13289",
+"en": "Yam, cooked, boiled, drained, or baked, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13290",
+"en": "Yam, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13291",
+"en": "Yambean (jicama), cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13292",
+"en": "Yambean (jicama), cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13293",
+"en": "Yambean (jicama), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13294",
+"en": "Yardlong bean, cooked, boiled, drained, with salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13295",
+"en": "Yardlong bean, cooked, boiled, drained, without salt",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13296",
+"en": "Yardlong bean, raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13297",
+"en": "Yardlong beans, mature seeds, cooked, boiled, with salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13298",
+"en": "Yardlong beans, mature seeds, cooked, boiled, without salt",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13299",
+"en": "Yardlong beans, mature seeds, raw",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13300",
+"en": "Yat Ga Mein with meat, fish, or poultry",
+"categoria": "Fried rice and lo/chow mein",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13301",
+"en": "Yautia (tannier), raw",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13302",
+"en": "Yeast",
+"categoria": "Not included in a food category",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13303",
+"en": "Yeast extract spread",
+"categoria": "Vegetables and Vegetable Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13304",
+"en": "Yellow rice with seasoning, dry packet mix, unprepared",
+"categoria": "Meals, Entrees, and Side Dishes",
+"tipo": "SR Legacy"
+},
+{
+"id": "13305",
+"en": "Yellow rice, cooked, fat added",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13306",
+"en": "Yellow rice, cooked, no added fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13307",
+"en": "Yellow rice, cooked, NS as to fat",
+"categoria": "Rice",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13308",
+"en": "Yellow string beans, cooked",
+"categoria": "String beans",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13309",
+"en": "Yogurt parfait, lowfat, with fruit and granola",
+"categoria": "Fast Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13310",
+"en": "Yogurt parfait, with fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13311",
+"en": "Yogurt tube",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13312",
+"en": "Yogurt, almond milk",
+"categoria": "Plant-based yogurt",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13313",
+"en": "Yogurt, chocolate, nonfat milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13314",
+"en": "Yogurt, chocolate, nonfat milk, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13315",
+"en": "Yogurt, coconut milk",
+"categoria": "Plant-based yogurt",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13316",
+"en": "Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13317",
+"en": "Yogurt, frozen, flavors other than chocolate, lowfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13318",
+"en": "Yogurt, fruit variety, nonfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13319",
+"en": "Yogurt, fruit variety, nonfat, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13320",
+"en": "Yogurt, fruit, low fat, 10 grams protein per 8 ounce",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13321",
+"en": "Yogurt, fruit, low fat, 10 grams protein per 8 ounce, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13322",
+"en": "Yogurt, fruit, low fat, 11g protein/8 oz",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13323",
+"en": "Yogurt, fruit, low fat, 9 grams protein per 8 ounce, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13324",
+"en": "Yogurt, fruit, low fat,9 g protein/8 oz",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13325",
+"en": "Yogurt, fruit, lowfat, with low calorie sweetener",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13326",
+"en": "Yogurt, fruit, lowfat, with low calorie sweetener, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13327",
+"en": "Yogurt, Greek, 2% fat, apricot, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13328",
+"en": "Yogurt, Greek, 2% fat, key lime blend, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13329",
+"en": "Yogurt, Greek, 2% fat, mango, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13330",
+"en": "Yogurt, Greek, 2% fat, pineapple, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13331",
+"en": "Yogurt, Greek, 2% fat, strawberry banana, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13332",
+"en": "Yogurt, Greek, 2% fat,mixed berry blend, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13333",
+"en": "Yogurt, Greek, 2%fat, coconut blend, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13334",
+"en": "Yogurt, Greek, Blueberry, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13335",
+"en": "Yogurt, Greek, fruit, whole milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13336",
+"en": "Yogurt, Greek, low fat milk, flavors other than fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13337",
+"en": "Yogurt, Greek, low fat milk, fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13338",
+"en": "Yogurt, Greek, low fat milk, plain",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13339",
+"en": "Yogurt, Greek, nonfat milk, flavors other than fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13340",
+"en": "Yogurt, Greek, nonfat milk, fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13341",
+"en": "Yogurt, Greek, nonfat milk, plain",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13342",
+"en": "Yogurt, Greek, nonfat, Fruit on Bottom, Blackberry, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13343",
+"en": "Yogurt, Greek, nonfat, Fruit on Bottom, Pomegranate, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13344",
+"en": "Yogurt, Greek, nonfat, Fruit on Bottom, Strawberry, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13345",
+"en": "Yogurt, Greek, nonfat, lemon blend, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13346",
+"en": "Yogurt, Greek, nonfat, peach, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13347",
+"en": "Yogurt, Greek, nonfat, plain, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13348",
+"en": "Yogurt, Greek, nonfat, raspberry, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13349",
+"en": "Yogurt, Greek, nonfat, strawberry, DANNON OIKOS",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13350",
+"en": "Yogurt, Greek, nonfat, vanilla, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13351",
+"en": "Yogurt, Greek, nonfat, vanilla, DANNON OIKOS",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13352",
+"en": "Yogurt, Greek, NS as to type of milk or flavor",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13353",
+"en": "Yogurt, Greek, NS as to type of milk, flavors other than fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13354",
+"en": "Yogurt, Greek, NS as to type of milk, fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13355",
+"en": "Yogurt, Greek, NS as to type of milk, plain",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13356",
+"en": "Yogurt, Greek, plain, lowfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13357",
+"en": "Yogurt, Greek, plain, nonfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "13358",
+"en": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13359",
+"en": "Yogurt, Greek, plain, whole milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "13360",
+"en": "Yogurt, Greek, strawberry, DANNON OIKOS",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13361",
+"en": "Yogurt, Greek, strawberry, lowfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13362",
+"en": "Yogurt, Greek, strawberry, nonfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "13363",
+"en": "Yogurt, Greek, vanilla, lowfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13364",
+"en": "Yogurt, Greek, vanilla, nonfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13365",
+"en": "Yogurt, Greek, whole milk, flavors other than fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13366",
+"en": "Yogurt, Greek, whole milk, fruit",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13367",
+"en": "Yogurt, Greek, whole milk, plain",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13368",
+"en": "Yogurt, Greek, whole, plain, CHOBANI",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13369",
+"en": "Yogurt, Greek, with oats",
+"categoria": "Yogurt, Greek",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13370",
+"en": "Yogurt, liquid",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13371",
+"en": "Yogurt, low fat milk, flavors other than fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13372",
+"en": "Yogurt, low fat milk, fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13373",
+"en": "Yogurt, low fat milk, plain",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13374",
+"en": "Yogurt, NFS",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13375",
+"en": "Yogurt, nonfat milk, flavors other than fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13376",
+"en": "Yogurt, nonfat milk, fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13377",
+"en": "Yogurt, nonfat milk, plain",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13378",
+"en": "Yogurt, NS as to type of milk or flavor",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13379",
+"en": "Yogurt, NS as to type of milk, flavors other than fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13380",
+"en": "Yogurt, NS as to type of milk, fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13381",
+"en": "Yogurt, NS as to type of milk, plain",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13382",
+"en": "Yogurt, plain, low fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13383",
+"en": "Yogurt, plain, nonfat",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "13384",
+"en": "Yogurt, plain, skim milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13385",
+"en": "Yogurt, plain, whole milk",
+"categoria": "Dairy and Egg Products",
+"tipo": "Foundation"
+},
+{
+"id": "13386",
+"en": "Yogurt, soy",
+"categoria": "Plant-based yogurt",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13387",
+"en": "Yogurt, vanilla flavor, lowfat milk, sweetened with low calorie sweetener",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13388",
+"en": "Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13389",
+"en": "Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13390",
+"en": "Yogurt, vanilla, low fat, fortified with vitamin D",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13391",
+"en": "Yogurt, vanilla, low fat.",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13392",
+"en": "Yogurt, vanilla, non-fat",
+"categoria": "Dairy and Egg Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13393",
+"en": "Yogurt, whole milk, flavors other than fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13394",
+"en": "Yogurt, whole milk, fruit",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13395",
+"en": "Yogurt, whole milk, plain",
+"categoria": "Yogurt, regular",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13396",
+"en": "Yokan",
+"categoria": "Gelatins, ices, sorbets",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13397",
+"en": "Yokan, prepared from adzuki beans and sugar",
+"categoria": "Legumes and Legume Products",
+"tipo": "SR Legacy"
+},
+{
+"id": "13398",
+"en": "Yuca fries",
+"categoria": "Fried vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13399",
+"en": "Zucchini, pickled",
+"categoria": "Olives, pickles, pickled vegetables",
+"tipo": "Survey (FNDDS)"
+},
+{
+"id": "13400",
+"en": "Zwieback",
+"categoria": "Baby Foods",
+"tipo": "SR Legacy"
+},
+{
+"id": "13401",
+"en": "Zwieback toast",
+"categoria": "Crackers, excludes saltines",
+"tipo": "Survey (FNDDS)"
+}
+]

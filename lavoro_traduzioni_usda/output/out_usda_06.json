@@ -1,0 +1,2088 @@
+{
+"1490": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1491": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1492": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1493": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1494": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1495": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1496": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1497": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1498": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1499": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1500": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1501": {
+"it": "Manzo, bistecca rib eye, disossato, senza bordo di grasso (lip off), solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, entrecôte (rib eye), désossé, sans bordure de gras (lip off), partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, bistec de rib eye, deshuesado, sin borde de grasa (lip off), solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, ohne Fettrand (lip off), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife de ribeye, sem osso, sem borda de gordura (lip off), apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1502": {
+"it": "Manzo, bistecca rib eye, disossato, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1503": {
+"it": "Manzo, bistecca rib eye, disossato, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1504": {
+"it": "Manzo, bistecca rib eye, disossato, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1505": {
+"it": "Manzo, bistecca rib eye, disossato, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1506": {
+"it": "Manzo, bistecca rib eye, disossato, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1507": {
+"it": "Manzo, bistecca rib eye, disossato, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, entrecôte (rib eye), désossé, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de rib eye, deshuesado, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rib-Eye-Steak, ohne Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de ribeye, sem osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1508": {
+"it": "Manzo, bistecca/arrosto rib eye, con osso, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), avec os, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, bistec/asado de rib eye, con hueso, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, mit Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife/assado de ribeye, com osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1509": {
+"it": "Manzo, bistecca/arrosto rib eye, con osso, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), avec os, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, bistec/asado de rib eye, con hueso, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, mit Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife/assado de ribeye, com osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1510": {
+"it": "Manzo, bistecca/arrosto rib eye, con osso, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), avec os, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, bistec/asado de rib eye, con hueso, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, mit Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife/assado de ribeye, com osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1511": {
+"it": "Manzo, bistecca/arrosto rib eye, con osso, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), avec os, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, bistec/asado de rib eye, con hueso, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, mit Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife/assado de ribeye, com osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1512": {
+"it": "Manzo, bistecca/arrosto rib eye, con osso, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), avec os, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, bistec/asado de rib eye, con hueso, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, mit Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife/assado de ribeye, com osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, Choice, crua"
+},
+"1513": {
+"it": "Manzo, bistecca/arrosto rib eye, con osso, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), avec os, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, bistec/asado de rib eye, con hueso, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, mit Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife/assado de ribeye, com osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, Select, crua"
+},
+"1514": {
+"it": "Manzo, bistecca/arrosto rib eye, disossato, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), désossé, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, bistec/asado de rib eye, deshuesado, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, ohne Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife/assado de ribeye, sem osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1515": {
+"it": "Manzo, bistecca/arrosto rib eye, disossato, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), désossé, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, bistec/asado de rib eye, deshuesado, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, ohne Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife/assado de ribeye, sem osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1516": {
+"it": "Manzo, bistecca/arrosto rib eye, disossato, con bordo di grasso (lip-on), magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), désossé, avec bordure de gras (lip-on), partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, bistec/asado de rib eye, deshuesado, con borde de grasa (lip-on), magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, ohne Knochen, mit Fettrand (lip-on), mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife/assado de ribeye, sem osso, com borda de gordura (lip-on), magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1517": {
+"it": "Manzo, bistecca/arrosto rib eye, disossato, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), désossé, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, bistec/asado de rib eye, deshuesado, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, ohne Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife/assado de ribeye, sem osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1518": {
+"it": "Manzo, bistecca/arrosto rib eye, disossato, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), désossé, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, bistec/asado de rib eye, deshuesado, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, ohne Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife/assado de ribeye, sem osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, Choice, crua"
+},
+"1519": {
+"it": "Manzo, bistecca/arrosto rib eye, disossato, con bordo di grasso (lip-on), solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, entrecôte/rôti (rib eye), désossé, avec bordure de gras (lip-on), partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, bistec/asado de rib eye, deshuesado, con borde de grasa (lip-on), solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rib-Eye-Steak/-Braten, ohne Knochen, mit Fettrand (lip-on), nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife/assado de ribeye, sem osso, com borda de gordura (lip-on), apenas parte magra, gordura aparada a 3 mm, Select, crua"
+},
+"1520": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1521": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1522": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1523": {
+"it": "Manzo, costola, costine dorsali, con osso, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, refogada"
+},
+"1524": {
+"it": "Manzo, costola, costine dorsali, con osso, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1525": {
+"it": "Manzo, costola, costine dorsali, con osso, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre et gras, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, magro y grasa, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, magro e gordura, gordura aparada a 0 mm, Choice, cozida, refogada"
+},
+"1526": {
+"it": "Manzo, costola, costine dorsali, con osso, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1527": {
+"it": "Manzo, costola, costine dorsali, con osso, magro e grasso, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre et gras, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, magro y grasa, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, magro e gordura, gordura aparada a 0 mm, Select, cozida, refogada"
+},
+"1528": {
+"it": "Manzo, costola, costine dorsali, con osso, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1529": {
+"it": "Manzo, costola, costine dorsali, con osso, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, refogada"
+},
+"1530": {
+"it": "Manzo, costola, costine dorsali, con osso, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1531": {
+"it": "Manzo, costola, costine dorsali, con osso, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre seulement, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, solo parte magra, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, refogada"
+},
+"1532": {
+"it": "Manzo, costola, costine dorsali, con osso, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1533": {
+"it": "Manzo, costola, costine dorsali, con osso, solo parte magra, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre seulement, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, solo parte magra, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, refogada"
+},
+"1534": {
+"it": "Manzo, costola, costine dorsali, con osso, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, côte, côtes dos, avec os, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, costilla, costillas dorsales, con hueso, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Rippe, Rückenrippen, mit Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, costela, costelas dorsais, com osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1535": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1536": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1537": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1538": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1539": {
+"it": "Manzo, rib eye, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, rib eye, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, rib eye, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Rib-Eye, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, ribeye, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1540": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1541": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1542": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1543": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1544": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1545": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1546": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1547": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1548": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Prime, cotto, alla griglia",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Prime, cuit, grillé",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Prime, cocido, a la parrilla",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Prime, cozida, grelhada"
+},
+"1549": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Prime, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Prime, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Prime, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Prime, cozida, assada"
+},
+"1550": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Prime, crudo",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Prime, cru",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Prime, crudo",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Prime, roh",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Prime, crua"
+},
+"1551": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1552": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1553": {
+"it": "Manzo, costola, parte grande (costole 6-9), magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1554": {
+"it": "Manzo, costola, parte grande (costole 6-9), solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1555": {
+"it": "Manzo, costola, parte grande (costole 6-9), solo parte magra, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre seulement, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), solo parte magra, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), apenas parte magra, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1556": {
+"it": "Manzo, costola, parte grande (costole 6-9), solo parte magra, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, côte, grosse extrémité (côtes 6-9), partie maigre seulement, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, costilla, extremo grande (costillas 6-9), solo parte magra, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Rippe, großes Ende (Rippen 6-9), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta grande (costelas 6-9), apenas parte magra, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1557": {
+"it": "Manzo, costola, short ribs, magro e grasso, Choice, cotto, brasato",
+"fr": "Bœuf, côte, short ribs, partie maigre et gras, Choice, cuit, braisé",
+"es": "Vacuno, costilla, short ribs, magro y grasa, Choice, cocido, estofado",
+"de": "Rind, Rippe, Short Ribs, mager und fett, Choice, gekocht, geschmort",
+"pt": "Carne bovina, costela, short ribs, magro e gordura, Choice, cozida, refogada"
+},
+"1558": {
+"it": "Manzo, costola, short ribs, magro e grasso, Choice, crudo",
+"fr": "Bœuf, côte, short ribs, partie maigre et gras, Choice, cru",
+"es": "Vacuno, costilla, short ribs, magro y grasa, Choice, crudo",
+"de": "Rind, Rippe, Short Ribs, mager und fett, Choice, roh",
+"pt": "Carne bovina, costela, short ribs, magro e gordura, Choice, crua"
+},
+"1559": {
+"it": "Manzo, costola, short ribs, solo parte magra, Choice, cotto, brasato",
+"fr": "Bœuf, côte, short ribs, partie maigre seulement, Choice, cuit, braisé",
+"es": "Vacuno, costilla, short ribs, solo parte magra, Choice, cocido, estofado",
+"de": "Rind, Rippe, Short Ribs, nur magerer Anteil, Choice, gekocht, geschmort",
+"pt": "Carne bovina, costela, short ribs, apenas parte magra, Choice, cozida, refogada"
+},
+"1560": {
+"it": "Manzo, costola, short ribs, solo parte magra, Choice, crudo",
+"fr": "Bœuf, côte, short ribs, partie maigre seulement, Choice, cru",
+"es": "Vacuno, costilla, short ribs, solo parte magra, Choice, crudo",
+"de": "Rind, Rippe, Short Ribs, nur magerer Anteil, Choice, roh",
+"pt": "Carne bovina, costela, short ribs, apenas parte magra, Choice, crua"
+},
+"1561": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1562": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1563": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1564": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1565": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1566": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1567": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1568": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1569": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1570": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Prime, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Prime, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Prime, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Prime, cozida, grelhada"
+},
+"1571": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Prime, cotto, arrosto",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Prime, cuit, rôti",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Prime, cocido, asado",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Prime, cozida, assada"
+},
+"1572": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Prime, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Prime, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Prime, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Prime, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Prime, crua"
+},
+"1573": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1574": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1575": {
+"it": "Manzo, costola, parte piccola (costole 10-12), magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1576": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1577": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1578": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1579": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1580": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1581": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 3 mm, Choice, crua"
+},
+"1582": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1583": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 3 mm, Select, crua"
+},
+"1584": {
+"it": "Manzo, costola, parte piccola (costole 10-12), solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, côte, petite extrémité (côtes 10-12), partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, costilla, extremo pequeño (costillas 10-12), solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rippe, kleines Ende (Rippen 10-12), nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, costela, ponta pequena (costelas 10-12), apenas parte magra, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1585": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1586": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1587": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1588": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1589": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1590": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1591": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Prime, cotto, alla griglia",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Prime, cuit, grillé",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Prime, cocido, a la parrilla",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gegrillt",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Prime, cozida, grelhada"
+},
+"1592": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Prime, cotto, arrosto",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Prime, cuit, rôti",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Prime, cocido, asado",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Prime, cozida, assada"
+},
+"1593": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Prime, crudo",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Prime, cru",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Prime, crudo",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Prime, roh",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Prime, crua"
+},
+"1594": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1595": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1596": {
+"it": "Manzo, costola, intera (costole 6-12), magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, côte, entière (côtes 6-12), partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, costilla, entera (costillas 6-12), magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Rippe, ganz (Rippen 6-12), mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, costela, inteira (costelas 6-12), magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1597": {
+"it": "Manzo, bistecca di copertura del rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, steak de calotte de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, bistec de tapa de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Ribeye-Cap-Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, bife de capa de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1598": {
+"it": "Manzo, bistecca di copertura del rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, steak de calotte de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, bistec de tapa de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Ribeye-Cap-Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, bife de capa de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1599": {
+"it": "Manzo, bistecca di copertura del rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, steak de calotte de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, bistec de tapa de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Ribeye-Cap-Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, bife de capa de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1600": {
+"it": "Manzo, bistecca di copertura del rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, steak de calotte de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, bistec de tapa de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Ribeye-Cap-Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, bife de capa de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1601": {
+"it": "Manzo, bistecca di copertura del rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, steak de calotte de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, bistec de tapa de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Ribeye-Cap-Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, bife de capa de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1602": {
+"it": "Manzo, bistecca di copertura del rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, steak de calotte de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, bistec de tapa de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Ribeye-Cap-Steak, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, bife de capa de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1603": {
+"it": "Manzo, filetto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, filet de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, filete de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Ribeye-Filet, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, filé de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1604": {
+"it": "Manzo, filetto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, filet de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, filete de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Ribeye-Filet, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, filé de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1605": {
+"it": "Manzo, filetto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, filet de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, filete de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Ribeye-Filet, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, filé de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1606": {
+"it": "Manzo, piccolo arrosto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, petit rôti de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, asado pequeño de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, kleiner Ribeye-Braten, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, assado pequeno de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1607": {
+"it": "Manzo, piccolo arrosto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, petit rôti de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, asado pequeño de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, kleiner Ribeye-Braten, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, assado pequeno de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1608": {
+"it": "Manzo, piccolo arrosto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, petit rôti de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, asado pequeño de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, kleiner Ribeye-Braten, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, assado pequeno de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1609": {
+"it": "Manzo, piccolo arrosto/filetto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, petit rôti/filet de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, asado pequeño/filete de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, kleiner Ribeye-Braten/-Filet, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, assado pequeno/filé de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1610": {
+"it": "Manzo, piccolo arrosto/filetto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, petit rôti/filet de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, asado pequeño/filete de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, kleiner Ribeye-Braten/-Filet, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, assado pequeno/filé de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1611": {
+"it": "Manzo, piccolo arrosto/filetto di rib eye, disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, petit rôti/filet de rib eye, désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, asado pequeño/filete de rib eye, deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, kleiner Ribeye-Braten/-Filet, ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, assado pequeno/filé de ribeye, sem osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1612": {
+"it": "Manzo, rib eye, bistecca, disossato, Choice, crudo",
+"fr": "Bœuf, rib eye, steak, désossé, Choice, cru",
+"es": "Vacuno, rib eye, bistec, deshuesado, Choice, crudo",
+"de": "Rind, Rib-Eye, Steak, ohne Knochen, Choice, roh",
+"pt": "Carne bovina, ribeye, bife, sem osso, Choice, crua"
+},
+"1613": {
+"it": "Manzo, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Bœuf, riz et légumes hors carottes, brocoli et légumes verts à feuilles foncées; sauce au fromage",
+"es": "Vacuno, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; salsa de queso",
+"de": "Rind, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Käsesauce",
+"pt": "Carne bovina, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de queijo"
+},
+"1614": {
+"it": "Manzo, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; sugo di carne (gravy)",
+"fr": "Bœuf, riz et légumes hors carottes, brocoli et légumes verts à feuilles foncées; jus de viande (gravy)",
+"es": "Vacuno, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; salsa de carne (gravy)",
+"de": "Rind, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Bratensauce (Gravy)",
+"pt": "Carne bovina, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de carne (gravy)"
+},
+"1615": {
+"it": "Manzo, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa ai funghi",
+"fr": "Bœuf, riz et légumes hors carottes, brocoli et légumes verts à feuilles foncées; sauce aux champignons",
+"es": "Vacuno, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; salsa de champiñones",
+"de": "Rind, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Champignonsauce",
+"pt": "Carne bovina, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho de cogumelos"
+},
+"1616": {
+"it": "Manzo, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+"fr": "Bœuf, riz et légumes hors carottes, brocoli et légumes verts à feuilles foncées; sans sauce",
+"es": "Vacuno, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+"de": "Rind, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Sauce",
+"pt": "Carne bovina, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; sem molho"
+},
+"1617": {
+"it": "Manzo, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; salsa a base di soia",
+"fr": "Bœuf, riz et légumes hors carottes, brocoli et légumes verts à feuilles foncées; sauce à base de soja",
+"es": "Vacuno, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; salsa a base de soja",
+"de": "Rind, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; Sauce auf Sojabasis",
+"pt": "Carne bovina, arroz e legumes excluindo cenouras, brócolis e folhas verde-escuras; molho à base de soja"
+},
+"1618": {
+"it": "Manzo, riso e verdure escluse carote, broccoli e/o verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Bœuf, riz et légumes hors carottes, brocoli et/ou légumes verts à feuilles foncées; sauce à base de tomate",
+"es": "Vacuno, arroz y verduras excluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Rind, Reis und Gemüse ohne Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Carne bovina, arroz e legumes excluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de tomate"
+},
+"1619": {
+"it": "Manzo, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; salsa al formaggio",
+"fr": "Bœuf, riz et légumes y compris carottes, brocoli et/ou légumes verts à feuilles foncées; sauce au fromage",
+"es": "Vacuno, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de queso",
+"de": "Rind, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Käsesauce",
+"pt": "Carne bovina, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de queijo"
+},
+"1620": {
+"it": "Manzo, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; sugo di carne (gravy)",
+"fr": "Bœuf, riz et légumes y compris carottes, brocoli et/ou légumes verts à feuilles foncées; jus de viande (gravy)",
+"es": "Vacuno, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de carne (gravy)",
+"de": "Rind, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Bratensauce (Gravy)",
+"pt": "Carne bovina, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de carne (gravy)"
+},
+"1621": {
+"it": "Manzo, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; salsa ai funghi",
+"fr": "Bœuf, riz et légumes y compris carottes, brocoli et/ou légumes verts à feuilles foncées; sauce aux champignons",
+"es": "Vacuno, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa de champiñones",
+"de": "Rind, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Champignonsauce",
+"pt": "Carne bovina, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho de cogumelos"
+},
+"1622": {
+"it": "Manzo, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+"fr": "Bœuf, riz et légumes y compris carottes, brocoli et/ou légumes verts à feuilles foncées; sans sauce",
+"es": "Vacuno, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+"de": "Rind, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; ohne Sauce",
+"pt": "Carne bovina, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+},
+"1623": {
+"it": "Manzo, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; salsa a base di soia",
+"fr": "Bœuf, riz et légumes y compris carottes, brocoli et/ou légumes verts à feuilles foncées; sauce à base de soja",
+"es": "Vacuno, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de soja",
+"de": "Rind, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Sauce auf Sojabasis",
+"pt": "Carne bovina, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de soja"
+},
+"1624": {
+"it": "Manzo, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; salsa a base di pomodoro",
+"fr": "Bœuf, riz et légumes y compris carottes, brocoli et/ou légumes verts à feuilles foncées; sauce à base de tomate",
+"es": "Vacuno, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de tomate",
+"de": "Rind, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünes Blattgemüse; Sauce auf Tomatenbasis",
+"pt": "Carne bovina, arroz e legumes incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de tomate"
+},
+"1625": {
+"it": "Manzo, arrosto",
+"fr": "Bœuf, rôti",
+"es": "Vacuno, asado",
+"de": "Rind, Braten",
+"pt": "Carne bovina, assada"
+},
+"1626": {
+"it": "Manzo, arrosto, hash",
+"fr": "Bœuf, rôti, hachis (hash)",
+"es": "Vacuno, asado, hash",
+"de": "Rind, Braten, Hash",
+"pt": "Carne bovina, assada, hash"
+},
+"1627": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1628": {
+"it": "Manzo, coscia (round), arrosto di sottofesa (bottom round), solo parte magra, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de gîte à la noix (bottom round), partie maigre seulement, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de contra (bottom round), solo parte magra, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Unterschale (Bottom Round), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão duro (bottom round), apenas parte magra, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1629": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1630": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre et gras, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, magro y grasa, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, magro e gordura, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1631": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, magro e grasso, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre et gras, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, magro y grasa, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, magro e gordura, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1632": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1633": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, magro e grasso, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre et gras, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, magro y grasa, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, magro e gordura, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1634": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, magro e grasso, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre et gras, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, magro y grasa, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, magro e gordura, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1635": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1636": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1637": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, cotto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 3 mm, todas las categorías, cocido",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozida"
+},
+"1638": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1639": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1640": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 3 mm, Choice, crua"
+},
+"1641": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), arrosto, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), rôti, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), contra (bottom round), asado, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), assada, apenas parte magra, gordura aparada a 3 mm, Select, crua"
+},
+"1642": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, refogada"
+},
+"1643": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, Choice, cozida, refogada"
+},
+"1644": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, Select, cozida, refogada"
+},
+"1645": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, refogada"
+},
+"1646": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1647": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 3 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 3 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 3 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 3 mm, Choice, cozida, refogada"
+},
+"1648": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1649": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 3 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 3 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 3 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 3 mm, Select, cozida, refogada"
+},
+"1650": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1651": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, refogada"
+},
+"1652": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre seulement, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, solo parte magra, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, refogada"
+},
+"1653": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, solo parte magra, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre seulement, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, solo parte magra, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, apenas parte magra, gordura aparada a 0 mm, Select, cozida, refogada"
+},
+"1654": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, solo parte magra, grasa recortada a 3 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozida, refogada"
+},
+"1655": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre seulement, gras paré à 3 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, solo parte magra, grasa recortada a 3 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, apenas parte magra, gordura aparada a 3 mm, Choice, cozida, refogada"
+},
+"1656": {
+"it": "Manzo, coscia (round), sottofesa (bottom round), bistecca, solo parte magra, grasso rifilato a 3 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), gîte à la noix (bottom round), steak, partie maigre seulement, gras paré à 3 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), contra (bottom round), bistec, solo parte magra, grasa recortada a 3 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Unterschale (Bottom Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão duro (bottom round), bife, apenas parte magra, gordura aparada a 3 mm, Select, cozida, refogada"
+},
+"1657": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1658": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1659": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1660": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1661": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1662": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1663": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1664": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1665": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1666": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1667": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1668": {
+"it": "Manzo, coscia (round), arrosto di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rôti de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), asado de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Braten vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), assado de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1669": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1670": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1671": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1672": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1673": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1674": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1675": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1676": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1677": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1678": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1679": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1680": {
+"it": "Manzo, coscia (round), bistecca di girello (eye of round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), steak de rond de gîte (eye of round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), bistec de redondo (eye of round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Steak vom Auge vom Round (Eye of Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), bife de lagarto (eye of round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1681": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1682": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1683": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, magro e grasso, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre et gras, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, magro y grasa, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, magro e gordura, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1684": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1685": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, magro e grasso, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre et gras, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, magro y grasa, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, magro e gordura, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1686": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1687": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, solo parte magra, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1688": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, solo parte magra, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, apenas parte magra, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1689": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre seulement, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, solo parte magra, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, apenas parte magra, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1690": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, apenas parte magra, gordura aparada a 3 mm, Choice, crua"
+},
+"1691": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, solo parte magra, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre seulement, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, solo parte magra, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, apenas parte magra, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1692": {
+"it": "Manzo, coscia (round), girello (eye of round), arrosto, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rond de gîte (eye of round), rôti, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), redondo (eye of round), asado, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Auge vom Round (Eye of Round), Braten, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), lagarto (eye of round), assada, apenas parte magra, gordura aparada a 3 mm, Select, crua"
+},
+"1693": {
+"it": "Manzo, coscia (round), taglio intero, magro e grasso, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), coupe entière, partie maigre et gras, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), corte completo, magro y grasa, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), ganzer Schnitt, mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), corte inteiro, magro e gordura, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1694": {
+"it": "Manzo, coscia (round), taglio intero, magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), coupe entière, partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), corte completo, magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), ganzer Schnitt, mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), corte inteiro, magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1695": {
+"it": "Manzo, coscia (round), taglio intero, magro e grasso, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), coupe entière, partie maigre et gras, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), corte completo, magro y grasa, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), ganzer Schnitt, mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), corte inteiro, magro e gordura, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1696": {
+"it": "Manzo, coscia (round), taglio intero, magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), coupe entière, partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), corte completo, magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), ganzer Schnitt, mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), corte inteiro, magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1697": {
+"it": "Manzo, coscia (round), taglio intero, solo parte magra, grasso rifilato a 6 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), coupe entière, partie maigre seulement, gras paré à 6 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), corte completo, solo parte magra, grasa recortada a 6 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), ganzer Schnitt, nur magerer Anteil, Fett auf 6 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), corte inteiro, apenas parte magra, gordura aparada a 6 mm, Choice, cozida, grelhada"
+},
+"1698": {
+"it": "Manzo, coscia (round), taglio intero, solo parte magra, grasso rifilato a 6 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), coupe entière, partie maigre seulement, gras paré à 6 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), corte completo, solo parte magra, grasa recortada a 6 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), ganzer Schnitt, nur magerer Anteil, Fett auf 6 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), corte inteiro, apenas parte magra, gordura aparada a 6 mm, Select, cozida, grelhada"
+},
+"1699": {
+"it": "Manzo, coscia (round), magatello (knuckle), centro della punta (tip center), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), centre de la pointe (tip center), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), centro de la punta (tip center), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Mitte der Spitze (Tip Center), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), centro da ponta (tip center), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1700": {
+"it": "Manzo, coscia (round), magatello (knuckle), centro della punta (tip center), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), centre de la pointe (tip center), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), centro de la punta (tip center), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Mitte der Spitze (Tip Center), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), centro da ponta (tip center), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1701": {
+"it": "Manzo, coscia (round), magatello (knuckle), centro della punta (tip center), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), centre de la pointe (tip center), steak, partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), centro de la punta (tip center), bistec, magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Mitte der Spitze (Tip Center), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), centro da ponta (tip center), bife, magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1702": {
+"it": "Manzo, coscia (round), magatello (knuckle), centro della punta (tip center), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), centre de la pointe (tip center), steak, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), centro de la punta (tip center), bistec, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Mitte der Spitze (Tip Center), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), centro da ponta (tip center), bife, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1703": {
+"it": "Manzo, coscia (round), magatello (knuckle), centro della punta (tip center), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), centre de la pointe (tip center), steak, partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), centro de la punta (tip center), bistec, magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Mitte der Spitze (Tip Center), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), centro da ponta (tip center), bife, magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1704": {
+"it": "Manzo, coscia (round), magatello (knuckle), centro della punta (tip center), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), centre de la pointe (tip center), steak, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), centro de la punta (tip center), bistec, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Mitte der Spitze (Tip Center), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), centro da ponta (tip center), bife, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1705": {
+"it": "Manzo, coscia (round), magatello (knuckle), lato della punta (tip side), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), côté de la pointe (tip side), steak, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), lado de la punta (tip side), bistec, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Seite der Spitze (Tip Side), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), lado da ponta (tip side), bife, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1706": {
+"it": "Manzo, coscia (round), magatello (knuckle), lato della punta (tip side), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), côté de la pointe (tip side), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), lado de la punta (tip side), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Seite der Spitze (Tip Side), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), lado da ponta (tip side), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1707": {
+"it": "Manzo, coscia (round), magatello (knuckle), lato della punta (tip side), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), côté de la pointe (tip side), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), lado de la punta (tip side), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Seite der Spitze (Tip Side), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), lado da ponta (tip side), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1708": {
+"it": "Manzo, coscia (round), magatello (knuckle), lato della punta (tip side), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), côté de la pointe (tip side), steak, partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), lado de la punta (tip side), bistec, magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Seite der Spitze (Tip Side), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), lado da ponta (tip side), bife, magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1709": {
+"it": "Manzo, coscia (round), magatello (knuckle), lato della punta (tip side), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), côté de la pointe (tip side), steak, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), lado de la punta (tip side), bistec, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Seite der Spitze (Tip Side), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), lado da ponta (tip side), bife, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1710": {
+"it": "Manzo, coscia (round), magatello (knuckle), lato della punta (tip side), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), rond de tranche (knuckle), côté de la pointe (tip side), steak, partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), bola de cadera (knuckle), lado de la punta (tip side), bistec, magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Nuss (Knuckle), Seite der Spitze (Tip Side), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), patinho (knuckle), lado da ponta (tip side), bife, magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1711": {
+"it": "Manzo, coscia (round), fesa esterna (outside round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), gîte externe (outside round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), round externo (outside round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Außenschale (Outside Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão duro externo (outside round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1712": {
+"it": "Manzo, coscia (round), fesa esterna (outside round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), gîte externe (outside round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), round externo (outside round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Außenschale (Outside Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), coxão duro externo (outside round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1713": {
+"it": "Manzo, coscia (round), fesa esterna (outside round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), gîte externe (outside round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), round externo (outside round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Außenschale (Outside Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão duro externo (outside round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1714": {
+"it": "Manzo, coscia (round), fesa esterna (outside round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), gîte externe (outside round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), round externo (outside round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Außenschale (Outside Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), coxão duro externo (outside round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1715": {
+"it": "Manzo, coscia (round), fesa esterna (outside round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), gîte externe (outside round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), round externo (outside round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Außenschale (Outside Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão duro externo (outside round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1716": {
+"it": "Manzo, coscia (round), fesa esterna (outside round), sottofesa (bottom round), bistecca, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), gîte externe (outside round), gîte à la noix (bottom round), steak, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), round externo (outside round), contra (bottom round), bistec, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Außenschale (Outside Round), Unterschale (Bottom Round), Steak, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), coxão duro externo (outside round), coxão duro (bottom round), bife, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1717": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1718": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1719": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1720": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1721": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1722": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1723": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, assada"
+},
+"1724": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 3 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 3 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 3 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 3 mm, Choice, cozida, assada"
+},
+"1725": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, magro e grasso, grasso rifilato a 3 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre et gras, gras paré à 3 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, magro y grasa, grasa recortada a 3 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, magro e gordura, gordura aparada a 3 mm, Select, cozida, assada"
+},
+"1726": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1727": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1728": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre seulement, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1729": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1730": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, solo parte magra, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre seulement, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, solo parte magra, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, apenas parte magra, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1731": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), arrosto, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), rôti, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), asado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), Braten, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), assada, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1732": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1733": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1734": {
+"it": "Manzo, coscia (round), punta di coscia (tip round), magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), pointe de ronde (tip round), partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), punta redonda (tip round), magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Tip Round (Kugel), mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), ponta de coxão (tip round), magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1735": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1736": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1737": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1738": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1739": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1740": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1741": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, assada"
+},
+"1742": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1743": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, assada"
+},
+"1744": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1745": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, arrosto",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, rôti",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, asado",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gebraten (im Ofen)",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, assada"
+},
+"1746": {
+"it": "Manzo, coscia (round), arrosto di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), rôti de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), asado de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Braten von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), assado de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1747": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1748": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1749": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1750": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Choice, crua"
+},
+"1751": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1752": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, magro e grasso, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre et gras, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, magro y grasa, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, mager und fett, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, magro e gordura, gordura aparada a 0 mm, Select, crua"
+},
+"1753": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, cozida, grelhada"
+},
+"1754": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, todas as classificações, crua"
+},
+"1755": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, cozida, grelhada"
+},
+"1756": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Choice, cru",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Choice, crua"
+},
+"1757": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, cozida, grelhada"
+},
+"1758": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), disossato, solo parte magra, grasso rifilato a 0 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), désossé, partie maigre seulement, gras paré à 0 mm, Select, cru",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), deshuesado, solo parte magra, grasa recortada a 0 mm, Select, crudo",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), ohne Knochen, nur magerer Anteil, Fett auf 0 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), sem osso, apenas parte magra, gordura aparada a 0 mm, Select, crua"
+},
+"1759": {
+"it": "Manzo, coscia (round), bistecca di fesa (top round), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), steak de tranche tendre (top round), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), bistec de tapa (top round), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Steak von der Oberschale (Top Round), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), bife de coxão mole (top round), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1760": {
+"it": "Manzo, coscia (round), fesa (top round), disossato, Choice, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), désossé, Choice, cru",
+"es": "Vacuno, pierna (round), tapa (top round), deshuesado, Choice, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), ohne Knochen, Choice, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), sem osso, Choice, crua"
+},
+"1761": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 0 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 0 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 0 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 0 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 0 mm, todas as classificações, cozida, refogada"
+},
+"1762": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 0 mm, Choice, cozida, refogada"
+},
+"1763": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 0 mm, Select, cozida, refogada"
+},
+"1764": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 3 mm, tutte le qualità, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 3 mm, toutes catégories, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 3 mm, todas las categorías, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 3 mm, todas as classificações, cozida, refogada"
+},
+"1765": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 3 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 3 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 3 mm, Choice, cozida, refogada"
+},
+"1766": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 3 mm, Choice, cotto, in padella",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 3 mm, Choice, cuit, poêlé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 3 mm, Choice, cocido, salteado en sartén",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, in der Pfanne gebraten",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 3 mm, Choice, cozida, frita na frigideira"
+},
+"1767": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 3 mm, Prime, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 3 mm, Prime, cru",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 3 mm, Prime, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 3 mm getrimmt, Prime, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 3 mm, Prime, crua"
+},
+"1768": {
+"it": "Manzo, coscia (round), fesa (top round), magro e grasso, grasso rifilato a 3 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre et gras, gras paré à 3 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), magro y grasa, grasa recortada a 3 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), magro e gordura, gordura aparada a 3 mm, Select, cozida, refogada"
+},
+"1769": {
+"it": "Manzo, coscia (round), fesa (top round), solo parte magra, grasso rifilato a 0 mm, Choice, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre seulement, gras paré à 0 mm, Choice, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), solo parte magra, grasa recortada a 0 mm, Choice, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), nur magerer Anteil, Fett auf 0 mm getrimmt, Choice, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), apenas parte magra, gordura aparada a 0 mm, Choice, cozida, refogada"
+},
+"1770": {
+"it": "Manzo, coscia (round), fesa (top round), solo parte magra, grasso rifilato a 0 mm, Select, cotto, brasato",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre seulement, gras paré à 0 mm, Select, cuit, braisé",
+"es": "Vacuno, pierna (round), tapa (top round), solo parte magra, grasa recortada a 0 mm, Select, cocido, estofado",
+"de": "Rind, Keule (Round), Oberschale (Top Round), nur magerer Anteil, Fett auf 0 mm getrimmt, Select, gekocht, geschmort",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), apenas parte magra, gordura aparada a 0 mm, Select, cozida, refogada"
+},
+"1771": {
+"it": "Manzo, coscia (round), fesa (top round), solo parte magra, grasso rifilato a 3 mm, Choice, cotto, in padella",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), partie maigre seulement, gras paré à 3 mm, Choice, cuit, poêlé",
+"es": "Vacuno, pierna (round), tapa (top round), solo parte magra, grasa recortada a 3 mm, Choice, cocido, salteado en sartén",
+"de": "Rind, Keule (Round), Oberschale (Top Round), nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, in der Pfanne gebraten",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), apenas parte magra, gordura aparada a 3 mm, Choice, cozida, frita na frigideira"
+},
+"1772": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, magro e grasso, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre et gras, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, magro y grasa, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, mager und fett, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, magro e gordura, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1773": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, magro e grasso, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre et gras, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, magro y grasa, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, magro e gordura, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1774": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, magro e grasso, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre et gras, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, magro y grasa, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, magro e gordura, gordura aparada a 3 mm, Choice, crua"
+},
+"1775": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, magro e grasso, grasso rifilato a 3 mm, Prime, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre et gras, gras paré à 3 mm, Prime, cuit, grillé",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, magro y grasa, grasa recortada a 3 mm, Prime, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Prime, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, magro e gordura, gordura aparada a 3 mm, Prime, cozida, grelhada"
+},
+"1776": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, magro e grasso, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre et gras, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, magro y grasa, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, magro e gordura, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1777": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, magro e grasso, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre et gras, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, magro y grasa, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, mager und fett, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, magro e gordura, gordura aparada a 3 mm, Select, crua"
+},
+"1778": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cuit, grillé",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, solo parte magra, grasa recortada a 3 mm, todas las categorías, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, cozida, grelhada"
+},
+"1779": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, solo parte magra, grasso rifilato a 3 mm, tutte le qualità, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre seulement, gras paré à 3 mm, toutes catégories, cru",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, solo parte magra, grasa recortada a 3 mm, todas las categorías, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, alle Güteklassen, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, apenas parte magra, gordura aparada a 3 mm, todas as classificações, crua"
+},
+"1780": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre seulement, gras paré à 3 mm, Choice, cuit, grillé",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, solo parte magra, grasa recortada a 3 mm, Choice, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, apenas parte magra, gordura aparada a 3 mm, Choice, cozida, grelhada"
+},
+"1781": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, solo parte magra, grasso rifilato a 3 mm, Choice, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre seulement, gras paré à 3 mm, Choice, cru",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, solo parte magra, grasa recortada a 3 mm, Choice, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, apenas parte magra, gordura aparada a 3 mm, Choice, crua"
+},
+"1782": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, solo parte magra, grasso rifilato a 3 mm, Select, cotto, alla griglia",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre seulement, gras paré à 3 mm, Select, cuit, grillé",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, solo parte magra, grasa recortada a 3 mm, Select, cocido, a la parrilla",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, gekocht, gegrillt",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, apenas parte magra, gordura aparada a 3 mm, Select, cozida, grelhada"
+},
+"1783": {
+"it": "Manzo, coscia (round), fesa (top round), bistecca, solo parte magra, grasso rifilato a 3 mm, Select, crudo",
+"fr": "Bœuf, cuisse (round), tranche tendre (top round), steak, partie maigre seulement, gras paré à 3 mm, Select, cru",
+"es": "Vacuno, pierna (round), tapa (top round), bistec, solo parte magra, grasa recortada a 3 mm, Select, crudo",
+"de": "Rind, Keule (Round), Oberschale (Top Round), Steak, nur magerer Anteil, Fett auf 3 mm getrimmt, Select, roh",
+"pt": "Carne bovina, coxão (round), coxão mole (top round), bife, apenas parte magra, gordura aparada a 3 mm, Select, crua"
+},
+"1784": {
+"it": "Manzo, bistecca per panino",
+"fr": "Bœuf, steak pour sandwich",
+"es": "Vacuno, bistec para sándwich",
+"de": "Rind, Sandwich-Steak",
+"pt": "Carne bovina, bife para sanduíche"
+},
+"1785": {
+"it": "Manzo, bistecche per panino, sfilacciato, tritato, formato e tagliato a fette sottili, crudo",
+"fr": "Bœuf, steaks pour sandwich, effiloché, haché, reconstitué et finement tranché, cru",
+"es": "Vacuno, bistecs para sándwich, deshebrado, picado, formado y cortado en lonchas finas, crudo",
+"de": "Rind, Sandwich-Steaks, gezupft, gehackt, geformt und in dünne Scheiben geschnitten, roh",
+"pt": "Carne bovina, bifes para sanduíche, desfiado, picado, moldado e fatiado em fatias finas, crua"
+},
+"1786": {
+"it": "Manzo, geretto, tagli trasversali, solo parte magra, grasso rifilato a 6 mm, Choice, cotto, cotto a fuoco lento",
+"fr": "Bœuf, jarret, coupes transversales, partie maigre seulement, gras paré à 6 mm, Choice, cuit, mijoté",
+"es": "Vacuno, jarrete, cortes transversales, solo parte magra, grasa recortada a 6 mm, Choice, cocido, cocido a fuego lento",
+"de": "Rind, Hesse, Querschnitte, nur magerer Anteil, Fett auf 6 mm getrimmt, Choice, gekocht, geköchelt",
+"pt": "Carne bovina, músculo, cortes transversais, apenas parte magra, gordura aparada a 6 mm, Choice, cozida, cozida em fogo baixo"
+},
+"1787": {
+"it": "Manzo, geretto, tagli trasversali, solo parte magra, grasso rifilato a 6 mm, Choice, crudo",
+"fr": "Bœuf, jarret, coupes transversales, partie maigre seulement, gras paré à 6 mm, Choice, cru",
+"es": "Vacuno, jarrete, cortes transversales, solo parte magra, grasa recortada a 6 mm, Choice, crudo",
+"de": "Rind, Hesse, Querschnitte, nur magerer Anteil, Fett auf 6 mm getrimmt, Choice, roh",
+"pt": "Carne bovina, músculo, cortes transversais, apenas parte magra, gordura aparada a 6 mm, Choice, crua"
+}
+}
