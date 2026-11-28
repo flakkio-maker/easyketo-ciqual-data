@@ -4,9 +4,9 @@
 I lotti sono di 298 voci: il lotto NN copre le righe (NN-1)*298 ... NN*298-1 (id = indice riga). L'ultimo (45) e' piu' corto.
 
 ## Stato
-- **output/**: 31 lotti completi sul piano strutturale: 01-21, 24-28, 30-32, 34-35.
-- **output_parziali/**: nessun lotto parziale residuo. I lotti 16 e 19 sono stati tradotti integralmente nelle cinque lingue, controllati per copertura esatta degli ID e trasferiti in `output/`; i lotti 30, 31, 32 e 34 sono stati completati integrando gli ID mancanti e trasferiti in `output/`.
-- **Da fare del tutto**: 22, 23, 29, 33, 36-45 (14 lotti).
+- **output/**: 32 lotti completi sul piano strutturale: 01-22, 24-28, 30-32, 34-35.
+- **output_parziali/**: lotto 23 in lavorazione (100/298 voci tradotte); nessun altro parziale residuo. I lotti 16, 19 e 22 sono stati tradotti integralmente nelle cinque lingue, controllati per copertura esatta degli ID e trasferiti in `output/`; i lotti 30, 31, 32 e 34 sono stati completati integrando gli ID mancanti e trasferiti in `output/`.
+- **Da fare del tutto**: 23, 29, 33, 36-45 (13 lotti).
 - I lotti appena completati hanno superato un controllo strutturale di copertura ID e presenza dei cinque campi lingua, coerente con `validate_names.py`. Non sono stati eseguiti localmente gli script Python del repository né una revisione madrelingua: non considerarli validati linguisticamente.
 - Il README precedente riportava conteggi di mancanti non coerenti con gli input effettivi: i mancanti rilevati erano 25 nel lotto 30, 4 nel 31, 1 nel 32 e 9 nel 34.
 
