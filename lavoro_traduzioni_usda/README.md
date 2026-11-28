@@ -18,5 +18,12 @@ I lotti sono di 298 voci: il lotto NN copre le righe (NN-1)*298 ... NN*298-1 (id
 3. Quando tutti i 45 lotti sono in `output/`: dalla radice del repo
    `python3 -I lavoro_traduzioni_usda/prepara_traduzioni_usda.py` (crea `traduzioni_usda.json`; senza tutti i lotti dice quali mancano), poi
    `python3 -I unisci_traduzioni_nomi.py usda_2026.json traduzioni_usda.json it,fr,es,de,pt`.
-4. Controllare che i campi preesistenti non siano cambiati, aggiornare `README_USDA.md` e `DECISIONI.md` dell'app, committare. Nell'app `UsdaDownloadWorker`/entity/DAO hanno gia' le colonne nome_it/fr/es/de/pt: dopo l'unione verificare solo che compili.
-5. I nomi arrivano agli utenti solo dopo il merge del branch dati su `main` (l'app scarica da raw.githubusercontent.com/.../main).
+4. Controllare che i campi preesistenti non siano cambiati e aggiornare `README_USDA.md`. **Non assumere che l'app supporti già PT:** nel branch `main` di `flakkio-maker/EasyKeto`, verificato il 28 novembre 2026, `UsdaDownloadWorker` e le entity/DAO gestiscono IT/FR/ES/DE ma non `nome_pt`. Serve un branch applicativo separato per aggiungere il campo e i mapping, senza cambiare la lingua dell'interfaccia.
+5. Le traduzioni arrivano agli utenti solo dopo due passaggi: pubblicazione del JSON aggiornato su `main` di questo repository (l'app scarica da `raw.githubusercontent.com/.../main`) **e** rilascio di una versione dell'app che sappia leggere `nome_pt`. La sola pubblicazione del JSON non basta.
+
+
+## Verifica incrociata con il codice dell'app (28 novembre 2026)
+
+La precedente nota che indicava già presenti le colonne `nome_pt` in `UsdaDownloadWorker`/entity/DAO non è corretta rispetto al branch `main` attuale di `flakkio-maker/EasyKeto`. La verifica dei file `UsdaDownloadWorker.kt`, `EntitiesDatasetNutrizionali.kt` e `TraduzioneAlimentoUseCase.kt` mostra supporto IT/FR/ES/DE, ma non PT. Inoltre `BancaDati` non contiene ancora TACO.
+
+Non considerare quindi le traduzioni USDA PT-BR o TACO pronte per la produzione finché non sarà completata anche l'integrazione applicativa e verificata con build/test.
