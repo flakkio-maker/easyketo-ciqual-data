@@ -1,0 +1,702 @@
+{
+ "6656": {
+  "it": "Greyhound",
+  "fr": "Greyhound",
+  "es": "Greyhound",
+  "de": "Greyhound",
+  "pt": "Greyhound"
+ },
+ "6657": {
+  "it": "Sandwich al formaggio grigliato, formaggio americano, su pane integrale",
+  "fr": "Sandwich au fromage grillé, fromage américain, sur pain complet",
+  "es": "Sándwich de queso a la parrilla, queso americano, en pan integral",
+  "de": "Gegrilltes Käsesandwich, amerikanischer Käse, auf Vollkornbrot",
+  "pt": "Sanduíche de queijo grelhado, queijo americano, em pão integral"
+ },
+ "6658": {
+  "it": "Sandwich al formaggio grigliato, formaggio americano, su pane bianco",
+  "fr": "Sandwich au fromage grillé, fromage américain, sur pain blanc",
+  "es": "Sándwich de queso a la parrilla, queso americano, en pan blanco",
+  "de": "Gegrilltes Käsesandwich, amerikanischer Käse, auf Weißbrot",
+  "pt": "Sanduíche de queijo grelhado, queijo americano, em pão branco"
+ },
+ "6659": {
+  "it": "Sandwich al formaggio grigliato, cheddar, su pane integrale",
+  "fr": "Sandwich au fromage grillé, cheddar, sur pain complet",
+  "es": "Sándwich de queso a la parrilla, cheddar, en pan integral",
+  "de": "Gegrilltes Käsesandwich, Cheddar, auf Vollkornbrot",
+  "pt": "Sanduíche de queijo grelhado, cheddar, em pão integral"
+ },
+ "6660": {
+  "it": "Sandwich al formaggio grigliato, cheddar, su pane bianco",
+  "fr": "Sandwich au fromage grillé, cheddar, sur pain blanc",
+  "es": "Sándwich de queso a la parrilla, cheddar, en pan blanco",
+  "de": "Gegrilltes Käsesandwich, Cheddar, auf Weißbrot",
+  "pt": "Sanduíche de queijo grelhado, cheddar, em pão branco"
+ },
+ "6661": {
+  "it": "Sandwich al formaggio grigliato, non specificato",
+  "fr": "Sandwich au fromage grillé, non précisé",
+  "es": "Sándwich de queso a la parrilla, no especificado",
+  "de": "Gegrilltes Käsesandwich, nicht näher bezeichnet",
+  "pt": "Sanduíche de queijo grelhado, não especificado"
+ },
+ "6662": {
+  "it": "Sandwich al formaggio grigliato, formaggio a ridotto contenuto di grassi, su pane integrale",
+  "fr": "Sandwich au fromage grillé, fromage allégé, sur pain complet",
+  "es": "Sándwich de queso a la parrilla, queso reducido en grasa, en pan integral",
+  "de": "Gegrilltes Käsesandwich, fettarmer Käse, auf Vollkornbrot",
+  "pt": "Sanduíche de queijo grelhado, queijo com teor reduzido de gordura, em pão integral"
+ },
+ "6663": {
+  "it": "Sandwich al formaggio grigliato, formaggio a ridotto contenuto di grassi, su pane bianco",
+  "fr": "Sandwich au fromage grillé, fromage allégé, sur pain blanc",
+  "es": "Sándwich de queso a la parrilla, queso reducido en grasa, en pan blanco",
+  "de": "Gegrilltes Käsesandwich, fettarmer Käse, auf Weißbrot",
+  "pt": "Sanduíche de queijo grelhado, queijo com teor reduzido de gordura, em pão branco"
+ },
+ "6664": {
+  "it": "Semolino di mais (grits), istantaneo, preparato con acqua, con grassi aggiunti",
+  "fr": "Gruau de maïs instantané, préparé avec de l'eau, avec matières grasses ajoutées",
+  "es": "Sémola de maíz instantánea, preparada con agua, con grasa añadida",
+  "de": "Instant-Maisgrütze, mit Wasser zubereitet, mit zugesetztem Fett",
+  "pt": "Canjica de milho instantânea, preparada com água, com gordura adicionada"
+ },
+ "6665": {
+  "it": "Semolino di mais (grits), istantaneo, preparato con acqua, senza grassi aggiunti",
+  "fr": "Gruau de maïs instantané, préparé avec de l'eau, sans matières grasses ajoutées",
+  "es": "Sémola de maíz instantánea, preparada con agua, sin grasa añadida",
+  "de": "Instant-Maisgrütze, mit Wasser zubereitet, ohne zugesetztes Fett",
+  "pt": "Canjica de milho instantânea, preparada com água, sem gordura adicionada"
+ },
+ "6666": {
+  "it": "Semolino di mais (grits), istantaneo, preparato con acqua, grassi non specificati",
+  "fr": "Gruau de maïs instantané, préparé avec de l'eau, matières grasses non précisées",
+  "es": "Sémola de maíz instantánea, preparada con agua, grasa no especificada",
+  "de": "Instant-Maisgrütze, mit Wasser zubereitet, Fett nicht angegeben",
+  "pt": "Canjica de milho instantânea, preparada com água, gordura não especificada"
+ },
+ "6667": {
+  "it": "Semolino di mais (grits), non specificato",
+  "fr": "Gruau de maïs, non précisé",
+  "es": "Sémola de maíz, no especificada",
+  "de": "Maisgrütze, nicht näher bezeichnet",
+  "pt": "Canjica de milho, não especificada"
+ },
+ "6668": {
+  "it": "Semolino di mais (grits), normale o a cottura rapida, preparato con acqua, con grassi aggiunti",
+  "fr": "Gruau de maïs, classique ou à cuisson rapide, préparé avec de l'eau, avec matières grasses ajoutées",
+  "es": "Sémola de maíz, normal o de cocción rápida, preparada con agua, con grasa añadida",
+  "de": "Maisgrütze, normal oder schnellkochend, mit Wasser zubereitet, mit zugesetztem Fett",
+  "pt": "Canjica de milho, comum ou de cozimento rápido, preparada com água, com gordura adicionada"
+ },
+ "6669": {
+  "it": "Semolino di mais (grits), normale o a cottura rapida, preparato con acqua, senza grassi aggiunti",
+  "fr": "Gruau de maïs, classique ou à cuisson rapide, préparé avec de l'eau, sans matières grasses ajoutées",
+  "es": "Sémola de maíz, normal o de cocción rápida, preparada con agua, sin grasa añadida",
+  "de": "Maisgrütze, normal oder schnellkochend, mit Wasser zubereitet, ohne zugesetztes Fett",
+  "pt": "Canjica de milho, comum ou de cozimento rápido, preparada com água, sem gordura adicionada"
+ },
+ "6670": {
+  "it": "Semolino di mais (grits), normale o a cottura rapida, preparato con acqua, grassi non specificati",
+  "fr": "Gruau de maïs, classique ou à cuisson rapide, préparé avec de l'eau, matières grasses non précisées",
+  "es": "Sémola de maíz, normal o de cocción rápida, preparada con agua, grasa no especificada",
+  "de": "Maisgrütze, normal oder schnellkochend, mit Wasser zubereitet, Fett nicht angegeben",
+  "pt": "Canjica de milho, comum ou de cozimento rápido, preparada com água, gordura não especificada"
+ },
+ "6671": {
+  "it": "Semolino di mais (grits), con formaggio, con grassi aggiunti",
+  "fr": "Gruau de maïs, avec fromage, avec matières grasses ajoutées",
+  "es": "Sémola de maíz, con queso, con grasa añadida",
+  "de": "Maisgrütze mit Käse, mit zugesetztem Fett",
+  "pt": "Canjica de milho com queijo, com gordura adicionada"
+ },
+ "6672": {
+  "it": "Semolino di mais (grits), con formaggio, senza grassi aggiunti",
+  "fr": "Gruau de maïs, avec fromage, sans matières grasses ajoutées",
+  "es": "Sémola de maíz, con queso, sin grasa añadida",
+  "de": "Maisgrütze mit Käse, ohne zugesetztes Fett",
+  "pt": "Canjica de milho com queijo, sem gordura adicionada"
+ },
+ "6673": {
+  "it": "Semolino di mais (grits), con formaggio, grassi non specificati",
+  "fr": "Gruau de maïs, avec fromage, matières grasses non précisées",
+  "es": "Sémola de maíz, con queso, grasa no especificada",
+  "de": "Maisgrütze mit Käse, Fett nicht angegeben",
+  "pt": "Canjica de milho com queijo, gordura não especificada"
+ },
+ "6674": {
+  "it": "Alchechengi (uva spina del Capo o poha), crudi",
+  "fr": "Coquerets du Pérou (groseilles du Cap ou poha), crus",
+  "es": "Aguaymanto (uchuva o poha), crudo",
+  "de": "Kapstachelbeeren (Physalis oder Poha), roh",
+  "pt": "Physalis (groselha-do-cabo ou poha), crua"
+ },
+ "6675": {
+  "it": "Marmotta",
+  "fr": "Marmotte",
+  "es": "Marmota",
+  "de": "Murmeltier",
+  "pt": "Marmota"
+ },
+ "6676": {
+  "it": "Guacamole con pomodori",
+  "fr": "Guacamole avec tomates",
+  "es": "Guacamole con tomates",
+  "de": "Guacamole mit Tomaten",
+  "pt": "Guacamole com tomates"
+ },
+ "6677": {
+  "it": "Guacamole, non specificato",
+  "fr": "Guacamole, non précisé",
+  "es": "Guacamole, no especificado",
+  "de": "Guacamole, nicht näher bezeichnet",
+  "pt": "Guacamole, não especificado"
+ },
+ "6678": {
+  "it": "Nettare di guanabana, in scatola",
+  "fr": "Nectar de corossol, en conserve",
+  "es": "Néctar de guanábana, en conserva",
+  "de": "Guanábana-Nektar, aus der Dose",
+  "pt": "Néctar de graviola, enlatado"
+ },
+ "6679": {
+  "it": "Nettare di guava",
+  "fr": "Nectar de goyave",
+  "es": "Néctar de guayaba",
+  "de": "Guavennektar",
+  "pt": "Néctar de goiaba"
+ },
+ "6680": {
+  "it": "Nettare di guava, in scatola, con acido ascorbico aggiunto",
+  "fr": "Nectar de goyave, en conserve, avec acide ascorbique ajouté",
+  "es": "Néctar de guayaba, en conserva, con ácido ascórbico añadido",
+  "de": "Guavennektar, aus der Dose, mit zugesetzter Ascorbinsäure",
+  "pt": "Néctar de goiaba, enlatado, com ácido ascórbico adicionado"
+ },
+ "6681": {
+  "it": "Nettare di guava, con sucralosio, in scatola",
+  "fr": "Nectar de goyave, avec sucralose, en conserve",
+  "es": "Néctar de guayaba, con sucralosa, en conserva",
+  "de": "Guavennektar, mit Sucralose, aus der Dose",
+  "pt": "Néctar de goiaba, com sucralose, enlatado"
+ },
+ "6682": {
+  "it": "Pasta di guava",
+  "fr": "Pâte de goyave",
+  "es": "Pasta de guayaba",
+  "de": "Guavenpaste",
+  "pt": "Goiabada"
+ },
+ "6683": {
+  "it": "Salsa di guava, cotta",
+  "fr": "Sauce à la goyave, cuite",
+  "es": "Salsa de guayaba, cocida",
+  "de": "Guavensauce, gegart",
+  "pt": "Molho de goiaba, cozido"
+ },
+ "6684": {
+  "it": "Guava, cruda",
+  "fr": "Goyave, crue",
+  "es": "Guayaba, cruda",
+  "de": "Guave, roh",
+  "pt": "Goiaba, crua"
+ },
+ "6685": {
+  "it": "Guava comune, cruda",
+  "fr": "Goyaves communes, crues",
+  "es": "Guayabas comunes, crudas",
+  "de": "Gewöhnliche Guaven, roh",
+  "pt": "Goiabas comuns, cruas"
+ },
+ "6686": {
+  "it": "Guava fragola, cruda",
+  "fr": "Goyaves-fraises, crues",
+  "es": "Guayabas fresa, crudas",
+  "de": "Erdbeer-Guaven, roh",
+  "pt": "Goiabas-morango, cruas"
+ },
+ "6687": {
+  "it": "Faraona, carne e pelle, cruda",
+  "fr": "Pintade, viande et peau, crue",
+  "es": "Gallina de Guinea, carne y piel, cruda",
+  "de": "Perlhuhn, Fleisch und Haut, roh",
+  "pt": "Galinha-d'angola, carne e pele, crua"
+ },
+ "6688": {
+  "it": "Faraona, solo carne, cruda",
+  "fr": "Pintade, viande seule, crue",
+  "es": "Gallina de Guinea, solo carne, cruda",
+  "de": "Perlhuhn, nur Fleisch, roh",
+  "pt": "Galinha-d'angola, apenas carne, crua"
+ },
+ "6689": {
+  "it": "Stufato di manzo",
+  "fr": "Ragoût de bœuf",
+  "es": "Estofado de carne de res",
+  "de": "Rindfleischeintopf",
+  "pt": "Ensopado de carne bovina"
+ },
+ "6690": {
+  "it": "Stufato di maiale",
+  "fr": "Ragoût de porc",
+  "es": "Estofado de cerdo",
+  "de": "Schweinefleischeintopf",
+  "pt": "Ensopado de carne suína"
+ },
+ "6691": {
+  "it": "Gumbo con riso",
+  "fr": "Gumbo avec riz",
+  "es": "Gumbo con arroz",
+  "de": "Gumbo mit Reis",
+  "pt": "Gumbo com arroz"
+ },
+ "6692": {
+  "it": "Gumbo senza riso",
+  "fr": "Gumbo sans riz",
+  "es": "Gumbo sin arroz",
+  "de": "Gumbo ohne Reis",
+  "pt": "Gumbo sem arroz"
+ },
+ "6693": {
+  "it": "Gomme, gomme vegetali da semi (incluse carruba e guar)",
+  "fr": "Gommes, gommes de graines (y compris caroube et guar)",
+  "es": "Gomas, gomas de semillas (incluye algarrobo y guar)",
+  "de": "Gummen, Samengummen (einschließlich Johannisbrot und Guar)",
+  "pt": "Gomas, gomas de sementes (inclui alfarroba e guar)"
+ },
+ "6694": {
+  "it": "Panino gyro",
+  "fr": "Sandwich gyro",
+  "es": "Sándwich gyro",
+  "de": "Gyros-Sandwich",
+  "pt": "Sanduíche gyro"
+ },
+ "6695": {
+  "it": "Halibut, surgelato, pescato in natura",
+  "fr": "Flétan, surgelé, pêché à l'état sauvage",
+  "es": "Fletán, congelado, capturado en estado silvestre",
+  "de": "Heilbutt, tiefgekühlt, wild gefangen",
+  "pt": "Alabote, congelado, capturado na natureza"
+ },
+ "6696": {
+  "it": "Prosciutto",
+  "fr": "Jambon",
+  "es": "Jamón",
+  "de": "Schinken",
+  "pt": "Presunto"
+ },
+ "6697": {
+  "it": "Polpettone o rotolo di prosciutto e formaggio",
+  "fr": "Pain ou roulé de jambon et fromage",
+  "es": "Fiambre o rollo de jamón y queso",
+  "de": "Schinken-Käse-Aufschnittlaib oder -rolle",
+  "pt": "Bolo ou rolo de presunto e queijo"
+ },
+ "6698": {
+  "it": "Crema spalmabile di prosciutto e formaggio",
+  "fr": "Tartinade de jambon et fromage",
+  "es": "Crema para untar de jamón y queso",
+  "de": "Schinken-Käse-Aufstrich",
+  "pt": "Pasta de presunto e queijo"
+ },
+ "6699": {
+  "it": "Prosciutto e noodles con panna o salsa bianca",
+  "fr": "Jambon et nouilles à la crème ou à la sauce blanche",
+  "es": "Jamón y fideos con crema o salsa blanca",
+  "de": "Schinken und Nudeln mit Sahne- oder weißer Sauce",
+  "pt": "Presunto e macarrão com creme ou molho branco"
+ },
+ "6700": {
+  "it": "Prosciutto e noodles, senza salsa",
+  "fr": "Jambon et nouilles, sans sauce",
+  "es": "Jamón y fideos, sin salsa",
+  "de": "Schinken und Nudeln, ohne Sauce",
+  "pt": "Presunto e macarrão, sem molho"
+ },
+ "6701": {
+  "it": "Prosciutto e riso con salsa ai funghi",
+  "fr": "Jambon et riz avec sauce aux champignons",
+  "es": "Jamón y arroz con salsa de champiñones",
+  "de": "Schinken und Reis mit Pilzsauce",
+  "pt": "Presunto e arroz com molho de cogumelos"
+ },
+ "6702": {
+  "it": "Prosciutto e verdure esclusi carote, broccoli e verdure a foglia verde scuro; senza patate, senza salsa",
+  "fr": "Jambon et légumes à l'exclusion des carottes, brocolis et légumes à feuilles vert foncé ; sans pommes de terre, sans sauce",
+  "es": "Jamón y verduras excepto zanahorias, brócoli y verduras de hoja verde oscuro; sin papas, sin salsa",
+  "de": "Schinken und Gemüse außer Karotten, Brokkoli und dunkelgrünem Blattgemüse; ohne Kartoffeln, ohne Sauce",
+  "pt": "Presunto e vegetais, exceto cenouras, brócolis e folhas verde-escuras; sem batatas, sem molho"
+ },
+ "6703": {
+  "it": "Prosciutto e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; senza patate, senza salsa",
+  "fr": "Jambon et légumes comprenant carottes, brocolis et/ou légumes à feuilles vert foncé ; sans pommes de terre, sans sauce",
+  "es": "Jamón y verduras con zanahorias, brócoli y/o verduras de hoja verde oscuro; sin papas, sin salsa",
+  "de": "Schinken und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Kartoffeln, ohne Sauce",
+  "pt": "Presunto e vegetais, incluindo cenouras, brócolis e/ou folhas verde-escuras; sem batatas, sem molho"
+ },
+ "6704": {
+  "it": "Panino con prosciutto su biscotto salato tipo biscuit",
+  "fr": "Sandwich au jambon dans un biscuit américain",
+  "es": "Sándwich de jamón en panecillo tipo biscuit",
+  "de": "Schinken-Sandwich auf amerikanischem Biscuit-Brötchen",
+  "pt": "Sanduíche de presunto em pão tipo biscuit americano"
+ },
+ "6705": {
+  "it": "Crocchetta di prosciutto",
+  "fr": "Croquette de jambon",
+  "es": "Croqueta de jamón",
+  "de": "Schinkenkrokette",
+  "pt": "Croquete de presunto"
+ },
+ "6706": {
+  "it": "Prosciutto da luncheon meat, tipo polpettone",
+  "fr": "Jambon en charcuterie, type pain",
+  "es": "Jamón tipo fiambre, en bloque",
+  "de": "Schinken als Aufschnitt, Laibform",
+  "pt": "Presunto tipo fiambre, em bloco"
+ },
+ "6707": {
+  "it": "Prosciutto o maiale e patate con salsa al formaggio",
+  "fr": "Jambon ou porc et pommes de terre avec sauce au fromage",
+  "es": "Jamón o cerdo y papas con salsa de queso",
+  "de": "Schinken oder Schweinefleisch und Kartoffeln mit Käsesauce",
+  "pt": "Presunto ou carne suína e batatas com molho de queijo"
+ },
+ "6708": {
+  "it": "Prosciutto o maiale e patate con salsa gravy",
+  "fr": "Jambon ou porc et pommes de terre avec sauce brune",
+  "es": "Jamón o cerdo y papas con salsa gravy",
+  "de": "Schinken oder Schweinefleisch und Kartoffeln mit Bratensauce",
+  "pt": "Presunto ou carne suína e batatas com molho gravy"
+ },
+ "6709": {
+  "it": "Prosciutto o maiale e riso, senza salsa",
+  "fr": "Jambon ou porc et riz, sans sauce",
+  "es": "Jamón o cerdo y arroz, sin salsa",
+  "de": "Schinken oder Schweinefleisch und Reis, ohne Sauce",
+  "pt": "Presunto ou carne suína e arroz, sem molho"
+ },
+ "6710": {
+  "it": "Insalata di prosciutto o maiale",
+  "fr": "Salade de jambon ou de porc",
+  "es": "Ensalada de jamón o cerdo",
+  "de": "Schinken- oder Schweinefleischsalat",
+  "pt": "Salada de presunto ou carne suína"
+ },
+ "6711": {
+  "it": "Prosciutto o maiale con salsa gravy",
+  "fr": "Jambon ou porc avec sauce brune",
+  "es": "Jamón o cerdo con salsa gravy",
+  "de": "Schinken oder Schweinefleisch mit Bratensauce",
+  "pt": "Presunto ou carne suína com molho gravy"
+ },
+ "6712": {
+  "it": "Prosciutto o maiale con salsa ai funghi",
+  "fr": "Jambon ou porc avec sauce aux champignons",
+  "es": "Jamón o cerdo con salsa de champiñones",
+  "de": "Schinken oder Schweinefleisch mit Pilzsauce",
+  "pt": "Presunto ou carne suína com molho de cogumelos"
+ },
+ "6713": {
+  "it": "Prosciutto o maiale con ripieno",
+  "fr": "Jambon ou porc avec farce",
+  "es": "Jamón o cerdo con relleno",
+  "de": "Schinken oder Schweinefleisch mit Füllung",
+  "pt": "Presunto ou carne suína com recheio"
+ },
+ "6714": {
+  "it": "Prosciutto o maiale con salsa a base di pomodoro",
+  "fr": "Jambon ou porc avec sauce à base de tomate",
+  "es": "Jamón o cerdo con salsa a base de tomate",
+  "de": "Schinken oder Schweinefleisch mit Tomatensauce",
+  "pt": "Presunto ou carne suína com molho à base de tomate"
+ },
+ "6715": {
+  "it": "Prosciutto o maiale, noodles e verdure esclusi carote, broccoli e verdure a foglia verde scuro; salsa al formaggio",
+  "fr": "Jambon ou porc, nouilles et légumes à l'exclusion des carottes, brocolis et légumes à feuilles vert foncé ; sauce au fromage",
+  "es": "Jamón o cerdo, fideos y verduras excepto zanahorias, brócoli y verduras de hoja verde oscuro; salsa de queso",
+  "de": "Schinken oder Schweinefleisch, Nudeln und Gemüse außer Karotten, Brokkoli und dunkelgrünem Blattgemüse; Käsesauce",
+  "pt": "Presunto ou carne suína, macarrão e vegetais, exceto cenouras, brócolis e folhas verde-escuras; molho de queijo"
+ },
+ "6716": {
+  "it": "Prosciutto o maiale, noodles e verdure esclusi carote, broccoli e verdure a foglia verde scuro; senza salsa",
+  "fr": "Jambon ou porc, nouilles et légumes à l'exclusion des carottes, brocolis et légumes à feuilles vert foncé ; sans sauce",
+  "es": "Jamón o cerdo, fideos y verduras excepto zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+  "de": "Schinken oder Schweinefleisch, Nudeln und Gemüse außer Karotten, Brokkoli und dunkelgrünem Blattgemüse; ohne Sauce",
+  "pt": "Presunto ou carne suína, macarrão e vegetais, exceto cenouras, brócolis e folhas verde-escuras; sem molho"
+ },
+ "6717": {
+  "it": "Prosciutto o maiale, noodles e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+  "fr": "Jambon ou porc, nouilles et légumes comprenant carottes, brocolis et/ou légumes à feuilles vert foncé ; sans sauce",
+  "es": "Jamón o cerdo, fideos y verduras con zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+  "de": "Schinken oder Schweinefleisch, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+  "pt": "Presunto ou carne suína, macarrão e vegetais, incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+ },
+ "6718": {
+  "it": "Prosciutto o maiale, noodles e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; salsa a base di pomodoro",
+  "fr": "Jambon ou porc, nouilles et légumes comprenant carottes, brocolis et/ou légumes à feuilles vert foncé ; sauce à base de tomate",
+  "es": "Jamón o cerdo, fideos y verduras con zanahorias, brócoli y/o verduras de hoja verde oscuro; salsa a base de tomate",
+  "de": "Schinken oder Schweinefleisch, Nudeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; Tomatensauce",
+  "pt": "Presunto ou carne suína, macarrão e vegetais, incluindo cenouras, brócolis e/ou folhas verde-escuras; molho à base de tomate"
+ },
+ "6719": {
+  "it": "Panino con insalata di prosciutto su pane integrale",
+  "fr": "Sandwich à la salade de jambon sur pain complet",
+  "es": "Sándwich de ensalada de jamón en pan integral",
+  "de": "Schinkensalat-Sandwich auf Vollkornbrot",
+  "pt": "Sanduíche de salada de presunto em pão integral"
+ },
+ "6720": {
+  "it": "Panino con insalata di prosciutto su pane bianco",
+  "fr": "Sandwich à la salade de jambon sur pain blanc",
+  "es": "Sándwich de ensalada de jamón en pan blanco",
+  "de": "Schinkensalat-Sandwich auf Weißbrot",
+  "pt": "Sanduíche de salada de presunto em pão branco"
+ },
+ "6721": {
+  "it": "Crema spalmabile di insalata di prosciutto",
+  "fr": "Tartinade de salade de jambon",
+  "es": "Pasta para untar de ensalada de jamón",
+  "de": "Schinkensalat-Aufstrich",
+  "pt": "Pasta de salada de presunto"
+ },
+ "6722": {
+  "it": "Panino con prosciutto su pane integrale",
+  "fr": "Sandwich au jambon sur pain complet",
+  "es": "Sándwich de jamón en pan integral",
+  "de": "Schinken-Sandwich auf Vollkornbrot",
+  "pt": "Sanduíche de presunto em pão integral"
+ },
+ "6723": {
+  "it": "Panino con prosciutto su pane integrale, con formaggio",
+  "fr": "Sandwich au jambon sur pain complet, avec fromage",
+  "es": "Sándwich de jamón en pan integral, con queso",
+  "de": "Schinken-Sandwich auf Vollkornbrot mit Käse",
+  "pt": "Sanduíche de presunto em pão integral, com queijo"
+ },
+ "6724": {
+  "it": "Panino con prosciutto su pane bianco",
+  "fr": "Sandwich au jambon sur pain blanc",
+  "es": "Sándwich de jamón en pan blanco",
+  "de": "Schinken-Sandwich auf Weißbrot",
+  "pt": "Sanduíche de presunto em pão branco"
+ },
+ "6725": {
+  "it": "Panino con prosciutto su pane bianco, con formaggio",
+  "fr": "Sandwich au jambon sur pain blanc, avec fromage",
+  "es": "Sándwich de jamón en pan blanco, con queso",
+  "de": "Schinken-Sandwich auf Weißbrot mit Käse",
+  "pt": "Sanduíche de presunto em pão branco, com queijo"
+ },
+ "6726": {
+  "it": "Panino o sub con prosciutto, da ristorante",
+  "fr": "Sandwich ou sous-marin au jambon, de restaurant",
+  "es": "Sándwich o submarino de jamón, de restaurante",
+  "de": "Schinken-Sandwich oder Sub, aus dem Restaurant",
+  "pt": "Sanduíche ou sub de presunto, de restaurante"
+ },
+ "6727": {
+  "it": "Panino o sub con prosciutto e formaggio, da ristorante",
+  "fr": "Sandwich ou sous-marin au jambon et fromage, de restaurant",
+  "es": "Sándwich o submarino de jamón y queso, de restaurante",
+  "de": "Schinken-Käse-Sandwich oder Sub, aus dem Restaurant",
+  "pt": "Sanduíche ou sub de presunto e queijo, de restaurante"
+ },
+ "6728": {
+  "it": "Wrap con prosciutto",
+  "fr": "Wrap au jambon",
+  "es": "Wrap de jamón",
+  "de": "Schinken-Wrap",
+  "pt": "Wrap de presunto"
+ },
+ "6729": {
+  "it": "Stroganoff di prosciutto",
+  "fr": "Stroganoff de jambon",
+  "es": "Stroganoff de jamón",
+  "de": "Schinken-Stroganoff",
+  "pt": "Strogonoff de presunto"
+ },
+ "6730": {
+  "it": "Prosciutto, in scatola",
+  "fr": "Jambon, en conserve",
+  "es": "Jamón, en conserva",
+  "de": "Schinken, aus der Dose",
+  "pt": "Presunto, enlatado"
+ },
+ "6731": {
+  "it": "Prosciutto, tritato, in scatola",
+  "fr": "Jambon, haché, en conserve",
+  "es": "Jamón, picado, en conserva",
+  "de": "Schinken, gehackt, aus der Dose",
+  "pt": "Presunto, picado, enlatado"
+ },
+ "6732": {
+  "it": "Prosciutto, tritato, non in scatola",
+  "fr": "Jambon, haché, non en conserve",
+  "es": "Jamón, picado, no en conserva",
+  "de": "Schinken, gehackt, nicht aus der Dose",
+  "pt": "Presunto, picado, não enlatado"
+ },
+ "6733": {
+  "it": "Prosciutto, da usare con verdure",
+  "fr": "Jambon, à utiliser avec des légumes",
+  "es": "Jamón, para usar con verduras",
+  "de": "Schinken, zur Verwendung mit Gemüse",
+  "pt": "Presunto, para uso com vegetais"
+ },
+ "6734": {
+  "it": "Prosciutto, macinato",
+  "fr": "Jambon, haché",
+  "es": "Jamón, molido",
+  "de": "Schinken, Hackfleisch",
+  "pt": "Presunto, moído"
+ },
+ "6735": {
+  "it": "Prosciutto al miele, affumicato, cotto",
+  "fr": "Jambon au miel, fumé, cuit",
+  "es": "Jamón con miel, ahumado, cocido",
+  "de": "Honigschinken, geräuchert, gegart",
+  "pt": "Presunto com mel, defumado, cozido"
+ },
+ "6736": {
+  "it": "Prosciutto, tritato finemente",
+  "fr": "Jambon, finement haché",
+  "es": "Jamón, picado fino",
+  "de": "Schinken, fein gehackt",
+  "pt": "Presunto, bem picado"
+ },
+ "6737": {
+  "it": "Prosciutto, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+  "fr": "Jambon, pommes de terre et légumes à l'exclusion des carottes, brocolis et légumes à feuilles vert foncé ; sans sauce",
+  "es": "Jamón, papas y verduras excepto zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+  "de": "Schinken, Kartoffeln und Gemüse außer Karotten, Brokkoli und dunkelgrünem Blattgemüse; ohne Sauce",
+  "pt": "Presunto, batatas e vegetais, exceto cenouras, brócolis e folhas verde-escuras; sem molho"
+ },
+ "6738": {
+  "it": "Prosciutto, patate e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+  "fr": "Jambon, pommes de terre et légumes comprenant carottes, brocolis et/ou légumes à feuilles vert foncé ; sans sauce",
+  "es": "Jamón, papas y verduras con zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+  "de": "Schinken, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+  "pt": "Presunto, batatas e vegetais, incluindo cenouras, brócolis e/ou folhas verde-escuras; sem molho"
+ },
+ "6739": {
+  "it": "Prosciutto, affettato preconfezionato o da banco gastronomia, salume",
+  "fr": "Jambon, en tranches préemballé ou de charcuterie, charcuterie",
+  "es": "Jamón, en lonchas preenvasado o de charcutería, fiambre",
+  "de": "Schinken, vorgeschnitten verpackt oder von der Feinkosttheke, Aufschnitt",
+  "pt": "Presunto, fatiado pré-embalado ou de balcão de frios, fiambre"
+ },
+ "6740": {
+  "it": "Prosciutto, affettato preconfezionato o da banco gastronomia, salume, a ridotto contenuto di sodio",
+  "fr": "Jambon, en tranches préemballé ou de charcuterie, charcuterie, à teneur réduite en sodium",
+  "es": "Jamón, en lonchas preenvasado o de charcutería, fiambre, reducido en sodio",
+  "de": "Schinken, vorgeschnitten verpackt oder von der Feinkosttheke, Aufschnitt, natriumreduziert",
+  "pt": "Presunto, fatiado pré-embalado ou de balcão de frios, fiambre, com teor reduzido de sódio"
+ },
+ "6741": {
+  "it": "Prosciutto, prosciutto crudo",
+  "fr": "Jambon, prosciutto",
+  "es": "Jamón, prosciutto",
+  "de": "Schinken, Prosciutto",
+  "pt": "Presunto, prosciutto"
+ },
+ "6742": {
+  "it": "Prosciutto, affettato, preconfezionato, salume (96% senza grassi, acqua aggiunta)",
+  "fr": "Jambon, en tranches, préemballé, charcuterie (96 % sans matières grasses, eau ajoutée)",
+  "es": "Jamón, en lonchas, preenvasado, fiambre (96 % sin grasa, agua añadida)",
+  "de": "Schinken, in Scheiben, vorverpackt, Aufschnitt (96 % fettfrei, mit Wasserzusatz)",
+  "pt": "Presunto, fatiado, pré-embalado, fiambre (96% sem gordura, água adicionada)"
+ },
+ "6743": {
+  "it": "Prosciutto, affettato, normale (circa 11% di grassi)",
+  "fr": "Jambon, en tranches, classique (environ 11 % de matières grasses)",
+  "es": "Jamón, en lonchas, normal (aproximadamente 11 % de grasa)",
+  "de": "Schinken, in Scheiben, normal (etwa 11 % Fett)",
+  "pt": "Presunto, fatiado, comum (aproximadamente 11% de gordura)"
+ },
+ "6744": {
+  "it": "Prosciutto, affettato, da ristorante",
+  "fr": "Jambon, en tranches, de restaurant",
+  "es": "Jamón, en lonchas, de restaurante",
+  "de": "Schinken, in Scheiben, aus dem Restaurant",
+  "pt": "Presunto, fatiado, de restaurante"
+ },
+ "6745": {
+  "it": "Prosciutto, affumicato, extra magro, a basso contenuto di sodio",
+  "fr": "Jambon, fumé, extra maigre, pauvre en sodium",
+  "es": "Jamón, ahumado, extra magro, bajo en sodio",
+  "de": "Schinken, geräuchert, extra mager, natriumarm",
+  "pt": "Presunto, defumado, extra magro, com baixo teor de sódio"
+ },
+ "6746": {
+  "it": "Prosciutto di tacchino, affettato, extra magro, preconfezionato o da banco gastronomia",
+  "fr": "Jambon de dinde, en tranches, extra maigre, préemballé ou de charcuterie",
+  "es": "Jamón de pavo, en lonchas, extra magro, preenvasado o de charcutería",
+  "de": "Putenschinken, in Scheiben, extra mager, vorverpackt oder von der Feinkosttheke",
+  "pt": "Presunto de peru, fatiado, extra magro, pré-embalado ou de balcão de frios"
+ },
+ "6747": {
+  "it": "Hamburger (Burger King)",
+  "fr": "Hamburger (Burger King)",
+  "es": "Hamburguesa (Burger King)",
+  "de": "Hamburger (Burger King)",
+  "pt": "Hambúrguer (Burger King)"
+ },
+ "6748": {
+  "it": "Hamburger (McDonald's)",
+  "fr": "Hamburger (McDonald's)",
+  "es": "Hamburguesa (McDonald's)",
+  "de": "Hamburger (McDonald's)",
+  "pt": "Hambúrguer (McDonald's)"
+ },
+ "6749": {
+  "it": "Mini hamburger",
+  "fr": "Mini-hamburger",
+  "es": "Minihamburguesa",
+  "de": "Mini-Hamburger",
+  "pt": "Mini-hambúrguer"
+ },
+ "6750": {
+  "it": "Mini hamburger, da fast food",
+  "fr": "Mini-hamburger, de restauration rapide",
+  "es": "Minihamburguesa, de comida rápida",
+  "de": "Mini-Hamburger, aus Fast Food",
+  "pt": "Mini-hambúrguer, de fast food"
+ },
+ "6751": {
+  "it": "Wrap hamburger, da fast food",
+  "fr": "Wrap hamburger, de restauration rapide",
+  "es": "Wrap de hamburguesa, de comida rápida",
+  "de": "Hamburger-Wrap, aus Fast Food",
+  "pt": "Wrap de hambúrguer, de fast food"
+ },
+ "6752": {
+  "it": "Hamburger, da fast food, 1 hamburger grande",
+  "fr": "Hamburger, de restauration rapide, 1 gros steak haché",
+  "es": "Hamburguesa, de comida rápida, 1 carne grande",
+  "de": "Hamburger, aus Fast Food, 1 großes Patty",
+  "pt": "Hambúrguer, de fast food, 1 hambúrguer grande"
+ },
+ "6753": {
+  "it": "Hamburger, da fast food, 1 hamburger medio",
+  "fr": "Hamburger, de restauration rapide, 1 steak haché moyen",
+  "es": "Hamburguesa, de comida rápida, 1 carne mediana",
+  "de": "Hamburger, aus Fast Food, 1 mittelgroßes Patty",
+  "pt": "Hambúrguer, de fast food, 1 hambúrguer médio"
+ },
+ "6754": {
+  "it": "Hamburger, da fast food, 1 hamburger piccolo",
+  "fr": "Hamburger, de restauration rapide, 1 petit steak haché",
+  "es": "Hamburguesa, de comida rápida, 1 carne pequeña",
+  "de": "Hamburger, aus Fast Food, 1 kleines Patty",
+  "pt": "Hambúrguer, de fast food, 1 hambúrguer pequeno"
+ },
+ "6755": {
+  "it": "Hamburger, da mensa scolastica",
+  "fr": "Hamburger, de cantine scolaire",
+  "es": "Hamburguesa, de cafetería escolar",
+  "de": "Hamburger, aus der Schulkantine",
+  "pt": "Hambúrguer, de cantina escolar"
+ }
+}
