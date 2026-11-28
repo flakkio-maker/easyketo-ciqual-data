@@ -122,3 +122,20 @@ Fonte: `ingredienti_traduzioni.json` (chiave = `nome_it`); script `unisci_traduz
 campi gia' presenti). Frammenti rotti dell'originale ("potatoes, and") sono stati resi come ingrediente sensato; le
 quantita' tra parentesi nei nomi sono state tolte nelle traduzioni. Prima versione non rivista da un madrelingua.
 
+
+
+## Traduzioni portoghese brasiliano (28 novembre 2026)
+
+Il branch contiene `ricette_traduzioni_pt.json` con 443 traduzioni PT-BR, una per ciascuna ricetta attualmente presente dopo le correzioni del 27 novembre. Ogni voce contiene nome, lista degli ingredienti tradotti e procedimento.
+
+Lo script `unisci_traduzioni_ricette_pt.py`:
+- abbina le traduzioni tramite ID ricetta;
+- verifica che il numero di ingredienti tradotti corrisponda agli ingredienti originali;
+- verifica che il numero di passaggi tradotti corrisponda al procedimento di riferimento;
+- aggiunge `nome_pt`, `procedimento_pt` e `nome_pt` agli ingredienti.
+
+Controllo strutturale eseguito il 28 novembre 2026: 443 chiavi; nessun nome mancante; nessun array ingredienti mancante; nessuna stringa vuota in ingredienti o passaggi; nessun newline nelle stringhe. Questo non sostituisce la revisione linguistica da parte di un madrelingua PT-BR.
+
+**Integrazione app ancora necessaria:** il branch `main` di Ketorbit non contiene ancora i campi PT nel DTO di `RicetteScopertaDownloadWorker`, nel modello `RicettaScoperta` e nella relativa entity Room. Le traduzioni non saranno visibili nell'app finché il codice applicativo non verrà aggiornato e rilasciato.
+
+PT-BR è una localizzazione dei contenuti alimentari e delle ricette; non introduce una nuova lingua dell'interfaccia. Il fallback inglese e le cinque lingue UI attuali restano invariati.
