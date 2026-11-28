@@ -1048,5 +1048,355 @@
   "es": "Brownies comerciales, reducidos en grasa, con fibra añadida",
   "de": "Gewerblich hergestellte Brownies, fettarm, mit zugesetzten Ballaststoffen",
   "pt": "Brownies industrializados, com teor reduzido de gordura e fibras adicionadas"
+ },
+ "4620": {
+  "it": "Miscela secca per biscotti brownie, normale",
+  "fr": "Préparation sèche pour biscuits brownie, classique",
+  "es": "Mezcla seca para brownies, normal",
+  "de": "Trockenmischung für Brownies, normal",
+  "pt": "Mistura seca para brownie, comum"
+ },
+ "4621": {
+  "it": "Miscela secca per biscotti brownie, senza zucchero",
+  "fr": "Préparation sèche pour biscuits brownie, sans sucre",
+  "es": "Mezcla seca para brownies, sin azúcar",
+  "de": "Trockenmischung für Brownies, zuckerfrei",
+  "pt": "Mistura seca para brownie, sem açúcar"
+ },
+ "4622": {
+  "it": "Biscotti brownie preparati secondo ricetta",
+  "fr": "Biscuits brownie préparés selon une recette",
+  "es": "Brownies preparados según receta",
+  "de": "Brownies nach Rezept zubereitet",
+  "pt": "Brownies preparados conforme receita"
+ },
+ "4623": {
+  "it": "Biscotti al burro confezionati, arricchiti",
+  "fr": "Biscuits au beurre du commerce, enrichis",
+  "es": "Galletas de mantequilla comerciales, enriquecidas",
+  "de": "Gewerblich hergestellte Butterkekse, angereichert",
+  "pt": "Biscoitos de manteiga industrializados, enriquecidos"
+ },
+ "4624": {
+  "it": "Biscotti al burro confezionati, non arricchiti",
+  "fr": "Biscuits au beurre du commerce, non enrichis",
+  "es": "Galletas de mantequilla comerciales, no enriquecidas",
+  "de": "Gewerblich hergestellte Butterkekse, nicht angereichert",
+  "pt": "Biscoitos de manteiga industrializados, não enriquecidos"
+ },
+ "4625": {
+  "it": "Biscotti sandwich con gocce di cioccolato, con ripieno alla crema",
+  "fr": "Biscuits sandwich aux pépites de chocolat, fourrés à la crème",
+  "es": "Galletas tipo sándwich con chispas de chocolate, rellenas de crema",
+  "de": "Sandwichkekse mit Schokoladenstückchen und Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche com gotas de chocolate, recheados com creme"
+ },
+ "4626": {
+  "it": "Biscotti con gocce di cioccolato confezionati, normali, ad alto contenuto di grassi, arricchiti",
+  "fr": "Biscuits aux pépites de chocolat du commerce, classiques, riches en matières grasses, enrichis",
+  "es": "Galletas comerciales con chispas de chocolate, normales, altas en grasa, enriquecidas",
+  "de": "Gewerblich hergestellte Schokoladenkekse, normal, fettreich, angereichert",
+  "pt": "Biscoitos industrializados com gotas de chocolate, comuns, alto teor de gordura, enriquecidos"
+ },
+ "4627": {
+  "it": "Biscotti con gocce di cioccolato confezionati, normali, ad alto contenuto di grassi, non arricchiti",
+  "fr": "Biscuits aux pépites de chocolat du commerce, classiques, riches en matières grasses, non enrichis",
+  "es": "Galletas comerciales con chispas de chocolate, normales, altas en grasa, no enriquecidas",
+  "de": "Gewerblich hergestellte Schokoladenkekse, normal, fettreich, nicht angereichert",
+  "pt": "Biscoitos industrializados com gotas de chocolate, comuns, alto teor de gordura, não enriquecidos"
+ },
+ "4628": {
+  "it": "Biscotti con gocce di cioccolato confezionati, normali, a basso contenuto di grassi",
+  "fr": "Biscuits aux pépites de chocolat du commerce, classiques, à faible teneur en matières grasses",
+  "es": "Galletas comerciales con chispas de chocolate, normales, bajas en grasa",
+  "de": "Gewerblich hergestellte Schokoladenkekse, normal, fettarm",
+  "pt": "Biscoitos industrializados com gotas de chocolate, comuns, baixo teor de gordura"
+ },
+ "4629": {
+  "it": "Biscotti morbidi confezionati con gocce di cioccolato",
+  "fr": "Biscuits moelleux aux pépites de chocolat du commerce",
+  "es": "Galletas comerciales blandas con chispas de chocolate",
+  "de": "Gewerblich hergestellte weiche Schokoladenkekse",
+  "pt": "Biscoitos industrializados macios com gotas de chocolate"
+ },
+ "4630": {
+  "it": "Biscotti con gocce di cioccolato confezionati, per regimi dietetici speciali",
+  "fr": "Biscuits aux pépites de chocolat du commerce, pour régimes alimentaires spéciaux",
+  "es": "Galletas comerciales con chispas de chocolate, para dietas especiales",
+  "de": "Gewerblich hergestellte Schokoladenkekse für besondere Ernährungsformen",
+  "pt": "Biscoitos industrializados com gotas de chocolate, para dietas especiais"
+ },
+ "4631": {
+  "it": "Miscela secca per biscotti con gocce di cioccolato",
+  "fr": "Préparation sèche pour biscuits aux pépites de chocolat",
+  "es": "Mezcla seca para galletas con chispas de chocolate",
+  "de": "Trockenmischung für Kekse mit Schokoladenstückchen",
+  "pt": "Mistura seca para biscoitos com gotas de chocolate"
+ },
+ "4632": {
+  "it": "Biscotti con gocce di cioccolato preparati secondo ricetta, con burro",
+  "fr": "Biscuits aux pépites de chocolat préparés selon une recette, au beurre",
+  "es": "Galletas con chispas de chocolate preparadas según receta, con mantequilla",
+  "de": "Kekse mit Schokoladenstückchen nach Rezept, mit Butter zubereitet",
+  "pt": "Biscoitos com gotas de chocolate preparados conforme receita, com manteiga"
+ },
+ "4633": {
+  "it": "Biscotti con gocce di cioccolato preparati secondo ricetta, con margarina",
+  "fr": "Biscuits aux pépites de chocolat préparés selon une recette, à la margarine",
+  "es": "Galletas con chispas de chocolate preparadas según receta, con margarina",
+  "de": "Kekse mit Schokoladenstückchen nach Rezept, mit Margarine zubereitet",
+  "pt": "Biscoitos com gotas de chocolate preparados conforme receita, com margarina"
+ },
+ "4634": {
+  "it": "Impasto refrigerato per biscotti con gocce di cioccolato",
+  "fr": "Pâte réfrigérée pour biscuits aux pépites de chocolat",
+  "es": "Masa refrigerada para galletas con chispas de chocolate",
+  "de": "Gekühlter Teig für Kekse mit Schokoladenstückchen",
+  "pt": "Massa refrigerada para biscoitos com gotas de chocolate"
+ },
+ "4635": {
+  "it": "Biscotti con gocce di cioccolato, da impasto refrigerato, cotti",
+  "fr": "Biscuits aux pépites de chocolat, cuits à partir d'une pâte réfrigérée",
+  "es": "Galletas con chispas de chocolate, horneadas a partir de masa refrigerada",
+  "de": "Kekse mit Schokoladenstückchen, aus gekühltem Teig gebacken",
+  "pt": "Biscoitos com gotas de chocolate, assados a partir de massa refrigerada"
+ },
+ "4636": {
+  "it": "Bastoncini di biscotto ricoperti di crema al cioccolato",
+  "fr": "Bâtonnets de biscuit enrobés de crème au chocolat",
+  "es": "Palitos de galleta cubiertos de crema de chocolate",
+  "de": "Keksstäbchen mit Schokoladencremeüberzug",
+  "pt": "Palitos de biscoito cobertos com creme de chocolate"
+ },
+ "4637": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, a ridotto contenuto di grassi",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, à teneur réduite en matières grasses",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, reducidas en grasa",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung, fettarm",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, com teor reduzido de gordura"
+ },
+ "4638": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, normali",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, classiques",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, normales",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung, normal",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, comuns"
+ },
+ "4639": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, normali, ricoperti di cioccolato",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, classiques, enrobés de chocolat",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, normales, cubiertas de chocolate",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung, normal, schokoladenüberzogen",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, comuns, cobertos de chocolate"
+ },
+ "4640": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, per regimi dietetici speciali",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, pour régimes alimentaires spéciaux",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, para dietas especiales",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung für besondere Ernährungsformen",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, para dietas especiais"
+ },
+ "4641": {
+  "it": "Biscotti sandwich al cioccolato, con ripieno extra alla crema",
+  "fr": "Biscuits sandwich au chocolat, avec garniture supplémentaire à la crème",
+  "es": "Galletas tipo sándwich de chocolate, con relleno extra de crema",
+  "de": "Schokoladen-Sandwichkekse mit extra Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche de chocolate, com recheio extra de creme"
+ },
+ "4642": {
+  "it": "Wafer al cioccolato",
+  "fr": "Gaufrettes au chocolat",
+  "es": "Barquillos de chocolate",
+  "de": "Schokoladenwaffeln",
+  "pt": "Wafers de chocolate"
+ },
+ "4643": {
+  "it": "Biscotti al cioccolato preparati con cereali di riso",
+  "fr": "Biscuits au chocolat préparés avec des céréales de riz",
+  "es": "Galletas de chocolate preparadas con cereal de arroz",
+  "de": "Schokoladenkekse mit Reiscrispies",
+  "pt": "Biscoitos de chocolate preparados com cereal de arroz"
+ },
+ "4644": {
+  "it": "Amaretti al cocco",
+  "fr": "Macarons à la noix de coco",
+  "es": "Macarrones de coco",
+  "de": "Kokosmakronen",
+  "pt": "Macarons de coco"
+ },
+ "4645": {
+  "it": "Biscotti a barretta ai fichi",
+  "fr": "Biscuits aux figues en barre",
+  "es": "Barras de galleta de higo",
+  "de": "Feigen-Keksriegel",
+  "pt": "Biscoitos em barra de figo"
+ },
+ "4646": {
+  "it": "Biscotti della fortuna",
+  "fr": "Biscuits chinois porte-bonheur",
+  "es": "Galletas de la fortuna",
+  "de": "Glückskekse",
+  "pt": "Biscoitos da sorte"
+ },
+ "4647": {
+  "it": "Biscotti al fondente, tipo torta (inclusi i trolley cake)",
+  "fr": "Biscuits au fudge, type gâteau (y compris les trolley cakes)",
+  "es": "Galletas de fudge tipo pastel (incluye trolley cakes)",
+  "de": "Fudge-Kekse, kuchenartig (einschließlich Trolley Cakes)",
+  "pt": "Biscoitos de fudge tipo bolo (inclui trolley cakes)"
+ },
+ "4648": {
+  "it": "Biscotti speziati allo zenzero",
+  "fr": "Biscuits croquants au gingembre",
+  "es": "Galletas crujientes de jengibre",
+  "de": "Ingwerplätzchen",
+  "pt": "Biscoitos crocantes de gengibre"
+ },
+ "4649": {
+  "it": "Biscotti senza glutine, sandwich al cioccolato con ripieno alla crema",
+  "fr": "Biscuits sans gluten, sandwich au chocolat fourrés à la crème",
+  "es": "Galletas sin gluten, tipo sándwich de chocolate rellenas de crema",
+  "de": "Glutenfreie Schokoladen-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos sem glúten, tipo sanduíche de chocolate recheados com creme"
+ },
+ "4650": {
+  "it": "Biscotti senza glutine, wafer al cioccolato",
+  "fr": "Biscuits sans gluten, gaufrettes au chocolat",
+  "es": "Galletas sin gluten, barquillos de chocolate",
+  "de": "Glutenfreie Schokoladenwaffeln",
+  "pt": "Biscoitos sem glúten, wafers de chocolate"
+ },
+ "4651": {
+  "it": "Biscotti senza glutine, wafer al limone",
+  "fr": "Biscuits sans gluten, gaufrettes au citron",
+  "es": "Galletas sin gluten, barquillos de limón",
+  "de": "Glutenfreie Zitronenwaffeln",
+  "pt": "Biscoitos sem glúten, wafers de limão"
+ },
+ "4652": {
+  "it": "Biscotti senza glutine, sandwich alla vaniglia con ripieno alla crema",
+  "fr": "Biscuits sans gluten, sandwich à la vanille fourrés à la crème",
+  "es": "Galletas sin gluten, tipo sándwich de vainilla rellenas de crema",
+  "de": "Glutenfreie Vanille-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos sem glúten, tipo sanduíche de baunilha recheados com creme"
+ },
+ "4653": {
+  "it": "Biscotti Graham ricoperti di cioccolato",
+  "fr": "Biscuits Graham enrobés de chocolat",
+  "es": "Galletas Graham cubiertas de chocolate",
+  "de": "Mit Schokolade überzogene Graham-Cracker",
+  "pt": "Biscoitos Graham cobertos de chocolate"
+ },
+ "4654": {
+  "it": "Biscotti Graham semplici o al miele (inclusa la cannella)",
+  "fr": "Biscuits Graham nature ou au miel (y compris à la cannelle)",
+  "es": "Galletas Graham simples o con miel (incluida la canela)",
+  "de": "Einfache Graham-Cracker oder mit Honig (einschließlich Zimt)",
+  "pt": "Biscoitos Graham simples ou com mel (incluindo canela)"
+ },
+ "4655": {
+  "it": "Biscotti Graham semplici o al miele, a basso contenuto di grassi",
+  "fr": "Biscuits Graham nature ou au miel, à faible teneur en matières grasses",
+  "es": "Galletas Graham simples o con miel, bajas en grasa",
+  "de": "Einfache Graham-Cracker oder mit Honig, fettarm",
+  "pt": "Biscoitos Graham simples ou com mel, com baixo teor de gordura"
+ },
+ "4656": {
+  "it": "Savoiardi con succo e scorza di limone",
+  "fr": "Biscuits à la cuillère avec jus et zeste de citron",
+  "es": "Bizcochos de soletilla con zumo y ralladura de limón",
+  "de": "Löffelbiskuits mit Zitronensaft und -schale",
+  "pt": "Biscoitos champanhe com suco e raspas de limão"
+ },
+ "4657": {
+  "it": "Savoiardi senza succo né scorza di limone",
+  "fr": "Biscuits à la cuillère sans jus ni zeste de citron",
+  "es": "Bizcochos de soletilla sin zumo ni ralladura de limón",
+  "de": "Löffelbiskuits ohne Zitronensaft und -schale",
+  "pt": "Biscoitos champanhe sem suco nem raspas de limão"
+ },
+ "4658": {
+  "it": "Biscotti tipo Marie",
+  "fr": "Biscuits Marie",
+  "es": "Galletas María",
+  "de": "Marie-Kekse",
+  "pt": "Biscoitos tipo Maria"
+ },
+ "4659": {
+  "it": "Biscotti al marshmallow ricoperti di cioccolato (incluse tortine al marshmallow)",
+  "fr": "Biscuits à la guimauve enrobés de chocolat (y compris les gâteaux à la guimauve)",
+  "es": "Galletas de malvavisco cubiertas de chocolate (incluye pastelitos de malvavisco)",
+  "de": "Mit Schokolade überzogene Marshmallow-Kekse (einschließlich Marshmallow-Kuchen)",
+  "pt": "Biscoitos de marshmallow cobertos de chocolate (inclui bolinhos de marshmallow)"
+ },
+ "4660": {
+  "it": "Biscotti al marshmallow con cereali di riso e gocce di cioccolato",
+  "fr": "Biscuits à la guimauve avec céréales de riz et pépites de chocolat",
+  "es": "Galletas de malvavisco con cereal de arroz y chispas de chocolate",
+  "de": "Marshmallow-Kekse mit Reiscrispies und Schokoladenstückchen",
+  "pt": "Biscoitos de marshmallow com cereal de arroz e gotas de chocolate"
+ },
+ "4661": {
+  "it": "Biscotti alla melassa",
+  "fr": "Biscuits à la mélasse",
+  "es": "Galletas de melaza",
+  "de": "Melassekekse",
+  "pt": "Biscoitos de melaço"
+ },
+ "4662": {
+  "it": "Biscotti sandwich all'avena con ripieno alla crema",
+  "fr": "Biscuits sandwich à l'avoine fourrés à la crème",
+  "es": "Galletas tipo sándwich de avena rellenas de crema",
+  "de": "Hafer-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche de aveia recheados com creme"
+ },
+ "4663": {
+  "it": "Biscotti all'avena confezionati, normali",
+  "fr": "Biscuits à l'avoine du commerce, classiques",
+  "es": "Galletas de avena comerciales, normales",
+  "de": "Gewerblich hergestellte Haferkekse, normal",
+  "pt": "Biscoitos de aveia industrializados, comuns"
+ },
+ "4664": {
+  "it": "Biscotti morbidi all'avena confezionati",
+  "fr": "Biscuits moelleux à l'avoine du commerce",
+  "es": "Galletas de avena comerciales, blandas",
+  "de": "Gewerblich hergestellte weiche Haferkekse",
+  "pt": "Biscoitos de aveia industrializados, macios"
+ },
+ "4665": {
+  "it": "Biscotti all'avena confezionati, per regimi dietetici speciali",
+  "fr": "Biscuits à l'avoine du commerce, pour régimes alimentaires spéciaux",
+  "es": "Galletas de avena comerciales, para dietas especiales",
+  "de": "Gewerblich hergestellte Haferkekse für besondere Ernährungsformen",
+  "pt": "Biscoitos de aveia industrializados, para dietas especiais"
+ },
+ "4666": {
+  "it": "Miscela secca per biscotti all'avena",
+  "fr": "Préparation sèche pour biscuits à l'avoine",
+  "es": "Mezcla seca para galletas de avena",
+  "de": "Trockenmischung für Haferkekse",
+  "pt": "Mistura seca para biscoitos de aveia"
+ },
+ "4667": {
+  "it": "Biscotti all'avena preparati secondo ricetta, senza uvetta",
+  "fr": "Biscuits à l'avoine préparés selon une recette, sans raisins secs",
+  "es": "Galletas de avena preparadas según receta, sin pasas",
+  "de": "Haferkekse nach Rezept, ohne Rosinen",
+  "pt": "Biscoitos de aveia preparados conforme receita, sem uvas-passas"
+ },
+ "4668": {
+  "it": "Biscotti all'avena, a ridotto contenuto di grassi",
+  "fr": "Biscuits à l'avoine, à teneur réduite en matières grasses",
+  "es": "Galletas de avena, reducidas en grasa",
+  "de": "Haferkekse, fettarm",
+  "pt": "Biscoitos de aveia, com teor reduzido de gordura"
+ },
+ "4669": {
+  "it": "Impasto refrigerato per biscotti all'avena",
+  "fr": "Pâte réfrigérée pour biscuits à l'avoine",
+  "es": "Masa refrigerada para galletas de avena",
+  "de": "Gekühlter Teig für Haferkekse",
+  "pt": "Massa refrigerada para biscoitos de aveia"
  }
 }
