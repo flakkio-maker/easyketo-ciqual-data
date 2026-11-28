@@ -1,0 +1,2088 @@
+{
+ "4470": {
+  "it": "Caffè istantaneo, già sbiancato e zuccherato con zucchero, non ricostituito",
+  "fr": "Café instantané, déjà blanchi et sucré avec du sucre, non reconstitué",
+  "es": "Café instantáneo, previamente aclarado y endulzado con azúcar, sin reconstituir",
+  "de": "Instantkaffee, bereits aufgehellt und mit Zucker gesüßt, nicht zubereitet",
+  "pt": "Café instantâneo, previamente clareado e adoçado com açúcar, não reconstituído"
+ },
+ "4471": {
+  "it": "Caffè istantaneo, già sbiancato e zuccherato con zucchero, ricostituito",
+  "fr": "Café instantané, déjà blanchi et sucré avec du sucre, reconstitué",
+  "es": "Café instantáneo, previamente aclarado y endulzado con azúcar, reconstituido",
+  "de": "Instantkaffee, bereits aufgehellt und mit Zucker gesüßt, zubereitet",
+  "pt": "Café instantâneo, previamente clareado e adoçado com açúcar, reconstituído"
+ },
+ "4472": {
+  "it": "Caffè istantaneo, già zuccherato con zucchero, non ricostituito",
+  "fr": "Café instantané, déjà sucré avec du sucre, non reconstitué",
+  "es": "Café instantáneo, previamente endulzado con azúcar, sin reconstituir",
+  "de": "Instantkaffee, bereits mit Zucker gesüßt, nicht zubereitet",
+  "pt": "Café instantâneo, previamente adoçado com açúcar, não reconstituído"
+ },
+ "4473": {
+  "it": "Caffè istantaneo, già zuccherato con zucchero, ricostituito",
+  "fr": "Café instantané, déjà sucré avec du sucre, reconstitué",
+  "es": "Café instantáneo, previamente endulzado con azúcar, reconstituido",
+  "de": "Instantkaffee, bereits mit Zucker gesüßt, zubereitet",
+  "pt": "Café instantâneo, previamente adoçado com açúcar, reconstituído"
+ },
+ "4474": {
+  "it": "Caffè istantaneo, ricostituito",
+  "fr": "Café instantané, reconstitué",
+  "es": "Café instantáneo, reconstituido",
+  "de": "Instantkaffee, zubereitet",
+  "pt": "Café instantâneo, reconstituído"
+ },
+ "4475": {
+  "it": "Caffè latte",
+  "fr": "Café latte",
+  "es": "Café latte",
+  "de": "Caffè Latte",
+  "pt": "Café com leite (latte)"
+ },
+ "4476": {
+  "it": "Caffè latte decaffeinato",
+  "fr": "Café latte décaféiné",
+  "es": "Café latte descafeinado",
+  "de": "Entkoffeinierter Caffè Latte",
+  "pt": "Café latte descafeinado"
+ },
+ "4477": {
+  "it": "Caffè latte decaffeinato, aromatizzato",
+  "fr": "Café latte décaféiné, aromatisé",
+  "es": "Café latte descafeinado, aromatizado",
+  "de": "Entkoffeinierter Caffè Latte, aromatisiert",
+  "pt": "Café latte descafeinado, aromatizado"
+ },
+ "4478": {
+  "it": "Caffè latte decaffeinato, con latte scremato",
+  "fr": "Café latte décaféiné, au lait écrémé",
+  "es": "Café latte descafeinado, con leche desnatada",
+  "de": "Entkoffeinierter Caffè Latte mit Magermilch",
+  "pt": "Café latte descafeinado, com leite desnatado"
+ },
+ "4479": {
+  "it": "Caffè latte decaffeinato, con latte scremato, aromatizzato",
+  "fr": "Café latte décaféiné, au lait écrémé, aromatisé",
+  "es": "Café latte descafeinado, con leche desnatada, aromatizado",
+  "de": "Entkoffeinierter Caffè Latte mit Magermilch, aromatisiert",
+  "pt": "Café latte descafeinado, com leite desnatado, aromatizado"
+ },
+ "4480": {
+  "it": "Caffè latte decaffeinato, con bevanda vegetale",
+  "fr": "Café latte décaféiné, avec une boisson végétale",
+  "es": "Café latte descafeinado, con bebida vegetal",
+  "de": "Entkoffeinierter Caffè Latte mit Pflanzendrink",
+  "pt": "Café latte descafeinado, com bebida vegetal"
+ },
+ "4481": {
+  "it": "Caffè latte decaffeinato, con bevanda vegetale, aromatizzato",
+  "fr": "Café latte décaféiné, avec une boisson végétale, aromatisé",
+  "es": "Café latte descafeinado, con bebida vegetal, aromatizado",
+  "de": "Entkoffeinierter Caffè Latte mit Pflanzendrink, aromatisiert",
+  "pt": "Café latte descafeinado, com bebida vegetal, aromatizado"
+ },
+ "4482": {
+  "it": "Caffè latte, aromatizzato",
+  "fr": "Café latte, aromatisé",
+  "es": "Café latte, aromatizado",
+  "de": "Caffè Latte, aromatisiert",
+  "pt": "Café latte, aromatizado"
+ },
+ "4483": {
+  "it": "Caffè latte, con latte scremato",
+  "fr": "Café latte, au lait écrémé",
+  "es": "Café latte, con leche desnatada",
+  "de": "Caffè Latte mit Magermilch",
+  "pt": "Café latte, com leite desnatado"
+ },
+ "4484": {
+  "it": "Caffè latte, con latte scremato, aromatizzato",
+  "fr": "Café latte, au lait écrémé, aromatisé",
+  "es": "Café latte, con leche desnatada, aromatizado",
+  "de": "Caffè Latte mit Magermilch, aromatisiert",
+  "pt": "Café latte, com leite desnatado, aromatizado"
+ },
+ "4485": {
+  "it": "Caffè latte, con bevanda vegetale",
+  "fr": "Café latte, avec une boisson végétale",
+  "es": "Café latte, con bebida vegetal",
+  "de": "Caffè Latte mit Pflanzendrink",
+  "pt": "Café latte, com bebida vegetal"
+ },
+ "4486": {
+  "it": "Caffè latte, con bevanda vegetale, aromatizzato",
+  "fr": "Café latte, avec une boisson végétale, aromatisé",
+  "es": "Café latte, con bebida vegetal, aromatizado",
+  "de": "Caffè Latte mit Pflanzendrink, aromatisiert",
+  "pt": "Café latte, com bebida vegetal, aromatizado"
+ },
+ "4487": {
+  "it": "Caffè macchiato",
+  "fr": "Café macchiato",
+  "es": "Café macchiato",
+  "de": "Caffè Macchiato",
+  "pt": "Café macchiato"
+ },
+ "4488": {
+  "it": "Caffè macchiato, zuccherato",
+  "fr": "Café macchiato, sucré",
+  "es": "Café macchiato, endulzado",
+  "de": "Caffè Macchiato, gesüßt",
+  "pt": "Café macchiato, adoçado"
+ },
+ "4489": {
+  "it": "Caffè moka istantaneo, già sbiancato e dolcificato con edulcorante ipocalorico, ricostituito",
+  "fr": "Café moka instantané, déjà blanchi et édulcoré avec un édulcorant hypocalorique, reconstitué",
+  "es": "Café moca instantáneo, previamente aclarado y endulzado con edulcorante bajo en calorías, reconstituido",
+  "de": "Instant-Mokka, bereits aufgehellt und mit kalorienarmem Süßungsmittel gesüßt, zubereitet",
+  "pt": "Café mocha instantâneo, previamente clareado e adoçado com edulcorante de baixa caloria, reconstituído"
+ },
+ "4490": {
+  "it": "Caffè, non specificato se preparato o istantaneo",
+  "fr": "Café, sans précision sur le mode de préparation ou instantané",
+  "es": "Café, sin especificar si es preparado o instantáneo",
+  "de": "Kaffee, nicht angegeben, ob gebrüht oder instant",
+  "pt": "Café, sem especificação se coado ou instantâneo"
+ },
+ "4491": {
+  "it": "Caffè decaffeinato, non specificato se preparato o istantaneo",
+  "fr": "Café décaféiné, sans précision sur le mode de préparation ou instantané",
+  "es": "Café descafeinado, sin especificar si es preparado o instantáneo",
+  "de": "Entkoffeinierter Kaffee, nicht angegeben, ob gebrüht oder instant",
+  "pt": "Café descafeinado, sem especificação se coado ou instantâneo"
+ },
+ "4492": {
+  "it": "Caffè, tipo non specificato",
+  "fr": "Café, type non précisé",
+  "es": "Café, tipo no especificado",
+  "de": "Kaffee, Art nicht angegeben",
+  "pt": "Café, tipo não especificado"
+ },
+ "4493": {
+  "it": "Caffè, con aggiunta di sbiancante",
+  "fr": "Café, avec agent blanchissant ajouté",
+  "es": "Café, con blanqueador añadido",
+  "de": "Kaffee, mit Kaffeeweißer",
+  "pt": "Café, com branqueador adicionado"
+ },
+ "4494": {
+  "it": "Caffè, con aggiunta di sbiancante e dolcificato con edulcorante ipocalorico",
+  "fr": "Café, avec agent blanchissant ajouté et édulcoré avec un édulcorant hypocalorique",
+  "es": "Café, con blanqueador añadido y endulzado con edulcorante bajo en calorías",
+  "de": "Kaffee, mit Kaffeeweißer und kalorienarmem Süßungsmittel",
+  "pt": "Café, com branqueador adicionado e adoçado com edulcorante de baixa caloria"
+ },
+ "4495": {
+  "it": "Caffè, con aggiunta di sbiancante e zucchero",
+  "fr": "Café, avec agent blanchissant ajouté et sucre",
+  "es": "Café, con blanqueador añadido y azúcar",
+  "de": "Kaffee, mit Kaffeeweißer und Zucker",
+  "pt": "Café, com branqueador adicionado e açúcar"
+ },
+ "4496": {
+  "it": "Caffè, dolcificato con edulcorante ipocalorico",
+  "fr": "Café, édulcoré avec un édulcorant hypocalorique",
+  "es": "Café, endulzado con edulcorante bajo en calorías",
+  "de": "Kaffee, mit kalorienarmem Süßungsmittel gesüßt",
+  "pt": "Café, adoçado com edulcorante de baixa caloria"
+ },
+ "4497": {
+  "it": "Caffè, zuccherato",
+  "fr": "Café, sucré",
+  "es": "Café, azucarado",
+  "de": "Kaffee, mit Zucker gesüßt",
+  "pt": "Café, adoçado com açúcar"
+ },
+ "4498": {
+  "it": "Caffè turco",
+  "fr": "Café turc",
+  "es": "Café turco",
+  "de": "Türkischer Kaffee",
+  "pt": "Café turco"
+ },
+ "4499": {
+  "it": "Insalata di cavolo cappuccio (coleslaw)",
+  "fr": "Salade de chou (coleslaw)",
+  "es": "Ensalada de col (coleslaw)",
+  "de": "Krautsalat (Coleslaw)",
+  "pt": "Salada de repolho (coleslaw)"
+ },
+ "4500": {
+  "it": "Condimento per insalata di cavolo (coleslaw)",
+  "fr": "Sauce pour salade de chou (coleslaw)",
+  "es": "Aderezo para ensalada de col (coleslaw)",
+  "de": "Dressing für Krautsalat",
+  "pt": "Molho para salada de repolho (coleslaw)"
+ },
+ "4501": {
+  "it": "Insalata di cavolo (coleslaw), da fast food o ristorante",
+  "fr": "Salade de chou (coleslaw), de restauration rapide ou de restaurant",
+  "es": "Ensalada de col (coleslaw), de comida rápida o restaurante",
+  "de": "Krautsalat (Coleslaw), aus Fast-Food-Restaurant oder Restaurant",
+  "pt": "Salada de repolho (coleslaw), de fast-food ou restaurante"
+ },
+ "4502": {
+  "it": "Insalata di cavolo (coleslaw), con frutta",
+  "fr": "Salade de chou (coleslaw), avec des fruits",
+  "es": "Ensalada de col (coleslaw), con fruta",
+  "de": "Krautsalat (Coleslaw), mit Obst",
+  "pt": "Salada de repolho (coleslaw), com frutas"
+ },
+ "4503": {
+  "it": "Cavolo da foglia, cotto, bollito, sgocciolato, con sale",
+  "fr": "Chou cavalier, cuit, bouilli, égoutté, avec sel",
+  "es": "Col berza, cocida, hervida, escurrida, con sal",
+  "de": "Blattkohl, gekocht, abgekocht, abgetropft, mit Salz",
+  "pt": "Couve-manteiga, cozida, fervida, escorrida, com sal"
+ },
+ "4504": {
+  "it": "Cavolo da foglia, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chou cavalier, cuit, bouilli, égoutté, sans sel",
+  "es": "Col berza, cocida, hervida, escurrida, sin sal",
+  "de": "Blattkohl, gekocht, abgekocht, abgetropft, ohne Salz",
+  "pt": "Couve-manteiga, cozida, fervida, escorrida, sem sal"
+ },
+ "4505": {
+  "it": "Cavolo da foglia fresco, cotto con burro o margarina",
+  "fr": "Chou cavalier frais, cuit avec du beurre ou de la margarine",
+  "es": "Col berza fresca, cocida con mantequilla o margarina",
+  "de": "Frischer Blattkohl, mit Butter oder Margarine gegart",
+  "pt": "Couve-manteiga fresca, cozida com manteiga ou margarina"
+ },
+ "4506": {
+  "it": "Cavolo da foglia fresco, cotto con olio",
+  "fr": "Chou cavalier frais, cuit avec de l'huile",
+  "es": "Col berza fresca, cocida con aceite",
+  "de": "Frischer Blattkohl, mit Öl gegart",
+  "pt": "Couve-manteiga fresca, cozida com óleo"
+ },
+ "4507": {
+  "it": "Cavolo da foglia fresco, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Chou cavalier frais, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Col berza fresca, cocida con grasa añadida, tipo de grasa no especificado",
+  "de": "Frischer Blattkohl, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Couve-manteiga fresca, cozida com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4508": {
+  "it": "Cavolo da foglia fresco, cotto senza grassi aggiunti",
+  "fr": "Chou cavalier frais, cuit sans ajout de matières grasses",
+  "es": "Col berza fresca, cocida sin grasa añadida",
+  "de": "Frischer Blattkohl, ohne zusätzliches Fett gegart",
+  "pt": "Couve-manteiga fresca, cozida sem gordura adicionada"
+ },
+ "4509": {
+  "it": "Cavolo da foglia surgelato, tritato, cotto, bollito, sgocciolato, con sale",
+  "fr": "Chou cavalier surgelé, haché, cuit, bouilli, égoutté, avec sel",
+  "es": "Col berza congelada, picada, cocida, hervida, escurrida, con sal",
+  "de": "Tiefgekühlter, gehackter Blattkohl, gekocht, abgekocht, abgetropft, mit Salz",
+  "pt": "Couve-manteiga congelada, picada, cozida, fervida, escorrida, com sal"
+ },
+ "4510": {
+  "it": "Cavolo da foglia surgelato, tritato, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chou cavalier surgelé, haché, cuit, bouilli, égoutté, sans sel",
+  "es": "Col berza congelada, picada, cocida, hervida, escurrida, sin sal",
+  "de": "Tiefgekühlter, gehackter Blattkohl, gekocht, abgekocht, abgetropft, ohne Salz",
+  "pt": "Couve-manteiga congelada, picada, cozida, fervida, escorrida, sem sal"
+ },
+ "4511": {
+  "it": "Cavolo da foglia surgelato, tritato, non preparato",
+  "fr": "Chou cavalier surgelé, haché, non préparé",
+  "es": "Col berza congelada, picada, sin preparar",
+  "de": "Tiefgekühlter, gehackter Blattkohl, unzubereitet",
+  "pt": "Couve-manteiga congelada, picada, não preparada"
+ },
+ "4512": {
+  "it": "Cavolo da foglia surgelato, cotto con burro o margarina",
+  "fr": "Chou cavalier surgelé, cuit avec du beurre ou de la margarine",
+  "es": "Col berza congelada, cocida con mantequilla o margarina",
+  "de": "Tiefgekühlter Blattkohl, mit Butter oder Margarine gegart",
+  "pt": "Couve-manteiga congelada, cozida com manteiga ou margarina"
+ },
+ "4513": {
+  "it": "Cavolo da foglia surgelato, cotto con olio",
+  "fr": "Chou cavalier surgelé, cuit avec de l'huile",
+  "es": "Col berza congelada, cocida con aceite",
+  "de": "Tiefgekühlter Blattkohl, mit Öl gegart",
+  "pt": "Couve-manteiga congelada, cozida com óleo"
+ },
+ "4514": {
+  "it": "Cavolo da foglia surgelato, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Chou cavalier surgelé, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Col berza congelada, cocida con grasa añadida, tipo de grasa no especificado",
+  "de": "Tiefgekühlter Blattkohl, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Couve-manteiga congelada, cozida com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4515": {
+  "it": "Cavolo da foglia surgelato, cotto senza grassi aggiunti",
+  "fr": "Chou cavalier surgelé, cuit sans ajout de matières grasses",
+  "es": "Col berza congelada, cocida sin grasa añadida",
+  "de": "Tiefgekühlter Blattkohl, ohne zusätzliches Fett gegart",
+  "pt": "Couve-manteiga congelada, cozida sem gordura adicionada"
+ },
+ "4516": {
+  "it": "Cavolo da foglia, cotto, forma non specificata",
+  "fr": "Chou cavalier, cuit, forme non précisée",
+  "es": "Col berza, cocida, forma no especificada",
+  "de": "Blattkohl, gegart, Form nicht angegeben",
+  "pt": "Couve-manteiga, cozida, forma não especificada"
+ },
+ "4517": {
+  "it": "Cavolo da foglia, crudo",
+  "fr": "Chou cavalier, cru",
+  "es": "Col berza, cruda",
+  "de": "Blattkohl, roh",
+  "pt": "Couve-manteiga, crua"
+ },
+ "4518": {
+  "it": "Congee (porridge di riso)",
+  "fr": "Congee (bouillie de riz)",
+  "es": "Congee (gachas de arroz)",
+  "de": "Congee (Reisbrei)",
+  "pt": "Congee (mingau de arroz)"
+ },
+ "4519": {
+  "it": "Congee (porridge di riso), con uovo",
+  "fr": "Congee (bouillie de riz), avec œuf",
+  "es": "Congee (gachas de arroz), con huevo",
+  "de": "Congee (Reisbrei), mit Ei",
+  "pt": "Congee (mingau de arroz), com ovo"
+ },
+ "4520": {
+  "it": "Congee (porridge di riso), con carne, pollame e/o frutti di mare",
+  "fr": "Congee (bouillie de riz), avec viande, volaille et/ou fruits de mer",
+  "es": "Congee (gachas de arroz), con carne, aves y/o mariscos",
+  "de": "Congee (Reisbrei), mit Fleisch, Geflügel und/oder Meeresfrüchten",
+  "pt": "Congee (mingau de arroz), com carne, aves e/ou frutos do mar"
+ },
+ "4521": {
+  "it": "Congee (porridge di riso), con carne, pollame e/o frutti di mare e verdure",
+  "fr": "Congee (bouillie de riz), avec viande, volaille et/ou fruits de mer et légumes",
+  "es": "Congee (gachas de arroz), con carne, aves y/o mariscos y verduras",
+  "de": "Congee (Reisbrei), mit Fleisch, Geflügel und/oder Meeresfrüchten und Gemüse",
+  "pt": "Congee (mingau de arroz), com carne, aves e/ou frutos do mar e vegetais"
+ },
+ "4522": {
+  "it": "Congee (porridge di riso), con verdure",
+  "fr": "Congee (bouillie de riz), avec légumes",
+  "es": "Congee (gachas de arroz), con verduras",
+  "de": "Congee (Reisbrei), mit Gemüse",
+  "pt": "Congee (mingau de arroz), com vegetais"
+ },
+ "4523": {
+  "it": "Continental Mills, miscela per muffin Krusteaz alle mandorle e semi di papavero, aromatizzata artificialmente, secca",
+  "fr": "Continental Mills, préparation pour muffins Krusteaz aux amandes et graines de pavot, arôme artificiel, sèche",
+  "es": "Continental Mills, mezcla para muffins Krusteaz de almendra y semillas de amapola, aromatizada artificialmente, seca",
+  "de": "Continental Mills, Krusteaz-Muffinmischung mit Mandeln und Mohn, künstlich aromatisiert, trocken",
+  "pt": "Continental Mills, mistura para muffin Krusteaz de amêndoas e sementes de papoula, aromatizada artificialmente, seca"
+ },
+ "4524": {
+  "it": "Barretta di biscotto con cioccolato, frutta a guscio e cracker Graham",
+  "fr": "Barre de biscuit au chocolat, fruits à coque et biscuits Graham",
+  "es": "Barra de galleta con chocolate, frutos secos y galletas Graham",
+  "de": "Keksriegel mit Schokolade, Nüssen und Graham-Crackern",
+  "pt": "Barra de biscoito com chocolate, castanhas e biscoitos Graham"
+ },
+ "4525": {
+  "it": "Biscotto alle mandorle",
+  "fr": "Biscuit aux amandes",
+  "es": "Galleta de almendra",
+  "de": "Mandelkeks",
+  "pt": "Biscoito de amêndoas"
+ },
+ "4526": {
+  "it": "Biscotto a forma di animaletto",
+  "fr": "Biscuit en forme d'animal",
+  "es": "Galleta con forma de animal",
+  "de": "Tierkeks",
+  "pt": "Biscoito em formato de animal"
+ },
+ "4527": {
+  "it": "Biscotto a forma di animaletto, con glassa",
+  "fr": "Biscuit en forme d'animal, avec glaçage",
+  "es": "Galleta con forma de animal, con glaseado",
+  "de": "Tierkeks mit Zuckerguss",
+  "pt": "Biscoito em formato de animal, com cobertura"
+ },
+ "4528": {
+  "it": "Biscotto alla composta di mele",
+  "fr": "Biscuit à la compote de pommes",
+  "es": "Galleta de puré de manzana",
+  "de": "Apfelmus-Keks",
+  "pt": "Biscoito com purê de maçã"
+ },
+ "4529": {
+  "it": "Biscotto a barretta, al cioccolato",
+  "fr": "Biscuit en barre, au chocolat",
+  "es": "Galleta en barra, con chocolate",
+  "de": "Schokoladen-Keksriegel",
+  "pt": "Biscoito em barra, com chocolate"
+ },
+ "4530": {
+  "it": "Impasto crudo per biscotti",
+  "fr": "Pâte à biscuits crue",
+  "es": "Masa cruda para galletas",
+  "de": "Roher Keksteig",
+  "pt": "Massa crua para biscoitos"
+ },
+ "4531": {
+  "it": "Biscotto tipo cantuccio (biscotti)",
+  "fr": "Biscuit type biscotti",
+  "es": "Galleta tipo biscotti",
+  "de": "Biscotti-Keks",
+  "pt": "Biscoito tipo biscotti"
+ },
+ "4532": {
+  "it": "Biscotto brownie, glassatura non specificata",
+  "fr": "Biscuit brownie, glaçage non précisé",
+  "es": "Galleta tipo brownie, glaseado no especificado",
+  "de": "Brownie-Keks, Glasur nicht angegeben",
+  "pt": "Biscoito tipo brownie, cobertura não especificada"
+ },
+ "4533": {
+  "it": "Biscotto brownie, a ridotto contenuto di grassi, glassatura non specificata",
+  "fr": "Biscuit brownie, à teneur réduite en matières grasses, glaçage non précisé",
+  "es": "Galleta tipo brownie, reducida en grasa, glaseado no especificado",
+  "de": "Brownie-Keks, fettarm, Glasur nicht angegeben",
+  "pt": "Biscoito tipo brownie, com teor reduzido de gordura, cobertura não especificada"
+ },
+ "4534": {
+  "it": "Biscotto brownie, con glassa o ripieno",
+  "fr": "Biscuit brownie, avec glaçage ou fourrage",
+  "es": "Galleta tipo brownie, con glaseado o relleno",
+  "de": "Brownie-Keks mit Glasur oder Füllung",
+  "pt": "Biscoito tipo brownie, com cobertura ou recheio"
+ },
+ "4535": {
+  "it": "Biscotto brownie, senza glassa",
+  "fr": "Biscuit brownie, sans glaçage",
+  "es": "Galleta tipo brownie, sin glaseado",
+  "de": "Brownie-Keks ohne Glasur",
+  "pt": "Biscoito tipo brownie, sem cobertura"
+ },
+ "4536": {
+  "it": "Biscotto al burro o allo zucchero",
+  "fr": "Biscuit au beurre ou au sucre",
+  "es": "Galleta de mantequilla o azúcar",
+  "de": "Butter- oder Zuckerkeks",
+  "pt": "Biscoito de manteiga ou açúcar"
+ },
+ "4537": {
+  "it": "Biscotto al burro o allo zucchero, con glassa o ripieno al cioccolato",
+  "fr": "Biscuit au beurre ou au sucre, avec glaçage ou fourrage au chocolat",
+  "es": "Galleta de mantequilla o azúcar, con glaseado o relleno de chocolate",
+  "de": "Butter- oder Zuckerkeks mit Schokoladenglasur oder -füllung",
+  "pt": "Biscoito de manteiga ou açúcar, com cobertura ou recheio de chocolate"
+ },
+ "4538": {
+  "it": "Biscotto al burro o allo zucchero, con frutta e/o frutta a guscio",
+  "fr": "Biscuit au beurre ou au sucre, avec fruits et/ou fruits à coque",
+  "es": "Galleta de mantequilla o azúcar, con fruta y/o frutos secos",
+  "de": "Butter- oder Zuckerkeks mit Obst und/oder Nüssen",
+  "pt": "Biscoito de manteiga ou açúcar, com frutas e/ou castanhas"
+ },
+ "4539": {
+  "it": "Biscotto al burro o allo zucchero, con glassa o ripieno diverso dal cioccolato",
+  "fr": "Biscuit au beurre ou au sucre, avec glaçage ou fourrage autre qu'au chocolat",
+  "es": "Galleta de mantequilla o azúcar, con glaseado o relleno distinto del chocolate",
+  "de": "Butter- oder Zuckerkeks mit Glasur oder Füllung ohne Schokolade",
+  "pt": "Biscoito de manteiga ou açúcar, com cobertura ou recheio diferente de chocolate"
+ },
+ "4540": {
+  "it": "Biscotto brownie al gusto butterscotch",
+  "fr": "Biscuit brownie au caramel écossais",
+  "es": "Galleta tipo brownie de caramelo butterscotch",
+  "de": "Butterscotch-Brownie-Keks",
+  "pt": "Biscoito tipo brownie sabor butterscotch"
+ },
+ "4541": {
+  "it": "Biscotto sandwich al cioccolato e vaniglia",
+  "fr": "Biscuit sandwich au chocolat et à la vanille",
+  "es": "Galleta tipo sándwich de chocolate y vainilla",
+  "de": "Schoko-Vanille-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de chocolate e baunilha"
+ },
+ "4542": {
+  "it": "Biscotto con gocce di cioccolato",
+  "fr": "Biscuit aux pépites de chocolat",
+  "es": "Galleta con chispas de chocolate",
+  "de": "Keks mit Schokoladenstückchen",
+  "pt": "Biscoito com gotas de chocolate"
+ },
+ "4543": {
+  "it": "Biscotto sandwich con gocce di cioccolato",
+  "fr": "Biscuit sandwich aux pépites de chocolat",
+  "es": "Galleta tipo sándwich con chispas de chocolate",
+  "de": "Sandwichkeks mit Schokoladenstückchen",
+  "pt": "Biscoito tipo sanduíche com gotas de chocolate"
+ },
+ "4544": {
+  "it": "Biscotto con gocce di cioccolato, preparato in casa o acquistato in pasticceria",
+  "fr": "Biscuit aux pépites de chocolat, fait maison ou acheté en boulangerie-pâtisserie",
+  "es": "Galleta con chispas de chocolate, casera o comprada en una panadería",
+  "de": "Keks mit Schokoladenstückchen, hausgemacht oder aus der Bäckerei",
+  "pt": "Biscoito com gotas de chocolate, feito em casa ou comprado em padaria"
+ },
+ "4545": {
+  "it": "Biscotto con gocce di cioccolato, a ridotto contenuto di grassi",
+  "fr": "Biscuit aux pépites de chocolat, à teneur réduite en matières grasses",
+  "es": "Galleta con chispas de chocolate, reducida en grasa",
+  "de": "Keks mit Schokoladenstückchen, fettarm",
+  "pt": "Biscoito com gotas de chocolate, com teor reduzido de gordura"
+ },
+ "4546": {
+  "it": "Biscotto con gocce di cioccolato, a ridotto contenuto di zuccheri",
+  "fr": "Biscuit aux pépites de chocolat, à teneur réduite en sucres",
+  "es": "Galleta con chispas de chocolate, con menos azúcar",
+  "de": "Keks mit Schokoladenstückchen, zuckerreduziert",
+  "pt": "Biscoito com gotas de chocolate, com teor reduzido de açúcar"
+ },
+ "4547": {
+  "it": "Biscotto al cioccolato o al fondente",
+  "fr": "Biscuit au chocolat ou au fudge",
+  "es": "Galleta de chocolate o fudge",
+  "de": "Schokoladen- oder Fudge-Keks",
+  "pt": "Biscoito de chocolate ou fudge"
+ },
+ "4548": {
+  "it": "Biscotto sandwich al cioccolato",
+  "fr": "Biscuit sandwich au chocolat",
+  "es": "Galleta tipo sándwich de chocolate",
+  "de": "Schokoladen-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de chocolate"
+ },
+ "4549": {
+  "it": "Biscotto sandwich al cioccolato, a ridotto contenuto di grassi",
+  "fr": "Biscuit sandwich au chocolat, à teneur réduite en matières grasses",
+  "es": "Galleta tipo sándwich de chocolate, reducida en grasa",
+  "de": "Schokoladen-Sandwichkeks, fettarm",
+  "pt": "Biscoito tipo sanduíche de chocolate, com teor reduzido de gordura"
+ },
+ "4550": {
+  "it": "Biscotto wafer al cioccolato",
+  "fr": "Gaufrette au chocolat",
+  "es": "Barquillo de chocolate",
+  "de": "Schokoladenwaffel",
+  "pt": "Wafer de chocolate"
+ },
+ "4551": {
+  "it": "Biscotto al cioccolato con fiocchi d'avena e cocco, senza cottura",
+  "fr": "Biscuit au chocolat, flocons d'avoine et noix de coco, sans cuisson",
+  "es": "Galleta de chocolate con avena y coco, sin hornear",
+  "de": "Schokoladen-Hafer-Kokos-Keks, ohne Backen",
+  "pt": "Biscoito de chocolate com aveia e coco, sem assar"
+ },
+ "4552": {
+  "it": "Biscotto al cioccolato con cereali di riso",
+  "fr": "Biscuit au chocolat avec céréales de riz",
+  "es": "Galleta de chocolate con cereal de arroz",
+  "de": "Schokoladenkeks mit Reiscrispies",
+  "pt": "Biscoito de chocolate com cereal de arroz"
+ },
+ "4553": {
+  "it": "Biscotto sandwich al cioccolato, con ripieno extra",
+  "fr": "Biscuit sandwich au chocolat, avec garniture supplémentaire",
+  "es": "Galleta tipo sándwich de chocolate, con relleno adicional",
+  "de": "Schokoladen-Sandwichkeks mit extra Füllung",
+  "pt": "Biscoito tipo sanduíche de chocolate, com recheio extra"
+ },
+ "4554": {
+  "it": "Biscotto al cioccolato, con glassa o copertura",
+  "fr": "Biscuit au chocolat, avec glaçage ou enrobage",
+  "es": "Galleta de chocolate, con glaseado o cobertura",
+  "de": "Schokoladenkeks mit Glasur oder Überzug",
+  "pt": "Biscoito de chocolate, com cobertura ou banho"
+ },
+ "4555": {
+  "it": "Biscotto al cocco",
+  "fr": "Biscuit à la noix de coco",
+  "es": "Galleta de coco",
+  "de": "Kokoskeks",
+  "pt": "Biscoito de coco"
+ },
+ "4556": {
+  "it": "Cialda per cono gelato, tipo wafer o tortina",
+  "fr": "Gaufrette pour cornet de glace, type wafer ou biscuit",
+  "es": "Galleta para cono de helado, tipo barquillo o bizcocho",
+  "de": "Eiswaffel für Hörnchen, Waffel- oder Kuchentyp",
+  "pt": "Casquinha para sorvete, tipo wafer ou bolo"
+ },
+ "4557": {
+  "it": "Biscotto a barretta ai fichi",
+  "fr": "Biscuit fourré aux figues, en barre",
+  "es": "Barra de galleta rellena de higo",
+  "de": "Feigen-Keksriegel",
+  "pt": "Biscoito em barra recheado com figo"
+ },
+ "4558": {
+  "it": "Biscotto della fortuna",
+  "fr": "Biscuit chinois porte-bonheur",
+  "es": "Galleta de la fortuna",
+  "de": "Glückskeks",
+  "pt": "Biscoito da sorte"
+ },
+ "4559": {
+  "it": "Biscotto a barretta ripieno di frutta",
+  "fr": "Biscuit fourré aux fruits, en barre",
+  "es": "Barra de galleta rellena de fruta",
+  "de": "Fruchtgefüllter Keksriegel",
+  "pt": "Biscoito em barra recheado com frutas"
+ },
+ "4560": {
+  "it": "Biscotto speziato allo zenzero (gingersnap)",
+  "fr": "Biscuit croquant au gingembre",
+  "es": "Galleta crujiente de jengibre",
+  "de": "Ingwerplätzchen",
+  "pt": "Biscoito crocante de gengibre"
+ },
+ "4561": {
+  "it": "Biscotto senza glutine",
+  "fr": "Biscuit sans gluten",
+  "es": "Galleta sin gluten",
+  "de": "Glutenfreier Keks",
+  "pt": "Biscoito sem glúten"
+ },
+ "4562": {
+  "it": "Biscotto Graham con cioccolato e marshmallow",
+  "fr": "Biscuit Graham avec chocolat et guimauve",
+  "es": "Galleta Graham con chocolate y malvavisco",
+  "de": "Graham-Cracker mit Schokolade und Marshmallow",
+  "pt": "Biscoito Graham com chocolate e marshmallow"
+ },
+ "4563": {
+  "it": "Biscotto alla granola",
+  "fr": "Biscuit à la granola",
+  "es": "Galleta de granola",
+  "de": "Müslikeks",
+  "pt": "Biscoito de granola"
+ },
+ "4564": {
+  "it": "Savoiardo",
+  "fr": "Biscuit à la cuillère",
+  "es": "Bizcocho de soletilla",
+  "de": "Löffelbiskuit",
+  "pt": "Biscoito champanhe"
+ },
+ "4565": {
+  "it": "Biscotto Lebkuchen",
+  "fr": "Biscuit Lebkuchen",
+  "es": "Galleta Lebkuchen",
+  "de": "Lebkuchen",
+  "pt": "Biscoito Lebkuchen"
+ },
+ "4566": {
+  "it": "Biscotto tipo lemon bar",
+  "fr": "Biscuit façon tartelette au citron",
+  "es": "Galleta tipo barrita de limón",
+  "de": "Zitronenriegel-Keks",
+  "pt": "Biscoito tipo barrinha de limão"
+ },
+ "4567": {
+  "it": "Amaretto al cocco (macaroon)",
+  "fr": "Macaron à la noix de coco",
+  "es": "Macarrón de coco",
+  "de": "Kokosmakrone",
+  "pt": "Macaroon de coco"
+ },
+ "4568": {
+  "it": "Biscotto con marshmallow e burro di arachidi, con cereali d'avena, senza cottura",
+  "fr": "Biscuit aux guimauves et beurre d'arachide, avec céréales d'avoine, sans cuisson",
+  "es": "Galleta con malvavisco y mantequilla de cacahuete, con cereal de avena, sin hornear",
+  "de": "Keks mit Marshmallow und Erdnussbutter, Hafergetreide, ohne Backen",
+  "pt": "Biscoito com marshmallow e pasta de amendoim, cereal de aveia, sem assar"
+ },
+ "4569": {
+  "it": "Tortina biscotto al marshmallow ricoperta di cioccolato",
+  "fr": "Gâteau-biscuit à la guimauve enrobé de chocolat",
+  "es": "Pastelito de galleta con malvavisco cubierto de chocolate",
+  "de": "Mit Schokolade überzogener Marshmallow-Keks-Kuchen",
+  "pt": "Bolinho de biscoito com marshmallow coberto de chocolate"
+ },
+ "4570": {
+  "it": "Biscotto al marshmallow ricoperto di cioccolato",
+  "fr": "Biscuit à la guimauve enrobé de chocolat",
+  "es": "Galleta de malvavisco cubierta de chocolate",
+  "de": "Mit Schokolade überzogener Marshmallow-Keks",
+  "pt": "Biscoito de marshmallow coberto de chocolate"
+ },
+ "4571": {
+  "it": "Biscotto al marshmallow con cocco",
+  "fr": "Biscuit à la guimauve avec noix de coco",
+  "es": "Galleta de malvavisco con coco",
+  "de": "Marshmallow-Keks mit Kokos",
+  "pt": "Biscoito de marshmallow com coco"
+ },
+ "4572": {
+  "it": "Biscotto al marshmallow con cereali di riso e gocce di cioccolato",
+  "fr": "Biscuit à la guimauve avec céréales de riz et pépites de chocolat",
+  "es": "Galleta de malvavisco con cereal de arroz y chispas de chocolate",
+  "de": "Marshmallow-Keks mit Reiscrispies und Schokoladenstückchen",
+  "pt": "Biscoito de marshmallow com cereal de arroz e gotas de chocolate"
+ },
+ "4573": {
+  "it": "Biscotto al marshmallow con cereali di riso, senza cottura",
+  "fr": "Biscuit à la guimauve avec céréales de riz, sans cuisson",
+  "es": "Galleta de malvavisco con cereal de arroz, sin hornear",
+  "de": "Marshmallow-Keks mit Reiscrispies, ohne Backen",
+  "pt": "Biscoito de marshmallow com cereal de arroz, sem assar"
+ },
+ "4574": {
+  "it": "Meringa",
+  "fr": "Meringue",
+  "es": "Merengue",
+  "de": "Baiser",
+  "pt": "Merengue"
+ },
+ "4575": {
+  "it": "Biscotto alla melassa",
+  "fr": "Biscuit à la mélasse",
+  "es": "Galleta de melaza",
+  "de": "Melassekeks",
+  "pt": "Biscoito de melaço"
+ },
+ "4576": {
+  "it": "Biscotto multicereali, ad alto contenuto di fibre",
+  "fr": "Biscuit multicéréales, riche en fibres",
+  "es": "Galleta multicereales, rica en fibra",
+  "de": "Mehrkornkeks, ballaststoffreich",
+  "pt": "Biscoito multigrãos, rico em fibras"
+ },
+ "4577": {
+  "it": "Biscotto, tipo non specificato",
+  "fr": "Biscuit, type non précisé",
+  "es": "Galleta, tipo no especificado",
+  "de": "Keks, Art nicht angegeben",
+  "pt": "Biscoito, tipo não especificado"
+ },
+ "4578": {
+  "it": "Biscotto all'avena",
+  "fr": "Biscuit à l'avoine",
+  "es": "Galleta de avena",
+  "de": "Haferkeks",
+  "pt": "Biscoito de aveia"
+ },
+ "4579": {
+  "it": "Biscotto sandwich all'avena, con ripieno alla crema",
+  "fr": "Biscuit sandwich à l'avoine, fourré à la crème",
+  "es": "Galleta tipo sándwich de avena, rellena de crema",
+  "de": "Hafer-Sandwichkeks mit Cremefüllung",
+  "pt": "Biscoito tipo sanduíche de aveia, com recheio de creme"
+ },
+ "4580": {
+  "it": "Biscotto sandwich all'avena, con ripieno di burro di arachidi e confettura",
+  "fr": "Biscuit sandwich à l'avoine, fourré au beurre d'arachide et à la confiture",
+  "es": "Galleta tipo sándwich de avena, rellena de mantequilla de cacahuete y mermelada",
+  "de": "Hafer-Sandwichkeks mit Erdnussbutter- und Konfitürenfüllung",
+  "pt": "Biscoito tipo sanduíche de aveia, com recheio de pasta de amendoim e geleia"
+ },
+ "4581": {
+  "it": "Biscotto all'avena, a ridotto contenuto di grassi, presenza di uvetta non specificata",
+  "fr": "Biscuit à l'avoine, à teneur réduite en matières grasses, présence de raisins secs non précisée",
+  "es": "Galleta de avena, reducida en grasa, presencia de pasas no especificada",
+  "de": "Haferkeks, fettarm, Rosinenanteil nicht angegeben",
+  "pt": "Biscoito de aveia, com teor reduzido de gordura, presença de uvas-passas não especificada"
+ },
+ "4582": {
+  "it": "Biscotto all'avena, a ridotto contenuto di zuccheri",
+  "fr": "Biscuit à l'avoine, à teneur réduite en sucres",
+  "es": "Galleta de avena, con menos azúcar",
+  "de": "Haferkeks, zuckerreduziert",
+  "pt": "Biscoito de aveia, com teor reduzido de açúcar"
+ },
+ "4583": {
+  "it": "Biscotto all'avena con cioccolato e burro di arachidi, senza cottura",
+  "fr": "Biscuit à l'avoine avec chocolat et beurre d'arachide, sans cuisson",
+  "es": "Galleta de avena con chocolate y mantequilla de cacahuete, sin hornear",
+  "de": "Haferkeks mit Schokolade und Erdnussbutter, ohne Backen",
+  "pt": "Biscoito de aveia com chocolate e pasta de amendoim, sem assar"
+ },
+ "4584": {
+  "it": "Biscotto all'avena con gocce di cioccolato",
+  "fr": "Biscuit à l'avoine avec pépites de chocolat",
+  "es": "Galleta de avena con chispas de chocolate",
+  "de": "Haferkeks mit Schokoladenstückchen",
+  "pt": "Biscoito de aveia com gotas de chocolate"
+ },
+ "4585": {
+  "it": "Biscotto all'avena con uvetta",
+  "fr": "Biscuit à l'avoine avec raisins secs",
+  "es": "Galleta de avena con pasas",
+  "de": "Haferkeks mit Rosinen",
+  "pt": "Biscoito de aveia com uvas-passas"
+ },
+ "4586": {
+  "it": "Biscotto al burro di arachidi",
+  "fr": "Biscuit au beurre d'arachide",
+  "es": "Galleta de mantequilla de cacahuete",
+  "de": "Erdnussbutterkeks",
+  "pt": "Biscoito de pasta de amendoim"
+ },
+ "4587": {
+  "it": "Biscotto sandwich al burro di arachidi",
+  "fr": "Biscuit sandwich au beurre d'arachide",
+  "es": "Galleta tipo sándwich de mantequilla de cacahuete",
+  "de": "Erdnussbutter-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de pasta de amendoim"
+ },
+ "4588": {
+  "it": "Biscotto al burro di arachidi con cereali di riso, senza cottura",
+  "fr": "Biscuit au beurre d'arachide avec céréales de riz, sans cuisson",
+  "es": "Galleta de mantequilla de cacahuete con cereal de arroz, sin hornear",
+  "de": "Erdnussbutterkeks mit Reiscrispies, ohne Backen",
+  "pt": "Biscoito de pasta de amendoim com cereal de arroz, sem assar"
+ },
+ "4589": {
+  "it": "Biscotto al burro di arachidi, senza zucchero",
+  "fr": "Biscuit au beurre d'arachide, sans sucre",
+  "es": "Galleta de mantequilla de cacahuete, sin azúcar",
+  "de": "Erdnussbutterkeks, zuckerfrei",
+  "pt": "Biscoito de pasta de amendoim, sem açúcar"
+ },
+ "4590": {
+  "it": "Biscotto al burro di arachidi, con cioccolato",
+  "fr": "Biscuit au beurre d'arachide, avec chocolat",
+  "es": "Galleta de mantequilla de cacahuete, con chocolate",
+  "de": "Erdnussbutterkeks mit Schokolade",
+  "pt": "Biscoito de pasta de amendoim, com chocolate"
+ },
+ "4591": {
+  "it": "Biscotto Pfeffernüsse",
+  "fr": "Biscuit Pfeffernüsse",
+  "es": "Galleta Pfeffernüsse",
+  "de": "Pfeffernüsse-Keks",
+  "pt": "Biscoito Pfeffernüsse"
+ },
+ "4592": {
+  "it": "Cialda pizzelle",
+  "fr": "Gaufrette pizzelle",
+  "es": "Galleta pizzelle",
+  "de": "Pizzelle-Waffel",
+  "pt": "Biscoito pizzelle"
+ },
+ "4593": {
+  "it": "Biscotto alla zucca",
+  "fr": "Biscuit à la citrouille",
+  "es": "Galleta de calabaza",
+  "de": "Kürbiskeks",
+  "pt": "Biscoito de abóbora"
+ },
+ "4594": {
+  "it": "Biscotto all'uvetta",
+  "fr": "Biscuit aux raisins secs",
+  "es": "Galleta de pasas",
+  "de": "Rosinenkeks",
+  "pt": "Biscoito de uvas-passas"
+ },
+ "4595": {
+  "it": "Biscotto sandwich all'uvetta, con ripieno alla crema",
+  "fr": "Biscuit sandwich aux raisins secs, fourré à la crème",
+  "es": "Galleta tipo sándwich de pasas, rellena de crema",
+  "de": "Rosinen-Sandwichkeks mit Cremefüllung",
+  "pt": "Biscoito tipo sanduíche de uvas-passas, com recheio de creme"
+ },
+ "4596": {
+  "it": "Biscotto rugelach",
+  "fr": "Biscuit rugelach",
+  "es": "Galleta rugelach",
+  "de": "Rugelach-Gebäck",
+  "pt": "Biscoito rugelach"
+ },
+ "4597": {
+  "it": "Pallina al rum senza cottura",
+  "fr": "Boule au rhum sans cuisson",
+  "es": "Bolita de ron sin hornear",
+  "de": "Rumkugel, ohne Backen",
+  "pt": "Bolinha de rum, sem assar"
+ },
+ "4598": {
+  "it": "Biscotto sandwich, a ridotto contenuto di zuccheri",
+  "fr": "Biscuit sandwich, à teneur réduite en sucres",
+  "es": "Galleta tipo sándwich, con menos azúcar",
+  "de": "Sandwichkeks, zuckerreduziert",
+  "pt": "Biscoito tipo sanduíche, com teor reduzido de açúcar"
+ },
+ "4599": {
+  "it": "Biscotto tipo sandwich, non al cioccolato né alla vaniglia",
+  "fr": "Biscuit de type sandwich, ni au chocolat ni à la vanille",
+  "es": "Galleta tipo sándwich, que no es de chocolate ni vainilla",
+  "de": "Sandwichkeks, weder Schokolade noch Vanille",
+  "pt": "Biscoito tipo sanduíche, que não é de chocolate nem de baunilha"
+ },
+ "4600": {
+  "it": "Biscotto di pasta frolla (shortbread)",
+  "fr": "Sablé (shortbread)",
+  "es": "Galleta de mantequilla tipo shortbread",
+  "de": "Shortbread-Keks",
+  "pt": "Biscoito amanteigado tipo shortbread"
+ },
+ "4601": {
+  "it": "Biscotto di pasta frolla, a ridotto contenuto di grassi",
+  "fr": "Sablé, à teneur réduite en matières grasses",
+  "es": "Galleta tipo shortbread, reducida en grasa",
+  "de": "Shortbread-Keks, fettarm",
+  "pt": "Biscoito amanteigado tipo shortbread, com teor reduzido de gordura"
+ },
+ "4602": {
+  "it": "Biscotto di pasta frolla, con glassa o ripieno",
+  "fr": "Sablé, avec glaçage ou fourrage",
+  "es": "Galleta tipo shortbread, con glaseado o relleno",
+  "de": "Shortbread-Keks mit Glasur oder Füllung",
+  "pt": "Biscoito amanteigado tipo shortbread, com cobertura ou recheio"
+ },
+ "4603": {
+  "it": "Biscotto semplice o allo zucchero, senza zucchero",
+  "fr": "Biscuit nature ou au sucre, sans sucre",
+  "es": "Galleta simple o de azúcar, sin azúcar",
+  "de": "Einfacher oder Zuckerkeks, zuckerfrei",
+  "pt": "Biscoito simples ou de açúcar, sem açúcar"
+ },
+ "4604": {
+  "it": "Wafer allo zucchero",
+  "fr": "Gaufrette au sucre",
+  "es": "Barquillo de azúcar",
+  "de": "Zuckerwaffel",
+  "pt": "Wafer de açúcar"
+ },
+ "4605": {
+  "it": "Wafer allo zucchero ricoperto di cioccolato",
+  "fr": "Gaufrette au sucre enrobée de chocolat",
+  "es": "Barquillo de azúcar cubierto de chocolate",
+  "de": "Mit Schokolade überzogene Zuckerwaffel",
+  "pt": "Wafer de açúcar coberto de chocolate"
+ },
+ "4606": {
+  "it": "Wafer allo zucchero, senza zucchero",
+  "fr": "Gaufrette au sucre, sans sucre",
+  "es": "Barquillo de azúcar, sin azúcar",
+  "de": "Zuckerwaffel, zuckerfrei",
+  "pt": "Wafer de açúcar, sem açúcar"
+ },
+ "4607": {
+  "it": "Biscotto giapponese da tè",
+  "fr": "Biscuit japonais pour le thé",
+  "es": "Galleta japonesa para té",
+  "de": "Japanischer Teekeks",
+  "pt": "Biscoito japonês para chá"
+ },
+ "4608": {
+  "it": "Biscotto toffee bar",
+  "fr": "Biscuit barre au caramel toffee",
+  "es": "Galleta tipo barra de toffee",
+  "de": "Toffee-Keksriegel",
+  "pt": "Biscoito em barra tipo toffee"
+ },
+ "4609": {
+  "it": "Biscotto sandwich alla vaniglia",
+  "fr": "Biscuit sandwich à la vanille",
+  "es": "Galleta tipo sándwich de vainilla",
+  "de": "Vanille-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de baunilha"
+ },
+ "4610": {
+  "it": "Biscotto sandwich alla vaniglia, con ripieno extra",
+  "fr": "Biscuit sandwich à la vanille, avec garniture supplémentaire",
+  "es": "Galleta tipo sándwich de vainilla, con relleno adicional",
+  "de": "Vanille-Sandwichkeks mit extra Füllung",
+  "pt": "Biscoito tipo sanduíche de baunilha, com recheio extra"
+ },
+ "4611": {
+  "it": "Biscotto sandwich alla vaniglia, a ridotto contenuto di grassi",
+  "fr": "Biscuit sandwich à la vanille, à teneur réduite en matières grasses",
+  "es": "Galleta tipo sándwich de vainilla, reducida en grasa",
+  "de": "Vanille-Sandwichkeks, fettarm",
+  "pt": "Biscoito tipo sanduíche de baunilha, com teor reduzido de gordura"
+ },
+ "4612": {
+  "it": "Wafer alla vaniglia",
+  "fr": "Gaufrette à la vanille",
+  "es": "Barquillo de vainilla",
+  "de": "Vanillewaffel",
+  "pt": "Wafer de baunilha"
+ },
+ "4613": {
+  "it": "Wafer alla vaniglia, a ridotto contenuto di grassi",
+  "fr": "Gaufrette à la vanille, à teneur réduite en matières grasses",
+  "es": "Barquillo de vainilla, reducido en grasa",
+  "de": "Vanillewaffel, fettarm",
+  "pt": "Wafer de baunilha, com teor reduzido de gordura"
+ },
+ "4614": {
+  "it": "Biscotto alla vaniglia con caramello, cocco e copertura al cioccolato",
+  "fr": "Biscuit à la vanille avec caramel, noix de coco et enrobage au chocolat",
+  "es": "Galleta de vainilla con caramelo, coco y cobertura de chocolate",
+  "de": "Vanillekeks mit Karamell, Kokos und Schokoladenüberzug",
+  "pt": "Biscoito de baunilha com caramelo, coco e cobertura de chocolate"
+ },
+ "4615": {
+  "it": "Biscotto con ripieno al burro di arachidi, ricoperto di cioccolato",
+  "fr": "Biscuit fourré au beurre d'arachide, enrobé de chocolat",
+  "es": "Galleta rellena de mantequilla de cacahuete, cubierta de chocolate",
+  "de": "Keks mit Erdnussbutterfüllung und Schokoladenüberzug",
+  "pt": "Biscoito recheado com pasta de amendoim, coberto de chocolate"
+ },
+ "4616": {
+  "it": "Biscotti a forma di animaletto (inclusi biscotti all'arrowroot e biscotti da tè)",
+  "fr": "Biscuits en forme d'animaux (y compris biscuits à l'arrow-root et biscuits pour le thé)",
+  "es": "Galletas con forma de animal (incluye galletas de arrurruz y galletas de té)",
+  "de": "Tierkekse (einschließlich Arrowroot- und Teekekse)",
+  "pt": "Biscoitos em formato de animais (inclui biscoitos de araruta e biscoitos para chá)"
+ },
+ "4617": {
+  "it": "Biscotti a forma di animaletto, con glassa",
+  "fr": "Biscuits en forme d'animaux, avec glaçage",
+  "es": "Galletas con forma de animal, con glaseado",
+  "de": "Tierkekse mit Zuckerguss",
+  "pt": "Biscoitos em formato de animais, com cobertura"
+ },
+ "4618": {
+  "it": "Brownies confezionati",
+  "fr": "Brownies du commerce",
+  "es": "Brownies comerciales",
+  "de": "Gewerblich hergestellte Brownies",
+  "pt": "Brownies industrializados"
+ },
+ "4619": {
+  "it": "Brownies confezionati, a ridotto contenuto di grassi, con fibre aggiunte",
+  "fr": "Brownies du commerce, à teneur réduite en matières grasses, avec fibres ajoutées",
+  "es": "Brownies comerciales, reducidos en grasa, con fibra añadida",
+  "de": "Gewerblich hergestellte Brownies, fettarm, mit zugesetzten Ballaststoffen",
+  "pt": "Brownies industrializados, com teor reduzido de gordura e fibras adicionadas"
+ },
+ "4620": {
+  "it": "Miscela secca per biscotti brownie, normale",
+  "fr": "Préparation sèche pour biscuits brownie, classique",
+  "es": "Mezcla seca para brownies, normal",
+  "de": "Trockenmischung für Brownies, normal",
+  "pt": "Mistura seca para brownie, comum"
+ },
+ "4621": {
+  "it": "Miscela secca per biscotti brownie, senza zucchero",
+  "fr": "Préparation sèche pour biscuits brownie, sans sucre",
+  "es": "Mezcla seca para brownies, sin azúcar",
+  "de": "Trockenmischung für Brownies, zuckerfrei",
+  "pt": "Mistura seca para brownie, sem açúcar"
+ },
+ "4622": {
+  "it": "Biscotti brownie preparati secondo ricetta",
+  "fr": "Biscuits brownie préparés selon une recette",
+  "es": "Brownies preparados según receta",
+  "de": "Brownies nach Rezept zubereitet",
+  "pt": "Brownies preparados conforme receita"
+ },
+ "4623": {
+  "it": "Biscotti al burro confezionati, arricchiti",
+  "fr": "Biscuits au beurre du commerce, enrichis",
+  "es": "Galletas de mantequilla comerciales, enriquecidas",
+  "de": "Gewerblich hergestellte Butterkekse, angereichert",
+  "pt": "Biscoitos de manteiga industrializados, enriquecidos"
+ },
+ "4624": {
+  "it": "Biscotti al burro confezionati, non arricchiti",
+  "fr": "Biscuits au beurre du commerce, non enrichis",
+  "es": "Galletas de mantequilla comerciales, no enriquecidas",
+  "de": "Gewerblich hergestellte Butterkekse, nicht angereichert",
+  "pt": "Biscoitos de manteiga industrializados, não enriquecidos"
+ },
+ "4625": {
+  "it": "Biscotti sandwich con gocce di cioccolato, con ripieno alla crema",
+  "fr": "Biscuits sandwich aux pépites de chocolat, fourrés à la crème",
+  "es": "Galletas tipo sándwich con chispas de chocolate, rellenas de crema",
+  "de": "Sandwichkekse mit Schokoladenstückchen und Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche com gotas de chocolate, recheados com creme"
+ },
+ "4626": {
+  "it": "Biscotti con gocce di cioccolato confezionati, normali, ad alto contenuto di grassi, arricchiti",
+  "fr": "Biscuits aux pépites de chocolat du commerce, classiques, riches en matières grasses, enrichis",
+  "es": "Galletas comerciales con chispas de chocolate, normales, altas en grasa, enriquecidas",
+  "de": "Gewerblich hergestellte Schokoladenkekse, normal, fettreich, angereichert",
+  "pt": "Biscoitos industrializados com gotas de chocolate, comuns, alto teor de gordura, enriquecidos"
+ },
+ "4627": {
+  "it": "Biscotti con gocce di cioccolato confezionati, normali, ad alto contenuto di grassi, non arricchiti",
+  "fr": "Biscuits aux pépites de chocolat du commerce, classiques, riches en matières grasses, non enrichis",
+  "es": "Galletas comerciales con chispas de chocolate, normales, altas en grasa, no enriquecidas",
+  "de": "Gewerblich hergestellte Schokoladenkekse, normal, fettreich, nicht angereichert",
+  "pt": "Biscoitos industrializados com gotas de chocolate, comuns, alto teor de gordura, não enriquecidos"
+ },
+ "4628": {
+  "it": "Biscotti con gocce di cioccolato confezionati, normali, a basso contenuto di grassi",
+  "fr": "Biscuits aux pépites de chocolat du commerce, classiques, à faible teneur en matières grasses",
+  "es": "Galletas comerciales con chispas de chocolate, normales, bajas en grasa",
+  "de": "Gewerblich hergestellte Schokoladenkekse, normal, fettarm",
+  "pt": "Biscoitos industrializados com gotas de chocolate, comuns, baixo teor de gordura"
+ },
+ "4629": {
+  "it": "Biscotti morbidi confezionati con gocce di cioccolato",
+  "fr": "Biscuits moelleux aux pépites de chocolat du commerce",
+  "es": "Galletas comerciales blandas con chispas de chocolate",
+  "de": "Gewerblich hergestellte weiche Schokoladenkekse",
+  "pt": "Biscoitos industrializados macios com gotas de chocolate"
+ },
+ "4630": {
+  "it": "Biscotti con gocce di cioccolato confezionati, per regimi dietetici speciali",
+  "fr": "Biscuits aux pépites de chocolat du commerce, pour régimes alimentaires spéciaux",
+  "es": "Galletas comerciales con chispas de chocolate, para dietas especiales",
+  "de": "Gewerblich hergestellte Schokoladenkekse für besondere Ernährungsformen",
+  "pt": "Biscoitos industrializados com gotas de chocolate, para dietas especiais"
+ },
+ "4631": {
+  "it": "Miscela secca per biscotti con gocce di cioccolato",
+  "fr": "Préparation sèche pour biscuits aux pépites de chocolat",
+  "es": "Mezcla seca para galletas con chispas de chocolate",
+  "de": "Trockenmischung für Kekse mit Schokoladenstückchen",
+  "pt": "Mistura seca para biscoitos com gotas de chocolate"
+ },
+ "4632": {
+  "it": "Biscotti con gocce di cioccolato preparati secondo ricetta, con burro",
+  "fr": "Biscuits aux pépites de chocolat préparés selon une recette, au beurre",
+  "es": "Galletas con chispas de chocolate preparadas según receta, con mantequilla",
+  "de": "Kekse mit Schokoladenstückchen nach Rezept, mit Butter zubereitet",
+  "pt": "Biscoitos com gotas de chocolate preparados conforme receita, com manteiga"
+ },
+ "4633": {
+  "it": "Biscotti con gocce di cioccolato preparati secondo ricetta, con margarina",
+  "fr": "Biscuits aux pépites de chocolat préparés selon une recette, à la margarine",
+  "es": "Galletas con chispas de chocolate preparadas según receta, con margarina",
+  "de": "Kekse mit Schokoladenstückchen nach Rezept, mit Margarine zubereitet",
+  "pt": "Biscoitos com gotas de chocolate preparados conforme receita, com margarina"
+ },
+ "4634": {
+  "it": "Impasto refrigerato per biscotti con gocce di cioccolato",
+  "fr": "Pâte réfrigérée pour biscuits aux pépites de chocolat",
+  "es": "Masa refrigerada para galletas con chispas de chocolate",
+  "de": "Gekühlter Teig für Kekse mit Schokoladenstückchen",
+  "pt": "Massa refrigerada para biscoitos com gotas de chocolate"
+ },
+ "4635": {
+  "it": "Biscotti con gocce di cioccolato, da impasto refrigerato, cotti",
+  "fr": "Biscuits aux pépites de chocolat, cuits à partir d'une pâte réfrigérée",
+  "es": "Galletas con chispas de chocolate, horneadas a partir de masa refrigerada",
+  "de": "Kekse mit Schokoladenstückchen, aus gekühltem Teig gebacken",
+  "pt": "Biscoitos com gotas de chocolate, assados a partir de massa refrigerada"
+ },
+ "4636": {
+  "it": "Bastoncini di biscotto ricoperti di crema al cioccolato",
+  "fr": "Bâtonnets de biscuit enrobés de crème au chocolat",
+  "es": "Palitos de galleta cubiertos de crema de chocolate",
+  "de": "Keksstäbchen mit Schokoladencremeüberzug",
+  "pt": "Palitos de biscoito cobertos com creme de chocolate"
+ },
+ "4637": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, a ridotto contenuto di grassi",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, à teneur réduite en matières grasses",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, reducidas en grasa",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung, fettarm",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, com teor reduzido de gordura"
+ },
+ "4638": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, normali",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, classiques",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, normales",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung, normal",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, comuns"
+ },
+ "4639": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, normali, ricoperti di cioccolato",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, classiques, enrobés de chocolat",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, normales, cubiertas de chocolate",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung, normal, schokoladenüberzogen",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, comuns, cobertos de chocolate"
+ },
+ "4640": {
+  "it": "Biscotti sandwich al cioccolato con ripieno alla crema, per regimi dietetici speciali",
+  "fr": "Biscuits sandwich au chocolat fourrés à la crème, pour régimes alimentaires spéciaux",
+  "es": "Galletas tipo sándwich de chocolate rellenas de crema, para dietas especiales",
+  "de": "Schokoladen-Sandwichkekse mit Cremefüllung für besondere Ernährungsformen",
+  "pt": "Biscoitos tipo sanduíche de chocolate recheados com creme, para dietas especiais"
+ },
+ "4641": {
+  "it": "Biscotti sandwich al cioccolato, con ripieno extra alla crema",
+  "fr": "Biscuits sandwich au chocolat, avec garniture supplémentaire à la crème",
+  "es": "Galletas tipo sándwich de chocolate, con relleno extra de crema",
+  "de": "Schokoladen-Sandwichkekse mit extra Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche de chocolate, com recheio extra de creme"
+ },
+ "4642": {
+  "it": "Wafer al cioccolato",
+  "fr": "Gaufrettes au chocolat",
+  "es": "Barquillos de chocolate",
+  "de": "Schokoladenwaffeln",
+  "pt": "Wafers de chocolate"
+ },
+ "4643": {
+  "it": "Biscotti al cioccolato preparati con cereali di riso",
+  "fr": "Biscuits au chocolat préparés avec des céréales de riz",
+  "es": "Galletas de chocolate preparadas con cereal de arroz",
+  "de": "Schokoladenkekse mit Reiscrispies",
+  "pt": "Biscoitos de chocolate preparados com cereal de arroz"
+ },
+ "4644": {
+  "it": "Amaretti al cocco",
+  "fr": "Macarons à la noix de coco",
+  "es": "Macarrones de coco",
+  "de": "Kokosmakronen",
+  "pt": "Macarons de coco"
+ },
+ "4645": {
+  "it": "Biscotti a barretta ai fichi",
+  "fr": "Biscuits aux figues en barre",
+  "es": "Barras de galleta de higo",
+  "de": "Feigen-Keksriegel",
+  "pt": "Biscoitos em barra de figo"
+ },
+ "4646": {
+  "it": "Biscotti della fortuna",
+  "fr": "Biscuits chinois porte-bonheur",
+  "es": "Galletas de la fortuna",
+  "de": "Glückskekse",
+  "pt": "Biscoitos da sorte"
+ },
+ "4647": {
+  "it": "Biscotti al fondente, tipo torta (inclusi i trolley cake)",
+  "fr": "Biscuits au fudge, type gâteau (y compris les trolley cakes)",
+  "es": "Galletas de fudge tipo pastel (incluye trolley cakes)",
+  "de": "Fudge-Kekse, kuchenartig (einschließlich Trolley Cakes)",
+  "pt": "Biscoitos de fudge tipo bolo (inclui trolley cakes)"
+ },
+ "4648": {
+  "it": "Biscotti speziati allo zenzero",
+  "fr": "Biscuits croquants au gingembre",
+  "es": "Galletas crujientes de jengibre",
+  "de": "Ingwerplätzchen",
+  "pt": "Biscoitos crocantes de gengibre"
+ },
+ "4649": {
+  "it": "Biscotti senza glutine, sandwich al cioccolato con ripieno alla crema",
+  "fr": "Biscuits sans gluten, sandwich au chocolat fourrés à la crème",
+  "es": "Galletas sin gluten, tipo sándwich de chocolate rellenas de crema",
+  "de": "Glutenfreie Schokoladen-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos sem glúten, tipo sanduíche de chocolate recheados com creme"
+ },
+ "4650": {
+  "it": "Biscotti senza glutine, wafer al cioccolato",
+  "fr": "Biscuits sans gluten, gaufrettes au chocolat",
+  "es": "Galletas sin gluten, barquillos de chocolate",
+  "de": "Glutenfreie Schokoladenwaffeln",
+  "pt": "Biscoitos sem glúten, wafers de chocolate"
+ },
+ "4651": {
+  "it": "Biscotti senza glutine, wafer al limone",
+  "fr": "Biscuits sans gluten, gaufrettes au citron",
+  "es": "Galletas sin gluten, barquillos de limón",
+  "de": "Glutenfreie Zitronenwaffeln",
+  "pt": "Biscoitos sem glúten, wafers de limão"
+ },
+ "4652": {
+  "it": "Biscotti senza glutine, sandwich alla vaniglia con ripieno alla crema",
+  "fr": "Biscuits sans gluten, sandwich à la vanille fourrés à la crème",
+  "es": "Galletas sin gluten, tipo sándwich de vainilla rellenas de crema",
+  "de": "Glutenfreie Vanille-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos sem glúten, tipo sanduíche de baunilha recheados com creme"
+ },
+ "4653": {
+  "it": "Biscotti Graham ricoperti di cioccolato",
+  "fr": "Biscuits Graham enrobés de chocolat",
+  "es": "Galletas Graham cubiertas de chocolate",
+  "de": "Mit Schokolade überzogene Graham-Cracker",
+  "pt": "Biscoitos Graham cobertos de chocolate"
+ },
+ "4654": {
+  "it": "Biscotti Graham semplici o al miele (inclusa la cannella)",
+  "fr": "Biscuits Graham nature ou au miel (y compris à la cannelle)",
+  "es": "Galletas Graham simples o con miel (incluida la canela)",
+  "de": "Einfache Graham-Cracker oder mit Honig (einschließlich Zimt)",
+  "pt": "Biscoitos Graham simples ou com mel (incluindo canela)"
+ },
+ "4655": {
+  "it": "Biscotti Graham semplici o al miele, a basso contenuto di grassi",
+  "fr": "Biscuits Graham nature ou au miel, à faible teneur en matières grasses",
+  "es": "Galletas Graham simples o con miel, bajas en grasa",
+  "de": "Einfache Graham-Cracker oder mit Honig, fettarm",
+  "pt": "Biscoitos Graham simples ou com mel, com baixo teor de gordura"
+ },
+ "4656": {
+  "it": "Savoiardi con succo e scorza di limone",
+  "fr": "Biscuits à la cuillère avec jus et zeste de citron",
+  "es": "Bizcochos de soletilla con zumo y ralladura de limón",
+  "de": "Löffelbiskuits mit Zitronensaft und -schale",
+  "pt": "Biscoitos champanhe com suco e raspas de limão"
+ },
+ "4657": {
+  "it": "Savoiardi senza succo né scorza di limone",
+  "fr": "Biscuits à la cuillère sans jus ni zeste de citron",
+  "es": "Bizcochos de soletilla sin zumo ni ralladura de limón",
+  "de": "Löffelbiskuits ohne Zitronensaft und -schale",
+  "pt": "Biscoitos champanhe sem suco nem raspas de limão"
+ },
+ "4658": {
+  "it": "Biscotti tipo Marie",
+  "fr": "Biscuits Marie",
+  "es": "Galletas María",
+  "de": "Marie-Kekse",
+  "pt": "Biscoitos tipo Maria"
+ },
+ "4659": {
+  "it": "Biscotti al marshmallow ricoperti di cioccolato (incluse tortine al marshmallow)",
+  "fr": "Biscuits à la guimauve enrobés de chocolat (y compris les gâteaux à la guimauve)",
+  "es": "Galletas de malvavisco cubiertas de chocolate (incluye pastelitos de malvavisco)",
+  "de": "Mit Schokolade überzogene Marshmallow-Kekse (einschließlich Marshmallow-Kuchen)",
+  "pt": "Biscoitos de marshmallow cobertos de chocolate (inclui bolinhos de marshmallow)"
+ },
+ "4660": {
+  "it": "Biscotti al marshmallow con cereali di riso e gocce di cioccolato",
+  "fr": "Biscuits à la guimauve avec céréales de riz et pépites de chocolat",
+  "es": "Galletas de malvavisco con cereal de arroz y chispas de chocolate",
+  "de": "Marshmallow-Kekse mit Reiscrispies und Schokoladenstückchen",
+  "pt": "Biscoitos de marshmallow com cereal de arroz e gotas de chocolate"
+ },
+ "4661": {
+  "it": "Biscotti alla melassa",
+  "fr": "Biscuits à la mélasse",
+  "es": "Galletas de melaza",
+  "de": "Melassekekse",
+  "pt": "Biscoitos de melaço"
+ },
+ "4662": {
+  "it": "Biscotti sandwich all'avena con ripieno alla crema",
+  "fr": "Biscuits sandwich à l'avoine fourrés à la crème",
+  "es": "Galletas tipo sándwich de avena rellenas de crema",
+  "de": "Hafer-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche de aveia recheados com creme"
+ },
+ "4663": {
+  "it": "Biscotti all'avena confezionati, normali",
+  "fr": "Biscuits à l'avoine du commerce, classiques",
+  "es": "Galletas de avena comerciales, normales",
+  "de": "Gewerblich hergestellte Haferkekse, normal",
+  "pt": "Biscoitos de aveia industrializados, comuns"
+ },
+ "4664": {
+  "it": "Biscotti morbidi all'avena confezionati",
+  "fr": "Biscuits moelleux à l'avoine du commerce",
+  "es": "Galletas de avena comerciales, blandas",
+  "de": "Gewerblich hergestellte weiche Haferkekse",
+  "pt": "Biscoitos de aveia industrializados, macios"
+ },
+ "4665": {
+  "it": "Biscotti all'avena confezionati, per regimi dietetici speciali",
+  "fr": "Biscuits à l'avoine du commerce, pour régimes alimentaires spéciaux",
+  "es": "Galletas de avena comerciales, para dietas especiales",
+  "de": "Gewerblich hergestellte Haferkekse für besondere Ernährungsformen",
+  "pt": "Biscoitos de aveia industrializados, para dietas especiais"
+ },
+ "4666": {
+  "it": "Miscela secca per biscotti all'avena",
+  "fr": "Préparation sèche pour biscuits à l'avoine",
+  "es": "Mezcla seca para galletas de avena",
+  "de": "Trockenmischung für Haferkekse",
+  "pt": "Mistura seca para biscoitos de aveia"
+ },
+ "4667": {
+  "it": "Biscotti all'avena preparati secondo ricetta, senza uvetta",
+  "fr": "Biscuits à l'avoine préparés selon une recette, sans raisins secs",
+  "es": "Galletas de avena preparadas según receta, sin pasas",
+  "de": "Haferkekse nach Rezept, ohne Rosinen",
+  "pt": "Biscoitos de aveia preparados conforme receita, sem uvas-passas"
+ },
+ "4668": {
+  "it": "Biscotti all'avena, a ridotto contenuto di grassi",
+  "fr": "Biscuits à l'avoine, à teneur réduite en matières grasses",
+  "es": "Galletas de avena, reducidas en grasa",
+  "de": "Haferkekse, fettarm",
+  "pt": "Biscoitos de aveia, com teor reduzido de gordura"
+ },
+ "4669": {
+  "it": "Impasto refrigerato per biscotti all'avena",
+  "fr": "Pâte réfrigérée pour biscuits à l'avoine",
+  "es": "Masa refrigerada para galletas de avena",
+  "de": "Gekühlter Teig für Haferkekse",
+  "pt": "Massa refrigerada para biscoitos de aveia"
+ },
+ "4670": {
+  "it": "Biscotti all'avena, da impasto refrigerato, cotti",
+  "fr": "Biscuits à l'avoine, cuits à partir d'une pâte réfrigérée",
+  "es": "Galletas de avena, horneadas a partir de masa refrigerada",
+  "de": "Haferkekse, aus gekühltem Teig gebacken",
+  "pt": "Biscoitos de aveia, assados a partir de massa refrigerada"
+ },
+ "4671": {
+  "it": "Biscotti morbidi all'avena con uvetta",
+  "fr": "Biscuits moelleux à l'avoine avec raisins secs",
+  "es": "Galletas blandas de avena con pasas",
+  "de": "Weiche Haferkekse mit Rosinen",
+  "pt": "Biscoitos macios de aveia com uvas-passas"
+ },
+ "4672": {
+  "it": "Biscotti all'avena con uvetta",
+  "fr": "Biscuits à l'avoine avec raisins secs",
+  "es": "Galletas de avena con pasas",
+  "de": "Haferkekse mit Rosinen",
+  "pt": "Biscoitos de aveia com uvas-passas"
+ },
+ "4673": {
+  "it": "Biscotti sandwich al burro di arachidi, normali",
+  "fr": "Biscuits sandwich au beurre d'arachide, classiques",
+  "es": "Galletas tipo sándwich de mantequilla de cacahuete, normales",
+  "de": "Erdnussbutter-Sandwichkekse, normal",
+  "pt": "Biscoitos tipo sanduíche de pasta de amendoim, comuns"
+ },
+ "4674": {
+  "it": "Biscotti sandwich al burro di arachidi, per regimi dietetici speciali",
+  "fr": "Biscuits sandwich au beurre d'arachide, pour régimes alimentaires spéciaux",
+  "es": "Galletas tipo sándwich de mantequilla de cacahuete, para dietas especiales",
+  "de": "Erdnussbutter-Sandwichkekse für besondere Ernährungsformen",
+  "pt": "Biscoitos tipo sanduíche de pasta de amendoim, para dietas especiais"
+ },
+ "4675": {
+  "it": "Biscotti al burro di arachidi confezionati, normali",
+  "fr": "Biscuits au beurre d'arachide du commerce, classiques",
+  "es": "Galletas comerciales de mantequilla de cacahuete, normales",
+  "de": "Gewerblich hergestellte Erdnussbutterkekse, normal",
+  "pt": "Biscoitos industrializados de pasta de amendoim, comuns"
+ },
+ "4676": {
+  "it": "Biscotti morbidi al burro di arachidi confezionati",
+  "fr": "Biscuits moelleux au beurre d'arachide du commerce",
+  "es": "Galletas comerciales blandas de mantequilla de cacahuete",
+  "de": "Gewerblich hergestellte weiche Erdnussbutterkekse",
+  "pt": "Biscoitos industrializados macios de pasta de amendoim"
+ },
+ "4677": {
+  "it": "Biscotti al burro di arachidi confezionati, senza zucchero",
+  "fr": "Biscuits au beurre d'arachide du commerce, sans sucre",
+  "es": "Galletas comerciales de mantequilla de cacahuete, sin azúcar",
+  "de": "Gewerblich hergestellte Erdnussbutterkekse, zuckerfrei",
+  "pt": "Biscoitos industrializados de pasta de amendoim, sem açúcar"
+ },
+ "4678": {
+  "it": "Biscotti al burro di arachidi preparati secondo ricetta",
+  "fr": "Biscuits au beurre d'arachide préparés selon une recette",
+  "es": "Galletas de mantequilla de cacahuete preparadas según receta",
+  "de": "Erdnussbutterkekse nach Rezept",
+  "pt": "Biscoitos de pasta de amendoim preparados conforme receita"
+ },
+ "4679": {
+  "it": "Impasto refrigerato per biscotti al burro di arachidi",
+  "fr": "Pâte réfrigérée pour biscuits au beurre d'arachide",
+  "es": "Masa refrigerada para galletas de mantequilla de cacahuete",
+  "de": "Gekühlter Teig für Erdnussbutterkekse",
+  "pt": "Massa refrigerada para biscoitos de pasta de amendoim"
+ },
+ "4680": {
+  "it": "Biscotti al burro di arachidi, da impasto refrigerato, cotti",
+  "fr": "Biscuits au beurre d'arachide, cuits à partir d'une pâte réfrigérée",
+  "es": "Galletas de mantequilla de cacahuete, horneadas a partir de masa refrigerada",
+  "de": "Erdnussbutterkekse, aus gekühltem Teig gebacken",
+  "pt": "Biscoitos de pasta de amendoim, assados a partir de massa refrigerada"
+ },
+ "4681": {
+  "it": "Biscotti in stile portoricano",
+  "fr": "Biscuits de style portoricain",
+  "es": "Galletas al estilo puertorriqueño",
+  "de": "Kekse nach puerto-ricanischer Art",
+  "pt": "Biscoitos ao estilo porto-riquenho"
+ },
+ "4682": {
+  "it": "Biscotti morbidi all'uvetta",
+  "fr": "Biscuits moelleux aux raisins secs",
+  "es": "Galletas blandas de pasas",
+  "de": "Weiche Rosinenkekse",
+  "pt": "Biscoitos macios de uvas-passas"
+ },
+ "4683": {
+  "it": "Biscotti di pasta frolla confezionati, alle noci pecan",
+  "fr": "Sablés du commerce aux noix de pécan",
+  "es": "Galletas shortbread comerciales con nueces pecanas",
+  "de": "Gewerblich hergestellte Shortbread-Kekse mit Pekannüssen",
+  "pt": "Biscoitos amanteigados industrializados com nozes-pecã"
+ },
+ "4684": {
+  "it": "Biscotti di pasta frolla confezionati, semplici",
+  "fr": "Sablés du commerce, nature",
+  "es": "Galletas shortbread comerciales, simples",
+  "de": "Gewerblich hergestellte Shortbread-Kekse, natur",
+  "pt": "Biscoitos amanteigados industrializados, simples"
+ },
+ "4685": {
+  "it": "Biscotti di pasta frolla, a ridotto contenuto di grassi",
+  "fr": "Sablés, à teneur réduite en matières grasses",
+  "es": "Galletas shortbread, reducidas en grasa",
+  "de": "Shortbread-Kekse, fettarm",
+  "pt": "Biscoitos amanteigados, com teor reduzido de gordura"
+ },
+ "4686": {
+  "it": "Wafer allo zucchero ricoperti di cioccolato",
+  "fr": "Gaufrettes au sucre enrobées de chocolat",
+  "es": "Barquillos de azúcar cubiertos de chocolate",
+  "de": "Mit Schokolade überzogene Zuckerwaffeln",
+  "pt": "Wafers de açúcar cobertos de chocolate"
+ },
+ "4687": {
+  "it": "Wafer allo zucchero con ripieno alla crema, senza zucchero",
+  "fr": "Gaufrettes au sucre fourrées à la crème, sans sucre",
+  "es": "Barquillos de azúcar rellenos de crema, sin azúcar",
+  "de": "Zuckerwaffeln mit Cremefüllung, zuckerfrei",
+  "pt": "Wafers de açúcar recheados com creme, sem açúcar"
+ },
+ "4688": {
+  "it": "Wafer allo zucchero con ripieno alla crema, normali",
+  "fr": "Gaufrettes au sucre fourrées à la crème, classiques",
+  "es": "Barquillos de azúcar rellenos de crema, normales",
+  "de": "Zuckerwaffeln mit Cremefüllung, normal",
+  "pt": "Wafers de açúcar recheados com creme, comuns"
+ },
+ "4689": {
+  "it": "Biscotti allo zucchero confezionati, normali (inclusi quelli alla vaniglia)",
+  "fr": "Biscuits au sucre du commerce, classiques (y compris à la vanille)",
+  "es": "Galletas de azúcar comerciales, normales (incluida la vainilla)",
+  "de": "Gewerblich hergestellte Zuckerkekse, normal (einschließlich Vanille)",
+  "pt": "Biscoitos de açúcar industrializados, comuns (incluindo baunilha)"
+ },
+ "4690": {
+  "it": "Impasto refrigerato per biscotti allo zucchero",
+  "fr": "Pâte réfrigérée pour biscuits au sucre",
+  "es": "Masa refrigerada para galletas de azúcar",
+  "de": "Gekühlter Teig für Zuckerkekse",
+  "pt": "Massa refrigerada para biscoitos de açúcar"
+ },
+ "4691": {
+  "it": "Biscotti allo zucchero, da impasto refrigerato, cotti",
+  "fr": "Biscuits au sucre, cuits à partir d'une pâte réfrigérée",
+  "es": "Galletas de azúcar, horneadas a partir de masa refrigerada",
+  "de": "Zuckerkekse, aus gekühltem Teig gebacken",
+  "pt": "Biscoitos de açúcar, assados a partir de massa refrigerada"
+ },
+ "4692": {
+  "it": "Biscotti sandwich alla vaniglia con ripieno alla crema",
+  "fr": "Biscuits sandwich à la vanille fourrés à la crème",
+  "es": "Galletas tipo sándwich de vainilla rellenas de crema",
+  "de": "Vanille-Sandwichkekse mit Cremefüllung",
+  "pt": "Biscoitos tipo sanduíche de baunilha recheados com creme"
+ },
+ "4693": {
+  "it": "Biscotti sandwich alla vaniglia con ripieno alla crema, a ridotto contenuto di grassi",
+  "fr": "Biscuits sandwich à la vanille fourrés à la crème, à teneur réduite en matières grasses",
+  "es": "Galletas tipo sándwich de vainilla rellenas de crema, reducidas en grasa",
+  "de": "Vanille-Sandwichkekse mit Cremefüllung, fettarm",
+  "pt": "Biscoitos tipo sanduíche de baunilha recheados com creme, com teor reduzido de gordura"
+ },
+ "4694": {
+  "it": "Wafer alla vaniglia, ad alto contenuto di grassi",
+  "fr": "Gaufrettes à la vanille, riches en matières grasses",
+  "es": "Barquillos de vainilla, altos en grasa",
+  "de": "Vanillewaffeln, fettreich",
+  "pt": "Wafers de baunilha, alto teor de gordura"
+ },
+ "4695": {
+  "it": "Wafer alla vaniglia, a basso contenuto di grassi",
+  "fr": "Gaufrettes à la vanille, à faible teneur en matières grasses",
+  "es": "Barquillos de vainilla, bajos en grasa",
+  "de": "Vanillewaffeln, fettarm",
+  "pt": "Wafers de baunilha, baixo teor de gordura"
+ },
+ "4696": {
+  "it": "Foglie di coriandolo (cilantro), crude",
+  "fr": "Feuilles de coriandre (cilantro), crues",
+  "es": "Hojas de cilantro, crudas",
+  "de": "Korianderblätter (Cilantro), roh",
+  "pt": "Folhas de coentro, cruas"
+ },
+ "4697": {
+  "it": "Bevanda al mais",
+  "fr": "Boisson au maïs",
+  "es": "Bebida de maíz",
+  "de": "Maisgetränk",
+  "pt": "Bebida de milho"
+ },
+ "4698": {
+  "it": "Crusca di mais, grezza",
+  "fr": "Son de maïs brut",
+  "es": "Salvado de maíz crudo",
+  "de": "Rohe Maiskleie",
+  "pt": "Farelo de milho cru"
+ },
+ "4699": {
+  "it": "Chips di mais, aromatizzate",
+  "fr": "Chips de maïs, aromatisées",
+  "es": "Chips de maíz, saborizadas",
+  "de": "Maischips, gewürzt",
+  "pt": "Salgadinhos de milho, saborizados"
+ },
+ "4700": {
+  "it": "Chips di mais, aromatizzate (Fritos)",
+  "fr": "Chips de maïs, aromatisées (Fritos)",
+  "es": "Chips de maíz, saborizadas (Fritos)",
+  "de": "Maischips, gewürzt (Fritos)",
+  "pt": "Salgadinhos de milho, saborizados (Fritos)"
+ },
+ "4701": {
+  "it": "Chips di mais, semplici",
+  "fr": "Chips de maïs, nature",
+  "es": "Chips de maíz, simples",
+  "de": "Maischips, natur",
+  "pt": "Salgadinhos de milho, simples"
+ },
+ "4702": {
+  "it": "Chips di mais, semplici (Fritos)",
+  "fr": "Chips de maïs, nature (Fritos)",
+  "es": "Chips de maíz, simples (Fritos)",
+  "de": "Maischips, natur (Fritos)",
+  "pt": "Salgadinhos de milho, simples (Fritos)"
+ },
+ "4703": {
+  "it": "Chips di mais, a ridotto contenuto di sodio",
+  "fr": "Chips de maïs, à teneur réduite en sodium",
+  "es": "Chips de maíz, reducidas en sodio",
+  "de": "Maischips, natriumreduziert",
+  "pt": "Salgadinhos de milho, com teor reduzido de sódio"
+ },
+ "4704": {
+  "it": "Corn dog (wurstel in pastella di mais)",
+  "fr": "Corn dog (saucisse enrobée de pâte de maïs)",
+  "es": "Corn dog (salchicha rebozada con masa de maíz)",
+  "de": "Corn Dog (Würstchen im Maisteigmantel)",
+  "pt": "Corn dog (salsicha empanada em massa de milho)"
+ },
+ "4705": {
+  "it": "Corn dog surgelati, preparati",
+  "fr": "Corn dogs surgelés, préparés",
+  "es": "Corn dogs congelados, preparados",
+  "de": "Tiefgekühlte Corn Dogs, zubereitet",
+  "pt": "Corn dogs congelados, preparados"
+ },
+ "4706": {
+  "it": "Frittella o tortino di farina di mais, fritto",
+  "fr": "Galette ou tartelette de farine de maïs, frite",
+  "es": "Torta o pastel de harina de maíz, frito",
+  "de": "Maismehlküchlein oder -pastete, frittiert",
+  "pt": "Bolinho ou tortinha de farinha de milho, frito"
+ },
+ "4707": {
+  "it": "Farina di mais, masa harina, bianca o gialla, secca, cruda",
+  "fr": "Farine de maïs, masa harina, blanche ou jaune, sèche, crue",
+  "es": "Harina de maíz, masa harina, blanca o amarilla, seca, cruda",
+  "de": "Maismehl, Masa Harina, weiß oder gelb, trocken, roh",
+  "pt": "Farinha de milho, masa harina, branca ou amarela, seca, crua"
+ },
+ "4708": {
+  "it": "Farina di mais, masa, bianca, arricchita",
+  "fr": "Farine de maïs masa, blanche, enrichie",
+  "es": "Harina de maíz masa, blanca, enriquecida",
+  "de": "Maismehl, Masa, weiß, angereichert",
+  "pt": "Farinha de milho masa, branca, enriquecida"
+ },
+ "4709": {
+  "it": "Farina di mais, masa, bianca, non arricchita",
+  "fr": "Farine de maïs masa, blanche, non enrichie",
+  "es": "Harina de maíz masa, blanca, no enriquecida",
+  "de": "Maismehl, Masa, weiß, nicht angereichert",
+  "pt": "Farinha de milho masa, branca, não enriquecida"
+ },
+ "4710": {
+  "it": "Farina di mais integrale, blu (harina de maíz morado)",
+  "fr": "Farine de maïs complète, bleue (harina de maíz morado)",
+  "es": "Harina de maíz integral, azul (harina de maíz morado)",
+  "de": "Vollkorn-Maismehl, blau (harina de maíz morado)",
+  "pt": "Farinha de milho integral, azul (harina de maíz morado)"
+ },
+ "4711": {
+  "it": "Farina di mais integrale, bianca",
+  "fr": "Farine de maïs complète, blanche",
+  "es": "Harina de maíz integral, blanca",
+  "de": "Vollkorn-Maismehl, weiß",
+  "pt": "Farinha de milho integral, branca"
+ },
+ "4712": {
+  "it": "Farina di mais integrale, gialla",
+  "fr": "Farine de maïs complète, jaune",
+  "es": "Harina de maíz integral, amarilla",
+  "de": "Vollkorn-Maismehl, gelb",
+  "pt": "Farinha de milho integral, amarela"
+ },
+ "4713": {
+  "it": "Farina di mais gialla, degerminata, non arricchita",
+  "fr": "Farine de maïs jaune, dégermée, non enrichie",
+  "es": "Harina de maíz amarilla, desgerminada, no enriquecida",
+  "de": "Gelbes Maismehl, entkeimt, nicht angereichert",
+  "pt": "Farinha de milho amarela, degerminada, não enriquecida"
+ },
+ "4714": {
+  "it": "Farina di mais gialla, masa, arricchita",
+  "fr": "Farine de maïs jaune masa, enrichie",
+  "es": "Harina de maíz amarilla masa, enriquecida",
+  "de": "Gelbes Maismehl, Masa, angereichert",
+  "pt": "Farinha de milho amarela masa, enriquecida"
+ },
+ "4715": {
+  "it": "Chicchi di mais, bianchi",
+  "fr": "Grains de maïs, blancs",
+  "es": "Granos de maíz, blancos",
+  "de": "Maiskörner, weiß",
+  "pt": "Grãos de milho, brancos"
+ },
+ "4716": {
+  "it": "Chicchi di mais, gialli",
+  "fr": "Grains de maïs, jaunes",
+  "es": "Granos de maíz, amarillos",
+  "de": "Maiskörner, gelb",
+  "pt": "Grãos de milho, amarelos"
+ },
+ "4717": {
+  "it": "Chicchi di mais tostati (corn nuts)",
+  "fr": "Grains de maïs grillés (corn nuts)",
+  "es": "Granos de maíz tostados (corn nuts)",
+  "de": "Geröstete Maiskörner (Corn Nuts)",
+  "pt": "Grãos de milho torrados (corn nuts)"
+ },
+ "4718": {
+  "it": "Olio di mais",
+  "fr": "Huile de maïs",
+  "es": "Aceite de maíz",
+  "de": "Maisöl",
+  "pt": "Óleo de milho"
+ },
+ "4719": {
+  "it": "Pane di mais tipo corn pone, cotto al forno",
+  "fr": "Pain de maïs type corn pone, cuit au four",
+  "es": "Pan de maíz tipo corn pone, horneado",
+  "de": "Maisbrot nach Corn-Pone-Art, gebacken",
+  "pt": "Pão de milho tipo corn pone, assado"
+ },
+ "4720": {
+  "it": "Pane di mais tipo corn pone, fritto",
+  "fr": "Pain de maïs type corn pone, frit",
+  "es": "Pan de maíz tipo corn pone, frito",
+  "de": "Maisbrot nach Corn-Pone-Art, frittiert",
+  "pt": "Pão de milho tipo corn pone, frito"
+ },
+ "4721": {
+  "it": "Budino di mais, preparato in casa",
+  "fr": "Pudding de maïs, préparé à la maison",
+  "es": "Pudín de maíz, preparado en casa",
+  "de": "Maispudding, hausgemacht",
+  "pt": "Pudim de milho, preparado em casa"
+ },
+ "4722": {
+  "it": "Sciroppo di mais",
+  "fr": "Sirop de maïs",
+  "es": "Jarabe de maíz",
+  "de": "Maissirup",
+  "pt": "Xarope de milho"
+ },
+ "4723": {
+  "it": "Mais con peperoni rossi e verdi, in scatola, solidi e liquidi",
+  "fr": "Maïs avec poivrons rouges et verts, en conserve, solides et liquides",
+  "es": "Maíz con pimientos rojos y verdes, en conserva, sólidos y líquidos",
+  "de": "Mais mit roten und grünen Paprika, aus der Dose, feste und flüssige Bestandteile",
+  "pt": "Milho com pimentões vermelhos e verdes, enlatado, sólidos e líquidos"
+ },
+ "4724": {
+  "it": "Mais in scatola, cotto con burro o margarina",
+  "fr": "Maïs en conserve, cuit avec du beurre ou de la margarine",
+  "es": "Maíz enlatado, cocido con mantequilla o margarina",
+  "de": "Mais aus der Dose, mit Butter oder Margarine gegart",
+  "pt": "Milho enlatado, cozido com manteiga ou margarina"
+ },
+ "4725": {
+  "it": "Mais in scatola, cotto con olio",
+  "fr": "Maïs en conserve, cuit avec de l'huile",
+  "es": "Maíz enlatado, cocido con aceite",
+  "de": "Mais aus der Dose, mit Öl gegart",
+  "pt": "Milho enlatado, cozido com óleo"
+ },
+ "4726": {
+  "it": "Mais in scatola, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs en conserve, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz enlatado, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Mais aus der Dose, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho enlatado, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4727": {
+  "it": "Mais in scatola, cotto senza grassi aggiunti",
+  "fr": "Maïs en conserve, cuit sans ajout de matières grasses",
+  "es": "Maíz enlatado, cocido sin grasa añadida",
+  "de": "Mais aus der Dose, ohne zusätzliches Fett gegart",
+  "pt": "Milho enlatado, cozido sem gordura adicionada"
+ },
+ "4728": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto con burro o margarina",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit avec du beurre ou de la margarine",
+  "es": "Maíz enlatado reducido en sodio, cocido con mantequilla o margarina",
+  "de": "Natriumreduzierter Mais aus der Dose, mit Butter oder Margarine gegart",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido com manteiga ou margarina"
+ },
+ "4729": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto con olio",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit avec de l'huile",
+  "es": "Maíz enlatado reducido en sodio, cocido con aceite",
+  "de": "Natriumreduzierter Mais aus der Dose, mit Öl gegart",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido com óleo"
+ },
+ "4730": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz enlatado reducido en sodio, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Natriumreduzierter Mais aus der Dose, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4731": {
+  "it": "Mais in scatola a ridotto contenuto di sodio, cotto senza grassi aggiunti",
+  "fr": "Maïs en conserve à teneur réduite en sodium, cuit sans ajout de matières grasses",
+  "es": "Maíz enlatado reducido en sodio, cocido sin grasa añadida",
+  "de": "Natriumreduzierter Mais aus der Dose, ohne zusätzliches Fett gegart",
+  "pt": "Milho enlatado com teor reduzido de sódio, cozido sem gordura adicionada"
+ },
+ "4732": {
+  "it": "Mais cotto, da ristorante",
+  "fr": "Maïs cuit, provenant d'un restaurant",
+  "es": "Maíz cocido, de restaurante",
+  "de": "Mais, gegart, aus dem Restaurant",
+  "pt": "Milho cozido, de restaurante"
+ },
+ "4733": {
+  "it": "Mais cremoso",
+  "fr": "Maïs en crème",
+  "es": "Maíz cremoso",
+  "de": "Cremiger Mais",
+  "pt": "Milho cremoso"
+ },
+ "4734": {
+  "it": "Mais essiccato (Navajo)",
+  "fr": "Maïs séché (Navajo)",
+  "es": "Maíz seco (navajo)",
+  "de": "Getrockneter Mais (Navajo)",
+  "pt": "Milho seco (Navajo)"
+ },
+ "4735": {
+  "it": "Mais giallo essiccato (popoli indigeni delle Northern Plains)",
+  "fr": "Maïs jaune séché (peuples autochtones des Northern Plains)",
+  "es": "Maíz amarillo seco (pueblos indígenas de las Northern Plains)",
+  "de": "Getrockneter gelber Mais (indigene Völker der Northern Plains)",
+  "pt": "Milho amarelo seco (povos indígenas das Northern Plains)"
+ },
+ "4736": {
+  "it": "Mais, farina precotta e pregelatinizzata",
+  "fr": "Maïs, farine précuite et prégélatinisée",
+  "es": "Maíz, harina precocida y pregelatinizada",
+  "de": "Mais, vorgekochtes und vorgelatiniertes Mehl",
+  "pt": "Milho, farinha pré-cozida e pré-gelatinizada"
+ },
+ "4737": {
+  "it": "Mais fresco, cotto con burro o margarina",
+  "fr": "Maïs frais, cuit avec du beurre ou de la margarine",
+  "es": "Maíz fresco, cocido con mantequilla o margarina",
+  "de": "Frischer Mais, mit Butter oder Margarine gegart",
+  "pt": "Milho fresco, cozido com manteiga ou margarina"
+ },
+ "4738": {
+  "it": "Mais fresco, cotto con olio",
+  "fr": "Maïs frais, cuit avec de l'huile",
+  "es": "Maíz fresco, cocido con aceite",
+  "de": "Frischer Mais, mit Öl gegart",
+  "pt": "Milho fresco, cozido com óleo"
+ },
+ "4739": {
+  "it": "Mais fresco, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs frais, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz fresco, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Frischer Mais, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho fresco, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4740": {
+  "it": "Mais fresco, cotto senza grassi aggiunti",
+  "fr": "Maïs frais, cuit sans ajout de matières grasses",
+  "es": "Maíz fresco, cocido sin grasa añadida",
+  "de": "Frischer Mais, ohne zusätzliches Fett gegart",
+  "pt": "Milho fresco, cozido sem gordura adicionada"
+ },
+ "4741": {
+  "it": "Mais surgelato, cotto con burro o margarina",
+  "fr": "Maïs surgelé, cuit avec du beurre ou de la margarine",
+  "es": "Maíz congelado, cocido con mantequilla o margarina",
+  "de": "Tiefgekühlter Mais, mit Butter oder Margarine gegart",
+  "pt": "Milho congelado, cozido com manteiga ou margarina"
+ },
+ "4742": {
+  "it": "Mais surgelato, cotto con olio",
+  "fr": "Maïs surgelé, cuit avec de l'huile",
+  "es": "Maíz congelado, cocido con aceite",
+  "de": "Tiefgekühlter Mais, mit Öl gegart",
+  "pt": "Milho congelado, cozido com óleo"
+ },
+ "4743": {
+  "it": "Mais surgelato, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Maïs surgelé, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Maíz congelado, cocido con grasa añadida, tipo de grasa no especificado",
+  "de": "Tiefgekühlter Mais, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Milho congelado, cozido com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4744": {
+  "it": "Mais surgelato, cotto senza grassi aggiunti",
+  "fr": "Maïs surgelé, cuit sans ajout de matières grasses",
+  "es": "Maíz congelado, cocido sin grasa añadida",
+  "de": "Tiefgekühlter Mais, ohne zusätzliches Fett gegart",
+  "pt": "Milho congelado, cozido sem gordura adicionada"
+ },
+ "4745": {
+  "it": "Mais, forma non specificata, cotto",
+  "fr": "Maïs, forme non précisée, cuit",
+  "es": "Maíz, forma no especificada, cocido",
+  "de": "Mais, Form nicht angegeben, gegart",
+  "pt": "Milho, forma não especificada, cozido"
+ },
+ "4746": {
+  "it": "Mais, crudo",
+  "fr": "Maïs, cru",
+  "es": "Maíz, crudo",
+  "de": "Mais, roh",
+  "pt": "Milho, cru"
+ },
+ "4747": {
+  "it": "Mais gratinato o budino di mais",
+  "fr": "Maïs gratiné ou pudding de maïs",
+  "es": "Maíz gratinado o pudín de maíz",
+  "de": "Überbackener Mais oder Maispudding",
+  "pt": "Milho gratinado ou pudim de milho"
+ },
+ "4748": {
+  "it": "Mais dolce bianco in scatola, cremoso, senza sale aggiunto",
+  "fr": "Maïs doux blanc en conserve, en crème, sans sel ajouté",
+  "es": "Maíz dulce blanco enlatado, estilo cremoso, sin sal añadida",
+  "de": "Weißer Zuckermais aus der Dose, cremig, ohne Salzzusatz",
+  "pt": "Milho-doce branco enlatado, cremoso, sem adição de sal"
+ },
+ "4749": {
+  "it": "Mais dolce bianco in scatola, cremoso, confezione normale",
+  "fr": "Maïs doux blanc en conserve, en crème, conditionnement classique",
+  "es": "Maíz dulce blanco enlatado, estilo cremoso, envase normal",
+  "de": "Weißer Zuckermais aus der Dose, cremig, normale Packung",
+  "pt": "Milho-doce branco enlatado, cremoso, embalagem comum"
+ },
+ "4750": {
+  "it": "Mais dolce bianco in scatola, confezionato sottovuoto, senza sale aggiunto",
+  "fr": "Maïs doux blanc en conserve, emballé sous vide, sans sel ajouté",
+  "es": "Maíz dulce blanco enlatado, envasado al vacío, sin sal añadida",
+  "de": "Weißer Zuckermais aus der Dose, vakuumverpackt, ohne Salzzusatz",
+  "pt": "Milho-doce branco enlatado, embalado a vácuo, sem adição de sal"
+ },
+ "4751": {
+  "it": "Mais dolce bianco in scatola, confezionato sottovuoto, confezione normale",
+  "fr": "Maïs doux blanc en conserve, emballé sous vide, conditionnement classique",
+  "es": "Maíz dulce blanco enlatado, envasado al vacío, envase normal",
+  "de": "Weißer Zuckermais aus der Dose, vakuumverpackt, normale Packung",
+  "pt": "Milho-doce branco enlatado, embalado a vácuo, embalagem comum"
+ },
+ "4752": {
+  "it": "Mais dolce bianco in scatola, chicchi interi, solidi sgocciolati",
+  "fr": "Maïs doux blanc en conserve, grains entiers, solides égouttés",
+  "es": "Maíz dulce blanco enlatado, granos enteros, sólidos escurridos",
+  "de": "Weißer Zuckermais aus der Dose, ganze Körner, abgetropfte Bestandteile",
+  "pt": "Milho-doce branco enlatado, grãos inteiros, sólidos escorridos"
+ },
+ "4753": {
+  "it": "Mais dolce bianco in scatola, chicchi interi, senza sale aggiunto, solidi e liquidi",
+  "fr": "Maïs doux blanc en conserve, grains entiers, sans sel ajouté, solides et liquides",
+  "es": "Maíz dulce blanco enlatado, granos enteros, sin sal añadida, sólidos y líquidos",
+  "de": "Weißer Zuckermais aus der Dose, ganze Körner, ohne Salzzusatz, feste und flüssige Bestandteile",
+  "pt": "Milho-doce branco enlatado, grãos inteiros, sem adição de sal, sólidos e líquidos"
+ },
+ "4754": {
+  "it": "Mais dolce bianco in scatola, chicchi interi, confezione normale, solidi e liquidi",
+  "fr": "Maïs doux blanc en conserve, grains entiers, conditionnement classique, solides et liquides",
+  "es": "Maíz dulce blanco enlatado, granos enteros, envase normal, sólidos y líquidos",
+  "de": "Weißer Zuckermais aus der Dose, ganze Körner, normale Packung, feste und flüssige Bestandteile",
+  "pt": "Milho-doce branco enlatado, grãos inteiros, embalagem comum, sólidos e líquidos"
+ },
+ "4755": {
+  "it": "Mais dolce bianco, cotto, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux blanc, cuit, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce blanco, cocido, hervido, escurrido, con sal",
+  "de": "Weißer Zuckermais, gekocht, abgekocht, abgetropft, mit Salz",
+  "pt": "Milho-doce branco, cozido, fervido, escorrido, com sal"
+ },
+ "4756": {
+  "it": "Mais dolce bianco, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux blanc, cuit, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce blanco, cocido, hervido, escurrido, sin sal",
+  "de": "Weißer Zuckermais, gekocht, abgekocht, abgetropft, ohne Salz",
+  "pt": "Milho-doce branco, cozido, fervido, escorrido, sem sal"
+ },
+ "4757": {
+  "it": "Mais dolce bianco surgelato, chicchi staccati dalla pannocchia, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux blanc surgelé, grains détachés de l'épi, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce blanco congelado, granos separados de la mazorca, hervido, escurrido, con sal",
+  "de": "Tiefgekühlter weißer Zuckermais, Körner vom Kolben geschnitten, gekocht, abgetropft, mit Salz",
+  "pt": "Milho-doce branco congelado, grãos cortados da espiga, fervidos, escorridos, com sal"
+ },
+ "4758": {
+  "it": "Mais dolce bianco surgelato, chicchi staccati dalla pannocchia, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux blanc surgelé, grains détachés de l'épi, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce blanco congelado, granos separados de la mazorca, hervido, escurrido, sin sal",
+  "de": "Tiefgekühlter weißer Zuckermais, Körner vom Kolben geschnitten, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho-doce branco congelado, grãos cortados da espiga, fervidos, escorridos, sem sal"
+ },
+ "4759": {
+  "it": "Mais dolce bianco surgelato, chicchi staccati dalla pannocchia, non preparato",
+  "fr": "Maïs doux blanc surgelé, grains détachés de l'épi, non préparé",
+  "es": "Maíz dulce blanco congelado, granos separados de la mazorca, sin preparar",
+  "de": "Tiefgekühlter weißer Zuckermais, Körner vom Kolben geschnitten, unzubereitet",
+  "pt": "Milho-doce branco congelado, grãos cortados da espiga, não preparado"
+ },
+ "4760": {
+  "it": "Mais dolce bianco surgelato, in pannocchia, cotto, bollito, sgocciolato, con sale",
+  "fr": "Maïs doux blanc surgelé, en épi, cuit, bouilli, égoutté, avec sel",
+  "es": "Maíz dulce blanco congelado, en mazorca, cocido, hervido, escurrido, con sal",
+  "de": "Tiefgekühlter weißer Zuckermais am Kolben, gekocht, abgetropft, mit Salz",
+  "pt": "Milho-doce branco congelado, na espiga, cozido, fervido, escorrido, com sal"
+ },
+ "4761": {
+  "it": "Mais dolce bianco surgelato, in pannocchia, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Maïs doux blanc surgelé, en épi, cuit, bouilli, égoutté, sans sel",
+  "es": "Maíz dulce blanco congelado, en mazorca, cocido, hervido, escurrido, sin sal",
+  "de": "Tiefgekühlter weißer Zuckermais am Kolben, gekocht, abgetropft, ohne Salz",
+  "pt": "Milho-doce branco congelado, na espiga, cozido, fervido, escorrido, sem sal"
+ },
+ "4762": {
+  "it": "Mais dolce bianco surgelato, in pannocchia, non preparato",
+  "fr": "Maïs doux blanc surgelé, en épi, non préparé",
+  "es": "Maíz dulce blanco congelado, en mazorca, sin preparar",
+  "de": "Tiefgekühlter weißer Zuckermais am Kolben, unzubereitet",
+  "pt": "Milho-doce branco congelado, na espiga, não preparado"
+ },
+ "4763": {
+  "it": "Mais dolce bianco, crudo",
+  "fr": "Maïs doux blanc, cru",
+  "es": "Maíz dulce blanco, crudo",
+  "de": "Weißer Zuckermais, roh",
+  "pt": "Milho-doce branco, cru"
+ },
+ "4764": {
+  "it": "Mais dolce, chicchi gialli e bianchi, fresco, crudo",
+  "fr": "Maïs doux, grains jaunes et blancs, frais, cru",
+  "es": "Maíz dulce, granos amarillos y blancos, fresco, crudo",
+  "de": "Zuckermais, gelbe und weiße Körner, frisch, roh",
+  "pt": "Milho-doce, grãos amarelos e brancos, fresco, cru"
+ },
+ "4765": {
+  "it": "Mais dolce giallo in scatola, in salamoia, confezione normale, solidi e liquidi",
+  "fr": "Maïs doux jaune en conserve, en saumure, conditionnement classique, solides et liquides",
+  "es": "Maíz dulce amarillo enlatado, en salmuera, envase normal, sólidos y líquidos",
+  "de": "Gelber Zuckermais aus der Dose, in Salzlake, normale Packung, feste und flüssige Bestandteile",
+  "pt": "Milho-doce amarelo enlatado, em salmoura, embalagem comum, sólidos e líquidos"
+ },
+ "4766": {
+  "it": "Mais dolce giallo in scatola, cremoso, senza sale aggiunto",
+  "fr": "Maïs doux jaune en conserve, en crème, sans sel ajouté",
+  "es": "Maíz dulce amarillo enlatado, estilo cremoso, sin sal añadida",
+  "de": "Gelber Zuckermais aus der Dose, cremig, ohne Salzzusatz",
+  "pt": "Milho-doce amarelo enlatado, cremoso, sem adição de sal"
+ },
+ "4767": {
+  "it": "Mais dolce giallo in scatola, cremoso, confezione normale",
+  "fr": "Maïs doux jaune en conserve, en crème, conditionnement classique",
+  "es": "Maíz dulce amarillo enlatado, estilo cremoso, envase normal",
+  "de": "Gelber Zuckermais aus der Dose, cremig, normale Packung",
+  "pt": "Milho-doce amarelo enlatado, cremoso, embalagem comum"
+ }
+}
