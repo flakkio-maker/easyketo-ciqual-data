@@ -1,0 +1,2088 @@
+{
+  "9834": {
+    "it": "Maiale, fresco, lombata, costine country-style, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, côtes country-style, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, costillas estilo campestre, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Rippchen nach Landhausart, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, costelinhas estilo country, apenas parte magra, crua"
+  },
+  "9835": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole o arrosti), con osso, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes ou rôtis), avec os, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas o asados), con hueso, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts oder Braten), mit Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas ou assados), com osso, parte magra e gordura, crua"
+  },
+  "9836": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole o arrosti), con osso, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes ou rôtis), avec os, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas o asados), con hueso, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts oder Braten), mit Knochen, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas ou assados), com osso, apenas parte magra, crua"
+  },
+  "9837": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole o arrosti), disossato, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes ou rôtis), désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas o asados), deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts oder Braten), ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas ou assados), sem osso, parte magra e gordura, crua"
+  },
+  "9838": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole o arrosti), disossato, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes ou rôtis), désossé, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas o asados), deshuesado, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts oder Braten), ohne Knochen, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas ou assados), sem osso, apenas parte magra, crua"
+  },
+  "9839": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), con osso, parte magra e grassa, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), avec os, partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), con hueso, parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), mit Knochen, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), com osso, parte magra e gordura, cozida, ensopada"
+  },
+  "9840": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), con osso, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), avec os, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), con hueso, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), mit Knochen, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), com osso, parte magra e gordura, cozida, grelhada"
+  },
+  "9841": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), con osso, solo parte magra, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), avec os, partie maigre seulement, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), con hueso, solo parte magra, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), mit Knochen, nur magerer Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), com osso, apenas parte magra, cozida, ensopada"
+  },
+  "9842": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), con osso, solo parte magra, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), avec os, partie maigre seulement, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), con hueso, solo parte magra, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), mit Knochen, nur magerer Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), com osso, apenas parte magra, cozida, grelhada"
+  },
+  "9843": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), disossato, parte magra e grassa, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), désossé, partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), deshuesado, parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), ohne Knochen, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), sem osso, parte magra e gordura, cozida, ensopada"
+  },
+  "9844": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), disossato, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), désossé, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), deshuesado, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), ohne Knochen, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), sem osso, parte magra e gordura, cozida, grelhada"
+  },
+  "9845": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), disossato, solo parte magra, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), désossé, partie maigre seulement, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), deshuesado, solo parte magra, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), ohne Knochen, nur magerer Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), sem osso, apenas parte magra, cozida, ensopada"
+  },
+  "9846": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (braciole), disossato, solo parte magra, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, croupe (côtelettes), désossé, partie maigre seulement, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo bajo (chuletas), deshuesado, solo parte magra, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Koteletts), ohne Knochen, nur magerer Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (costeletas), sem osso, apenas parte magra, cozida, grelhada"
+  },
+  "9847": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (arrosti), con osso, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, croupe (rôtis), avec os, partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, lomo bajo (asados), con hueso, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Braten), mit Knochen, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (assados), com osso, parte magra e gordura, cozida, assada"
+  },
+  "9848": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (arrosti), con osso, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, croupe (rôtis), avec os, partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, lomo bajo (asados), con hueso, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Braten), mit Knochen, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (assados), com osso, apenas parte magra, cozida, assada"
+  },
+  "9849": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (arrosti), disossato, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, croupe (rôtis), désossé, partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, lomo bajo (asados), deshuesado, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Braten), ohne Knochen, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (assados), sem osso, parte magra e gordura, cozida, assada"
+  },
+  "9850": {
+    "it": "Maiale, fresco, lombata, lombata posteriore (arrosti), disossato, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, croupe (rôtis), désossé, partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, lomo bajo (asados), deshuesado, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Hüftstück (Braten), ohne Knochen, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, lombo posterior (assados), sem osso, apenas parte magra, cozida, assada"
+  },
+  "9851": {
+    "it": "Maiale, fresco, lombata, filetto, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, solomillo, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Filet, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, filé mignon, parte magra e gordura, cozida, grelhada"
+  },
+  "9852": {
+    "it": "Maiale, fresco, lombata, filetto, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, solomillo, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Filet, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, filé mignon, parte magra e gordura, cozida, assada"
+  },
+  "9853": {
+    "it": "Maiale, fresco, lombata, filetto, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, lomo, solomillo, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Filet, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, filé mignon, parte magra e gordura, crua"
+  },
+  "9854": {
+    "it": "Maiale, fresco, lombata, filetto, parte magra e grassa, con soluzione aggiunta, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre et grasse, avec solution ajoutée, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, solomillo, parte magra y grasa, con solución añadida, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Filet, magerer und fetter Anteil, mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, filé mignon, parte magra e gordura, com solução adicionada, cozida, assada"
+  },
+  "9855": {
+    "it": "Maiale, fresco, lombata, filetto, parte magra e grassa, con soluzione aggiunta, crudo",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre et grasse, avec solution ajoutée, cru",
+    "es": "Cerdo, fresco, lomo, solomillo, parte magra y grasa, con solución añadida, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Filet, magerer und fetter Anteil, mit zugesetzter Lösung, roh",
+    "pt": "Carne suína, fresca, lombo, filé mignon, parte magra e gordura, com solução adicionada, crua"
+  },
+  "9856": {
+    "it": "Maiale, fresco, lombata, filetto, solo parte magra, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre seulement, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, solomillo, solo parte magra, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Filet, nur magerer Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, filé mignon, apenas parte magra, cozida, grelhada"
+  },
+  "9857": {
+    "it": "Maiale, fresco, lombata, filetto, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, solomillo, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Filet, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, filé mignon, apenas parte magra, cozida, assada"
+  },
+  "9858": {
+    "it": "Maiale, fresco, lombata, filetto, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, solomillo, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Filet, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, filé mignon, apenas parte magra, crua"
+  },
+  "9859": {
+    "it": "Maiale, fresco, lombata, filetto, solo parte magra, con soluzione aggiunta, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, filet mignon, partie maigre seulement, avec solution ajoutée, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, solomillo, solo parte magra, con solución añadida, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Filet, nur magerer Anteil, mit zugesetzter Lösung, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, filé mignon, apenas parte magra, com solução adicionada, cozida, assada"
+  },
+  "9860": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, cozida, ensopada"
+  },
+  "9861": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, cozida, grelhada"
+  },
+  "9862": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, cotto, in padella",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, cuit, poêlé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, cocido, frito en sartén",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, gekocht, in der Pfanne gebraten",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, cozida, frita na frigideira"
+  },
+  "9863": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, crua"
+  },
+  "9864": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, con soluzione aggiunta, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, avec solution ajoutée, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, con solución añadida, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, mit zugesetzter Lösung, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, com solução adicionada, cozida, grelhada"
+  },
+  "9865": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, con soluzione aggiunta, cotto, cotto in padella",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, avec solution ajoutée, cuit, grillé à la poêle",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, con solución añadida, cocido, a la plancha",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, mit zugesetzter Lösung, gekocht, in der Pfanne gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, com solução adicionada, cozida, grelhada na frigideira"
+  },
+  "9866": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, parte magra e grassa, con soluzione aggiunta, crudo",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre et grasse, avec solution ajoutée, cru",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, parte magra y grasa, con solución añadida, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, magerer und fetter Anteil, mit zugesetzter Lösung, roh",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, parte magra e gordura, com solução adicionada, crua"
+  },
+  "9867": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, cozida, ensopada"
+  },
+  "9868": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, cozida, grelhada"
+  },
+  "9869": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, cotto, in padella",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, cuit, poêlé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, cocido, frito en sartén",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, gekocht, in der Pfanne gebraten",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, cozida, frita na frigideira"
+  },
+  "9870": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, crua"
+  },
+  "9871": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, con soluzione aggiunta, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, avec solution ajoutée, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, con solución añadida, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, mit zugesetzter Lösung, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, com solução adicionada, cozida, grelhada"
+  },
+  "9872": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, con soluzione aggiunta, cotto, cotto in padella",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, avec solution ajoutée, cuit, grillé à la poêle",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, con solución añadida, cocido, a la plancha",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, mit zugesetzter Lösung, gekocht, in der Pfanne gegrillt",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, com solução adicionada, cozida, grelhada na frigideira"
+  },
+  "9873": {
+    "it": "Maiale, fresco, lombata, lonza centrale (braciole), disossato, solo parte magra, con soluzione aggiunta, crudo",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (côtelettes), désossé, partie maigre seulement, avec solution ajoutée, cru",
+    "es": "Cerdo, fresco, lomo, lomo alto (chuletas), deshuesado, solo parte magra, con solución añadida, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Koteletts), ohne Knochen, nur magerer Anteil, mit zugesetzter Lösung, roh",
+    "pt": "Carne suína, fresca, lombo, lombo alto (costeletas), sem osso, apenas parte magra, com solução adicionada, crua"
+  },
+  "9874": {
+    "it": "Maiale, fresco, lombata, lonza centrale (arrosti), disossato, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (rôtis), désossé, partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, lomo alto (asados), deshuesado, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Braten), ohne Knochen, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, lombo alto (assados), sem osso, parte magra e gordura, cozida, assada"
+  },
+  "9875": {
+    "it": "Maiale, fresco, lombata, lonza centrale (arrosti), disossato, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (rôtis), désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, lomo, lomo alto (asados), deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Braten), ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo alto (assados), sem osso, parte magra e gordura, crua"
+  },
+  "9876": {
+    "it": "Maiale, fresco, lombata, lonza centrale (arrosti), disossato, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (rôtis), désossé, partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, lomo alto (asados), deshuesado, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Braten), ohne Knochen, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, lombo alto (assados), sem osso, apenas parte magra, cozida, assada"
+  },
+  "9877": {
+    "it": "Maiale, fresco, lombata, lonza centrale (arrosti), disossato, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, faux-filet (rôtis), désossé, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, lomo alto (asados), deshuesado, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, Kotelettstück (Braten), ohne Knochen, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, lombo alto (assados), sem osso, apenas parte magra, crua"
+  },
+  "9878": {
+    "it": "Maiale, fresco, lombata, intera, parte magra e grassa, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, entera, parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, ganz, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, inteira, parte magra e gordura, cozida, ensopada"
+  },
+  "9879": {
+    "it": "Maiale, fresco, lombata, intera, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, entera, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, ganz, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, inteira, parte magra e gordura, cozida, grelhada"
+  },
+  "9880": {
+    "it": "Maiale, fresco, lombata, intera, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, entera, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, ganz, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, inteira, parte magra e gordura, cozida, assada"
+  },
+  "9881": {
+    "it": "Maiale, fresco, lombata, intera, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, lomo, entera, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Karree, ganz, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, inteira, parte magra e gordura, crua"
+  },
+  "9882": {
+    "it": "Maiale, fresco, lombata, intera, solo parte magra, cotto, braso",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre seulement, cuit, braisé",
+    "es": "Cerdo, fresco, lomo, entera, solo parte magra, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Karree, ganz, nur magerer Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, lombo, inteira, apenas parte magra, cozida, ensopada"
+  },
+  "9883": {
+    "it": "Maiale, fresco, lombata, intera, solo parte magra, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre seulement, cuit, grillé",
+    "es": "Cerdo, fresco, lomo, entera, solo parte magra, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Karree, ganz, nur magerer Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, lombo, inteira, apenas parte magra, cozida, grelhada"
+  },
+  "9884": {
+    "it": "Maiale, fresco, lombata, intera, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, lomo, entera, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Karree, ganz, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, lombo, inteira, apenas parte magra, cozida, assada"
+  },
+  "9885": {
+    "it": "Maiale, fresco, lombata, intera, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), longe, entière, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, lomo, entera, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Karree, ganz, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, lombo, inteira, apenas parte magra, crua"
+  },
+  "9886": {
+    "it": "Maiale, fresco, grasso separabile, cotto",
+    "fr": "Porc, frais (fraîche), gras séparable, cuit",
+    "es": "Cerdo, fresco, grasa separable, cocido",
+    "de": "Schweinefleisch, frisch, abtrennbares Fett, gekocht",
+    "pt": "Carne suína, fresca, gordura separável, cozida"
+  },
+  "9887": {
+    "it": "Maiale, fresco, grasso separabile, crudo",
+    "fr": "Porc, frais (fraîche), gras séparable, cru",
+    "es": "Cerdo, fresco, grasa separable, crudo",
+    "de": "Schweinefleisch, frisch, abtrennbares Fett, roh",
+    "pt": "Carne suína, fresca, gordura separável, crua"
+  },
+  "9888": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, parte magra e grassa separabili, cotto, brasato",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, parties maigre et grasse séparables, cuit, braisé",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, magro y grasa separables, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, trennbares Mager- und Fettfleisch, gegart, geschmort",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, partes magra e gordurosa separáveis, cozida, braseada"
+  },
+  "9889": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, parte magra e grassa separabili, crudo",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, parties maigre et grasse séparables, cru",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, magro y grasa separables, crudo",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, trennbares Mager- und Fettfleisch, roh",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, partes magra e gordurosa separáveis, crua"
+  },
+  "9890": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, parte magra e grassa separabili, con soluzione aggiunta, cotto, brasato",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, parties maigre et grasse séparables, avec solution ajoutée, cuit, braisé",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, magro y grasa separables, con solución añadida, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, trennbares Mager- und Fettfleisch, mit zugesetzter Lösung, gegart, geschmort",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, partes magra e gordurosa separáveis, com solução adicionada, cozida, braseada"
+  },
+  "9891": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, parte magra e grassa separabili, con soluzione aggiunta, crudo",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, parties maigre et grasse séparables, avec solution ajoutée, cru",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, magro y grasa separables, con solución añadida, crudo",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, trennbares Mager- und Fettfleisch, mit zugesetzter Lösung, roh",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, partes magra e gordurosa separáveis, com solução adicionada, crua"
+  },
+  "9892": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, solo parte magra, cotto, brasato",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, partie maigre seulement, cuit, braisé",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, solo parte magra, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, nur Magerfleisch, gegart, geschmort",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, apenas parte magra, cozida, braseada"
+  },
+  "9893": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, solo parte magra, crudo",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, partie maigre seulement, cru",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, nur Magerfleisch, roh",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, apenas parte magra, crua"
+  },
+  "9894": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, solo parte magra, con soluzione aggiunta, cotto, brasato",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, partie maigre seulement, avec solution ajoutée, cuit, braisé",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, solo parte magra, con solución añadida, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, nur Magerfleisch, mit zugesetzter Lösung, gegart, geschmort",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, apenas parte magra, com solução adicionada, cozida, braseada"
+  },
+  "9895": {
+    "it": "Maiale fresco, spalla (Boston butt), bistecche di coppa, solo parte magra, con soluzione aggiunta, crudo",
+    "fr": "Porc frais, épaule (Boston butt), steaks de palette, partie maigre seulement, avec solution ajoutée, cru",
+    "es": "Cerdo fresco, paleta (Boston butt), filetes de paleta, solo parte magra, con solución añadida, crudo",
+    "de": "Schweinefleisch, frisch, Schulter (Boston Butt), Schultersteaks, nur Magerfleisch, mit zugesetzter Lösung, roh",
+    "pt": "Carne suína fresca, paleta (Boston butt), bifes da paleta, apenas parte magra, com solução adicionada, crua"
+  },
+  "9896": {
+    "it": "Maiale, fresco, spalla, picnic di spalla, parte magra e grassa, cotto, braso",
+    "fr": "Porc, frais (fraîche), épaule, picnic (épaule), partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, fresco, paleta, picnic de paleta, parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Schulter, Schulter-Picnic, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, paleta, picnic de paleta, parte magra e gordura, cozida, ensopada"
+  },
+  "9897": {
+    "it": "Maiale, fresco, spalla, picnic di spalla, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), épaule, picnic (épaule), partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, paleta, picnic de paleta, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Schulter, Schulter-Picnic, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, paleta, picnic de paleta, parte magra e gordura, cozida, assada"
+  },
+  "9898": {
+    "it": "Maiale, fresco, spalla, picnic di spalla, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), épaule, picnic (épaule), partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, paleta, picnic de paleta, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Schulter, Schulter-Picnic, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, paleta, picnic de paleta, parte magra e gordura, crua"
+  },
+  "9899": {
+    "it": "Maiale, fresco, spalla, picnic di spalla, solo parte magra, cotto, braso",
+    "fr": "Porc, frais (fraîche), épaule, picnic (épaule), partie maigre seulement, cuit, braisé",
+    "es": "Cerdo, fresco, paleta, picnic de paleta, solo parte magra, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Schulter, Schulter-Picnic, nur magerer Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, paleta, picnic de paleta, apenas parte magra, cozida, ensopada"
+  },
+  "9900": {
+    "it": "Maiale, fresco, spalla, picnic di spalla, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), épaule, picnic (épaule), partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, paleta, picnic de paleta, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Schulter, Schulter-Picnic, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, paleta, picnic de paleta, apenas parte magra, cozida, assada"
+  },
+  "9901": {
+    "it": "Maiale, fresco, spalla, picnic di spalla, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), épaule, picnic (épaule), partie maigre seulement, cru",
+    "es": "Cerdo, fresco, paleta, picnic de paleta, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Schulter, Schulter-Picnic, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, paleta, picnic de paleta, apenas parte magra, crua"
+  },
+  "9902": {
+    "it": "Maiale, fresco, spalla, lama, Boston (arrosti), parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), épaule, palette (lame), Boston (rôtis), partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, paleta, cuchilla, Boston (asados), parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Schulter, Schulterblatt, Boston (Braten), magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, paleta, pá (lâmina), Boston (assados), parte magra e gordura, cozida, assada"
+  },
+  "9903": {
+    "it": "Maiale, fresco, spalla, lama, Boston (arrosti), solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), épaule, palette (lame), Boston (rôtis), partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, paleta, cuchilla, Boston (asados), solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Schulter, Schulterblatt, Boston (Braten), nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, paleta, pá (lâmina), Boston (assados), apenas parte magra, cozida, assada"
+  },
+  "9904": {
+    "it": "Maiale, fresco, spalla, lama, Boston (bistecche), parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), épaule, palette (lame), Boston (steaks), partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, fresco, paleta, cuchilla, Boston (filetes), parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Schulter, Schulterblatt, Boston (Steaks), magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, paleta, pá (lâmina), Boston (bifes), parte magra e gordura, cozida, grelhada"
+  },
+  "9905": {
+    "it": "Maiale, fresco, spalla, lama, Boston (bistecche), solo parte magra, cotto, alla griglia",
+    "fr": "Porc, frais (fraîche), épaule, palette (lame), Boston (steaks), partie maigre seulement, cuit, grillé",
+    "es": "Cerdo, fresco, paleta, cuchilla, Boston (filetes), solo parte magra, cocido, a la parrilla",
+    "de": "Schweinefleisch, frisch, Schulter, Schulterblatt, Boston (Steaks), nur magerer Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, fresca, paleta, pá (lâmina), Boston (bifes), apenas parte magra, cozida, grelhada"
+  },
+  "9906": {
+    "it": "Maiale, fresco, spalla, intera, parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), épaule, entière, partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, paleta, entera, parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Schulter, ganz, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, paleta, inteira, parte magra e gordura, cozida, assada"
+  },
+  "9907": {
+    "it": "Maiale, fresco, spalla, intera, parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), épaule, entière, partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, paleta, entera, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Schulter, ganz, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, paleta, inteira, parte magra e gordura, crua"
+  },
+  "9908": {
+    "it": "Maiale, fresco, spalla, intera, solo parte magra, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), épaule, entière, partie maigre seulement, cuit, rôti",
+    "es": "Cerdo, fresco, paleta, entera, solo parte magra, cocido, asado",
+    "de": "Schweinefleisch, frisch, Schulter, ganz, nur magerer Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, paleta, inteira, apenas parte magra, cozida, assada"
+  },
+  "9909": {
+    "it": "Maiale, fresco, spalla, intera, solo parte magra, crudo",
+    "fr": "Porc, frais (fraîche), épaule, entière, partie maigre seulement, cru",
+    "es": "Cerdo, fresco, paleta, entera, solo parte magra, crudo",
+    "de": "Schweinefleisch, frisch, Schulter, ganz, nur magerer Anteil, roh",
+    "pt": "Carne suína, fresca, paleta, inteira, apenas parte magra, crua"
+  },
+  "9910": {
+    "it": "Maiale, fresco, costine (spare ribs), parte magra e grassa, cotto, braso",
+    "fr": "Porc, frais (fraîche), travers (spareribs), partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, fresco, costillas (spareribs), parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Spareribs, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, fresca, costela (spareribs), parte magra e gordura, cozida, ensopada"
+  },
+  "9911": {
+    "it": "Maiale, fresco, costine (spare ribs), parte magra e grassa, cotto, arrosto",
+    "fr": "Porc, frais (fraîche), travers (spareribs), partie maigre et grasse, cuit, rôti",
+    "es": "Cerdo, fresco, costillas (spareribs), parte magra y grasa, cocido, asado",
+    "de": "Schweinefleisch, frisch, Spareribs, magerer und fetter Anteil, gekocht, gebraten (im Ofen)",
+    "pt": "Carne suína, fresca, costela (spareribs), parte magra e gordura, cozida, assada"
+  },
+  "9912": {
+    "it": "Maiale, fresco, costine (spare ribs), parte magra e grassa, crudo",
+    "fr": "Porc, frais (fraîche), travers (spareribs), partie maigre et grasse, cru",
+    "es": "Cerdo, fresco, costillas (spareribs), parte magra y grasa, crudo",
+    "de": "Schweinefleisch, frisch, Spareribs, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, fresca, costela (spareribs), parte magra e gordura, crua"
+  },
+  "9913": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, cervello, cotto, braso",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, cervelle, cuite, braisée",
+    "es": "Cerdo, fresco, vísceras y subproductos, sesos, cocidos, estofados",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Hirn, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, miolo, cozido, ensopado"
+  },
+  "9914": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, cervello, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, cervelle, crue",
+    "es": "Cerdo, fresco, vísceras y subproductos, sesos, crudos",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Hirn, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, miolo, cru"
+  },
+  "9915": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, budella (chitterlings), cotte, cotte a fuoco lento",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, chaudins (chitterlings), cuits, mijotés",
+    "es": "Cerdo, fresco, vísceras y subproductos, tripas (chitterlings), cocidas, cocidas a fuego lento",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Kaldaunen (Chitterlings), gekocht, geköchelt",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, tripas (chitterlings), cozidas, cozidas em fogo baixo"
+  },
+  "9916": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, budella (chitterlings), crude",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, chaudins (chitterlings), crus",
+    "es": "Cerdo, fresco, vísceras y subproductos, tripas (chitterlings), crudas",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Kaldaunen (Chitterlings), roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, tripas (chitterlings), cruas"
+  },
+  "9917": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, orecchie, surgelate, cotte, cotte a fuoco lento",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, oreilles, surgelées, cuites, mijotées",
+    "es": "Cerdo, fresco, vísceras y subproductos, orejas, congeladas, cocidas, cocidas a fuego lento",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Ohren, tiefgekühlt, gekocht, geköchelt",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, orelhas, congeladas, cozidas, cozidas em fogo baixo"
+  },
+  "9918": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, orecchie, surgelate, crude",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, oreilles, surgelées, crues",
+    "es": "Cerdo, fresco, vísceras y subproductos, orejas, congeladas, crudas",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Ohren, tiefgekühlt, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, orelhas, congeladas, cruas"
+  },
+  "9919": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, zampetti, cotti, cotti a fuoco lento",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, pieds, cuits, mijotés",
+    "es": "Cerdo, fresco, vísceras y subproductos, manitas, cocidas, cocidas a fuego lento",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Füße, gekocht, geköchelt",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, pés, cozidos, cozidos em fogo baixo"
+  },
+  "9920": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, zampetti, crudi",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, pieds, crus",
+    "es": "Cerdo, fresco, vísceras y subproductos, manitas, crudas",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Füße, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, pés, crus"
+  },
+  "9921": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, cuore, cotto, braso",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, cœur, cuit, braisé",
+    "es": "Cerdo, fresco, vísceras y subproductos, corazón, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Herz, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, coração, cozido, ensopado"
+  },
+  "9922": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, cuore, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, cœur, cru",
+    "es": "Cerdo, fresco, vísceras y subproductos, corazón, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Herz, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, coração, cru"
+  },
+  "9923": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, guanciale, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, joue, crue",
+    "es": "Cerdo, fresco, vísceras y subproductos, papada, cruda",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Backe, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, bochecha, crua"
+  },
+  "9924": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, reni, cotti, brasi",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, rognons, cuits, braisés",
+    "es": "Cerdo, fresco, vísceras y subproductos, riñones, cocidos, estofados",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Nieren, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, rins, cozidos, ensopados"
+  },
+  "9925": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, reni, crudi",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, rognons, crus",
+    "es": "Cerdo, fresco, vísceras y subproductos, riñones, crudos",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Nieren, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, rins, crus"
+  },
+  "9926": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, sugna, cruda",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, panne, crue",
+    "es": "Cerdo, fresco, vísceras y subproductos, grasa de riñonada, cruda",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Flomen, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, gordura de rim, crua"
+  },
+  "9927": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, fegato, cotto, braso",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, foie, cuit, braisé",
+    "es": "Cerdo, fresco, vísceras y subproductos, hígado, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Leber, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, fígado, cozido, ensopado"
+  },
+  "9928": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, fegato, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, foie, cru",
+    "es": "Cerdo, fresco, vísceras y subproductos, hígado, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Leber, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, fígado, cru"
+  },
+  "9929": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, polmoni, cotti, brasi",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, poumons, cuits, braisés",
+    "es": "Cerdo, fresco, vísceras y subproductos, pulmones, cocidos, estofados",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Lunge, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, pulmões, cozidos, ensopados"
+  },
+  "9930": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, polmoni, crudi",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, poumons, crus",
+    "es": "Cerdo, fresco, vísceras y subproductos, pulmones, crudos",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Lunge, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, pulmões, crus"
+  },
+  "9931": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, separato meccanicamente, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, séparé mécaniquement, cru",
+    "es": "Cerdo, fresco, vísceras y subproductos, separado mecánicamente, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, maschinell abgetrennt, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, separado mecanicamente, crua"
+  },
+  "9932": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, pancreas, cotto, braso",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, pancréas, cuit, braisé",
+    "es": "Cerdo, fresco, vísceras y subproductos, páncreas, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Bauchspeicheldrüse, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, pâncreas, cozido, ensopado"
+  },
+  "9933": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, pancreas, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, pancréas, cru",
+    "es": "Cerdo, fresco, vísceras y subproductos, páncreas, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Bauchspeicheldrüse, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, pâncreas, cru"
+  },
+  "9934": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, milza, cotta, brasa",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, rate, cuite, braisée",
+    "es": "Cerdo, fresco, vísceras y subproductos, bazo, cocido, estofado",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Milz, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, baço, cozido, ensopado"
+  },
+  "9935": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, milza, cruda",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, rate, crue",
+    "es": "Cerdo, fresco, vísceras y subproductos, bazo, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Milz, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, baço, cru"
+  },
+  "9936": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, stomaco, cotto, cotto a fuoco lento",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, estomac, cuit, mijoté",
+    "es": "Cerdo, fresco, vísceras y subproductos, estómago, cocido, cocido a fuego lento",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Magen, gekocht, geköchelt",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, estômago, cozido, cozido em fogo baixo"
+  },
+  "9937": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, stomaco, crudo",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, estomac, cru",
+    "es": "Cerdo, fresco, vísceras y subproductos, estómago, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Magen, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, estômago, cru"
+  },
+  "9938": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, coda, cotta, cotta a fuoco lento",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, queue, cuite, mijotée",
+    "es": "Cerdo, fresco, vísceras y subproductos, rabo, cocido, cocido a fuego lento",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Schwanz, gekocht, geköchelt",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, rabo, cozido, cozido em fogo baixo"
+  },
+  "9939": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, coda, cruda",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, queue, crue",
+    "es": "Cerdo, fresco, vísceras y subproductos, rabo, crudo",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Schwanz, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, rabo, cru"
+  },
+  "9940": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, lingua, cotta, brasa",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, langue, cuite, braisée",
+    "es": "Cerdo, fresco, vísceras y subproductos, lengua, cocida, estofada",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Zunge, gekocht, geschmort",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, língua, cozida, ensopada"
+  },
+  "9941": {
+    "it": "Maiale, fresco, frattaglie e sottoprodotti, lingua, cruda",
+    "fr": "Porc, frais (fraîche), abats et sous-produits, langue, crue",
+    "es": "Cerdo, fresco, vísceras y subproductos, lengua, cruda",
+    "de": "Schweinefleisch, frisch, Innereien und Nebenprodukte, Zunge, roh",
+    "pt": "Carne suína, fresca, miúdos e subprodutos, língua, crua"
+  },
+  "9942": {
+    "it": "Maiale, macinato",
+    "fr": "Porc, haché",
+    "es": "Cerdo, molido",
+    "de": "Schweinefleisch, Hack-",
+    "pt": "Carne suína, moído"
+  },
+  "9943": {
+    "it": "Maiale, macinato, 72% magro / 28% grasso, cotto, sbriciolato",
+    "fr": "Porc, haché, 72% maigre / 28% gras, cuit, émietté",
+    "es": "Cerdo, molido, 72% magro / 28% grasa, cocido, desmenuzado",
+    "de": "Schweinefleisch, Hack-, 72% mager / 28% fett, gekocht, krümelig",
+    "pt": "Carne suína, moído, 72% magro / 28% gordura, cozida, esfarelado"
+  },
+  "9944": {
+    "it": "Maiale, macinato, 72% magro / 28% grasso, cotto, cotto in padella",
+    "fr": "Porc, haché, 72% maigre / 28% gras, cuit, grillé à la poêle",
+    "es": "Cerdo, molido, 72% magro / 28% grasa, cocido, a la plancha",
+    "de": "Schweinefleisch, Hack-, 72% mager / 28% fett, gekocht, in der Pfanne gegrillt",
+    "pt": "Carne suína, moído, 72% magro / 28% gordura, cozida, grelhada na frigideira"
+  },
+  "9945": {
+    "it": "Maiale, macinato, 84% magro / 16% grasso, cotto, sbriciolato",
+    "fr": "Porc, haché, 84% maigre / 16% gras, cuit, émietté",
+    "es": "Cerdo, molido, 84% magro / 16% grasa, cocido, desmenuzado",
+    "de": "Schweinefleisch, Hack-, 84% mager / 16% fett, gekocht, krümelig",
+    "pt": "Carne suína, moído, 84% magro / 16% gordura, cozida, esfarelado"
+  },
+  "9946": {
+    "it": "Maiale, macinato, 84% magro / 16% grasso, cotto, cotto in padella",
+    "fr": "Porc, haché, 84% maigre / 16% gras, cuit, grillé à la poêle",
+    "es": "Cerdo, molido, 84% magro / 16% grasa, cocido, a la plancha",
+    "de": "Schweinefleisch, Hack-, 84% mager / 16% fett, gekocht, in der Pfanne gegrillt",
+    "pt": "Carne suína, moído, 84% magro / 16% gordura, cozida, grelhada na frigideira"
+  },
+  "9947": {
+    "it": "Maiale, macinato, 84% magro / 16% grasso, crudo",
+    "fr": "Porc, haché, 84% maigre / 16% gras, cru",
+    "es": "Cerdo, molido, 84% magro / 16% grasa, crudo",
+    "de": "Schweinefleisch, Hack-, 84% mager / 16% fett, roh",
+    "pt": "Carne suína, moído, 84% magro / 16% gordura, crua"
+  },
+  "9948": {
+    "it": "Maiale, macinato, 96% magro / 4% grasso, cotto, sbriciolato",
+    "fr": "Porc, haché, 96% maigre / 4% gras, cuit, émietté",
+    "es": "Cerdo, molido, 96% magro / 4% grasa, cocido, desmenuzado",
+    "de": "Schweinefleisch, Hack-, 96% mager / 4% fett, gekocht, krümelig",
+    "pt": "Carne suína, moído, 96% magro / 4% gordura, cozida, esfarelado"
+  },
+  "9949": {
+    "it": "Maiale, macinato, 96% magro / 4% grasso, cotto, cotto in padella",
+    "fr": "Porc, haché, 96% maigre / 4% gras, cuit, grillé à la poêle",
+    "es": "Cerdo, molido, 96% magro / 4% grasa, cocido, a la plancha",
+    "de": "Schweinefleisch, Hack-, 96% mager / 4% fett, gekocht, in der Pfanne gegrillt",
+    "pt": "Carne suína, moído, 96% magro / 4% gordura, cozida, grelhada na frigideira"
+  },
+  "9950": {
+    "it": "Maiale, macinato, 96% magro / 4% grasso, crudo",
+    "fr": "Porc, haché, 96% maigre / 4% gras, cru",
+    "es": "Cerdo, molido, 96% magro / 4% grasa, crudo",
+    "de": "Schweinefleisch, Hack-, 96% mager / 4% fett, roh",
+    "pt": "Carne suína, moído, 96% magro / 4% gordura, crua"
+  },
+  "9951": {
+    "it": "Maiale, macinato, crudo",
+    "fr": "Porc, haché, cru",
+    "es": "Cerdo, molido, crudo",
+    "de": "Schweinefleisch, Hack-, roh",
+    "pt": "Carne suína, moído, crua"
+  },
+  "9952": {
+    "it": "Maiale, stinchi di prosciutto",
+    "fr": "Porc, jarrets de jambon",
+    "es": "Cerdo, jarretes de jamón",
+    "de": "Schweinefleisch, Schinkenhaxen",
+    "pt": "Carne suína, joelhos de presunto"
+  },
+  "9953": {
+    "it": "Maiale, bistecca di cappello di coscia, disossato, parte magra e grassa, crudo",
+    "fr": "Porc, steak de calotte de cuisse, désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, filete de tapa de pierna, deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, Steak aus der Keulenkappe, ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, bife de capa da perna, sem osso, parte magra e gordura, crua"
+  },
+  "9954": {
+    "it": "Maiale, arrosto di punta di lombata della coscia, disossato, parte magra e grassa, cotto, braso",
+    "fr": "Porc, rôti de pointe de croupe de la cuisse, désossé, partie maigre et grasse, cuit, braisé",
+    "es": "Cerdo, asado de punta de lomo bajo de pierna, deshuesado, parte magra y grasa, cocido, estofado",
+    "de": "Schweinefleisch, Braten aus der Hüftspitze der Keule, ohne Knochen, magerer und fetter Anteil, gekocht, geschmort",
+    "pt": "Carne suína, assado de ponta de alcatra da perna, sem osso, parte magra e gordura, cozida, ensopada"
+  },
+  "9955": {
+    "it": "Maiale, arrosto di punta di lombata della coscia, disossato, parte magra e grassa, crudo",
+    "fr": "Porc, rôti de pointe de croupe de la cuisse, désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, asado de punta de lomo bajo de pierna, deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, Braten aus der Hüftspitze der Keule, ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, assado de ponta de alcatra da perna, sem osso, parte magra e gordura, crua"
+  },
+  "9956": {
+    "it": "Maiale, lombata, disossato, crudo",
+    "fr": "Porc, longe, désossé, cru",
+    "es": "Cerdo, lomo, deshuesado, crudo",
+    "de": "Schweinefleisch, Karree, ohne Knochen, roh",
+    "pt": "Carne suína, lombo, sem osso, crua"
+  },
+  "9957": {
+    "it": "Maiale, lombata, bistecca di cappello di coscia, disossato, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, longe, steak de calotte de cuisse, désossé, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, lomo, filete de tapa de pierna, deshuesado, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, Karree, Steak aus der Keulenkappe, ohne Knochen, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, lombo, bife de capa da perna, sem osso, parte magra e gordura, cozida, grelhada"
+  },
+  "9958": {
+    "it": "Maiale, lombata, filetto, disossato, crudo",
+    "fr": "Porc, longe, filet mignon, désossé, cru",
+    "es": "Cerdo, lomo, solomillo, deshuesado, crudo",
+    "de": "Schweinefleisch, Karree, Filet, ohne Knochen, roh",
+    "pt": "Carne suína, lombo, filé mignon, sem osso, crua"
+  },
+  "9959": {
+    "it": "Maiale, non specificato",
+    "fr": "Porc, non spécifié",
+    "es": "Cerdo, no especificado",
+    "de": "Schweinefleisch, nicht näher bezeichnet",
+    "pt": "Carne suína, não especificado"
+  },
+  "9960": {
+    "it": "Maiale, stile orientale, disidratato",
+    "fr": "Porc, style oriental, déshydraté",
+    "es": "Cerdo, estilo oriental, deshidratado",
+    "de": "Schweinefleisch, nach orientalischer Art, dehydriert",
+    "pt": "Carne suína, estilo oriental, desidratada"
+  },
+  "9961": {
+    "it": "Maiale, stinchi di maiale sott'aceto",
+    "fr": "Porc, jarrets de porc au vinaigre",
+    "es": "Cerdo, jarretes de cerdo en vinagre",
+    "de": "Schweinefleisch, eingelegte Schweinshaxen",
+    "pt": "Carne suína, joelhos de porco em conserva"
+  },
+  "9962": {
+    "it": "Maiale, piedini di maiale",
+    "fr": "Porc, pieds de porc",
+    "es": "Cerdo, manitas de cerdo",
+    "de": "Schweinefleisch, Schweinsfüße",
+    "pt": "Carne suína, pés de porco"
+  },
+  "9963": {
+    "it": "Maiale, piedini di maiale, sott'aceto",
+    "fr": "Porc, pieds de porc, au vinaigre",
+    "es": "Cerdo, manitas de cerdo, en vinagre",
+    "de": "Schweinefleisch, Schweinsfüße, eingelegt",
+    "pt": "Carne suína, pés de porco, em conserva"
+  },
+  "9964": {
+    "it": "Maiale, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; con salsa di carne",
+    "fr": "Porc, pommes de terre et légumes à l'exclusion des carottes, du brocoli et des légumes-feuilles vert foncé; avec jus de viande",
+    "es": "Cerdo, patatas y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; con salsa de carne",
+    "de": "Schweinefleisch, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; mit Bratensoße",
+    "pt": "Carne suína, batatas e legumes exceto cenouras, brócolis e folhosos verde-escuros; com molho de carne"
+  },
+  "9965": {
+    "it": "Maiale, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza salsa",
+    "fr": "Porc, pommes de terre et légumes à l'exclusion des carottes, du brocoli et des légumes-feuilles vert foncé; sans sauce",
+    "es": "Cerdo, patatas y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; sin salsa",
+    "de": "Schweinefleisch, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Sauce",
+    "pt": "Carne suína, batatas e legumes exceto cenouras, brócolis e folhosos verde-escuros; sem molho"
+  },
+  "9966": {
+    "it": "Maiale, patate e verdure escluse carote, broccoli e verdure a foglia verde scuro; con salsa a base di pomodoro",
+    "fr": "Porc, pommes de terre et légumes à l'exclusion des carottes, du brocoli et des légumes-feuilles vert foncé; avec sauce à base de tomate",
+    "es": "Cerdo, patatas y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; con salsa a base de tomate",
+    "de": "Schweinefleisch, Kartoffeln und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; mit Sauce auf Tomatenbasis",
+    "pt": "Carne suína, batatas e legumes exceto cenouras, brócolis e folhosos verde-escuros; com molho à base de tomate"
+  },
+  "9967": {
+    "it": "Maiale, patate e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; con salsa di carne",
+    "fr": "Porc, pommes de terre et légumes y compris carottes, brocoli et/ou légumes-feuilles vert foncé; avec jus de viande",
+    "es": "Cerdo, patatas y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; con salsa de carne",
+    "de": "Schweinefleisch, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; mit Bratensoße",
+    "pt": "Carne suína, batatas e legumes incluindo cenouras, brócolis e/ou folhosos verde-escuros; com molho de carne"
+  },
+  "9968": {
+    "it": "Maiale, patate e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; senza salsa",
+    "fr": "Porc, pommes de terre et légumes y compris carottes, brocoli et/ou légumes-feuilles vert foncé; sans sauce",
+    "es": "Cerdo, patatas y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; sin salsa",
+    "de": "Schweinefleisch, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Sauce",
+    "pt": "Carne suína, batatas e legumes incluindo cenouras, brócolis e/ou folhosos verde-escuros; sem molho"
+  },
+  "9969": {
+    "it": "Maiale, patate e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; con salsa a base di pomodoro",
+    "fr": "Porc, pommes de terre et légumes y compris carottes, brocoli et/ou légumes-feuilles vert foncé; avec sauce à base de tomate",
+    "es": "Cerdo, patatas y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; con salsa a base de tomate",
+    "de": "Schweinefleisch, Kartoffeln und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; mit Sauce auf Tomatenbasis",
+    "pt": "Carne suína, batatas e legumes incluindo cenouras, brócolis e/ou folhosos verde-escuros; com molho à base de tomate"
+  },
+  "9970": {
+    "it": "Maiale, costine",
+    "fr": "Porc, côtes",
+    "es": "Cerdo, costillas",
+    "de": "Schweinefleisch, Rippchen",
+    "pt": "Carne suína, costelas"
+  },
+  "9971": {
+    "it": "Maiale, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; con salsa a base di soia",
+    "fr": "Porc, riz et légumes à l'exclusion des carottes, du brocoli et des légumes-feuilles vert foncé; avec sauce à base de soja",
+    "es": "Cerdo, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; con salsa a base de soja",
+    "de": "Schweinefleisch, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; mit Sauce auf Sojabasis",
+    "pt": "Carne suína, arroz e legumes exceto cenouras, brócolis e folhosos verde-escuros; com molho à base de soja"
+  },
+  "9972": {
+    "it": "Maiale, riso e verdure escluse carote, broccoli e verdure a foglia verde scuro; con salsa a base di pomodoro",
+    "fr": "Porc, riz et légumes à l'exclusion des carottes, du brocoli et des légumes-feuilles vert foncé; avec sauce à base de tomate",
+    "es": "Cerdo, arroz y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; con salsa a base de tomate",
+    "de": "Schweinefleisch, Reis und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; mit Sauce auf Tomatenbasis",
+    "pt": "Carne suína, arroz e legumes exceto cenouras, brócolis e folhosos verde-escuros; com molho à base de tomate"
+  },
+  "9973": {
+    "it": "Maiale, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; con salsa a base di soia",
+    "fr": "Porc, riz et légumes y compris carottes, brocoli et/ou légumes-feuilles vert foncé; avec sauce à base de soja",
+    "es": "Cerdo, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; con salsa a base de soja",
+    "de": "Schweinefleisch, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; mit Sauce auf Sojabasis",
+    "pt": "Carne suína, arroz e legumes incluindo cenouras, brócolis e/ou folhosos verde-escuros; com molho à base de soja"
+  },
+  "9974": {
+    "it": "Maiale, riso e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; con salsa a base di pomodoro",
+    "fr": "Porc, riz et légumes y compris carottes, brocoli et/ou légumes-feuilles vert foncé; avec sauce à base de tomate",
+    "es": "Cerdo, arroz y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; con salsa a base de tomate",
+    "de": "Schweinefleisch, Reis und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; mit Sauce auf Tomatenbasis",
+    "pt": "Carne suína, arroz e legumes incluindo cenouras, brócolis e/ou folhosos verde-escuros; com molho à base de tomate"
+  },
+  "9975": {
+    "it": "Maiale, arrosto",
+    "fr": "Porc, rôti",
+    "es": "Cerdo, asado",
+    "de": "Schweinefleisch, Braten",
+    "pt": "Carne suína, assado"
+  },
+  "9976": {
+    "it": "Maiale, rotolo",
+    "fr": "Porc, rouleau",
+    "es": "Cerdo, rollo",
+    "de": "Schweinefleisch, Rolle",
+    "pt": "Carne suína, rolo"
+  },
+  "9977": {
+    "it": "Maiale, petto di spalla, disossato, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, poitrine d'épaule, désossé, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, pecho de paleta, deshuesado, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, Schulterbrust, ohne Knochen, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, peito de paleta, sem osso, parte magra e gordura, cozida, grelhada"
+  },
+  "9978": {
+    "it": "Maiale, petto di spalla, disossato, parte magra e grassa, crudo",
+    "fr": "Porc, poitrine d'épaule, désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, pecho de paleta, deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, Schulterbrust, ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, peito de paleta, sem osso, parte magra e gordura, crua"
+  },
+  "9979": {
+    "it": "Maiale, filetto piccolo di spalla, disossato, parte magra e grassa, crudo",
+    "fr": "Porc, petit filet d'épaule, désossé, partie maigre et grasse, cru",
+    "es": "Cerdo, solomillo pequeño de paleta, deshuesado, parte magra y grasa, crudo",
+    "de": "Schweinefleisch, kleines Schulterfilet, ohne Knochen, magerer und fetter Anteil, roh",
+    "pt": "Carne suína, filé pequeno de paleta, sem osso, parte magra e gordura, crua"
+  },
+  "9980": {
+    "it": "Maiale, spalla, filetto piccolo, disossato, parte magra e grassa, cotto, alla griglia",
+    "fr": "Porc, épaule, petit filet, désossé, partie maigre et grasse, cuit, grillé",
+    "es": "Cerdo, paleta, solomillo pequeño, deshuesado, parte magra y grasa, cocido, a la parrilla",
+    "de": "Schweinefleisch, Schulter, kleines Filet, ohne Knochen, magerer und fetter Anteil, gekocht, gegrillt",
+    "pt": "Carne suína, paleta, filé pequeno, sem osso, parte magra e gordura, cozida, grelhada"
+  },
+  "9981": {
+    "it": "Maiale, bistecca, impanato",
+    "fr": "Porc, steak, pané",
+    "es": "Cerdo, filete, empanado",
+    "de": "Schweinefleisch, Steak, paniert",
+    "pt": "Carne suína, bife, empanada"
+  },
+  "9982": {
+    "it": "Maiale, bistecca, magro e grasso consumati",
+    "fr": "Porc, steak, maigre et gras consommés",
+    "es": "Cerdo, filete, magro y grasa consumidos",
+    "de": "Schweinefleisch, Steak, mager und fett mitgegessen",
+    "pt": "Carne suína, bife, magro e gordura consumidos"
+  },
+  "9983": {
+    "it": "Maiale, bistecca, solo magro consumato",
+    "fr": "Porc, steak, maigre seulement consommé",
+    "es": "Cerdo, filete, solo magro consumido",
+    "de": "Schweinefleisch, Steak, nur mageres Fleisch mitgegessen",
+    "pt": "Carne suína, bife, apenas magro consumido"
+  },
+  "9984": {
+    "it": "Maiale, bistecca, non specificato se il grasso e' consumato",
+    "fr": "Porc, steak, non précisé si le gras est consommé",
+    "es": "Cerdo, filete, sin especificar si se consume la grasa",
+    "de": "Schweinefleisch, Steak, nicht angegeben ob Fett mitgegessen",
+    "pt": "Carne suína, bife, não especificado se a gordura é consumida"
+  },
+  "9985": {
+    "it": "Maiale, filetto",
+    "fr": "Porc, filet mignon",
+    "es": "Cerdo, solomillo",
+    "de": "Schweinefleisch, Filet",
+    "pt": "Carne suína, filé mignon"
+  },
+  "9986": {
+    "it": "Maiale, tofu e verdure incluse carote, broccoli e/o verdure a foglia verde scuro; senza patate, salsa a base di soia",
+    "fr": "Porc, tofu et légumes y compris carottes, brocoli et/ou légumes-feuilles vert foncé; sans pommes de terre, sauce à base de soja",
+    "es": "Cerdo, tofu y verduras incluyendo zanahorias, brócoli y/o verduras de hoja verde oscuro; sin patatas, salsa a base de soja",
+    "de": "Schweinefleisch, Tofu und Gemüse einschließlich Karotten, Brokkoli und/oder dunkelgrünem Blattgemüse; ohne Kartoffeln, Sauce auf Sojabasis",
+    "pt": "Carne suína, tofu e legumes incluindo cenouras, brócolis e/ou folhosos verde-escuros; sem batatas, molho à base de soja"
+  },
+  "9987": {
+    "it": "Maiale, tofu e verdure escluse carote, broccoli e verdure a foglia verde scuro; senza patate, salsa a base di soia",
+    "fr": "Porc, tofu et légumes à l'exclusion des carottes, du brocoli et des légumes-feuilles vert foncé; sans pommes de terre, sauce à base de soja",
+    "es": "Cerdo, tofu y verduras excluyendo zanahorias, brócoli y verduras de hoja verde oscuro; sin patatas, salsa a base de soja",
+    "de": "Schweinefleisch, Tofu und Gemüse ohne Karotten, Brokkoli und dunkelgrünes Blattgemüse; ohne Kartoffeln, Sauce auf Sojabasis",
+    "pt": "Carne suína, tofu e legumes exceto cenouras, brócolis e folhosos verde-escuros; sem batatas, molho à base de soja"
+  },
+  "9988": {
+    "it": "Torta salata (pot pie), manzo",
+    "fr": "Tourte (pot pie), bœuf",
+    "es": "Pastel salado (pot pie), vacuno",
+    "de": "Pot Pie (Fleischpastete), Rind",
+    "pt": "Torta salgada (pot pie), carne bovina"
+  },
+  "9989": {
+    "it": "Torta salata (pot pie), pollo",
+    "fr": "Tourte (pot pie), poulet",
+    "es": "Pastel salado (pot pie), pollo",
+    "de": "Pot Pie (Fleischpastete), Huhn",
+    "pt": "Torta salgada (pot pie), frango"
+  },
+  "9990": {
+    "it": "Torta salata (pot pie), senza carne",
+    "fr": "Tourte (pot pie), sans viande",
+    "es": "Pastel salado (pot pie), sin carne",
+    "de": "Pot Pie (Pastete), ohne Fleisch",
+    "pt": "Torta salgada (pot pie), sem carne"
+  },
+  "9991": {
+    "it": "Patatine chips, al forno, aromatizzate",
+    "fr": "Chips de pommes de terre, cuites au four, aromatisées",
+    "es": "Patatas chips, al horno, con sabor",
+    "de": "Kartoffelchips, gebacken, aromatisiert",
+    "pt": "Chips de batata, assadas no forno, com sabor"
+  },
+  "9992": {
+    "it": "Patatine chips, al forno, naturali",
+    "fr": "Chips de pommes de terre, cuites au four, nature",
+    "es": "Patatas chips, al horno, naturales",
+    "de": "Kartoffelchips, gebacken, natur",
+    "pt": "Chips de batata, assadas no forno, naturais"
+  },
+  "9993": {
+    "it": "Patatine chips, gusto barbecue",
+    "fr": "Chips de pommes de terre, saveur barbecue",
+    "es": "Patatas chips, sabor barbacoa",
+    "de": "Kartoffelchips, Barbecue-Geschmack",
+    "pt": "Chips de batata, sabor barbecue"
+  },
+  "9994": {
+    "it": "Patatine chips, gusto formaggio",
+    "fr": "Chips de pommes de terre, saveur fromage",
+    "es": "Patatas chips, sabor a queso",
+    "de": "Kartoffelchips, Käsegeschmack",
+    "pt": "Chips de batata, sabor queijo"
+  },
+  "9995": {
+    "it": "Patatine chips, leggermente salate",
+    "fr": "Chips de pommes de terre, légèrement salées",
+    "es": "Patatas chips, ligeramente saladas",
+    "de": "Kartoffelchips, leicht gesalzen",
+    "pt": "Chips de batata, levemente salgadas"
+  },
+  "9996": {
+    "it": "Patatine chips, non specificato",
+    "fr": "Chips de pommes de terre, non spécifié",
+    "es": "Patatas chips, no especificado",
+    "de": "Kartoffelchips, nicht näher bezeichnet",
+    "pt": "Chips de batata, não especificado"
+  },
+  "9997": {
+    "it": "Patatine chips, altri gusti",
+    "fr": "Chips de pommes de terre, autres saveurs",
+    "es": "Patatas chips, otros sabores",
+    "de": "Kartoffelchips, andere Geschmacksrichtungen",
+    "pt": "Chips de batata, outros sabores"
+  },
+  "9998": {
+    "it": "Patatine chips, naturali",
+    "fr": "Chips de pommes de terre, nature",
+    "es": "Patatas chips, naturales",
+    "de": "Kartoffelchips, natur",
+    "pt": "Chips de batata, naturais"
+  },
+  "9999": {
+    "it": "Patatine chips, soffiate, aromatizzate",
+    "fr": "Chips de pommes de terre, soufflées, aromatisées",
+    "es": "Patatas chips, expandidas, con sabor",
+    "de": "Kartoffelchips, gepoppt, aromatisiert",
+    "pt": "Chips de batata, expandidas, com sabor"
+  },
+  "10000": {
+    "it": "Patatine chips, soffiate, non specificato",
+    "fr": "Chips de pommes de terre, soufflées, non spécifié",
+    "es": "Patatas chips, expandidas, no especificado",
+    "de": "Kartoffelchips, gepoppt, nicht näher bezeichnet",
+    "pt": "Chips de batata, expandidas, não especificado"
+  },
+  "10001": {
+    "it": "Patatine chips, soffiate, naturali",
+    "fr": "Chips de pommes de terre, soufflées, nature",
+    "es": "Patatas chips, expandidas, naturales",
+    "de": "Kartoffelchips, gepoppt, natur",
+    "pt": "Chips de batata, expandidas, naturais"
+  },
+  "10002": {
+    "it": "Patatine chips, a ridotto contenuto di grassi",
+    "fr": "Chips de pommes de terre, à teneur réduite en matières grasses",
+    "es": "Patatas chips, reducidas en grasa",
+    "de": "Kartoffelchips, fettreduziert",
+    "pt": "Chips de batata, com teor reduzido de gordura"
+  },
+  "10003": {
+    "it": "Patatine chips, ricomposte, aromatizzate",
+    "fr": "Chips de pommes de terre, reconstituées, aromatisées",
+    "es": "Patatas chips, reconstituidas, con sabor",
+    "de": "Kartoffelchips, aus Kartoffelteig, aromatisiert",
+    "pt": "Chips de batata, reconstituídas, com sabor"
+  },
+  "10004": {
+    "it": "Patatine chips, ricomposte, leggermente salate",
+    "fr": "Chips de pommes de terre, reconstituées, légèrement salées",
+    "es": "Patatas chips, reconstituidas, ligeramente saladas",
+    "de": "Kartoffelchips, aus Kartoffelteig, leicht gesalzen",
+    "pt": "Chips de batata, reconstituídas, levemente salgadas"
+  },
+  "10005": {
+    "it": "Patatine chips, ricomposte, multicereali",
+    "fr": "Chips de pommes de terre, reconstituées, multicéréales",
+    "es": "Patatas chips, reconstituidas, multicereales",
+    "de": "Kartoffelchips, aus Kartoffelteig, Mehrkorn",
+    "pt": "Chips de batata, reconstituídas, multigrãos"
+  },
+  "10006": {
+    "it": "Patatine chips, ricomposte, naturali",
+    "fr": "Chips de pommes de terre, reconstituées, nature",
+    "es": "Patatas chips, reconstituidas, naturales",
+    "de": "Kartoffelchips, aus Kartoffelteig, natur",
+    "pt": "Chips de batata, reconstituídas, naturais"
+  },
+  "10007": {
+    "it": "Patatine chips, ricomposte, a ridotto contenuto di grassi, leggermente salate",
+    "fr": "Chips de pommes de terre, reconstituées, à teneur réduite en matières grasses, légèrement salées",
+    "es": "Patatas chips, reconstituidas, reducidas en grasa, ligeramente saladas",
+    "de": "Kartoffelchips, aus Kartoffelteig, fettreduziert, leicht gesalzen",
+    "pt": "Chips de batata, reconstituídas, com teor reduzido de gordura, levemente salgadas"
+  },
+  "10008": {
+    "it": "Patatine chips, ondulate, gusto barbecue",
+    "fr": "Chips de pommes de terre, ondulées, saveur barbecue",
+    "es": "Patatas chips, onduladas, sabor barbacoa",
+    "de": "Kartoffelchips, gewellt, Barbecue-Geschmack",
+    "pt": "Chips de batata, onduladas, sabor barbecue"
+  },
+  "10009": {
+    "it": "Patatine chips, ondulate, gusto formaggio",
+    "fr": "Chips de pommes de terre, ondulées, saveur fromage",
+    "es": "Patatas chips, onduladas, sabor a queso",
+    "de": "Kartoffelchips, gewellt, Käsegeschmack",
+    "pt": "Chips de batata, onduladas, sabor queijo"
+  },
+  "10010": {
+    "it": "Patatine chips, ondulate, altri gusti",
+    "fr": "Chips de pommes de terre, ondulées, autres saveurs",
+    "es": "Patatas chips, onduladas, otros sabores",
+    "de": "Kartoffelchips, gewellt, andere Geschmacksrichtungen",
+    "pt": "Chips de batata, onduladas, outros sabores"
+  },
+  "10011": {
+    "it": "Patatine chips, ondulate, naturali",
+    "fr": "Chips de pommes de terre, ondulées, nature",
+    "es": "Patatas chips, onduladas, naturales",
+    "de": "Kartoffelchips, gewellt, natur",
+    "pt": "Chips de batata, onduladas, naturais"
+  },
+  "10012": {
+    "it": "Patatine chips, ondulate, gusto panna acida e cipolla",
+    "fr": "Chips de pommes de terre, ondulées, saveur crème aigre et oignon",
+    "es": "Patatas chips, onduladas, sabor a crema agria y cebolla",
+    "de": "Kartoffelchips, gewellt, Sour-Cream-und-Zwiebel-Geschmack",
+    "pt": "Chips de batata, onduladas, sabor creme azedo e cebola"
+  },
+  "10013": {
+    "it": "Patatine chips, gusto panna acida e cipolla",
+    "fr": "Chips de pommes de terre, saveur crème aigre et oignon",
+    "es": "Patatas chips, sabor a crema agria y cebolla",
+    "de": "Kartoffelchips, Sour-Cream-und-Zwiebel-Geschmack",
+    "pt": "Chips de batata, sabor creme azedo e cebola"
+  },
+  "10014": {
+    "it": "Patatine chips, non salate",
+    "fr": "Chips de pommes de terre, non salées",
+    "es": "Patatas chips, sin sal",
+    "de": "Kartoffelchips, ungesalzen",
+    "pt": "Chips de batata, sem sal"
+  },
+  "10015": {
+    "it": "Patatine chips, senza sale, a ridotto contenuto di grassi",
+    "fr": "Chips de pommes de terre, sans sel, à teneur réduite en matières grasses",
+    "es": "Patatas chips, sin sal, reducidas en grasa",
+    "de": "Kartoffelchips, ohne Salz, fettreduziert",
+    "pt": "Chips de batata, sem sal, com teor reduzido de gordura"
+  },
+  "10016": {
+    "it": "Farina di patate",
+    "fr": "Farine de pomme de terre",
+    "es": "Harina de patata",
+    "de": "Kartoffelmehl",
+    "pt": "Farinha de batata"
+  },
+  "10017": {
+    "it": "Patata dallo stufato di manzo portoricano, con salsa di carne",
+    "fr": "Pomme de terre du ragoût de bœuf portoricain, avec jus de viande",
+    "es": "Patata del estofado de res puertorriqueño, con salsa de carne",
+    "de": "Kartoffel aus puerto-ricanischem Rindfleischeintopf, mit Bratensoße",
+    "pt": "Batata do ensopado de carne bovina porto-riquenho, com molho de carne"
+  },
+  "10018": {
+    "it": "Patata dalla fricassea di pollo portoricana, con salsa",
+    "fr": "Pomme de terre de la fricassée de poulet portoricaine, avec sauce",
+    "es": "Patata del fricasé de pollo puertorriqueño, con salsa",
+    "de": "Kartoffel aus puerto-ricanischem Hühnerfrikassee, mit Sauce",
+    "pt": "Batata do fricassê de frango porto-riquenho, com molho"
+  },
+  "10019": {
+    "it": "Patata dall'arrosto in casseruola ripieno alla portoricana, con salsa di carne",
+    "fr": "Pomme de terre du rôti braisé farci à la portoricaine, avec jus de viande",
+    "es": "Patata del asado en olla relleno al estilo puertorriqueño, con salsa de carne",
+    "de": "Kartoffel aus gefülltem Schmorbraten nach puerto-ricanischer Art, mit Bratensoße",
+    "pt": "Batata da carne assada na panela recheada estilo porto-riquenho, com molho de carne"
+  },
+  "10020": {
+    "it": "Solo patata da piatti misti portoricani, salsa di carne e altri componenti riportati separatamente",
+    "fr": "Pomme de terre seule de plats mixtes portoricains, jus de viande et autres composants indiqués séparément",
+    "es": "Solo patata de platos mixtos puertorriqueños, salsa de carne y otros componentes indicados por separado",
+    "de": "Nur Kartoffel aus puerto-ricanischen Mischgerichten, Bratensoße und andere Bestandteile separat angegeben",
+    "pt": "Apenas batata de pratos mistos porto-riquenhos, molho de carne e outros componentes informados separadamente"
+  },
+  "10021": {
+    "it": "Frittella di patate",
+    "fr": "Galette de pommes de terre",
+    "es": "Tortita de patata",
+    "de": "Kartoffelpuffer",
+    "pt": "Panqueca de batata"
+  },
+  "10022": {
+    "it": "Frittelle di patate",
+    "fr": "Galettes de pommes de terre",
+    "es": "Tortitas de patata",
+    "de": "Kartoffelpuffer",
+    "pt": "Panquecas de batata"
+  },
+  "10023": {
+    "it": "Medaglione di patate",
+    "fr": "Palet de pommes de terre",
+    "es": "Medallón de patata",
+    "de": "Kartoffelbratling",
+    "pt": "Bolinho de batata"
+  },
+  "10024": {
+    "it": "Bocconcini di patate, surgelati, riscaldati al forno",
+    "fr": "Croquettes soufflées de pommes de terre, surgelées, réchauffées au four",
+    "es": "Bocaditos de patata, congelados, calentados al horno",
+    "de": "Kartoffelbällchen, tiefgekühlt, im Ofen erhitzt",
+    "pt": "Bolinhas de batata, congeladas, aquecidas no forno"
+  },
+  "10025": {
+    "it": "Bocconcini di patate, surgelati, non preparati",
+    "fr": "Croquettes soufflées de pommes de terre, surgelées, non préparées",
+    "es": "Bocaditos de patata, congelados, sin preparar",
+    "de": "Kartoffelbällchen, tiefgekühlt, unzubereitet",
+    "pt": "Bolinhas de batata, congeladas, não preparadas"
+  },
+  "10026": {
+    "it": "Insalata di patate con uovo",
+    "fr": "Salade de pommes de terre avec œuf",
+    "es": "Ensalada de patata con huevo",
+    "de": "Kartoffelsalat mit Ei",
+    "pt": "Salada de batata com ovo"
+  },
+  "10027": {
+    "it": "Insalata di patate con uovo, da ristorante",
+    "fr": "Salade de pommes de terre avec œuf, de restaurant",
+    "es": "Ensalada de patata con huevo, de restaurante",
+    "de": "Kartoffelsalat mit Ei, aus dem Restaurant",
+    "pt": "Salada de batata com ovo, de restaurante"
+  },
+  "10028": {
+    "it": "Insalata di patate con uovo, preparata con qualsiasi tipo di condimento senza grassi",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec n'importe quel type de sauce sans matières grasses",
+    "es": "Ensalada de patata con huevo, preparada con cualquier tipo de aderezo sin grasa",
+    "de": "Kartoffelsalat mit Ei, mit fettfreiem Dressing jeder Art zubereitet",
+    "pt": "Salada de batata com ovo, preparada com qualquer tipo de molho sem gordura"
+  },
+  "10029": {
+    "it": "Insalata di patate con uovo, preparata con condimento cremoso",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec une sauce crémeuse",
+    "es": "Ensalada de patata con huevo, preparada con aderezo cremoso",
+    "de": "Kartoffelsalat mit Ei, mit cremigem Dressing zubereitet",
+    "pt": "Salada de batata com ovo, preparada com molho cremoso"
+  },
+  "10030": {
+    "it": "Insalata di patate con uovo, preparata con condimento all'italiana",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec une vinaigrette à l'italienne",
+    "es": "Ensalada de patata con huevo, preparada con aderezo italiano",
+    "de": "Kartoffelsalat mit Ei, mit italienischem Dressing zubereitet",
+    "pt": "Salada de batata com ovo, preparada com molho italiano"
+  },
+  "10031": {
+    "it": "Insalata di patate con uovo, preparata con condimento cremoso light",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec une sauce crémeuse allégée",
+    "es": "Ensalada de patata con huevo, preparada con aderezo cremoso light",
+    "de": "Kartoffelsalat mit Ei, mit leichtem cremigem Dressing zubereitet",
+    "pt": "Salada de batata com ovo, preparada com molho cremoso light"
+  },
+  "10032": {
+    "it": "Insalata di patate con uovo, preparata con condimento all'italiana light",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec une vinaigrette à l'italienne allégée",
+    "es": "Ensalada de patata con huevo, preparada con aderezo italiano light",
+    "de": "Kartoffelsalat mit Ei, mit leichtem italienischem Dressing zubereitet",
+    "pt": "Salada de batata com ovo, preparada com molho italiano light"
+  },
+  "10033": {
+    "it": "Insalata di patate con uovo, preparata con maionese light",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec de la mayonnaise allégée",
+    "es": "Ensalada de patata con huevo, preparada con mayonesa light",
+    "de": "Kartoffelsalat mit Ei, mit leichter Mayonnaise zubereitet",
+    "pt": "Salada de batata com ovo, preparada com maionese light"
+  },
+  "10034": {
+    "it": "Insalata di patate con uovo, preparata con condimento per insalata tipo maionese light",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec une sauce salade type mayonnaise allégée",
+    "es": "Ensalada de patata con huevo, preparada con aderezo para ensalada tipo mayonesa light",
+    "de": "Kartoffelsalat mit Ei, mit leichter Salatsoße nach Mayonnaise-Art zubereitet",
+    "pt": "Salada de batata com ovo, preparada com molho para salada tipo maionese light"
+  },
+  "10035": {
+    "it": "Insalata di patate con uovo, preparata con maionese",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec de la mayonnaise",
+    "es": "Ensalada de patata con huevo, preparada con mayonesa",
+    "de": "Kartoffelsalat mit Ei, mit Mayonnaise zubereitet",
+    "pt": "Salada de batata com ovo, preparada com maionese"
+  },
+  "10036": {
+    "it": "Insalata di patate con uovo, preparata con condimento per insalata tipo maionese",
+    "fr": "Salade de pommes de terre avec œuf, préparée avec une sauce salade type mayonnaise",
+    "es": "Ensalada de patata con huevo, preparada con aderezo para ensalada tipo mayonesa",
+    "de": "Kartoffelsalat mit Ei, mit Salatsoße nach Mayonnaise-Art zubereitet",
+    "pt": "Salada de batata com ovo, preparada com molho para salada tipo maionese"
+  },
+  "10037": {
+    "it": "Insalata di patate, da ristorante",
+    "fr": "Salade de pommes de terre, de restaurant",
+    "es": "Ensalada de patata, de restaurante",
+    "de": "Kartoffelsalat, aus dem Restaurant",
+    "pt": "Salada de batata, de restaurante"
+  },
+  "10038": {
+    "it": "Insalata di patate, alla tedesca",
+    "fr": "Salade de pommes de terre, à l'allemande",
+    "es": "Ensalada de patata, a la alemana",
+    "de": "Kartoffelsalat, nach deutscher Art",
+    "pt": "Salada de batata, à moda alemã"
+  },
+  "10039": {
+    "it": "Insalata di patate, fatta in casa",
+    "fr": "Salade de pommes de terre, faite maison",
+    "es": "Ensalada de patata, casera",
+    "de": "Kartoffelsalat, hausgemacht",
+    "pt": "Salada de batata, caseira"
+  },
+  "10040": {
+    "it": "Insalata di patate, preparata con qualsiasi tipo di condimento senza grassi",
+    "fr": "Salade de pommes de terre, préparée avec n'importe quel type de sauce sans matières grasses",
+    "es": "Ensalada de patata, preparada con cualquier tipo de aderezo sin grasa",
+    "de": "Kartoffelsalat, mit fettfreiem Dressing jeder Art zubereitet",
+    "pt": "Salada de batata, preparada com qualquer tipo de molho sem gordura"
+  },
+  "10041": {
+    "it": "Insalata di patate, preparata con condimento cremoso",
+    "fr": "Salade de pommes de terre, préparée avec une sauce crémeuse",
+    "es": "Ensalada de patata, preparada con aderezo cremoso",
+    "de": "Kartoffelsalat, mit cremigem Dressing zubereitet",
+    "pt": "Salada de batata, preparada com molho cremoso"
+  },
+  "10042": {
+    "it": "Insalata di patate, preparata con condimento all'italiana",
+    "fr": "Salade de pommes de terre, préparée avec une vinaigrette à l'italienne",
+    "es": "Ensalada de patata, preparada con aderezo italiano",
+    "de": "Kartoffelsalat, mit italienischem Dressing zubereitet",
+    "pt": "Salada de batata, preparada com molho italiano"
+  },
+  "10043": {
+    "it": "Insalata di patate, preparata con condimento cremoso light",
+    "fr": "Salade de pommes de terre, préparée avec une sauce crémeuse allégée",
+    "es": "Ensalada de patata, preparada con aderezo cremoso light",
+    "de": "Kartoffelsalat, mit leichtem cremigem Dressing zubereitet",
+    "pt": "Salada de batata, preparada com molho cremoso light"
+  },
+  "10044": {
+    "it": "Insalata di patate, preparata con condimento all'italiana light",
+    "fr": "Salade de pommes de terre, préparée avec une vinaigrette à l'italienne allégée",
+    "es": "Ensalada de patata, preparada con aderezo italiano light",
+    "de": "Kartoffelsalat, mit leichtem italienischem Dressing zubereitet",
+    "pt": "Salada de batata, preparada com molho italiano light"
+  },
+  "10045": {
+    "it": "Insalata di patate, preparata con maionese light",
+    "fr": "Salade de pommes de terre, préparée avec de la mayonnaise allégée",
+    "es": "Ensalada de patata, preparada con mayonesa light",
+    "de": "Kartoffelsalat, mit leichter Mayonnaise zubereitet",
+    "pt": "Salada de batata, preparada com maionese light"
+  },
+  "10046": {
+    "it": "Insalata di patate, preparata con condimento per insalata tipo maionese light",
+    "fr": "Salade de pommes de terre, préparée avec une sauce salade type mayonnaise allégée",
+    "es": "Ensalada de patata, preparada con aderezo para ensalada tipo mayonesa light",
+    "de": "Kartoffelsalat, mit leichter Salatsoße nach Mayonnaise-Art zubereitet",
+    "pt": "Salada de batata, preparada com molho para salada tipo maionese light"
+  },
+  "10047": {
+    "it": "Insalata di patate, preparata con maionese",
+    "fr": "Salade de pommes de terre, préparée avec de la mayonnaise",
+    "es": "Ensalada de patata, preparada con mayonesa",
+    "de": "Kartoffelsalat, mit Mayonnaise zubereitet",
+    "pt": "Salada de batata, preparada com maionese"
+  },
+  "10048": {
+    "it": "Insalata di patate, preparata con condimento per insalata tipo maionese",
+    "fr": "Salade de pommes de terre, préparée avec une sauce salade type mayonnaise",
+    "es": "Ensalada de patata, preparada con aderezo para ensalada tipo mayonesa",
+    "de": "Kartoffelsalat, mit Salatsoße nach Mayonnaise-Art zubereitet",
+    "pt": "Salada de batata, preparada com molho para salada tipo maionese"
+  },
+  "10049": {
+    "it": "Bucce di patate senza guarnizione",
+    "fr": "Peaux de pommes de terre sans garniture",
+    "es": "Cáscaras de patata sin cobertura",
+    "de": "Kartoffelschalen ohne Belag",
+    "pt": "Cascas de batata sem cobertura"
+  },
+  "10050": {
+    "it": "Bucce di patate, non specificato",
+    "fr": "Peaux de pommes de terre, non spécifié",
+    "es": "Cáscaras de patata, no especificado",
+    "de": "Kartoffelschalen, nicht näher bezeichnet",
+    "pt": "Cascas de batata, não especificado"
+  },
+  "10051": {
+    "it": "Bucce di patate, con formaggio",
+    "fr": "Peaux de pommes de terre, avec fromage",
+    "es": "Cáscaras de patata, con queso",
+    "de": "Kartoffelschalen, mit Käse",
+    "pt": "Cascas de batata, com queijo"
+  },
+  "10052": {
+    "it": "Bucce di patate, con formaggio e pancetta",
+    "fr": "Peaux de pommes de terre, avec fromage et lard (bacon)",
+    "es": "Cáscaras de patata, con queso y beicon",
+    "de": "Kartoffelschalen, mit Käse und Speck",
+    "pt": "Cascas de batata, com queijo e bacon"
+  },
+  "10053": {
+    "it": "Zuppa di patate, istantanea, miscela secca",
+    "fr": "Soupe de pommes de terre, instantanée, mélange sec",
+    "es": "Sopa de patata, instantánea, mezcla en polvo",
+    "de": "Kartoffelsuppe, Instant, Trockenmischung",
+    "pt": "Sopa de batata, instantânea, mistura em pó"
+  },
+  "10054": {
+    "it": "Stick di patate, aromatizzati",
+    "fr": "Bâtonnets de pommes de terre, aromatisés",
+    "es": "Palitos de patata, con sabor",
+    "de": "Kartoffelsticks, aromatisiert",
+    "pt": "Palitos de batata, com sabor"
+  },
+  "10055": {
+    "it": "Stick di patate, a forma di patatine fritte",
+    "fr": "Bâtonnets de pommes de terre, en forme de frites",
+    "es": "Palitos de patata, en forma de patatas fritas",
+    "de": "Kartoffelsticks, in Pommes-frites-Form",
+    "pt": "Palitos de batata, em formato de batata frita"
+  },
+  "10056": {
+    "it": "Stick di patate, naturali",
+    "fr": "Bâtonnets de pommes de terre, nature",
+    "es": "Palitos de patata, naturales",
+    "de": "Kartoffelsticks, natur",
+    "pt": "Palitos de batata, naturais"
+  },
+  "10057": {
+    "it": "Tots di patate (crocchette), fast food / da ristorante",
+    "fr": "Tots de pommes de terre (croquettes), fast-food / de restaurant",
+    "es": "Tots de patata (croquetas), comida rápida / de restaurante",
+    "de": "Kartoffel-Tots (Kroketten), Fast Food / aus dem Restaurant",
+    "pt": "Tots de batata (croquetes), fast food / de restaurante"
+  },
+  "10058": {
+    "it": "Tots di patate (crocchette), da patate fresche, fritti o al forno",
+    "fr": "Tots de pommes de terre (croquettes), à partir de pommes de terre fraîches, frits ou cuits au four",
+    "es": "Tots de patata (croquetas), a partir de patatas frescas, fritos o al horno",
+    "de": "Kartoffel-Tots (Kroketten), aus frischen Kartoffeln, frittiert oder gebacken",
+    "pt": "Tots de batata (croquetes), a partir de batatas frescas, fritos ou assados no forno"
+  },
+  "10059": {
+    "it": "Tots di patate (crocchette), surgelati, al forno",
+    "fr": "Tots de pommes de terre (croquettes), surgelés, cuits au four",
+    "es": "Tots de patata (croquetas), congelados, al horno",
+    "de": "Kartoffel-Tots (Kroketten), tiefgekühlt, gebacken",
+    "pt": "Tots de batata (croquetes), congelados, assados no forno"
+  },
+  "10060": {
+    "it": "Tots di patate (crocchette), surgelati, fritti",
+    "fr": "Tots de pommes de terre (croquettes), surgelés, frits",
+    "es": "Tots de patata (croquetas), congelados, fritos",
+    "de": "Kartoffel-Tots (Kroketten), tiefgekühlt, frittiert",
+    "pt": "Tots de batata (croquetes), congelados, fritos"
+  },
+  "10061": {
+    "it": "Tots di patate (crocchette), surgelati, non specificato se fritti o al forno",
+    "fr": "Tots de pommes de terre (croquettes), surgelés, non précisé si frits ou cuits au four",
+    "es": "Tots de patata (croquetas), congelados, sin especificar si fritos o al horno",
+    "de": "Kartoffel-Tots (Kroketten), tiefgekühlt, nicht angegeben ob frittiert oder gebacken",
+    "pt": "Tots de batata (croquetes), congelados, não especificado se fritos ou assados no forno"
+  },
+  "10062": {
+    "it": "Tots di patate (crocchette), non specificato",
+    "fr": "Tots de pommes de terre (croquettes), non spécifié",
+    "es": "Tots de patata (croquetas), no especificado",
+    "de": "Kartoffel-Tots (Kroketten), nicht näher bezeichnet",
+    "pt": "Tots de batata (croquetes), não especificado"
+  },
+  "10063": {
+    "it": "Tots di patate (crocchette), da mensa scolastica",
+    "fr": "Tots de pommes de terre (croquettes), de cantine scolaire",
+    "es": "Tots de patata (croquetas), de comedor escolar",
+    "de": "Kartoffel-Tots (Kroketten), aus der Schulverpflegung",
+    "pt": "Tots de batata (croquetes), de merenda escolar"
+  },
+  "10064": {
+    "it": "Spicchi di patate, surgelati (include alimenti del Programma di distribuzione alimentare dell'USDA)",
+    "fr": "Quartiers de pommes de terre, surgelés (comprend les aliments du programme de distribution alimentaire de l'USDA)",
+    "es": "Gajos de patata, congelados (incluye alimentos del Programa de Distribución de Alimentos del USDA)",
+    "de": "Kartoffelspalten, tiefgekühlt (einschließlich Lebensmittel des Lebensmittelverteilungsprogramms des USDA)",
+    "pt": "Batata em gomos, congelada (inclui alimentos do Programa de Distribuição de Alimentos do USDA)"
+  },
+  "10065": {
+    "it": "Patata, al forno, non specificato",
+    "fr": "Pomme de terre, cuite au four, non spécifié",
+    "es": "Patata, al horno, no especificado",
+    "de": "Kartoffel, gebacken, nicht näher bezeichnet",
+    "pt": "Batata, assada no forno, não especificado"
+  },
+  "10066": {
+    "it": "Patata, al forno, con buccia consumata",
+    "fr": "Pomme de terre, cuite au four, peau consommée",
+    "es": "Patata, al horno, con piel consumida",
+    "de": "Kartoffel, gebacken, Schale mitgegessen",
+    "pt": "Batata, assada no forno, casca consumida"
+  },
+  "10067": {
+    "it": "Patata, al forno, con buccia consumata, con burro",
+    "fr": "Pomme de terre, cuite au four, peau consommée, avec beurre",
+    "es": "Patata, al horno, con piel consumida, con mantequilla",
+    "de": "Kartoffel, gebacken, Schale mitgegessen, mit Butter",
+    "pt": "Batata, assada no forno, casca consumida, com manteiga"
+  },
+  "10068": {
+    "it": "Patata, al forno, con buccia consumata, con formaggio",
+    "fr": "Pomme de terre, cuite au four, peau consommée, avec fromage",
+    "es": "Patata, al horno, con piel consumida, con queso",
+    "de": "Kartoffel, gebacken, Schale mitgegessen, mit Käse",
+    "pt": "Batata, assada no forno, casca consumida, com queijo"
+  },
+  "10069": {
+    "it": "Patata, al forno, con buccia consumata, con chili",
+    "fr": "Pomme de terre, cuite au four, peau consommée, au chili",
+    "es": "Patata, al horno, con piel consumida, con chile",
+    "de": "Kartoffel, gebacken, Schale mitgegessen, mit Chili",
+    "pt": "Batata, assada no forno, casca consumida, com chili"
+  },
+  "10070": {
+    "it": "Patata, al forno, con buccia consumata, con carne",
+    "fr": "Pomme de terre, cuite au four, peau consommée, avec viande",
+    "es": "Patata, al horno, con piel consumida, con carne",
+    "de": "Kartoffel, gebacken, Schale mitgegessen, mit Fleisch",
+    "pt": "Batata, assada no forno, casca consumida, com carne"
+  },
+  "10071": {
+    "it": "Patata, al forno, con buccia consumata, con panna acida",
+    "fr": "Pomme de terre, cuite au four, peau consommée, avec crème aigre",
+    "es": "Patata, al horno, con piel consumida, con crema agria",
+    "de": "Kartoffel, gebacken, Schale mitgegessen, mit saurer Sahne",
+    "pt": "Batata, assada no forno, casca consumida, com creme azedo"
+  },
+  "10072": {
+    "it": "Patata, al forno, con buccia consumata, con verdure",
+    "fr": "Pomme de terre, cuite au four, peau consommée, avec légumes",
+    "es": "Patata, al horno, con piel consumida, con verduras",
+    "de": "Kartoffel, gebacken, Schale mitgegessen, mit Gemüse",
+    "pt": "Batata, assada no forno, casca consumida, com legumes"
+  },
+  "10073": {
+    "it": "Patata, al forno, con buccia non consumata",
+    "fr": "Pomme de terre, cuite au four, peau non consommée",
+    "es": "Patata, al horno, con piel no consumida",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen",
+    "pt": "Batata, assada no forno, casca não consumida"
+  },
+  "10074": {
+    "it": "Patata, al forno, con buccia non consumata, con burro",
+    "fr": "Pomme de terre, cuite au four, peau non consommée, avec beurre",
+    "es": "Patata, al horno, con piel no consumida, con mantequilla",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen, mit Butter",
+    "pt": "Batata, assada no forno, casca não consumida, com manteiga"
+  },
+  "10075": {
+    "it": "Patata, al forno, con buccia non consumata, con formaggio",
+    "fr": "Pomme de terre, cuite au four, peau non consommée, avec fromage",
+    "es": "Patata, al horno, con piel no consumida, con queso",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen, mit Käse",
+    "pt": "Batata, assada no forno, casca não consumida, com queijo"
+  },
+  "10076": {
+    "it": "Patata, al forno, con buccia non consumata, con chili",
+    "fr": "Pomme de terre, cuite au four, peau non consommée, au chili",
+    "es": "Patata, al horno, con piel no consumida, con chile",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen, mit Chili",
+    "pt": "Batata, assada no forno, casca não consumida, com chili"
+  },
+  "10077": {
+    "it": "Patata, al forno, con buccia non consumata, con carne",
+    "fr": "Pomme de terre, cuite au four, peau non consommée, avec viande",
+    "es": "Patata, al horno, con piel no consumida, con carne",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen, mit Fleisch",
+    "pt": "Batata, assada no forno, casca não consumida, com carne"
+  },
+  "10078": {
+    "it": "Patata, al forno, con buccia non consumata, con panna acida",
+    "fr": "Pomme de terre, cuite au four, peau non consommée, avec crème aigre",
+    "es": "Patata, al horno, con piel no consumida, con crema agria",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen, mit saurer Sahne",
+    "pt": "Batata, assada no forno, casca não consumida, com creme azedo"
+  },
+  "10079": {
+    "it": "Patata, al forno, con buccia non consumata, con verdure",
+    "fr": "Pomme de terre, cuite au four, peau non consommée, avec légumes",
+    "es": "Patata, al horno, con piel no consumida, con verduras",
+    "de": "Kartoffel, gebacken, Schale nicht mitgegessen, mit Gemüse",
+    "pt": "Batata, assada no forno, casca não consumida, com legumes"
+  },
+  "10080": {
+    "it": "Patata, bollita, da patate fresche, con buccia consumata, con grasso aggiunto, tipo di grasso non specificato",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau consommée, avec matière grasse ajoutée, type de matière grasse non précisé",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel consumida, con grasa añadida, sin especificar el tipo de grasa",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale mitgegessen, mit zugesetztem Fett, Fettart nicht angegeben",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca consumida, com gordura adicionada, tipo de gordura não especificado"
+  },
+  "10081": {
+    "it": "Patata, bollita, da patate fresche, con buccia consumata, preparata con burro",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau consommée, préparée avec du beurre",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel consumida, preparada con mantequilla",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale mitgegessen, mit Butter zubereitet",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca consumida, preparada com manteiga"
+  },
+  "10082": {
+    "it": "Patata, bollita, da patate fresche, con buccia consumata, preparata con margarina",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau consommée, préparée avec de la margarine",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel consumida, preparada con margarina",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale mitgegessen, mit Margarine zubereitet",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca consumida, preparada com margarina"
+  },
+  "10083": {
+    "it": "Patata, bollita, da patate fresche, con buccia consumata, preparata con olio",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau consommée, préparée avec de l'huile",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel consumida, preparada con aceite",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale mitgegessen, mit Öl zubereitet",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca consumida, preparada com óleo"
+  },
+  "10084": {
+    "it": "Patata, bollita, da patate fresche, con buccia consumata, senza grasso aggiunto",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau consommée, sans matière grasse ajoutée",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel consumida, sin grasa añadida",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale mitgegessen, ohne zugesetztes Fett",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca consumida, sem gordura adicionada"
+  },
+  "10085": {
+    "it": "Patata, bollita, da patate fresche, con buccia consumata, non specificato se con grasso",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau consommée, non précisé si avec matière grasse",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel consumida, sin especificar si con grasa",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale mitgegessen, nicht angegeben ob mit Fett",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca consumida, não especificado se com gordura"
+  },
+  "10086": {
+    "it": "Patata, bollita, da patate fresche, con buccia non consumata, con grasso aggiunto, tipo di grasso non specificato",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau non consommée, avec matière grasse ajoutée, type de matière grasse non précisé",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel no consumida, con grasa añadida, sin especificar el tipo de grasa",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale nicht mitgegessen, mit zugesetztem Fett, Fettart nicht angegeben",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca não consumida, com gordura adicionada, tipo de gordura não especificado"
+  },
+  "10087": {
+    "it": "Patata, bollita, da patate fresche, con buccia non consumata, preparata con burro",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau non consommée, préparée avec du beurre",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel no consumida, preparada con mantequilla",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale nicht mitgegessen, mit Butter zubereitet",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca não consumida, preparada com manteiga"
+  },
+  "10088": {
+    "it": "Patata, bollita, da patate fresche, con buccia non consumata, preparata con margarina",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau non consommée, préparée avec de la margarine",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel no consumida, preparada con margarina",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale nicht mitgegessen, mit Margarine zubereitet",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca não consumida, preparada com margarina"
+  },
+  "10089": {
+    "it": "Patata, bollita, da patate fresche, con buccia non consumata, preparata con olio",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau non consommée, préparée avec de l'huile",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel no consumida, preparada con aceite",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale nicht mitgegessen, mit Öl zubereitet",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca não consumida, preparada com óleo"
+  },
+  "10090": {
+    "it": "Patata, bollita, da patate fresche, con buccia non consumata, senza grasso aggiunto",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau non consommée, sans matière grasse ajoutée",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel no consumida, sin grasa añadida",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale nicht mitgegessen, ohne zugesetztes Fett",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca não consumida, sem gordura adicionada"
+  },
+  "10091": {
+    "it": "Patata, bollita, da patate fresche, con buccia non consumata, non specificato se con grasso",
+    "fr": "Pomme de terre, bouillie, à partir de pommes de terre fraîches, peau non consommée, non précisé si avec matière grasse",
+    "es": "Patata, hervida, a partir de patatas frescas, con piel no consumida, sin especificar si con grasa",
+    "de": "Kartoffel, gekocht, aus frischen Kartoffeln, Schale nicht mitgegessen, nicht angegeben ob mit Fett",
+    "pt": "Batata, cozida em água, a partir de batatas frescas, casca não consumida, não especificado se com gordura"
+  },
+  "10092": {
+    "it": "Patata, bollita, non specificato",
+    "fr": "Pomme de terre, bouillie, non spécifié",
+    "es": "Patata, hervida, no especificado",
+    "de": "Kartoffel, gekocht, nicht näher bezeichnet",
+    "pt": "Batata, cozida em água, não especificado"
+  },
+  "10093": {
+    "it": "Patata, bollita, pronta da riscaldare",
+    "fr": "Pomme de terre, bouillie, prête à réchauffer",
+    "es": "Patata, hervida, lista para calentar",
+    "de": "Kartoffel, gekocht, zum Erhitzen fertig",
+    "pt": "Batata, cozida em água, pronta para aquecer"
+  },
+  "10094": {
+    "it": "Patata, in scatola, con grasso aggiunto, tipo di grasso non specificato",
+    "fr": "Pomme de terre, en conserve, avec matière grasse ajoutée, type de matière grasse non précisé",
+    "es": "Patata, en conserva, con grasa añadida, sin especificar el tipo de grasa",
+    "de": "Kartoffel, aus der Dose, mit zugesetztem Fett, Fettart nicht angegeben",
+    "pt": "Batata, enlatada, com gordura adicionada, tipo de gordura não especificado"
+  },
+  "10095": {
+    "it": "Patata, in scatola, senza grasso aggiunto",
+    "fr": "Pomme de terre, en conserve, sans matière grasse ajoutée",
+    "es": "Patata, en conserva, sin grasa añadida",
+    "de": "Kartoffel, aus der Dose, ohne zugesetztes Fett",
+    "pt": "Batata, enlatada, sem gordura adicionada"
+  },
+  "10096": {
+    "it": "Patata, in scatola, non specificato se con grasso",
+    "fr": "Pomme de terre, en conserve, non précisé si avec matière grasse",
+    "es": "Patata, en conserva, sin especificar si con grasa",
+    "de": "Kartoffel, aus der Dose, nicht angegeben ob mit Fett",
+    "pt": "Batata, enlatada, não especificado se com gordura"
+  },
+  "10097": {
+    "it": "Patata, cotta, come ingrediente",
+    "fr": "Pomme de terre, cuite, comme ingrédient",
+    "es": "Patata, cocida, como ingrediente",
+    "de": "Kartoffel, gekocht, als Zutat",
+    "pt": "Batata, cozida, como ingrediente"
+  },
+  "10098": {
+    "it": "Patata, patatine fritte, fast food",
+    "fr": "Pomme de terre, frites, fast-food",
+    "es": "Patata, patatas fritas, comida rápida",
+    "de": "Kartoffel, Pommes frites, Fast Food",
+    "pt": "Batata, batatas fritas, fast food"
+  },
+  "10099": {
+    "it": "Patata, patatine fritte, da patate fresche, al forno",
+    "fr": "Pomme de terre, frites, à partir de pommes de terre fraîches, cuites au four",
+    "es": "Patata, patatas fritas, a partir de patatas frescas, al horno",
+    "de": "Kartoffel, Pommes frites, aus frischen Kartoffeln, gebacken",
+    "pt": "Batata, batatas fritas, a partir de batatas frescas, assadas no forno"
+  },
+  "10100": {
+    "it": "Patata, patatine fritte, da patate fresche, fritte",
+    "fr": "Pomme de terre, frites, à partir de pommes de terre fraîches, frites",
+    "es": "Patata, patatas fritas, a partir de patatas frescas, fritas",
+    "de": "Kartoffel, Pommes frites, aus frischen Kartoffeln, frittiert",
+    "pt": "Batata, batatas fritas, a partir de batatas frescas, fritas"
+  },
+  "10101": {
+    "it": "Patata, patatine fritte, da patate surgelate, al forno",
+    "fr": "Pomme de terre, frites, à partir de pommes de terre surgelées, cuites au four",
+    "es": "Patata, patatas fritas, a partir de patatas congeladas, al horno",
+    "de": "Kartoffel, Pommes frites, aus tiefgekühlten Kartoffeln, gebacken",
+    "pt": "Batata, batatas fritas, a partir de batatas congeladas, assadas no forno"
+  },
+  "10102": {
+    "it": "Patata, patatine fritte, da patate surgelate, fritte",
+    "fr": "Pomme de terre, frites, à partir de pommes de terre surgelées, frites",
+    "es": "Patata, patatas fritas, a partir de patatas congeladas, fritas",
+    "de": "Kartoffel, Pommes frites, aus tiefgekühlten Kartoffeln, frittiert",
+    "pt": "Batata, batatas fritas, a partir de batatas congeladas, fritas"
+  },
+  "10103": {
+    "it": "Patata, patatine fritte, non specificato",
+    "fr": "Pomme de terre, frites, non spécifié",
+    "es": "Patata, patatas fritas, no especificado",
+    "de": "Kartoffel, Pommes frites, nicht näher bezeichnet",
+    "pt": "Batata, batatas fritas, não especificado"
+  },
+  "10104": {
+    "it": "Patata, patatine fritte, non specificato se fresche o surgelate",
+    "fr": "Pomme de terre, frites, non précisé si fraîches ou surgelées",
+    "es": "Patata, patatas fritas, sin especificar si frescas o congeladas",
+    "de": "Kartoffel, Pommes frites, nicht angegeben ob frisch oder tiefgekühlt",
+    "pt": "Batata, batatas fritas, não especificado se frescas ou congeladas"
+  },
+  "10105": {
+    "it": "Patata, patatine fritte, da ristorante",
+    "fr": "Pomme de terre, frites, de restaurant",
+    "es": "Patata, patatas fritas, de restaurante",
+    "de": "Kartoffel, Pommes frites, aus dem Restaurant",
+    "pt": "Batata, batatas fritas, de restaurante"
+  },
+  "10106": {
+    "it": "Patata, patatine fritte, da mensa scolastica",
+    "fr": "Pomme de terre, frites, de cantine scolaire",
+    "es": "Patata, patatas fritas, de comedor escolar",
+    "de": "Kartoffel, Pommes frites, aus der Schulverpflegung",
+    "pt": "Batata, batatas fritas, de merenda escolar"
+  },
+  "10107": {
+    "it": "Patata, patatine fritte, con formaggio",
+    "fr": "Pomme de terre, frites, avec fromage",
+    "es": "Patata, patatas fritas, con queso",
+    "de": "Kartoffel, Pommes frites, mit Käse",
+    "pt": "Batata, batatas fritas, com queijo"
+  },
+  "10108": {
+    "it": "Patata, patatine fritte, con formaggio, fast food / da ristorante",
+    "fr": "Pomme de terre, frites, avec fromage, fast-food / de restaurant",
+    "es": "Patata, patatas fritas, con queso, comida rápida / de restaurante",
+    "de": "Kartoffel, Pommes frites, mit Käse, Fast Food / aus dem Restaurant",
+    "pt": "Batata, batatas fritas, com queijo, fast food / de restaurante"
+  },
+  "10109": {
+    "it": "Patata, patatine fritte, con formaggio, da mensa scolastica",
+    "fr": "Pomme de terre, frites, avec fromage, de cantine scolaire",
+    "es": "Patata, patatas fritas, con queso, de comedor escolar",
+    "de": "Kartoffel, Pommes frites, mit Käse, aus der Schulverpflegung",
+    "pt": "Batata, batatas fritas, com queijo, de merenda escolar"
+  },
+  "10110": {
+    "it": "Patata, patatine fritte, con chili",
+    "fr": "Pomme de terre, frites, au chili",
+    "es": "Patata, patatas fritas, con chile",
+    "de": "Kartoffel, Pommes frites, mit Chili",
+    "pt": "Batata, batatas fritas, com chili"
+  },
+  "10111": {
+    "it": "Patata, patatine fritte, con chili e formaggio",
+    "fr": "Pomme de terre, frites, au chili et au fromage",
+    "es": "Patata, patatas fritas, con chile y queso",
+    "de": "Kartoffel, Pommes frites, mit Chili und Käse",
+    "pt": "Batata, batatas fritas, com chili e queijo"
+  },
+  "10112": {
+    "it": "Patata, patatine fritte, con chili e formaggio, fast food / da ristorante",
+    "fr": "Pomme de terre, frites, au chili et au fromage, fast-food / de restaurant",
+    "es": "Patata, patatas fritas, con chile y queso, comida rápida / de restaurante",
+    "de": "Kartoffel, Pommes frites, mit Chili und Käse, Fast Food / aus dem Restaurant",
+    "pt": "Batata, batatas fritas, com chili e queijo, fast food / de restaurante"
+  },
+  "10113": {
+    "it": "Patata, patatine fritte, con chili, fast food / da ristorante",
+    "fr": "Pomme de terre, frites, au chili, fast-food / de restaurant",
+    "es": "Patata, patatas fritas, con chile, comida rápida / de restaurante",
+    "de": "Kartoffel, Pommes frites, mit Chili, Fast Food / aus dem Restaurant",
+    "pt": "Batata, batatas fritas, com chili, fast food / de restaurante"
+  },
+  "10114": {
+    "it": "Patata, hash brown, da preparato secco",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), à partir de préparation sèche",
+    "es": "Patata, hash brown (patata rallada frita), a partir de mezcla en polvo",
+    "de": "Kartoffel, Rösti (Hash Brown), aus Trockenmischung",
+    "pt": "Batata, hash brown, a partir de mistura em pó"
+  },
+  "10115": {
+    "it": "Patata, hash brown, da fast food",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), de fast-food",
+    "es": "Patata, hash brown (patata rallada frita), de comida rápida",
+    "de": "Kartoffel, Rösti (Hash Brown), aus dem Fast-Food-Restaurant",
+    "pt": "Batata, hash brown, de fast food"
+  },
+  "10116": {
+    "it": "Patata, hash brown, da fast food, con formaggio",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), de fast-food, avec fromage",
+    "es": "Patata, hash brown (patata rallada frita), de comida rápida, con queso",
+    "de": "Kartoffel, Rösti (Hash Brown), aus dem Fast-Food-Restaurant, mit Käse",
+    "pt": "Batata, hash brown, de fast food, com queijo"
+  },
+  "10117": {
+    "it": "Patata, hash brown, da patate fresche",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), à partir de pommes de terre fraîches",
+    "es": "Patata, hash brown (patata rallada frita), a partir de patatas frescas",
+    "de": "Kartoffel, Rösti (Hash Brown), aus frischen Kartoffeln",
+    "pt": "Batata, hash brown, a partir de batatas frescas"
+  },
+  "10118": {
+    "it": "Patata, hash brown, da patate fresche, con formaggio",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), à partir de pommes de terre fraîches, avec fromage",
+    "es": "Patata, hash brown (patata rallada frita), a partir de patatas frescas, con queso",
+    "de": "Kartoffel, Rösti (Hash Brown), aus frischen Kartoffeln, mit Käse",
+    "pt": "Batata, hash brown, a partir de batatas frescas, com queijo"
+  },
+  "10119": {
+    "it": "Patata, hash brown, da ristorante",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), de restaurant",
+    "es": "Patata, hash brown (patata rallada frita), de restaurante",
+    "de": "Kartoffel, Rösti (Hash Brown), aus dem Restaurant",
+    "pt": "Batata, hash brown, de restaurante"
+  },
+  "10120": {
+    "it": "Patata, hash brown, da ristorante, con formaggio",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), de restaurant, avec fromage",
+    "es": "Patata, hash brown (patata rallada frita), de restaurante, con queso",
+    "de": "Kartoffel, Rösti (Hash Brown), aus dem Restaurant, mit Käse",
+    "pt": "Batata, hash brown, de restaurante, com queijo"
+  },
+  "10121": {
+    "it": "Patata, hash brown, da mensa scolastica",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), de cantine scolaire",
+    "es": "Patata, hash brown (patata rallada frita), de comedor escolar",
+    "de": "Kartoffel, Rösti (Hash Brown), aus der Schulverpflegung",
+    "pt": "Batata, hash brown, de merenda escolar"
+  },
+  "10122": {
+    "it": "Patata, hash brown, non specificato",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), non spécifié",
+    "es": "Patata, hash brown (patata rallada frita), no especificado",
+    "de": "Kartoffel, Rösti (Hash Brown), nicht näher bezeichnet",
+    "pt": "Batata, hash brown, não especificado"
+  },
+  "10123": {
+    "it": "Patata, hash brown, pronto da riscaldare",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), prête à réchauffer",
+    "es": "Patata, hash brown (patata rallada frita), listo para calentar",
+    "de": "Kartoffel, Rösti (Hash Brown), zum Erhitzen fertig",
+    "pt": "Batata, hash brown, pronto para aquecer"
+  },
+  "10124": {
+    "it": "Patata, hash brown, pronto da riscaldare, con formaggio",
+    "fr": "Pomme de terre, galette de pommes de terre râpées (hash brown), prête à réchauffer, avec fromage",
+    "es": "Patata, hash brown (patata rallada frita), listo para calentar, con queso",
+    "de": "Kartoffel, Rösti (Hash Brown), zum Erhitzen fertig, mit Käse",
+    "pt": "Batata, hash brown, pronto para aquecer, com queijo"
+  },
+  "10125": {
+    "it": "Patata, patate saltate in padella (home fries), da patate fresche",
+    "fr": "Pomme de terre, pommes de terre sautées (home fries), à partir de pommes de terre fraîches",
+    "es": "Patata, patatas salteadas (home fries), a partir de patatas frescas",
+    "de": "Kartoffel, Bratkartoffeln (Home Fries), aus frischen Kartoffeln",
+    "pt": "Batata, batatas sautê (home fries), a partir de batatas frescas"
+  },
+  "10126": {
+    "it": "Patata, patate saltate in padella (home fries), da ristorante / fast food",
+    "fr": "Pomme de terre, pommes de terre sautées (home fries), de restaurant / fast-food",
+    "es": "Patata, patatas salteadas (home fries), de restaurante / comida rápida",
+    "de": "Kartoffel, Bratkartoffeln (Home Fries), aus dem Restaurant / Fast Food",
+    "pt": "Batata, batatas sautê (home fries), de restaurante / fast food"
+  },
+  "10127": {
+    "it": "Patata, patate saltate in padella (home fries), non specificato",
+    "fr": "Pomme de terre, pommes de terre sautées (home fries), non spécifié",
+    "es": "Patata, patatas salteadas (home fries), no especificado",
+    "de": "Kartoffel, Bratkartoffeln (Home Fries), nicht näher bezeichnet",
+    "pt": "Batata, batatas sautê (home fries), não especificado"
+  },
+  "10128": {
+    "it": "Patata, patate saltate in padella (home fries), pronte da riscaldare",
+    "fr": "Pomme de terre, pommes de terre sautées (home fries), prêtes à réchauffer",
+    "es": "Patata, patatas salteadas (home fries), listas para calentar",
+    "de": "Kartoffel, Bratkartoffeln (Home Fries), zum Erhitzen fertig",
+    "pt": "Batata, batatas sautê (home fries), prontas para aquecer"
+  },
+  "10129": {
+    "it": "Patata, patate saltate in padella (home fries), con verdure",
+    "fr": "Pomme de terre, pommes de terre sautées (home fries), avec légumes",
+    "es": "Patata, patatas salteadas (home fries), con verduras",
+    "de": "Kartoffel, Bratkartoffeln (Home Fries), mit Gemüse",
+    "pt": "Batata, batatas sautê (home fries), com legumes"
+  },
+  "10130": {
+    "it": "Patata, purè, da preparato secco, preparato con latte",
+    "fr": "Pomme de terre, purée, à partir de préparation sèche, préparée avec du lait",
+    "es": "Patata, puré, a partir de mezcla en polvo, preparado con leche",
+    "de": "Kartoffel, Püree, aus Trockenmischung, mit Milch zubereitet",
+    "pt": "Batata, purê, a partir de mistura em pó, preparado com leite"
+  },
+  "10131": {
+    "it": "Patata, purè, da preparato secco, preparato con latte, con formaggio",
+    "fr": "Pomme de terre, purée, à partir de préparation sèche, préparée avec du lait, avec fromage",
+    "es": "Patata, puré, a partir de mezcla en polvo, preparado con leche, con queso",
+    "de": "Kartoffel, Püree, aus Trockenmischung, mit Milch zubereitet, mit Käse",
+    "pt": "Batata, purê, a partir de mistura em pó, preparado com leite, com queijo"
+  }
+}
