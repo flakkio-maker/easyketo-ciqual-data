@@ -1,52 +1,702 @@
 {
- "4470":{"it":"Caffè istantaneo, già sbiancato e zuccherato con zucchero, non ricostituito","fr":"Café instantané, déjà blanchi et sucré avec du sucre, non reconstitué","es":"Café instantáneo, previamente aclarado y endulzado con azúcar, sin reconstituir","de":"Instantkaffee, bereits aufgehellt und mit Zucker gesüßt, nicht zubereitet","pt":"Café instantâneo, previamente clareado e adoçado com açúcar, não reconstituído"},
- "4471":{"it":"Caffè istantaneo, già sbiancato e zuccherato con zucchero, ricostituito","fr":"Café instantané, déjà blanchi et sucré avec du sucre, reconstitué","es":"Café instantáneo, previamente aclarado y endulzado con azúcar, reconstituido","de":"Instantkaffee, bereits aufgehellt und mit Zucker gesüßt, zubereitet","pt":"Café instantâneo, previamente clareado e adoçado com açúcar, reconstituído"},
- "4472":{"it":"Caffè istantaneo, già zuccherato con zucchero, non ricostituito","fr":"Café instantané, déjà sucré avec du sucre, non reconstitué","es":"Café instantáneo, previamente endulzado con azúcar, sin reconstituir","de":"Instantkaffee, bereits mit Zucker gesüßt, nicht zubereitet","pt":"Café instantâneo, previamente adoçado com açúcar, não reconstituído"},
- "4473":{"it":"Caffè istantaneo, già zuccherato con zucchero, ricostituito","fr":"Café instantané, déjà sucré avec du sucre, reconstitué","es":"Café instantáneo, previamente endulzado con azúcar, reconstituido","de":"Instantkaffee, bereits mit Zucker gesüßt, zubereitet","pt":"Café instantâneo, previamente adoçado com açúcar, reconstituído"},
- "4474":{"it":"Caffè istantaneo, ricostituito","fr":"Café instantané, reconstitué","es":"Café instantáneo, reconstituido","de":"Instantkaffee, zubereitet","pt":"Café instantâneo, reconstituído"},
- "4475":{"it":"Caffè latte","fr":"Café latte","es":"Café latte","de":"Caffè Latte","pt":"Café com leite (latte)"},
- "4476":{"it":"Caffè latte decaffeinato","fr":"Café latte décaféiné","es":"Café latte descafeinado","de":"Entkoffeinierter Caffè Latte","pt":"Café latte descafeinado"},
- "4477":{"it":"Caffè latte decaffeinato, aromatizzato","fr":"Café latte décaféiné, aromatisé","es":"Café latte descafeinado, aromatizado","de":"Entkoffeinierter Caffè Latte, aromatisiert","pt":"Café latte descafeinado, aromatizado"},
- "4478":{"it":"Caffè latte decaffeinato, con latte scremato","fr":"Café latte décaféiné, au lait écrémé","es":"Café latte descafeinado, con leche desnatada","de":"Entkoffeinierter Caffè Latte mit Magermilch","pt":"Café latte descafeinado, com leite desnatado"},
- "4479":{"it":"Caffè latte decaffeinato, con latte scremato, aromatizzato","fr":"Café latte décaféiné, au lait écrémé, aromatisé","es":"Café latte descafeinado, con leche desnatada, aromatizado","de":"Entkoffeinierter Caffè Latte mit Magermilch, aromatisiert","pt":"Café latte descafeinado, com leite desnatado, aromatizado"},
- "4480":{"it":"Caffè latte decaffeinato, con bevanda vegetale","fr":"Café latte décaféiné, avec une boisson végétale","es":"Café latte descafeinado, con bebida vegetal","de":"Entkoffeinierter Caffè Latte mit Pflanzendrink","pt":"Café latte descafeinado, com bebida vegetal"},
- "4481":{"it":"Caffè latte decaffeinato, con bevanda vegetale, aromatizzato","fr":"Café latte décaféiné, avec une boisson végétale, aromatisé","es":"Café latte descafeinado, con bebida vegetal, aromatizado","de":"Entkoffeinierter Caffè Latte mit Pflanzendrink, aromatisiert","pt":"Café latte descafeinado, com bebida vegetal, aromatizado"},
- "4482":{"it":"Caffè latte, aromatizzato","fr":"Café latte, aromatisé","es":"Café latte, aromatizado","de":"Caffè Latte, aromatisiert","pt":"Café latte, aromatizado"},
- "4483":{"it":"Caffè latte, con latte scremato","fr":"Café latte, au lait écrémé","es":"Café latte, con leche desnatada","de":"Caffè Latte mit Magermilch","pt":"Café latte, com leite desnatado"},
- "4484":{"it":"Caffè latte, con latte scremato, aromatizzato","fr":"Café latte, au lait écrémé, aromatisé","es":"Café latte, con leche desnatada, aromatizado","de":"Caffè Latte mit Magermilch, aromatisiert","pt":"Café latte, com leite desnatado, aromatizado"},
- "4485":{"it":"Caffè latte, con bevanda vegetale","fr":"Café latte, avec une boisson végétale","es":"Café latte, con bebida vegetal","de":"Caffè Latte mit Pflanzendrink","pt":"Café latte, com bebida vegetal"},
- "4486":{"it":"Caffè latte, con bevanda vegetale, aromatizzato","fr":"Café latte, avec une boisson végétale, aromatisé","es":"Café latte, con bebida vegetal, aromatizado","de":"Caffè Latte mit Pflanzendrink, aromatisiert","pt":"Café latte, com bebida vegetal, aromatizado"},
- "4487":{"it":"Caffè macchiato","fr":"Café macchiato","es":"Café macchiato","de":"Caffè Macchiato","pt":"Café macchiato"},
- "4488":{"it":"Caffè macchiato, zuccherato","fr":"Café macchiato, sucré","es":"Café macchiato, endulzado","de":"Caffè Macchiato, gesüßt","pt":"Café macchiato, adoçado"},
- "4489":{"it":"Caffè moka istantaneo, già sbiancato e dolcificato con edulcorante ipocalorico, ricostituito","fr":"Café moka instantané, déjà blanchi et édulcoré avec un édulcorant hypocalorique, reconstitué","es":"Café moca instantáneo, previamente aclarado y endulzado con edulcorante bajo en calorías, reconstituido","de":"Instant-Mokka, bereits aufgehellt und mit kalorienarmem Süßungsmittel gesüßt, zubereitet","pt":"Café mocha instantâneo, previamente clareado e adoçado com edulcorante de baixa caloria, reconstituído"},
- "4490":{"it":"Caffè, non specificato se preparato o istantaneo","fr":"Café, sans précision sur le mode de préparation ou instantané","es":"Café, sin especificar si es preparado o instantáneo","de":"Kaffee, nicht angegeben, ob gebrüht oder instant","pt":"Café, sem especificação se coado ou instantâneo"},
- "4491":{"it":"Caffè decaffeinato, non specificato se preparato o istantaneo","fr":"Café décaféiné, sans précision sur le mode de préparation ou instantané","es":"Café descafeinado, sin especificar si es preparado o instantáneo","de":"Entkoffeinierter Kaffee, nicht angegeben, ob gebrüht oder instant","pt":"Café descafeinado, sem especificação se coado ou instantâneo"},
- "4492":{"it":"Caffè, tipo non specificato","fr":"Café, type non précisé","es":"Café, tipo no especificado","de":"Kaffee, Art nicht angegeben","pt":"Café, tipo não especificado"},
- "4493":{"it":"Caffè, con aggiunta di sbiancante","fr":"Café, avec agent blanchissant ajouté","es":"Café, con blanqueador añadido","de":"Kaffee, mit Kaffeeweißer","pt":"Café, com branqueador adicionado"},
- "4494":{"it":"Caffè, con aggiunta di sbiancante e dolcificato con edulcorante ipocalorico","fr":"Café, avec agent blanchissant ajouté et édulcoré avec un édulcorant hypocalorique","es":"Café, con blanqueador añadido y endulzado con edulcorante bajo en calorías","de":"Kaffee, mit Kaffeeweißer und kalorienarmem Süßungsmittel","pt":"Café, com branqueador adicionado e adoçado com edulcorante de baixa caloria"},
- "4495":{"it":"Caffè, con aggiunta di sbiancante e zucchero","fr":"Café, avec agent blanchissant ajouté et sucre","es":"Café, con blanqueador añadido y azúcar","de":"Kaffee, mit Kaffeeweißer und Zucker","pt":"Café, com branqueador adicionado e açúcar"},
- "4496":{"it":"Caffè, dolcificato con edulcorante ipocalorico","fr":"Café, édulcoré avec un édulcorant hypocalorique","es":"Café, endulzado con edulcorante bajo en calorías","de":"Kaffee, mit kalorienarmem Süßungsmittel gesüßt","pt":"Café, adoçado com edulcorante de baixa caloria"},
- "4497":{"it":"Caffè, zuccherato","fr":"Café, sucré","es":"Café, azucarado","de":"Kaffee, mit Zucker gesüßt","pt":"Café, adoçado com açúcar"},
- "4498":{"it":"Caffè turco","fr":"Café turc","es":"Café turco","de":"Türkischer Kaffee","pt":"Café turco"},
- "4499":{"it":"Insalata di cavolo cappuccio (coleslaw)","fr":"Salade de chou (coleslaw)","es":"Ensalada de col (coleslaw)","de":"Krautsalat (Coleslaw)","pt":"Salada de repolho (coleslaw)"},
- "4500":{"it":"Condimento per insalata di cavolo (coleslaw)","fr":"Sauce pour salade de chou (coleslaw)","es":"Aderezo para ensalada de col (coleslaw)","de":"Dressing für Krautsalat","pt":"Molho para salada de repolho (coleslaw)"},
- "4501":{"it":"Insalata di cavolo (coleslaw), da fast food o ristorante","fr":"Salade de chou (coleslaw), de restauration rapide ou de restaurant","es":"Ensalada de col (coleslaw), de comida rápida o restaurante","de":"Krautsalat (Coleslaw), aus Fast-Food-Restaurant oder Restaurant","pt":"Salada de repolho (coleslaw), de fast-food ou restaurante"},
- "4502":{"it":"Insalata di cavolo (coleslaw), con frutta","fr":"Salade de chou (coleslaw), avec des fruits","es":"Ensalada de col (coleslaw), con fruta","de":"Krautsalat (Coleslaw), mit Obst","pt":"Salada de repolho (coleslaw), com frutas"},
- "4503":{"it":"Cavolo da foglia, cotto, bollito, sgocciolato, con sale","fr":"Chou cavalier, cuit, bouilli, égoutté, avec sel","es":"Col berza, cocida, hervida, escurrida, con sal","de":"Blattkohl, gekocht, abgekocht, abgetropft, mit Salz","pt":"Couve-manteiga, cozida, fervida, escorrida, com sal"},
- "4504":{"it":"Cavolo da foglia, cotto, bollito, sgocciolato, senza sale","fr":"Chou cavalier, cuit, bouilli, égoutté, sans sel","es":"Col berza, cocida, hervida, escurrida, sin sal","de":"Blattkohl, gekocht, abgekocht, abgetropft, ohne Salz","pt":"Couve-manteiga, cozida, fervida, escorrida, sem sal"},
- "4505":{"it":"Cavolo da foglia fresco, cotto con burro o margarina","fr":"Chou cavalier frais, cuit avec du beurre ou de la margarine","es":"Col berza fresca, cocida con mantequilla o margarina","de":"Frischer Blattkohl, mit Butter oder Margarine gegart","pt":"Couve-manteiga fresca, cozida com manteiga ou margarina"},
- "4506":{"it":"Cavolo da foglia fresco, cotto con olio","fr":"Chou cavalier frais, cuit avec de l'huile","es":"Col berza fresca, cocida con aceite","de":"Frischer Blattkohl, mit Öl gegart","pt":"Couve-manteiga fresca, cozida com óleo"},
- "4507":{"it":"Cavolo da foglia fresco, cotto con grassi aggiunti, tipo di grasso non specificato","fr":"Chou cavalier frais, cuit avec ajout de matières grasses, type non précisé","es":"Col berza fresca, cocida con grasa añadida, tipo de grasa no especificado","de":"Frischer Blattkohl, mit zugesetztem Fett gegart, Fettart nicht angegeben","pt":"Couve-manteiga fresca, cozida com gordura adicionada, tipo de gordura não especificado"},
- "4508":{"it":"Cavolo da foglia fresco, cotto senza grassi aggiunti","fr":"Chou cavalier frais, cuit sans ajout de matières grasses","es":"Col berza fresca, cocida sin grasa añadida","de":"Frischer Blattkohl, ohne zusätzliches Fett gegart","pt":"Couve-manteiga fresca, cozida sem gordura adicionada"},
- "4509":{"it":"Cavolo da foglia surgelato, tritato, cotto, bollito, sgocciolato, con sale","fr":"Chou cavalier surgelé, haché, cuit, bouilli, égoutté, avec sel","es":"Col berza congelada, picada, cocida, hervida, escurrida, con sal","de":"Tiefgekühlter, gehackter Blattkohl, gekocht, abgekocht, abgetropft, mit Salz","pt":"Couve-manteiga congelada, picada, cozida, fervida, escorrida, com sal"},
- "4510":{"it":"Cavolo da foglia surgelato, tritato, cotto, bollito, sgocciolato, senza sale","fr":"Chou cavalier surgelé, haché, cuit, bouilli, égoutté, sans sel","es":"Col berza congelada, picada, cocida, hervida, escurrida, sin sal","de":"Tiefgekühlter, gehackter Blattkohl, gekocht, abgekocht, abgetropft, ohne Salz","pt":"Couve-manteiga congelada, picada, cozida, fervida, escorrida, sem sal"},
- "4511":{"it":"Cavolo da foglia surgelato, tritato, non preparato","fr":"Chou cavalier surgelé, haché, non préparé","es":"Col berza congelada, picada, sin preparar","de":"Tiefgekühlter, gehackter Blattkohl, unzubereitet","pt":"Couve-manteiga congelada, picada, não preparada"},
- "4512":{"it":"Cavolo da foglia surgelato, cotto con burro o margarina","fr":"Chou cavalier surgelé, cuit avec du beurre ou de la margarine","es":"Col berza congelada, cocida con mantequilla o margarina","de":"Tiefgekühlter Blattkohl, mit Butter oder Margarine gegart","pt":"Couve-manteiga congelada, cozida com manteiga ou margarina"},
- "4513":{"it":"Cavolo da foglia surgelato, cotto con olio","fr":"Chou cavalier surgelé, cuit avec de l'huile","es":"Col berza congelada, cocida con aceite","de":"Tiefgekühlter Blattkohl, mit Öl gegart","pt":"Couve-manteiga congelada, cozida com óleo"},
- "4514":{"it":"Cavolo da foglia surgelato, cotto con grassi aggiunti, tipo di grasso non specificato","fr":"Chou cavalier surgelé, cuit avec ajout de matières grasses, type non précisé","es":"Col berza congelada, cocida con grasa añadida, tipo de grasa no especificado","de":"Tiefgekühlter Blattkohl, mit zugesetztem Fett gegart, Fettart nicht angegeben","pt":"Couve-manteiga congelada, cozida com gordura adicionada, tipo de gordura não especificado"},
- "4515":{"it":"Cavolo da foglia surgelato, cotto senza grassi aggiunti","fr":"Chou cavalier surgelé, cuit sans ajout de matières grasses","es":"Col berza congelada, cocida sin grasa añadida","de":"Tiefgekühlter Blattkohl, ohne zusätzliches Fett gegart","pt":"Couve-manteiga congelada, cozida sem gordura adicionada"},
- "4516":{"it":"Cavolo da foglia, cotto, forma non specificata","fr":"Chou cavalier, cuit, forme non précisée","es":"Col berza, cocida, forma no especificada","de":"Blattkohl, gegart, Form nicht angegeben","pt":"Couve-manteiga, cozida, forma não especificada"},
- "4517":{"it":"Cavolo da foglia, crudo","fr":"Chou cavalier, cru","es":"Col berza, cruda","de":"Blattkohl, roh","pt":"Couve-manteiga, crua"},
- "4518":{"it":"Congee (porridge di riso)","fr":"Congee (bouillie de riz)","es":"Congee (gachas de arroz)","de":"Congee (Reisbrei)","pt":"Congee (mingau de arroz)"},
- "4519":{"it":"Congee (porridge di riso), con uovo","fr":"Congee (bouillie de riz), avec œuf","es":"Congee (gachas de arroz), con huevo","de":"Congee (Reisbrei), mit Ei","pt":"Congee (mingau de arroz), com ovo"}
+ "4470": {
+  "it": "Caffè istantaneo, già sbiancato e zuccherato con zucchero, non ricostituito",
+  "fr": "Café instantané, déjà blanchi et sucré avec du sucre, non reconstitué",
+  "es": "Café instantáneo, previamente aclarado y endulzado con azúcar, sin reconstituir",
+  "de": "Instantkaffee, bereits aufgehellt und mit Zucker gesüßt, nicht zubereitet",
+  "pt": "Café instantâneo, previamente clareado e adoçado com açúcar, não reconstituído"
+ },
+ "4471": {
+  "it": "Caffè istantaneo, già sbiancato e zuccherato con zucchero, ricostituito",
+  "fr": "Café instantané, déjà blanchi et sucré avec du sucre, reconstitué",
+  "es": "Café instantáneo, previamente aclarado y endulzado con azúcar, reconstituido",
+  "de": "Instantkaffee, bereits aufgehellt und mit Zucker gesüßt, zubereitet",
+  "pt": "Café instantâneo, previamente clareado e adoçado com açúcar, reconstituído"
+ },
+ "4472": {
+  "it": "Caffè istantaneo, già zuccherato con zucchero, non ricostituito",
+  "fr": "Café instantané, déjà sucré avec du sucre, non reconstitué",
+  "es": "Café instantáneo, previamente endulzado con azúcar, sin reconstituir",
+  "de": "Instantkaffee, bereits mit Zucker gesüßt, nicht zubereitet",
+  "pt": "Café instantâneo, previamente adoçado com açúcar, não reconstituído"
+ },
+ "4473": {
+  "it": "Caffè istantaneo, già zuccherato con zucchero, ricostituito",
+  "fr": "Café instantané, déjà sucré avec du sucre, reconstitué",
+  "es": "Café instantáneo, previamente endulzado con azúcar, reconstituido",
+  "de": "Instantkaffee, bereits mit Zucker gesüßt, zubereitet",
+  "pt": "Café instantâneo, previamente adoçado com açúcar, reconstituído"
+ },
+ "4474": {
+  "it": "Caffè istantaneo, ricostituito",
+  "fr": "Café instantané, reconstitué",
+  "es": "Café instantáneo, reconstituido",
+  "de": "Instantkaffee, zubereitet",
+  "pt": "Café instantâneo, reconstituído"
+ },
+ "4475": {
+  "it": "Caffè latte",
+  "fr": "Café latte",
+  "es": "Café latte",
+  "de": "Caffè Latte",
+  "pt": "Café com leite (latte)"
+ },
+ "4476": {
+  "it": "Caffè latte decaffeinato",
+  "fr": "Café latte décaféiné",
+  "es": "Café latte descafeinado",
+  "de": "Entkoffeinierter Caffè Latte",
+  "pt": "Café latte descafeinado"
+ },
+ "4477": {
+  "it": "Caffè latte decaffeinato, aromatizzato",
+  "fr": "Café latte décaféiné, aromatisé",
+  "es": "Café latte descafeinado, aromatizado",
+  "de": "Entkoffeinierter Caffè Latte, aromatisiert",
+  "pt": "Café latte descafeinado, aromatizado"
+ },
+ "4478": {
+  "it": "Caffè latte decaffeinato, con latte scremato",
+  "fr": "Café latte décaféiné, au lait écrémé",
+  "es": "Café latte descafeinado, con leche desnatada",
+  "de": "Entkoffeinierter Caffè Latte mit Magermilch",
+  "pt": "Café latte descafeinado, com leite desnatado"
+ },
+ "4479": {
+  "it": "Caffè latte decaffeinato, con latte scremato, aromatizzato",
+  "fr": "Café latte décaféiné, au lait écrémé, aromatisé",
+  "es": "Café latte descafeinado, con leche desnatada, aromatizado",
+  "de": "Entkoffeinierter Caffè Latte mit Magermilch, aromatisiert",
+  "pt": "Café latte descafeinado, com leite desnatado, aromatizado"
+ },
+ "4480": {
+  "it": "Caffè latte decaffeinato, con bevanda vegetale",
+  "fr": "Café latte décaféiné, avec une boisson végétale",
+  "es": "Café latte descafeinado, con bebida vegetal",
+  "de": "Entkoffeinierter Caffè Latte mit Pflanzendrink",
+  "pt": "Café latte descafeinado, com bebida vegetal"
+ },
+ "4481": {
+  "it": "Caffè latte decaffeinato, con bevanda vegetale, aromatizzato",
+  "fr": "Café latte décaféiné, avec une boisson végétale, aromatisé",
+  "es": "Café latte descafeinado, con bebida vegetal, aromatizado",
+  "de": "Entkoffeinierter Caffè Latte mit Pflanzendrink, aromatisiert",
+  "pt": "Café latte descafeinado, com bebida vegetal, aromatizado"
+ },
+ "4482": {
+  "it": "Caffè latte, aromatizzato",
+  "fr": "Café latte, aromatisé",
+  "es": "Café latte, aromatizado",
+  "de": "Caffè Latte, aromatisiert",
+  "pt": "Café latte, aromatizado"
+ },
+ "4483": {
+  "it": "Caffè latte, con latte scremato",
+  "fr": "Café latte, au lait écrémé",
+  "es": "Café latte, con leche desnatada",
+  "de": "Caffè Latte mit Magermilch",
+  "pt": "Café latte, com leite desnatado"
+ },
+ "4484": {
+  "it": "Caffè latte, con latte scremato, aromatizzato",
+  "fr": "Café latte, au lait écrémé, aromatisé",
+  "es": "Café latte, con leche desnatada, aromatizado",
+  "de": "Caffè Latte mit Magermilch, aromatisiert",
+  "pt": "Café latte, com leite desnatado, aromatizado"
+ },
+ "4485": {
+  "it": "Caffè latte, con bevanda vegetale",
+  "fr": "Café latte, avec une boisson végétale",
+  "es": "Café latte, con bebida vegetal",
+  "de": "Caffè Latte mit Pflanzendrink",
+  "pt": "Café latte, com bebida vegetal"
+ },
+ "4486": {
+  "it": "Caffè latte, con bevanda vegetale, aromatizzato",
+  "fr": "Café latte, avec une boisson végétale, aromatisé",
+  "es": "Café latte, con bebida vegetal, aromatizado",
+  "de": "Caffè Latte mit Pflanzendrink, aromatisiert",
+  "pt": "Café latte, com bebida vegetal, aromatizado"
+ },
+ "4487": {
+  "it": "Caffè macchiato",
+  "fr": "Café macchiato",
+  "es": "Café macchiato",
+  "de": "Caffè Macchiato",
+  "pt": "Café macchiato"
+ },
+ "4488": {
+  "it": "Caffè macchiato, zuccherato",
+  "fr": "Café macchiato, sucré",
+  "es": "Café macchiato, endulzado",
+  "de": "Caffè Macchiato, gesüßt",
+  "pt": "Café macchiato, adoçado"
+ },
+ "4489": {
+  "it": "Caffè moka istantaneo, già sbiancato e dolcificato con edulcorante ipocalorico, ricostituito",
+  "fr": "Café moka instantané, déjà blanchi et édulcoré avec un édulcorant hypocalorique, reconstitué",
+  "es": "Café moca instantáneo, previamente aclarado y endulzado con edulcorante bajo en calorías, reconstituido",
+  "de": "Instant-Mokka, bereits aufgehellt und mit kalorienarmem Süßungsmittel gesüßt, zubereitet",
+  "pt": "Café mocha instantâneo, previamente clareado e adoçado com edulcorante de baixa caloria, reconstituído"
+ },
+ "4490": {
+  "it": "Caffè, non specificato se preparato o istantaneo",
+  "fr": "Café, sans précision sur le mode de préparation ou instantané",
+  "es": "Café, sin especificar si es preparado o instantáneo",
+  "de": "Kaffee, nicht angegeben, ob gebrüht oder instant",
+  "pt": "Café, sem especificação se coado ou instantâneo"
+ },
+ "4491": {
+  "it": "Caffè decaffeinato, non specificato se preparato o istantaneo",
+  "fr": "Café décaféiné, sans précision sur le mode de préparation ou instantané",
+  "es": "Café descafeinado, sin especificar si es preparado o instantáneo",
+  "de": "Entkoffeinierter Kaffee, nicht angegeben, ob gebrüht oder instant",
+  "pt": "Café descafeinado, sem especificação se coado ou instantâneo"
+ },
+ "4492": {
+  "it": "Caffè, tipo non specificato",
+  "fr": "Café, type non précisé",
+  "es": "Café, tipo no especificado",
+  "de": "Kaffee, Art nicht angegeben",
+  "pt": "Café, tipo não especificado"
+ },
+ "4493": {
+  "it": "Caffè, con aggiunta di sbiancante",
+  "fr": "Café, avec agent blanchissant ajouté",
+  "es": "Café, con blanqueador añadido",
+  "de": "Kaffee, mit Kaffeeweißer",
+  "pt": "Café, com branqueador adicionado"
+ },
+ "4494": {
+  "it": "Caffè, con aggiunta di sbiancante e dolcificato con edulcorante ipocalorico",
+  "fr": "Café, avec agent blanchissant ajouté et édulcoré avec un édulcorant hypocalorique",
+  "es": "Café, con blanqueador añadido y endulzado con edulcorante bajo en calorías",
+  "de": "Kaffee, mit Kaffeeweißer und kalorienarmem Süßungsmittel",
+  "pt": "Café, com branqueador adicionado e adoçado com edulcorante de baixa caloria"
+ },
+ "4495": {
+  "it": "Caffè, con aggiunta di sbiancante e zucchero",
+  "fr": "Café, avec agent blanchissant ajouté et sucre",
+  "es": "Café, con blanqueador añadido y azúcar",
+  "de": "Kaffee, mit Kaffeeweißer und Zucker",
+  "pt": "Café, com branqueador adicionado e açúcar"
+ },
+ "4496": {
+  "it": "Caffè, dolcificato con edulcorante ipocalorico",
+  "fr": "Café, édulcoré avec un édulcorant hypocalorique",
+  "es": "Café, endulzado con edulcorante bajo en calorías",
+  "de": "Kaffee, mit kalorienarmem Süßungsmittel gesüßt",
+  "pt": "Café, adoçado com edulcorante de baixa caloria"
+ },
+ "4497": {
+  "it": "Caffè, zuccherato",
+  "fr": "Café, sucré",
+  "es": "Café, azucarado",
+  "de": "Kaffee, mit Zucker gesüßt",
+  "pt": "Café, adoçado com açúcar"
+ },
+ "4498": {
+  "it": "Caffè turco",
+  "fr": "Café turc",
+  "es": "Café turco",
+  "de": "Türkischer Kaffee",
+  "pt": "Café turco"
+ },
+ "4499": {
+  "it": "Insalata di cavolo cappuccio (coleslaw)",
+  "fr": "Salade de chou (coleslaw)",
+  "es": "Ensalada de col (coleslaw)",
+  "de": "Krautsalat (Coleslaw)",
+  "pt": "Salada de repolho (coleslaw)"
+ },
+ "4500": {
+  "it": "Condimento per insalata di cavolo (coleslaw)",
+  "fr": "Sauce pour salade de chou (coleslaw)",
+  "es": "Aderezo para ensalada de col (coleslaw)",
+  "de": "Dressing für Krautsalat",
+  "pt": "Molho para salada de repolho (coleslaw)"
+ },
+ "4501": {
+  "it": "Insalata di cavolo (coleslaw), da fast food o ristorante",
+  "fr": "Salade de chou (coleslaw), de restauration rapide ou de restaurant",
+  "es": "Ensalada de col (coleslaw), de comida rápida o restaurante",
+  "de": "Krautsalat (Coleslaw), aus Fast-Food-Restaurant oder Restaurant",
+  "pt": "Salada de repolho (coleslaw), de fast-food ou restaurante"
+ },
+ "4502": {
+  "it": "Insalata di cavolo (coleslaw), con frutta",
+  "fr": "Salade de chou (coleslaw), avec des fruits",
+  "es": "Ensalada de col (coleslaw), con fruta",
+  "de": "Krautsalat (Coleslaw), mit Obst",
+  "pt": "Salada de repolho (coleslaw), com frutas"
+ },
+ "4503": {
+  "it": "Cavolo da foglia, cotto, bollito, sgocciolato, con sale",
+  "fr": "Chou cavalier, cuit, bouilli, égoutté, avec sel",
+  "es": "Col berza, cocida, hervida, escurrida, con sal",
+  "de": "Blattkohl, gekocht, abgekocht, abgetropft, mit Salz",
+  "pt": "Couve-manteiga, cozida, fervida, escorrida, com sal"
+ },
+ "4504": {
+  "it": "Cavolo da foglia, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chou cavalier, cuit, bouilli, égoutté, sans sel",
+  "es": "Col berza, cocida, hervida, escurrida, sin sal",
+  "de": "Blattkohl, gekocht, abgekocht, abgetropft, ohne Salz",
+  "pt": "Couve-manteiga, cozida, fervida, escorrida, sem sal"
+ },
+ "4505": {
+  "it": "Cavolo da foglia fresco, cotto con burro o margarina",
+  "fr": "Chou cavalier frais, cuit avec du beurre ou de la margarine",
+  "es": "Col berza fresca, cocida con mantequilla o margarina",
+  "de": "Frischer Blattkohl, mit Butter oder Margarine gegart",
+  "pt": "Couve-manteiga fresca, cozida com manteiga ou margarina"
+ },
+ "4506": {
+  "it": "Cavolo da foglia fresco, cotto con olio",
+  "fr": "Chou cavalier frais, cuit avec de l'huile",
+  "es": "Col berza fresca, cocida con aceite",
+  "de": "Frischer Blattkohl, mit Öl gegart",
+  "pt": "Couve-manteiga fresca, cozida com óleo"
+ },
+ "4507": {
+  "it": "Cavolo da foglia fresco, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Chou cavalier frais, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Col berza fresca, cocida con grasa añadida, tipo de grasa no especificado",
+  "de": "Frischer Blattkohl, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Couve-manteiga fresca, cozida com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4508": {
+  "it": "Cavolo da foglia fresco, cotto senza grassi aggiunti",
+  "fr": "Chou cavalier frais, cuit sans ajout de matières grasses",
+  "es": "Col berza fresca, cocida sin grasa añadida",
+  "de": "Frischer Blattkohl, ohne zusätzliches Fett gegart",
+  "pt": "Couve-manteiga fresca, cozida sem gordura adicionada"
+ },
+ "4509": {
+  "it": "Cavolo da foglia surgelato, tritato, cotto, bollito, sgocciolato, con sale",
+  "fr": "Chou cavalier surgelé, haché, cuit, bouilli, égoutté, avec sel",
+  "es": "Col berza congelada, picada, cocida, hervida, escurrida, con sal",
+  "de": "Tiefgekühlter, gehackter Blattkohl, gekocht, abgekocht, abgetropft, mit Salz",
+  "pt": "Couve-manteiga congelada, picada, cozida, fervida, escorrida, com sal"
+ },
+ "4510": {
+  "it": "Cavolo da foglia surgelato, tritato, cotto, bollito, sgocciolato, senza sale",
+  "fr": "Chou cavalier surgelé, haché, cuit, bouilli, égoutté, sans sel",
+  "es": "Col berza congelada, picada, cocida, hervida, escurrida, sin sal",
+  "de": "Tiefgekühlter, gehackter Blattkohl, gekocht, abgekocht, abgetropft, ohne Salz",
+  "pt": "Couve-manteiga congelada, picada, cozida, fervida, escorrida, sem sal"
+ },
+ "4511": {
+  "it": "Cavolo da foglia surgelato, tritato, non preparato",
+  "fr": "Chou cavalier surgelé, haché, non préparé",
+  "es": "Col berza congelada, picada, sin preparar",
+  "de": "Tiefgekühlter, gehackter Blattkohl, unzubereitet",
+  "pt": "Couve-manteiga congelada, picada, não preparada"
+ },
+ "4512": {
+  "it": "Cavolo da foglia surgelato, cotto con burro o margarina",
+  "fr": "Chou cavalier surgelé, cuit avec du beurre ou de la margarine",
+  "es": "Col berza congelada, cocida con mantequilla o margarina",
+  "de": "Tiefgekühlter Blattkohl, mit Butter oder Margarine gegart",
+  "pt": "Couve-manteiga congelada, cozida com manteiga ou margarina"
+ },
+ "4513": {
+  "it": "Cavolo da foglia surgelato, cotto con olio",
+  "fr": "Chou cavalier surgelé, cuit avec de l'huile",
+  "es": "Col berza congelada, cocida con aceite",
+  "de": "Tiefgekühlter Blattkohl, mit Öl gegart",
+  "pt": "Couve-manteiga congelada, cozida com óleo"
+ },
+ "4514": {
+  "it": "Cavolo da foglia surgelato, cotto con grassi aggiunti, tipo di grasso non specificato",
+  "fr": "Chou cavalier surgelé, cuit avec ajout de matières grasses, type non précisé",
+  "es": "Col berza congelada, cocida con grasa añadida, tipo de grasa no especificado",
+  "de": "Tiefgekühlter Blattkohl, mit zugesetztem Fett gegart, Fettart nicht angegeben",
+  "pt": "Couve-manteiga congelada, cozida com gordura adicionada, tipo de gordura não especificado"
+ },
+ "4515": {
+  "it": "Cavolo da foglia surgelato, cotto senza grassi aggiunti",
+  "fr": "Chou cavalier surgelé, cuit sans ajout de matières grasses",
+  "es": "Col berza congelada, cocida sin grasa añadida",
+  "de": "Tiefgekühlter Blattkohl, ohne zusätzliches Fett gegart",
+  "pt": "Couve-manteiga congelada, cozida sem gordura adicionada"
+ },
+ "4516": {
+  "it": "Cavolo da foglia, cotto, forma non specificata",
+  "fr": "Chou cavalier, cuit, forme non précisée",
+  "es": "Col berza, cocida, forma no especificada",
+  "de": "Blattkohl, gegart, Form nicht angegeben",
+  "pt": "Couve-manteiga, cozida, forma não especificada"
+ },
+ "4517": {
+  "it": "Cavolo da foglia, crudo",
+  "fr": "Chou cavalier, cru",
+  "es": "Col berza, cruda",
+  "de": "Blattkohl, roh",
+  "pt": "Couve-manteiga, crua"
+ },
+ "4518": {
+  "it": "Congee (porridge di riso)",
+  "fr": "Congee (bouillie de riz)",
+  "es": "Congee (gachas de arroz)",
+  "de": "Congee (Reisbrei)",
+  "pt": "Congee (mingau de arroz)"
+ },
+ "4519": {
+  "it": "Congee (porridge di riso), con uovo",
+  "fr": "Congee (bouillie de riz), avec œuf",
+  "es": "Congee (gachas de arroz), con huevo",
+  "de": "Congee (Reisbrei), mit Ei",
+  "pt": "Congee (mingau de arroz), com ovo"
+ },
+ "4520": {
+  "it": "Congee (porridge di riso), con carne, pollame e/o frutti di mare",
+  "fr": "Congee (bouillie de riz), avec viande, volaille et/ou fruits de mer",
+  "es": "Congee (gachas de arroz), con carne, aves y/o mariscos",
+  "de": "Congee (Reisbrei), mit Fleisch, Geflügel und/oder Meeresfrüchten",
+  "pt": "Congee (mingau de arroz), com carne, aves e/ou frutos do mar"
+ },
+ "4521": {
+  "it": "Congee (porridge di riso), con carne, pollame e/o frutti di mare e verdure",
+  "fr": "Congee (bouillie de riz), avec viande, volaille et/ou fruits de mer et légumes",
+  "es": "Congee (gachas de arroz), con carne, aves y/o mariscos y verduras",
+  "de": "Congee (Reisbrei), mit Fleisch, Geflügel und/oder Meeresfrüchten und Gemüse",
+  "pt": "Congee (mingau de arroz), com carne, aves e/ou frutos do mar e vegetais"
+ },
+ "4522": {
+  "it": "Congee (porridge di riso), con verdure",
+  "fr": "Congee (bouillie de riz), avec légumes",
+  "es": "Congee (gachas de arroz), con verduras",
+  "de": "Congee (Reisbrei), mit Gemüse",
+  "pt": "Congee (mingau de arroz), com vegetais"
+ },
+ "4523": {
+  "it": "Continental Mills, miscela per muffin Krusteaz alle mandorle e semi di papavero, aromatizzata artificialmente, secca",
+  "fr": "Continental Mills, préparation pour muffins Krusteaz aux amandes et graines de pavot, arôme artificiel, sèche",
+  "es": "Continental Mills, mezcla para muffins Krusteaz de almendra y semillas de amapola, aromatizada artificialmente, seca",
+  "de": "Continental Mills, Krusteaz-Muffinmischung mit Mandeln und Mohn, künstlich aromatisiert, trocken",
+  "pt": "Continental Mills, mistura para muffin Krusteaz de amêndoas e sementes de papoula, aromatizada artificialmente, seca"
+ },
+ "4524": {
+  "it": "Barretta di biscotto con cioccolato, frutta a guscio e cracker Graham",
+  "fr": "Barre de biscuit au chocolat, fruits à coque et biscuits Graham",
+  "es": "Barra de galleta con chocolate, frutos secos y galletas Graham",
+  "de": "Keksriegel mit Schokolade, Nüssen und Graham-Crackern",
+  "pt": "Barra de biscoito com chocolate, castanhas e biscoitos Graham"
+ },
+ "4525": {
+  "it": "Biscotto alle mandorle",
+  "fr": "Biscuit aux amandes",
+  "es": "Galleta de almendra",
+  "de": "Mandelkeks",
+  "pt": "Biscoito de amêndoas"
+ },
+ "4526": {
+  "it": "Biscotto a forma di animaletto",
+  "fr": "Biscuit en forme d'animal",
+  "es": "Galleta con forma de animal",
+  "de": "Tierkeks",
+  "pt": "Biscoito em formato de animal"
+ },
+ "4527": {
+  "it": "Biscotto a forma di animaletto, con glassa",
+  "fr": "Biscuit en forme d'animal, avec glaçage",
+  "es": "Galleta con forma de animal, con glaseado",
+  "de": "Tierkeks mit Zuckerguss",
+  "pt": "Biscoito em formato de animal, com cobertura"
+ },
+ "4528": {
+  "it": "Biscotto alla composta di mele",
+  "fr": "Biscuit à la compote de pommes",
+  "es": "Galleta de puré de manzana",
+  "de": "Apfelmus-Keks",
+  "pt": "Biscoito com purê de maçã"
+ },
+ "4529": {
+  "it": "Biscotto a barretta, al cioccolato",
+  "fr": "Biscuit en barre, au chocolat",
+  "es": "Galleta en barra, con chocolate",
+  "de": "Schokoladen-Keksriegel",
+  "pt": "Biscoito em barra, com chocolate"
+ },
+ "4530": {
+  "it": "Impasto crudo per biscotti",
+  "fr": "Pâte à biscuits crue",
+  "es": "Masa cruda para galletas",
+  "de": "Roher Keksteig",
+  "pt": "Massa crua para biscoitos"
+ },
+ "4531": {
+  "it": "Biscotto tipo cantuccio (biscotti)",
+  "fr": "Biscuit type biscotti",
+  "es": "Galleta tipo biscotti",
+  "de": "Biscotti-Keks",
+  "pt": "Biscoito tipo biscotti"
+ },
+ "4532": {
+  "it": "Biscotto brownie, glassatura non specificata",
+  "fr": "Biscuit brownie, glaçage non précisé",
+  "es": "Galleta tipo brownie, glaseado no especificado",
+  "de": "Brownie-Keks, Glasur nicht angegeben",
+  "pt": "Biscoito tipo brownie, cobertura não especificada"
+ },
+ "4533": {
+  "it": "Biscotto brownie, a ridotto contenuto di grassi, glassatura non specificata",
+  "fr": "Biscuit brownie, à teneur réduite en matières grasses, glaçage non précisé",
+  "es": "Galleta tipo brownie, reducida en grasa, glaseado no especificado",
+  "de": "Brownie-Keks, fettarm, Glasur nicht angegeben",
+  "pt": "Biscoito tipo brownie, com teor reduzido de gordura, cobertura não especificada"
+ },
+ "4534": {
+  "it": "Biscotto brownie, con glassa o ripieno",
+  "fr": "Biscuit brownie, avec glaçage ou fourrage",
+  "es": "Galleta tipo brownie, con glaseado o relleno",
+  "de": "Brownie-Keks mit Glasur oder Füllung",
+  "pt": "Biscoito tipo brownie, com cobertura ou recheio"
+ },
+ "4535": {
+  "it": "Biscotto brownie, senza glassa",
+  "fr": "Biscuit brownie, sans glaçage",
+  "es": "Galleta tipo brownie, sin glaseado",
+  "de": "Brownie-Keks ohne Glasur",
+  "pt": "Biscoito tipo brownie, sem cobertura"
+ },
+ "4536": {
+  "it": "Biscotto al burro o allo zucchero",
+  "fr": "Biscuit au beurre ou au sucre",
+  "es": "Galleta de mantequilla o azúcar",
+  "de": "Butter- oder Zuckerkeks",
+  "pt": "Biscoito de manteiga ou açúcar"
+ },
+ "4537": {
+  "it": "Biscotto al burro o allo zucchero, con glassa o ripieno al cioccolato",
+  "fr": "Biscuit au beurre ou au sucre, avec glaçage ou fourrage au chocolat",
+  "es": "Galleta de mantequilla o azúcar, con glaseado o relleno de chocolate",
+  "de": "Butter- oder Zuckerkeks mit Schokoladenglasur oder -füllung",
+  "pt": "Biscoito de manteiga ou açúcar, com cobertura ou recheio de chocolate"
+ },
+ "4538": {
+  "it": "Biscotto al burro o allo zucchero, con frutta e/o frutta a guscio",
+  "fr": "Biscuit au beurre ou au sucre, avec fruits et/ou fruits à coque",
+  "es": "Galleta de mantequilla o azúcar, con fruta y/o frutos secos",
+  "de": "Butter- oder Zuckerkeks mit Obst und/oder Nüssen",
+  "pt": "Biscoito de manteiga ou açúcar, com frutas e/ou castanhas"
+ },
+ "4539": {
+  "it": "Biscotto al burro o allo zucchero, con glassa o ripieno diverso dal cioccolato",
+  "fr": "Biscuit au beurre ou au sucre, avec glaçage ou fourrage autre qu'au chocolat",
+  "es": "Galleta de mantequilla o azúcar, con glaseado o relleno distinto del chocolate",
+  "de": "Butter- oder Zuckerkeks mit Glasur oder Füllung ohne Schokolade",
+  "pt": "Biscoito de manteiga ou açúcar, com cobertura ou recheio diferente de chocolate"
+ },
+ "4540": {
+  "it": "Biscotto brownie al gusto butterscotch",
+  "fr": "Biscuit brownie au caramel écossais",
+  "es": "Galleta tipo brownie de caramelo butterscotch",
+  "de": "Butterscotch-Brownie-Keks",
+  "pt": "Biscoito tipo brownie sabor butterscotch"
+ },
+ "4541": {
+  "it": "Biscotto sandwich al cioccolato e vaniglia",
+  "fr": "Biscuit sandwich au chocolat et à la vanille",
+  "es": "Galleta tipo sándwich de chocolate y vainilla",
+  "de": "Schoko-Vanille-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de chocolate e baunilha"
+ },
+ "4542": {
+  "it": "Biscotto con gocce di cioccolato",
+  "fr": "Biscuit aux pépites de chocolat",
+  "es": "Galleta con chispas de chocolate",
+  "de": "Keks mit Schokoladenstückchen",
+  "pt": "Biscoito com gotas de chocolate"
+ },
+ "4543": {
+  "it": "Biscotto sandwich con gocce di cioccolato",
+  "fr": "Biscuit sandwich aux pépites de chocolat",
+  "es": "Galleta tipo sándwich con chispas de chocolate",
+  "de": "Sandwichkeks mit Schokoladenstückchen",
+  "pt": "Biscoito tipo sanduíche com gotas de chocolate"
+ },
+ "4544": {
+  "it": "Biscotto con gocce di cioccolato, preparato in casa o acquistato in pasticceria",
+  "fr": "Biscuit aux pépites de chocolat, fait maison ou acheté en boulangerie-pâtisserie",
+  "es": "Galleta con chispas de chocolate, casera o comprada en una panadería",
+  "de": "Keks mit Schokoladenstückchen, hausgemacht oder aus der Bäckerei",
+  "pt": "Biscoito com gotas de chocolate, feito em casa ou comprado em padaria"
+ },
+ "4545": {
+  "it": "Biscotto con gocce di cioccolato, a ridotto contenuto di grassi",
+  "fr": "Biscuit aux pépites de chocolat, à teneur réduite en matières grasses",
+  "es": "Galleta con chispas de chocolate, reducida en grasa",
+  "de": "Keks mit Schokoladenstückchen, fettarm",
+  "pt": "Biscoito com gotas de chocolate, com teor reduzido de gordura"
+ },
+ "4546": {
+  "it": "Biscotto con gocce di cioccolato, a ridotto contenuto di zuccheri",
+  "fr": "Biscuit aux pépites de chocolat, à teneur réduite en sucres",
+  "es": "Galleta con chispas de chocolate, con menos azúcar",
+  "de": "Keks mit Schokoladenstückchen, zuckerreduziert",
+  "pt": "Biscoito com gotas de chocolate, com teor reduzido de açúcar"
+ },
+ "4547": {
+  "it": "Biscotto al cioccolato o al fondente",
+  "fr": "Biscuit au chocolat ou au fudge",
+  "es": "Galleta de chocolate o fudge",
+  "de": "Schokoladen- oder Fudge-Keks",
+  "pt": "Biscoito de chocolate ou fudge"
+ },
+ "4548": {
+  "it": "Biscotto sandwich al cioccolato",
+  "fr": "Biscuit sandwich au chocolat",
+  "es": "Galleta tipo sándwich de chocolate",
+  "de": "Schokoladen-Sandwichkeks",
+  "pt": "Biscoito tipo sanduíche de chocolate"
+ },
+ "4549": {
+  "it": "Biscotto sandwich al cioccolato, a ridotto contenuto di grassi",
+  "fr": "Biscuit sandwich au chocolat, à teneur réduite en matières grasses",
+  "es": "Galleta tipo sándwich de chocolate, reducida en grasa",
+  "de": "Schokoladen-Sandwichkeks, fettarm",
+  "pt": "Biscoito tipo sanduíche de chocolate, com teor reduzido de gordura"
+ },
+ "4550": {
+  "it": "Biscotto wafer al cioccolato",
+  "fr": "Gaufrette au chocolat",
+  "es": "Barquillo de chocolate",
+  "de": "Schokoladenwaffel",
+  "pt": "Wafer de chocolate"
+ },
+ "4551": {
+  "it": "Biscotto al cioccolato con fiocchi d'avena e cocco, senza cottura",
+  "fr": "Biscuit au chocolat, flocons d'avoine et noix de coco, sans cuisson",
+  "es": "Galleta de chocolate con avena y coco, sin hornear",
+  "de": "Schokoladen-Hafer-Kokos-Keks, ohne Backen",
+  "pt": "Biscoito de chocolate com aveia e coco, sem assar"
+ },
+ "4552": {
+  "it": "Biscotto al cioccolato con cereali di riso",
+  "fr": "Biscuit au chocolat avec céréales de riz",
+  "es": "Galleta de chocolate con cereal de arroz",
+  "de": "Schokoladenkeks mit Reiscrispies",
+  "pt": "Biscoito de chocolate com cereal de arroz"
+ },
+ "4553": {
+  "it": "Biscotto sandwich al cioccolato, con ripieno extra",
+  "fr": "Biscuit sandwich au chocolat, avec garniture supplémentaire",
+  "es": "Galleta tipo sándwich de chocolate, con relleno adicional",
+  "de": "Schokoladen-Sandwichkeks mit extra Füllung",
+  "pt": "Biscoito tipo sanduíche de chocolate, com recheio extra"
+ },
+ "4554": {
+  "it": "Biscotto al cioccolato, con glassa o copertura",
+  "fr": "Biscuit au chocolat, avec glaçage ou enrobage",
+  "es": "Galleta de chocolate, con glaseado o cobertura",
+  "de": "Schokoladenkeks mit Glasur oder Überzug",
+  "pt": "Biscoito de chocolate, com cobertura ou banho"
+ },
+ "4555": {
+  "it": "Biscotto al cocco",
+  "fr": "Biscuit à la noix de coco",
+  "es": "Galleta de coco",
+  "de": "Kokoskeks",
+  "pt": "Biscoito de coco"
+ },
+ "4556": {
+  "it": "Cialda per cono gelato, tipo wafer o tortina",
+  "fr": "Gaufrette pour cornet de glace, type wafer ou biscuit",
+  "es": "Galleta para cono de helado, tipo barquillo o bizcocho",
+  "de": "Eiswaffel für Hörnchen, Waffel- oder Kuchentyp",
+  "pt": "Casquinha para sorvete, tipo wafer ou bolo"
+ },
+ "4557": {
+  "it": "Biscotto a barretta ai fichi",
+  "fr": "Biscuit fourré aux figues, en barre",
+  "es": "Barra de galleta rellena de higo",
+  "de": "Feigen-Keksriegel",
+  "pt": "Biscoito em barra recheado com figo"
+ },
+ "4558": {
+  "it": "Biscotto della fortuna",
+  "fr": "Biscuit chinois porte-bonheur",
+  "es": "Galleta de la fortuna",
+  "de": "Glückskeks",
+  "pt": "Biscoito da sorte"
+ },
+ "4559": {
+  "it": "Biscotto a barretta ripieno di frutta",
+  "fr": "Biscuit fourré aux fruits, en barre",
+  "es": "Barra de galleta rellena de fruta",
+  "de": "Fruchtgefüllter Keksriegel",
+  "pt": "Biscoito em barra recheado com frutas"
+ },
+ "4560": {
+  "it": "Biscotto speziato allo zenzero (gingersnap)",
+  "fr": "Biscuit croquant au gingembre",
+  "es": "Galleta crujiente de jengibre",
+  "de": "Ingwerplätzchen",
+  "pt": "Biscoito crocante de gengibre"
+ },
+ "4561": {
+  "it": "Biscotto senza glutine",
+  "fr": "Biscuit sans gluten",
+  "es": "Galleta sin gluten",
+  "de": "Glutenfreier Keks",
+  "pt": "Biscoito sem glúten"
+ },
+ "4562": {
+  "it": "Biscotto Graham con cioccolato e marshmallow",
+  "fr": "Biscuit Graham avec chocolat et guimauve",
+  "es": "Galleta Graham con chocolate y malvavisco",
+  "de": "Graham-Cracker mit Schokolade und Marshmallow",
+  "pt": "Biscoito Graham com chocolate e marshmallow"
+ },
+ "4563": {
+  "it": "Biscotto alla granola",
+  "fr": "Biscuit à la granola",
+  "es": "Galleta de granola",
+  "de": "Müslikeks",
+  "pt": "Biscoito de granola"
+ },
+ "4564": {
+  "it": "Savoiardo",
+  "fr": "Biscuit à la cuillère",
+  "es": "Bizcocho de soletilla",
+  "de": "Löffelbiskuit",
+  "pt": "Biscoito champanhe"
+ },
+ "4565": {
+  "it": "Biscotto Lebkuchen",
+  "fr": "Biscuit Lebkuchen",
+  "es": "Galleta Lebkuchen",
+  "de": "Lebkuchen",
+  "pt": "Biscoito Lebkuchen"
+ },
+ "4566": {
+  "it": "Biscotto tipo lemon bar",
+  "fr": "Biscuit façon tartelette au citron",
+  "es": "Galleta tipo barrita de limón",
+  "de": "Zitronenriegel-Keks",
+  "pt": "Biscoito tipo barrinha de limão"
+ },
+ "4567": {
+  "it": "Amaretto al cocco (macaroon)",
+  "fr": "Macaron à la noix de coco",
+  "es": "Macarrón de coco",
+  "de": "Kokosmakrone",
+  "pt": "Macaroon de coco"
+ },
+ "4568": {
+  "it": "Biscotto con marshmallow e burro di arachidi, con cereali d'avena, senza cottura",
+  "fr": "Biscuit aux guimauves et beurre d'arachide, avec céréales d'avoine, sans cuisson",
+  "es": "Galleta con malvavisco y mantequilla de cacahuete, con cereal de avena, sin hornear",
+  "de": "Keks mit Marshmallow und Erdnussbutter, Hafergetreide, ohne Backen",
+  "pt": "Biscoito com marshmallow e pasta de amendoim, cereal de aveia, sem assar"
+ },
+ "4569": {
+  "it": "Tortina biscotto al marshmallow ricoperta di cioccolato",
+  "fr": "Gâteau-biscuit à la guimauve enrobé de chocolat",
+  "es": "Pastelito de galleta con malvavisco cubierto de chocolate",
+  "de": "Mit Schokolade überzogener Marshmallow-Keks-Kuchen",
+  "pt": "Bolinho de biscoito com marshmallow coberto de chocolate"
+ }
 }
