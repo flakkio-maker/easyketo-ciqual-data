@@ -698,5 +698,705 @@
   "es": "Huevo, entero, cocido, duro",
   "de": "Ei, ganz, hartgekocht",
   "pt": "Ovo, inteiro, cozido, duro"
+ },
+ "5464": {
+  "it": "Uovo, intero, cotto, metodo di cottura non specificato",
+  "fr": "Œuf, entier, cuit, mode de cuisson non précisé",
+  "es": "Huevo, entero, cocido, método de cocción no especificado",
+  "de": "Ei, ganz, gegart, Garmethode nicht angegeben",
+  "pt": "Ovo, inteiro, cozido, método de preparo não especificado"
+ },
+ "5465": {
+  "it": "Uovo, intero, cotto, omelette",
+  "fr": "Œuf, entier, cuit, en omelette",
+  "es": "Huevo, entero, cocido, en tortilla",
+  "de": "Ei, ganz, gegart, als Omelett",
+  "pt": "Ovo, inteiro, cozido, em omelete"
+ },
+ "5466": {
+  "it": "Uovo, intero, cotto, in camicia",
+  "fr": "Œuf, entier, cuit, poché",
+  "es": "Huevo, entero, cocido, escalfado",
+  "de": "Ei, ganz, pochiert",
+  "pt": "Ovo, inteiro, cozido, pochê"
+ },
+ "5467": {
+  "it": "Uovo, intero, cotto, strapazzato",
+  "fr": "Œuf, entier, cuit, brouillé",
+  "es": "Huevo, entero, cocido, revuelto",
+  "de": "Ei, ganz, als Rührei",
+  "pt": "Ovo, inteiro, mexido"
+ },
+ "5468": {
+  "it": "Uovo, intero, secco",
+  "fr": "Œuf, entier, séché",
+  "es": "Huevo, entero, seco",
+  "de": "Ei, ganz, getrocknet",
+  "pt": "Ovo, inteiro, seco"
+ },
+ "5469": {
+  "it": "Uovo, intero, secco, stabilizzato, glucosio ridotto",
+  "fr": "Œuf, entier, séché, stabilisé, à teneur réduite en glucose",
+  "es": "Huevo, entero, seco, estabilizado, con glucosa reducida",
+  "de": "Ei, ganz, getrocknet, stabilisiert, glucosearm",
+  "pt": "Ovo, inteiro, seco, estabilizado, com teor reduzido de glicose"
+ },
+ "5470": {
+  "it": "Uovo, intero, fritto senza grassi aggiunti",
+  "fr": "Œuf, entier, frit sans matières grasses ajoutées",
+  "es": "Huevo, entero, frito sin grasa añadida",
+  "de": "Ei, ganz, frittiert, ohne zugesetztes Fett",
+  "pt": "Ovo, inteiro, frito sem gordura adicionada"
+ },
+ "5471": {
+  "it": "Uovo, intero, fritto con grasso animale o fondo di cottura della carne",
+  "fr": "Œuf, entier, frit avec graisse animale ou jus de cuisson de viande",
+  "es": "Huevo, entero, frito con grasa animal o jugos de cocción de carne",
+  "de": "Ei, ganz, mit tierischem Fett oder Bratensatz gebraten",
+  "pt": "Ovo, inteiro, frito com gordura animal ou resíduos da fritura de carne"
+ },
+ "5472": {
+  "it": "Uovo, intero, fritto con burro",
+  "fr": "Œuf, entier, frit avec du beurre",
+  "es": "Huevo, entero, frito con mantequilla",
+  "de": "Ei, ganz, mit Butter gebraten",
+  "pt": "Ovo, inteiro, frito com manteiga"
+ },
+ "5473": {
+  "it": "Uovo, intero, fritto con spray da cucina",
+  "fr": "Œuf, entier, frit avec un aérosol de cuisson",
+  "es": "Huevo, entero, frito con aceite en aerosol",
+  "de": "Ei, ganz, mit Kochspray gebraten",
+  "pt": "Ovo, inteiro, frito com spray culinário"
+ },
+ "5474": {
+  "it": "Uovo, intero, fritto con margarina",
+  "fr": "Œuf, entier, frit avec de la margarine",
+  "es": "Huevo, entero, frito con margarina",
+  "de": "Ei, ganz, mit Margarine gebraten",
+  "pt": "Ovo, inteiro, frito com margarina"
+ },
+ "5475": {
+  "it": "Uovo, intero, fritto con olio",
+  "fr": "Œuf, entier, frit avec de l'huile",
+  "es": "Huevo, entero, frito con aceite",
+  "de": "Ei, ganz, mit Öl gebraten",
+  "pt": "Ovo, inteiro, frito com óleo"
+ },
+ "5476": {
+  "it": "Uovo, intero, fritto, da fast food o ristorante",
+  "fr": "Œuf, entier, frit, de restauration rapide ou de restaurant",
+  "es": "Huevo, entero, frito, de comida rápida o restaurante",
+  "de": "Ei, ganz, frittiert, aus Fast Food oder Restaurant",
+  "pt": "Ovo, inteiro, frito, de fast food ou restaurante"
+ },
+ "5477": {
+  "it": "Uovo, intero, fritto, grassi non specificati",
+  "fr": "Œuf, entier, frit, matières grasses non précisées",
+  "es": "Huevo, entero, frito, grasa no especificada",
+  "de": "Ei, ganz, frittiert, Fett nicht angegeben",
+  "pt": "Ovo, inteiro, frito, gordura não especificada"
+ },
+ "5478": {
+  "it": "Uovo, intero, fritto, tipo di grasso non specificato",
+  "fr": "Œuf, entier, frit, type de matière grasse non précisé",
+  "es": "Huevo, entero, frito, tipo de grasa no especificado",
+  "de": "Ei, ganz, frittiert, Fettart nicht angegeben",
+  "pt": "Ovo, inteiro, frito, tipo de gordura não especificado"
+ },
+ "5479": {
+  "it": "Uovo, intero, in salamoia",
+  "fr": "Œuf, entier, mariné",
+  "es": "Huevo, entero, encurtido",
+  "de": "Ei, ganz, eingelegt",
+  "pt": "Ovo, inteiro, em conserva"
+ },
+ "5480": {
+  "it": "Uovo, intero, crudo",
+  "fr": "Œuf, entier, cru",
+  "es": "Huevo, entero, crudo",
+  "de": "Ei, ganz, roh",
+  "pt": "Ovo, inteiro, cru"
+ },
+ "5481": {
+  "it": "Uovo, intero, crudo, fresco",
+  "fr": "Œuf, entier, cru, frais",
+  "es": "Huevo, entero, crudo, fresco",
+  "de": "Ei, ganz, roh, frisch",
+  "pt": "Ovo, inteiro, cru, fresco"
+ },
+ "5482": {
+  "it": "Uovo, intero, crudo, surgelato, pastorizzato",
+  "fr": "Œuf, entier, cru, surgelé, pasteurisé",
+  "es": "Huevo, entero, crudo, congelado, pasteurizado",
+  "de": "Ei, ganz, roh, tiefgekühlt, pasteurisiert",
+  "pt": "Ovo, inteiro, cru, congelado, pasteurizado"
+ },
+ "5483": {
+  "it": "Uovo, intero, crudo, surgelato, pastorizzato (include alimenti del programma di distribuzione alimentare USDA)",
+  "fr": "Œuf, entier, cru, surgelé, pasteurisé (comprend les aliments du programme de distribution alimentaire de l'USDA)",
+  "es": "Huevo, entero, crudo, congelado, pasteurizado (incluye alimentos del programa de distribución alimentaria del USDA)",
+  "de": "Ei, ganz, roh, tiefgekühlt, pasteurisiert (einschließlich Lebensmittel des USDA-Lebensmittelverteilungsprogramms)",
+  "pt": "Ovo, inteiro, cru, congelado, pasteurizado (inclui alimentos do programa de distribuição de alimentos do USDA)"
+ },
+ "5484": {
+  "it": "Uovo, intero, crudo, surgelato, salato, pastorizzato",
+  "fr": "Œuf, entier, cru, surgelé, salé, pasteurisé",
+  "es": "Huevo, entero, crudo, congelado, salado, pasteurizado",
+  "de": "Ei, ganz, roh, tiefgekühlt, gesalzen, pasteurisiert",
+  "pt": "Ovo, inteiro, cru, congelado, salgado, pasteurizado"
+ },
+ "5485": {
+  "it": "Uovo, solo tuorlo, cotto, con grassi aggiunti",
+  "fr": "Œuf, jaune seulement, cuit, avec matières grasses ajoutées",
+  "es": "Huevo, solo yema, cocido, con grasa añadida",
+  "de": "Ei, nur Eigelb, gegart, mit zugesetztem Fett",
+  "pt": "Ovo, apenas gema, cozida, com gordura adicionada"
+ },
+ "5486": {
+  "it": "Uovo, solo tuorlo, cotto, senza grassi aggiunti",
+  "fr": "Œuf, jaune seulement, cuit, sans matières grasses ajoutées",
+  "es": "Huevo, solo yema, cocido, sin grasa añadida",
+  "de": "Ei, nur Eigelb, gegart, ohne zugesetztes Fett",
+  "pt": "Ovo, apenas gema, cozida, sem gordura adicionada"
+ },
+ "5487": {
+  "it": "Uovo, solo tuorlo, cotto, grassi non specificati",
+  "fr": "Œuf, jaune seulement, cuit, matières grasses non précisées",
+  "es": "Huevo, solo yema, cocido, grasa no especificada",
+  "de": "Ei, nur Eigelb, gegart, Fett nicht angegeben",
+  "pt": "Ovo, apenas gema, cozida, gordura não especificada"
+ },
+ "5488": {
+  "it": "Uovo, solo tuorlo, crudo",
+  "fr": "Œuf, jaune seulement, cru",
+  "es": "Huevo, solo yema, crudo",
+  "de": "Ei, nur Eigelb, roh",
+  "pt": "Ovo, apenas gema, cru"
+ },
+ "5489": {
+  "it": "Uovo, tuorlo, secco",
+  "fr": "Œuf, jaune, séché",
+  "es": "Huevo, yema, seca",
+  "de": "Eigelb, getrocknet",
+  "pt": "Ovo, gema, seco"
+ },
+ "5490": {
+  "it": "Uovo, tuorlo, crudo, fresco",
+  "fr": "Œuf, jaune, cru, frais",
+  "es": "Huevo, yema, cruda, fresca",
+  "de": "Eigelb, roh, frisch",
+  "pt": "Ovo, gema, cru, fresco"
+ },
+ "5491": {
+  "it": "Uovo, tuorlo, crudo, surgelato, pastorizzato",
+  "fr": "Œuf, jaune, cru, surgelé, pasteurisé",
+  "es": "Huevo, yema, cruda, congelada, pasteurizada",
+  "de": "Eigelb, roh, tiefgekühlt, pasteurisiert",
+  "pt": "Ovo, gema, cru, congelado, pasteurizado"
+ },
+ "5492": {
+  "it": "Uovo, tuorlo, crudo, surgelato, salato, pastorizzato",
+  "fr": "Œuf, jaune, cru, surgelé, salé, pasteurisé",
+  "es": "Huevo, yema, cruda, congelada, salada, pasteurizada",
+  "de": "Eigelb, roh, tiefgekühlt, gesalzen, pasteurisiert",
+  "pt": "Ovo, gema, cru, congelado, salgado, pasteurizado"
+ },
+ "5493": {
+  "it": "Uovo, tuorlo, crudo, surgelato, zuccherato, pastorizzato",
+  "fr": "Œuf, jaune, cru, surgelé, sucré, pasteurisé",
+  "es": "Huevo, yema, cruda, congelada, azucarada, pasteurizada",
+  "de": "Eigelb, roh, tiefgekühlt, gezuckert, pasteurisiert",
+  "pt": "Ovo, gema, cru, congelado, adoçado, pasteurizado"
+ },
+ "5494": {
+  "it": "Zabaione",
+  "fr": "Lait de poule",
+  "es": "Ponche de huevo",
+  "de": "Eierpunsch",
+  "pt": " gemada"
+ },
+ "5495": {
+  "it": "Zabaione alcolico",
+  "fr": "Lait de poule alcoolisé",
+  "es": "Ponche de huevo con alcohol",
+  "de": "Eierpunsch mit Alkohol",
+  "pt": "Gemada alcoólica"
+ },
+ "5496": {
+  "it": "Sformato di melanzane e carne",
+  "fr": "Gratin d'aubergines et de viande",
+  "es": "Pastel de berenjena y carne",
+  "de": "Auberginen-Fleisch-Auflauf",
+  "pt": "Torta de berinjela e carne"
+ },
+ "5497": {
+  "it": "Crema spalmabile di melanzane",
+  "fr": "Tartinade d'aubergine",
+  "es": "Dip de berenjena",
+  "de": "Auberginen-Dip",
+  "pt": "Pasta de berinjela"
+ },
+ "5498": {
+  "it": "Sformato di melanzane alla parmigiana, normale",
+  "fr": "Gratin d'aubergines à la parmigiana, classique",
+  "es": "Pastel de berenjena a la parmesana, normal",
+  "de": "Auberginenauflauf nach Parmigiana-Art, normal",
+  "pt": "Berinjela à parmegiana em forma de gratinado, comum"
+ },
+ "5499": {
+  "it": "Melanzane con formaggio e salsa di pomodoro",
+  "fr": "Aubergines avec fromage et sauce tomate",
+  "es": "Berenjena con queso y salsa de tomate",
+  "de": "Auberginen mit Käse und Tomatensauce",
+  "pt": "Berinjela com queijo e molho de tomate"
+ },
+ "5500": {
+  "it": "Melanzane, cotte, come ingrediente",
+  "fr": "Aubergines, cuites, comme ingrédient",
+  "es": "Berenjena, cocida, como ingrediente",
+  "de": "Auberginen, gegart, als Zutat",
+  "pt": "Berinjela, cozida, como ingrediente"
+ },
+ "5501": {
+  "it": "Melanzane, cotte, bollite, sgocciolate, con sale",
+  "fr": "Aubergines, cuites, bouillies, égouttées, avec sel",
+  "es": "Berenjena, cocida, hervida, escurrida, con sal",
+  "de": "Auberginen, gegart, gekocht, abgetropft, mit Salz",
+  "pt": "Berinjela, cozida em água, escorrida, com sal"
+ },
+ "5502": {
+  "it": "Melanzane, cotte, bollite, sgocciolate, senza sale",
+  "fr": "Aubergines, cuites, bouillies, égouttées, sans sel",
+  "es": "Berenjena, cocida, hervida, escurrida, sin sal",
+  "de": "Auberginen, gegart, gekocht, abgetropft, ohne Salz",
+  "pt": "Berinjela, cozida em água, escorrida, sem sal"
+ },
+ "5503": {
+  "it": "Melanzane, cotte, con grassi aggiunti",
+  "fr": "Aubergines, cuites, avec matières grasses ajoutées",
+  "es": "Berenjena, cocida, con grasa añadida",
+  "de": "Auberginen, gegart, mit zugesetztem Fett",
+  "pt": "Berinjela, cozida, com gordura adicionada"
+ },
+ "5504": {
+  "it": "Melanzane, cotte, senza grassi aggiunti",
+  "fr": "Aubergines, cuites, sans matières grasses ajoutées",
+  "es": "Berenjena, cocida, sin grasa añadida",
+  "de": "Auberginen, gegart, ohne zugesetztes Fett",
+  "pt": "Berinjela, cozida, sem gordura adicionada"
+ },
+ "5505": {
+  "it": "Melanzane, sottaceto",
+  "fr": "Aubergines, marinées au vinaigre",
+  "es": "Berenjena, encurtida",
+  "de": "Auberginen, eingelegt",
+  "pt": "Berinjela, em conserva"
+ },
+ "5506": {
+  "it": "Melanzane, crude",
+  "fr": "Aubergines, crues",
+  "es": "Berenjena, cruda",
+  "de": "Auberginen, roh",
+  "pt": "Berinjela, crua"
+ },
+ "5507": {
+  "it": "Uova, grado A, grandi, albume",
+  "fr": "Œufs, catégorie A, gros, blanc",
+  "es": "Huevos, grado A, grandes, clara",
+  "de": "Eier, Güteklasse A, Größe L, Eiweiß",
+  "pt": "Ovos, grau A, grandes, clara"
+ },
+ "5508": {
+  "it": "Uova, grado A, grandi, uovo intero",
+  "fr": "Œufs, catégorie A, gros, entiers",
+  "es": "Huevos, grado A, grandes, enteros",
+  "de": "Eier, Güteklasse A, Größe L, ganz",
+  "pt": "Ovos, grau A, grandes, inteiros"
+ },
+ "5509": {
+  "it": "Uova, grado A, grandi, tuorlo",
+  "fr": "Œufs, catégorie A, gros, jaune",
+  "es": "Huevos, grado A, grandes, yema",
+  "de": "Eier, Güteklasse A, Größe L, Eigelb",
+  "pt": "Ovos, grau A, grandes, gema"
+ },
+ "5510": {
+  "it": "Uova strapazzate, miscela surgelata",
+  "fr": "Œufs brouillés, mélange surgelé",
+  "es": "Huevos revueltos, mezcla congelada",
+  "de": "Rührei, tiefgekühlte Mischung",
+  "pt": "Ovos mexidos, mistura congelada"
+ },
+ "5511": {
+  "it": "Frumento monococco, chicchi, secchi, crudi",
+  "fr": "Engrain, grains, secs, crus",
+  "es": "Escanda menor, granos, secos, crudos",
+  "de": "Einkorn, Körner, trocken, roh",
+  "pt": "Trigo einkorn, grãos, secos, crus"
+ },
+ "5512": {
+  "it": "Sambuco, crudo",
+  "fr": "Sureau, cru",
+  "es": "Saúco, crudo",
+  "de": "Holunderbeeren, roh",
+  "pt": "Sabugueiro, cru"
+ },
+ "5513": {
+  "it": "Alce, allevato allo stato brado, macinato, polpette cotte (Shoshone Bannock)",
+  "fr": "Wapiti, élevé en liberté, haché, steaks hachés cuits (Shoshone Bannock)",
+  "es": "Uapití, de vida silvestre, molido, hamburguesas cocidas (Shoshone Bannock)",
+  "de": "Wapiti, freilebend, Hackfleisch, gegarte Bratlinge (Shoshone Bannock)",
+  "pt": "Uapiti, de vida livre, moído, hambúrgueres cozidos (Shoshone Bannock)"
+ },
+ "5514": {
+  "it": "Alce, allevato allo stato brado, macinato, crudo (Shoshone Bannock)",
+  "fr": "Wapiti, élevé en liberté, haché, cru (Shoshone Bannock)",
+  "es": "Uapití, de vida silvestre, molido, crudo (Shoshone Bannock)",
+  "de": "Wapiti, freilebend, Hackfleisch, roh (Shoshone Bannock)",
+  "pt": "Uapiti, de vida livre, moído, cru (Shoshone Bannock)"
+ },
+ "5515": {
+  "it": "Alce, allevato allo stato brado, arrosto, noce, cotto (Shoshone Bannock)",
+  "fr": "Wapiti, élevé en liberté, rôti, noix, cuit (Shoshone Bannock)",
+  "es": "Uapití, de vida silvestre, asado, centro de la pierna, cocido (Shoshone Bannock)",
+  "de": "Wapiti, freilebend, Braten, Nussstück, gegart (Shoshone Bannock)",
+  "pt": "Uapiti, de vida livre, assado, lagarto, cozido (Shoshone Bannock)"
+ },
+ "5516": {
+  "it": "Alce, allevato allo stato brado, arrosto, noce, crudo (Shoshone Bannock)",
+  "fr": "Wapiti, élevé en liberté, rôti, noix, cru (Shoshone Bannock)",
+  "es": "Uapití, de vida silvestre, asado, centro de la pierna, crudo (Shoshone Bannock)",
+  "de": "Wapiti, freilebend, Braten, Nussstück, roh (Shoshone Bannock)",
+  "pt": "Uapiti, de vida livre, assado, lagarto, cru (Shoshone Bannock)"
+ },
+ "5517": {
+  "it": "Empanada, manzo",
+  "fr": "Empanada, bœuf",
+  "es": "Empanada, carne de res",
+  "de": "Empanada, Rindfleisch",
+  "pt": "Empanada, carne bovina"
+ },
+ "5518": {
+  "it": "Empanada, manzo, con verdure",
+  "fr": "Empanada, bœuf, avec légumes",
+  "es": "Empanada, carne de res, con verduras",
+  "de": "Empanada, Rindfleisch, mit Gemüse",
+  "pt": "Empanada, carne bovina, com vegetais"
+ },
+ "5519": {
+  "it": "Empanada, pollo",
+  "fr": "Empanada, poulet",
+  "es": "Empanada, pollo",
+  "de": "Empanada, Hähnchen",
+  "pt": "Empanada, frango"
+ },
+ "5520": {
+  "it": "Empanada, pollo, con verdure",
+  "fr": "Empanada, poulet, avec légumes",
+  "es": "Empanada, pollo, con verduras",
+  "de": "Empanada, Hähnchen, mit Gemüse",
+  "pt": "Empanada, frango, com vegetais"
+ },
+ "5521": {
+  "it": "Empanada, alla frutta",
+  "fr": "Empanada, aux fruits",
+  "es": "Empanada, de fruta",
+  "de": "Empanada, mit Früchten",
+  "pt": "Empanada, de frutas"
+ },
+ "5522": {
+  "it": "Empanada, non specificata",
+  "fr": "Empanada, non précisée",
+  "es": "Empanada, no especificada",
+  "de": "Empanada, nicht näher bezeichnet",
+  "pt": "Empanada, não especificada"
+ },
+ "5523": {
+  "it": "Empanada, senza carne",
+  "fr": "Empanada, sans viande",
+  "es": "Empanada, sin carne",
+  "de": "Empanada, ohne Fleisch",
+  "pt": "Empanada, sem carne"
+ },
+ "5524": {
+  "it": "Emù, filetto a ventaglio, cotto, alla griglia",
+  "fr": "Émeu, filet en éventail, cuit, grillé",
+  "es": "Emú, filete en abanico, cocido, a la parrilla",
+  "de": "Emu, Fächerfilet, gegart, gegrillt",
+  "pt": "Emu, filé em leque, cozido, grelhado"
+ },
+ "5525": {
+  "it": "Emù, filetto a ventaglio, crudo",
+  "fr": "Émeu, filet en éventail, cru",
+  "es": "Emú, filete en abanico, crudo",
+  "de": "Emu, Fächerfilet, roh",
+  "pt": "Emu, filé em leque, cru"
+ },
+ "5526": {
+  "it": "Emù, filetto piatto, crudo",
+  "fr": "Émeu, filet plat, cru",
+  "es": "Emú, filete plano, crudo",
+  "de": "Emu, flaches Filet, roh",
+  "pt": "Emu, filé plano, cru"
+ },
+ "5527": {
+  "it": "Emù, parte posteriore intera, cotta, alla griglia",
+  "fr": "Émeu, croupe entière, cuite, grillée",
+  "es": "Emú, grupa entera, cocida, a la parrilla",
+  "de": "Emu, ganze Keule, gegart, gegrillt",
+  "pt": "Emu, alcatra inteira, cozida, grelhada"
+ },
+ "5528": {
+  "it": "Emù, parte posteriore intera, cruda",
+  "fr": "Émeu, croupe entière, crue",
+  "es": "Emú, grupa entera, cruda",
+  "de": "Emu, ganze Keule, roh",
+  "pt": "Emu, alcatra inteira, crua"
+ },
+ "5529": {
+  "it": "Emù, macinato, cotto, alla piastra",
+  "fr": "Émeu, haché, cuit, grillé à la poêle",
+  "es": "Emú, molido, cocido, a la plancha",
+  "de": "Emu, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Emu, moído, cozido, grelhado na frigideira"
+ },
+ "5530": {
+  "it": "Emù, macinato, crudo",
+  "fr": "Émeu, haché, cru",
+  "es": "Emú, molido, crudo",
+  "de": "Emu, Hackfleisch, roh",
+  "pt": "Emu, moído, cru"
+ },
+ "5531": {
+  "it": "Emù, fuso interno, crudo",
+  "fr": "Émeu, pilon intérieur, cru",
+  "es": "Emú, muslo interno, crudo",
+  "de": "Emu, innerer Unterschenkel, roh",
+  "pt": "Emu, coxa interna, crua"
+ },
+ "5532": {
+  "it": "Emù, fusi interni, cotti, alla griglia",
+  "fr": "Émeu, pilons intérieurs, cuits, grillés",
+  "es": "Emú, muslos internos, cocidos, a la parrilla",
+  "de": "Emu, innere Unterschenkel, gegart, gegrillt",
+  "pt": "Emu, coxas internas, cozidas, grelhadas"
+ },
+ "5533": {
+  "it": "Emù, fuso esterno, crudo",
+  "fr": "Émeu, pilon extérieur, cru",
+  "es": "Emú, muslo externo, crudo",
+  "de": "Emu, äußerer Unterschenkel, roh",
+  "pt": "Emu, coxa externa, crua"
+ },
+ "5534": {
+  "it": "Emù, oyster, crudo",
+  "fr": "Émeu, oyster, cru",
+  "es": "Emú, oyster, crudo",
+  "de": "Emu, Oyster-Stück, roh",
+  "pt": "Emu, oyster, cru"
+ },
+ "5535": {
+  "it": "Emù, lombata superiore, cotta, alla griglia",
+  "fr": "Émeu, haut de longe, cuit, grillé",
+  "es": "Emú, lomo superior, cocido, a la parrilla",
+  "de": "Emu, oberer Rücken, gegart, gegrillt",
+  "pt": "Emu, lombo superior, cozido, grelhado"
+ },
+ "5536": {
+  "it": "Salsa verde per enchilada",
+  "fr": "Sauce verte pour enchiladas",
+  "es": "Salsa verde para enchiladas",
+  "de": "Grüne Enchilada-Sauce",
+  "pt": "Molho verde para enchiladas"
+ },
+ "5537": {
+  "it": "Salsa rossa per enchilada",
+  "fr": "Sauce rouge pour enchiladas",
+  "es": "Salsa roja para enchiladas",
+  "de": "Rote Enchilada-Sauce",
+  "pt": "Molho vermelho para enchiladas"
+ },
+ "5538": {
+  "it": "Enchilada, manzo",
+  "fr": "Enchilada, bœuf",
+  "es": "Enchilada, carne de res",
+  "de": "Enchilada, Rindfleisch",
+  "pt": "Enchilada, carne bovina"
+ },
+ "5539": {
+  "it": "Enchilada, pollo",
+  "fr": "Enchilada, poulet",
+  "es": "Enchilada, poulet",
+  "de": "Enchilada, Hähnchen",
+  "pt": "Enchilada, frango"
+ },
+ "5540": {
+  "it": "Enchilada, non specificata",
+  "fr": "Enchilada, non précisée",
+  "es": "Enchilada, no especificada",
+  "de": "Enchilada, nicht näher bezeichnet",
+  "pt": "Enchilada, não especificada"
+ },
+ "5541": {
+  "it": "Enchilada, senza carne",
+  "fr": "Enchilada, sans viande",
+  "es": "Enchilada, sin carne",
+  "de": "Enchilada, ohne Fleisch",
+  "pt": "Enchilada, sem carne"
+ },
+ "5542": {
+  "it": "Enchilada, maiale",
+  "fr": "Enchilada, porc",
+  "es": "Enchilada, cerdo",
+  "de": "Enchilada, Schweinefleisch",
+  "pt": "Enchilada, carne suína"
+ },
+ "5543": {
+  "it": "Indivia, cruda",
+  "fr": "Endive, crue",
+  "es": "Endibia, cruda",
+  "de": "Endivie, roh",
+  "pt": "Endívia, crua"
+ },
+ "5544": {
+  "it": "Bevanda energetica",
+  "fr": "Boisson énergisante",
+  "es": "Bebida energética",
+  "de": "Energy-Drink",
+  "pt": "Bebida energética"
+ },
+ "5545": {
+  "it": "Bevanda energetica (Full Throttle)",
+  "fr": "Boisson énergisante (Full Throttle)",
+  "es": "Bebida energética (Full Throttle)",
+  "de": "Energy-Drink (Full Throttle)",
+  "pt": "Bebida energética (Full Throttle)"
+ },
+ "5546": {
+  "it": "Bevanda energetica (Monster)",
+  "fr": "Boisson énergisante (Monster)",
+  "es": "Bebida energética (Monster)",
+  "de": "Energy-Drink (Monster)",
+  "pt": "Bebida energética (Monster)"
+ },
+ "5547": {
+  "it": "Bevanda energetica (Mountain Dew AMP)",
+  "fr": "Boisson énergisante (Mountain Dew AMP)",
+  "es": "Bebida energética (Mountain Dew AMP)",
+  "de": "Energy-Drink (Mountain Dew AMP)",
+  "pt": "Bebida energética (Mountain Dew AMP)"
+ },
+ "5548": {
+  "it": "Bevanda energetica (No Fear Motherload)",
+  "fr": "Boisson énergisante (No Fear Motherload)",
+  "es": "Bebida energética (No Fear Motherload)",
+  "de": "Energy-Drink (No Fear Motherload)",
+  "pt": "Bebida energética (No Fear Motherload)"
+ },
+ "5549": {
+  "it": "Bevanda energetica (No Fear)",
+  "fr": "Boisson énergisante (No Fear)",
+  "es": "Bebida energética (No Fear)",
+  "de": "Energy-Drink (No Fear)",
+  "pt": "Bebida energética (No Fear)"
+ },
+ "5550": {
+  "it": "Bevanda energetica (NOS)",
+  "fr": "Boisson énergisante (NOS)",
+  "es": "Bebida energética (NOS)",
+  "de": "Energy-Drink (NOS)",
+  "pt": "Bebida energética (NOS)"
+ },
+ "5551": {
+  "it": "Bevanda energetica (Ocean Spray Cran-Energy Juice Drink)",
+  "fr": "Boisson énergisante (Ocean Spray Cran-Energy Juice Drink)",
+  "es": "Bebida energética (Ocean Spray Cran-Energy Juice Drink)",
+  "de": "Energy-Drink (Ocean Spray Cran-Energy Juice Drink)",
+  "pt": "Bebida energética (Ocean Spray Cran-Energy Juice Drink)"
+ },
+ "5552": {
+  "it": "Bevanda energetica (Red Bull)",
+  "fr": "Boisson énergisante (Red Bull)",
+  "es": "Bebida energética (Red Bull)",
+  "de": "Energy-Drink (Red Bull)",
+  "pt": "Bebida energética (Red Bull)"
+ },
+ "5553": {
+  "it": "Bevanda energetica (Rockstar)",
+  "fr": "Boisson énergisante (Rockstar)",
+  "es": "Bebida energética (Rockstar)",
+  "de": "Energy-Drink (Rockstar)",
+  "pt": "Bebida energética (Rockstar)"
+ },
+ "5554": {
+  "it": "Bevanda energetica (SoBe Energize Energy Juice Drink)",
+  "fr": "Boisson énergisante (SoBe Energize Energy Juice Drink)",
+  "es": "Bebida energética (SoBe Energize Energy Juice Drink)",
+  "de": "Energy-Drink (SoBe Energize Energy Juice Drink)",
+  "pt": "Bebida energética (SoBe Energize Energy Juice Drink)"
+ },
+ "5555": {
+  "it": "Bevanda energetica (Vault)",
+  "fr": "Boisson énergisante (Vault)",
+  "es": "Bebida energética (Vault)",
+  "de": "Energy-Drink (Vault)",
+  "pt": "Bebida energética (Vault)"
+ },
+ "5556": {
+  "it": "Bevanda energetica (XS Gold Plus)",
+  "fr": "Boisson énergisante (XS Gold Plus)",
+  "es": "Bebida energética (XS Gold Plus)",
+  "de": "Energy-Drink (XS Gold Plus)",
+  "pt": "Bebida energética (XS Gold Plus)"
+ },
+ "5557": {
+  "it": "Bevanda energetica (XS)",
+  "fr": "Boisson énergisante (XS)",
+  "es": "Bebida energética (XS)",
+  "de": "Energy-Drink (XS)",
+  "pt": "Bebida energética (XS)"
+ },
+ "5558": {
+  "it": "Bevanda energetica ipocalorica (Monster)",
+  "fr": "Boisson énergisante hypocalorique (Monster)",
+  "es": "Bebida energética baja en calorías (Monster)",
+  "de": "Kalorienarmer Energy-Drink (Monster)",
+  "pt": "Bebida energética de baixa caloria (Monster)"
+ },
+ "5559": {
+  "it": "Bevanda energetica senza zucchero",
+  "fr": "Boisson énergisante sans sucre",
+  "es": "Bebida energética sin azúcar",
+  "de": "Zuckerfreier Energy-Drink",
+  "pt": "Bebida energética sem açúcar"
+ },
+ "5560": {
+  "it": "Bevanda energetica senza zucchero (Monster)",
+  "fr": "Boisson énergisante sans sucre (Monster)",
+  "es": "Bebida energética sin azúcar (Monster)",
+  "de": "Zuckerfreier Energy-Drink (Monster)",
+  "pt": "Bebida energética sem açúcar (Monster)"
+ },
+ "5561": {
+  "it": "Bevanda energetica senza zucchero (Mountain Dew AMP)",
+  "fr": "Boisson énergisante sans sucre (Mountain Dew AMP)",
+  "es": "Bebida energética sin azúcar (Mountain Dew AMP)",
+  "de": "Zuckerfreier Energy-Drink (Mountain Dew AMP)",
+  "pt": "Bebida energética sem açúcar (Mountain Dew AMP)"
+ },
+ "5562": {
+  "it": "Bevanda energetica senza zucchero (No Fear)",
+  "fr": "Boisson énergisante sans sucre (No Fear)",
+  "es": "Bebida energética sin azúcar (No Fear)",
+  "de": "Zuckerfreier Energy-Drink (No Fear)",
+  "pt": "Bebida energética sem açúcar (No Fear)"
+ },
+ "5563": {
+  "it": "Bevanda energetica senza zucchero (Rockstar)",
+  "fr": "Boisson énergisante sans sucre (Rockstar)",
+  "es": "Bebida energética sin azúcar (Rockstar)",
+  "de": "Zuckerfreier Energy-Drink (Rockstar)",
+  "pt": "Bebida energética sem açúcar (Rockstar)"
  }
 }
