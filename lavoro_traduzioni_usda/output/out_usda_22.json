@@ -1,0 +1,2088 @@
+{
+ "6258": {
+  "it": "Bevanda fredda al caffè moka, con latte non lattiero-caseario",
+  "fr": "Boisson froide au café moka, avec lait non laitier",
+  "es": "Bebida fría de café moka, con leche no láctea",
+  "de": "Gefrorenes Mokka-Kaffeegetränk mit pflanzlicher Milchalternative",
+  "pt": "Bebida gelada de café mocha, com bebida vegetal"
+ },
+ "6259": {
+  "it": "Bevanda fredda al caffè moka, con latte non lattiero-caseario e panna montata",
+  "fr": "Boisson froide au café moka, avec lait non laitier et crème fouettée",
+  "es": "Bebida fría de café moka, con leche no láctea y crema batida",
+  "de": "Gefrorenes Mokka-Kaffeegetränk mit pflanzlicher Milchalternative und Schlagsahne",
+  "pt": "Bebida gelada de café mocha, com bebida vegetal e chantilly"
+ },
+ "6260": {
+  "it": "Bevanda fredda al caffè moka, con panna montata",
+  "fr": "Boisson froide au café moka, avec crème fouettée",
+  "es": "Bebida fría de café moka, con crema batida",
+  "de": "Gefrorenes Mokka-Kaffeegetränk mit Schlagsahne",
+  "pt": "Bebida gelada de café mocha, com chantilly"
+ },
+ "6261": {
+  "it": "Dessert surgelati, barrette di frutta e succo",
+  "fr": "Desserts glacés, barres aux fruits et au jus",
+  "es": "Postres congelados, barras de fruta y jugo",
+  "de": "Tiefgekühlte Desserts, Frucht- und Saft-Riegel",
+  "pt": "Sobremesas congeladas, barras de frutas e suco"
+ },
+ "6262": {
+  "it": "Dessert surgelati tipo gelato, ricoperti di cioccolato o caramello, con frutta a guscio",
+  "fr": "Desserts glacés de type crème glacée, enrobés de chocolat ou de caramel, avec fruits à coque",
+  "es": "Postres congelados tipo helado, cubiertos de chocolate o caramelo, con frutos secos",
+  "de": "Tiefgekühlte Eiscreme-Desserts, mit Schokolade oder Karamell überzogen, mit Nüssen",
+  "pt": "Sobremesas congeladas tipo sorvete, cobertas com chocolate ou caramelo, com castanhas"
+ },
+ "6263": {
+  "it": "Dessert surgelati tipo gelato, sundae, preconfezionati",
+  "fr": "Desserts glacés de type crème glacée, sundae, préemballés",
+  "es": "Postres congelados tipo helado, sundae, preenvasados",
+  "de": "Tiefgekühlte Eiscreme-Desserts, Sundae, vorverpackt",
+  "pt": "Sobremesas congeladas tipo sorvete, sundae, pré-embaladas"
+ },
+ "6264": {
+  "it": "Dessert surgelati tipo gelato, gelato alla vaniglia leggero, senza zuccheri aggiunti, ricoperto di cioccolato",
+  "fr": "Desserts glacés de type crème glacée, glace à la vanille légère, sans sucre ajouté, enrobée de chocolat",
+  "es": "Postres congelados tipo helado, helado de vainilla ligero, sin azúcar añadido, cubierto de chocolate",
+  "de": "Tiefgekühlte Eiscreme-Desserts, leichtes Vanilleeis, ohne Zuckerzusatz, mit Schokoladenüberzug",
+  "pt": "Sobremesas congeladas tipo sorvete, sorvete de baunilha light, sem adição de açúcar, coberto com chocolate"
+ },
+ "6265": {
+  "it": "Dessert surgelati tipo ghiacciolo, alla frutta, senza zuccheri aggiunti",
+  "fr": "Desserts glacés de type glace à l'eau, aux fruits, sans sucre ajouté",
+  "es": "Postres congelados tipo hielo, de fruta, sin azúcar añadido",
+  "de": "Tiefgekühlte Wassereis-Desserts mit Früchten, ohne Zuckerzusatz",
+  "pt": "Sobremesas congeladas tipo picolé de gelo, de frutas, sem adição de açúcar"
+ },
+ "6266": {
+  "it": "Dessert surgelati tipo ghiacciolo, all'italiana, preparati al ristorante",
+  "fr": "Desserts glacés de type granité italien, préparés au restaurant",
+  "es": "Postres congelados tipo granizado italiano, preparados en restaurante",
+  "de": "Tiefgekühlte Eis-Desserts nach italienischer Art, im Restaurant zubereitet",
+  "pt": "Sobremesas congeladas tipo raspadinha italiana, preparadas em restaurante"
+ },
+ "6267": {
+  "it": "Dessert surgelati tipo ghiacciolo, al lime",
+  "fr": "Desserts glacés de type glace à l'eau, au citron vert",
+  "es": "Postres congelados tipo hielo, de lima",
+  "de": "Tiefgekühlte Wassereis-Desserts mit Limette",
+  "pt": "Sobremesas congeladas tipo picolé de gelo, de limão-taiti"
+ },
+ "6268": {
+  "it": "Dessert surgelati tipo ghiacciolo, ananas e cocco",
+  "fr": "Desserts glacés de type glace à l'eau, ananas et noix de coco",
+  "es": "Postres congelados tipo hielo, piña y coco",
+  "de": "Tiefgekühlte Wassereis-Desserts mit Ananas und Kokos",
+  "pt": "Sobremesas congeladas tipo picolé de gelo, abacaxi e coco"
+ },
+ "6269": {
+  "it": "Dessert surgelati tipo ghiacciolo",
+  "fr": "Desserts glacés de type glace à l'eau",
+  "es": "Postres congelados tipo hielo",
+  "de": "Tiefgekühlte Wassereis-Desserts",
+  "pt": "Sobremesas congeladas tipo picolé de gelo"
+ },
+ "6270": {
+  "it": "Dessert surgelati tipo ghiacciolo, con dolcificante ipocalorico",
+  "fr": "Desserts glacés de type glace à l'eau, avec édulcorant hypocalorique",
+  "es": "Postres congelados tipo hielo, con edulcorante bajo en calorías",
+  "de": "Tiefgekühlte Wassereis-Desserts mit kalorienarmem Süßungsmittel",
+  "pt": "Sobremesas congeladas tipo picolé de gelo, com adoçante de baixa caloria"
+ },
+ "6271": {
+  "it": "Dessert surgelati tipo ghiacciolo, senza zucchero, all'arancia, ciliegia e uva, ghiaccioli POPSICLE",
+  "fr": "Desserts glacés de type glace à l'eau, sans sucre, à l'orange, à la cerise et au raisin, bâtonnets POPSICLE",
+  "es": "Postres congelados tipo hielo, sin azúcar, de naranja, cereza y uva, paletas POPSICLE",
+  "de": "Tiefgekühlte Wassereis-Desserts, zuckerfrei, Orange, Kirsche und Traube, POPSICLE-Eis am Stiel",
+  "pt": "Sobremesas congeladas tipo picolé de gelo, sem açúcar, laranja, cereja e uva, picolés POPSICLE"
+ },
+ "6272": {
+  "it": "Dessert surgelati tipo succo, succo con panna",
+  "fr": "Desserts glacés de type jus, jus avec crème",
+  "es": "Postres congelados tipo jugo, jugo con crema",
+  "de": "Tiefgekühlte Saft-Desserts, Saft mit Sahne",
+  "pt": "Sobremesas congeladas tipo suco, suco com creme"
+ },
+ "6273": {
+  "it": "Dessert surgelati tipo succo, all'arancia",
+  "fr": "Desserts glacés de type jus, à l'orange",
+  "es": "Postres congelados tipo jugo, de naranja",
+  "de": "Tiefgekühlte Saft-Desserts, Orange",
+  "pt": "Sobremesas congeladas tipo suco, de laranja"
+ },
+ "6274": {
+  "it": "Dessert surgelati tipo succo, POPSICLE SCRIBBLERS",
+  "fr": "Desserts glacés de type jus, POPSICLE SCRIBBLERS",
+  "es": "Postres congelados tipo jugo, POPSICLE SCRIBBLERS",
+  "de": "Tiefgekühlte Saft-Desserts, POPSICLE SCRIBBLERS",
+  "pt": "Sobremesas congeladas tipo suco, POPSICLE SCRIBBLERS"
+ },
+ "6275": {
+  "it": "Dessert surgelati, KLONDIKE, cono al cioccolato SLIM-A-BEAR",
+  "fr": "Desserts glacés, KLONDIKE, cornet au chocolat SLIM-A-BEAR",
+  "es": "Postres congelados, KLONDIKE, cono de chocolate SLIM-A-BEAR",
+  "de": "Tiefgekühlte Desserts, KLONDIKE, SLIM-A-BEAR-Schokoladenhörnchen",
+  "pt": "Sobremesas congeladas, KLONDIKE, casquinha de chocolate SLIM-A-BEAR"
+ },
+ "6276": {
+  "it": "Dessert surgelati, KLONDIKE, barretta al fondente SLIM-A-BEAR, 98% senza grassi, senza zuccheri aggiunti",
+  "fr": "Desserts glacés, KLONDIKE, barre au fudge SLIM-A-BEAR, 98 % sans matières grasses, sans sucre ajouté",
+  "es": "Postres congelados, KLONDIKE, barra de fudge SLIM-A-BEAR, 98 % sin grasa, sin azúcar añadido",
+  "de": "Tiefgekühlte Desserts, KLONDIKE, SLIM-A-BEAR-Fudge-Riegel, 98 % fettfrei, ohne Zuckerzusatz",
+  "pt": "Sobremesas congeladas, KLONDIKE, barra de fudge SLIM-A-BEAR, 98% sem gordura, sem adição de açúcar"
+ },
+ "6277": {
+  "it": "Dessert surgelati, KLONDIKE, sandwich SLIM-A-BEAR alla vaniglia",
+  "fr": "Desserts glacés, KLONDIKE, sandwich SLIM-A-BEAR à la vanille",
+  "es": "Postres congelados, KLONDIKE, sándwich SLIM-A-BEAR de vainilla",
+  "de": "Tiefgekühlte Desserts, KLONDIKE, SLIM-A-BEAR-Vanille-Sandwich",
+  "pt": "Sobremesas congeladas, KLONDIKE, sanduíche SLIM-A-BEAR de baunilha"
+ },
+ "6278": {
+  "it": "Dessert surgelati, KLONDIKE, SLIM-A-BEAR, senza zuccheri aggiunti, barretta senza stecco",
+  "fr": "Desserts glacés, KLONDIKE, SLIM-A-BEAR, sans sucre ajouté, barre sans bâtonnet",
+  "es": "Postres congelados, KLONDIKE, SLIM-A-BEAR, sin azúcar añadido, barra sin palo",
+  "de": "Tiefgekühlte Desserts, KLONDIKE, SLIM-A-BEAR, ohne Zuckerzusatz, Riegel ohne Stiel",
+  "pt": "Sobremesas congeladas, KLONDIKE, SLIM-A-BEAR, sem adição de açúcar, barra sem palito"
+ },
+ "6279": {
+  "it": "Dessert surgelati, ghiaccioli CREAMSICLE senza zuccheri aggiunti",
+  "fr": "Desserts glacés, bâtonnets CREAMSICLE sans sucre ajouté",
+  "es": "Postres congelados, paletas CREAMSICLE sin azúcar añadido",
+  "de": "Tiefgekühlte Desserts, CREAMSICLE-Eis am Stiel ohne Zuckerzusatz",
+  "pt": "Sobremesas congeladas, picolés CREAMSICLE sem adição de açúcar"
+ },
+ "6280": {
+  "it": "Dessert surgelati, ghiaccioli FUDGSICLE senza zuccheri aggiunti",
+  "fr": "Desserts glacés, bâtonnets FUDGSICLE sans sucre ajouté",
+  "es": "Postres congelados, paletas FUDGSICLE sin azúcar añadido",
+  "de": "Tiefgekühlte Desserts, FUDGSICLE-Eis am Stiel ohne Zuckerzusatz",
+  "pt": "Sobremesas congeladas, picolés FUDGSICLE sem adição de açúcar"
+ },
+ "6281": {
+  "it": "Dessert surgelati, ghiaccioli CREAMSICLE senza zucchero",
+  "fr": "Desserts glacés, bâtonnets CREAMSICLE sans sucre",
+  "es": "Postres congelados, paletas CREAMSICLE sin azúcar",
+  "de": "Tiefgekühlte Desserts, CREAMSICLE-Eis am Stiel, zuckerfrei",
+  "pt": "Sobremesas congeladas, picolés CREAMSICLE sem açúcar"
+ },
+ "6282": {
+  "it": "Barretta di yogurt gelato, al cioccolato",
+  "fr": "Barre de yaourt glacé, au chocolat",
+  "es": "Barra de yogur helado, de chocolate",
+  "de": "Frozen-Yogurt-Riegel, Schokolade",
+  "pt": "Barra de iogurte congelado, de chocolate"
+ },
+ "6283": {
+  "it": "Barretta di yogurt gelato, alla vaniglia",
+  "fr": "Barre de yaourt glacé, à la vanille",
+  "es": "Barra de yogur helado, de vainilla",
+  "de": "Frozen-Yogurt-Riegel, Vanille",
+  "pt": "Barra de iogurte congelado, de baunilha"
+ },
+ "6284": {
+  "it": "Cono di yogurt gelato, al cioccolato",
+  "fr": "Cornet de yaourt glacé, au chocolat",
+  "es": "Cono de yogur helado, de chocolate",
+  "de": "Frozen-Yogurt-Waffelhörnchen, Schokolade",
+  "pt": "Casquinha de iogurte congelado, de chocolate"
+ },
+ "6285": {
+  "it": "Cono di yogurt gelato, al cioccolato, cono wafer",
+  "fr": "Cornet de yaourt glacé, au chocolat, cornet gaufré",
+  "es": "Cono de yogur helado, de chocolate, cono de barquillo",
+  "de": "Frozen-Yogurt-Waffelhörnchen, Schokolade, Waffelhörnchen",
+  "pt": "Casquinha de iogurte congelado, de chocolate, casquinha de wafer"
+ },
+ "6286": {
+  "it": "Cono di yogurt gelato, alla vaniglia",
+  "fr": "Cornet de yaourt glacé, à la vanille",
+  "es": "Cono de yogur helado, de vainilla",
+  "de": "Frozen-Yogurt-Waffelhörnchen, Vanille",
+  "pt": "Casquinha de iogurte congelado, de baunilha"
+ },
+ "6287": {
+  "it": "Cono di yogurt gelato, alla vaniglia, cono wafer",
+  "fr": "Cornet de yaourt glacé, à la vanille, cornet gaufré",
+  "es": "Cono de yogur helado, de vainilla, cono de barquillo",
+  "de": "Frozen-Yogurt-Waffelhörnchen, Vanille, Waffelhörnchen",
+  "pt": "Casquinha de iogurte congelado, de baunilha, casquinha de wafer"
+ },
+ "6288": {
+  "it": "Sandwich di yogurt gelato",
+  "fr": "Sandwich de yaourt glacé",
+  "es": "Sándwich de yogur helado",
+  "de": "Frozen-Yogurt-Sandwich",
+  "pt": "Sanduíche de iogurte congelado"
+ },
+ "6289": {
+  "it": "Yogurt gelato, al cioccolato",
+  "fr": "Yaourt glacé, au chocolat",
+  "es": "Yogur helado, de chocolate",
+  "de": "Frozen Yogurt, Schokolade",
+  "pt": "Iogurte congelado, de chocolate"
+ },
+ "6290": {
+  "it": "Yogurt gelato, non ulteriormente specificato",
+  "fr": "Yaourt glacé, non spécifié",
+  "es": "Yogur helado, no especificado",
+  "de": "Frozen Yogurt, nicht näher bezeichnet",
+  "pt": "Iogurte congelado, não especificado"
+ },
+ "6291": {
+  "it": "Yogurt gelato soft, al cioccolato",
+  "fr": "Yaourt glacé à l'italienne, au chocolat",
+  "es": "Yogur helado suave, de chocolate",
+  "de": "Frozen Yogurt Softeis, Schokolade",
+  "pt": "Iogurte congelado tipo soft, de chocolate"
+ },
+ "6292": {
+  "it": "Yogurt gelato soft, alla vaniglia",
+  "fr": "Yaourt glacé à l'italienne, à la vanille",
+  "es": "Yogur helado suave, de vainilla",
+  "de": "Frozen Yogurt Softeis, Vanille",
+  "pt": "Iogurte congelado tipo soft, de baunilha"
+ },
+ "6293": {
+  "it": "Yogurt gelato, alla vaniglia",
+  "fr": "Yaourt glacé, à la vanille",
+  "es": "Yogur helado, de vainilla",
+  "de": "Frozen Yogurt, Vanille",
+  "pt": "Iogurte congelado, de baunilha"
+ },
+ "6294": {
+  "it": "Yogurt gelati, al cioccolato",
+  "fr": "Yaourts glacés, au chocolat",
+  "es": "Yogures helados, de chocolate",
+  "de": "Frozen Yogurts, Schokolade",
+  "pt": "Iogurtes congelados, de chocolate"
+ },
+ "6295": {
+  "it": "Yogurt gelati, al cioccolato, con latte scremato, zuccherati senza zucchero",
+  "fr": "Yaourts glacés, au chocolat, au lait écrémé, sucrés sans sucre",
+  "es": "Yogures helados, de chocolate, con leche desnatada, endulzados sin azúcar",
+  "de": "Frozen Yogurts, Schokolade, mit Magermilch, ohne Zucker gesüßt",
+  "pt": "Iogurtes congelados, de chocolate, com leite desnatado, adoçados sem açúcar"
+ },
+ "6296": {
+  "it": "Yogurt gelati, al cioccolato, soft",
+  "fr": "Yaourts glacés, au chocolat, à l'italienne",
+  "es": "Yogures helados, de chocolate, suaves",
+  "de": "Frozen Yogurts, Schokolade, Softeis",
+  "pt": "Iogurtes congelados, de chocolate, tipo soft"
+ },
+ "6297": {
+  "it": "Yogurt gelati, gusti diversi dal cioccolato",
+  "fr": "Yaourts glacés, saveurs autres que le chocolat",
+  "es": "Yogures helados, sabores distintos del chocolate",
+  "de": "Frozen Yogurts, andere Geschmacksrichtungen als Schokolade",
+  "pt": "Iogurtes congelados, sabores diferentes de chocolate"
+ },
+ "6298": {
+  "it": "Yogurt gelati, alla vaniglia, soft",
+  "fr": "Yaourts glacés, à la vanille, à l'italienne",
+  "es": "Yogures helados, de vainilla, suaves",
+  "de": "Frozen Yogurts, Vanille, Softeis",
+  "pt": "Iogurtes congelados, de baunilha, tipo soft"
+ },
+ "6299": {
+  "it": "Frullato di frutta e verdura, con proteine aggiunte",
+  "fr": "Smoothie aux fruits et légumes, avec protéines ajoutées",
+  "es": "Batido de frutas y verduras, con proteína añadida",
+  "de": "Obst- und Gemüse-Smoothie mit zugesetztem Protein",
+  "pt": "Vitamina de frutas e vegetais, com proteína adicionada"
+ },
+ "6300": {
+  "it": "Frullato di frutta e verdura, in bottiglia",
+  "fr": "Smoothie aux fruits et légumes, en bouteille",
+  "es": "Batido de frutas y verduras, embotellado",
+  "de": "Obst- und Gemüse-Smoothie, abgefüllt",
+  "pt": "Vitamina de frutas e vegetais, engarrafada"
+ },
+ "6301": {
+  "it": "Frullato di frutta e verdura, senza latticini",
+  "fr": "Smoothie aux fruits et légumes, sans produits laitiers",
+  "es": "Batido de frutas y verduras, sin lácteos",
+  "de": "Obst- und Gemüse-Smoothie, ohne Milchprodukte",
+  "pt": "Vitamina de frutas e vegetais, sem laticínios"
+ },
+ "6302": {
+  "it": "Frullato di frutta e verdura, non a base di latticini",
+  "fr": "Smoothie aux fruits et légumes, sans base laitière",
+  "es": "Batido de frutas y verduras, no lácteo",
+  "de": "Obst- und Gemüse-Smoothie, nicht milchbasiert",
+  "pt": "Vitamina de frutas e vegetais, sem base láctea"
+ },
+ "6303": {
+  "it": "Frullato di frutta e verdura, non a base di latticini, con proteine aggiunte",
+  "fr": "Smoothie aux fruits et légumes, sans base laitière, avec protéines ajoutées",
+  "es": "Batido de frutas y verduras, no lácteo, con proteína añadida",
+  "de": "Obst- und Gemüse-Smoothie, nicht milchbasiert, mit zugesetztem Protein",
+  "pt": "Vitamina de frutas e vegetais, sem base láctea, com proteína adicionada"
+ },
+ "6304": {
+  "it": "Frullato di frutta e verdura, con latticini",
+  "fr": "Smoothie aux fruits et légumes, avec produits laitiers",
+  "es": "Batido de frutas y verduras, con lácteos",
+  "de": "Obst- und Gemüse-Smoothie mit Milchprodukten",
+  "pt": "Vitamina de frutas e vegetais, com laticínios"
+ },
+ "6305": {
+  "it": "Burro di frutta",
+  "fr": "Beurre de fruits",
+  "es": "Mantequilla de fruta",
+  "de": "Fruchtmus-Aufstrich",
+  "pt": "Pasta de frutas"
+ },
+ "6306": {
+  "it": "Burro di mele",
+  "fr": "Beurre de pommes",
+  "es": "Mantequilla de manzana",
+  "de": "Apfelmus-Aufstrich",
+  "pt": "Pasta de maçã"
+ },
+ "6307": {
+  "it": "Macedonia di frutta (pesca, ananas, pera, uva e ciliegia), in scatola, sciroppo extra denso, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, ananas, poire, raisin et cerise), en conserve, sirop extra épais, solides et liquides",
+  "es": "Cóctel de frutas (durazno, piña, pera, uva y cereza), en conserva, almíbar extra espeso, sólidos y líquidos",
+  "de": "Fruchtcocktail (Pfirsich, Ananas, Birne, Traube und Kirsche), aus der Dose, extra schwerer Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, abacaxi, pera, uva e cereja), enlatada, calda extra espessa, sólidos e líquidos"
+ },
+ "6308": {
+  "it": "Macedonia di frutta (pesca, ananas, pera, uva e ciliegia), in scatola, sciroppo extra leggero, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, ananas, poire, raisin et cerise), en conserve, sirop extra léger, solides et liquides",
+  "es": "Cóctel de frutas (durazno, piña, pera, uva y cereza), en conserva, almíbar extra ligero, sólidos y líquidos",
+  "de": "Fruchtcocktail (Pfirsich, Ananas, Birne, Traube und Kirsche), aus der Dose, extra leichter Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, abacaxi, pera, uva e cereja), enlatada, calda extra leve, sólidos e líquidos"
+ },
+ "6309": {
+  "it": "Macedonia di frutta (pesca, ananas, pera, uva e ciliegia), in scatola, sciroppo denso, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, ananas, poire, raisin et cerise), en conserve, sirop épais, solides et liquides",
+  "es": "Cóctel de frutas (durazno, piña, pera, uva y cereza), en conserva, almíbar espeso, sólidos y líquidos",
+  "de": "Fruchtcocktail (Pfirsich, Ananas, Birne, Traube und Kirsche), aus der Dose, schwerer Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, abacaxi, pera, uva e cereja), enlatada, calda espessa, sólidos e líquidos"
+ },
+ "6310": {
+  "it": "Macedonia di frutta (pesca, ananas, pera, uva e ciliegia), in scatola, in succo, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, ananas, poire, raisin et cerise), en conserve, au jus, solides et liquides",
+  "es": "Cóctel de frutas (durazno, piña, pera, uva y cereza), en conserva, en jugo, sólidos y líquidos",
+  "de": "Fruchtcocktail (Pfirsich, Ananas, Birne, Traube und Kirsche), aus der Dose, in Saft, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, abacaxi, pera, uva e cereja), enlatada, em suco, sólidos e líquidos"
+ },
+ "6311": {
+  "it": "Macedonia di frutta (pesca, ananas, pera, uva e ciliegia), in scatola, sciroppo leggero, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, ananas, poire, raisin et cerise), en conserve, sirop léger, solides et liquides",
+  "es": "Cóctel de frutas (durazno, piña, pera, uva y cereza), en conserva, almíbar ligero, sólidos y líquidos",
+  "de": "Fruchtcocktail (Pfirsich, Ananas, Birne, Traube und Kirsche), aus der Dose, leichter Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, abacaxi, pera, uva e cereja), enlatada, calda leve, sólidos e líquidos"
+ },
+ "6312": {
+  "it": "Macedonia di frutta (pesca, ananas, pera, uva e ciliegia), in scatola, in acqua, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, ananas, poire, raisin et cerise), en conserve, au naturel, solides et liquides",
+  "es": "Cóctel de frutas (durazno, piña, pera, uva y cereza), en conserva, en agua, sólidos y líquidos",
+  "de": "Fruchtcocktail (Pfirsich, Ananas, Birne, Traube und Kirsche), aus der Dose, in Wasser, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, abacaxi, pera, uva e cereja), enlatada, em água, sólidos e líquidos"
+ },
+ "6313": {
+  "it": "Macedonia di frutta, in scatola, sciroppo denso, sgocciolata",
+  "fr": "Salade de fruits, en conserve, sirop épais, égouttée",
+  "es": "Cóctel de frutas, en conserva, almíbar espeso, escurrido",
+  "de": "Fruchtcocktail, aus der Dose, schwerer Sirup, abgetropft",
+  "pt": "Salada de frutas, enlatada, em calda espessa, escorrida"
+ },
+ "6314": {
+  "it": "Macedonia di frutta, in scatola, in sciroppo",
+  "fr": "Salade de fruits, en conserve, au sirop",
+  "es": "Cóctel de frutas, en conserva, en almíbar",
+  "de": "Fruchtcocktail, aus der Dose, in Sirup",
+  "pt": "Salada de frutas, enlatada, em calda"
+ },
+ "6315": {
+  "it": "Macedonia di frutta, in scatola, in succo",
+  "fr": "Salade de fruits, en conserve, au jus",
+  "es": "Cóctel de frutas, en conserva, en jugo",
+  "de": "Fruchtcocktail, aus der Dose, in Saft",
+  "pt": "Salada de frutas, enlatada, em suco"
+ },
+ "6316": {
+  "it": "Macedonia di frutta, in scatola, non specificata",
+  "fr": "Salade de fruits, en conserve, non précisée",
+  "es": "Cóctel de frutas, en conserva, no especificado",
+  "de": "Fruchtcocktail, aus der Dose, nicht näher bezeichnet",
+  "pt": "Salada de frutas, enlatada, não especificada"
+ },
+ "6317": {
+  "it": "Condimento alla frutta",
+  "fr": "Sauce à salade aux fruits",
+  "es": "Aderezo de frutas",
+  "de": "Frucht-Dressing",
+  "pt": "Molho para salada de frutas"
+ },
+ "6318": {
+  "it": "Bevanda aromatizzata alla frutta",
+  "fr": "Boisson aromatisée aux fruits",
+  "es": "Bebida saborizada con frutas",
+  "de": "Fruchtgetränk",
+  "pt": "Bebida saborizada de frutas"
+ },
+ "6319": {
+  "it": "Bevanda aromatizzata alla frutta, dietetica",
+  "fr": "Boisson aromatisée aux fruits, diététique",
+  "es": "Bebida saborizada con frutas, dietética",
+  "de": "Diät-Fruchtgetränk",
+  "pt": "Bebida saborizada de frutas, dietética"
+ },
+ "6320": {
+  "it": "Bevanda aromatizzata alla frutta, in polvere, non ricostituita",
+  "fr": "Boisson aromatisée aux fruits, en poudre, non reconstituée",
+  "es": "Bebida saborizada con frutas, en polvo, sin reconstituir",
+  "de": "Fruchtgetränk, Pulver, nicht rekonstituiert",
+  "pt": "Bebida saborizada de frutas, em pó, não reconstituída"
+ },
+ "6321": {
+  "it": "Bevanda aromatizzata alla frutta, in polvere, non ricostituita, dietetica",
+  "fr": "Boisson aromatisée aux fruits, en poudre, non reconstituée, diététique",
+  "es": "Bebida saborizada con frutas, en polvo, sin reconstituir, dietética",
+  "de": "Diät-Fruchtgetränk, Pulver, nicht rekonstituiert",
+  "pt": "Bebida saborizada de frutas, em pó, não reconstituída, dietética"
+ },
+ "6322": {
+  "it": "Bevanda aromatizzata alla frutta, in polvere, ricostituita",
+  "fr": "Boisson aromatisée aux fruits, en poudre, reconstituée",
+  "es": "Bebida saborizada con frutas, en polvo, reconstituida",
+  "de": "Fruchtgetränk, Pulver, rekonstituiert",
+  "pt": "Bebida saborizada de frutas, em pó, reconstituída"
+ },
+ "6323": {
+  "it": "Bevanda aromatizzata alla frutta, in polvere, ricostituita, dietetica",
+  "fr": "Boisson aromatisée aux fruits, en poudre, reconstituée, diététique",
+  "es": "Bebida saborizada con frutas, en polvo, reconstituida, dietética",
+  "de": "Diät-Fruchtgetränk, Pulver, rekonstituiert",
+  "pt": "Bebida saborizada de frutas, em pó, reconstituída, dietética"
+ },
+ "6324": {
+  "it": "Bevanda aromatizzata alla frutta, ad alto contenuto di vitamina C",
+  "fr": "Boisson aromatisée aux fruits, riche en vitamine C",
+  "es": "Bebida saborizada con frutas, con alto contenido de vitamina C",
+  "de": "Fruchtgetränk mit hohem Vitamin-C-Gehalt",
+  "pt": "Bebida saborizada de frutas, com alto teor de vitamina C"
+ },
+ "6325": {
+  "it": "Bevanda aromatizzata alla frutta, ad alto contenuto di vitamina C, dietetica",
+  "fr": "Boisson aromatisée aux fruits, riche en vitamine C, diététique",
+  "es": "Bebida saborizada con frutas, con alto contenido de vitamina C, dietética",
+  "de": "Diät-Fruchtgetränk mit hohem Vitamin-C-Gehalt",
+  "pt": "Bebida saborizada de frutas, com alto teor de vitamina C, dietética"
+ },
+ "6326": {
+  "it": "Bevanda aromatizzata alla frutta, ad alto contenuto di vitamina C, in polvere, non ricostituita",
+  "fr": "Boisson aromatisée aux fruits, riche en vitamine C, en poudre, non reconstituée",
+  "es": "Bebida saborizada con frutas, con alto contenido de vitamina C, en polvo, sin reconstituir",
+  "de": "Fruchtgetränk mit hohem Vitamin-C-Gehalt, Pulver, nicht rekonstituiert",
+  "pt": "Bebida saborizada de frutas, com alto teor de vitamina C, em pó, não reconstituída"
+ },
+ "6327": {
+  "it": "Bevanda aromatizzata alla frutta, ad alto contenuto di vitamina C, in polvere, ricostituita",
+  "fr": "Boisson aromatisée aux fruits, riche en vitamine C, en poudre, reconstituée",
+  "es": "Bebida saborizada con frutas, con alto contenido de vitamina C, en polvo, reconstituida",
+  "de": "Fruchtgetränk mit hohem Vitamin-C-Gehalt, Pulver, rekonstituiert",
+  "pt": "Bebida saborizada de frutas, com alto teor de vitamina C, em pó, reconstituída"
+ },
+ "6328": {
+  "it": "Bevanda aromatizzata alla frutta, ad alto contenuto di vitamina C, in polvere, ricostituita, dietetica",
+  "fr": "Boisson aromatisée aux fruits, riche en vitamine C, en poudre, reconstituée, diététique",
+  "es": "Bebida saborizada con frutas, con alto contenido de vitamina C, en polvo, reconstituida, dietética",
+  "de": "Diät-Fruchtgetränk mit hohem Vitamin-C-Gehalt, Pulver, rekonstituiert",
+  "pt": "Bebida saborizada de frutas, com alto teor de vitamina C, em pó, reconstituída, dietética"
+ },
+ "6329": {
+  "it": "Miscela di succhi di frutta, 100% succo",
+  "fr": "Mélange de jus de fruits, 100 % jus",
+  "es": "Mezcla de jugos de frutas, 100 % jugo",
+  "de": "Fruchtsaftmischung, 100 % Saft",
+  "pt": "Mistura de sucos de frutas, 100% suco"
+ },
+ "6330": {
+  "it": "Miscela di succhi di frutta, agrumi, 100% succo",
+  "fr": "Mélange de jus de fruits, agrumes, 100 % jus",
+  "es": "Mezcla de jugos de frutas, cítricos, 100 % jugo",
+  "de": "Fruchtsaftmischung, Zitrusfrüchte, 100 % Saft",
+  "pt": "Mistura de sucos de frutas cítricas, 100% suco"
+ },
+ "6331": {
+  "it": "Bevanda a base di succo di frutta",
+  "fr": "Boisson à base de jus de fruits",
+  "es": "Bebida a base de jugo de frutas",
+  "de": "Fruchtsaftgetränk",
+  "pt": "Bebida à base de suco de frutas"
+ },
+ "6332": {
+  "it": "Bevanda a base di succo di frutta (Capri Sun)",
+  "fr": "Boisson à base de jus de fruits (Capri Sun)",
+  "es": "Bebida a base de jugo de frutas (Capri Sun)",
+  "de": "Fruchtsaftgetränk (Capri Sun)",
+  "pt": "Bebida à base de suco de frutas (Capri Sun)"
+ },
+ "6333": {
+  "it": "Bevanda a base di succo di frutta (Sunny D)",
+  "fr": "Boisson à base de jus de fruits (Sunny D)",
+  "es": "Bebida a base de jugo de frutas (Sunny D)",
+  "de": "Fruchtsaftgetränk (Sunny D)",
+  "pt": "Bebida à base de suco de frutas (Sunny D)"
+ },
+ "6334": {
+  "it": "Bevanda a base di succo di frutta, con calcio aggiunto (Sunny D)",
+  "fr": "Boisson à base de jus de fruits, avec calcium ajouté (Sunny D)",
+  "es": "Bebida a base de jugo de frutas, con calcio añadido (Sunny D)",
+  "de": "Fruchtsaftgetränk mit zugesetztem Calcium (Sunny D)",
+  "pt": "Bebida à base de suco de frutas, com cálcio adicionado (Sunny D)"
+ },
+ "6335": {
+  "it": "Bevanda a base di succo di frutta, agli agrumi, gassata",
+  "fr": "Boisson à base de jus de fruits, aux agrumes, gazeuse",
+  "es": "Bebida a base de jugo de frutas, cítrica, carbonatada",
+  "de": "Zitrus-Fruchtsaftgetränk, kohlensäurehaltig",
+  "pt": "Bebida à base de suco de frutas cítricas, gaseificada"
+ },
+ "6336": {
+  "it": "Bevanda a base di succo di frutta, dietetica",
+  "fr": "Boisson à base de jus de fruits, diététique",
+  "es": "Bebida a base de jugo de frutas, dietética",
+  "de": "Diät-Fruchtsaftgetränk",
+  "pt": "Bebida à base de suco de frutas, dietética"
+ },
+ "6337": {
+  "it": "Bevanda a base di succo di frutta, leggera",
+  "fr": "Boisson à base de jus de fruits, légère",
+  "es": "Bebida a base de jugo de frutas, ligera",
+  "de": "Leichtes Fruchtsaftgetränk",
+  "pt": "Bebida à base de suco de frutas, light"
+ },
+ "6338": {
+  "it": "Bevanda a base di succo di frutta, non agli agrumi, gassata",
+  "fr": "Boisson à base de jus de fruits, non agrumes, gazeuse",
+  "es": "Bebida a base de jugo de frutas, no cítrica, carbonatada",
+  "de": "Nicht-Zitrus-Fruchtsaftgetränk, kohlensäurehaltig",
+  "pt": "Bebida à base de suco de frutas não cítricas, gaseificada"
+ },
+ "6339": {
+  "it": "Bevanda a base di succo di frutta, ad alto contenuto di vitamina C",
+  "fr": "Boisson à base de jus de fruits, riche en vitamine C",
+  "es": "Bebida a base de jugo de frutas, con alto contenido de vitamina C",
+  "de": "Fruchtsaftgetränk mit hohem Vitamin-C-Gehalt",
+  "pt": "Bebida à base de suco de frutas, com alto teor de vitamina C"
+ },
+ "6340": {
+  "it": "Bevanda a base di succo di frutta, ad alto contenuto di vitamina C, leggera",
+  "fr": "Boisson à base de jus de fruits, riche en vitamine C, légère",
+  "es": "Bebida a base de jugo de frutas, con alto contenido de vitamina C, ligera",
+  "de": "Leichtes Fruchtsaftgetränk mit hohem Vitamin-C-Gehalt",
+  "pt": "Bebida à base de suco de frutas, com alto teor de vitamina C, light"
+ },
+ "6341": {
+  "it": "Frullato di succo di frutta, BOLTHOUSE FARMS, BERRY BOOST",
+  "fr": "Smoothie au jus de fruits, BOLTHOUSE FARMS, BERRY BOOST",
+  "es": "Batido de jugo de frutas, BOLTHOUSE FARMS, BERRY BOOST",
+  "de": "Fruchtsaft-Smoothie, BOLTHOUSE FARMS, BERRY BOOST",
+  "pt": "Vitamina de suco de frutas, BOLTHOUSE FARMS, BERRY BOOST"
+ },
+ "6342": {
+  "it": "Frullato di succo di frutta, BOLTHOUSE FARMS, GREEN GOODNESS",
+  "fr": "Smoothie au jus de fruits, BOLTHOUSE FARMS, GREEN GOODNESS",
+  "es": "Batido de jugo de frutas, BOLTHOUSE FARMS, GREEN GOODNESS",
+  "de": "Fruchtsaft-Smoothie, BOLTHOUSE FARMS, GREEN GOODNESS",
+  "pt": "Vitamina de suco de frutas, BOLTHOUSE FARMS, GREEN GOODNESS"
+ },
+ "6343": {
+  "it": "Frullato di succo di frutta, BOLTHOUSE FARMS, fragola e banana",
+  "fr": "Smoothie au jus de fruits, BOLTHOUSE FARMS, fraise et banane",
+  "es": "Batido de jugo de frutas, BOLTHOUSE FARMS, fresa y plátano",
+  "de": "Fruchtsaft-Smoothie, BOLTHOUSE FARMS, Erdbeere und Banane",
+  "pt": "Vitamina de suco de frutas, BOLTHOUSE FARMS, morango e banana"
+ },
+ "6344": {
+  "it": "Frullato di succo di frutta, NAKED JUICE, BLUE MACHINE",
+  "fr": "Smoothie au jus de fruits, NAKED JUICE, BLUE MACHINE",
+  "es": "Batido de jugo de frutas, NAKED JUICE, BLUE MACHINE",
+  "de": "Fruchtsaft-Smoothie, NAKED JUICE, BLUE MACHINE",
+  "pt": "Vitamina de suco de frutas, NAKED JUICE, BLUE MACHINE"
+ },
+ "6345": {
+  "it": "Frullato di succo di frutta, NAKED JUICE, GREEN MACHINE",
+  "fr": "Smoothie au jus de fruits, NAKED JUICE, GREEN MACHINE",
+  "es": "Batido de jugo de frutas, NAKED JUICE, GREEN MACHINE",
+  "de": "Fruchtsaft-Smoothie, NAKED JUICE, GREEN MACHINE",
+  "pt": "Vitamina de suco de frutas, NAKED JUICE, GREEN MACHINE"
+ },
+ "6346": {
+  "it": "Frullato di succo di frutta, NAKED JUICE, MIGHTY MANGO",
+  "fr": "Smoothie au jus de fruits, NAKED JUICE, MIGHTY MANGO",
+  "es": "Batido de jugo de frutas, NAKED JUICE, MIGHTY MANGO",
+  "de": "Fruchtsaft-Smoothie, NAKED JUICE, MIGHTY MANGO",
+  "pt": "Vitamina de suco de frutas, NAKED JUICE, MIGHTY MANGO"
+ },
+ "6347": {
+  "it": "Frullato di succo di frutta, NAKED JUICE, fragola e banana",
+  "fr": "Smoothie au jus de fruits, NAKED JUICE, fraise et banane",
+  "es": "Batido de jugo de frutas, NAKED JUICE, fresa y plátano",
+  "de": "Fruchtsaft-Smoothie, NAKED JUICE, Erdbeere und Banane",
+  "pt": "Vitamina de suco de frutas, NAKED JUICE, morango e banana"
+ },
+ "6348": {
+  "it": "Frullato di succo di frutta, ODWALLA, ORIGINAL SUPERFOOD",
+  "fr": "Smoothie au jus de fruits, ODWALLA, ORIGINAL SUPERFOOD",
+  "es": "Batido de jugo de frutas, ODWALLA, ORIGINAL SUPERFOOD",
+  "de": "Fruchtsaft-Smoothie, ODWALLA, ORIGINAL SUPERFOOD",
+  "pt": "Vitamina de suco de frutas, ODWALLA, ORIGINAL SUPERFOOD"
+ },
+ "6349": {
+  "it": "Frullato di succo di frutta, ODWALLA, fragola e banana",
+  "fr": "Smoothie au jus de fruits, ODWALLA, fraise et banane",
+  "es": "Batido de jugo de frutas, ODWALLA, fresa y plátano",
+  "de": "Fruchtsaft-Smoothie, ODWALLA, Erdbeere und Banane",
+  "pt": "Vitamina de suco de frutas, ODWALLA, morango e banana"
+ },
+ "6350": {
+  "it": "Succo di frutta, miscela di açaí",
+  "fr": "Jus de fruits, mélange à l'açaï",
+  "es": "Jugo de frutas, mezcla de açaí",
+  "de": "Fruchtsaft, Açaí-Mischung",
+  "pt": "Suco de frutas, mistura de açaí"
+ },
+ "6351": {
+  "it": "Succo di frutta, non specificato",
+  "fr": "Jus de fruits, non précisé",
+  "es": "Jugo de frutas, no especificado",
+  "de": "Fruchtsaft, nicht näher bezeichnet",
+  "pt": "Suco de frutas, não especificado"
+ },
+ "6352": {
+  "it": "Miscela di frutta, surgelata",
+  "fr": "Mélange de fruits, surgelé",
+  "es": "Mezcla de frutas, congelada",
+  "de": "Fruchtmischung, tiefgekühlt",
+  "pt": "Mistura de frutas, congelada"
+ },
+ "6353": {
+  "it": "Nettare di frutta, non specificato",
+  "fr": "Nectar de fruits, non précisé",
+  "es": "Néctar de frutas, no especificado",
+  "de": "Fruchtnektar, nicht näher bezeichnet",
+  "pt": "Néctar de frutas, não especificado"
+ },
+ "6354": {
+  "it": "Punch alla frutta, alcolico",
+  "fr": "Punch aux fruits, alcoolisé",
+  "es": "Ponche de frutas, alcohólico",
+  "de": "Fruchtpunsch, alkoholisch",
+  "pt": "Ponche de frutas, alcoólico"
+ },
+ "6355": {
+  "it": "Punch alla frutta, preparato con succo di frutta e bibita gassata",
+  "fr": "Punch aux fruits, préparé avec du jus de fruits et une boisson gazeuse",
+  "es": "Ponche de frutas, preparado con jugo de frutas y refresco",
+  "de": "Fruchtpunsch, mit Fruchtsaft und Limonade zubereitet",
+  "pt": "Ponche de frutas, preparado com suco de frutas e refrigerante"
+ },
+ "6356": {
+  "it": "Insalata di frutta (pesca, pera, albicocca, ananas e ciliegia), in scatola, sciroppo extra denso, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, poire, abricot, ananas et cerise), en conserve, sirop extra épais, solides et liquides",
+  "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, almíbar extra espeso, sólidos y líquidos",
+  "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, extra schwerer Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, calda extra espessa, sólidos e líquidos"
+ },
+ "6357": {
+  "it": "Insalata di frutta (pesca, pera, albicocca, ananas e ciliegia), in scatola, in succo, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, poire, abricot, ananas et cerise), en conserve, au jus, solides et liquides",
+  "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, en jugo, sólidos y líquidos",
+  "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, in Saft, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, em suco, sólidos e líquidos"
+ },
+ "6358": {
+  "it": "Insalata di frutta (pesca, pera, albicocca, ananas e ciliegia), in scatola, sciroppo leggero, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, poire, abricot, ananas et cerise), en conserve, sirop léger, solides et liquides",
+  "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, almíbar ligero, sólidos y líquidos",
+  "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, leichter Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, calda leve, sólidos e líquidos"
+ },
+ "6359": {
+  "it": "Insalata di frutta (pesca, pera, albicocca, ananas e ciliegia), in scatola, in acqua, solidi e liquidi",
+  "fr": "Salade de fruits (pêche, poire, abricot, ananas et cerise), en conserve, au naturel, solides et liquides",
+  "es": "Ensalada de frutas (durazno, pera, albaricoque, piña y cereza), en conserva, en agua, sólidos y líquidos",
+  "de": "Obstsalat (Pfirsich, Birne, Aprikose, Ananas und Kirsche), aus der Dose, in Wasser, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas (pêssego, pera, damasco, abacaxi e cereja), enlatada, em água, sólidos e líquidos"
+ },
+ "6360": {
+  "it": "Insalata di frutta tropicale (ananas, papaya, banana e guava), in scatola, sciroppo denso, solidi e liquidi",
+  "fr": "Salade de fruits tropicaux (ananas, papaye, banane et goyave), en conserve, sirop épais, solides et liquides",
+  "es": "Ensalada de frutas tropicales (piña, papaya, plátano y guayaba), en conserva, almíbar espeso, sólidos y líquidos",
+  "de": "Tropischer Obstsalat (Ananas, Papaya, Banane und Guave), aus der Dose, schwerer Sirup, feste und flüssige Bestandteile",
+  "pt": "Salada de frutas tropicais (abacaxi, mamão, banana e goiaba), enlatada, calda espessa, sólidos e líquidos"
+ },
+ "6361": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con marshmallow",
+  "fr": "Salade de fruits, hors agrumes, avec marshmallows",
+  "es": "Ensalada de frutas, sin cítricos, con malvaviscos",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Marshmallows",
+  "pt": "Salada de frutas, sem frutas cítricas, com marshmallows"
+ },
+ "6362": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con copertura montata non lattiero-casearia",
+  "fr": "Salade de fruits, hors agrumes, avec garniture fouettée non laitière",
+  "es": "Ensalada de frutas, sin cítricos, con cobertura batida no láctea",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit pflanzlichem Schlagsahneersatz",
+  "pt": "Salada de frutas, sem frutas cítricas, com cobertura batida não láctea"
+ },
+ "6363": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con budino",
+  "fr": "Salade de fruits, hors agrumes, avec pudding",
+  "es": "Ensalada de frutas, sin cítricos, con pudín",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Pudding",
+  "pt": "Salada de frutas, sem frutas cítricas, com pudim"
+ },
+ "6364": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con condimento per insalata o maionese",
+  "fr": "Salade de fruits, hors agrumes, avec sauce à salade ou mayonnaise",
+  "es": "Ensalada de frutas, sin cítricos, con aderezo para ensalada o mayonesa",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Salatdressing oder Mayonnaise",
+  "pt": "Salada de frutas, sem frutas cítricas, com molho para salada ou maionese"
+ },
+ "6365": {
+  "it": "Insalata di frutta, esclusi gli agrumi, con panna montata",
+  "fr": "Salade de fruits, hors agrumes, avec crème fouettée",
+  "es": "Ensalada de frutas, sin cítricos, con crema batida",
+  "de": "Obstsalat ohne Zitrusfrüchte, mit Schlagsahne",
+  "pt": "Salada de frutas, sem frutas cítricas, com chantilly"
+ },
+ "6366": {
+  "it": "Insalata di frutta fresca o cruda, esclusi gli agrumi, senza condimento",
+  "fr": "Salade de fruits frais ou crus, hors agrumes, sans sauce",
+  "es": "Ensalada de frutas frescas o crudas, sin cítricos, sin aderezo",
+  "de": "Frischer oder roher Obstsalat ohne Zitrusfrüchte, ohne Dressing",
+  "pt": "Salada de frutas frescas ou cruas, sem frutas cítricas, sem molho"
+ },
+ "6367": {
+  "it": "Insalata di frutta fresca o cruda, inclusi gli agrumi, senza condimento",
+  "fr": "Salade de fruits frais ou crus, y compris les agrumes, sans sauce",
+  "es": "Ensalada de frutas frescas o crudas, incluidos los cítricos, sin aderezo",
+  "de": "Frischer oder roher Obstsalat einschließlich Zitrusfrüchten, ohne Dressing",
+  "pt": "Salada de frutas frescas ou cruas, incluindo frutas cítricas, sem molho"
+ },
+ "6368": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con panna montata",
+  "fr": "Salade de fruits, y compris les agrumes, avec crème fouettée",
+  "es": "Ensalada de frutas, incluidos los cítricos, con crema batida",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Schlagsahne",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com chantilly"
+ },
+ "6369": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con marshmallow",
+  "fr": "Salade de fruits, y compris les agrumes, avec marshmallows",
+  "es": "Ensalada de frutas, incluidos los cítricos, con malvaviscos",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Marshmallows",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com marshmallows"
+ },
+ "6370": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con copertura montata non lattiero-casearia",
+  "fr": "Salade de fruits, y compris les agrumes, avec garniture fouettée non laitière",
+  "es": "Ensalada de frutas, incluidos los cítricos, con cobertura batida no láctea",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit pflanzlichem Schlagsahneersatz",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com cobertura batida não láctea"
+ },
+ "6371": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con budino",
+  "fr": "Salade de fruits, y compris les agrumes, avec pudding",
+  "es": "Ensalada de frutas, incluidos los cítricos, con pudín",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Pudding",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com pudim"
+ },
+ "6372": {
+  "it": "Insalata di frutta, inclusi gli agrumi, con condimento per insalata o maionese",
+  "fr": "Salade de fruits, y compris les agrumes, avec sauce à salade ou mayonnaise",
+  "es": "Ensalada de frutas, incluidos los cítricos, con aderezo para ensalada o mayonesa",
+  "de": "Obstsalat einschließlich Zitrusfrüchten, mit Salatdressing oder Mayonnaise",
+  "pt": "Salada de frutas, incluindo frutas cítricas, com molho para salada ou maionese"
+ },
+ "6373": {
+  "it": "Bevanda frullata di succo di frutta, senza latticini",
+  "fr": "Boisson smoothie au jus de fruits, sans produits laitiers",
+  "es": "Bebida tipo batido de jugo de frutas, sin lácteos",
+  "de": "Fruchtsaft-Smoothiegetränk, ohne Milchprodukte",
+  "pt": "Bebida tipo vitamina de suco de frutas, sem laticínios"
+ },
+ "6374": {
+  "it": "Bevanda frullata di succo di frutta, con latticini",
+  "fr": "Boisson smoothie au jus de fruits, avec produits laitiers",
+  "es": "Bebida tipo batido de jugo de frutas, con lácteos",
+  "de": "Fruchtsaft-Smoothiegetränk mit Milchprodukten",
+  "pt": "Bebida tipo vitamina de suco de frutas, com laticínios"
+ },
+ "6375": {
+  "it": "Frullato di frutta, in bottiglia",
+  "fr": "Smoothie aux fruits, en bouteille",
+  "es": "Batido de frutas, embotellado",
+  "de": "Frucht-Smoothie, abgefüllt",
+  "pt": "Vitamina de frutas, engarrafada"
+ },
+ "6376": {
+  "it": "Frullato di frutta, leggero",
+  "fr": "Smoothie aux fruits, léger",
+  "es": "Batido de frutas, ligero",
+  "de": "Leichter Frucht-Smoothie",
+  "pt": "Vitamina de frutas, light"
+ },
+ "6377": {
+  "it": "Frullato di frutta, non specificato",
+  "fr": "Smoothie aux fruits, non précisé",
+  "es": "Batido de frutas, no especificado",
+  "de": "Frucht-Smoothie, nicht näher bezeichnet",
+  "pt": "Vitamina de frutas, não especificada"
+ },
+ "6378": {
+  "it": "Frullato di frutta intera e latticini",
+  "fr": "Smoothie aux fruits entiers et produits laitiers",
+  "es": "Batido de fruta entera y lácteos",
+  "de": "Smoothie aus ganzen Früchten und Milchprodukten",
+  "pt": "Vitamina de frutas inteiras e laticínios"
+ },
+ "6379": {
+  "it": "Frullato di frutta intera e latticini, con proteine aggiunte",
+  "fr": "Smoothie aux fruits entiers et produits laitiers, avec protéines ajoutées",
+  "es": "Batido de fruta entera y lácteos, con proteína añadida",
+  "de": "Smoothie aus ganzen Früchten und Milchprodukten, mit zugesetztem Protein",
+  "pt": "Vitamina de frutas inteiras e laticínios, com proteína adicionada"
+ },
+ "6380": {
+  "it": "Frullato di frutta intera, senza latticini",
+  "fr": "Smoothie aux fruits entiers, sans produits laitiers",
+  "es": "Batido de fruta entera, sin lácteos",
+  "de": "Smoothie aus ganzen Früchten, ohne Milchprodukte",
+  "pt": "Vitamina de frutas inteiras, sem laticínios"
+ },
+ "6381": {
+  "it": "Frullato di frutta intera, senza latticini, con proteine aggiunte",
+  "fr": "Smoothie aux fruits entiers, sans produits laitiers, avec protéines ajoutées",
+  "es": "Batido de fruta entera, sin lácteos, con proteína añadida",
+  "de": "Smoothie aus ganzen Früchten, ohne Milchprodukte, mit zugesetztem Protein",
+  "pt": "Vitamina de frutas inteiras, sem laticínios, com proteína adicionada"
+ },
+ "6382": {
+  "it": "Frullato di frutta intera, non lattiero-caseario",
+  "fr": "Smoothie aux fruits entiers, non laitier",
+  "es": "Batido de fruta entera, no lácteo",
+  "de": "Smoothie aus ganzen Früchten, nicht milchbasiert",
+  "pt": "Vitamina de frutas inteiras, sem base láctea"
+ },
+ "6383": {
+  "it": "Sciroppo di frutta",
+  "fr": "Sirop de fruits",
+  "es": "Jarabe de frutas",
+  "de": "Fruchtsirup",
+  "pt": "Xarope de frutas"
+ },
+ "6384": {
+  "it": "Frutta ricoperta di cioccolato",
+  "fr": "Fruits enrobés de chocolat",
+  "es": "Fruta cubierta de chocolate",
+  "de": "Mit Schokolade überzogene Früchte",
+  "pt": "Frutas cobertas com chocolate"
+ },
+ "6385": {
+  "it": "Frutta, non specificata",
+  "fr": "Fruits, non précisés",
+  "es": "Fruta, no especificada",
+  "de": "Früchte, nicht näher bezeichnet",
+  "pt": "Frutas, não especificadas"
+ },
+ "6386": {
+  "it": "Frutta, in salamoia",
+  "fr": "Fruits, marinés",
+  "es": "Fruta, encurtida",
+  "de": "Früchte, eingelegt",
+  "pt": "Frutas, em conserva"
+ },
+ "6387": {
+  "it": "Salsa per patatine fritte",
+  "fr": "Sauce pour frites",
+  "es": "Salsa para papas fritas",
+  "de": "Pommes-frites-Sauce",
+  "pt": "Molho para batata frita"
+ },
+ "6388": {
+  "it": "Pane fritto, preparato con strutto (Apache)",
+  "fr": "Pain frit, préparé avec du saindoux (Apache)",
+  "es": "Pan frito, preparado con manteca de cerdo (Apache)",
+  "de": "Frittiertes Brot, mit Schmalz zubereitet (Apache)",
+  "pt": "Pão frito, preparado com banha de porco (Apache)"
+ },
+ "6389": {
+  "it": "Pane fritto, preparato con strutto (Navajo)",
+  "fr": "Pain frit, préparé avec du saindoux (Navajo)",
+  "es": "Pan frito, preparado con manteca de cerdo (Navajo)",
+  "de": "Frittiertes Brot, mit Schmalz zubereitet (Navajo)",
+  "pt": "Pão frito, preparado com banha de porco (Navajo)"
+ },
+ "6390": {
+  "it": "Ghiacciolo al cioccolato",
+  "fr": "Bâtonnet glacé au chocolat",
+  "es": "Paleta helada de chocolate",
+  "de": "Schokoladen-Eis am Stiel",
+  "pt": "Picolé de chocolate"
+ },
+ "6391": {
+  "it": "Ghiacciolo al cioccolato, leggero",
+  "fr": "Bâtonnet glacé au chocolat, léger",
+  "es": "Paleta helada de chocolate, ligera",
+  "de": "Leichtes Schokoladen-Eis am Stiel",
+  "pt": "Picolé de chocolate, light"
+ },
+ "6392": {
+  "it": "Fufu",
+  "fr": "Fufu",
+  "es": "Fufú",
+  "de": "Fufu",
+  "pt": "Fufu"
+ },
+ "6393": {
+  "it": "Funghi, orecchie di Giuda, secchi",
+  "fr": "Champignons, oreilles de Judas, séchés",
+  "es": "Hongos oreja de Judas, secos",
+  "de": "Pilze, Judasohr, getrocknet",
+  "pt": "Cogumelos, orelha-de-pau, secos"
+ },
+ "6394": {
+  "it": "Frittella funnel cake con zucchero",
+  "fr": "Gâteau funnel cake frit avec sucre",
+  "es": "Pastel funnel cake con azúcar",
+  "de": "Funnel Cake mit Zucker",
+  "pt": "Funnel cake com açúcar"
+ },
+ "6395": {
+  "it": "Frittella funnel cake con zucchero e frutta",
+  "fr": "Gâteau funnel cake frit avec sucre et fruits",
+  "es": "Pastel funnel cake con azúcar y fruta",
+  "de": "Funnel Cake mit Zucker und Früchten",
+  "pt": "Funnel cake com açúcar e frutas"
+ },
+ "6396": {
+  "it": "Cocktail Fuzzy Navel",
+  "fr": "Cocktail Fuzzy Navel",
+  "es": "Cóctel Fuzzy Navel",
+  "de": "Cocktail Fuzzy Navel",
+  "pt": "Coquetel Fuzzy Navel"
+ },
+ "6397": {
+  "it": "Carne di selvaggina, bisonte, macinata, cruda",
+  "fr": "Viande de gibier, bison, hachée, crue",
+  "es": "Carne de caza, bisonte, molida, cruda",
+  "de": "Wildfleisch, Bison, Hackfleisch, roh",
+  "pt": "Carne de caça, bisão, moída, crua"
+ },
+ "6398": {
+  "it": "Carne di selvaggina, bisonte, controfiletto superiore, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, bison, haut de surlonge, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, bisonte, lomo alto, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Bison, obere Lende, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, bisão, contrafilé superior, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6399": {
+  "it": "Carne di selvaggina, antilope, cotta, arrosto",
+  "fr": "Viande de gibier, antilope, cuite, rôtie",
+  "es": "Carne de caza, antílope, cocida, asada",
+  "de": "Wildfleisch, Antilope, gegart, gebraten",
+  "pt": "Carne de caça, antílope, cozida, assada"
+ },
+ "6400": {
+  "it": "Carne di selvaggina, antilope, cruda",
+  "fr": "Viande de gibier, antilope, crue",
+  "es": "Carne de caza, antílope, cruda",
+  "de": "Wildfleisch, Antilope, roh",
+  "pt": "Carne de caça, antílope, crua"
+ },
+ "6401": {
+  "it": "Carne di selvaggina, orso, cotta, stufata",
+  "fr": "Viande de gibier, ours, cuite, mijotée",
+  "es": "Carne de caza, oso, cocida, estofada",
+  "de": "Wildfleisch, Bär, gegart, geschmort",
+  "pt": "Carne de caça, urso, cozida, ensopada"
+ },
+ "6402": {
+  "it": "Carne di selvaggina, orso, cruda",
+  "fr": "Viande de gibier, ours, crue",
+  "es": "Carne de caza, oso, cruda",
+  "de": "Wildfleisch, Bär, roh",
+  "pt": "Carne de caça, urso, crua"
+ },
+ "6403": {
+  "it": "Carne di selvaggina, castoro, cotta, arrosto",
+  "fr": "Viande de gibier, castor, cuite, rôtie",
+  "es": "Carne de caza, castor, cocida, asada",
+  "de": "Wildfleisch, Biber, gegart, gebraten",
+  "pt": "Carne de caça, castor, cozida, assada"
+ },
+ "6404": {
+  "it": "Carne di selvaggina, castoro, cruda",
+  "fr": "Viande de gibier, castor, crue",
+  "es": "Carne de caza, castor, cruda",
+  "de": "Wildfleisch, Biber, roh",
+  "pt": "Carne de caça, castor, crua"
+ },
+ "6405": {
+  "it": "Carne di selvaggina, beefalo, tagli misti, cotta, arrosto",
+  "fr": "Viande de gibier, beefalo, assortiment de morceaux, cuite, rôtie",
+  "es": "Carne de caza, beefalo, mezcla de cortes, cocida, asada",
+  "de": "Wildfleisch, Beefalo, verschiedene Teilstücke, gegart, gebraten",
+  "pt": "Carne de caça, beefalo, mistura de cortes, cozida, assada"
+ },
+ "6406": {
+  "it": "Carne di selvaggina, beefalo, tagli misti, cruda",
+  "fr": "Viande de gibier, beefalo, assortiment de morceaux, crue",
+  "es": "Carne de caza, beefalo, mezcla de cortes, cruda",
+  "de": "Wildfleisch, Beefalo, verschiedene Teilstücke, roh",
+  "pt": "Carne de caça, beefalo, mistura de cortes, crua"
+ },
+ "6407": {
+  "it": "Carne di selvaggina, bisonte, spalla, copertina, solo parte magra separabile, cotta, brasata",
+  "fr": "Viande de gibier, bison, paleron, dessus d'épaule, partie maigre séparable seulement, cuit, braisé",
+  "es": "Carne de caza, bisonte, aguja, centro de paleta, solo parte magra separable, cocida, estofada",
+  "de": "Wildfleisch, Bison, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, gegart, geschmort",
+  "pt": "Carne de caça, bisão, acém, miolo da paleta, apenas parte magra separável, cozida, ensopada"
+ },
+ "6408": {
+  "it": "Carne di selvaggina, bisonte, spalla, copertina, solo parte magra separabile, cruda",
+  "fr": "Viande de gibier, bison, paleron, dessus d'épaule, partie maigre séparable seulement, cru",
+  "es": "Carne de caza, bisonte, aguja, centro de paleta, solo parte magra separable, cruda",
+  "de": "Wildfleisch, Bison, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, roh",
+  "pt": "Carne de caça, bisão, acém, miolo da paleta, apenas parte magra separável, crua"
+ },
+ "6409": {
+  "it": "Carne di selvaggina, bisonte, macinata, cotta, alla piastra",
+  "fr": "Viande de gibier, bison, hachée, cuite, grillée à la poêle",
+  "es": "Carne de caza, bisonte, molida, cocida, a la plancha",
+  "de": "Wildfleisch, Bison, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Carne de caça, bisão, moída, cozida, grelhada na frigideira"
+ },
+ "6410": {
+  "it": "Carne di selvaggina, bisonte, costata, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, bison, faux-filet, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, bisonte, ribeye, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Bison, Ribeye, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, bisão, ribeye, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6411": {
+  "it": "Carne di selvaggina, bisonte, costata, solo parte magra separabile, grasso rifilato a 0\", cruda",
+  "fr": "Viande de gibier, bison, faux-filet, partie maigre séparable seulement, gras paré à 0 pouce, cru",
+  "es": "Carne de caza, bisonte, ribeye, solo parte magra separable, grasa recortada a 0\", cruda",
+  "de": "Wildfleisch, Bison, Ribeye, nur abtrennbarer Mageranteil, Fett auf 0 Zoll getrimmt, roh",
+  "pt": "Carne de caça, bisão, ribeye, apenas parte magra separável, gordura aparada a 0\", crua"
+ },
+ "6412": {
+  "it": "Carne di selvaggina, bisonte, solo parte magra separabile, cotta, arrosto",
+  "fr": "Viande de gibier, bison, partie maigre séparable seulement, cuite, rôtie",
+  "es": "Carne de caza, bisonte, solo parte magra separable, cocida, asada",
+  "de": "Wildfleisch, Bison, nur abtrennbarer Mageranteil, gegart, gebraten",
+  "pt": "Carne de caça, bisão, apenas parte magra separável, cozida, assada"
+ },
+ "6413": {
+  "it": "Carne di selvaggina, bisonte, solo parte magra separabile, cruda",
+  "fr": "Viande de gibier, bison, partie maigre séparable seulement, crue",
+  "es": "Carne de caza, bisonte, solo parte magra separable, cruda",
+  "de": "Wildfleisch, Bison, nur abtrennbarer Mageranteil, roh",
+  "pt": "Carne de caça, bisão, apenas parte magra separável, crua"
+ },
+ "6414": {
+  "it": "Carne di selvaggina, bisonte, spalla, copertina, solo parte magra separabile, grasso rifilato a 0\", cruda",
+  "fr": "Viande de gibier, bison, paleron, dessus d'épaule, partie maigre séparable seulement, gras paré à 0 pouce, cru",
+  "es": "Carne de caza, bisonte, aguja, centro de paleta, solo parte magra separable, grasa recortada a 0\", cruda",
+  "de": "Wildfleisch, Bison, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, Fett auf 0 Zoll getrimmt, roh",
+  "pt": "Carne de caça, bisão, acém, miolo da paleta, apenas parte magra separável, gordura aparada a 0\", crua"
+ },
+ "6415": {
+  "it": "Carne di selvaggina, bisonte, fesa, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, bison, tende de tranche, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, bisonte, tapa, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Bison, Oberschale, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, bisão, coxão mole, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6416": {
+  "it": "Carne di selvaggina, bisonte, fesa, solo parte magra separabile, bistecca da 1\", cruda",
+  "fr": "Viande de gibier, bison, tende de tranche, partie maigre séparable seulement, steak de 1 pouce, cru",
+  "es": "Carne de caza, bisonte, tapa, solo parte magra separable, bistec de 1\", crudo",
+  "de": "Wildfleisch, Bison, Oberschale, nur abtrennbarer Mageranteil, 1-Zoll-Steak, roh",
+  "pt": "Carne de caça, bisão, coxão mole, apenas parte magra separável, bife de 1\", cru"
+ },
+ "6417": {
+  "it": "Carne di selvaggina, bisonte, controfiletto superiore, solo parte magra separabile, grasso rifilato a 0\", cruda",
+  "fr": "Viande de gibier, bison, haut de surlonge, partie maigre séparable seulement, gras paré à 0 pouce, cru",
+  "es": "Carne de caza, bisonte, lomo alto, solo parte magra separable, grasa recortada a 0\", cruda",
+  "de": "Wildfleisch, Bison, obere Lende, nur abtrennbarer Mageranteil, Fett auf 0 Zoll getrimmt, roh",
+  "pt": "Carne de caça, bisão, contrafilé superior, apenas parte magra separável, gordura aparada a 0\", crua"
+ },
+ "6418": {
+  "it": "Carne di selvaggina, cinghiale, selvatico, cotta, arrosto",
+  "fr": "Viande de gibier, sanglier, sauvage, cuite, rôtie",
+  "es": "Carne de caza, jabalí, silvestre, cocida, asada",
+  "de": "Wildfleisch, Wildschwein, gegart, gebraten",
+  "pt": "Carne de caça, javali, selvagem, cozida, assada"
+ },
+ "6419": {
+  "it": "Carne di selvaggina, cinghiale, selvatico, cruda",
+  "fr": "Viande de gibier, sanglier, sauvage, crue",
+  "es": "Carne de caza, jabalí, silvestre, cruda",
+  "de": "Wildfleisch, Wildschwein, roh",
+  "pt": "Carne de caça, javali, selvagem, crua"
+ },
+ "6420": {
+  "it": "Carne di selvaggina, bufalo d'acqua, cotta, arrosto",
+  "fr": "Viande de gibier, buffle d'eau, cuite, rôtie",
+  "es": "Carne de caza, búfalo de agua, cocida, asada",
+  "de": "Wildfleisch, Wasserbüffel, gegart, gebraten",
+  "pt": "Carne de caça, búfalo-d'água, cozida, assada"
+ },
+ "6421": {
+  "it": "Carne di selvaggina, bufalo d'acqua, cruda",
+  "fr": "Viande de gibier, buffle d'eau, crue",
+  "es": "Carne de caza, búfalo de agua, cruda",
+  "de": "Wildfleisch, Wasserbüffel, roh",
+  "pt": "Carne de caça, búfalo-d'água, crua"
+ },
+ "6422": {
+  "it": "Carne di selvaggina, caribù, cotta, arrosto",
+  "fr": "Viande de gibier, caribou, cuite, rôtie",
+  "es": "Carne de caza, caribú, cocida, asada",
+  "de": "Wildfleisch, Karibu, gegart, gebraten",
+  "pt": "Carne de caça, caribu, cozida, assada"
+ },
+ "6423": {
+  "it": "Carne di selvaggina, caribù, cruda",
+  "fr": "Viande de gibier, caribou, crue",
+  "es": "Carne de caza, caribú, cruda",
+  "de": "Wildfleisch, Karibu, roh",
+  "pt": "Carne de caça, caribu, crua"
+ },
+ "6424": {
+  "it": "Carne di selvaggina, cervo, cotta, arrosto",
+  "fr": "Viande de gibier, cerf, cuite, rôtie",
+  "es": "Carne de caza, venado, cocida, asada",
+  "de": "Wildfleisch, Hirsch, gegart, gebraten",
+  "pt": "Carne de caça, cervo, cozida, assada"
+ },
+ "6425": {
+  "it": "Carne di selvaggina, cervo, macinata, cotta, alla piastra",
+  "fr": "Viande de gibier, cerf, hachée, cuite, grillée à la poêle",
+  "es": "Carne de caza, venado, molida, cocida, a la plancha",
+  "de": "Wildfleisch, Hirsch, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Carne de caça, cervo, moída, cozida, grelhada na frigideira"
+ },
+ "6426": {
+  "it": "Carne di selvaggina, cervo, macinata, cruda",
+  "fr": "Viande de gibier, cerf, hachée, crue",
+  "es": "Carne de caza, venado, molida, cruda",
+  "de": "Wildfleisch, Hirsch, Hackfleisch, roh",
+  "pt": "Carne de caça, cervo, moída, crua"
+ },
+ "6427": {
+  "it": "Carne di selvaggina, cervo, lombata, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, cerf, longe, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, venado, lomo, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Hirsch, Lende, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, cervo, lombo, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6428": {
+  "it": "Carne di selvaggina, cervo, cruda",
+  "fr": "Viande de gibier, cerf, crue",
+  "es": "Carne de caza, venado, cruda",
+  "de": "Wildfleisch, Hirsch, roh",
+  "pt": "Carne de caça, cervo, crua"
+ },
+ "6429": {
+  "it": "Carne di selvaggina, cervo, spalla, copertina, solo parte magra separabile, cotta, brasata",
+  "fr": "Viande de gibier, cerf, paleron, dessus d'épaule, partie maigre séparable seulement, cuit, braisé",
+  "es": "Carne de caza, venado, aguja, centro de paleta, solo parte magra separable, cocida, estofada",
+  "de": "Wildfleisch, Hirsch, Schulter, Schulterblatt, nur abtrennbarer Mageranteil, gegart, geschmort",
+  "pt": "Carne de caça, cervo, acém, miolo da paleta, apenas parte magra separável, cozida, ensopada"
+ },
+ "6430": {
+  "it": "Carne di selvaggina, cervo, filetto, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, cerf, filet, partie maigre séparable seulement, cuit, grillé",
+  "es": "Carne de caza, venado, solomillo, solo parte magra separable, cocido, a la parrilla",
+  "de": "Wildfleisch, Hirsch, Filet, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, cervo, filé mignon, apenas parte magra separável, cozido, grelhado"
+ },
+ "6431": {
+  "it": "Carne di selvaggina, cervo, fesa, solo parte magra separabile, bistecca da 1\", cotta, alla griglia",
+  "fr": "Viande de gibier, cerf, tende de tranche, partie maigre séparable seulement, steak de 1 pouce, cuit, grillé",
+  "es": "Carne de caza, venado, tapa, solo parte magra separable, bistec de 1\", cocido, a la parrilla",
+  "de": "Wildfleisch, Hirsch, Oberschale, nur abtrennbarer Mageranteil, 1-Zoll-Steak, gegart, gegrillt",
+  "pt": "Carne de caça, cervo, coxão mole, apenas parte magra separável, bife de 1\", cozido, grelhado"
+ },
+ "6432": {
+  "it": "Carne di selvaggina, alce, cotta, arrosto",
+  "fr": "Viande de gibier, wapiti, cuite, rôtie",
+  "es": "Carne de caza, uapití, cocida, asada",
+  "de": "Wildfleisch, Wapiti, gegart, gebraten",
+  "pt": "Carne de caça, uapiti, cozida, assada"
+ },
+ "6433": {
+  "it": "Carne di selvaggina, alce, macinata, cotta, alla piastra",
+  "fr": "Viande de gibier, wapiti, hachée, cuite, grillée à la poêle",
+  "es": "Carne de caza, uapití, molida, cocida, a la plancha",
+  "de": "Wildfleisch, Wapiti, Hackfleisch, gegart, in der Pfanne gegrillt",
+  "pt": "Carne de caça, uapiti, moída, cozida, grelhada na frigideira"
+ },
+ "6434": {
+  "it": "Carne di selvaggina, alce, macinata, cruda",
+  "fr": "Viande de gibier, wapiti, hachée, crue",
+  "es": "Carne de caza, uapití, molida, cruda",
+  "de": "Wildfleisch, Wapiti, Hackfleisch, roh",
+  "pt": "Carne de caça, uapiti, moída, crua"
+ },
+ "6435": {
+  "it": "Carne di selvaggina, alce, lombata, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, wapiti, longe, partie maigre séparable seulement, cuite, grillée",
+  "es": "Carne de caza, uapití, lomo, solo parte magra separable, cocida, a la parrilla",
+  "de": "Wildfleisch, Wapiti, Lende, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, uapiti, lombo, apenas parte magra separável, cozida, grelhada"
+ },
+ "6436": {
+  "it": "Carne di selvaggina, alce, cruda",
+  "fr": "Viande de gibier, wapiti, crue",
+  "es": "Carne de caza, uapití, cruda",
+  "de": "Wildfleisch, Wapiti, roh",
+  "pt": "Carne de caça, uapiti, crua"
+ },
+ "6437": {
+  "it": "Carne di selvaggina, alce, noce, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, wapiti, rond, partie maigre séparable seulement, cuit, grillé",
+  "es": "Carne de caza, uapití, redondo, solo parte magra separable, cocido, a la parrilla",
+  "de": "Wildfleisch, Wapiti, Nussstück, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, uapiti, lagarto, apenas parte magra separável, cozido, grelhado"
+ },
+ "6438": {
+  "it": "Carne di selvaggina, alce, filetto, solo parte magra separabile, cotta, alla griglia",
+  "fr": "Viande de gibier, wapiti, filet, partie maigre séparable seulement, cuit, grillé",
+  "es": "Carne de caza, uapití, solomillo, solo parte magra separable, cocido, a la parrilla",
+  "de": "Wildfleisch, Wapiti, Filet, nur abtrennbarer Mageranteil, gegart, gegrillt",
+  "pt": "Carne de caça, uapiti, filé mignon, apenas parte magra separável, cozido, grelhado"
+ },
+ "6439": {
+  "it": "Carne di selvaggina, capra, cotta, arrosto",
+  "fr": "Viande de gibier, chèvre, cuite, rôtie",
+  "es": "Carne de caza, cabra, cocida, asada",
+  "de": "Wildfleisch, Ziege, gegart, gebraten",
+  "pt": "Carne de caça, cabra, cozida, assada"
+ },
+ "6440": {
+  "it": "Carne di selvaggina, capra, cruda",
+  "fr": "Viande de gibier, chèvre, crue",
+  "es": "Carne de caza, cabra, cruda",
+  "de": "Wildfleisch, Ziege, roh",
+  "pt": "Carne de caça, cabra, crua"
+ },
+ "6441": {
+  "it": "Carne di selvaggina, cavallo, cotta, arrosto",
+  "fr": "Viande de gibier, cheval, cuite, rôtie",
+  "es": "Carne de caza, caballo, cocida, asada",
+  "de": "Wildfleisch, Pferd, gegart, gebraten",
+  "pt": "Carne de caça, cavalo, cozida, assada"
+ },
+ "6442": {
+  "it": "Carne di selvaggina, cavallo, cruda",
+  "fr": "Viande de gibier, cheval, crue",
+  "es": "Carne de caza, caballo, cruda",
+  "de": "Wildfleisch, Pferd, roh",
+  "pt": "Carne de caça, cavalo, crua"
+ },
+ "6443": {
+  "it": "Carne di selvaggina, alce canadese, cotta, arrosto",
+  "fr": "Viande de gibier, orignal, cuite, rôtie",
+  "es": "Carne de caza, alce, cocida, asada",
+  "de": "Wildfleisch, Elch, gegart, gebraten",
+  "pt": "Carne de caça, alce, cozida, assada"
+ },
+ "6444": {
+  "it": "Carne di selvaggina, alce canadese, cruda",
+  "fr": "Viande de gibier, orignal, crue",
+  "es": "Carne de caza, alce, cruda",
+  "de": "Wildfleisch, Elch, roh",
+  "pt": "Carne de caça, alce, crua"
+ },
+ "6445": {
+  "it": "Carne di selvaggina, topo muschiato, cotta, arrosto",
+  "fr": "Viande de gibier, rat musqué, cuite, rôtie",
+  "es": "Carne de caza, rata almizclera, cocida, asada",
+  "de": "Wildfleisch, Bisamratte, gegart, gebraten",
+  "pt": "Carne de caça, rato-almiscarado, cozida, assada"
+ },
+ "6446": {
+  "it": "Carne di selvaggina, topo muschiato, cruda",
+  "fr": "Viande de gibier, rat musqué, crue",
+  "es": "Carne de caza, rata almizclera, cruda",
+  "de": "Wildfleisch, Bisamratte, roh",
+  "pt": "Carne de caça, rato-almiscarado, crua"
+ },
+ "6447": {
+  "it": "Carne di selvaggina, opossum, cotta, arrosto",
+  "fr": "Viande de gibier, opossum, cuite, rôtie",
+  "es": "Carne de caza, zarigüeya, cocida, asada",
+  "de": "Wildfleisch, Opossum, gegart, gebraten",
+  "pt": "Carne de caça, gambá, cozida, assada"
+ },
+ "6448": {
+  "it": "Carne di selvaggina, coniglio domestico, tagli misti, cotta, arrosto",
+  "fr": "Viande de gibier, lapin domestique, assortiment de morceaux, cuit, rôti",
+  "es": "Carne de caza, conejo doméstico, mezcla de cortes, cocida, asada",
+  "de": "Wildfleisch, Hauskaninchen, verschiedene Teilstücke, gegart, gebraten",
+  "pt": "Carne de caça, coelho doméstico, mistura de cortes, cozida, assada"
+ },
+ "6449": {
+  "it": "Carne di selvaggina, coniglio domestico, tagli misti, cotta, stufata",
+  "fr": "Viande de gibier, lapin domestique, assortiment de morceaux, cuit, mijoté",
+  "es": "Carne de caza, conejo doméstico, mezcla de cortes, cocida, estofada",
+  "de": "Wildfleisch, Hauskaninchen, verschiedene Teilstücke, gegart, geschmort",
+  "pt": "Carne de caça, coelho doméstico, mistura de cortes, cozida, ensopada"
+ },
+ "6450": {
+  "it": "Carne di selvaggina, coniglio domestico, tagli misti, cruda",
+  "fr": "Viande de gibier, lapin domestique, assortiment de morceaux, cru",
+  "es": "Carne de caza, conejo doméstico, mezcla de cortes, cruda",
+  "de": "Wildfleisch, Hauskaninchen, verschiedene Teilstücke, roh",
+  "pt": "Carne de caça, coelho doméstico, mistura de cortes, crua"
+ },
+ "6451": {
+  "it": "Carne di selvaggina, coniglio selvatico, cotta, stufata",
+  "fr": "Viande de gibier, lapin sauvage, cuit, mijoté",
+  "es": "Carne de caza, conejo silvestre, cocido, estofado",
+  "de": "Wildfleisch, Wildkaninchen, gegart, geschmort",
+  "pt": "Carne de caça, coelho selvagem, cozido, ensopado"
+ },
+ "6452": {
+  "it": "Carne di selvaggina, coniglio selvatico, cruda",
+  "fr": "Viande de gibier, lapin sauvage, cru",
+  "es": "Carne de caza, conejo silvestre, crudo",
+  "de": "Wildfleisch, Wildkaninchen, roh",
+  "pt": "Carne de caça, coelho selvagem, cru"
+ },
+ "6453": {
+  "it": "Carne di selvaggina, procione, cotta, arrosto",
+  "fr": "Viande de gibier, raton laveur, cuite, rôtie",
+  "es": "Carne de caza, mapache, cocida, asada",
+  "de": "Wildfleisch, Waschbär, gegart, gebraten",
+  "pt": "Carne de caça, guaxinim, cozida, assada"
+ },
+ "6454": {
+  "it": "Carne di selvaggina, scoiattolo, cotta, arrosto",
+  "fr": "Viande de gibier, écureuil, cuite, rôtie",
+  "es": "Carne de caza, ardilla, cocida, asada",
+  "de": "Wildfleisch, Eichhörnchen, gegart, gebraten",
+  "pt": "Carne de caça, esquilo, cozida, assada"
+ },
+ "6455": {
+  "it": "Carne di selvaggina, scoiattolo, cruda",
+  "fr": "Viande de gibier, écureuil, crue",
+  "es": "Carne de caza, ardilla, cruda",
+  "de": "Wildfleisch, Eichhörnchen, roh",
+  "pt": "Carne de caça, esquilo, crua"
+ },
+ "6456": {
+  "it": "Pane all'aglio, da fast food o ristorante",
+  "fr": "Pain à l'ail, de restauration rapide ou de restaurant",
+  "es": "Pan de ajo, de comida rápida o restaurante",
+  "de": "Knoblauchbrot, aus Fast Food oder Restaurant",
+  "pt": "Pão de alho, de fast food ou restaurante"
+ },
+ "6457": {
+  "it": "Pane all'aglio, surgelato",
+  "fr": "Pain à l'ail, surgelé",
+  "es": "Pan de ajo, congelado",
+  "de": "Knoblauchbrot, tiefgekühlt",
+  "pt": "Pão de alho, congelado"
+ },
+ "6458": {
+  "it": "Pane all'aglio, surgelato",
+  "fr": "Pain à l'ail, surgelé",
+  "es": "Pan de ajo, congelado",
+  "de": "Knoblauchbrot, tiefgekühlt",
+  "pt": "Pão de alho, congelado"
+ },
+ "6459": {
+  "it": "Pane all'aglio, non specificato",
+  "fr": "Pain à l'ail, non précisé",
+  "es": "Pan de ajo, no especificado",
+  "de": "Knoblauchbrot, nicht näher bezeichnet",
+  "pt": "Pão de alho, não especificado"
+ },
+ "6460": {
+  "it": "Pane all'aglio con formaggio fuso, da fast food o ristorante",
+  "fr": "Pain à l'ail avec fromage fondu, de restauration rapide ou de restaurant",
+  "es": "Pan de ajo con queso fundido, de comida rápida o restaurante",
+  "de": "Knoblauchbrot mit geschmolzenem Käse, aus Fast Food oder Restaurant",
+  "pt": "Pão de alho com queijo derretido, de fast food ou restaurante"
+ },
+ "6461": {
+  "it": "Pane all'aglio con formaggio fuso, surgelato",
+  "fr": "Pain à l'ail avec fromage fondu, surgelé",
+  "es": "Pan de ajo con queso fundido, congelado",
+  "de": "Knoblauchbrot mit geschmolzenem Käse, tiefgekühlt",
+  "pt": "Pão de alho com queijo derretido, congelado"
+ },
+ "6462": {
+  "it": "Pane all'aglio con parmigiano, da fast food o ristorante",
+  "fr": "Pain à l'ail avec parmesan, de restauration rapide ou de restaurant",
+  "es": "Pan de ajo con queso parmesano, de comida rápida o restaurante",
+  "de": "Knoblauchbrot mit Parmesan, aus Fast Food oder Restaurant",
+  "pt": "Pão de alho com queijo parmesão, de fast food ou restaurante"
+ },
+ "6463": {
+  "it": "Pane all'aglio con parmigiano, surgelato",
+  "fr": "Pain à l'ail avec parmesan, surgelé",
+  "es": "Pan de ajo con queso parmesano, congelado",
+  "de": "Knoblauchbrot mit Parmesan, tiefgekühlt",
+  "pt": "Pão de alho com queijo parmesão, congelado"
+ },
+ "6464": {
+  "it": "Salsa all'aglio",
+  "fr": "Sauce à l'ail",
+  "es": "Salsa de ajo",
+  "de": "Knoblauchsauce",
+  "pt": "Molho de alho"
+ },
+ "6465": {
+  "it": "Aglio, cotto",
+  "fr": "Ail, cuit",
+  "es": "Ajo, cocido",
+  "de": "Knoblauch, gegart",
+  "pt": "Alho, cozido"
+ },
+ "6466": {
+  "it": "Aglio, crudo",
+  "fr": "Ail, cru",
+  "es": "Ajo, crudo",
+  "de": "Knoblauch, roh",
+  "pt": "Alho, cru"
+ },
+ "6467": {
+  "it": "Gefilte fish",
+  "fr": "Poisson farci (gefilte fish)",
+  "es": "Pescado relleno (gefilte fish)",
+  "de": "Gefilte Fisch (gefüllter Fisch)",
+  "pt": "Gefilte fish (peixe recheado)"
+ },
+ "6468": {
+  "it": "Dessert di gelatina",
+  "fr": "Dessert à la gélatine",
+  "es": "Postre de gelatina",
+  "de": "Gelatinedessert",
+  "pt": "Sobremesa de gelatina"
+ },
+ "6469": {
+  "it": "Dessert di gelatina con frutta",
+  "fr": "Dessert à la gélatine avec fruits",
+  "es": "Postre de gelatina con fruta",
+  "de": "Gelatinedessert mit Früchten",
+  "pt": "Sobremesa de gelatina com frutas"
+ },
+ "6470": {
+  "it": "Dessert di gelatina senza zucchero",
+  "fr": "Dessert à la gélatine sans sucre",
+  "es": "Postre de gelatina sin azúcar",
+  "de": "Zuckerfreies Gelatinedessert",
+  "pt": "Sobremesa de gelatina sem açúcar"
+ },
+ "6471": {
+  "it": "Dessert di gelatina senza zucchero, con frutta",
+  "fr": "Dessert à la gélatine sans sucre, avec fruits",
+  "es": "Postre de gelatina sin azúcar, con fruta",
+  "de": "Zuckerfreies Gelatinedessert mit Früchten",
+  "pt": "Sobremesa de gelatina sem açúcar, com frutas"
+ },
+ "6472": {
+  "it": "Dessert di gelatina, preparato in polvere",
+  "fr": "Desserts à la gélatine, préparation en poudre",
+  "es": "Postres de gelatina, mezcla en polvo",
+  "de": "Gelatinedesserts, Trockenmischung",
+  "pt": "Sobremesas de gelatina, mistura em pó"
+ },
+ "6473": {
+  "it": "Dessert di gelatina, preparato in polvere, preparato con acqua",
+  "fr": "Desserts à la gélatine, préparation en poudre, préparés avec de l'eau",
+  "es": "Postres de gelatina, mezcla en polvo, preparados con agua",
+  "de": "Gelatinedesserts, Trockenmischung, mit Wasser zubereitet",
+  "pt": "Sobremesas de gelatina, mistura em pó, preparadas com água"
+ },
+ "6474": {
+  "it": "Dessert di gelatina, preparato in polvere, a ridotto contenuto calorico, con aspartame",
+  "fr": "Desserts à la gélatine, préparation en poudre, à teneur réduite en calories, avec aspartame",
+  "es": "Postres de gelatina, mezcla en polvo, reducidos en calorías, con aspartamo",
+  "de": "Gelatinedesserts, Trockenmischung, kalorienreduziert, mit Aspartam",
+  "pt": "Sobremesas de gelatina, mistura em pó, com calorias reduzidas, com aspartame"
+ },
+ "6475": {
+  "it": "Dessert di gelatina, preparato in polvere, a ridotto contenuto calorico, con aspartame, fosforo, potassio, sodio e vitamina C aggiunti",
+  "fr": "Desserts à la gélatine, préparation en poudre, à teneur réduite en calories, avec aspartame, phosphore, potassium, sodium et vitamine C ajoutés",
+  "es": "Postres de gelatina, mezcla en polvo, reducidos en calorías, con aspartamo y fósforo, potasio, sodio y vitamina C añadidos",
+  "de": "Gelatinedesserts, Trockenmischung, kalorienreduziert, mit Aspartam und zugesetztem Phosphor, Kalium, Natrium und Vitamin C",
+  "pt": "Sobremesas de gelatina, mistura em pó, com calorias reduzidas, com aspartame e fósforo, potássio, sódio e vitamina C adicionados"
+ },
+ "6476": {
+  "it": "Dessert di gelatina, preparato in polvere, a ridotto contenuto calorico, con aspartame, senza sodio aggiunto",
+  "fr": "Desserts à la gélatine, préparation en poudre, à teneur réduite en calories, avec aspartame, sans sodium ajouté",
+  "es": "Postres de gelatina, mezcla en polvo, reducidos en calorías, con aspartamo, sin sodio añadido",
+  "de": "Gelatinedesserts, Trockenmischung, kalorienreduziert, mit Aspartam, ohne Natriumzusatz",
+  "pt": "Sobremesas de gelatina, mistura em pó, com calorias reduzidas, com aspartame, sem adição de sódio"
+ },
+ "6477": {
+  "it": "Dessert di gelatina, preparato in polvere, a ridotto contenuto calorico, con aspartame, preparato con acqua",
+  "fr": "Desserts à la gélatine, préparation en poudre, à teneur réduite en calories, avec aspartame, préparés avec de l'eau",
+  "es": "Postres de gelatina, mezcla en polvo, reducidos en calorías, con aspartamo, preparados con agua",
+  "de": "Gelatinedesserts, Trockenmischung, kalorienreduziert, mit Aspartam, mit Wasser zubereitet",
+  "pt": "Sobremesas de gelatina, mistura em pó, com calorias reduzidas, com aspartame, preparadas com água"
+ },
+ "6478": {
+  "it": "Dessert di gelatina, preparato in polvere, con acido ascorbico, citrato di sodio e sale aggiunti",
+  "fr": "Desserts à la gélatine, préparation en poudre, avec acide ascorbique, citrate de sodium et sel ajoutés",
+  "es": "Postres de gelatina, mezcla en polvo, con ácido ascórbico, citrato de sodio y sal añadidos",
+  "de": "Gelatinedesserts, Trockenmischung, mit zugesetzter Ascorbinsäure, Natriumcitrat und Salz",
+  "pt": "Sobremesas de gelatina, mistura em pó, com ácido ascórbico, citrato de sódio e sal adicionados"
+ },
+ "6479": {
+  "it": "Insalata di gelatina con verdure",
+  "fr": "Salade de gélatine avec légumes",
+  "es": "Ensalada de gelatina con verduras",
+  "de": "Gelatinesalat mit Gemüse",
+  "pt": "Salada de gelatina com vegetais"
+ },
+ "6480": {
+  "it": "Gelatina alcolica in bicchierino",
+  "fr": "Gelée alcoolisée en shot",
+  "es": "Gelatina alcohólica en vasito",
+  "de": "Alkoholisches Gelatine-Shot",
+  "pt": "Dose de gelatina alcoólica"
+ },
+ "6481": {
+  "it": "Gelatina, polvere secca, non zuccherata",
+  "fr": "Gélatine, poudre sèche, non sucrée",
+  "es": "Gelatina, polvo seco, sin azúcar",
+  "de": "Gelatine, Trockenpulver, ungesüßt",
+  "pt": "Gelatina, pó seco, sem açúcar"
+ },
+ "6482": {
+  "it": "Gelato, al cioccolato",
+  "fr": "Glace, au chocolat",
+  "es": "Helado, de chocolate",
+  "de": "Speiseeis, Schokolade",
+  "pt": "Sorvete, de chocolate"
+ },
+ "6483": {
+  "it": "Gelato, alla vaniglia",
+  "fr": "Glace, à la vanille",
+  "es": "Helado, de vainilla",
+  "de": "Speiseeis, Vanille",
+  "pt": "Sorvete, de baunilha"
+ },
+ "6484": {
+  "it": "Pollo del Generale Tso",
+  "fr": "Poulet du général Tso",
+  "es": "Pollo del general Tso",
+  "de": "General-Tso-Hähnchen",
+  "pt": "Frango do General Tso"
+ },
+ "6485": {
+  "it": "George Weston Bakeries, miscela secca per ripieno Brownberry alla salvia e cipolla",
+  "fr": "George Weston Bakeries, préparation sèche pour farce Brownberry à la sauge et à l'oignon",
+  "es": "George Weston Bakeries, mezcla seca para relleno Brownberry de salvia y cebolla",
+  "de": "George Weston Bakeries, trockene Brownberry-Füllungsmischung mit Salbei und Zwiebeln",
+  "pt": "George Weston Bakeries, mistura seca para recheio Brownberry de sálvia e cebola"
+ },
+ "6486": {
+  "it": "George Weston Bakeries, muffin inglesi Thomas",
+  "fr": "George Weston Bakeries, muffins anglais Thomas",
+  "es": "George Weston Bakeries, muffins ingleses Thomas",
+  "de": "George Weston Bakeries, Thomas English Muffins",
+  "pt": "George Weston Bakeries, muffins ingleses Thomas"
+ },
+ "6487": {
+  "it": "Ghee, burro chiarificato",
+  "fr": "Ghee, beurre clarifié",
+  "es": "Ghee, mantequilla clarificada",
+  "de": "Ghee, geklärte Butter",
+  "pt": "Ghee, manteiga clarificada"
+ },
+ "6488": {
+  "it": "Gimlet",
+  "fr": "Gimlet",
+  "es": "Gimlet",
+  "de": "Gimlet",
+  "pt": "Gimlet"
+ },
+ "6489": {
+  "it": "Gin",
+  "fr": "Gin",
+  "es": "Ginebra",
+  "de": "Gin",
+  "pt": "Gin"
+ },
+ "6490": {
+  "it": "Gin tonic",
+  "fr": "Gin tonic",
+  "es": "Ginebra con tónica",
+  "de": "Gin Tonic",
+  "pt": "Gin tônica"
+ },
+ "6491": {
+  "it": "Gin fizz",
+  "fr": "Gin fizz",
+  "es": "Gin fizz",
+  "de": "Gin Fizz",
+  "pt": "Gin fizz"
+ },
+ "6492": {
+  "it": "Radice di zenzero, sottaceto",
+  "fr": "Racine de gingembre, marinée",
+  "es": "Raíz de jengibre, encurtida",
+  "de": "Ingwerwurzel, eingelegt",
+  "pt": "Raiz de gengibre, em conserva"
+ },
+ "6493": {
+  "it": "Radice di zenzero, sottaceto, in scatola, con dolcificante artificiale",
+  "fr": "Racine de gingembre, marinée, en conserve, avec édulcorant artificiel",
+  "es": "Raíz de jengibre, encurtida, en conserva, con edulcorante artificial",
+  "de": "Ingwerwurzel, eingelegt, aus der Dose, mit künstlichem Süßungsmittel",
+  "pt": "Raiz de gengibre, em conserva, enlatada, com adoçante artificial"
+ },
+ "6494": {
+  "it": "Radice di zenzero, cruda",
+  "fr": "Racine de gingembre, crue",
+  "es": "Raíz de jengibre, cruda",
+  "de": "Ingwerwurzel, roh",
+  "pt": "Raiz de gengibre, crua"
+ },
+ "6495": {
+  "it": "Ventriglio",
+  "fr": "Gésier",
+  "es": "Molleja",
+  "de": "Muskelmagen",
+  "pt": "Moela"
+ },
+ "6496": {
+  "it": "Glug",
+  "fr": "Glug",
+  "es": "Glug",
+  "de": "Glug",
+  "pt": "Glug"
+ },
+ "6497": {
+  "it": "Glutino, biscotti senza glutine, crema al cioccolato e vaniglia",
+  "fr": "Glutino, biscuits sans gluten, crème chocolat-vanille",
+  "es": "Glutino, galletas sin gluten, crema de chocolate y vainilla",
+  "de": "Glutino, glutenfreie Kekse, Schokoladen-Vanille-Creme",
+  "pt": "Glutino, biscoitos sem glúten, creme de chocolate e baunilha"
+ },
+ "6498": {
+  "it": "Glutino, biscotti senza glutine, crema alla vaniglia",
+  "fr": "Glutino, biscuits sans gluten, crème à la vanille",
+  "es": "Glutino, galletas sin gluten, crema de vainilla",
+  "de": "Glutino, glutenfreie Kekse, Vanillecreme",
+  "pt": "Glutino, biscoitos sem glúten, creme de baunilha"
+ },
+ "6499": {
+  "it": "Glutino, wafer senza glutine, al limone",
+  "fr": "Glutino, gaufrettes sans gluten, au citron",
+  "es": "Glutino, barquillos sin gluten, sabor limón",
+  "de": "Glutino, glutenfreie Waffeln, Zitronengeschmack",
+  "pt": "Glutino, wafers sem glúten, sabor limão"
+ },
+ "6500": {
+  "it": "Glutino, wafer senza glutine, al cioccolato al latte",
+  "fr": "Glutino, gaufrettes sans gluten, au chocolat au lait",
+  "es": "Glutino, barquillos sin gluten, chocolate con leche",
+  "de": "Glutino, glutenfreie Waffeln, Milchschokolade",
+  "pt": "Glutino, wafers sem glúten, chocolate ao leite"
+ },
+ "6501": {
+  "it": "Gnocchi, al formaggio",
+  "fr": "Gnocchis, au fromage",
+  "es": "Ñoquis, de queso",
+  "de": "Gnocchi, mit Käse",
+  "pt": "Nhoque, de queijo"
+ },
+ "6502": {
+  "it": "Gnocchi, di patate",
+  "fr": "Gnocchis, de pommes de terre",
+  "es": "Ñoquis, de papa",
+  "de": "Kartoffelgnocchi",
+  "pt": "Nhoque, de batata"
+ },
+ "6503": {
+  "it": "Capra",
+  "fr": "Chèvre",
+  "es": "Cabra",
+  "de": "Ziege",
+  "pt": "Cabra"
+ },
+ "6504": {
+  "it": "Latte di capra",
+  "fr": "Lait de chèvre",
+  "es": "Leche de cabra",
+  "de": "Ziegenmilch",
+  "pt": "Leite de cabra"
+ },
+ "6505": {
+  "it": "Bacche di goji, secche",
+  "fr": "Baies de goji, séchées",
+  "es": "Bayas de goji, secas",
+  "de": "Goji-Beeren, getrocknet",
+  "pt": "Bagas de goji, secas"
+ },
+ "6506": {
+  "it": "Uovo d'oca, cotto",
+  "fr": "Œuf d'oie, cuit",
+  "es": "Huevo de oca, cocido",
+  "de": "Gänseei, gegart",
+  "pt": "Ovo de gansa, cozido"
+ },
+ "6507": {
+  "it": "Oca domestica, carne e pelle, cotta, arrosto",
+  "fr": "Oie domestique, viande et peau, cuite, rôtie",
+  "es": "Ganso doméstico, carne y piel, cocido, asado",
+  "de": "Hausgans, Fleisch und Haut, gegart, gebraten",
+  "pt": "Ganso doméstico, carne e pele, cozido, assado"
+ },
+ "6508": {
+  "it": "Oca domestica, carne e pelle, cruda",
+  "fr": "Oie domestique, viande et peau, crue",
+  "es": "Ganso doméstico, carne y piel, crudo",
+  "de": "Hausgans, Fleisch und Haut, roh",
+  "pt": "Ganso doméstico, carne e pele, cru"
+ },
+ "6509": {
+  "it": "Oca domestica, solo carne, cotta, arrosto",
+  "fr": "Oie domestique, viande seule, cuite, rôtie",
+  "es": "Ganso doméstico, solo carne, cocido, asado",
+  "de": "Hausgans, nur Fleisch, gegart, gebraten",
+  "pt": "Ganso doméstico, apenas carne, cozido, assado"
+ },
+ "6510": {
+  "it": "Oca domestica, solo carne, cruda",
+  "fr": "Oie domestique, viande seule, crue",
+  "es": "Ganso doméstico, solo carne, crudo",
+  "de": "Hausgans, nur Fleisch, roh",
+  "pt": "Ganso doméstico, apenas carne, cru"
+ },
+ "6511": {
+  "it": "Oca, fegato, crudo",
+  "fr": "Oie, foie, cru",
+  "es": "Ganso, hígado, crudo",
+  "de": "Gans, Leber, roh",
+  "pt": "Ganso, fígado, cru"
+ },
+ "6512": {
+  "it": "Oca selvatica, arrosto",
+  "fr": "Oie sauvage, rôtie",
+  "es": "Ganso silvestre, asado",
+  "de": "Wildgans, gebraten",
+  "pt": "Ganso selvagem, assado"
+ },
+ "6513": {
+  "it": "Uva spina, in scatola, sciroppo leggero, solidi e liquidi",
+  "fr": "Groseilles à maquereau, en conserve, sirop léger, solides et liquides",
+  "es": "Grosellas espinosas, en conserva, almíbar ligero, sólidos y líquidos",
+  "de": "Stachelbeeren, aus der Dose, leichter Sirup, feste und flüssige Bestandteile",
+  "pt": "Groselhas-espinhosas, enlatadas, calda leve, sólidos e líquidos"
+ },
+ "6514": {
+  "it": "Uva spina, cruda",
+  "fr": "Groseilles à maquereau, crues",
+  "es": "Grosellas espinosas, crudas",
+  "de": "Stachelbeeren, roh",
+  "pt": "Groselhas-espinhosas, cruas"
+ },
+ "6515": {
+  "it": "Gordita, solo formaggio",
+  "fr": "Gordita, fromage seulement",
+  "es": "Gordita, solo queso",
+  "de": "Gordita, nur Käse",
+  "pt": "Gordita, apenas queijo"
+ },
+ "6516": {
+  "it": "Gordita, carne",
+  "fr": "Gordita, viande",
+  "es": "Gordita, carne",
+  "de": "Gordita, Fleisch",
+  "pt": "Gordita, carne"
+ },
+ "6517": {
+  "it": "Gordita, carne, con fagioli",
+  "fr": "Gordita, viande, avec haricots",
+  "es": "Gordita, carne, con frijoles",
+  "de": "Gordita, Fleisch, mit Bohnen",
+  "pt": "Gordita, carne, com feijão"
+ },
+ "6518": {
+  "it": "Gordita, con fagioli",
+  "fr": "Gordita, avec haricots",
+  "es": "Gordita, con frijoles",
+  "de": "Gordita, mit Bohnen",
+  "pt": "Gordita, com feijão"
+ },
+ "6519": {
+  "it": "Gordita/sope, base semplice, senza ripieno",
+  "fr": "Coque de gordita/sope, nature, sans garniture",
+  "es": "Base de gordita/sope, simple, sin relleno",
+  "de": "Gordita-/Sope-Fladen, pur, ohne Füllung",
+  "pt": "Base de gordita/sope, simples, sem recheio"
+ },
+ "6520": {
+  "it": "Zucca spugna (luffa), cotta, bollita, sgocciolata, con sale",
+  "fr": "Courge éponge (luffa), cuite, bouillie, égouttée, avec sel",
+  "es": "Calabaza esponja (lufa), cocida, hervida, escurrida, con sal",
+  "de": "Schwammkürbis (Luffa), gegart, gekocht, abgetropft, mit Salz",
+  "pt": "Bucha vegetal (lufa), cozida em água, escorrida, com sal"
+ },
+ "6521": {
+  "it": "Zucca spugna (luffa), cotta, bollita, sgocciolata, senza sale",
+  "fr": "Courge éponge (luffa), cuite, bouillie, égouttée, sans sel",
+  "es": "Calabaza esponja (lufa), cocida, hervida, escurrida, sin sal",
+  "de": "Schwammkürbis (Luffa), gegart, gekocht, abgetropft, ohne Salz",
+  "pt": "Bucha vegetal (lufa), cozida em água, escorrida, sem sal"
+ },
+ "6522": {
+  "it": "Zucca spugna (luffa), cruda",
+  "fr": "Courge éponge (luffa), crue",
+  "es": "Calabaza esponja (lufa), cruda",
+  "de": "Schwammkürbis (Luffa), roh",
+  "pt": "Bucha vegetal (lufa), crua"
+ },
+ "6523": {
+  "it": "Zucca calabash a fiore bianco, cotta, bollita, sgocciolata, con sale",
+  "fr": "Calebasse à fleurs blanches, cuite, bouillie, égouttée, avec sel",
+  "es": "Calabaza de flor blanca, cocida, hervida, escurrida, con sal",
+  "de": "Weißblütiger Flaschenkürbis, gegart, gekocht, abgetropft, mit Salz",
+  "pt": "Cabaça de flor branca, cozida em água, escorrida, com sal"
+ },
+ "6524": {
+  "it": "Zucca calabash a fiore bianco, cotta, bollita, sgocciolata, senza sale",
+  "fr": "Calebasse à fleurs blanches, cuite, bouillie, égouttée, sans sel",
+  "es": "Calabaza de flor blanca, cocida, hervida, escurrida, sin sal",
+  "de": "Weißblütiger Flaschenkürbis, gegart, gekocht, abgetropft, ohne Salz",
+  "pt": "Cabaça de flor branca, cozida em água, escorrida, sem sal"
+ },
+ "6525": {
+  "it": "Zucca calabash a fiore bianco, cruda",
+  "fr": "Calebasse à fleurs blanches, crue",
+  "es": "Calabaza de flor blanca, cruda",
+  "de": "Weißblütiger Flaschenkürbis, roh",
+  "pt": "Cabaça de flor branca, crua"
+ },
+ "6526": {
+  "it": "Biscotti Graham",
+  "fr": "Biscuits Graham",
+  "es": "Galletas Graham",
+  "de": "Graham-Cracker",
+  "pt": "Biscoitos Graham"
+ },
+ "6527": {
+  "it": "Biscotti Graham (Teddy Grahams)",
+  "fr": "Biscuits Graham (Teddy Grahams)",
+  "es": "Galletas Graham (Teddy Grahams)",
+  "de": "Graham-Cracker (Teddy Grahams)",
+  "pt": "Biscoitos Graham (Teddy Grahams)"
+ },
+ "6528": {
+  "it": "Biscotti Graham ricoperti di cioccolato",
+  "fr": "Biscuits Graham enrobés de chocolat",
+  "es": "Galletas Graham cubiertas de chocolate",
+  "de": "Mit Schokolade überzogene Graham-Cracker",
+  "pt": "Biscoitos Graham cobertos de chocolate"
+ },
+ "6529": {
+  "it": "Biscotti Graham a ridotto contenuto di grassi",
+  "fr": "Biscuits Graham à teneur réduite en matières grasses",
+  "es": "Galletas Graham reducidas en grasa",
+  "de": "Graham-Cracker, fettarm",
+  "pt": "Biscoitos Graham com teor reduzido de gordura"
+ },
+ "6530": {
+  "it": "Biscotti Graham sandwich, con ripieno",
+  "fr": "Biscuits Graham sandwich, fourrés",
+  "es": "Galletas Graham tipo sándwich, rellenas",
+  "de": "Graham-Sandwich-Cracker mit Füllung",
+  "pt": "Biscoitos Graham tipo sanduíche, recheados"
+ },
+ "6531": {
+  "it": "Barretta di granola morbida, ricoperta di cioccolato al latte, al burro di arachidi",
+  "fr": "Barre tendre de granola, enrobée de chocolat au lait, au beurre d'arachide",
+  "es": "Barra blanda de granola, cubierta de chocolate con leche, de mantequilla de cacahuete",
+  "de": "Weicher Müsliriegel, mit Milchschokolade überzogen, Erdnussbutter",
+  "pt": "Barra macia de granola, coberta com chocolate ao leite, de pasta de amendoim"
+ },
+ "6532": {
+  "it": "Bevanda a base di succo d'uva, leggera",
+  "fr": "Boisson à base de jus de raisin, légère",
+  "es": "Bebida a base de jugo de uva, ligera",
+  "de": "Leichtes Traubensaftgetränk",
+  "pt": "Bebida à base de suco de uva, light"
+ },
+ "6533": {
+  "it": "Succo d'uva, 100%",
+  "fr": "Jus de raisin, 100 %",
+  "es": "Jugo de uva, 100 %",
+  "de": "Traubensaft, 100 %",
+  "pt": "Suco de uva, 100%"
+ },
+ "6534": {
+  "it": "Succo d'uva, 100%, con calcio aggiunto",
+  "fr": "Jus de raisin, 100 %, avec calcium ajouté",
+  "es": "Jugo de uva, 100 %, con calcio añadido",
+  "de": "Traubensaft, 100 %, mit zugesetztem Calcium",
+  "pt": "Suco de uva, 100%, com cálcio adicionado"
+ },
+ "6535": {
+  "it": "Succo d'uva, in scatola o bottiglia, non zuccherato, con acido ascorbico aggiunto",
+  "fr": "Jus de raisin, en conserve ou en bouteille, non sucré, avec acide ascorbique ajouté",
+  "es": "Jugo de uva, en conserva o botella, sin azúcar, con ácido ascórbico añadido",
+  "de": "Traubensaft, aus der Dose oder Flasche, ungesüßt, mit zugesetzter Ascorbinsäure",
+  "pt": "Suco de uva, enlatado ou engarrafado, sem açúcar, com ácido ascórbico adicionado"
+ },
+ "6536": {
+  "it": "Succo d'uva, in scatola o bottiglia, non zuccherato, con acido ascorbico e calcio aggiunti",
+  "fr": "Jus de raisin, en conserve ou en bouteille, non sucré, avec acide ascorbique et calcium ajoutés",
+  "es": "Jugo de uva, en conserva o botella, sin azúcar, con ácido ascórbico y calcio añadidos",
+  "de": "Traubensaft, aus der Dose oder Flasche, ungesüßt, mit zugesetzter Ascorbinsäure und Calcium",
+  "pt": "Suco de uva, enlatado ou engarrafado, sem açúcar, com ácido ascórbico e cálcio adicionados"
+ },
+ "6537": {
+  "it": "Succo d'uva, in scatola o bottiglia, non zuccherato, senza acido ascorbico aggiunto",
+  "fr": "Jus de raisin, en conserve ou en bouteille, non sucré, sans acide ascorbique ajouté",
+  "es": "Jugo de uva, en conserva o botella, sin azúcar, sin ácido ascórbico añadido",
+  "de": "Traubensaft, aus der Dose oder Flasche, ungesüßt, ohne zugesetzte Ascorbinsäure",
+  "pt": "Suco de uva, enlatado ou engarrafado, sem açúcar, sem ácido ascórbico adicionado"
+ },
+ "6538": {
+  "it": "Succo d'uva, viola, con vitamina C aggiunta, da concentrato, stabile a temperatura ambiente",
+  "fr": "Jus de raisin, violet, avec vitamine C ajoutée, à partir de concentré, stable à température ambiante",
+  "es": "Jugo de uva, morado, con vitamina C añadida, a partir de concentrado, estable a temperatura ambiente",
+  "de": "Traubensaft, violett, mit zugesetztem Vitamin C, aus Konzentrat, ungekühlt haltbar",
+  "pt": "Suco de uva, roxo, com vitamina C adicionada, de concentrado, estável em temperatura ambiente"
+ },
+ "6539": {
+  "it": "Succo d'uva, bianco, con vitamina C aggiunta, da concentrato, stabile a temperatura ambiente",
+  "fr": "Jus de raisin, blanc, avec vitamine C ajoutée, à partir de concentré, stable à température ambiante",
+  "es": "Jugo de uva, blanco, con vitamina C añadida, a partir de concentrado, estable a temperatura ambiente",
+  "de": "Traubensaft, weiß, mit zugesetztem Vitamin C, aus Konzentrat, ungekühlt haltbar",
+  "pt": "Suco de uva, branco, com vitamina C adicionada, de concentrado, estável em temperatura ambiente"
+ },
+ "6540": {
+  "it": "Foglie di vite ripiene di riso",
+  "fr": "Feuilles de vigne farcies au riz",
+  "es": "Hojas de parra rellenas de arroz",
+  "de": "Weinblätter, mit Reis gefüllt",
+  "pt": "Folhas de uva recheadas com arroz"
+ },
+ "6541": {
+  "it": "Foglie di vite, in scatola",
+  "fr": "Feuilles de vigne, en conserve",
+  "es": "Hojas de parra, en conserva",
+  "de": "Weinblätter, aus der Dose",
+  "pt": "Folhas de uva, enlatadas"
+ },
+ "6542": {
+  "it": "Foglie di vite, crude",
+  "fr": "Feuilles de vigne, crues",
+  "es": "Hojas de parra, crudas",
+  "de": "Weinblätter, roh",
+  "pt": "Folhas de uva, cruas"
+ },
+ "6543": {
+  "it": "Succo di pompelmo, 100%, in scatola, bottiglia o cartone",
+  "fr": "Jus de pamplemousse, 100 %, en conserve, en bouteille ou en carton",
+  "es": "Jugo de toronja, 100 %, en conserva, botella o cartón",
+  "de": "Grapefruitsaft, 100 %, aus der Dose, Flasche oder Packung",
+  "pt": "Suco de toranja, 100%, enlatado, engarrafado ou em embalagem cartonada"
+ },
+ "6544": {
+  "it": "Succo di pompelmo, 100%, appena spremuto",
+  "fr": "Jus de pamplemousse, 100 %, fraîchement pressé",
+  "es": "Jugo de toronja, 100 %, recién exprimido",
+  "de": "Grapefruitsaft, 100 %, frisch gepresst",
+  "pt": "Suco de toranja, 100%, espremido na hora"
+ },
+ "6545": {
+  "it": "Succo di pompelmo, 100%, forma non specificata",
+  "fr": "Jus de pamplemousse, 100 %, forme non précisée",
+  "es": "Jugo de toronja, 100 %, forma no especificada",
+  "de": "Grapefruitsaft, 100 %, Form nicht angegeben",
+  "pt": "Suco de toranja, 100%, forma não especificada"
+ },
+ "6546": {
+  "it": "Succo di pompelmo, 100%, con calcio aggiunto",
+  "fr": "Jus de pamplemousse, 100 %, avec calcium ajouté",
+  "es": "Jugo de toronja, 100 %, con calcio añadido",
+  "de": "Grapefruitsaft, 100 %, mit zugesetztem Calcium",
+  "pt": "Suco de toranja, 100%, com cálcio adicionado"
+ },
+ "6547": {
+  "it": "Succo di pompelmo, rosa o rosso, con calcio aggiunto",
+  "fr": "Jus de pamplemousse, rose ou rouge, avec calcium ajouté",
+  "es": "Jugo de toronja, rosado o rojo, con calcio añadido",
+  "de": "Grapefruitsaft, rosa oder rot, mit zugesetztem Calcium",
+  "pt": "Suco de toranja, rosa ou vermelho, com cálcio adicionado"
+ },
+ "6548": {
+  "it": "Succo di pompelmo, rosa, crudo",
+  "fr": "Jus de pamplemousse, rose, cru",
+  "es": "Jugo de toronja, rosado, crudo",
+  "de": "Grapefruitsaft, rosa, roh",
+  "pt": "Suco de toranja, rosa, cru"
+ },
+ "6549": {
+  "it": "Succo di pompelmo, rosso, non fortificato, non da concentrato, refrigerato",
+  "fr": "Jus de pamplemousse, rouge, non fortifié, non issu de concentré, réfrigéré",
+  "es": "Jugo de toronja, rojo, no fortificado, no procedente de concentrado, refrigerado",
+  "de": "Grapefruitsaft, rot, nicht angereichert, nicht aus Konzentrat, gekühlt",
+  "pt": "Suco de toranja, vermelho, não fortificado, não proveniente de concentrado, refrigerado"
+ },
+ "6550": {
+  "it": "Succo di pompelmo, bianco, in bottiglia, non zuccherato, OCEAN SPRAY",
+  "fr": "Jus de pamplemousse, blanc, en bouteille, non sucré, OCEAN SPRAY",
+  "es": "Jugo de toronja, blanco, embotellado, sin azúcar, OCEAN SPRAY",
+  "de": "Grapefruitsaft, weiß, abgefüllt, ungesüßt, OCEAN SPRAY",
+  "pt": "Suco de toranja, branco, engarrafado, sem açúcar, OCEAN SPRAY"
+ },
+ "6551": {
+  "it": "Succo di pompelmo, bianco, in scatola o bottiglia, non zuccherato",
+  "fr": "Jus de pamplemousse, blanc, en conserve ou en bouteille, non sucré",
+  "es": "Jugo de toronja, blanco, en conserva o botella, sin azúcar",
+  "de": "Grapefruitsaft, weiß, aus der Dose oder Flasche, ungesüßt",
+  "pt": "Suco de toranja, branco, enlatado ou engarrafado, sem açúcar"
+ },
+ "6552": {
+  "it": "Succo di pompelmo, bianco, in scatola, zuccherato",
+  "fr": "Jus de pamplemousse, blanc, en conserve, sucré",
+  "es": "Jugo de toronja, blanco, en conserva, azucarado",
+  "de": "Grapefruitsaft, weiß, aus der Dose, gezuckert",
+  "pt": "Suco de toranja, branco, enlatado, adoçado"
+ },
+ "6553": {
+  "it": "Succo di pompelmo, bianco, concentrato surgelato, non zuccherato, diluito con 3 volumi d'acqua",
+  "fr": "Jus de pamplemousse, blanc, concentré surgelé, non sucré, dilué avec 3 volumes d'eau",
+  "es": "Jugo de toronja, blanco, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua",
+  "de": "Grapefruitsaft, weiß, tiefgekühltes Konzentrat, ungesüßt, mit 3 Volumenteilen Wasser verdünnt",
+  "pt": "Suco de toranja, branco, concentrado congelado, sem açúcar, diluído em 3 volumes de água"
+ },
+ "6554": {
+  "it": "Succo di pompelmo, bianco, concentrato surgelato, non zuccherato, non diluito",
+  "fr": "Jus de pamplemousse, blanc, concentré surgelé, non sucré, non dilué",
+  "es": "Jugo de toronja, blanco, concentrado congelado, sin azúcar, sin diluir",
+  "de": "Grapefruitsaft, weiß, tiefgekühltes Konzentrat, ungesüßt, unverdünnt",
+  "pt": "Suco de toranja, branco, concentrado congelado, sem açúcar, não diluído"
+ },
+ "6555": {
+  "it": "Succo di pompelmo, bianco, crudo",
+  "fr": "Jus de pamplemousse, blanc, cru",
+  "es": "Jugo de toronja, blanco, crudo",
+  "de": "Grapefruitsaft, weiß, roh",
+  "pt": "Suco de toranja, branco, cru"
+ }
+}
